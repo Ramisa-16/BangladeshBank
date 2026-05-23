@@ -1,0 +1,33 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka.
+www.bb.org.bd
+
+FEPD Circular Letter No. : FEPD(FEMP)/03(a)/2016-19 Date: 28 June, 2016
+Head Offices of all Authorized Dealers.
+Dear Sirs,
+Submission of Exchange Position in Rationalized Input Template (RIT) through web portal.
+
+Your attention is invited on FEPD Circular Letter No.- FEPD(FEMP)/01/2012-29, Date: 18
+December, 2012 on the above subject. Through the circular the instruction has been given to submit the
+*.comma separated value (csv) file of daily exchange position in Rationalized Input Template (RIT)
+through the web portal within 11:00 a.m. of each working day.
+
+02.
+It is to be informed that from 01 August, 2016 the *.comma separated value (csv) file of
+daily exchange position has to be submitted in Rationalized Input Template (RIT) through the web portal
+within 10:00 a.m. of each working day. Besides, if exchange position of your bank exceeds its
+predetermined limit for any appropriate reason or if you fail to submit exchange position within stipulated
+time you have to inform this department by email (fepd.femp2@bb.org.bd) within 10:00 a.m.
+
+Other instructions of the above mentioned circular letter will remain unchanged.
+
+
+
+Yours faithfully,
+
+(Jagannath Chandra Ghosh)
+Deputy General Manager
+Phone: 9530092

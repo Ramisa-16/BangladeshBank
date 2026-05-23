@@ -1,0 +1,309 @@
+--- Page 1 ---
+Page 1 of 7
+
+
+
+
+Banking Regulation & Policy
+Department
+Bangladesh Bank
+Head Office
+Dhaka
+Website: www.bb.org.bd
+
+
+16 January 2022
+BRPD Circular No. 01 Date: ------------------------
+
+
+
+
+
+
+02 Magh 1428
+
+Managing Director/Chief Executives
+All Scheduled Banks in Bangladesh.
+
+Dear Sir,
+Single Borrower and Large Loan Exposure Limit
+Please refer to BRPD Circular No. 02 dated 16 January 2014, BRPD Circular Letter No. 14 dated 09
+June 2014 and BRPD Circular Letter No. 04 dated 10 May 2016 on the captioned subject.
+With a view to strengthening credit risk management of banks by limiting concentrated exposures
+and thereby further improving the stability of banking sector, Bangladesh Bank is issuing this
+circular consolidating all instructions issued so far on the subject and making some amendments.
+1) Definition and Interpretation – For the purpose of this circular:
+A. “Capital” – means the capital held by banks as per Clause (1) of Section-13 of the Bank
+Company Act, 1991, as amended.
+B. “Exposure” – means credit exposure (funded and non-funded) and refers to all claims,
+commitments and contingent liabilities arising from on and off-balance sheet transactions,
+which include, but not limited to, outstanding loans/financing facilities, advances and
+receivables. These amounts comprise outstanding balance (i.e. principal amount and accrued
+interest/profit) which has not yet been repaid as on reporting date. In case of loans that are
+backed by cash and/or readily encashable securities maintained with the same bank (e.g. FDR
+of the same bank) under lien, exposure can be calculated after deducting the secured/covered
+amount from the outstanding balance of the associated loans.
+i) “Funded Exposure” – means the exposure for which the bank has provided or shall
+provide funds to the borrower or to a third party on behalf of the borrower;
+ii) “Non-funded Exposure” – means the off-balance sheet exposure which has not yet been
+funded by the bank and may or may not be converted into funded facilities in future.
+Examples, letter of credit, guarantee, acceptance, commitment etc;
+iii) “Large Loan” – refers to any exposure to a single person/counterparty or a group which
+is equal to or greater than 10% of the capital as mentioned in Paragraph 1(A) of this
+circular.
+
+--- Page 2 ---
+Page 2 of 7
+
+C. “Non-conforming Exposure” – if an exposure is within the limit [limit set forth in
+Paragraph 2] when made but subsequently exceeds the limit, the exposure will be treated as
+„non-conforming‟ which may arise from any of the following circumstances:
+The bank‟s capital declines;
+ii) Capital rules or the lending limits undergo changes;
+iii) Non-funded exposure (under approved limit) turns into funded exposure;
+iv) The borrower‟s exposure increases due to applied interest;
+The borrower merges or forms a common enterprise with another borrower;
+vi) The bank merges with another bank which also holds exposures to the borrower;
+vii) Percentage of classified loan increases;
+viii) The bank‟s total exposure decreases.
+D. “Person” – means a natural person or a legal person i.e., company, corporation, associate,
+trust, joint venture, partnership or other business enterprise etc.
+E. “Group” – includes any borrower and any other person, organization, or company involved
+directly or indirectly with that person whose financial well-being affects the financial
+condition of others or whose liabilities or advantages fall on others because of the existing
+relationships between them. Nevertheless, a public limited company, which has 50% or more
+public shareholdings, shall not be considered as an enterprise/organization of any group; thus
+shall be treated as a single person/counterparty. Furthermore, if more than one
+enterprise/organization is connected with such public limited company through meeting any
+of the criteria mentioned below, those connected enterprise/organizations shall fall under a
+group due to their connectedness with the public limited company even if there is no
+connection among those individual enterprise/organizations.
+Group exists if at least one of the following criteria is satisfied:
+i) Connectedness on the basis of Control: Two or more persons shall be deemed to be a group
+if one person has the ability, directly or indirectly, to control the other person(s) or to exercise
+significant influence over the financial and operating decisions of the other person(s), or if
+both persons are subject to common control or common significant influence. When at least
+one of the following criterion is satisfied, connectedness is established:
+(a) The criterion for control is met automatically if one person holds more than 50% of
+ownership or voting rights of another person. Moreover, the criterion is met based on
+control through significant influence when the percentage of ownership or voting rights
+falls between 20% to 50%; or
+(b) The percentage of ownership and voting rights is less than 20%, but at least one of the
+criterion specified below is satisfied:
+(1) Ability to appoint or dismiss an entity‟s administrative, management or supervisory
+body, such as the ability to appoint or remove a majority of members in those
+bodies, or the capacity to appoint a majority of members solely as a result of the
+exercise of an individual entity‟s voting rights;
+
+--- Page 3 ---
+Page 3 of 7
+
+(2) Ability to exert a dominant influence on management, e.g. one person has the power,
+pursuant to a contract or otherwise, to exercise a controlling influence over the
+management of another person (e.g. through consent rights over key decisions);
+(3) Participation in policy-making processes that enables to direct the activities of the
+other so as to obtain benefits from its activities, e.g. including participation in
+decisions about dividends or other distributions as well as to decide on crucial
+transactions such as the transfer of profit or loss of the other;
+(4) Commonality of management or interchange of managerial personnel, e.g. single
+MD/CEO serving different entities collectively or interchangeably;
+(5) Commonality of ownership or interchange of ownership status, e.g. same person
+representing as Chairman or Director of Board (other than independent director) of
+different companies.
+Banks are also expected to refer to criteria specified in appropriate internationally recognized
+accounting standards for further qualitatively based guidance when determining control.
+ii) Connectedness on the basis of Economic Interdependence: Economic dependence of one
+party on another or other parties results in all of them being considered connected. That is, if
+one of them were to experience financial problems, in particular funding or repayment
+difficulties, the other or all of the others would, as a result, also be likely to encounter funding
+or repayment difficulties. Connectedness based on economic interdependence will be
+established when at least one of the criterion specified below is satisfied:
+(a) At least 50 percent of one counterparty's gross receipts or gross expenditures (on an annual
+basis) is derived from transactions with one single counterparty or 50% of one
+counterparty‟s production/output is sold to one single counterparty;
+(b) One counterparty has fully or partly guaranteed the exposure of the other counterparty, or is
+liable by other means, and the exposure is so significant for the guarantor that it is likely to
+default if a claim occurs;
+(c) The expected source of repayment for each loan is the same and neither counterparty has
+another source of income from which the loan may be fully repaid;
+(d) It is likely that the financial problems of one counterparty would cause difficulties for the
+other counterparties in terms of full and timely repayment of liabilities;
+(e) The insolvency or default of one of them is likely to be associated with the insolvency or
+default of the other(s);
+(f) Significant association or relationship exists among counterparties, e.g. sharing of common
+facilities and/or branding platform;
+(g) One counterparty enjoys inner credit limit/combined credit limit along with other
+counterparty(s);
+(h) Counterparties which are enlisted in the website of a group.
+
+Furthermore, banks shall consider other relevant aggregation criteria based on experience and
+judgment which may be indicative of connectedness between single counterparty and their connected
+persons. In case of a split in the group, having doubts about the bona fides of the split, a reference
+may be made to Bangladesh Bank for its final view on the matter to preclude the possibility of a split
+being engineered in order to prevent coverage under the Group.
+
+--- Page 4 ---
+Page 4 of 7
+
+
+2) Exposure Limits – The following limits shall apply:
+A. Single Person/Counterparty or Group:
+i) Aggregate Principal Exposure:
+(a) The aggregate principal amount of funded and non-funded exposure to a single
+person/counterparty or a group shall not exceed 25% of the capital at any point of time.
+(b) The aggregate principal amount of funded exposure to a single person/counterparty or a
+group shall not exceed 15% of the capital at any point of time.
+ii) Applicable Conversion Factor:
+(a) In order to calculate aggregate principal amount [as specified in Paragraph 2(A)(i)(a)], a
+conversion factor of 0.50 shall be used against non-funded exposure; i.e. 100% of funded
+exposure and 50% of non-funded exposure shall be considered.
+(b) While calculating aggregate principal amount [as specified in Paragraph 2(A)(i)(a)] for
+credit facilities sanctioned in order to produce, transmit and distribute electricity against
+any award provided by the Power Division of the Ministry of Power, Energy and Mineral
+Resources or the institutions controlled by the said division, a conversion factor of 0.25
+shall be used against non-funded exposure; i.e. 100% of funded exposure and 25% of non-
+funded exposure shall be taken into account.
+
+B. Large Loan:
+i) Aggregate Exposure: The banks shall sanction large loans as per the following limits set
+against their respective classified loans:
+Percentage of Classified Loan
+to Total Outstanding
+Large Loan Portfolio Ceiling against
+Bank's Total Loans & Advances
+Less than or equal to 3%
+50%
+Greater than 3% but less than or equal to 5%
+46%
+Greater than 5% but less than or equal to 10%
+42%
+Greater than 10% but less than or equal to 15%
+38%
+Greater than 15% but less than or equal to 20%
+34%
+Greater than 20%
+30%
+
+However, the aggregate amount of large loan exposure shall not exceed 400% of bank‟s
+capital at any point of time.
+ii) Applicable Conversion Factor: In order to determine Large Loan Portfolio Ceiling of any
+bank, 100% of funded exposure, 50% of non-funded exposure except for power sector and
+25% of non-funded exposure in power sector shall be included in total Loans & Advances as
+well as in large loan exposure.
+
+--- Page 5 ---
+Page 5 of 7
+
+For example, if a bank’s Classified Loan is 3%, according to this policy, the bank may have large
+loan exposure up to 50% of its total Loans & Advances provided that such exposure does not exceed
+400% of the bank’s capital. Thus the large loan portfolio ceiling formula for the bank will be as
+below:
+(Total Funded Large Loan Exposure + Total Non-funded Large Loan Exposure except for
+power sector*50% + Total Non-funded Large Loan Exposure in power sector*25%)
+(Bank’s Total Funded Exposure+ Bank’s Total Non-funded Exposure except for
+power sector *50% + Bank’s Total Non-funded Exposure in power sector*25%)
+
+3) Exceptions: In order to allow banks to accommodate prudently the genuine credit needs of
+creditworthy borrowers, notwithstanding anything contained in this circular, the following
+exceptions shall be applicable to the limits set forth:
+A. In case of credit facilities provided to the government or against government guarantees and
+AAA rated Multilateral Development Banks‟ (MDBs) guarantee, the aforementioned
+restrictions set forth in Paragraph 2 shall not be applicable.
+[Note: Multilateral Development Banks (MDBs) include: the World Bank Group comprising
+the International Bank for Reconstruction and Development (IBRD) and the International
+Finance Corporation (IFC), the Asian Development Bank (ADB), the African Development
+Bank (AfDB), the European Bank for Reconstruction and Development (EBRD), the Inter-
+American Development Bank (IADB), the European Investment Bank (EIB), the European
+Investment Fund (EIF), the Nordic Investment Bank (NIB), the Caribbean Development
+Bank (CDB), the Islamic Development Bank (IDB) and the Council of Europe Development
+Bank (CEDB).]
+B. In case of interbank money market transactions with a contractual maturity of less than one
+year, the aforementioned restrictions set forth in Paragraph 2 shall not be applicable.
+
+4) Prudential Norms:
+A. Banks shall collect pertinent loan information on their borrowers from Credit Information
+Bureau (CIB) of Bangladesh Bank before sanctioning, renewing or rescheduling loans in
+order to ensure that credit facilities are not being provided to defaulters.
+B. Banks shall adopt Internal Credit Risk Rating System (ICRRS) as an integral part of credit
+risk management and follow accordingly while sanctioning, renewing or enhancing large
+loans.
+C. While sanctioning or renewing large loans, banks shall assess their borrower's overall debt
+repayment capacity by taking into consideration the borrower's liabilities with other banks
+and financial institutions.
+D. Banks shall examine their borrower's Audited Financial Statements, i.e. Balance Sheet,
+Income Statement, Cash Flow Statement and other financial statements, with a view to
+assessing borrower‟s loan repayment capacity properly.
+≤ 50%
+
+--- Page 6 ---
+Page 6 of 7
+
+E. Sanctioning, renewing or rescheduling of large loans shall be approved by the Board of
+Directors in case of local banks. Such decisions will be taken by the Country Management
+Team (or any equivalent Committee or Team) in case of foreign banks. However, while
+approving proposals of large loans, among other things, compliance with this circular shall be
+ensured.
+F. When two or more banks collectively provide credit facility to a borrower under common
+arrangement (e.g. a syndicated loan), the loan limits in Paragraph 2 shall apply to the funded
+and non-funded facilities provided by each bank and shall represent that bank‟s pro rata share
+of the total loan.
+G. The group of connected counterparties poses a “single risk”, akin to that of a single
+counterparty. Banks shall evaluate the relationship amongst clients, with reference to
+Paragraph 1(E), in order to assess the existence and the extent of a single risk. Moreover,
+banks shall exercise a reasonable degree of due diligence; i.e. Customer Due Diligence
+(CDD) including the „Know Your Customer (KYC)‟ principle in obtaining sufficient
+information on their customers to determine interconnectedness.
+H. If an exposure becomes „non-conforming‟ for any reason as mentioned in Paragraph 1(C)
+banks are required to act promptly to bring the exposure into compliance unless doing so
+would be inconsistent with prudent banking practices and adversely affect the ultimate
+recovery of the exposure. Such non-conforming exposures may be renewed, have their
+maturity extended or be restructured provided that –
+i) there is no increase in the amount of the exposure, either direct or indirect;
+ii) security collateral, if any, is not released;
+iii) there is no change in the borrower with the exception of changes resulting from a merger
+of the borrower with another person;
+iv) the renewal, extension or reschedule is not otherwise designed to avoid the requirements
+of existing policies, rules & regulations as determined by Bangladesh Bank;
+v) banks report such exposure, if any, to the Department of Off-site Supervision of
+Bangladesh Bank.
+
+5) Risk Management Expectations:
+A. Banks shall follow the instructions regarding Credit Risk Management, other Risk
+Management Guidelines, ICRRS for Banks and all other related policies/Guidelines issued by
+Bangladesh Bank from time to time.
+B. Although certain types of exposures and counterparties are excluded from the single
+borrower limit [as specified in Paragraph 3] or given preferential treatment in terms of
+definition [as specified in Paragraph 1] or exposure limits [as specified in Paragraph 2], these
+exposures are not risk-free. Banks should have adequate procedures and controls in place to
+monitor these exposures as well. In addition, banks shall also ensure that its portfolios are not
+overly concentrated in large loans.
+
+--- Page 7 ---
+Page 7 of 7
+
+6) Record Keeping:
+A. Each bank shall submit periodic statement of large loan, in specified format, to the
+Department of Off-site Supervision of Bangladesh Bank as per instructions given by that
+department.
+B. Each bank shall establish and maintain a central database containing detailed information
+pertaining to large loans provided to single person/counterparty and group as defined by this
+circular. The database shall include, at a minimum, the information required as per the
+reporting format provided by the Department of Off-site Supervision.
+C. This database shall be maintained on an ongoing basis and must be updated at least quarterly.
+7) All exposures as at the effective date of this policy which are in breach of the limits specified in
+Paragraph 2 shall be brought in compliance by 31 December 2022. As a special case, if exposure
+limit is in breach due to facility provided to Power Sector, then it can be brought in compliance
+by 31 December 2023. During this rationalization period, banks shall not increase its exposures
+to the counterparty (including its connected counterparties) that are in breach.
+8) Instructions of BRPD Circular No. 02 dated 16 January 2014 and subsequent all
+Circulars/Circular letters on the captioned subject hereby stand superseded by this circular.
+9) This directive has been issued by Bangladesh Bank in exercise of its power conferred on it under
+Sections–26(Kha) and 45 of the Bank Company Act, 1991, as amended.
+This circular will come into force from 01 April 2022.
+
+Yours faithfully,
+
+
+(Maksuda Begum)
+General Manager
+Phone: 9530252

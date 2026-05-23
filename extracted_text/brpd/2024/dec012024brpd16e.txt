@@ -1,0 +1,1170 @@
+--- Page 1 ---
+Bangladesh Bank
+Head Office
+Dhaka
+Website: www.bb.org.bd
+
+
+
+Banking Regulation and
+Policy Department
+16 Agrahayan 1431
+01 December 2024
+
+
+Managing Director/Chief Executive Officer
+All Scheduled Banks in Bangladesh.
+
+Dear Sir,
+Identification of Ultimate Beneficial Owners (UBOs) and
+Disclosure of Ownership Structure of Banks
+Please refer to the definitions of “Controlled Entity”, “Group” and “Bank-related person and
+entity” mentioned in the Section 5(ChhaChha), Section 26Kha and Section 26Ga respectively
+of Bank Company Act, 1991 (amended upto 2023). Also, please refer to the Section 37 of the
+stated Act regarding power of Bangladesh Bank to disclose information.
+02. Non-transparency in a bank ownership structure hinders the reliable identification of the bank’s
+beneficial owners, the assessment of its owners’ suitability, the quality verification of bank’s
+capital, and the proper identification of all related parties. Complex chains and layers of
+ownership are making it difficult for regulators and supervisors to trace the ultimate beneficial
+owners of a bank, specially when the shares are held by legal entities. Such abstruseness serves
+as a severe impediment to the soundness of individual banks and stability of the banking sector
+as a whole. Against this backdrop, financial sector regulators and supervisors in many
+jurisdictions are giving increasing emphasis on bringing enhanced transparency in banks’
+ownership structure.
+03. Bangladesh Bank is issuing this circular attaching “Guideline on Ultimate Beneficial Owners
+and Disclosure of Ownership Structure of Banks” to enhance banks’ ownership transparency
+and provide guidance to all scheduled banks towards identifying and verifying their ultimate
+beneficial owners.
+04. Bangladesh Bank will maintain a database on ultimate beneficial ownership information
+(hereinafter referred to also as “UBO Database”) of banks. Banks will submit the beneficial
+owner information according to the guidance in this circular using the prescribed format
+(attached as Annexure-D of the guideline) to the Division-2, Banking Regulation and Policy
+Department of Bangladesh Bank. The UBO data set must be submitted by the banks on a
+quarterly basis within next 10 (ten) days. The first data set must be submitted to Bangladesh
+Bank by 31 March 2025. Moreover, any change in beneficial ownership must be reported to
+Bangladesh Bank as soon as the entity and thereby the bank becomes aware of the change.
+Cont’d to Page-2
+BRPD Circular No. 16
+Date:
+
+--- Page 2 ---
+Page-2
+05. UBO information will be used widely for identifying bank-related persons and entities,
+calculation of single borrower exposure, large loan and significant shareholding, prior
+checking before issuing license, appointment of director, etc. Furthermore, Bangladesh Bank
+may use the information for prudential regulation and supervision purposes as well as for other
+cases if warranted.
+06. Banks will try to ensure utmost accuracy and reliability in identification of ownership structure
+through an appropriate review process, where applicable. Banks have to maintain a database of
+UBO information as well as preserve the detailed records of all identification procedures and
+decisions. Bangladesh Bank may conduct regular and special or surprise inspection when
+warranted.
+07. The Managing Director/Chief Executive Officer, Head of Share Department, and Company
+Secretary of the bank will be held responsible for compliance of this circular and to report all
+the required UBO information to Bangladesh Bank. Any violation of the instructions of this
+circular will result in punitive action under the Bank Company Act, 1991.
+08. If Bangladesh Bank has reason to believe that the bank's ownership structure is not sufficiently
+transparent or does not correspond to reality, Bangladesh Bank will have the right to recognize
+such a structure of ownership of the bank as non-transparent and take the following actions:
+a) request the bank to make changes in their ownership structure in order to make it
+transparent; (and/or)
+b) ensure that all direct and indirect shareholders in the ownership structure are fit and
+proper, by requesting them to present the relevant documentation;
+c) alternatively, apply enforcement measures.
+
+10. This directive is issued in exercise of the power vested in the Section 45 of the Bank Company
+Act, 1991.
+
+This circular will come into effect immediately.
+Yours faithfully,
+Enclosed: As stated above
+
+
+(Md. Ala Uddin)
+Director (BRPD)
+Phone: 9530095
+
+
+
+09. This circular shall be placed in the next board meeting of the banks for information of the
+board members.
+
+--- Page 3 ---
+Page 1 of 18
+
+Guideline on Ultimate Beneficial Owners and
+Disclosure of Ownership Structure of Banks
+An effective regulatory and supervisory framework should aim to ensure transparent
+ownership structures and prevent unsuitable persons from directly or indirectly acquiring
+control or exercising influence over banks, both at the bank licensing stage and continuously
+thereafter. As part of implementing global best practices and enhancing transparency in banks’
+ownership structure, Bangladesh Bank (BB) is issuing this guideline which has to be followed
+by banks meticulously and thereby assist Bangladesh Bank in effective supervision and
+regulation of individual banks and the banking system as a whole.
+1. Definitions
+1.1 Ultimate Beneficial Owner (UBO) refers to the natural person(s) who directly and/or
+indirectly own(s) or control(s) 2 (two) percent or more shares of the bank or has influence over
+a legal person on whose behalf financial transactions are conducted. It also includes those
+persons who exercise ultimate control over the bank or any legal person in bank`s ownership
+structure if this legal person directly and/or indirectly owns or controls 2 (two) percent or more
+shares of the bank.
+In the context of legal arrangements, UBO includes: (i) the settlor(s); (ii) the trustee(s); (iii) the
+protector(s) (if any); (iv) each beneficiary, or where applicable, the class of beneficiaries and
+objects of a power; and (v) any other natural person(s) exercising ultimate effective control
+over the arrangement if this legal arrangement directly and/or indirectly owns or controls 2
+(two) percent or more shares of the bank. In the case of a legal arrangement similar to an
+express trust, beneficial owner refers to the natural person(s) holding an equivalent position to
+those referred above. When the trustee and any other party to the legal arrangement is a legal
+person, the beneficial owner of that legal person should be identified.
+1.2 Legal Entities include any private or public limited companies, state-owned enterprises,
+and any trust specificities, etc.
+1.3 Direct and indirect significant shareholder means significant shareholders as defined in
+section 14Kha of the Bank Company Act, 1991 (amended up to 2023);
+1.4 The ownership structure of the bank encompasses the relationships of banks with all
+legal entities and individuals that define the control, ownership, and influence over the bank as
+like -
+a) all direct and indirect significant shareholders of the banks (including public companies
+or government bodies) and those who can exercise control and influence in the bank;
+b) all UBOs of the bank and all final legal entities in the ownership chain of the bank for
+which there are no ultimate beneficial owners;
+c) relations of control and influence over the bank and between all the persons referred
+above.
+1.5 Control refers to the definition as per section 5(ChhaChha) of Bank Company Act 1991
+including the exercise of influence over financial and operating policy decisions of the bank or
+legal entity.
+
+--- Page 4 ---
+Page 2 of 18
+
+1.6 Joint control is the arranged sharing of control among two or more persons over an entity
+under an implicit or explicit agreement between them.
+1.7 Non-transparent Ownership Structures include (i) excessive layers of ownership (for
+example, chains of holding companies), often complicated by cross-holdings between legal
+entities; (ii) owners’ residency in foreign jurisdictions that do not support effective cross-
+border cooperation on supervision; (iii) complex usage of available legal persons and
+arrangements (for example, special purpose vehicles, trusts) aiming to separate legal and
+beneficial ownership; and (iv) usage of formal and informal nominee shareholders and
+directors, shell companies and other instruments that does not give possibility to clearly
+identify ultimate beneficial owners of the bank. Although non-transparent shareholding
+structures typically use a chain of legal entities to create a corporate veil, this is not always the
+case. A bank may have multiple nominal shareholders with relatively small equity holdings
+each that act in concert to gain control in the interest of an undisclosed UBO.
+1.8 The ownership structure of a bank should be considered non-transparent if it meets any of
+the following requirements:
+a) The ownership structure of the bank does not give possibility to determine all UBOs of
+the bank and all final legal entities in the ownership chain of the bank for which there
+are no UBO;
+b) The ownership structure of the bank does not give possibility to determine all direct
+and indirect significant shareholders of the banks and those who can exercise
+significant and controlling influence in the bank;
+c) The nature of the relationships between the persons mentioned in item 1 and 2 above
+are not clear.
+d) Documents on the ownership structure contain inaccurate information;
+e) If Bangladesh Bank has a reason to believe that the bank's ownership structure does not
+correspond to reality, BB will have the right to request additional documents from the
+bank or any person in the ownership structure.
+f) If Bangladesh Bank has a reason to believe that a person indicated as UBO in the
+bank's ownership structure is a nominal owner, i.e. a person, who owns shares or
+interests in a legal entity, acts in favor of another person.
+g) Bangladesh Bank established an unsatisfactory financial standing or was not able to
+confirm that funds were obtained from clean and legitimate sources for at least for two
+UBOs if they own/control collectively at least five percent of the aggregate
+participation in the bank.
+
+2. Identification Procedure of the Ultimate Beneficial Owner
+2.1 Generally, when implementing owner due diligence requirements, a holistic and risk-based
+approach should be adopted. Nonetheless, banks have to ascertain that they will effectively
+look for the natural person(s) who is/are to be considered as the UBO(s).
+2.2 While complex legal entity structures can have legitimate reasons, additional measures
+might have to be taken for understanding the structure and to be satisfied as to the identity of
+their UBO(s).
+
+--- Page 5 ---
+Page 3 of 18
+
+2.3 Ultimate beneficial owner is by definition a natural person. Therefore, UBO can only be an
+individual, and neither another legal person nor a legal arrangement.
+2.4 With regard to legal persons, the respective steps mentioned hereafter have to be followed
+until all ultimate beneficial owners have been correctly identified:
+i) Identify the natural person(s) who directly and/or indirectly hold(s) or control(s) at
+least 2 (two) percent of the shares, voting rights or ownership in a legal person;
+ii) Identify the natural person(s) who influences or controls the legal person via other
+means; and
+iii) After having exhausted all possible means and provided that there are no grounds for
+suspicion, subject to the limitations in 2.5.
+2.5 It is expected that most (if not all) ultimate beneficial owners will be identified under
+sections 2.4(i) and 2.4(ii). The measures stated in 2.4(i) and 2.4(ii) are not alternative options
+but cascading measures. Assessments under 2.4(i) and 2.4(ii) have thus each to be fully
+completed and formalized before resorting to measure 2.4(iii) which constitutes an express
+fallback option only applicable when all possible measures to identify the ultimate beneficial
+owner under 2.4(i) and 2.4(ii) have been exhausted and came to no result. Thus, identification
+of the senior management official according to section 2.4(iii) can be applied only in
+exceptional cases, provided that all means of identification are exhausted, and there are
+reasonable and well-documented grounds of why the beneficial owners under sections 2.4(i)
+and 2.4(ii) cannot be identified. In all such situations, in the documentation completed
+according to Annexure-B, C and D, bank will need to indicate clearly that the person identified
+is a senior official and not an ultimate beneficial owner identified according to steps 2.4(i) and
+2.4(ii).
+2.6 Non-identification of ultimate beneficial owners under sections 2.4(i) and 2.4(ii) can
+potentially serve as an indicator and basis for the BB to consider a bank’s ownership structure
+as non-transparent.
+2.7 Direct or indirect ownership: The threshold approach
+2.7.1 An indicative threshold referred to as the natural person owning at least 2 (two) percent
+shares or voting rights of the bank. However, from a mathematical point of view, and as a
+general principle when applying the threshold approach, where natural persons are not
+exclusively and/or directly involved in the ownership structure, the bank may need to look
+through several layers of legal entities to determine whether a natural person owns finally at
+least 2 (two) percent shares or voting rights or ownership interests of the legal person.
+2.7.2 In a one-layer structure, where the shareholder himself is, e.g., a natural person, the bank
+has to examine whether natural persons can be identified as ultimate beneficial owners, i.e.,
+natural persons who directly own or exercise at least 2 (two) percent shares or voting rights.
+2.7.3 In a multiple-layer structure, where the shareholder himself is e.g., a legal entity and
+where other legal persons are participating in the ownership structure of the shareholder entity,
+i.e. by holding more than 2 (two) percent of the shares or the voting rights, the bank has then to
+examine whether natural persons can be identified as ultimate beneficial owners, through the
+
+--- Page 6 ---
+Page 4 of 18
+
+chain of shareholdings. This process has to be repeated in a cascade manner, where multiple
+layers are present, until all ultimate beneficial owners have been identified.
+2.7.4 The threshold of ‘2 (two) percent’ is only indicative entailing that the sole application of
+this threshold might in certain cases not suffice to identify the correct ultimate beneficial
+owner. A cumulative shareholding of at least 2 (two) percent may be recognized through direct
+and/or indirect ownership. Again, a concerted ownership may be established as a result of
+relations between two or more natural persons which is ultimately a joint or in concert UBO.
+2.8 Control through any other means:
+2.8.1 For some shareholders, after having applied the ownership threshold approach, it may
+become clear that ownership is spread over a large number of natural persons with none
+owning threshold level of the shares or voting rights. In such cases, and as a simple
+mathematical application may not appear as sufficient, the ultimate beneficial owner(s) still
+need(s) to be identified via the second step of the procedure, namely identifying the natural
+person(s) who control(s) the entity by any other means.
+2.8.2 Control by “any other means” should be interpreted broadly, namely having the power to
+exercise or actually exercise dominant influence or control by any means over the bank.
+Understanding the management and governance structure of the shareholding person or entity
+will assist in establishing that/those natural people(s) with influence or control over the bank.
+The circumstances of each individual case will be decisive.
+2.8.3 In determining the natural person(s) effectively controlling the bank which is not an
+individual (i.e. a legal entity or legal arrangement), the following non-exhaustive factors may
+be useful to consider, always on a case-by-case basis:
+a) Individuals having the exclusive right to exercise the power to appoint or bring change
+in the management of the legal person which determines the financial and business
+policy;
+b) Individuals participating in policy-making processes that enables to direct the activities
+of the entity so as to obtain benefits from its activities;
+c) Presence of nonresidents in the ownership structure from foreign jurisdictions that do
+not support effective cross-border cooperation on supervision;
+d) Presence of a discretionary trust in the ownership structures;
+e) Excessive presence or use of nominated directors;
+f) Individuals granted control through shareholders’ agreements;
+g) Individuals with the ability to de facto control the shareholding entity or the bank;
+h) Individuals that regularly intervene otherwise in the relationship without the need to
+exercise for example official/formal representative functions of the company;
+i) Individuals having the right to use all or part of the assets of a legal person;
+j) Former shareholder or management member exercising a significant influence on the
+legal entity;
+k) Personal relationships with the shareholding entity or bank, for example family
+members,
+
+--- Page 7 ---
+Page 5 of 18
+
+l) Individuals possessing a significant minority interest whereas the other shareholders
+having significantly lower participations;
+At the same time, it is necessary to highlight that the presence of one or a few factors of control
+through other means described above can potentially serve as an indicator and basis for the BB
+to consider a bank’s ownership structure as non-transparent.
+2.8.4 The exercise of control through a dominant influence is also conceivable through the
+interaction of different parallel strands within a legal entity shareholder. When for example, a
+shareholding is split into several vertical parallel strands of 2 percent or less than 2 percent of
+shareholdings, which at higher level are brought together again in one natural person, then the
+latter can also qualify as the ultimate beneficial owner. Furthermore, control may be presumed
+even if control is never actually exercised, such as using, enjoying or benefiting from the
+property owned by the legal person.
+2.9 Natural Person Holding the Position of Senior Management
+2.9.1 Provided that it is impossible to identify the ultimate beneficial owner applying the
+threshold approach and to determine who is effectively in control of the bank by other means,
+and provided that there are no grounds for suspicion or any doubts in relation to the identity of
+the UBO, the third step could consist of identifying the relevant natural person who holds the
+position of senior management.
+2.9.2 The emphasis for determining a senior management official as UBO should be on the
+actual senior management responsibilities attributed and tasks performed rather than on the
+official title. The senior management official can be understood as either the executive official
+or the member of the board of directors to whom the daily management has been delegated.
+Some illustrative examples for ease of identification of UBOs are given in Annexure-A.
+2.9.3 In all possible cases, the identification and recording of the identity of the senior
+management official should not supersede the identification of the UBOs. Identification and
+recording of the identity of the senior management official (instead of identification of UBOs)
+can be applied only in exceptional cases, provided that all means of identification are
+exhausted, and there are reasonable and well-documented grounds on why the UBO (according
+to UBO definition) cannot be identified.
+2.9.4 In all situations when banks have not identified a UBO who has direct or indirect
+ownership or exercises control through other means and decided to record the identity of the
+senior management official, it should be very clearly reflected that the identified person is just
+a senior official and not a real UBO.
+
+3. Non-Applicability
+Banks are not required to identify UBOs for the following types of legal entities:
+a) The government represented by a relevant government authority;
+b) Government authority represented by State-owned enterprises;
+c) International Financial Institutions (e.g. ADB, IFC, etc.).
+
+--- Page 8 ---
+Page 6 of 18
+
+4. Documentation and Verification
+4.1 Once the ultimate beneficial owner has been identified, a bank should take reasonable
+measures to verify the identity of the UBO. The verification measures of the ultimate
+beneficial owner should comprise the following two components:
+a) Verification of identity of the ultimate beneficial owner - appropriate steps should be
+taken to verify the identity of any natural person(s) recorded as a UBO:
+(i) to prove that a natural person, who has been identified as a UBO, actually exists
+and is who they claim to be (e.g., through a review of government-issued
+identity documents).
+b) Verification of status of the ultimate beneficial owner - appropriate steps should be
+taken to verify the basis of identification of a person as a UBO:
+(i) to verify that person identified actually meet the definition of a UBO (e.g.
+through ownership, voting rights or control rights in the legal person);
+(ii) to verify that the person identified as UBO actually exercising the rights
+associated with the level of ownership and/or control in practice (e.g. to make
+sure the person is a real beneficial owner and not a nominee);
+(iii) to make sure that the identified beneficial owners are consistent with the
+structure of the legal person.
+4.2 In the process of identification of UBO through the information about how ownership is
+held or control over the bank is exercised will be verified and documented as per Annexure-B.
+Consideration should also be given as to whether the information is trustworthy.
+4.3 For the purpose of this circular, the information as per Annexure-C should be collected and
+filled in by the banks taking declaration from the ultimate beneficial owner.
+4.4 Banks need to regularly update beneficial ownership information as ultimate beneficial
+owners can change over time. The collection of new beneficial ownership information can, for
+example, be based on the periodic review and material changes like legal structure, mergers
+and acquisitions, adverse media reports, etc. The need for accurate and up-to-date information
+on the ultimate beneficial owner is a crucial factor in tracing UBO who might otherwise hide
+their identity behind a corporate structure and must be available to competent authorities.
+
+--- Page 9 ---
+Page 7 of 18
+
+Annexure-A
+Illustration: UBO Relationship
+Direct or indirect ownership: The threshold approach
+Direct Ownership Structure
+
+Note: Here natural person A and B owns 3% and 1% in XYZ Bank PLC. respectively, thereby
+Shareholder A defined as UBO directly through his ownership. Note. This is not the complete
+ownership structure of the banks. It focuses only on two shareholders A and B.
+Simple One Layer Ownership Structure
+
+Note: Here natural person A and B own 10%*50%=5% and 10%*10%=1% in XYZ Bank PLC.
+respectively, thereby Shareholder A defined as UBO indirectly through his ownership.
+Multiple Layer Ownership Structure
+
+Note: Here shareholders A owns 50% of the shares in the legal person PQ Ltd who owns 40% of the
+shares in the legal person ABCD Ltd who owns 10% in XYZ Bank PLC., thereby shareholder A
+defined as UBO through his indirect ownership of 2% (10%×40%×50%).
+XYZ Bank
+PLC
+Shareholder A
+Natural Person
+Other Shareholders
+96%
+Shareholder B
+Natural Person
+XYZ Bank
+PLC
+ABCD Limited
+(Legal Entity)
+10%
+Shareholder A
+Natural Person
+50%
+Shareholder B
+Natural Person
+10%
+Other Shareholders
+90%
+XYZ Bank
+PLC
+ABCD Limited
+(Legal Entity)
+10%
+PQ Limited
+(Legal Entity)
+40%
+Shareholder A
+Natural Person
+50%
+Other Shareholders
+90%
+
+--- Page 10 ---
+Page 8 of 18
+
+Cumulative Ownership
+
+Note: Here a shareholder D owns 1% directly and 1.2% (10%×12%) indirectly of the shares of XYZ
+Bank, thereby defined as UBO through his cumulative ownership of 2.2% shares.
+In Concert Ownership
+
+Note: Here a shareholder B owns 1% directly and another shareholder C owns 1% indirectly (both are
+below threshold level), but relations between B and C established as a concerted action represents them
+owner of 2% of XYZ Bank PLC, thereby both of them defined as joint or in concert UBO through their
+direct and indirect ownership.
+XYZ Bank
+PLC
+ABCD Limited
+(Legal Entity)
+10%
+Shareholder C
+Natural Person
+10%
+Shareholder D
+Natural Person
+12%
+Shareholder D
+Natural Person
+Other Shareholders
+89%
+XYZ Bank
+PLC
+ABCD Limited
+(Legal Entity)
+10%
+Shareholder C
+Natural Person
+10%
+Shareholder D
+Natural Person
+Shareholder B
+Natural Person
+Other Shareholders
+89%
+Arrangement to
+exercise rights in
+same way
+
+--- Page 11 ---
+Page 9 of 18
+
+Control Through any Other Means:
+Decision Control over the Bank or Legal Entity
+
+Note: Without holding a single share, natural persons Mr. X and Mr. Y may be considered as UBO
+through their direct control over decisions in a bank or over a significant shareholding legal entity. It
+may be due to personal relationships like family members, former shareholder or management member
+still exercising a significant influence on the legal entity; or ownership of assets central to the running
+of the legal entity.
+
+Majority Control
+
+Note: Here a shareholder Mr. Y owns 1.53% indirectly of the shares of XYZ Bank PLC., which is
+below the threshold level, but he owns majority shareholding in the legal person PQ Ltd (more than
+50%). Since shareholder Y exercises de facto effective control over shareholder PQ, he can be defined
+as UBO through his indirect (majority control) ownership.
+
+XYZ Bank
+PLC
+ABCD Limited
+(Legal Entity)
+10%
+Shareholder D
+Natural Person
+Other Shareholders
+86.8%
+PQ Limited
+(Legal Entity)
+2.2%
+Mr. Y
+Natural Person
+Shareholder E
+Natural Person
+Mr. X
+Natural Person
+XYZ Bank
+PLC
+ABCD Limited
+(Legal Entity)
+10%
+Shareholder D
+Natural Person
+Other Shareholders
+86%
+PQ Limited
+(Legal Entity)
+Mr. Y
+Natural Person
+51%
+Shareholder E
+Natural Person
+Control
+Over
+Decision
+Control
+Over
+Decisions
+
+--- Page 12 ---
+Page 10 of 18
+
+Decision Rights
+
+Note: Here a shareholder C owns only 20% percent of the shares of PQ Ltd. and thereby only 0.6%
+indirect ownership in XYZ Bank, yet it may have control via its absolute decision or veto rights over
+PQ Ltd. For example: decision rights over the adoption or amendment of the PQ’s business plan,
+decision rights over the PQ’s borrowing decision, decision rights over the appointment or dismissal of
+the PQ’s Management, decision rights over the PQ’s incentive program, decision rights over the change
+of the PQ’s business nature, etc.
+Decision Rights
+
+
+Note: Trust ABC has 10% ownership of XYZ Bank, with the trustee C holding the shares as the titled
+legal owner. In such scenario, the UBO of the Bank is not Trust ABC, rather the individuals that are
+parties to the trust (e.g. the settlor, protector, trustee and beneficiary) and any other person exercising
+effective control of the trust.
+As one of the beneficiaries of Trust ABC, namely Company E, is not a natural person, the UBOs of
+Company E will also be identified. As such, the UBOs in this case for XYZ Bank are natural persons A,
+B, C, D and F.
+
+XYZ Bank
+PLC
+Shareholder A
+Natural Person
+1.5%
+Other Shareholders
+94.5%
+PQ Limited
+(Legal Entity)
+Shareholder C
+Natural Person
+20%
+Shareholder E
+Natural Person
+XYZ Bank
+PLC
+ABC Trust
+(Legal Entity)
+10%
+Protector A
+Natural Person
+Settlor B
+Natural Person
+Trustee C
+Natural Person
+Beneficiary 1
+Natural Person
+Beneficiary 2
+Company E
+Shareholder F
+Natural Person
+100%
+Shareholder G
+Natural Person
+Other Shareholders
+89%
+Absolute
+Decision or
+Veto Rights
+
+--- Page 13 ---
+Page 11 of 18
+
+Annexure-B
+Information about how ownership is held
+or control is exercised over the bank
+Name of the Ultimate Beneficial Owner:
+
+
+
+(in Bangla) ……………………………………………………………………………..
+
+
+(in English Block Letter) ……….…………………………………………………….
+
+By direct shares*
+If yes:
+Number of shares*
+
+% of shares*
+
+By direct voting rights*
+If yes:
+Number of votes*
+
+% of voting
+rights*
+
+
+By indirect shares*
+If yes:
+Number of indirect
+shares*:
+
+
+% of indirect
+shares*
+
+
+Shares are held through:
+Legal name of intermediate company 1
+
+
+
+
+Unique identification number of
+intermediate company 1
+
+
+
+Legal name of intermediate company 2
+
+
+
+
+Unique identification number of
+intermediate company 2
+
+
+
+Legal name of intermediate company 3
+
+
+
+
+Unique identification number of
+intermediate company 3
+
+
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+if interest or control is held
+through indirect shares, list
+here up to three companies
+through which the interest in
+the declaring company is
+held.
+One beneficial owner can hold
+interest or control through
+different means in the same
+company.
+Fill in all of the applicable
+forms of interest or control of
+that person.
+
+--- Page 14 ---
+Page 12 of 18
+
+
+By indirect voting rights*
+If yes:
+Number of indirect
+votes*:
+
+
+% of indirect
+voting rights*
+
+
+Voting rights are held through:
+Legal name of intermediate company 1
+
+
+
+
+Unique identification number of
+intermediate company 1
+
+
+
+Legal name of intermediate company 2
+
+
+
+
+Unique identification number of
+intermediate company 2
+
+
+
+Legal name of intermediate company 3
+
+
+
+
+Unique identification number of
+intermediate company 3
+
+
+
+By other means*
+Explanation of how ownership is
+exercised
+
+
+
+
+
+Date when the beneficial interest was
+acquired [DD-MM-YYYY]
+
+
+
+
+
+Yes
+
+No
+
+Yes
+
+No
+if interest or control is held
+through indirect shares, list
+here up to three companies
+through which the interest in
+the declaring company is
+held.
+
+--- Page 15 ---
+Page 13 of 18
+
+Company Ownership Map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preparer:
+
+
+
+Signature (with seal)
+Name:
+Date:
+Reviewer and Approver:
+
+
+
+Signature (with seal)
+Name:
+Date:
+
+Example
+XYZ Bank
+PLC
+Legal Entity X
+10%
+Mr X
+60%
+Mr Y
+40%
+Other
+Shareholders
+80%
+Legal Entity Z
+(state-owned)
+10%
+Please provide a Schematic diagram of the ownership and
+control structure of the declaring bank.
+
+--- Page 16 ---
+Page 14 of 18
+
+Information about all UBOs Shareholding (direct and indirect) of the banks and those
+who can exercise control or influence over the bank
+(Example)
+
+Natural
+Persons Name
+or name of a
+legal entity
+Type of the
+person
+Type of
+Controlling
+Participation
+Identification data
+Description of the relationship between
+the person and the bank
+1 Legal Entity
+Legal
+Entity
+Direct
+Bangladesh, other
+information about Legal
+Entity
+Shareholder that owns 10% of the
+bank's shares
+2 Legal Entity Z
+Legal
+Entity.
+State
+owned
+Direct
+Bangladesh, other
+information about Legal
+Entity
+A shareholder that owns 10% of the
+bank's shares. Legal Entity Z is 100%
+state owned by the government of
+the People's Republic of Bangladesh
+Mr. X
+Natural
+Person
+Indirect
+Bangladeshi, other
+information about
+Mr. X
+A Shareholder, controller and UBO of
+the Bank that owns 60 % of Legal
+Entity X that owns 10% of the bank's
+shares
+Mr Y
+Natural
+Person
+Indirect
+Bangladeshi, other
+information about
+Mr. Y
+A Shareholder and UBO of the Bank
+that owns 40 % of Legal Entity X that
+owns 10% of the bank's shares
+
+
+
+
+
+
+Preparer:
+
+
+
+Signature (with seal)
+Name:
+Date:
+Reviewer and Approver:
+
+
+
+Signature (with seal)
+Name:
+Date:
+
+--- Page 17 ---
+Page 15 of 18
+
+Calculation of the indirect participation of Ultimate Beneficial Owners
+(UBO) of the bank
+(column Total % of Shareholding in the above table)
+(Example)
+
+
+
+
+
+No.
+Surname, first name and patronymic of an
+individual or full name of a legal entity
+Calculation, %
+Mr. X
+10 * 0.6 + 0 = 6 + 0 = 6
+Mr Y
+10 * 0.4 + 0 = 4 + 0 = 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preparer:
+
+
+
+Signature (with seal)
+Name:
+Date:
+Reviewer and Approver:
+
+
+
+Signature (with seal)
+Name:
+Date:
+
+--- Page 18 ---
+Page 16 of 18
+
+Annexure-C
+Ultimate Beneficial Ownership Declaration
+1. Name and address of Shareholder(s)/Entity:
+
+(in Bangla) ………………………………………………………………………
+
+(in English Block Letter) ………………………………………………………
+2. Details of Beneficiary Owners account(s) of Shareholder(s) along with Central Depository
+Bangladesh Limited (CDBL) Depository Participant’s ID:
+3. Details of Shareholding:
+a) Number of shareholding: …………………………………………………..….……………….
+b) Cost of shareholding:…………………………………………………………………………..
+c) Market value of the shares :……………………………………..…………….……………..
+d) Sources of fund:……………………………………………………………………………….
+4. Purchase of shares via:
+
+⃝ Market transaction
+
+⃝ Direct purchase/placement
+
+⃝ Others (please specify) ……………………………………
+5. For individual shareholder(s), holdings of his/her family members and other relatives
+a) Number of shares: ………………………………………………………………
+b) As a percentage of total shares of the bank: ……………………………………
+6. Name of the Ultimate Beneficial Owner:
+
+(in Bangla) ………………………………………………………………………
+
+(in English Block Letter) ………………………………………………………
+
+Particulars of Ultimate Beneficial Owner:
+7. Date of Birth: …………………………………………………………………………..
+8. Father’s Name: ………………………………………………………………………
+9. Mother’s Name: ………………………………………………………………………
+10. Name of Spouse: …………………………………………………………………
+11. Nationality: ……………………………………………………………………………..
+12. Gender: ……………………………………………………………………………..
+13. Place of Birth: …………………………………………………………………………….
+14. Residential Status: ⃝ Resident / ⃝ Non-Resident
+15. Occupation (in details): ……………………………………………………………….
+
+--- Page 19 ---
+Page 17 of 18
+
+16. Monthly Income: ………………………………………………………………………
+17. Source(s) of Income (in details): ………………………………………………………
+18. e-TIN : ………………………………………………………………………………
+19. Country of Residence: ………………………………………………………
+20. Residential Address: …………………………………………………………………
+21. Business/Service address: ……………………………………………………………
+22. Permanent Address: …………………………………………………………………
+23. Phone/Mobile Number: ………………………………………………………………
+24. E-mail: …………………………………………………………………………………
+25. Identification:
+
+NID No. ……………………………………………………………………..
+
+Passport No. …………………………………………………………………
+
+Declaration
+(to be filled by the Ultimate Beneficial Owner)
+I solemnly declare that -
+⃝ I was not involved in any financial misappropriation, misconduct, or irregularities during
+the last 10 (ten) years.
+⃝ I have never been declared bankrupt, insolvent, or financially unstable, nor faced any
+related legal actions or claims.
+⃝ I have never been convicted for forgery, fraud, or any other financial crimes.
+⃝ I have never been associated with any organization that have been engaged in illegal
+activities, financial mismanagement, or fraudulent practices.
+⃝ I have never been a tax defaulter.
+
+Name and Signature of Significant Shareholder(s)
+
+
+
+
+Preparer:
+
+
+
+Signature (with seal)
+Name:
+Date:
+Reviewer and Approver:
+
+
+
+Signature (with seal)
+Name:
+Date:
+
+--- Page 20 ---
+Page 18 of 18
+
+Annexure-D
+Ultimate Beneficial Owners (UBO) Information
+…………….. Bank PLC.
+As on ………………..
+Sl
+No.
+Bank
+Name
+UBO
+Name
+(Natural
+Person)
+Father’s
+Name
+Mother’s
+Name
+Nationality
+Date of Birth
+Residential
+Address
+Permanent
+Address
+NID
+No.
+Passport No.
+Passport
+Issuance
+Country
+Relations with
+Bank
+% of
+Shareholding
+Total % of
+Shareholding
+Date of becoming
+a UBO
+Date from when
+ceased to a UBO
+Description of the
+relationship between
+the person and the
+bank
+Direct
+Indirect
+XYZ
+Bank
+PLC
+Mr. X
+Mr. P
+Mrs. Q
+Bangladeshi
+(DD/MM/YYYY)
+000
+0000
+0000
+1515151551
+BD
+UBO,
+Controller and
+Controlling
+Shareholder
+
+(DD/MM/YYYY)
+(DD/MM/YYYY)
+Through Legal Entity
+X (60%), which owns
+10% of the bank's
+shares.
+Direct ownership – 0%
+of the bank's shares.
+Mr. X is UBO of the
+bank XYZ, Controller
+of Legal Entity X,
+controller of and
+controlling shareholder
+of the bank XYZ.
+XYZ
+Bank
+PLC
+Mr.Y
+Mr. A
+Mrs. B
+Bangladeshi
+(DD/MM/YYYY)
+000
+0000
+0000
+2525252552
+BD
+UBO and
+Controlling
+Shareholder
+
+(DD/MM/YYYY)
+(DD/MM/YYYY)
+Through Legal Entity
+X (40%), which owns
+10% of the bank's
+shares.
+Mr. Y is UBO, and
+controlling shareholder
+of the bank XYZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preparer:
+
+
+
+Signature (with seal)
+Name:
+Date:
+Reviewer and Approver:
+
+
+
+Signature (with seal)
+Name:
+Date:
+
+Example:

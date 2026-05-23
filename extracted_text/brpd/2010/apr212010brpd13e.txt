@@ -1,0 +1,471 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+www.bb.org.bd
+
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+April 21, 2010
+BRPD Circular No. 13 Date:---------------------
+Boishakh 08, 1417
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+
+Dear Sir,
+Guidelines on Supervisory Review Evaluation Process (SREP)
+
+Please refer to BRPD Circular No. 20, dated December 29, 2009 regarding implementation of Risk
+Based Capital Adequacy (RBCA) for banks.
+As per RBCA guidelines, banks are required to establish their own supervisory review process to
+ensure maintenance of sufficient capital to fully cover their risk exposure. Furthermore, determination of
+level of adequate capital will be subject to evaluation and dialogue between Bangladesh Bank (BB) and the
+well designated SRP team of banks’.
+The guidelines on SREP that enumerated the process of aforesaid dialogue between Bangladesh
+Bank and compliant banks’ SRP team are enclosed herewith for necessary action.
+Please acknowledge receipt.
+
+
+
+Yours sincerely,
+
+(Md. Sohrawardy)
+General Manager
+Phone: 7117825
+
+
+Encl: As above.
+
+--- Page 2 ---
+SREP
+2010
+
+
+GUIDELINES ON
+SUPERVISORY REVIEW EVALUATION PROCESS (SREP)
+
+I. Introduction
+
+Supervisory Review Process (SRP) includes regulations of bank’s own supervisory review of capital
+positions, aiming to reveal whether a bank has prudent risk management and sufficient capital to cover
+the risk profile. The elements of the Supervisory Review Evaluation Process (SREP) include the
+evaluation of the bank’s SRP by Bangladesh Bank (BB) along with dialogue between Bangladesh Bank
+(BB) and bank’s exclusive SRP team.
+
+SREP are based on four (4) internationally accepted principles:
+
+1. Measurement of own Risk Management and Capital Adequacy of Banks: Banks should have a
+process for assessing their overall capital adequacy in relation to their risk profile and a strategy for
+maintaining their capital levels.
+2. BB’s review: BB should have an exclusive team and a process manual for assessing overall risk
+management of banking industry, capital adequacy in relation to their risk profile and a strategy for
+maintaining their capital base.
+3. Capital above the regulatory minimum: Banks should have a process for assessing their overall capital
+adequacy in relation to their risk profile and a strategy for maintaining their capital levels.
+4. Supervisory action: If the banks’ capital falls short of regulatory requirement, Bangladesh Bank can
+intensify the monitoring of the banks, restricting payments of dividend and requiring the banks to
+prepare and implement a satisfactory capital adequacy restoration plan and to raise additional capital
+immediately.
+
+SRP-SREP dialogue:
+
+The assessment of capital adequacy should be the outcome of a dialogue between the Bank and BB. In
+other words, the two processes (bank’s own assessment and BB’s review) are linked up during this
+dialogue. The dialogue between BB and the bank is targeted at comparing BB’s expectations to the risks
+and their management taken into consideration by the bank while executing the SRP. The intensity and
+frequency of the dialogue is a function of the level of complexity and magnitude of the bank’s activities,
+plus the difference between the capital requirements assessed by the bank and BB.
+A SREP team will be headed by the Executive Director of Banking Regulation and Policy Department
+(BRPD) and other members of the team will be General Managers of Banking Regulation and Policy
+Department (BRPD), Department of Offsite Supervision (DOS), Banking Inspection Departments (DBI)
+1&2, Foreign Exchange Inspection & Vigilance Department (FEIVD), Foreign Exchange Policy
+Department and Deputy General Manager of Basel II Implementation Cell (Member Secretary).
+Terms of reference of the SREP team will be arranging such dialogue and evaluation of the following
+components of the banks:
+1) Minimum Capital Requirement (MCR) against Credit, Market & Operational risks
+2) Risks not fully covered under MCR (e.g. residual risk of credit risk deriving from risk mitigation
+techniques, securitization risk, model risk)
+3) Risks to be covered under SRP (Credit concentration risk, Country risk, Interest rate risk in the
+banking book, Liquidity risk, Settlement risk, Other material risks, Reputation risk, Strategic
+risk, etc.)
+
+--- Page 3 ---
+SREP
+2010
+
+
+4) External factors (risks deriving from the economic and regulatory environment, risks resulting
+from the business performance of the institution)
+5) Adequate capital against comprehensive risks.
+In the course of the SRP-SREP dialogue, BB will review the bank’s internal governance after the
+examination of the above elements. BB will also evaluate the bank’s SRP findings and may require
+additional capital under supervisory actions in respect of the bank’s financial position and prudential
+problems. Banks will submit the results of their SRP to Department of Banking Regulation and Policy
+Department as per format attached at Annexure-A.
+
+The SRP needs to be checked for the five following areas:
+ A valid capital analysis – processes to establish correlation between risk management and
+required capital
+ Comprehensive risk analysis – identification and assessment of relevant risks and their
+management
+ Adequate oversight and governance by the board of directors and top management
+ Monitoring and reporting – establishment of a structure of regular reporting on the bank’s risk
+profile and capital position along with stress test findings.
+ Internal audit mechanisms – independent review under the framework of the internal control
+system (Internal governance)
+
+The supervisory review of internal procedures is focusing not only on capital calculation methodologies
+and the size of capital, as capital cannot substitute for prudential operations but also on the assessment of
+the adequacy of internal procedures. Therefore, this assessment will focus on the harmony and
+effectiveness of internal limits, control procedures, risk management and internal governance.
+
+II. Risks not covered under MCR
+
+Residual risks
+
+As institutions mitigate risks by way of collaterals, the collaterals can pose additional risks (legal and
+documentation risks), which may deteriorate the impact of risk mitigation. For example-
+ The liquidation procedure of the collateral is difficult and time consuming,
+ The valuation of the collateral is inappropriate (e.g. overvaluation).
+Banks must be able to prove that they have proper risk management procedures in place to control the
+risks that result from the use of credit risk mitigating techniques, including residual operational and legal
+risks. The banks should have appropriate governing and control systems, valuation procedures, internal
+regulations and responsible individuals assigned for the prudent handling of risks. A regular review must
+be conducted to ensure the reliability, accuracy, authenticity of data, and check effectiveness and
+integrity of the procedures. If BB finds theses procedures and methodologies employed by the bank not
+appropriate and comprehensive, it may require the banks to take specific action or raise additional
+capital determined through the SRP-SREP dialogue.
+Securitization risk
+
+Risks deriving from securitization deals should be evaluated and managed through appropriate
+procedures to ensure in particular that the actual economic content of the transaction is fully reflected in
+risk evaluation and management decisions. If there is a securitization of revolving exposures subject to
+
+--- Page 4 ---
+SREP
+2010
+
+
+an early amortization provision, the originating bank will have liquidity plans that manage the impact of
+both scheduled and early amortization.
+
+Model risk
+
+This risk comes out of under-estimation of credit risk under the IRB approaches (e.g. assessment
+procedure, valuation, strategic plan, introducing system etc.) and leads to the bank’s financial losses.
+Model risk may be caused by the negligence, knowledge limits, insufficient data or changes which make
+approaches imperfect. It is rather difficult to quantify model risks. The bank should assess the potential
+deficiencies of the applied methods and take them into consideration during the SRP. If BB finds the
+capital requirement of the bank calculated with the applied methods insufficient to cover its risks at the
+time of its review, it may require the banks to take specific action or raise additional capital determined
+through the SRP-SREP dialogue.
+
+III. Risks to be covered under SRP
+
+Credit concentration risk
+
+Credit concentration risk may arise from exposure to a single entity / group and/or exposures in the same
+economic or geographic sector and/or credit concentration in dependent industries. Downturn in
+concentrated activities and/or areas may cause huge losses to a bank relative to its capital and can
+threaten the bank’s health or ability to maintain its core operations. Concentration will be used in a
+broader sense and also include the following criteria:
+ Concentration by economic sector or geographical location,
+ Concentration in a specific foreign currency and
+ Concentration of credit-risk mitigating techniques (concentration of collaterals or the type or
+issuer of such assets).
+All above cases may require additional capital charge against credit concentration risk under SRP. The
+level of additional capital will be determined through the SRP-SREP dialogue with the bank and its
+internal procedure of risk measurement and risk management.
+BB’s outlook concerning risk measurement and risk management: As credit concentration risk has the
+potential to be a source of extensive losses, the policy to handle this risk should always be an integral
+part of risk management system of banks. Banks should clearly document the processes and procedures
+for addressing credit concentration risk. These documents should address at least the following:
+ Each bank should have policies and procedures for managing credit concentration risk approved
+by top management for both types of concentration risks (single name and sensitivity to a
+common underlying risk factor). The policies should be reviewed regularly and the review
+should always observe changes in the bank’s risk appetite and in the external business
+environment.
+ Banks should apply internal methods/systems commensurate with their specific activities, size
+and complexity to identify and measure concentration risks.
+ Banks should operate limit mechanisms for concentration risks and these mechanisms should
+match the bank’s risk appetite and profile.
+ Banks should have adequate action schemes which would enable them to monitor, assess and
+handle the policies, procedures and limits for mitigating the credit concentration risks.
+
+--- Page 5 ---
+SREP
+2010
+
+
+ Banks should be in a position to evaluate the adequacy of assumptions which they use in their
+internal capital allocation processes employed to cover concentration risks.
+
+Quantitative criteria for managing credit concentration risk
+As regards the quantitative criteria to be used to ensure that credit concentration risk is being adequately
+addressed, the credit concentration risk calculations shall be performed at the-
+ counterparty level (i.e., large exposures),
+ portfolio level (i.e., sectoral and geographical concentrations) and
+ asset class level (i.e., liability and assets concentrations).
+For performing credit concentration risk calculations, the following information is to be outlined at the
+each of the above stated level:
+ To sort top 20 large exposures by size,
+ To sort top ‘10’ connected exposures by size,
+ To calculate portfolio concentration ratios,
+ To measure portfolio correlations and variance/covariance,
+ To reveal concentration vulnerability with stress tests.
+ To use of limits based on concentration metrics.
+ To allocate capital against the concentration risks.
+
+Country risk
+
+Country risk refers to potential losses that may be generated by an (economic, political, etc.) event that
+occurs in a specific country, where the event can be controlled by that country (government) but not by
+the bank. The issue of capital coverage for country risks has been a fully integrated element of SRP. The
+components of country risks are as follows:
+ Transfer risk,
+ Sovereign risk derives from the insolvency of the country,
+ Collective debtor risk- a significant number of debtors in a single country being unable to meet
+their obligations owing to a specific cause Examples of such a cause are war, political or social
+unrest, natural disasters and national policy failures in achieving macro-economic and/or
+financial stability
+
+Interest rate risk in the banking book
+
+Interest rate risk in the banking book has to be taken into account as a potential risk. Sources and types
+of interest rate risks in banking book are:
+ Gap or mismatch risk
+ Basis risk
+ Net Interest position risk
+ Embedded option risk etc.
+
+Liquidity risk
+
+Liquidity risk occurs when a bank is unable to fulfill its commitments in time when payment falls due.
+Banks should come up with estimates on their liquidity risk, comparing their liquid assets to short-term
+liabilities. The purpose of daily liquidity measurements is to ensure that the institution remains solvent
+
+--- Page 6 ---
+SREP
+2010
+
+
+in its day-to-day operations at all times. In order to maintain immediate liquidity, analyses are to be
+carried out concerning future liquidity as well. Regulations and procedures are to be implemented which
+serve the ongoing and forward-looking measurement and management of the institution’s financing
+position. Alternative scenarios are to be developed and decisions on net financing positions should be
+reviewed on a regular basis. Contingency plans should be available for handling a potential liquidity
+crisis. Liquidity risks can be classified into four categories:
+ Term liquidity risk (due to discrepancies between maturities),
+ Withdrawal/call risk (mass disinvestment before maturity),
+ Structural liquidity risk – when the necessary funding transactions cannot be carried out or only
+on less favorable terms,
+ Market liquidity risk
+A bank can analyze the expected changes of its liquidity by comparing the maturity of its receivables
+and payables.
+Settlement risk
+
+Settlement risk arises when an executed transaction is not settled as the standard settlement system.
+Settlement risk addresses to the credit risk and liquidity risk elements. Treasury transactions, trading
+book items (deals) and capital market dealings concluded as part of investment services convey a
+settlement risk that is a specific mix of credit and liquidity risk. The banks pose to the risk when it
+fulfills its contractual obligations (payment or delivery), but the counterparty fails or defaults to do the
+same.
+Other material risks
+
+SRP requires that the bank’s internal capital allocation process should cover all risks which have not
+been identified earlier but are material for the institution. Such risks may include e.g. strategic risk or
+reputation risk, but the institution needs to consider all risks not specified in case it can be captured in
+the institution’s operation and can be regarded as material. Risks may appear which are specific to the
+institution and derive from its non-standard activities or clientele but fall outside the scope of usual risk
+definitions. The institution is free to use its own terminology and definitions for other material risks,
+although it should be able to explain these to BB in detail, along with the related risk measurement and
+management procedures. BB is not providing a detailed list and definitions of other risks. It is the bank’s
+responsibility to map out other relevant risks for which it has to elaborate an adequate risk identification
+mechanism. The institution needs to examine the materiality of the identified risk and the result of the
+assessment. Furthermore, it has to be able to explain these satisfactorily to the BB.
+Materiality: In the context of an institution’s activities, all risks which affect the achievement of business
+objectives should be considered material. Other risks are usually difficult or impossible to quantify, thus
+their measurement and management typically call for qualitative methods. Therefore, institutions are
+advised to elaborate detailed methodologies for their evaluation and management which enable the
+revealing of risks and help to keep them under control. There might be a strong link between these risks
+and other risks, either because the former may amplify the latter (e.g. strategic risk can increase credit
+risk) or because they stem from the escalation of basic risks (e.g. IT problems carrying a high
+operational risk may also result in the fast increase of reputation risk if they impact customer systems).
+Thus the assessment of the materiality of other risks is a highly subjective exercise. BB would take a
+
+--- Page 7 ---
+SREP
+2010
+
+
+stand on this matter in the course of the SREP process, during the dialogue with the institution and on
+the basis of submitted documentation.
+
+Reputation risk
+
+Reputation risk is the current or prospective indirect risk to earnings and capital arising from adverse
+perception of the image of the financial institution on the part of customers, counterparties, shareholders,
+investors or regulators. Reputation risk may originate from the lack of compliance with industry service
+standards, failure to deliver on commitments, lack of customer-friendly service and fair market
+practices, low or inferior service quality, unreasonably high costs, a service style that does not
+harmonize with market benchmarks or customer expectations, inappropriate business conduct or
+unfavorable authority opinion and actions. Signs of significant reputation risk include the extensive and
+repeated voicing of a negative opinion on the institution’s performance and overall quality by external
+persons or organizations, especially if such negative opinion receives broad publicity along with poor
+performance by the institution which may lay the grounds for such opinions.
+
+Strategic risk
+
+Strategic risk means the current or prospective risk to earnings and capital arising from changes in the
+business environment and from adverse business decisions, or from the overlooking of changes in the
+business environment. Typical sources of strategic risk are e.g. endeavors to achieve a growth rate or
+market share that does not synchronize with the market environment, lack of timely and proper
+adherence to environmental changes, assignment of inappropriate means to correctly chosen objectives,
+poorly timed alignment to changes in the business environment, or specific actions that do not comply
+with strategic objectives. It may be a strong indication of strategic risk if the institution persistently
+proceeds against the clearly articulated requirements and trends of the economic environment in matters
+which exercise a substantial influence on its services and business performance, or if the institution fails
+to revise its strategy despite clearly identifiable and substantial changes in the environment.
+
+Consideration of external factors in Capital planning
+
+The capital requirement of assumed risks that have been examined in a static manner so far is now put in
+a dynamic context through the observation of external factors. The level of capital has to be adequate on
+an ongoing basis, not only at specific times, so that sound operations can be sustained even under
+potentially adverse turns in the economic or business environment. The capital requirement is affected
+by the economic environment (e.g. recessions), the regulatory environment and by risks arising from the
+institution’s activities (profitability, business performance). These factors are taken into consideration
+through capital planning which ensures that the institution calculates its adequate capital with a
+sufficiently forward-looking outlook. Stress tests enable the identification of necessary capital for times
+of economic recession. The adequate capital should be corrected with a view to additional capital
+requirements based on this outlook.
+Capital planning
+
+The purpose of capital planning is to enable the institution to ensure capital adequacy under changing
+economic conditions, even at times of economic recession. In the capital planning process, the following
+items should be reviewed:
+ current capital requirement of the institution,
+ planned capital consumption,
+
+--- Page 8 ---
+SREP
+2010
+
+
+ the targeted and sustainable capital level (with a view to the institution’s strategy and risk
+appetite),
+ the means of capital management: internal and external resources that can be employed to
+increase capital (profit-generating capability),
+ other employable means of ensuring capital adequacy (e.g. budgeting of dividend payments and
+balance sheet items, etc.),
+The assessment of the internal sources of capital planning calls for the review of risk arising from the
+bank’s financial management (actual performance versus business plans, profitability and profit
+generating capability). Concerning the timeline of the capital plan, BB expects a 3 to 5 year outlook,
+depending on the complexity of the institution. For smaller institutions, a three-year outlook is
+sufficient, but large institutions are required to work with a 5-year outlook. The capital plan should be
+revised on an as-needed basis but at least once in every three years and it should also be aligned to
+circumstances. In the capital planning process, it is advised to use stress test to reveal the impacts of
+unfavorable changes in circumstances.
+
+IV. Stress Testing
+
+Impact on Capital will be detected through stress testing, would be included in risk profile of a bank and
+needs maintaining shock absorbent fund in the form of regulatory capital. Stress test is a general term
+covering the techniques and methodologies which financial institutions can employ to measure their
+vulnerability or exposure to the impacts of exceptional, rare but potentially occurring events. Such
+events can be e.g. the following: interest rate changes, exchange rate fluctuations, changes in credit
+rating, events which influence liquidity, etc. There are various methods for measuring the impact of the
+above factors. In an SRP context, they are as follows:
+ Simple sensitivity tests determine the short-term sensitivity to a single risk factor,
+ Scenario analyses involve risk parameters (with low but positive probability) which change
+along a pre-defined scenario and examine the impact of these parameters.
+Out of these methods, the sensitivity test is the simpler one and institutions with a simple portfolio can
+use it best. A scenario analysis is somewhat more complicated and requires more resources. Still,
+institutions with a complex portfolio use this approach to assess risk factors which they consider
+material – after the proper calibration of scenario parameters. The time horizon of the analysis should be
+set in accordance with the composition of the portfolio. The institution should verify regularly that the
+assumed risk profile used during the stress test is in harmony with the external factors.
+As a starting point the scope of the stress test may be limited to simple sensitivity analysis. Five
+different risk factors namely:
+ interest rate,
+ forced sale value of collateral,
+ non-performing loans (NPLs),
+ stock prices and
+ foreign exchange rate
+can be identified and used for the stress testing. Moreover, the liquidity position of the institutions has to
+be stressed separately. Though the decision of creating different scenarios for stress testing is a difficult
+
+--- Page 9 ---
+SREP
+2010
+
+
+one, however, to start with, certain levels of shocks to the individual risk components to be specified
+considering the historical as well as hypothetical movement in the risk factors.
+Stress test shall be carried out assuming three different hypothetical scenarios:
+
+ Minor Level Shocks: These represent small shocks to the risk factors. The level for different risk
+factors can, however, vary.
+ Moderate Level Shocks: It envisages medium level of shocks and the level is defined in each risk
+factor separately.
+ Major Level Shocks: It involves big shocks to all the risk factors and is also defined separately
+for each risk factor.
+
+V. Internal Governance
+
+In the course of the SREP, BB will evaluate the institution’s internal governance. If it is found poor, it
+may deem it necessary to have the bank raise additional capital for covering its reported risks.
+
+--- Page 10 ---
+Annexure-A – Format for submission of SRP Findings SREP
+2010
+
+
+General Manager
+Banking Regulation and Policy Department
+Bangladesh Bank, Head Office
+Dhaka.
+Supervisory Review Process (SRP) Findings
+Dear Sir,
+1. Overview: The bank shall discuss its nature of business, risk appetite and philosophy to deal with major
+risks involved in its operations.
+2. Summary of current and projected financial position: The bank shall provide the current financial
+results and the projections of financial position for the next three years. Main assumptions with appropriate
+explanation should also be given to support the growth prospects.
+3. Summary of current and projected capital resources: The availability of capital resources (indicating
+the contribution of each component of Tier 1, Tier 2, and Tier 3) for the current operations and future needs
+should be spelt out. Capital contingency plan highlighting the sources of capital and / or alternative
+arrangements in the wake of sudden internal business shocks and/or external economic downturn, major
+investments, merger, acquisitions, sources to fund new ventures, etc.
+4. Risk Assessment and Capital Adequacy: Discussion on the analysis of following risks and capital
+allocation against each category.
+a) Risks not covered in Credit risk (s), Market risk (s) and Operational risk(s) under MCR
+b) Liquidity risk
+c) Residual risk
+d) Credit Concentration risk
+e) Interest Risk in the Banking Book
+f) Legal Risk
+g) Country risk
+h) Strategic risk
+i) Legal risk
+j) Reputational risk, and
+k) Any other risk(s) associated with the business activities of the bank
+Bank should describe the assessment procedures for these risks and rationale for selecting any particular
+method. The bank should discuss the assessment techniques used (model based, scenario analyses, and stress
+testing) and quantitative results of each risk. Qualitative measures, if any, should also be explained in the
+relevant risk class.
+
+The bank should explain present challenges faced by it to improve the risk management framework. The
+bank may develop action plans with suitable timeline to adopt/develop the sophisticated advanced techniques
+for assessment and measurement of all material risks.
+
+
+
+Yours sincerely,
+
+Managing Director/
+Chief Executive Officer.

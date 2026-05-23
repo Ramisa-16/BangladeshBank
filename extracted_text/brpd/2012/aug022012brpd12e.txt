@@ -1,0 +1,102 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+
+
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+August 02, 2012
+BRPD Circular No- 12 Date:----------------------
+Shraban 18, 1419
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+
+Dear Sir,
+
+Mapping of External Credit Assessment Institutions’ (ECAIs)
+Rating scales with Bangladesh Bank (BB) Rating Grade
+
+Please refer to BRPD Circular No. 35 dated December 29, 2010 regarding the issuance of
+Guidelines on Risk Based Capital Adequacy (RBCA) for banks. According to the guidelines, Risk
+Weighted Asset (RWA) against Credit Risk is to be computed on the basis of credit rating conducted
+by External Credit Assessment Institutions (ECAIs) duly recognized by Bangladesh Bank (BB).
+Consequently, calculated RWA and Capital Adequacy Ratio (CAR) will be reported as per specific
+reporting formats enclosed in the RBCA guidelines.
+
+2) From this point of view, Alpha Credit Rating Limited (ACRL) has been recognized as an
+eligible ECAI in addition to existing 05 (Five) rating agencies (i.e. CRISL, CRAB, NCRL, ECRL
+and ACRSL). All the scheduled banks operating in Bangladesh may nominate any one or more rating
+agency (ies) for their own and counterparty credit rating for the purpose of calculating RWA against
+credit risk as per RBCA Guidelines.
+
+3) Rating scales of CRISL, CRAB, NCRL, ECRL and ACRSL with BB rating grades has
+already been mapped earlier. Now, the rating scales of ACRL have been mapped with BB rating
+grades as given below:
+
+
+
+Please acknowledge receipt.
+
+
+
+
+
+
+
+
+Yours Sincerely,
+
+
+
+
+
+
+
+
+
+
+
+Sd/-
+
+(K. M. Abdul Wadood )
+General Manager
+Phone: 7117825
+
+
+
+
+
+
+Long Term
+Short Term
+BB’s Rating
+Grade
+Equivalent Notch/Notation of ACRL
+BB’s Rating
+Grade
+Equivalent Notch/Notation of
+ACRL
+AAA
+S1
+AR-1
+AA+, AA, AA-
+A+, A, A-
+S2
+AR 2
+BBB+, BBB, BBB-
+S3
+AR 3
+BB+, BB, BB-
+S4
+AR 4
+B+, B, B-,CCC,
+S5
+AR-5
+CC+,CC,CC-, C+, C, C-, D
+S6
+AR-6
+* Includes Default Rating (DR)

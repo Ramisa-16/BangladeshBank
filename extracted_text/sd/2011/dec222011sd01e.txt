@@ -1,0 +1,49 @@
+--- Page 1 ---
+Statistics Department
+Bangladesh Bank
+Head office, Dhaka
+Website : www.bangladeshbank.org.bd
+
+
+Statistics Department Circular No-01/2011
+Dated: December 22, 2011
+
+
+Managing Director/CEO
+All scheduled banks in Bangladesh &
+Non-Bank Depository Corporation
+
+Dear Sir,
+
+Subject: Submission of statistics department related data/information to Enterprise
+Data
+Warehouse through web portal considering January 2012 as base month.
+
+To finalize the implementation of Enterprise Data Warehouse project established in Bangladesh
+Bank, the previously reported monthly, quarterly and half yearly information in statistics
+department have to submit in Bangladesh Bank EDW through web portal by inserting
+information in prescribed RIT. The following instructions should be followed:
+
+1. Bank/NBDC should submit the both hard and soft copy (CD) of reported information as its
+present prevalent methodology unless further notification.
+
+2. Monthly, quarterly and half yearly data submission time schedule will have to follow as per
+previous time schedule.
+
+3. In parallel to new reporting procedure by RIT considering January 2012 as base month,
+present prevalent methodology based reporting will have to continue also.
+
+4. The concerned officials will have to prepare through proper training to submit monthly,
+quarterly and half yearly correct reporting by RIT from January 2012.
+
+
+
+Kindly acknowledge the receipts and bring the contents of this circular to the notice of all
+concerned.
+
+Yours faithfully
+sd/-
+(Md. Abdul Bari)
+Deputy General Manager
+Cell: 01558384968
+Phone: 9512993

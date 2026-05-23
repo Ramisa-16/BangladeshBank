@@ -1,0 +1,540 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+
+
+
+
+Banking Regulation & Policy Department
+
+Bangladesh Bank
+Head Office
+Dhaka
+
+
+
+
+BRPD Circular No - 03
+
+
+11 Falgun 1428
+
+Date: ---------------------
+
+24 February 2022
+Managing Directors/CEOs
+All Scheduled Banks in Bangladesh
+
+
+Dear Sir,
+Recovery Plan for Banks
+
+Severe stress events often threaten the financial and operational strength and viability of a
+bank company. In order to cope with such stress events, this circular is issued to provide
+guidance for the bank companies to develop Recovery Plan for preparing their responses to the
+potential shocks in advance so that they can act promptly and effectively in the event of a stress
+situation. Stress could be an isolated event or market wide or systemic event or all of three.
+
+02. Banks shall submit the Recovery Plan according to the Guidance on drafting Recovery
+Plan (attached) using the Layout (attached as Annexure-‘A’) to the Division-1, Department of
+Offsite Supervision (DOS) of BB. The first Recovery Plan must be submitted by 30 June 2022
+with the prior approval from the Board of Directors of respective banks. An update of the
+recovery plan shall have to be submitted by the banks to DOS, Division-1 on regular basis
+within 31st January each year. BB reserves the right to adjust these requirements to the
+circumstances of each bank, and will review the Recovery Plan of banks as part of regular
+ongoing supervisory process.
+
+
+03. To comply with the above mentioned instructions, Managing Directors are requested to
+place this circular in the next board meeting for information of the board members.
+
+
+04. This circular is issued under the power conferred by the section 45 of the Bank Company
+Act, 1991.
+
+
+05. This circular shall come into effect immediately.
+
+
+
+Sincerely,
+
+
+
+
+(Md. Ali Akbar Faraji)
+General Manager
+Phone-9530095
+
+
+Attachment: as stated
+
+--- Page 2 ---
+Guidance on drafting Recovery Plan
+The aim of the Recovery Plan is to protect banks’ on-going functions for the financial
+intermediation process and to uphold public confidence in the banking system. The plan shall be
+prepared, maintained and executed by a bank in accordance with the guidance provided
+hereunder. The plan should ensure maximizing the bank’s survival prospects without
+supervisory or government intervention/support/forbearanc. The plan should also help to equip a
+bank in practice for taking necessary actions to bring back its financial and operational strength.
+However, in real cases, crisis specific decisions need to be taken.
+
+01. Definitions:
+1.1. Recovery: means taking necessary and appropriate corrective action in timely
+manner by a bank in the deteriorated financial and operational situation i.e., to maintain its
+viability, as long as the concerned bank has not yet reached the stage of non-viability as
+determined by Bangladesh Bank.
+
+1.2. Recovery indicators/triggers: mean quantitative or qualitative indicators regarding
+the business strategies of a bank, the unfavorable change or deterioration of which indicate risk
+or existence of severe stress or key vulnerabilities that require recovery actions to be initiated.
+The breach of any trigger should immediately be communicated to Risk Management
+Committee (RMC) of board of directors and management with sufficient information to enable
+them to take corrective measures in response to the vulnerabilities.
+1.3. Core business lines: mean business lines and associated services that are significant
+for a bank which are material sources of its revenues and profits. Hence, banks shall follow the
+eight business lines as described under Standardized Approach in the annex 9 of BRPD circular
+no. 18 dated 21 December 2014 regarding implementation of Basel III in Bangladesh.
+1.4. Critical functions/operations/services: mean the activities, services or operations
+of a bank provided to third parties and sudden failure of which leads to financial instability due
+to contagion impact because of the size, market share, external and internal interconnectedness,
+and complexity or cross-border activities of a bank. Critical functions/operations/services are
+those which are difficult to substitute within reasonable time.
+
+02. Recovery Plan Components
+Each bank should develop and maintain a recovery plan that is specific to that bank and
+suitable or reasonable for its size, risk profile, activities, and its organizational and legal aspect.
+The recovery plan should include the following components:
+2.1. Overview of bank: A recovery plan should be a stand-alone document that
+describes the plan with sufficient background information relating to the bank's overall
+organizational
+and
+legal
+entity
+structure,
+including
+its
+subsidiaries,
+critical
+functions/operations/services, core business lines, and core management information systems.
+
+Page 1of 4
+
+--- Page 3 ---
+The plan should also describe interconnectedness and interdependencies - (i) covering business
+lines within the bank, (ii) covering a bank and its subsidiaries, and (iii) covering critical third
+parties.
+
+2.2. A brief summary of the plan: The recovery plan should include a summary
+describing the development process, the approval and validation procedures of the plan. The
+summary should include conclusions of the bank’s own analysis of the vulnerabilities and
+recovery options, as well as the bank’s assessment of its recovery capacity. The plan should
+detail the bank’s preparatory step that has been taken or measures to be taken to facilitate the
+implementation of the recovery plan or to improve its potential effectiveness by reducing
+existing hurdles that hinder the implementation of certain recovery options.
+
+2.3. Identification of triggers and key vulnerabilities: A bank should identify triggers
+that appropriately reflect its particular vulnerabilities. The nature of business activities,
+identification of core business lines, major risk drivers, and key vulnerabilities should be
+detailed in the recovery plan. The vulnerabilities may be linked to the bank’s core business lines
+and/or major sources of funding. The bank shall provide details of relevant scenarios given the
+identified vulnerabilities.
+Triggers should be set by the management and approved by the board of directors.
+Triggers may include deterioration of profitability, decrease in revenue sources, sudden
+withdrawal of deposits or funding sources or business activities, decrease in liquidity ratios,
+capital ratios, credit rating downgrades, deterioration of asset quality, operational losses, default
+of significant counterparties, cyber-attack, economic trends - such as foreign exchange rate
+changes, etc. There may be qualitative triggers that, if breached, bank will have a financial risk,
+for example, reputational risk, change of senior management officials etc. Triggers should be
+updated and reviewed as necessary, at the annual review process of the recovery plan and when
+reviewing in response to a material event.
+2.4 The stress scenarios: The stress scenarios should be comprehensive and
+contemplate the events that may threaten business continuity and the viability of the bank. Five
+stress events are provided in the Recovery Plan Layout (annexture). Banks should frame more
+severe stress events in line with the given scenarios and may also add idiosyncratic specific
+stress event, if necessary. The stress scenarios shall include, at least, hypotheses of devaluation
+of assets, reduction in borrowing capacity, reduced profitability, and deterioration in liquidity
+due to systemic or idiosyncratic instabilities of domestic or external origin.
+2.5. Credible options for recovery: A bank shall identify a list of credible options that a
+bank could adopt to restore financial strength and viability for the bank to remain as a going
+concern. A bank shall detail how it would carry out each option and the time required for
+carrying out each option, including the options that require regulatory or legal approval. These
+options could include actions such as increase of capital or the sale of certain portfolios or
+business lines; more radical actions such as disposing of certain activities or business lines,
+selling subsidiaries, or restructuring debt or any other actions or strategies aimed at restoring the
+financial soundness of the bank. These should also be implementable at very short notice with
+tangible impact in the short run. Recovery options shall include extraordinary actions which are
+not taken in the course of the bank’s normal business.
+Page 2of 4
+
+--- Page 4 ---
+Banks shall describe the preparatory actions that are needed to be ensured so that the
+measures can be implemented effectively and in a timely manner (for example, IT system
+maintenance, identification of assets for sale etc.)
+For each option, banks shall provide: (1) a brief description of the option; (2) the
+decision-making process for activating the option; (3) a qualitative risk assessment; and (4) a
+quantitative impact assessment.
+These are described below -
+a. Description of the recovery option.
+b. Decision-making process - The internal decision-making process for activating the
+option shall be described, including the steps to be followed, the required timing, and the parties
+involved in the decision.
+c. Material Impediments - The objective of this part is to assess the feasibility of the
+option and to identify the potential obstacles for implementing it. The main assumptions relating
+to the option and its feasibility shall be outlined. In particular, the conditions need to be satisfied
+in order for the option to be feasible. The main risks associated with the option, including
+financial, operational, and reputational risks, shall be reported, as well as any other significant
+risk that may not fall into these three categories. Where possible, the assessment of the risk
+associated with the recovery option shall draw on any prior experience relating to
+implementation of the recovery option or of a similar measure. Information on the profiles of
+possible buyers for sale or disposals of any activities or entities should also be provided, where
+possible. Finally, any potential legal or regulatory obstacles shall also be cited, covering - where
+relevant - the issues of shareholder rights, competition law, tax issues, and other laws.
+d. Impact analysis: For each recovery option, a bank shall analyze and describe how the
+option would affect its capital, liquidity, funding and profitability, and any legal or regulatory
+requirements. This impact analysis should also include the bank’s critical operations, core
+business lines and reputational risk. .
+2.6. Escalation procedures: The Risk Management Department (RMD) of a bank shall
+be responsible to identify and measure the stress situation, and to take timely action to escalate
+the detailed information of the situation for proper decision making by the RMC of the board of
+directors and the management of the bank.
+Banks shall have a monitoring program of the triggers and indicators contained in the
+plan. The monitoring program shall:
+allow an adequate monitoring of the risks incurred by the bank;
+reflect the magnitude and speed of change in the economic and financial status and of the
+liquidity of the bank;
+allow timely adoption of the recovery strategies;
+consider the necessary timeframe required for the recovery strategies to produce effects;
+and
+consider the business model, nature, complexity and risk profile of the bank.
+
+Page 3of 4
+
+--- Page 5 ---
+2.7. Management reporting system: Each bank shall have management reporting
+systems in place and shall assess adequacy of its existing policies and procedures, management
+information systems, and reporting system for proper implementation of recovery plan. The
+RMC of the board of a bank shall keep monitoring the overall recovery situation and inform the
+board of directors with sufficient data and information to give a clear picture of the situation and
+enable them to take decision.
+2.8. Notify BB and others: Every bank should notify Department of Off-site
+Supervision, Division-1 of Bangladesh Bank half-yearly regarding any significant breach of a
+trigger and any action taken or to be taken in response to such breach. The recovery plan should
+also address when and how the bank will notify other external parties of its action under the
+recovery plan. The recovery plan should clarify when and how the bank would obtain required
+regulatory or legal approvals.
+
+2.9. Other information: A bank shall include any other information that Bangladesh
+Bank requires related to the bank’s recovery plan.
+
+03. Integration with Other Plans
+A bank shall integrate its recovery plan into its risk governance functions. The bank
+shall also align its recovery plan with its other plans such as its strategic, operational (including
+business continuity), contingency, capital (including stress testing) and liquidity plans or
+forecasts.
+
+04. Management and Board of Directors’ Responsibilities
+
+A bank shall address the following management and board responsibilities:
+4.1. Management: Management shall reassess or verify the recovery plan at least
+annually and in response to any material event. It shall take necessary steps to reassess the plan
+as necessary to reflect significant changes in the bank's size, risk profile, activities, and
+complexity, as well as changes in external threats. Such review shall evaluate the organizational
+structure and its effectiveness in facilitating a recovery in the present situation and be put
+forward for review and approval of the board of directors.
+4.2. Board of directors: The board of directors is responsible for overseeing the bank's
+recovery planning process. The board of directors of a bank (or an appropriate committee in case
+of foreign banks) shall review and approve the recovery plan at least annually, and as needed to
+address significant changes made by management.
+A layout is provided herewith as annexure to be followed for developing and reporting
+the Recovery Plan to Bangladesh Bank.
+
+
+
+
+Page 4of 4
+
+--- Page 6 ---
+Annexure-‘A’
+Recovery Plan Layout
+1. Overview of the bank
+1.1 Board
+
+Name, address, current shareholding (both in number and percentage) of the sponsors.
+Name, address, current shareholding (both in number and percentage) of the significant
+shareholders.
+i. Board of Directors: Name, address, current shareholding (both in number and
+percentage), position, number of years in the position, family relation (if any) with
+other directors of the board.
+ii. Description of the various committee of the board: Name, position, qualification,
+years of holding the position.
+
+1.2 Management
+
+Managing Director/CEO/Country Head: Name, years of holding the position.
+
+Senior management positions
+
+
+i. Additional Managing Director
+ii. Deputy Managing Director
+iii.SEVP/GM or equivalent post
+Name, years of holding the position, years of
+service with the bank, years of direct banking
+experience, present responsibilities.
+
+Key management positions
+
+i. Head of ICC
+ii. Chief Risk Officer
+iii. Head of Treasury
+iv. Head of Credit
+v. Chief Operating Officer
+vi. Head of HR
+Name, years of holding the position, years of
+service with the bank, years of direct banking
+experience, present responsibilities.
+
+1.3 Capital Structure
+
+Under Basel III
+
+
+RWA, CRAR, Tier 1
+details, Tier 2 details
+Last quarter
+Latest Audited
+
+
+Shareholding percentage (Sponsor/director, Government, Institution, Foreign, Public).
+
+2. Business Model Analysis
+
+2.1
+a. Business lines analysis
+b. Exposure and Income generation from each of the eight business lines
+
+
+Page 1of 4
+
+--- Page 7 ---
+2.2
+
+Major asset class
+
+
+a. Corporate
+b. Retail
+c. Commercial
+
+Contractual maturity profile (0-1month, >1month to
+≤ 3months, >3months to ≤ 6months, >6months to
+≤12 months and >12 months) of all performing
+loans, showing percentage of exposure to total in
+each time bucket.
+
+d. Investment
+
+i. Listed equity
+ii. Non-listed equity
+iii. Listed fixed income
+1.Treasury Bill/BGIIB
+2. Treasury Bond
+3. Zero coupon bond
+4. Treasury Sukuk
+5. Corporate Sukuk
+iv. Non-listed fixed income
+v. Mutual Fund
+1. Open end
+2. Closed end
+vi. Floating rate bond
+vii. Perpetual instrument
+1. Listed
+2. Non-listed
+viii. SPV/AIF or similar
+
+
+
+
+
+Contractual maturity profile (0-1month, >1month to
+≤ 3months, >3months to ≤ 6months, >6months to
+≤12 months and >12 months) of all performing
+loans, showing percentage of exposure to total in
+each time bucket. Investment having no maturity
+period or having a remaining lock-in-period more
+than 12 months shall have to be reported under ‘>12
+months’ bucket.
+
+2.3
+Major Liability class
+
+
+1. Corporate:
+a. Term deposit
+b. Current deposit
+c. SND
+
+
+Segregation of liabilities as Stable
+(core, non-core) and Non-stable into
+various time bucket used for asset
+class in 2.2 considering the contractual
+maturity. Non-core stable and Non-
+stable deposit shall be put into 0 to 1
+month bucket.
+
+2. Retail:
+a. Savings deposit
+b. Term deposit
+c. Current deposit
+d. SND
+
+3. Wholesale:
+a. 0-1day
+b. 2 days-7days
+c. >7days to ≤30 days
+d. > 1month to ≤ 3 months
+e. > 3 months to ≤ 6 months
+f. > 6 months to ≤ 9 months
+g. > 9 months to ≤ 12 months
+
+
+
+
+
+According to contractual maturity.
+
+
+Page 2of 4
+
+--- Page 8 ---
+2.4
+Details of Subsidiary (50% or more shareholding) and Significant shareholding (5% or
+more) in companies and foundations created. Details of board of directors and CEO of the
+subsidiary shall be included here.
+
+3. Business Strategies
+
+3.1
+Funding Strategy
+
+1. Corporate:
+a. Stable
+i) Core
+ii) Non-core
+b. Non-stable
+
+2. Retail
+a. Stable
+i) Core
+ii) Non-core
+b. Non-stable
+
+3.Wholesale
+a. Secured credit lines
+b. Un-secured credit lines
+
+Minimum and Maximum amount of
+acceptable funding in percentage.
+3.2
+Liquidity Strategies
+
+a. Liquidity Coverage Ratio (LCR)
+b. Net Stable Funding Ratio (NSFR)
+High
+Quality
+Liquid
+Assets
+(HQLA)
+d. Advance-Deposit Ratio (ADR)
+Minimum or Maximum (whichever
+applicable) acceptable ratio.
+
+3.3
+
+Capital Strategies
+
+a. CET1 ratio
+b. CRAR
+c. Capital plan for the next five years
+d. Leverage ratio
+Minimum and Maximum (whichever
+applicable) acceptable ratio.
+
+3.4
+
+Asset Growth Strategies
+
+a. Asset growth in different asset
+class.
+b. Off-balance sheet to On-balance
+sheet asset ratio
+c. Classification ratio of different asset
+class.
+Minimum and/or Maximum (whichever
+applicable) acceptable ratio.
+
+
+
+
+
+Page 3of 4
+
+--- Page 9 ---
+3.5
+
+
+Profitability Strategies
+
+a. Return on Assets (ROA)
+b. Return on Equity (ROE)
+c. Net Interest Margin (NIM)
+d. Dividend Payout Ratio
+
+
+
+
+Minimum and/or Maximum (whichever
+applicable) acceptable ratio.
+
+
+4. Stress Scenarios
+
+4.1
+Withdrawal of deposit: 25% non-core and non-stable deposit plus 5% core deposit
+above the baseline withdrawal ratio.
+
+4.2
+Asset Quality downgrade: 5% increase in NPL and 2% increase in NPA for
+Investment other than Govt. Securities.
+
+4.3
+Earning Shock: 25% reduction in NIM from the base line scenario.
+
+4.4
+Interest rate shock: 3% parallel up/parallel down.
+
+4.5
+Equity and Investment shock: 30% reduction in market value of all listed share and
+securities including Mutual fund unit plus 10% loans provided to subsidiary and other
+capital market intermediaries become non-performing (100% provision required).
+
+
+5. Recovery plan
+
+The impact on the business strategies induced by each of the stress scenario shall be
+assessed and a recovery plan, with options and proper justification, depicting the process
+and responsibilities of persons involved must be prepared to uphold the business strategies.
+
+
+
+
+
+
+
+
+
+
+
+
+Page 4of 4

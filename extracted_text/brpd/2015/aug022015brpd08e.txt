@@ -1,0 +1,2417 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+August 02, 2015
+BRPD Circular No. 08 Date: ------------------------------
+
+
+
+
+
+
+
+Shraban 18, 1422
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+Loan Classification and Provisioning
+
+Please refer to the BRPD Circular No.14 of 2012, 19 of 2012, 05 of 2013 & 16 of 2014
+dated September 23, 2012 , December 27, 2012 , M
+ay 29, 2013 & November 18, 2014
+respectively and attached CL formats on the captioned subject.
+
+For the purpose of meticulous compliance with the Banking Companies Act, 1991
+(amended up to 2013) along with the view to strengthening banking supervision, few changes
+have been brought in the CL formats. Revised formats are attached herewith.
+
+The Enterprise Data Warehouse (EDW) template (T_PS_Q_LN_PROV) for loan
+classification and provisioning has been changed and uploaded on the Bangladesh Bank website
+accordingly.
+
+Banks are advised to report according to the amended CL formats along with the changed
+EDW template from September, 2015 quarter. All other instructions of the above circulars will
+remain unchanged.
+
+
+Yours sincerely,
+
+
+
+(Chowdhury Md. Feroz Bin Alam)
+General Manager
+Phone-9530252
+Enclo: 06 (Six)
+
+--- Page 2 ---
+CL-1
+BRANCH SUMMARY OF LOAN CLASSIFICATION AND PROVISION AS OF………………..
+Ref : BRPD Circular no. 14/2012, 19/2012, 05/2013, 16/2014, 08/2015
+Bank Name:
+Branch Name :
+Stamp of Branch Serial No………
+
+
+
+(As Provided by Bangladesh Bank)
+(AMOUNT IN TAKA)
+
+SL.
+No.
+Categories of Loans
+Total
+Balance outstanding
+Base for provision
+Amount
+of
+Provision
+required
+Amount of
+actual
+Provision
+
+Interest suspense on
+Unclassified(UC)
+Classified
+Defaulted
+SMA
+SS
+DF
+B/L
+UC
+(standard)
+(if any)
+SMA
+Classified
+A/Cs
+Total
+Standard
+SMA
+SS
+DF
+B/L
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+Continuous Loan (CL-2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (CF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Other than SMEF, CF, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III & IV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demand Loan (CL-3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (CF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Other than SMEF, CF, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III & IV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed Term loan (CL-4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (Other than HF & LP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Housing Finance (HF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Loans for professionals to set up business (LP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI) Others than SMEF, CF, HF, LP, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III, IV, V & VI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short term Agri. Credit and Microcredit (CL-5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Short Term Agri. Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Microcredit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I & II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total (1+2+3+4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Staff Loan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Off-Balance Sheet Exposure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHECK LIST
+
+
+
+
+Rate of Provision :
+
+
+
+
+
+Form No.
+No. of Page (s)
+Form No.
+No. of Page (s)
+
+
+Particulars
+
+Short
+Term
+Agri.
+Credit
+
+Consumer financing
+
+
+SMEF
+Loans to
+BHs/MBs/
+SDs
+
+All
+other
+Credit
+
+
+
+CL-2
+
+CL-4
+
+
+Other
+than
+HF,LP
+HF
+LP
+
+
+
+CL-3
+
+CL-5
+
+
+UC
+Standard
+2.5%
+0.25%
+
+
+
+
+
+
+
+
+SMA
+0.25%
+
+
+NB: CF=CONSUMER FINANCING, HF=HOUSING FINANCE, LP=LOANS FOR
+PROFESSIONALS TO SET UP BUSINESS, SMA=SPECIAL MENTION ACCOUNT,
+SS=SUBSTANDARD, DF=DOUBTFUL, B/L=BAD/LOSS, BHs/ MBs,/SDs= LOANS TO
+BROKERAGE HOUSES/MERCHANT BANKS/STOCK DEALERS.
+DEFAULTED=AS PER 5(GaGa) OF THE BANKING COMPANIES ACT, 1991.
+
+
+Classified
+SS
+20%
+20%
+20%
+20%
+20%
+20%
+
+
+
+DF
+50%
+50%
+50%
+50%
+50%
+50%
+
+
+
+B/L
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+
+--- Page 3 ---
+Ref : BRPD Circular no. 14/2012, 19/2012, 05/2013, 16/2014, 08/2015
+
+CL-2
+RETURNS FOR CLASSIFICATION OF CONTINUOUS LOANS AS OF………………..
+
+
+
+Page No.
+Bank Name:
+Branch Name :
+Stamp of Branch Serial No………
+
+
+
+(As Provided by Bangladesh Bank)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Amount in Taka)
+
+
+Sl.
+No.
+Name
+of
+borrower
+and
+NID
+
+Nature
+of Loans
+and
+Advances
+
+Loan
+Identification
+No.
+Date of sanction
+& last renewal
+[RNL(1/2/../n)] &
+last rescheduling
+[RSDL (1/2/../n)]
+(if any)
+DD/MM/YY
+Amount
+sanctioned,
+renewed,
+rescheduled
+(if any)
+Balance
+Outstanding
+as of
+reference
+date
+
+Date of
+Expiry
+DD/MM/YY
+Period of
+arrears (in
+months)
+(Ref.
+Date-Col. 8)
+Preliminary status of
+Classification
+Final Classification
+
+Objective
+Criteria
+
+Qualitative
+Judgement
+
+Classification
+Status
+
+Basis for
+Classification
+10
+11
+12
+13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative interest suspense as of reference
+date
+Value of
+eligible
+collateral
+(to nearest
+amount)
+Base for Provision for
+
+Remarks
+Unclassified (UC)
+Classified
+Defaulted
+outstanding
+
+Standard
+
+SMA
+
+Sub-
+standard
+(SS)
+
+Doubtful
+(DF)
+
+Bad/Loss
+(B/L)
+UC
+(Standard)
+(If any)
+
+SMA
+
+Classified
+A/Cs
+
+Total
+
+SMA
+Col.
+(15-21)
+Sub-standard
+(SS)
+Col.
+(16-22-24)
+Doubtful
+(DF)
+Col.
+(17-22-24)
+Bad/Loss
+(B/L)
+Col.
+(18-22-24)
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 4 ---
+Ref : BRPD Circular no. 14/2012, 19/2012, 05/2013, 16/2014, 08/2015
+
+CL-3
+RETURNS FOR CLASSIFICATION OF DEMAND LOANS AS OF………………..
+
+
+
+Page No.
+Bank Name:
+Branch Name :
+Stamp of Branch Serial No………
+
+
+
+(As Provided by Bangladesh Bank)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Amount in Taka)
+
+
+Sl.
+No.
+Name
+of
+borrower
+and
+NID
+
+Nature
+of Loans
+and
+Advances
+
+Loan
+Identification
+No.
+Date of sanction
+last rescheduling
+[RSDL (1/2/../n)]
+(if any)
+DD/MM/YY
+Amount
+Disbursed,
+rescheduled
+(if any)
+Balance
+Outstanding
+as of
+reference
+date
+
+Claim date
+DD/MM/YY
+Period of
+arrears (in
+months)
+(Ref.
+Date –Col.8)
+Preliminary status of
+Classification
+Final Classification
+
+Objective
+Criteria
+
+Qualitative
+Judgement
+
+Classification
+Status
+
+Basis for
+Classification
+10
+11
+12
+13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative interest suspense as of
+reference date
+Value of
+eligible
+collateral
+(to nearest
+amount)
+Base for Provision for
+
+Remarks
+Unclassified (UC)
+Classified
+Defaulted
+outstanding
+
+Standard
+
+SMA
+
+Sub-
+standard
+(SS)
+
+Doubtful
+(DF)
+
+Bad/Loss
+(B/L)
+UC
+(Standard)
+(If any)
+
+SMA
+
+Classified
+A/Cs
+
+Total
+
+SMA
+Col.
+(15-21)
+Sub-standard
+(SS)
+Col.
+(16-22-24)
+Doubtful
+(DF)
+Col.
+(17-22-24)
+Bad/Loss
+(B/L)
+Col.
+(18-22-24)
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 5 ---
+Ref : BRPD Circular no. 14/2012, 19/2012, 05/2013, 16/2014, 08/2015
+
+CL-4
+RETURNS FOR CLASSIFICATION OF FIXED TERM LOANS AS OF………………..
+
+
+
+Page No.
+Bank Name:
+Branch Name :
+Stamp of Branch Serial No………
+
+
+
+(As Provided by Bangladesh Bank)
+
+
+(Amount in Taka)
+
+
+Sl.
+No.
+Name
+of
+borrower
+and
+NID
+
+Nature
+of facilities
+
+Loan
+Identification
+No.
+Date of sanction
+and last
+rescheduling
+[RSDL (1/2/../n)]
+DD/MM/YY
+Principal
+Amount,
+Rescheduled
+Amount
+
+Balance
+Outstanding
+as of
+reference
+date
+Installment
+Date of first
+Repayment
+due
+Repayment due
+(Ref. date –
+col.10)+col.9
+(in months)
+Amount paid
+since
+sanctioning
+/Last
+rescheduling
+Time
+equivalent of
+amount paid
+(in months)
+Period of
+Arrears
+(in months)
+(col.11-
+col.13)
+Preliminary status of
+Classification
+Final
+Classification
+Size Frequency
+
+Objective
+Criteria
+
+Qualitative
+Judgement
+
+Classif-
+ication
+Status
+
+Basis for
+Classif-
+ication
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative interest suspense as of reference
+date
+Value of
+eligible
+collateral
+(to nearest
+amount)
+Base for Provision for
+
+Remarks
+Unclassified (UC)
+Classified
+Defaulted
+outstanding
+
+Standard
+
+SMA
+
+Sub-
+standard
+(SS)
+
+Doubtful
+(DF)
+
+Bad/Loss
+(B/L)
+UC
+(Standard)
+(If any)
+
+SMA
+
+Classified
+A/Cs
+
+Total
+
+SMA
+Col.
+(20-26)
+Sub-standard
+(SS)
+Col.
+(21-27-29)
+Doubtful
+(DF)
+Col.
+(22-27-29)
+Bad/Loss
+(B/L)
+Col.
+(23-27-29)
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note :
+Col. 9 = Installment Frequency in months
+Col. 13 = ( Col. 12 X Col.9) ÷ Col.8
+
+--- Page 6 ---
+Ref : BRPD Circular no. 14/2012, 19/2012, 05/2013, 16/2014, 08/2015
+
+CL-5
+RETURNS FOR CLASSIFICATION OF SHORT TERM AGRICULTURAL
+CREDIT AND MICRO CREDIT AS OF………………..
+
+
+
+Page No.
+Bank Name:
+Branch Name :
+Stamp of Branch Serial No………
+
+
+
+(As Provided by Bangladesh Bank)
+
+
+
+
+Short Term Agri. Credit II. Microcredit
+
+
+
+
+
+
+
+
+(Amount in Taka)
+
+Sl.
+No.
+
+Loan
+Identification
+No.
+and
+NID
+
+Date of sanction
+& last
+rescheduling
+[RSDL (1/2/../n)]
+DD/MM/YY
+
+Principal
+Amount,
+Rescheduled
+Amount
+
+Due date
+DD/MM/YY
+Period of
+arrears (in
+months)
+(Ref.
+Date –
+Col.5)
+Balance Outstanding
+Interest suspense
+Value of
+eligible
+collateral
+(to nearest
+amount)
+Base for provision for
+
+
+Unclassified
+Classified
+Defaulted
+
+Substandard
+(SS)
+Col.
+(8-13-15)
+
+Doubtful
+(DF)
+Col.
+(9-13-15)
+
+Bad/Loss
+(B/L)
+Col.
+(10-13-15)
+
+Sub-
+standard
+(SS)
+
+Doubtful
+(DF)
+
+Bad/Loss
+(B/L)
+
+UC
+(if
+any)
+
+Classified
+A/Cs
+
+Total
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 7 ---
+CL-1
+OBU SUMMARY OF LOAN CLASSIFICATION AND PROVISION AS OF………………..
+Ref : BRPD Circular no. 14/2012, 19/2012, 05/2013, 16/2014, 08/2015
+Bank Name:
+Branch Name :
+Stamp of Branch Serial No………
+
+
+
+(As Provided by Bangladesh Bank)
+
+
+(AMOUNT IN TAKA)
+
+SL.
+No.
+Categories of Loans
+Total
+Balance outstanding
+Base for provision
+Amount
+of
+Provision
+required
+Amount of
+actual
+Provision
+
+Interest suspense on
+Unclassified(UC)
+Classified
+Defaulted
+SMA
+SS
+DF
+B/L
+UC
+(standar
+d) (if
+any)
+SMA
+Classified
+A/Cs
+Total
+Standard
+SMA
+SS
+DF
+B/L
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+Continuous Loan (CL-2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (CF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Other than SMEF, CF, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III & IV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demand Loan (CL-3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (CF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Other than SMEF, CF, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III & IV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed Term loan (CL-4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (Other than HF & LP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Housing Finance (HF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Loans for professionals to set up business (LP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI) Others than SMEF, CF, HF, LP, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III, IV, V & VI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short term Agri. Credit and Microcredit (CL-5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Short Term Agri. Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Microcredit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I & II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total (1+2+3+4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Staff Loan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Off-Balance Sheet Exposure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHECK LIST
+
+
+
+
+Rate of Provision :
+
+
+
+
+
+Form No.
+No. of Page (s)
+Form No.
+No. of Page (s)
+
+
+Particulars
+
+Short
+Term
+Agri.
+Credit
+
+Consumer financing
+
+
+SMEF
+Loans to
+BHs/MBs/
+SDs
+
+All
+other
+Credit
+
+
+
+CL-2
+
+CL-4
+
+
+Other
+than
+HF,LP
+HF
+LP
+
+
+
+CL-3
+
+CL-5
+
+
+UC
+Standard
+2.5%
+0.25%
+
+
+
+
+
+
+
+
+SMA
+0.25%
+
+
+NB: CF=CONSUMER FINANCING, HF=HOUSING FINANCE, LP=LOANS FOR
+PROFESSIONALS TO SET UP BUSINESS, SMA=SPECIAL MENTION ACCOUNT,
+SS=SUBSTANDARD, DF=DOUBTFUL, B/L=BAD/LOSS, BHs/ MBs,/SDs= LOANS TO
+BROKERAGE HOUSES/MERCHANT BANKS/STOCK DEALERS.
+DEFAULTED=AS PER 5(GaGa) OF THE BANKING COMPANIES ACT, 1991.
+
+
+Classified
+SS
+20%
+20%
+20%
+20%
+20%
+20%
+
+
+
+DF
+50%
+50%
+50%
+50%
+50%
+50%
+
+
+
+B/L
+100%
+100%
+100%
+100%
+100%
+100%
+100%

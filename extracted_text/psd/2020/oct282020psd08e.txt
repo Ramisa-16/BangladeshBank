@@ -1,0 +1,4059 @@
+--- Page 1 ---
+Payment Systems Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+
+
+12 Kartik 1427
+PSD Circular No. 08/2020 Date:
+28 October 2020
+
+Managing Director/Chief Executive Officers
+All scheduled banks in Bangladesh
+
+Dear Sir,
+Bangladesh Electronic Funds Transfer Network (BEFTN) Operating Rules.
+
+Please refer to DCMPS Circular No. 09/2010 dated 25 August, 2010 on the captioned
+subject.
+Bangladesh Electronic Funds Transfer Network (BEFTN) Operating Rules which was
+issued vide DCMPS Circular No. 09/2010 has been reviewed further with a view to facilitating
+the banks in implementing the Guidelines in line with the upgraded BACH-II system.
+All Scheduled banks of the country that are participating in Bangladesh Automated
+Clearing House (BACH) are hereby advised to follow the BEFTN Operating Rules Version 2.0
+enclosed with this Circular with immediate effect.
+Please acknowledge receipt.
+
+
+Enclosure:
+Bangladesh Electronic Funds Transfer
+Network (BEFTN) Operating Rules
+
+Yours sincerely,
+
+Md. Mezbaul Haque
+General Manager
+Phone : 880-2-9530174
+Fax: 880-2-9530096
+E-mail: mezbaul.haque@bb.org.bd
+
+--- Page 2 ---
+1 of 83
+
+Bangladesh Electronic Funds Transfer Network
+(BEFTN)
+OPERATING RULES
+
+
+(BEFTN)
+
+
+
+
+
+
+
+
+
+
+
+Payment Systems Department
+Bangladesh Bank
+28 October 2020
+Version 2.0
+
+--- Page 3 ---
+2 of 83
+
+TABLE OF CONTENTS
+Contents
+INTRODUCTION ........................................................................................................................................... 9
+BEFTN OVERVIEW ................................................................................................................................... 9
+1. ABOUT BEFTN ............................................................................................................................... 9
+2. PARTICIPANTS IN BEFTN ............................................................................................................... 9
+a) Originator ................................................................................................................................... 9
+b) Originating Bank (OB) ................................................................................................................. 9
+c) Bangladesh Electronic Funds Transfer Network (BEFTN) ........................................................... 9
+d) Receiving Bank (RB) .................................................................................................................. 10
+e) Receiver .................................................................................................................................... 10
+Authorization .................................................................................................................................... 10
+3. EFT TRANSACTION FLOW .............................................................................................................. 10
+3.1 Types of EFT Entry ................................................................................................................... 10
+4. PAYMENT TYPES .......................................................................................................................... 12
+i) Customer Initiated Entry: ........................................................................................................... 12
+ii) Prearranged Payment and Deposit Entry (PPD): ....................................................................... 12
+iii) Corporate Credit or Debit (CDD): ............................................................................................. 13
+iv) Corporate Trade Exchange: ...................................................................................................... 13
+v) Other Instructions ..................................................................................................................... 13
+5. SETTLEMENT AND POSTING .......................................................................................................... 13
+BEFTN Currencies .......................................................................................................................... 13
+Responsibility of participants: ....................................................................................................... 14
+Responsibility of Originating Bank ................................................................................................ 14
+Responsibility of EFT Operator (BEFTN) ........................................................................................ 14
+Responsibility of Receiving Bank (RB) ........................................................................................... 14
+6. LEGAL FRAMEWORK ................................................................................................................... 15
+ARTICLE ONE ......................................................................................................................................... 16
+GENERAL ............................................................................................................................................... 16
+SECTION 1.1 Application of Rules ...................................................................................................... 16
+SECTION 1.2 Compliance with Rules ................................................................................................. 16
+1.2.1 Dispute Resolution ............................................................................................................... 16
+SECTION 1.3 Excused Delay ............................................................................................................... 16
+SECTION 1.4 Days on Which Institution or Facility is Closed ............................................................ 16
+
+--- Page 4 ---
+3 of 83
+
+SECTION 1.5 Records ......................................................................................................................... 16
+1.5.1 Records of Entries ................................................................................................................ 16
+1.5.2 Record Retention ................................................................................................................. 16
+ARTICLE TWO ........................................................................................................................................ 17
+ORIGINATION OF ENTRIES ..................................................................................................................... 17
+SECTION 2.1 Prerequisites to Origination ......................................................................................... 17
+2.1.1 Originator Authorization and Agreement ............................................................................. 17
+2.1.2 Receiver Authorization and Agreement ............................................................................... 17
+2.1.3 Exception to Authorization Requirement ............................................................................ 17
+2.1.4 Notice by OB ......................................................................................................................... 17
+2.1.5 Notice by RB ......................................................................................................................... 17
+SECTION 2.2 Warranties and Liabilities of Originating Banks ............................................................ 18
+2.2.1 Warranties ............................................................................................................................ 18
+2.2.2 Limitation ............................................................................................................................. 19
+2.2.3 Liability for Breach of Warranty ........................................................................................... 19
+SECTION 2.3 Reversing Files .............................................................................................................. 19
+2.3.1 General Rule ......................................................................................................................... 19
+2.3.2 Limitations on Initiation of Reversing Files .......................................................................... 19
+2.3.3 Notification by BEFTN Authority .......................................................................................... 20
+2.3.4 Correcting Files ..................................................................................................................... 20
+2.3.5 Indemnification .................................................................................................................... 20
+2.3.6 Inapplicable Provisions ......................................................................................................... 20
+SECTION 2.4 Reversing Entries .......................................................................................................... 20
+2.4.1 General Rule ......................................................................................................................... 20
+2.4.2 Indemnification .................................................................................................................... 20
+2.4.3 Inapplicable Provisions ......................................................................................................... 21
+SECTION 2.5 Reclamation Entries ...................................................................................................... 21
+2.5.1 General Rule ......................................................................................................................... 21
+2.5.2 Definition .............................................................................................................................. 21
+2.5.3 Inapplicable Provisions ......................................................................................................... 21
+SECTION 2.6 Reinitiating Returned Entries by Originators ................................................................ 21
+SECTION 2.7 Media and Format Specification Requirements........................................................... 21
+SECTION 2.8 Release of Information ................................................................................................. 21
+ARTICLE THREE .......................................................................................................................................... 23
+OBLIGATIONS OF ORIGINATORS ........................................................................................................... 23
+
+--- Page 5 ---
+4 of 83
+
+SECTION 3.1 General ......................................................................................................................... 23
+SECTION 3.2 Consumer Accounts—Notice by Originator to Receiver of Variable Debits ................ 23
+3.2.1 Notice of Change in Amount ................................................................................................ 23
+3.2.3 Notice of Change in Scheduled Debiting Date ...................................................................... 23
+SECTION 3.3 Record of Authorization ............................................................................................... 23
+ARTICLE FOUR ........................................................................................................................................... 24
+RECEIPT OF ENTRIES .............................................................................................................................. 24
+SECTION 4.1 General Rights and Obligations of RB .......................................................................... 24
+4.1.1 Right to Information Regarding Entries ............................................................................... 24
+4.1.2 Obligation to Accept Entries ................................................................................................ 24
+4.1.3 Reliance on Account Numbers for Posting of Entries .......................................................... 24
+SECTION 4.2 Warranties of Receiving Banks ..................................................................................... 24
+SECTION 4.3 Availability of Entries, Crediting and Debiting of Entries ............................................. 24
+4.3.1 Availability of Credit Entries to Receivers ............................................................................ 24
+4.3.2 Time of Debiting of Entries................................................................................................... 24
+4.3.3 Time of Crediting of Entries ................................................................................................. 25
+4.3.4 Provision of Payment Related Information to Receiver ....................................................... 25
+4.3.5 Rights of Receiver upon Unauthorized Debit to Its Account ............................................... 25
+4.3.6 Reliance on Standard Entry Class Codes .............................................................................. 25
+4.3.7 Reimbursement of RB ........................................................................................................... 25
+SECTION 4.4 Periodic Statements ..................................................................................................... 25
+SECTION 4.5 Notice to Receiver ........................................................................................................ 25
+SECTION 4.6 Releases of Information ............................................................................................... 26
+SECTION 4.7 Liability of RB for Benefit Payments ............................................................................. 26
+4.7.1 Liability of RB ........................................................................................................................ 26
+4.7.2 Amount of RB Liability .......................................................................................................... 26
+4.7.3 Demand for Payment ........................................................................................................... 26
+4.7.4 Timing ................................................................................................................................... 26
+4.7.5 Alteration by Agreement ...................................................................................................... 26
+ARTICLE FIVE.............................................................................................................................................. 28
+RETURN, ADJUSTMENT, CORRECTION AND ACKNOWLEDGEMENT ..................................................... 28
+SECTION 5.1 Return of Entries ........................................................................................................... 28
+5.1.1 Right to Return Entries ......................................................................................................... 28
+5.1.2 Requirements of Returns ..................................................................................................... 28
+5.1.3 Restrictions on Right to Return ............................................................................................ 28
+
+--- Page 6 ---
+5 of 83
+
+5.1.4 Credit Entries Returned by Receiver .................................................................................... 28
+5.1.5 Return of Un-posted Credit Entries ...................................................................................... 28
+5.1.6 Acceptance of Return Entries by OB ..................................................................................... 28
+SECTION 5.2 Notification of Change ................................................................................................. 29
+5.2.1 Notifications of Change; RB Warranties and Indemnity ....................................................... 29
+5.2.2 OB and Originator Action on Notification of Change............................................................ 29
+ARTICLE SIX ................................................................................................................................................ 30
+SETTLEMENT AND ACCOUNTABILITY .................................................................................................... 30
+SECTION 6.1 Maintenance of Central Bank Account ........................................................................ 30
+SECTION 6.2 Settlement .................................................................................................................... 30
+SECTION 6.3 Effect of Settlement ..................................................................................................... 30
+SECTION 6.4 Accountability for Entries ............................................................................................. 30
+SECTION 6.5 Effect of RB Closing on Time of Settlement ................................................................. 30
+SECTION 6.6 Effect of OB Closing on Time of Settlement ................................................................. 30
+ARTICLE SEVEN .......................................................................................................................................... 31
+RECALL, STOP PAYMENT, RE-CREDIT AND ADJUSTMENT ..................................................................... 31
+SECTION 7.1 Recall by OB or Originator ............................................................................................ 31
+SECTION 7.2 OB Request for Return ................................................................................................. 31
+SECTION 7.3 OB Agrees to Accept a Corporate Debit Return ........................................................... 31
+SECTION 7.4 Stop Payment Affecting Consumer Accounts .............................................................. 31
+SECTION 7.5 Stop Payment Affecting Non-Consumer Accounts ...................................................... 32
+SECTION 7.6 Receiver’s Right to Re-credit ........................................................................................ 32
+7.6.1 Receiver’s Right to Re-credit ................................................................................................ 32
+7.6.2 Receiver’s Written Statement .............................................................................................. 32
+7.6.3 Unauthorized Debit Entry ..................................................................................................... 32
+7.6.4 Waiver of Right to Re-credit ................................................................................................. 32
+7.6.5 Effect of Execution of Waiver ............................................................................................... 32
+7.6.6 Re-credit Right Not Exclusive................................................................................................ 33
+SECTION 7.7 Adjustment Entries ....................................................................................................... 33
+7.7.1 RB’s Right to Adjustment ..................................................................................................... 33
+7.7.2 Warranty of RB ..................................................................................................................... 33
+7.7.3 Copy of Written Statement .................................................................................................. 33
+7.7.4 Acceptance of Adjustment Entries by OB ............................................................................ 33
+ARTICLE EIGHT ........................................................................................................................................... 34
+OBLIGATIONS OF THE BEFTN AUTHORITY ............................................................................................. 34
+
+--- Page 7 ---
+6 of 83
+
+SECTION 8.1 Processing Obligation ................................................................................................... 34
+SECTION 8.2 Rejection by BEFTN ...................................................................................................... 34
+SECTION 8.3 Originator Status Code Review .................................................................................... 34
+SECTION 8.4 Record of Entries .......................................................................................................... 34
+ARTICLE NINE........................................................................................................................................ 35
+RESPONSIBILITIES OF BEFTN AND BEFTN PARTICIPANTS .................................................... 35
+SECTION 9.1 General ......................................................................................................................... 35
+SECTION 9.2 Sending Credit and Debit Items ................................................................................... 35
+SECTION 9.3 Security Procedures ..................................................................................................... 35
+SECTION 9.4 Originating Bank’s Agreements .................................................................................... 35
+SECTION 9.5 Processing of Items ...................................................................................................... 36
+SECTION 9.6 Delivery of Items .......................................................................................................... 36
+SECTION 9.7 Time Schedules, Settlement Dates and Extension of Time Limits ............................... 36
+SECTION 9.9 Settlement .................................................................................................................... 37
+SECTION 9.10 Availability of Credit ................................................................................................... 37
+SECTION 9.11 Receiving Bank’s Agreements ..................................................................................... 37
+SECTION 9.12 Return of Items and Funds ......................................................................................... 38
+SECTION 9.13 Advices of Credit and Debit ........................................................................................ 38
+SECTION 9.14 Records ....................................................................................................................... 38
+SECTION 9.15 Fees and Penalties ...................................................................................................... 38
+SECTION 9.16 Non-Value Messages .................................................................................................. 38
+SECTION 9.17 BEFTN Authority’s Liability ......................................................................................... 38
+SECTION 9.18 as of Adjustments ....................................................................................................... 39
+SECTION 9.19 Right to Amend ........................................................................................................... 39
+ARTICLE TEN .............................................................................................................................................. 40
+DISPUTE RESOLUTION PROCEDURES .................................................................................................... 40
+Section 10.1 Wrong transfer due to OB’s error ................................................................................ 40
+Section 10.2 Transfer recall due to customer error .......................................................................... 40
+Section 10.3 Fraudulent Entry ........................................................................................................... 41
+Section 10.4 Arbitration .................................................................................................................... 41
+Section 10.5 Arbitration Panel .......................................................................................................... 41
+Section 10.6 Presentment of Arbitration .......................................................................................... 41
+Section 10.7 Convening the panel and inviting the parties .............................................................. 41
+10.7.1. Additional meeting of the panel ........................................................................................... 42
+Section 10.8 the Dispute File............................................................................................................. 42
+
+--- Page 8 ---
+7 of 83
+
+Section 10.9 Record keeping ............................................................................................................. 42
+Section 10.10 Decision/Award .......................................................................................................... 42
+Section 10.11 Acceptance of the panel’s decision ............................................................................ 42
+Section 10.12 Additional clarification by a special panel .................................................................. 42
+Section 10.13 The procedures for discussion in the panel and for initiating clarification ................ 42
+Section 10.14 Costs ........................................................................................................................... 42
+Section 10.15 Proposals for changes in the rules ............................................................................. 43
+Section 10.16 Publication of the highlights of the clarification ........................................................ 43
+Section 10.17 Indemnification of Arbitration Panel.......................................................................... 43
+Section 10.18 Dispute Resolution Flow ............................................................................................. 43
+ARTICLE ELEVEN ........................................................................................................................................ 44
+DEFINITION OF TERMS .......................................................................................................................... 44
+SECTION 11.2 Construction Rules ...................................................................................................... 47
+APPENDIX ONE .......................................................................................................................................... 48
+BEFTN FILE EXCHANGE SPECIFICATIONS ............................................................................................... 48
+SECTION 1.1 Electronic Transmission Requirements ........................................................................ 48
+SECTION 1.2 BEFTN CD/DVD Specifications ...................................................................................... 48
+SECTION 1.3 Data Specifications ....................................................................................................... 48
+SECTION 1.4 Sequence of Records in BEFTN Files ............................................................................. 48
+SECTION 1.5 File Structure ................................................................................................................ 49
+SECTION 1.6 Trace Number Sequence in BEFTN Files ....................................................................... 50
+APPENDIX TWO ......................................................................................................................................... 51
+BEFTN MESSAGE SPECIFICATIONS ........................................................................................................ 51
+SECTION 2.1 Code Values .................................................................................................................. 51
+SECTION 2.2 Glossary of File Format Data Elements ......................................................................... 52
+SECTION 2.3 Sample message format of EFT file ................................................................................. 52
+2.3.1 CIE Message Format ............................................................................................................. 52
+2.3.2 CCD Message Format (Credit entry) .................................................................................... 54
+2.3.3 CCD Message Format (Debit entry) ...................................................................................... 55
+2.3.4 PPD Message Format (Credit entry) ..................................................................................... 57
+2.3.5 PPD Message Format (Debit entry) ...................................................................................... 58
+2.3.6 CTX Message Format (Credit entry) ..................................................................................... 59
+2.3.7 Pre-Notification Format ....................................................................................................... 61
+2.3.8 Notification of Change (NOC) Format .................................................................................. 62
+2.3.9 Return Message Format(Credit)........................................................................................... 64
+
+--- Page 9 ---
+8 of 83
+
+2.3.10 Return Message Format (Debit) ......................................................................................... 65
+APPENDIX THREE ....................................................................................................................................... 68
+SPECIFICATION FOR DATA ACCEPTANCE .............................................................................................. 68
+SECTION 3.1 File Acknowledgment ................................................................................................... 68
+SECTION 3.2 File Level Reject Option ................................................................................................ 69
+SECTION 3.3 Batch Level Reject Option ............................................................................................. 69
+SECTION 3.4 Automatic File Rejections ............................................................................................. 69
+SECTION 3.5 Automatic Batch Rejection ........................................................................................... 69
+SECTION 3.6 Automatic Entry Detail Return Entry ............................................................................ 70
+APPENDIX FOUR ........................................................................................................................................ 71
+MINIMUM DESCRIPTION STANDARDS .................................................................................................. 71
+APPENDIX FIVE .......................................................................................................................................... 72
+RETURN ENTRIES ................................................................................................................................... 72
+SECTION 5.1 Automated Return Entries ............................................................................................ 72
+SECTION 5.2 Table of Return Reason Codes ...................................................................................... 72
+APPENDIX SIX ............................................................................................................................................ 75
+NOTIFICATION OF CHANGE ................................................................................................................... 75
+SECTION 6.1 Automated Notification of Change ............................................................................... 75
+SECTION 6.2 Minimum Description Standards for Notifications of Change ...................................... 75
+SECTION 6.3 Table of Change Codes ................................................................................................. 76
+APPENDIX SEVEN ................................................................................................................................. 77
+BEFTN PARTICIPANT AGREEMENT ........................................................................................................ 77
+APPENDIX EIGHT ....................................................................................................................................... 78
+SAMPLE BEFTN ORIGINATION AGREEMENT ......................................................................................... 78
+
+--- Page 10 ---
+9 of 83
+
+
+
+
+1. ABOUT BEFTN
+
+The Bangladesh Electronic Funds Transfer Network (BEFTN) will operate as a processing and
+delivery centre that provides the distribution and settlement of electronic credit and debit
+instructions among all participating banks. This Network is operating in a real‐time batch processing
+mode.
+All transactions received by the central system in a clearing cycle are calculated into a single
+multilateral netting figure for each bank. Final settlement takes place using accounts of each bank that
+are maintained with Bangladesh Bank.
+
+Participating banks in the BEFTN system are inter-connected via communication links. This
+communication network facilitates the transmission of payments information that provides faster, safer
+and a more efficient means of inter‐bank instruction base clearing and settlement system. BEFTN
+provides a wide range of electronic products that improves payment services for the participating
+banks’ customers. It lowers the operational cost, reduces risk and increases the efficiency of the overall
+payment process.
+
+2. PARTICIPANTS IN BEFTN
+
+BEFTN is a multilateral electronic clearing system where debit and credit payment instructions are
+exchanged among Scheduled Banks. The system involves transmitting, reconciling and calculating the
+net position of each participant at the end of each processing cycle. The participants with this system are:
+
+a) Originator.
+b) Originating Bank (OB)
+c) Bangladesh Electronic Funds Transfer Network (EFT Operator)
+d) Receiving Bank (RB)
+e) Receiver
+
+a) Originator
+
+Originator is the entity that agrees to initiate EFT entries into the network according to an
+arrangement with a receiver. The originator is usually a company, bank itself, government agency or
+an individual directing a transfer of funds to or from their account.
+
+b) Originating Bank (OB)
+
+Originating Bank is the bank which receives payment instructions from its customer (the Originator)
+and forwards the Instructions to BEFTN.
+
+c) Bangladesh Electronic Funds Transfer Network (BEFTN)
+
+BEFTN receives entries from OBs, distributes the entries among appropriate RBs, and facilitates the
+settlement functions for the participating banks.
+INTRODUCTION
+BEFTN OVERVIEW
+
+--- Page 11 ---
+10 of 83
+
+d) Receiving Bank (RB)
+
+Receiving Bank is the Bank where receiver maintains account with.
+
+e) Receiver
+
+Receiver is Person or organization receiving a Payment Instruction from the System.
+
+
+
+
+
+Originating Bank
+BEFTN Receiving Bank
+
+
+
+Bangladesh Bank
+(Reporting & Settlement)
+
+
+Authorization
+
+
+Originator Receiver
+
+
+Figure 1: Participants involved in an EFT transaction
+
+Authorization
+Authorization is an arrangement between the originator and the receiver to allow payments processed
+through the EFT Network. It defines the purpose, terms, conditions and legal relationship between
+Originator and the Receiver. Authorization is mandatory for initiating an EFT debit entry, whereas the
+authorization may be in a paper form duly signed or a web version that the customer completes online.
+
+3. EFT TRANSACTION FLOW
+
+By an agreement originator and originating bank determine how the instruction will be delivered from
+originator to the Originating bank. Originator provides fund transfer entry to the originating bank as
+per agreed format with OB to pay or collect amount from a receiver's bank (other bank) account.
+Originating bank transmits the entry to the BEFTN within preset time. BEFTN sort the entries by
+routing number of Receiving Bank (RB) and forward the EFT entry to the appropriate receiving bank.
+On settlement date/time, BEFTN calculates multilateral netting figure for each bank. Final settlement
+takes place at the books of accounts of each bank that are maintained with Bangladesh Bank.
+
+3.1 Types of EFT Entry
+
+Originator initiates and receiver receives the EFT entries of credit or debit payment instruction on
+receiver's bank account. If the receiver’s bank account is debited, then the entry is an EFT debit. If
+receiver’s bank account is credited, then the entry is an EFT credit.
+
+--- Page 12 ---
+11 of 83
+
+a) EFT Credits
+EFT credit entries occur when the originator (client of originating bank) transfer funds from his/her
+bank account into a Receiver's (client of receiving bank) bank account.
+
+Example: A company (originator) provides instruction to its bank (originating bank) to pay monthly
+salary of the employee's (receiver) bank account by means of EFT Network. Originating bank
+transfers the salary amount to the receiving bank through credit payment instruction. Receiving bank
+credits the salary amount into employee's account. As the amount credited to receiver's account, the
+entry is an EFT credit, which is illustrated bellow.
+
+
+
+
+
+Originating Bank
+BEFTN Receiving Bank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Receiver
+Originator
+
+
+
+
+
+
+
+
+
+
+Figure 2: EFT Credit Transaction Flow
+
+
+Some examples of credit entries are:
+Inward Foreign remittances
+Domestic remittances
+Payroll private and government
+Dividends/Interest/Refunds of IPO
+Business to business payments (B2B)
+Government tax payments
+Government vendor payments
+Customer‐initiated transactions
+
+
+b) EFT Debits
+
+EFT debit entries occur when the originator collects funds from Receiver's bank account into his/her
+bank account.
+
+Example: A gas transmission company (originator) provides instruction to its bank (originating
+bank) to collect gas bill from the customer's (receiver) bank account by means of ETF Network.
+Originating bank provides a debit payment instruction to the receiving bank to collect the gas bill from
+customer's account. Receiving bank debited gas bill amount from its client’s account and send the
+same to the originating bank. Originating bank credits the gas bill into the account of gas transmission
+company. As the receiver’s bank account is debited, thus the entry is an EFT debit, which is
+TK
+
+TK Debit
+
+TK Credit
+
+--- Page 13 ---
+12 of 83
+
+illustrated bellow:
+Some examples of EFT debit entries are:
+
+Utility bill collection
+Equal Monthly Installments (EMI) collection
+Government tax collection
+Government license fees collection
+Insurance premium collection
+Mortgage payments collection
+Club/Association subscriptions collection
+
+
+
+
+
+
+Originating Bank
+BEFTN Receiving Bank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Receiver
+Originator
+
+
+
+
+
+
+
+
+
+
+
+Figure 3: EFT Debit Transaction Flow
+4. PAYMENT TYPES
+
+The BEFTN supports a variety of payment types. An Originator shall code the entries into the
+system indicating the types (debit or credit) of payment instructions including return, reverse and
+reclamation entry. Each EFT instruction is identified and recognized by Standard Entry Class (SEC)
+Codes (a specific three digit code), which appears in the EFT batch record format. SEC carries the
+payment and payment‐related information according to natures of payment instruction. Different types
+of SEC are as follows:
+
+i) Customer Initiated Entry:
+
+Customer Initiated Entry (CIE) is a credit instruction where the consumer transfers funds into a
+company’s /individual’s account for payment of funds owed to that company/individual.
+Example: Utility bill payment, P2P payments
+
+ii) Prearranged Payment and Deposit Entry (PPD):
+This instruction may be both debit and credit and the receiver must be an individual.
+a) Direct Deposit: Direct deposit is a PPD credit instruction that transfers funds into a
+consumer’s account at the receiving bank. The funds being deposited can represent a variety of
+products.
+Example: payroll, remittances, interest, pension, dividends, refunds, etc.
+
+b) Preauthorized Bill Payment: A preauthorized payment is a PPD debit instruction where a
+customer authorizes a bank to debit his/her account for a regular interval. Example: Insurance
+TK
+
+TK Credit
+TK Debit
+
+--- Page 14 ---
+13 of 83
+
+premium, loan installments, utility payments etc.
+
+iii) Corporate Credit or Debit (CDD):
+CCD is either a credit or a debit instruction where funds are either distributed or consolidated
+between corporate or government entities. It can support a limited disclosure of information
+when the funds are being transferred between organizations (i.e. sister concerns) under the same
+group.
+
+iv) Corporate Trade Exchange:
+This instruction supports the transfer of funds (debit or credit) within trading partners where
+payment information is sent with the funds transfer. The payment‐related information is placed in
+multiple addenda records in a format agreed to by the parties and BEFTN.
+
+v) Other Instructions
+
+Pre-notification (Pre-note): It is a non-financial entry that passed through the EFT network. Pre-
+note is initiated by the Originator (or OB) to validate the receiver’s banking information before
+originating the first funds transfer entry. It is the RB’s responsibility to verify the information (i.e.
+Name, A/C number/type etc.) provided in the pre-note, RB needs to issue a NOC (Notification of
+Change) only if the information provided in the pre-note doesn’t match with the particulars of its
+client.
+Notification of Change (NOC): A RB must issue a NOC to the OB informing about the
+mismatch in the account details (i.e. Name, A/C number/type) provided in a Pre-note (or a live
+transaction) that doesn’t match with its client’s details. OB’s responsibility is to convey the NOC
+to the Originator in order to rectify the information before initiating the live entry to the
+Receiver’s account.
+
+5. SETTLEMENT AND POSTING
+
+To complete the payment instruction, Settlement is the actual transfer of the funds between
+participating banks. BEFTN Settlement happens in a Deferred-net basis.
+The transactions processed by the BEFTN will affect the accounts of the concerned participating
+banks maintaining accounts with BB at the end of each processing cycle. Settlement will be completed
+using the following processing cycle:
+
+Processing Cycle
+Cut Offs
+Item Submission
+Returns
+Settlement
+Session-1
+00:00-14:00 hrs
+As
+provided
+in
+BEFTN Rules
+14:01 hrs
+Session-2
+14:00-24:00 hrs
+10:00 hrs Next Day
+
+Settlement and processing sessions will be communicated to member banks by the Clearing House
+(BACH) authority from time to time.
+
+BEFTN Currencies
+
+The currencies eligible for transaction under the BEFTN are Bangladeshi Taka (BDT), United States
+Dollar (USD), United Kingdom Pound (GBP), European Union and its territories currency - Euro
+
+--- Page 15 ---
+14 of 83
+
+(EUR), Japanese Yen (JPY) and Canadian Dollar (CAD). Bangladesh Bank may decide to exclude any
+existing currency and include any new currency for transaction under the BEFTN from time to time.
+
+Responsibility of participants:
+
+Originating Bank, BEFTN Operator and Receiving Bank are the main participants concerning
+settlement and posting of EFT entries. Their responsibilities are as follows:
+
+Responsibility of Originating Bank
+
+Originating Bank and Originator (customer of originating bank) are governed by agreement between
+them which must be in line with this rule. Specific procedures and timing of settlement between them
+are solely at the discretion of the said agreement. Originating Bank is responsible to monitor the credit
+worthiness of its customer (originator) to manage the EFT payments efficiently.
+
+Originating Bank follows same settlement procedures for entries originated and entries received. If
+the scheduled settlement date of a credit entry is not a banking day for the Originating Bank, but the
+Bangladesh Bank office is open, then the settlement will occur on the scheduled date.
+
+Responsibility of EFT Operator (BEFTN)
+BEFTN is responsible to calculate net settlement figures for each participating bank and to provide
+information of amounts that will be settled for each bank on each settlement date and session.
+BEFTN also sends a summary statement which contains the net amount to be settled for each
+participating bank.
+Responsibility of Receiving Bank (RB)
+Posting:
+The RB is responsible for posting entries and for providing funds availability, which are
+determined by the settlement date. EFT debit entries cannot be posted prior to the settlement
+date. If the Receiving Bank is closed for business on the scheduled settlement date of a debit
+entry, but the BEFTN is open, the Receiving Bank will be debited on the scheduled settlement
+date. EFT Credits will be posted to the Receiver’s account no later than the next session’s
+settlement Cutoff.
+
+Settlement:
+It has been mentioned that Settlement between the originator and the OB is governed by an
+agreement. Settlement between the RB and the receiver is determined by these Rules.
+
+If BEFTN determines that the entry cannot be settled on the effective entry date due to a stale
+date, weekend, or holiday, the BEFTN authority will settle it on the next available business
+day.
+
+Settlement information is produced by BEFTN as the entries are processed. This
+information is accumulated based on the type of entry (debit or credit) by settlement
+date. These settlement totals are reported to the participating banks after each session.
+
+BEFTN shall provide EFT settlement information in a machine‐readable format to
+facilitate the automation of settlement accounting.
+
+Settlement totals should be balanced daily against totals posted to the participating
+bank’s customer accounts and against any rejects that may occur. Rejects and other
+
+--- Page 16 ---
+15 of 83
+
+differences must be resolved immediately.
+
+EFT settlement procedures are the same for consumer and corporate transactions. In
+view of the large‐value payments that flow through the EFT network for corporate
+customers, participating banks should have internal procedures in place to monitor
+large‐value settlements totals.
+
+6. LEGAL FRAMEWORK
+
+From beginning to end the EFT process operates through a series of legal agreements. Before any
+transaction is initiated via EFT network, the originator and OB execute an agreement to originate
+payments by using BEFTN. Among others, the agreement binds the two parties to abide by the
+BEFTN Rules, defines the parameters of the relationship between them and identifies processing
+requirements for the specific instruction(s), and establishes their liability and accountability for
+procedures related to certain instruction(s).
+
+While this BEFTN Operating Rulebook is the primary document addressing the rules and the
+regulations for the activities of the EFT network, Government’s EFT transactions may be governed
+by other codes of conduct but they must accommodate the major provisions laid down in these Rules.
+
+Other laws/regulations that have a direct bearing on EFT operation are listed as under:
+
+Bangladesh Bank Order, 1972 (Amended 2003)
+The Banking Companies Act, 1991
+Money Laundering Prevention (Amended) Act, 2015
+Information and Communication Technology Act, 2006.
+The Bankruptcy Act, 1997
+The Foreign Exchange Guidelines, Volume 1 & 2.
+Foreign Exchange Regulations Act, 1947.
+The Bangladesh Telecommunication Act, 2001
+Anti Terrorism Act 2009
+Bangladesh Payment and Settlement Systems Regulations, 2014.
+
+--- Page 17 ---
+16 of 83
+
+
+ARTICLE ONE
+GENERAL
+SECTION 1.1 Application of Rules
+
+These rules apply to all entries and transmitted data of the OB and RB through BEFTN.
+SECTION 1.2 Compliance with Rules
+
+Each Participating Bank must agree to comply with these Rules and warrants that it is legally able to
+comply with all applicable requirements of these Rules.
+
+1.2.1 Dispute Resolution
+
+The settlement of disputes arising under these Rules between Participating Banks will be
+governed by the process contained in the Dispute Resolution Procedures (Article Ten).
+
+SECTION 1.3 Excused Delay
+
+Beyond the time limits prescribed by these Rules, delay by Participating Bank or the BEFTN operator
+shall be excused if the delay is caused by the interruption of communication or computer facilities,
+suspension of payments by any Participating Bank, war, emergency conditions, failure of equipment,
+or other circumstances beyond the control of the Participating Bank or the BEFTN, provided it
+exercises such diligence as the circumstances require.
+
+SECTION 1.4 Days on Which Institution or Facility is Closed
+
+If any entry to be transmitted by Participating Bank/BEFTN on a day that is not a Banking day, the
+entry may be transmitted on the next Banking day for each parties.
+
+SECTION 1.5 Records
+
+1.5.1 Records of Entries
+
+Participating Bank must retain records of return and adjustment entries for twelve years from
+the transmitted date of the entry. If requested by the customer/Receiving Bank/BEFTN, the
+originating Bank must provide the information related to the entry through a print-out or e-
+production.
+1.5.2 Record Retention
+
+Any agreement, authorization, written statement, or other record required by these Rules
+may be retained as the original copy or as an electronic record that (1) accurately reflects
+the information in the record, and (2) is capable of being accurately reproduced for later
+reference, whether by transmission, printing, or otherwise.
+
+--- Page 18 ---
+17 of 83
+
+ARTICLE TWO
+ORIGINATION OF ENTRIES
+
+SECTION 2.1 Prerequisites to Origination
+
+The following must occur before an Originator may initiate the first credit or debit entry to a
+Receiver’s account with a RB:
+
+2.1.1 Originator Authorization and Agreement
+
+The Originator has authorized the OB to transmit, credit or debit the amount of entries to the
+Receiver’s account. For all entries, the Originator and OB have entered into an agreement
+under which the Originator agrees to be bound by these Rules as in effect from time to time.
+
+2.1.2 Receiver Authorization and Agreement
+
+The Receiver has authorized the Originator to initiate the entry to the Receiver’s account. In
+the case of debit entries to a commercial account, the Receiver has an agreement with the
+Originator under which the Receiver has agreed to be bound by these Rules as in effect from
+time to time. In the case of debit entries to a Consumer Account, the authorization must be in
+writing and signed or similarly authenticated by the consumer in electric form.
+The authorization process must evidence both the consumer’s identity and his assent. To
+ensure that an authorization be in writing, an electronic authorization must be displayed on a
+computer screen or other visual display that enables the consumer to read the communication.
+The authorization also must be readily identifiable, must clearly and conspicuously state its
+terms. The Receiver may revoke the authorization only by notifying the Originator in the
+manner specified in the authorization. In the case of credit entries, the authorization may be
+provided orally or by other non‐written means.
+
+2.1.3 Exception to Authorization Requirement
+
+If both the Originator and Receiver are natural persons, no authorization by the Receiver is
+required for credit entries, and no warranty with respect to that authorization is made by the
+OB. The provisions of section 3.3 (Record of Authorization) and subsection 4.1.1 (Right to
+Information Regarding Entries) are not applicable to the entries described in this subsection.
+
+2.1.4 Notice by OB
+
+In the case of a credit entry, the OB shall have provided the Originator with notice of the
+following:
+
+(1) the entry may be transmitted through the BEFTN;
+(2) the rights and obligations of the Originator concerning the entry shall be governed by and
+construed in accordance with the laws of The People's Republic of Bangladesh;
+(3) if the RB does not get settled for a credit entry, the RB is entitled to deduct the amount
+from the Receiver’s account, and the Originator will not be considered to have paid the
+amount of the credit entry to the Receiver.
+
+
+
+2.1.5 Notice by RB
+
+--- Page 19 ---
+18 of 83
+
+In the case of a credit entry, the RB has provided the Receiver with notice of the following
+information:
+
+(1) the rights and obligations of the Receiver concerning the entry shall be governed by and
+construed in accordance with the laws of The People's Republic of Bangladesh;
+
+(2) credit given by the RB to the Receiver for the entry as provided by subsection 4. 3.1
+(Availability of Credit Entries to Receivers) is provisional until the RB has received final
+settlement through the Bangladesh Bank;
+
+SECTION 2.2 Warranties and Liabilities of Originating Banks
+
+2.2.1 Warranties
+
+Each OB sending an entry warrants the following to each RB and the BEFTN:
+
+2.2.1.1 Authorization by Originator and Receiver
+Each entry transmitted by the OB to BEFTN is in accordance with proper authorization
+provided by the Originator and the Receiver.
+
+2.2.1.2 Timeliness of Entries
+Each credit entry is timely, and each debit entry is for an amount which on the Settlement Date
+will be due and owing to the Originator from the Receiver, is for a sum specified by the
+Receiver to be paid to the Originator, or is to correct a previously transmitted erroneous credit
+entry.
+
+2.2.1.3 Compliance with Other Requirements
+
+All other applicable requirements of section 2.1 (Prerequisites to Origination) concerning the
+authorization of an entry have been satisfied, the entry has not been reinitiated in violation of
+section 2.4 (Re‐initiation of Returned Entries by Originators), and the entry otherwise complies
+with these Rules.
+
+2.2.1.4 Revocation of Authorization
+
+At the time the entry is transmitted to the BEFTN, the Receiver’s/Originator’s authorization is
+not revoked, the agreement between the OB and the Originator concerning the entry has not
+been terminated, and neither the OB nor the Originator has actual knowledge of the revocation
+of the Receiver’s authorization or of the termination of the arrangement between the RB and the
+Receiver concerning the entry.
+
+2.2.1.5 Termination of Authorization by Operation of Law
+
+At the time the entry is processed by a RB, the authorization for that entry has not been
+terminated, in whole or in part, by operation of law. This subsection shall not apply if both the
+OB and RB have no actual knowledge of the circumstances. giving rise to such termination at
+the time it processes the entry.
+
+2.2.1.6 Transmittal of Required Information
+
+Each entry transmitted by the OB to BEFTN contains the correct Receiver account number and
+
+--- Page 20 ---
+19 of 83
+
+all other information necessary to enable the RB to comply with the requirements of section 4.4
+(Periodic Statements) except for information within the purview of the RB’s relationship with
+the Receiver. Information transmitted with an entry is payment‐related and conforms to the
+message format requirements.
+
+2.2.1.7 Reclamation Entries
+
+(a) In the case of a reclamation entry initiated pursuant to section 2.5 (Reclamation entries) or a
+written demand for payment initiated pursuant to section 4.7 (Liability of RB for Benefit
+Payments), all information is accurate and applies to the Receiver and account identified in the
+reclamation entry or written demand; (b) Each such reclamation entry or written demand for
+payment falls within the time requirements of section 4.7.4 (Timing), has been properly
+authorized by the intended Receiver of the reclamation entry or written demand, and the
+authorization for the entry or written demand has not been revoked or otherwise terminated at
+the time it is received by the RB; (c) Any payments subject to section 4.7 are made with no
+restriction on the number of parties having an interest in the account.
+
+2.2.2 Limitation
+
+Notwithstanding anything in these Rules to the contrary, the warranties contained within
+subsection 2.2.1 (Warranties) and the requirements of subsection 2.1.2 (Receiver Authorization
+and Agreement) do not apply to the goods or services to which the entry relates.
+
+2.2.3 Liability for Breach of Warranty
+
+Each OB breaching any of the preceding warranties shall indemnify every RB and the BEFTN
+from and against any and all claim, demand, loss, liability, or expense, including legal fees
+and costs, that result directly or indirectly from the breach of warranty or the debiting or
+crediting of the entry to the Receiver’s account. This indemnity includes, without limitation,
+any claim, demand, loss, liability, or expense based on the ground that the debiting of an entry
+to an account resulted, either directly or indirectly, in the return of one or more items or
+entries of the Receiver due to insufficient funds. This indemnity also includes, in the case of a
+Consumer Account, without limitation, any claim, demand, loss, liability, or expense based on
+the ground that the failure of the OB to comply with any provision of these Rules resulted,
+either directly or indirectly, in the violation by a RB of any applicable law.
+
+SECTION 2.3 Reversing Files
+
+2.3.1 General Rule
+
+If an Originator, OB, or BEFTN has mistakenly initiate a duplicate file or a file in which each
+entry or each entry in one or more batches contains erroneous data, and no right to recall those
+entries otherwise exists under these Rules, the Originator, OB, or BEFTN may initiate a file of
+entries (referred to as a ―reversing file‖) in accordance with appropriate section of the
+message specifications and this section 2.3 to reverse each entry of the duplicate or
+erroneous file or batch(es).
+
+2.3.2 Limitations on Initiation of Reversing Files
+
+Each reversing file must be initiated in such time as to be transmitted or made available to the
+
+--- Page 21 ---
+20 of 83
+
+RB(s) within five Banking days after the Settlement Date of the duplicate or erroneous file
+or batch(es). In the case of a reversing file initiated by the BEFTN, the file must be
+transmitted to the appropriate RB within 24 hours of the discovery of the duplication or error.
+
+2.3.3 Notification by BEFTN Authority
+
+At or prior to the time of initiation, the BEFTN Authority initiating a reversing file shall notify
+each RB and each OB directly concerned of the duplication or error.
+
+2.3.4 Correcting Files
+
+A reversing file to correct an erroneous file or batch must be accompanied by a file (referred to
+as each OB/originator or BEFTN Authority that initiates a reversing or correcting file shall
+indemnify every Participating bank including RB from and against any and all claim,
+demand, loss, liability, or expense, including legal fees and costs, that result directly or
+indirectly from the debiting or crediting of any entry in the file to the Receiver’s account.
+
+2.3.5 Indemnification
+Each OB/originator that initiates a reversing or correcting file shall indemnify every
+Participating bank including RB from and against any and all claim, demand, loss, liability, or
+expense, including legal fees and costs, that result directly or indirectly from the debiting or
+crediting of any entry in the file to the Receiver’s account.
+
+2.3.6 Inapplicable Provisions
+
+For a reversing file complying with the requirements of this section, the provisions of
+sections 2.1 (Prerequisites to Origination), 2.2 (Warranties & Liabilities of OBs), and 3.2
+(Consumer Accounts—Notice by Originator to Receiver of Variable Debits) do not apply.
+
+A ―correcting file‖, which contains correct information. The correcting file must comply with
+the message specification format.
+
+SECTION 2.4 Reversing Entries
+
+2.4.1 General Rule
+
+An Originator may initiate an entry (referred to as a ―reversing entry‖) to correct an erroneous
+credit or debit entry previously initiated to a Receiver’s account. The reversing entry must be
+transmitted to the BEFTN in such time as to be transmitted or made available to the RB by
+midnight of the fifth Banking day following the Settlement Date of the erroneous entry.
+For this section 2.4 only, an erroneous entry is defined as an entry that (1) is a duplicate of an
+entry previously initiated by the Originator or OB; (2) orders payment to or from a Receiver
+not intended to be credited or debited by the Originator; or (3) orders payment in an amount
+different than that was intended by the Originator. The Originator must notify the Receiver of
+the reversing entry and the reason for the reversing entry no later than the Settlement Date of
+the reversing entry.
+2.4.2 Indemnification
+
+Each OB that initiates a reversing entry shall indemnify every Participating Bank and the
+BEFTN Authority from and against any and all claim, demand, loss, liability, or expense,
+
+--- Page 22 ---
+21 of 83
+
+including legal fees and costs, that result directly or indirectly from the debiting or crediting
+of the reversing entry to the Receiver’s account. Each OB also shall indemnify every RB and
+the BEFTN Authority from and against any and all claim, demand, loss, liability, or expense,
+including legal fees and costs, that result directly or indirectly from the crediting or debiting
+of a reversing entry initiated by an Originator through the OB.
+
+2.4.3 Inapplicable Provisions
+
+For a reversing entry complying with the requirements of Section 2.5, the provisions of
+sections 2.1.2 (Receiver Authorization and Agreement), 2.2.1.1 (Authorization by Originator
+and Receiver), 2.2.1.4 (Revocation of Authorization), 2.2.1.5 (Termination of Authorization
+by Operation of Law), and 3.2 (Consumer Accounts—Notice by Originator to Receiver of
+Variable Debits) do not apply.
+
+SECTION 2.5 Reclamation Entries
+
+2.5.1 General Rule
+
+An Originator or OB may initiate a reclamation entry in accordance with the requirements of
+Section 2.6, section 4.7 (Liability of RB for Benefit Payments), and appropriate message
+Specifications.
+
+2.5.2 Definition
+
+A reclamation entry must contain an amount equal to or less than the pension, annuity, or
+other benefit payment to which the reclamation entry relates, as provided for in section 4.7
+(Liability of RB for Benefit Payments).
+
+2.5.3 Inapplicable Provisions
+
+For a reclamation entry complying with the requirements of Section 2.6, the provisions of
+sections 2.2.1.2 (Timeliness of Entries), 2.2.1.4 (Revocation of Authorization), 2.2.1.5
+(Termination of Authorization by Operation of Law), and 3.2 (Consumer Accounts—Notice
+by Originator to Receiver of Variable Debits) do not apply.
+
+SECTION 2.6 Reinitiating Returned Entries by Originators
+
+An entry that has been returned may not be reinitiated unless (1) the debit entry has been returned for
+insufficient or uncollected funds; (2) the entry has been returned for stopped payment and reinitiating
+the return entry has been authorized by the Receiver; or (3) the OB has taken corrective action to
+remedy the reason for the return. An entry that has been returned for insufficient or uncollected funds
+may be reinitiated no more than two times following the return of the original entry.
+
+SECTION 2.7 Media and Format Specification Requirements
+
+Each entry transmitted by an OB to the BEFTN must comply with the requirements of and be
+identified by the appropriate Standard Entry Class Code specified according to appropriate message
+specifications.
+SECTION 2.8 Release of Information
+
+Each OB agrees that the BEFTN may release data regarding EFT entries transmitted to or by the OB to
+
+--- Page 23 ---
+22 of 83
+
+appropriate authorities/public.
+
+--- Page 24 ---
+23 of 83
+
+
+SECTION 3.1 General
+
+In addition to the requirements of section 2.1 (Prerequisites to Origination) concerning the initiation of
+entries, an Originator must comply with the requirements contained within this Article Three.
+SECTION 3.2 Consumer Accounts—Notice by Originator to Receiver of Variable Debits
+3.2.1 Notice of Change in Amount
+
+If a fixed amount of recurring debit entry is initiated to a Consumer Account differs from the
+amount of the immediately preceding amount relating to the same authorization or from a
+preauthorized amount, the Originator must send the Receiver written notification before
+5(five) business days of the changed amount to be debited. For a variable amount recurring
+payment this notification is not required.
+3.2.3 Notice of Change in Scheduled Debiting Date
+
+If an Originator changes the date of the entry to be initiated by the Originator are scheduled
+to be debited to a Receiver’s account, the Originator shall send to the Receiver written
+notification of the new date of the entry before 5 (five) business Days. For purposes of this
+subsection 3.2.3, the variation in debiting dates due to holidays is not considered to be
+changes in the scheduled dates.
+
+SECTION 3.3 Record of Authorization
+
+An Originator must retain the original or an image copy of each authorization of a Receiver for two
+years from the termination or revocation of the authorization. At the request of its OB, the
+Originator must provide the original or copy of the authorization to the OB for its use or for the use of
+a RB requesting the information pursuant to subsection 4.1.1 (Right to Information Regarding
+Entries).
+ARTICLE THREE
+OBLIGATIONS OF ORIGINATORS
+
+--- Page 25 ---
+24 of 83
+
+
+ARTICLE FOUR
+RECEIPT OF ENTRIES
+
+SECTION 4.1 General Rights and Obligations of RB
+
+4.1.1 Right to Information Regarding Entries
+Based on the receiver’s objection, the RB may request, in writing, that an OB provide a copy
+of the Receiver’s authorization for debit entries.
+
+Upon receipt of the RB’s written request, the OB must obtain the original or a copy of the
+Receiver’s authorization from the Originator in accordance with section 3.3 (Record of
+Authorization) and provide it to the RB within ten Banking days. An OB must provide such
+authorization without charge. The RB must not require the Originator to provide any other
+information concerning the Receiver or any entry to be initiated by the Originator to the
+Receiver’s account.
+
+4.1.2 Obligation to Accept Entries
+
+Subject to its right to return or reject entries under these Rules, a RB must accept credit and
+debit entries that comply with these Rules and are received with respect to any account
+maintained with that RB.
+
+4.1.3 Reliance on Account Numbers for Posting of Entries
+
+It is not mandatory for a Receiving Bank to check and match the account title with the account
+number of each incoming EFT entry, therefore, a RB shall rely solely on account number (if it
+is valid) contained in the entry for posting the entry to customer account.
+
+SECTION 4.2 Warranties of Receiving Banks
+
+Each RB warrants to each OB and the BEFTN that it has the power under applicable law to receive
+entries as provided in these Rules and to comply with the requirements of these Rules concerning
+RBs and Participating Banks. Any RB breaching any warranty under this section 4.2 shall indemnify
+each OB, BEFTN Authority from and against any and all claim, demand, loss, liability, or
+expense, including legal fees and costs, resulting directly or indirectly from the breach of warranty.
+
+SECTION 4.3 Availability of Entries, Crediting and Debiting of Entries
+4.3.1 Availability of Credit Entries to Receivers
+
+Subject to its right to return or reject entries in accordance with these Rules, each RB must
+make the amount of each credit entry received from the BEFTN available to the Receiver for
+cash withdrawal no later than the Settlement Date of the entry.
+
+4.3.2 Time of Debiting of Entries
+
+A RB must not debit the amount of any entry to a Receiver’s account prior to the Settlement
+Date of the entry, even if the effective entry date of the entry is different from the Settlement
+Date of the entry.
+
+--- Page 26 ---
+25 of 83
+
+
+4.3.3 Time of Crediting of Entries
+
+In case of a credit entry a Receiver must credit the Originator with the amount of an entry
+credited to the Receiver’s account on the Settlement Date. Similarly, in case of a debit entry,
+originator must credit the receiver with the amount of the entry on the settlement date. The
+Receiving party shall have a reasonable period of time to post the amount of the credit to the
+Payer’s account or return the entry to the Bank concern. A Receiving party that returns an
+entry according to the requirements of this subsection is not considered to accept the entry.
+
+4.3.4 Provision of Payment Related Information to Receiver
+
+Upon the request of the Receiver, a RB must provide to its Receiver all Payment‐Related
+Information including any Addenda Records transmitted with the entries (especially CTX
+entry). The RB must provide this information to its Receiver on the Settlement Date of the
+entry.
+
+4.3.5 Rights of Receiver upon Unauthorized Debit to Its Account
+
+A Receiver or other person whose account is debited by an entry which is not authorized by
+such person shall have rights to have the account re‐credited as provided by law or agreement.
+Except as provided for in subsection 7.6.4 (Waiver of Right to Re‐credit), these Rules shall not
+provide for or restrict any such rights.
+
+4.3.6 Reliance on Standard Entry Class Codes
+
+A RB may consider an entry containing a Standard Entry Class Code specified in
+Appendix Two (BEFTN Record Format Specifications) as complying with the
+requirements of these Rules for that type of entry.
+
+4.3.7 Reimbursement of RB
+
+A credit given to the Receiver’s account by the RB as provided in subsection 4.3.1
+(Availability of Credit Entries to Receivers) is provisional until the RB has received final
+settlement through Bangladesh Bank. If such settlement of payment is not received, the
+RB is entitled to a refund from the Receiver of the amount credited, and the Originator is
+considered not to have paid the Receiver the amount of the entry.
+
+SECTION 4.4 Periodic Statements
+
+A RB must include the information concerning each credit and debit entry in the periodic statement
+send to the Receiver.
+
+SECTION 4.5 Notice to Receiver
+
+A RB is not required to notify a Receiver of receipt of an individual entry to its account (except for the
+periodic statement mentioned in section 4.4) unless otherwise provided for in an agreement between
+the RB and Receiver or required by government statute or regulation which cannot be varied by these
+Rules or by agreement of the parties.
+
+--- Page 27 ---
+26 of 83
+
+SECTION 4.6 Releases of Information
+
+Each RB agrees that BEFTN Authority may release information to any concerned department of
+Bangladesh Bank or other relevant authority/entity regarding EFT entries transmitted to or by the RB.
+SECTION 4.7 Liability of RB for Benefit Payments
+
+4.7.1 Liability of RB
+
+If a Receiver has died and the Receiver’s right to receive one or more pension, annuity, or
+other benefit payments by credit entry has terminated before the receipt by the RB of one or
+more credit entries to the Receiver’s account representing those payments, the RB may be
+liable to the Originator for the amount of those entries credited to the Receiver’s account if
+neither the Receiver’s estate nor any other holder of the account is entitled to the payments.
+The liability a RB would incur under this subsection 4.7.1 is limited as provided in this section
+4.7.
+
+4.7.2 Amount of RB Liability
+
+A RB’s liability under this section 4.7 shall be the lesser of (1) the amount of any payments to
+which the Receiver was not entitled, or (2) the amount in the Receiver’s account at the time
+the RB receives (i) a reclamation entry initiated by the OB pursuant to section 2.5
+(Reclamation Entries) and not returned by the RB or (ii) a written demand for payment from
+the OB or Originator pursuant to subsections 4.7.3 (Demand for Payment) and 4.7.4 (Timing)
+and has a reasonable opportunity to act upon such demand. A claim or demand by an
+Originator (or OB on the Originator’s behalf) will be subordinate to claims or potential claims
+of The Government of the People's Republic of Bangladesh. The Originator must reimburse
+the RB for any payments made to the Originator pursuant to this section 4.7 that are subject to
+a subsequent claim of The Government of the People's Republic of Bangladesh.
+
+4.7.3 Demand for Payment
+
+A RB will have no liability under this section 4.7 unless and until it receives (1) a reclamation
+entry initiated by the OB pursuant to section 2.5 (Reclamation Entries) and not returned by
+the RB, or (2) a written demand for payment from the OB or Originator. The reclamation
+entry or written demand for payment must identify the name of the Receiver, the account at the
+RB credited on the Receiver’s behalf, and the exact amount and approximate date of
+initiation for each entry involved.
+
+4.7.4 Timing
+
+A reclamation entry must be originated or a written demand for payment sent within five
+Banking days after the Originator receives notice of the death of the Receiver. If a
+reclamation entry is returned by the RB, the Originator may make a written demand for
+payment within 15 Banking days after it receives the returned reclamation entry.
+
+4.7.5 Alteration by Agreement
+
+Notwithstanding any other provision of these Rules, the liability provisions contained within
+this section 4.7 may be altered, amended, or superseded by a written agreement between the
+Originator and RB only if the agreement clearly and conspicuously states on its face that it is
+a master agreement, that both the Originator and RB consider it to be a master
+agreement, and that it is applicable to all payments subject to this section 4.7 sent by the
+
+--- Page 28 ---
+27 of 83
+
+Originator to the RB for the benefit of all Receivers having accounts at the RB. No provision
+of these Rules prevents a RB from expressly agreeing in a master agreement that the liability
+provisions of this section 4.7 may be altered, amended, or superseded on a Receiver-by-
+Receiver basis.
+
+--- Page 29 ---
+28 of 83
+
+
+
+SECTION 5.1 Return of Entries
+
+5.1.1 Right to Return Entries
+
+Except as otherwise provided for in subsection 5.1.3 (Restrictions on Right to Return), a RB
+may return an entry for any reason.
+
+5.1.2 Requirements of Returns
+
+Each return entry must comply with the requirements of Appendix Five (Return Entries).
+Except as otherwise provided in this section 5.1, subsection 5.3.2 (OB and Originator Action
+on Notification of Change), each return entry must be received by the BEFTN by its deposit
+deadline for the return entry to be made available to the OB no later than the next available
+session following the Settlement Date of the original entry. A return entry relating to a credit
+entry must be transmitted by the RB to the BEFTN if the Receiver of the entry does not
+have an account with the RB, the Receiver’s account has been closed, or the RB is not
+permitted by law to receive credits for the Receiver’s account. A return entry which is rejected
+by the BEFTN Authority does not meet or extend the deadline contained in this section
+5.1.
+
+5.1.3 Restrictions on Right to Return
+
+A RB may not return an entry because it is a credit, debit, or zero Taka entry or is a particular
+type of credit, debit, or zero Taka entry. A RB may, however, return any debit entry or any
+entry received that concerns any account that is not a ―transaction account‖ maintained
+with that RB.
+
+5.1.4 Credit Entries Returned by Receiver
+
+A RB may return any credit entry that is returned to it by a Receiver as provided for in
+subsection 4.3.4 (Time of Crediting of Entries). The RB must transmit the return entry to the
+BEFTN by next available session following the Banking day of receipt by the RB from the
+Receiver.
+
+5.1.5 Return of Un-posted Credit Entries
+
+A RB must return all credit entries that are not credited or otherwise made available to its
+Receivers’ accounts by next available session following the Settlement Date.
+
+5.1.6 Acceptance of Return Entries by OB
+
+An OB must accept return entries complying with message format and transmitted by the RB
+within the time limits established by these Rules.
+
+
+
+ARTICLE FIVE
+RETURN, ADJUSTMENT, CORRECTION AND ACKNOWLEDGEMENT
+
+--- Page 30 ---
+29 of 83
+
+SECTION 5.2 Notification of Change
+5.2.1 Notifications of Change; RB Warranties and Indemnity
+
+A RB may transmit a notification of change (NOC) to the BEFTN provided that (1) the
+notification of change complies with the requirements and (2) except for NOCs due to merger,
+acquisition, or other similar events, the NOC is transmitted within next available session of the
+Settlement Date of the entry to which the NOC relates.
+5.2.2 OB and Originator Action on Notification of Change
+
+Unless otherwise provided for in this Article Five, an OB must accept NOCs that comply
+with the requirements of message format and that are transmitted by the RB within the time
+limits established by these Rules. Each OB must, at a minimum, provide to the Originator
+information relating to NOCs in accordance with the requirements. The Originator must make
+the changes specified in the NOC within six Banking days of receipt of the NOC information
+or prior to initiating another entry to the Receiver’s account, whichever is later.
+
+--- Page 31 ---
+30 of 83
+
+ARTICLE SIX
+SETTLEMENT AND ACCOUNTABILITY
+
+SECTION 6.1 Maintenance of Central Bank Account
+
+Each Participating Bank must maintain an account with Bangladesh Bank.
+
+SECTION 6.2 Settlement
+Settlement among Participating Banks for entries, adjustment entry and return entries transmitted in
+accordance with these Rules will be effected by the crediting or debiting of the Bangladesh Bank
+accounts of Participating Banks referred to in section 6.1 (Maintenance of Central Bank Accounts).
+
+SECTION 6.3 Effect of Settlement
+
+Settlement of entries does not preclude a Participating Bank from pursuing any available legal rights or
+remedies concerning any entry, adjustment entry or return entry, including without limitation any right
+or remedy arising out of a return entry, transmitted after the time limits established by these Rules.
+
+SECTION 6.4 Accountability for Entries
+
+Each RB is accountable for the amount of all debit entries received that are not returned in accordance
+with these Rules, except as provided for in subsection 5.3.2 (OB and Originator Action on Notification
+of Change).
+
+SECTION 6.5 Effect of RB Closing on Time of Settlement
+
+If the scheduled Settlement Date of a debit entry is not a Banking day for the RB but is a day on which
+the Central Bank described in section 6.1 (Maintenance of Accounts at the Central Bank) is open,
+settlement will occur on the scheduled date.
+
+SECTION 6.6 Effect of OB Closing on Time of Settlement
+
+If the scheduled Settlement Date for a credit entry is not a Banking day for the OB but is a day on which
+the applicable office of the Central Bank described in section 6.1 (Maintenance of Accounts at the
+Central Bank) is open, settlement will occur on the scheduled date.
+
+--- Page 32 ---
+31 of 83
+
+ARTICLE SEVEN
+RECALL, STOP PAYMENT, RE-CREDIT AND ADJUSTMENT
+SECTION 7.1 Recall by OB or Originator
+
+Except as allowed by sections 2.3 (Reversing Files), 2.4 (Reversing Entries), and 2.5 (Reclamation
+Entries), neither an Originator nor an OB has the right to recall an entry or file, to require the return of
+or adjustment to an entry, or to stop the payment or posting of an entry, once the entry or file has been
+received by the BEFTN.
+
+SECTION 7.2 OB Request for Return
+
+An OB may, orally or in writing, request a RB to return an erroneous entry initiated by the OB. For
+purposes of this section 7.2, an erroneous entry is an entry (1) that is a duplicate of an entry previously
+initiated by the Originator or OB, (2) that orders payment to or from a Receiver not intended to be
+credited or debited by the Originator, or (3) that orders payment in an amount different than that was
+intended by the Originator. The RB may, but is not obligated to, comply with such a request. The
+OB making such a request indemnifies the RB from and against any and all claim, demand,
+loss, liability or expense, including legal fees and costs, resulting directly or indirectly from
+compliance by the RB with such request.
+
+SECTION 7.3 OB Agrees to Accept a Corporate Debit Return
+
+If a RB receives written notification from a Receiver after the time for return has expired (see section
+5.1 ‐ Return of Entries) that a Corporate debit entry to the Receiver’s account was, in whole or in part,
+not authorized by the Receiver, the RB may transmit a permissible return entry to the OB, provided
+that the OB agrees, either verbally or in writing, to accept the late return entry. The permissible return
+entry must be in the amount of the debit entry and must comply with the requirements of Article Five,
+section 5.1 and Appendix Five (Return Entries).
+
+SECTION 7.4 Stop Payment Affecting Consumer Accounts
+
+A Receiver may stop the payment of a debit entry initiated or to be initiated to a Consumer Account of
+the Receiver by providing either verbal or written notification to the RB at least three Banking days
+before the scheduled date of the transfer. A RB may honour a stop payment order received within
+the three‐Banking‐day limit prescribed above, and, if it honours such a request, the RB has no resultant
+liability or responsibility to any Originator, OB, or other person having any interest in the entry. The
+RB may require that written confirmation of a verbal stop payment order be made within 7 days of a
+verbal stop payment order, provided that the RB notifies the Receiver of this requirement and provides
+an address to which the written confirmation should be sent at the time the verbal order is provided. If
+the RB requires written confirmation, the verbal stop payment order will cease to be binding after 7
+days. A Receiver may withdraw a stop payment order by providing written notice to the RB. A stop
+payment order will remain in effect (1) for six months from the date of the stop payment order, (2)
+until payment of the debit entry has been stopped, or (3) until the Receiver withdraws the stop
+payment order, whichever occurs earliest.
+
+--- Page 33 ---
+32 of 83
+
+SECTION 7.5 Stop Payment Affecting Non-Consumer Accounts
+
+A Receiver may order its RB to stop the payment of any debit entry initiated or to be initiated to a
+non‐Consumer Account of the Receiver. The stop payment order must be provided to the RB at such
+time and in such manner as to allow the RB a reasonable opportunity to act upon the stop payment
+order prior to acting on the debit entry. The RB is obligated to comply with a verbal stop payment
+order only for a period of seven calendar days unless the order is confirmed in writing within that
+7‐day period. A written stop payment order is effective for six months unless it is renewed in
+writing.
+
+SECTION 7.6 Receiver’s Right to Re-credit
+7.6.1 Receiver’s Right to Re-credit
+
+A RB must promptly credit the amount of a debit entry to a Consumer Account of a Receiver
+if (1) the Receiver sends or delivers to the RB a written statement as described in subsection
+7.6.2 (Receiver’s Written Statement) that the debit entry was not authorized by the
+Receiver, and (2) this written statement is sent or delivered to the RB within 180 calendar
+days from the date the RB sends or makes available to the Receiver information relating to
+the debit entry in accordance with section 4.4 (Periodic Statements).
+
+7.6.2 Receiver’s Written Statement
+
+For all consumer entries, a Receiver must sign or similarly authenticate a written statement, in
+the form required by the RB, that the debit entry for which the Receiver is seeking re‐
+credit under this section 7.6 was not authorized by the Receiver.
+7.6.3 Unauthorized Debit Entry
+
+For purposes of this section (7.6), a debit entry was not authorized by the Receiver if (1) the
+authorization requirements of subsection 2.1.2 (Receiver Authorization and Agreement)
+have not been met; (2) the debit entry was initiated in an amount greater than that authorized
+by the Receiver; or (3) the debit entry was initiated for settlement earlier than authorized by
+the Receiver. An unauthorized debit entry does not include a debit entry initiated with
+fraudulent intent by the Receiver or any person acting in concert with the Receiver.
+7.6.4 Waiver of Right to Re-credit
+
+An Originator may request a Receiver to waive the Receiver’s rights under subsection 4.3.5
+(Rights of Receiver Upon Unauthorized Debit to Its Account) with respect to one or more
+specific debit entries initiated to the Receiver’s account. This waiver must (1) be in writing in a
+document entitled ―Waiver with respect to pre‐arranged debit‖, (2) specify the amount of each
+entry to which the waiver applies, (3) specify the approximate date on which each entry
+was initiated by the Originator, (4) specify the Originator number designated in each entry,
+and (5) specifically state in substance that the Receiver waives any right to have a
+designated RB credit the amount of the entry or entries to the Receiver’s account due to
+error, unless the error was made by the RB. Except for waivers complying with the
+requirements of this subsection 7.6.4, no waiver by a Receiver of rights provided in
+subsection 4.3.5 is effective for any purpose.
+7.6.5 Effect of Execution of Waiver
+
+If a waiver complying with the requirements of subsection 7.6.4 (Waiver of Right to Re‐
+
+--- Page 34 ---
+33 of 83
+
+credit) has been signed by the Receiver and received by the RB in sufficient time and in such
+manner as to afford the RB a reasonable opportunity to act upon it, subsections 7.6.1
+(Receiver’s Right to Re‐credit), 7.6.2 (Receiver’s Written Statement), and section 7.7
+(Adjustment Entries) shall not apply to the entry or entries to which the waiver relates. If an
+Originator transmits such a waiver, with a copy, to a RB, the RB, upon written request of the
+Originator, must acknowledge receipt on the copy of the waiver and promptly deliver or
+send that copy to the Originator.
+
+7.6.6 Re-credit Right Not Exclusive
+
+The rights provided to the Receiver under this section 7.6 are in addition to any rights
+provided under other applicable law.
+
+SECTION 7.7 Adjustment Entries
+7.7.1 RB’s Right to Adjustment
+
+For all consumer entries, a RB receiving the written statement described in subsection 7.6.2
+(Receiver’s Written Statement) may transmit an adjustment entry to its BEFTN in the
+amount of the unauthorized entry referred to in the written statement, provided that (1) no error
+was made by the RB in the debiting of the entry to the Receiver’s account, (2) the written
+statement described in subsection 7.6.2 was sent or delivered to the RB, and (3) the RB
+transmitted the adjustment entry to the BEFTN by its deposit deadline for the adjustment entry
+to be made available to the OB no later than the opening of business on the Banking day
+following the one hundred eightieth calendar day following the Settlement Date of the original
+entry. The adjustment entry must comply with the requirements of section 5.1 (Return of
+Entries) and Appendix Five (Return Entries). A RB may consider a written statement as timely
+if, in its reasonable judgment, the written statement appears to have been sent within the time
+limits described above.
+7.7.2 Warranty of RB
+
+Each RB transmitting an adjustment entry pursuant to subsection 7.7.1 (RB’s Right to
+Adjustment), warrants to each OB and the BEFTN prior to initiating the adjustment entry, the
+RB obtained from the Receiver a written statement complying with section 7.6 (Receiver’s
+Right to Re-credit). Each RB breaching this warranty shall indemnify every OB and the
+BEFTN from and against any and all claim, demand, loss, liability, or expense, including legal
+fees and costs, resulting directly or indirectly from the breach of such warranty.
+7.7.3 Copy of Written Statement
+
+Each RB initiating an adjustment entry pursuant to subsection 7.7.1 (RB’s Right to
+Adjustment) will provide a copy of the written statement obtained from the Receiver in
+accordance with section 7.6 (Receiver’s Right to Recredit), provided such request is received
+by the RB within one year of the date of the initiation of the adjustment entry.
+7.7.4 Acceptance of Adjustment Entries by OB
+
+Each OB must accept adjustment entries transmitted to it in accordance with these Rules.
+
+--- Page 35 ---
+34 of 83
+
+
+SECTION 8.1 Processing Obligation
+
+The BEFTN Authority must, in accordance with Appendix Two (BEFTN Message
+Specifications):
+(1) Promptly process entries and entry data, insert the appropriate Settlement Date and Session,
+and files in accordance with section 8.2 ( Rejection by BEFTN),
+(2) Transmit or make available entries and entry data to Participating Banks in accordance with
+agreed upon processing and delivery schedules,
+(3) total the debit and credit activity received from and transmitted to Participating Banks during
+each session and banking day, and
+(4) Calculate and report the settlement amounts for each session and banking day for all entries
+processed under these Rules.
+
+SECTION 8.2 Rejection by BEFTN
+
+If an entry or entry data received for processing does not meet the acceptance criteria set forth in
+message specification the BEFTN must in accordance with those Appendices either reject the
+entry or entry data to the appropriate OB or reject the entire batch or file containing the entry by
+notifying the appropriate OB.
+
+SECTION 8.3 Originator Status Code Review
+
+The BEFTN must review each batch of entries it receives to ensure that the appropriate status
+code pertaining to the Originator (the ―Originator Status Code‖) is included in accordance with
+Appendix Two (BEFTN message Specifications). If a batch of entries contains an incorrect
+Originator Status Code or contains no Originator Status Code, the BEFTN will reject the batch.
+
+SECTION 8.4 Record of Entries
+
+The BEFTN Authority must retain a record of all entries, return entries, and adjustment entries
+(all referred to in this section as ―entries‖) received or transmitted by it for twelve years from
+the date of receipt or transmittal of the entry. The BEFTN must provide a printout or access to
+the archive of the information relating to a particular entry if requested to do so by the
+Participating Bank that originated, transmitted, or received the entry.
+
+
+
+
+
+
+
+ARTICLE EIGHT
+OBLIGATIONS OF THE BEFTN AUTHORITY
+
+--- Page 36 ---
+35 of 83
+
+ARTICLE NINE
+RESPONSIBILITIES OF BEFTN AND BEFTN PARTICIPANTS
+
+SECTION 9.1 General
+
+This Article describes and governs the clearing and settlement of Bangladesh Electronic Funds
+Transfer Network (BEFTN) credit and debit items. The BEFTN Rules are binding on a sending
+bank that sends items to the BEFTN, a receiving bank that receives items from the BEFTN, an
+account holder that has agreed to settle for items under this Article. Any EFT item that is sent to the
+BEFTN for processing and settlement is subject to the provisions of this Article. The BEFTN
+processes such items as EFT operator and does not collect, present, or return such items as a
+―collecting‖ or ―returning‖ bank.
+
+SECTION 9.2 Sending Credit and Debit Items
+
+9.2.1. A originating bank that maintains or uses a settlement account at the Bangladesh Bank may send
+an item to the BEFTN, provided the receiving bank maintains or uses a settlement account for BEFTN
+items at the Bangladesh Bank.
+
+9.2.2. An item must be transmitted through the appropriate communication channel prescribed by the
+Bangladesh Bank and appropriate format in accordance with BEFTN rules.
+
+SECTION 9.3 Security Procedures
+
+9.3.1. All participating banks must follow the security procedures that the BEFTN prescribes, outlined
+in the relevant specifications.
+
+9.3.2. All BEFTN files originated by the originating bank will be digitally signed and encrypted by the
+originating bank before transmission to BEFTN and all outgoing BEFTN files will be digitally signed
+and encrypted by BEFTN before being transmitted to the receiving bank.
+
+9.3.3. Each originating bank and receiving bank shall prevent any disclosure of any aspects of the
+security procedures offered by BEFTN, as provided in the relevant specifications. The originating
+bank or the receiving bank shall notify the BEFTN Authority immediately if the confidentiality of
+these security procedures is compromised, and shall act to prevent the security procedure from being
+further compromised.
+
+SECTION 9.4 Originating Bank’s Agreements
+
+By sending an item to the BEFTN, the originating bank:
+
+agrees to comply with the applicable BEFTN rules and agrees that those rules govern the
+relationships among the originating bank, the receiving bank and other parties interested in the
+item and covered by those rules;
+
+authorizes the BEFTN authority to process the item in accordance with these Rules.
+
+(c) agrees that the BEFTN authority processes the items as the EFT operator and does not
+collect, present, or return the items as a ―collecting‖ or ―returning‖ bank.,
+
+authorizes the Bangladesh Bank holding the originating bank’s settlement account to debit the
+amount of a credit item, or credit the amount of a debit item, to the originating bank’s
+settlement account on the settlement date; and
+
+--- Page 37 ---
+36 of 83
+
+agrees to indemnify the BEFTN authority (and Bangladesh Bank) processing or settling for
+the item for any loss or expense (including attorneys fees and expenses of litigation)
+incurred by the Bangladesh Bank as a result of any action taken with respect to the item by the
+Bangladesh Bank.
+SECTION 9.5 Processing of Items
+
+9.5.1. The BEFTN authority processes items in accordance with the applicable BEFTN rules. The
+BEFTN authority may reject, or may impose conditions to it’s processing of any item for any reason.
+The BEFTN authority will not act on instructions in an item other than information required by
+message specifications in applicable BEFTN rules. If the BEFTN authority notifies a originating
+bank of the receipt of a suspected duplicate file or any other problem, the BEFTN authority will
+reject the file.
+
+9.5.2. The BEFTN authority provides an acknowledgment to the originating bank that it has received
+BEFTN files by electronic transmission and has performed limited processing of the files, as provided
+in applicable BEFTN rules.
+
+9.5.3. An originating bank must designate the receiving bank for an item by routing number. The
+BEFTN authority is not responsible for the accuracy of a routing number contained in and/or verbally
+supplied from a publication, list or automated file issued by any organization other than Bangladesh
+Bank. The BEFTN authority may process an item on the basis of a routing number of a receiving bank
+appearing in any form on the item when received. The BEFTN authority is not responsible for any
+loss or delay resulting from acting on the routing number.
+
+SECTION 9.6 Delivery of Items
+
+9.6.1. By prior arrangement with a receiving bank, the BEFTN authority sends items by electronic
+means to the receiving bank. Alternatively, by prior agreement with a receiving bank the BEFTN
+authority may deliver items by making them available to the receiving bank to retrieve. The BEFTN
+authority will deliver such items when it has placed the items on the BEFTN storage device and made
+the items available for the receiving bank to retrieve. In emergency circumstances, the BEFTN
+authority may send items as arranged with the receiving bank. Items are considered received by a
+receiving bank in accordance with applicable BEFTN rules, except as provided in paragraph 9.6.2. A
+receiving bank should promptly advise the BEFTN Authority if it does not receive items by the
+expected date.
+
+9.6.2. A receiving bank must manage its communication channel so as to permit it to receive items in a
+timely manner throughout the day. A receiving bank that does not receive items in a timely manner
+because it fails to so manage its communication channel, or because of emergency circumstances
+beyond the control of the BEFTN authority, is required to settle for the items with the Bangladesh Bank
+on the settlement date, but is not considered to receive the items for the purposes of the deadline for
+return.
+
+SECTION 9.7 Time Schedules, Settlement Dates and Extension of Time Limits
+
+9.7.1 The BEFTN items processing schedule as published from time to time will show the banking
+days and the deadlines for the BEFTN Authority to receive credit and debit items of various classes for
+immediate or next day settlement. The time schedule also shows the effective date window for
+classes of items and provisions for settlement for various effective dates.
+
+9.7.2 The BEFTN Authority processes items in accordance with their processing schedules, and sends
+
+--- Page 38 ---
+37 of 83
+
+them to the receiving bank on or before the settlement date. If, because of circumstances beyond the
+BEFTN Authority’s control, it is delayed beyond the applicable time limit in acting on an item, the
+time for acting is extended for the time necessary to complete the action, provided the BEFTN
+Authority exercises such diligence as the circumstances require.
+SECTION 9.9 Settlement
+
+9.9.1 An originating or receiving bank’s settlement obligation will be posted to the appropriate current
+account maintained at Bangladesh Bank.
+
+9.9.2 On the settlement date (time), the Bangladesh Bank debits (or credits) that account in the
+amount of the net settlement figure arises out of a clearing cycle .
+
+
+9.9.3 If the Bangladesh Bank finds that funds are insufficient in the account of a participating bank
+at the time of settlement, Bangladesh Bank may choose to provide a collateral-based intraday liquidity
+facility to the bank concern for settling the transaction.
+SECTION 9.10 Availability of Credit
+
+9.10.1 Credit given for EFT debits by the Bangladesh Bank is available for use and may qualify as
+reserve on the settlement date, subject to paragraph 9.4, and other provisions of this article. However,
+in adverse circumstance Bangladesh Bank may refuse to permit the use of credit given for a debit
+item if it judges that there may not be sufficient funds in the originating bank’s settlement account to
+cover chargeback or return of the item.
+
+9.10.2 Credit given by the Bangladesh Bank for EFT credits is final and available for use by the
+receiving bank and may qualify as reserve.
+SECTION 9.11 Receiving Bank’s Agreements
+
+9.11.1 A receiving bank, by maintaining or using an account with the Bangladesh Bank for settlement
+of items or by accepting an item from the Bangladesh Bank:
+
+agrees to comply with the applicable BEFTN rules and agrees that those rules govern
+the relationships among the originating bank, the receiving bank and other parties
+interested in the item and covered by those rules;
+
+(b) agrees to process the item in accordance with this Article;
+
+(c) agrees that the BEFTN Authority does not collect, present, or return the items as
+―collecting‖ or ―returning‖ bank;
+
+authorizes the Bangladesh Bank to credit the amount of a credit item, or debit the
+amount of a debit item to the receiving bank’s settlement account on the settlement
+date; and
+
+agrees to indemnify Bangladesh Bank for any loss or expense (including
+attorneys’ fees and expenses of litigation) incurred as a result of a breach of the
+foregoing agreements or of any action taken by the Bangladesh Bank in accordance
+with its Rules.
+
+9.11.2 The agreements, authorization and indemnity in paragraph 9.11.1 do not limit any other
+agreement, authorization or indemnity not inconsistent with paragraph 9.11.1 made by a receiving
+bank to an originating bank, the BEFTN Authority or another person.
+
+--- Page 39 ---
+38 of 83
+
+SECTION 9.12 Return of Items and Funds
+
+9.13.1 A receiving bank may return a debit or credit item to the BEFTN Authority in accordance with
+the applicable BEFTN rules and by the deadline set forth in the BEFTN time schedule. The receiving
+bank is accountable for the amount of a debit item if the returned item is not received by the deadline.
+
+9.13.2 The BEFTN Authority processes a returned item it receives from a receiving bank and sends it or
+makes it available to the originating bank in accordance with the provisions of these Rules governing
+the processing of items. On the settlement date, the Bangladesh Bank debits or credits the current
+account of the receiving bank in the amount of a returned debit or credit item, and credits or debits the
+settlement account of the originating bank in the amount of the returned debit or credit item
+
+SECTION 9.13 Advices of Credit and Debit
+
+Bangladesh Bank provides advices of credit and debit to the participating banks’ for settlement of
+items.
+SECTION 9.14 Records
+
+Each originating and receiving bank must keep records for twelve years that permit it to resolve
+questions that arise concerning the handling of items ; and to produce items if the other participating
+bank notifies that the items on their possession have been lost because of a computer outage or other
+reason. The BEFTN Authority keeps records of items processed for twelve years after the settlement
+date.
+SECTION 9.15 Fees and Penalties
+
+Bangladesh Bank shall charge fees for processing of BEFTN items and will provide notification to
+Participating Banks of such fees from time to time. In addition Bangladesh Bank may impose a
+penalty to a Participating Bank for violating the Rules and other instructions to this regard.
+SECTION 9.16 Non-Value Messages
+
+The BEFTN Authority handles a message that does not result in an accounting entry, such as a
+notification of change, in the same manner as an item except that no funds are transferred. The
+BEFTN Authority’s liability for damage caused by its failure to exercise ordinary care or by its own or
+its employees’ willful misconduct, in processing a non‐value message may not exceed the amount of
+any fee paid to the Bangladesh Bank for the message.
+SECTION 9.17 BEFTN Authority’s Liability
+
+9.17.1 Limitation of Liability
+
+the BEFTN Authority is responsible or liable only to a originating bank, and a
+receiving bank only for its own failure to exercise ordinary care, or for its
+own or its employees’ willful misconduct;
+
+(c) the BEFTN Authority does not make any warranty with respect to an item it
+processes or settles for under these Rules and
+
+no participating bank may make a claim against the BEFTN Authority for loss
+resulting from the BEFTN Authority’s processing of or settling for an item after one
+year from the settlement date of the item. If a participating bank does not send written
+objection to an advice of debit to the Bangladesh Bank within thirty calendar days
+
+--- Page 40 ---
+39 of 83
+
+after receipt of the advice, it is deemed to approve the debit on its own behalf.
+
+9.18.2 The measure of damages for the BEFTN Authority’s failure to exercise ordinary care, or
+for its own or its employees’ willful misconduct is as follows:
+
+For a credit item (including a returned credit item), its liability is limited to damages
+that are attributable directly and immediately to the failure to exercise ordinary care or
+to the willful misconduct, and does not include damages that are attributable to the
+consequences of such conduct, even if such consequences were foreseeable at the
+time of such conduct.
+
+For a debit item (including a returned debit item), its liability for its failure to
+exercise ordinary care is limited to the amount of the item reduced by an amount that
+could not have been realized by the use of ordinary care. Where there is willful
+misconduct with respect to a debit item, the measure of damages includes other
+damages that are attributable directly and immediately to the willful misconduct, but
+does not include damages that are attributable to the consequences of such
+misconduct, even if such consequences were foreseeable at the time of such
+misconduct.
+SECTION 9.18 as of Adjustments
+
+The Bangladesh Bank, in its discretion, may satisfy its obligation to pay compensation in the form of
+interest by:
+
+providing an adjustment to an originating or receiving bank in an amount equal to the
+amount on which interest is to be calculated multiplied by the number of days ; or
+
+paying compensation in the form of interest to an originating bank, receiving bank
+or another party to the item that is entitled to such payment.
+SECTION 9.19 Right to Amend
+
+The Bangladesh Bank reserves the right to amend this Article at any time without prior notice.
+
+--- Page 41 ---
+40 of 83
+
+
+ARTICLE TEN
+DISPUTE RESOLUTION PROCEDURES
+
+
+
+This article outlines the procedures for settlement of disputes among participants that arises out of the
+clearing of BEFTN payment instructions.
+Section 10.1 Wrong transfer due to OB’s error
+
+Where an originating bank mistakenly sends EFT instructions different from originator's instructions
+vide wrong account number, wrong amount, duplication etc. to a receiver’s account and requests the
+reversal in pursuant to section 2.3 (Reversing Files), the receiving bank shall oblige without recourse to
+the customer of the Receiving bank provided funds are available. An automatic indemnity shall be
+inferred against the originating bank making the reversal request. Where funds are not available, the
+Receiving Bank shall immediately notify its customer that the account was wrongly credited and
+provide proof of such notification to the Originating Bank. The Receiving Bank shall notify the
+customer the consequences of not funding the account within 24 hours, which includes watch-listing in
+the banking industry, Credit bureau and reporting to law enforcement agencies. The Receiving bank
+shall watch list the customer if they fails to provide fund within 07 days. The Receiving Bank shall
+refund the transaction as soon as funds are either partially or fully available.
+Section 10.2 Transfer recall due to customer error
+
+In case of EFT credit entry where a customer claims to have made a transfer in error, the following
+provisions shall apply:
+
+10.2.1. Where the receiver is known to the claimant, the Originating Bank shall encourage the
+originator to contact the receiver for an amicable settlement;
+
+10.2.2. Where the receiver is not known to the originator or a known receiver refused to effect a
+refund to the originator, the Originating Bank having received a tenable claim from originator shall
+notify the Receiving Bank who shall place a lien on the amount in the account of the receiver and
+thereafter obtain the consent of the receiver to execute refund;
+
+10.2.3. Where the receiver does not give consent, the nominated officials (BACH Manager) of the
+Originating and Receiving Bank shall mediate between the two customers within 2 weeks of the
+complaint to resolve the issue and their decision shall be final. Accordingly, the lien on the amount
+in the receiver's account shall not last more than 2 weeks;
+
+10.2.4. A Dispute request is initiated by the Receiving bank either on request of the Originator or by
+the Originating bank itself based on internal reasons.
+
+10.2.5. In case of an EFT debit entry to a consumer account, if the receiver confirms in written that
+the entry was an unauthorized one or the authorization has been cancelled or expired, the receiving
+bank will initiate a reversal immediately under section 7.6.1 (Receiver’s Right to Re-credit) if the
+complaint is been made within 180 days of the original entry. If the claim is been made after 180
+days then the receiving bank will contact with the originating bank and thereby seek the recourse.
+
+
+
+
+The Originating bank can verify the case/get confirmation from the originator/receiver and under
+certain conditions has the right to accept or reject the dispute request. The reply on dispute request in
+essence is to accept or reject the dispute request. Only in case a dispute is accepted by the Originating
+
+--- Page 42 ---
+41 of 83
+
+bank, the Originating bank will be debited and the Receiving bank will be credited.
+
+If the participants fail to settle a dispute amicably the dispute shall be referred to the Arbitration process
+as provided in the following section10.4 (Arbitration).
+
+Section 10.3 Fraudulent Entry
+
+If the originator doesn’t get proper cooperation from the originating bank regarding settlement of a
+disputed (fraudulent) entry, that the originator claimed to have not been initiated, s/he may directly
+apply to the Arbitration Panel of Bangladesh Bank for remedial
+Section 10.4 Arbitration
+
+Participating banks involved in a dispute, which cannot prima facie be settled by mutual agreement at
+the Head Office level, may submit the relevant facts to the Payment Systems Department (PSD) of the
+Bangladesh Bank for Arbitration. The dispute must be submitted to General Manager, Payment Systems
+Department Bangladesh Bank along with complete details within fifteen (15) working days from the
+date of receipt of the complaint from the customer. Bangladesh Bank shall resolve the disputes within
+thirty (30) working days having one or more meetings as required. However, in case of lack of direct or
+circumstantial evidence or if further investigation is needed, additional time may be taken to make the
+decision.
+
+Section 10.5 Arbitration Panel
+An Arbitration Panel may be constituted of at least three (3) officials from the Bangladesh Bank. The
+panel would be presided by a Deputy General Manager (DGM) and two (2) other members should be
+from business team and ICT team. For co-ordination of arbitration each member bank should nominate
+at least two officers at their end to present the facts or documents relating to the dispute and act as
+primary and secondary contact points.
+Section 10.6 Presentment of Arbitration
+
+The Arbitration process would be fair and effective and that all relevant information would be properly
+considered. The parties to any dispute must jointly (or individually) sign a reference indicating their
+intention that the dispute be referred to Arbitration for resolution. The reference must contain the
+following information:
+A statement of the claim made by the and/or a statement of the defense and counterclaim of the
+Respondent as the case may be;
+ii.
+A statement of the facts surrounding the claim, defense or counterclaim as the case may be;
+iii.
+Identification of the documentary evidence sought to be relied upon and where practicable
+copies of the documentary evidence should be appended to the Reference;
+iv.
+A statement of the BDT amount of damages or the relief sought;
+Any other information or arguments that may be relevant.
+
+The coordinator of the Arbitration Panel will transfer the request and the response to the members of the
+panel in a ―Dispute File‖ and will assign it a file number.
+
+Section 10.7 Convening the panel and inviting the parties
+
+The Coordinator as decided by the Bangladesh Bank will determine the time and place for the panel to
+meet and will provide early notice of the meeting to the parties. In the case of an agreed-upon panel, the
+Chairman of the panel has the authority to set the time and place of the panel’s meeting and to invite the
+parties.
+
+--- Page 43 ---
+42 of 83
+
+10.7.1. Additional meeting of the panel
+
+The panel will endeavor to decide the matter within one meeting. In special cases, when a decision
+cannot be reached, the chairman of the panel will – prior to the conclusion of the first meeting – decide
+on an early date for an additional meeting(s) to complete the arbitration. The number of additional
+meeting will be decided by the chairman of the panel as it seems necessary.
+Section 10.8 the Dispute File
+The dispute file organized by the Co-ordinator of the Arbitration Panel will have the following
+characters-
+All the materials brought before the panel will be contained in a Dispute File, which will also
+contain the protocol of the panel meeting
+ii.
+The Chairman of the panel will see to it that a protocol is recorded which includes the main
+points of the dispute, a summary of the arguments of each side, the conclusions of the panel and
+its decision. The Coordinator will present a copy of the protocol to each side on request
+iii.
+The request and the response in the protocol or the Dispute File shall not include information
+that violates banking confidentiality.
+
+Section 10.9 Record keeping
+For record keeping relating to complaints, banks are required to follow instructions stated in the BEFTN
+operating rules. For complaints escalated to Courts, all the related evidences should be retained till the
+final decision.
+Section 10.10 Decision/Award
+The decision shall be made promptly by the panel within stipulated time. The panel need not state the
+reasons for the decision. The panel may award simple or compound interest on any sum awarded at
+such rate or rates and in respect of such period or periods ending not later than the date of the award as
+the panel considers just. All awards must be issued through the Chairman. The panel must deliver to the
+Co-ordinator a number of original copies of the decision sufficient for the parties and for filing purpose.
+The Co-ordinator shall release the decision to the parties upon the full settlement of fees and expenses.
+The award shall be final, binding and enforceable according to its terms and the parties undertake to
+carry out the award without delay.
+Section 10.11 Acceptance of the panel’s decision
+The banks under dispute shall accept the decision of the panel to which a dispute between them is
+brought for clarification. Nonetheless, it is hereby clarified that the procedure in this section should not
+be viewed as agreement to engage in legal clarification.
+Section 10.12 Additional clarification by a special panel
+The decision of a panel is final. In special cases, which will be considered as exceptions, the Chairman
+of the Panel will have the authority to bring a dispute for additional clarification before a special panel
+that he will convene.
+Section 10.13 The procedures for discussion in the panel and for initiating clarification
+The Chairman of the Panel has the authority to determine the panels' procedures for discussion and
+additional procedures for bringing a dispute before a panel for discussion.
+Section 10.14 Costs
+The panel shall specify in the final meeting the costs of the arbitration and decide which party shall bear
+them and in what proportion. The "costs of the arbitration" shall include:
+
+--- Page 44 ---
+43 of 83
+
+The fees of the panel [for a single meeting it would be BDT 5,000.00 per person] would be fixed
+by the Bangladesh Bank from time to time;
+ii.
+The costs of expert advice or of other assistance rendered; and
+iii.
+All expenses which are reasonably incurred by the BB in connection with the arbitration.
+The panel has power to order in its award, that all or part of the legal or other costs of one party shall be
+paid by the other party. Such costs shall, unless the award otherwise fixes or directs, be taxable by the
+Co-ordinator.
+
+Section 10.15 Proposals for changes in the rules
+On the basis of its experience in arbitrating the disputes, the panel can propose changes in the BEFTN
+rules that may deemed fit to the payment Systems Department of Bangladesh Bank.
+Section 10.16 Publication of the highlights of the clarification
+The Chairman of the Panel has the authority to publish the panel decisions.
+Section 10.17 Indemnification of Arbitration Panel
+Where they can be deemed to be acting in good faith the members of the Arbitration Panel shall have no
+liability whatsoever, whether for acts or omissions or with respect to any other matter, arising directly
+under Arbitration. The parties to the Arbitration expressly agree to this and further expressly hereby
+agree to indemnify other parties and the Arbitration Panel and keep each of them harmless from any and
+all claims, which could arise in connection therewith.
+Section 10.18 Dispute Resolution Flow
+
+
+
+
+
+
+
+Customer provides
+clarification details if
+required
+
+--- Page 45 ---
+44 of 83
+
+ARTICLE ELEVEN
+DEFINITION OF TERMS
+
+
+
+(1) ―Access‖ means the right of or opportunity for an institution to use BEFTN system to settle
+payments on its own account or for customers.
+
+(2) ―Addenda record‖ means an EFT record type that carries the supplemental data
+needed to completely identify an account holder or provide information concerning a payment
+to the RB and the receiver.
+(3) ―Alphanumeric‖ means any character 0 ‐ 9, A ‐ Z, a‐z, blank, and printable special characters
+which have an ASCII value greater than hexadecimal 1F. Fields defined in these Rules as
+―alphanumeric‖ may contain any of these allowable characters.
+
+(4) ―Banking Day‖ means, with reference to a Participating Bank, any day on which such Bank is
+open to the public during any part of such day for carrying on substantially all of its Banking
+functions, and, with reference to the BEFTN, and any day on which the appropriate facility of
+such BEFTN Operation is being operated.
+
+(5) ―Banking System‖ means all Banks that in particular accept deposits, provide and/or offer
+payment services directly to users as one of their core business functions. This includes the
+central bank as well.
+
+(6) “Batch” means the transmission or processing of payment items/instruments collectively in a
+group.
+(7) ―BEFTN Authority‖ means a funds transfer system operator governed by these Rules
+which provides for the inter-bank clearing of electronic credit and debit entries for participating
+Banks.
+
+(8) “Business continuity” means a payment system’s arrangements which aim to ensure that
+it meet agreed service levels even if one or more components of the system fails or if it is
+affected by an abnormal external event. Include both preventive measures and arrangements to
+deal with contingencies.
+(9) “Business Day” means a Banking Day including all days except weekly holidays and all
+approved Bank Holidays.
+(10) “Clearing‖ means exchanging, reconciling and netting of payment instructions among
+participants and operators of payment system.
+
+(11) ―Consumer Account‖ means an account held by a Participating Bank and established by a
+natural person primarily for personal, family or household and not for commercial purposes.
+(12) ―Consumer Entry‖ means a credit or debit entry initiated by an organization pursuant to a
+standing or a single entry authorization from a Receiver to affect a transfer of funds to or from
+a Consumer Account of the Receiver.
+
+--- Page 46 ---
+45 of 83
+
+(13) ―Corporate Entry‖ means a debit or credit entry initiated by an organization to consolidate
+funds of that organization from its branches, franchises or agents, or from other organizations,
+or to fund the accounts of its branches, franchises or agents, or of another organization.
+(14) ―Data Transmission‖ means the electronic exchange of information between two data
+processing points.
+(15) ―Direct debit‖ means a method of collection used in EFT system for certain claims,
+generally those that are repeated over a period of time, under which the debtor gives his or her
+bank authorization to debit his or her account upon the receipt of an entry issued by a creditor.
+(16) ―Direct Deposit‖ means an EFT service that provides for the electronic transfer of funds
+directly into the account of a payee, usually an employee receiving salary or social security
+benefits.
+(17) ―Effective Entry Date‖ means the date the originator expects payment to take place. The
+BEFTN reads the effective entry date to determine the settlement date.
+(18) ―Electronic‖ means relating to technology having electrical, digital, magnetic, wireless,
+optical, electromagnetic, or similar capabilities.
+(19) ―Electronic Fund Transfer (EFT)‖ means transfer of fund among accounts after getting proper
+instructions from account holder and is executed by Payment System Participants or Payment
+Service Provider.
+
+(20) ―Electronic Record‖ means an agreement, authorization, written statement, or other record
+created, generated, sent, communicated, received, or stored by electronic means.
+(21) ―Electronic Signature‖ means an electronic sound, symbol, or process attached to or logically
+associated with an agreement, authorization, written statement, or other record and executed or
+adopted by a person with the intent to sign the record.
+(22) ―Entry‖ means an order or request complying with the requirements of Appendix Two (BEFTN
+message Specifications) (1) for the transfer of money to the account of a Receiver (a ―credit
+entry‖), (2) for the withdrawal of money from the account of a Receiver (a ―debit entry‖), (3) a
+zero Taka entry.
+(23) ―Entry data‖ means, as applicable, returned entries, adjustment entries, notifications of change
+and/or other notices or data transmitted through the BEFTN pursuant to these Rules.
+(24) ―End user‖ is a customer of a bank who provides payment instructions to the bank for
+completing a financial transactions
+(25) ―File‖ means a group of entries complying with the requirements of Appendix Two (BEFTN
+Record Format Specifications), associated with a given transmittal register and the control
+totals set forth therein.
+(26) ―Finality‖ means irrevocable and unconditional
+(27) ―Funds Availability‖ means the time at which the funds resulting from a funds transfer are
+made available to the customer.
+(28) ―Inbound entry‖ means an entry that originates in another country and is transmitted to The
+People's Republic of Bangladesh.
+
+(29) ―Net settlement system‖ means a settlement system in which final interbank settlement
+
+--- Page 47 ---
+46 of 83
+
+of individual transfer instructions occurs on a net basis at one or more discrete, specified times
+during a processing day.
+
+(30) “Netting” means calculating the net dues among the Payment System Participants.
+
+(31) ―On‐us Entry‖ means an entry within an EFT file destined for an account holder at the
+Originating Bank.
+
+(32) ―Operational risk‖ means the risk that arises out of deficiencies in information systems or
+internal controls and could result in unexpected losses.
+
+(33) ―Organization‖ means a corporation, partnership, association or other entity, governmental or
+private, or a natural person, provided that, in the case of a natural person, any account of such
+person to be debited or credited with the amount of any entry is maintained primarily for
+commercial and not for personal, family or household purposes.
+
+(34) “Originating Bank” is the bank which receives payment instructions from its customer (the
+Originator) and forwards the Instructions to BEFTN.
+
+(35) “Originator” is the entity that agrees to initiate EFT entries into the network according to an
+arrangement with a receiver. The originator is usually a company, bank itself, government
+agency or an individual directing a transfer of funds to or from their account.
+
+(36) ―Participating Bank” means a Bank who is a participant in a payment system.
+
+(36) ―Payment” means payer’s transfer of a monetary claim on a party acceptable to the
+payee.
+
+(37) ―Payment infrastructure‖ the entirety of network facilities, technologies and procedures for
+accessing and transacting payment instructions and for processing, clearing and settling the
+same.
+
+(38) ―Payment systems” m e a n a process for payment, clearing and settlement.
+
+(40) ―Posting‖ the process of recording debits and credits to individual account balances.
+
+(41) ―Person” means a human being or an organization having legal entity.
+
+
+(42) ―Receiver‖ is Person or organization receiving a Payment Instruction from the System.
+
+(43) ―Receiving Bank‖ is the Bank where receiver maintains account with.
+(44) ―Retail payment‖ me a n s a payment between various consumers, businesses and
+governments of relatively low value and urgency.
+
+(45) ―Record‖ means information that is inscribed on a tangible medium or that is stored in an
+electronic or other medium and is retrievable in perceivable form.
+
+(46) ―Retail payment infrastructure‖ means mechanisms used for transaction, clearing and
+settlement of relatively low‐value non‐urgent payments initiated through payment
+instruments/instructions such as cheques, drafts, payment orders, EFT credit transfers, EFT
+direct debits, card payments etc.
+
+(47) ―Return‖ means any EFT entry that has been returned to the originating bank by the
+receiving bank or by the BEFTN because it cannot be processed. The reasons for each return
+are included as ―return reason code‖.
+
+--- Page 48 ---
+47 of 83
+
+
+(48) ―Routing Number‖ is a nine digit number that identifies a specific bank branch assigned by
+Bangladesh Bank.
+
+(49) ―SEC Codes‖ means each EFT transaction is identified and recognized by a three‐digit code
+known as the Standard Entry Class (SEC) Code, from which the type of payment as well
+as the consumer/corporate instruction might be understood.
+
+
+(50) ―Settlement‖ means clear up of dues by transferring of funds or securities among the Payment
+Systems Participants.
+
+(51) ―Settlement Date‖ means the date on which an exchange of funds with respect to an entry is
+reflected on the books of the Bangladesh Bank.
+
+(52) ―Settlement risk‖ means general terms used to designate the risk that settlement in a funds
+transfer system would not take place as expected.
+
+
+(53) ―Settlement Date‖ means the date an exchange of funds with respect to an entry is reflected on
+the books of the Bangladesh Bank.
+
+(54) ―Single Entry‖ means a one‐time transfer of funds initiated by an Originator in accordance
+with the Receiver’s authorization for a single BEFTN credit or debit to the Receiver’s
+Consumer Account.
+
+(55) ―Stakeholder‖ in a payment system stakeholders are those parties whose interests are
+affected by the operation of the system.
+
+(56) ―Transmit‖ means to deliver by electronic means of communication.
+
+(57) Transaction Code: the two digit code in the EFT record that determines whether an entry is a
+debit or a credit to a account,
+
+(58) ―Zero Entry‖ means an entry which carries a zero amount but does include payment related
+remittance data. Zero entries are limited to corporate entries that carry remittance data related to
+the payment.
+SECTION 11.2 Construction Rules
+
+Unless the context otherwise requires, words in a singular number include the plural, and in the
+plural include the singular. The term ―section‖ refers to a subdivision of an Article containing a two‐
+digit number (e.g., ―2.1‖); the term ―subsection‖ refers to a subdivision of a section containing a
+three or four‐digit number (e.g., ―2.1.1‖).
+
+--- Page 49 ---
+48 of 83
+
+APPENDIX ONE
+BEFTN FILE EXCHANGE SPECIFICATIONS
+
+The following information outlines the requirements for processing electronic transmissions,
+addresses the sequence of records in a BEFTN file, and gives a descriptive overview of the various
+logical records contained in a file.
+SECTION 1.1 Electronic Transmission Requirements
+
+To ensure compatibility in electronic file transmission, necessary operating details need to be
+addressed between a Participating Bank and BEFTN.
+SECTION 1.2 BEFTN CD/DVD Specifications
+
+In contingency situations, data may be submitted on CD/DVD media.
+SECTION 1.3 Data Specifications
+
+All alphanumeric and alphabetic fields must be left justified and space filled. All numeric fields must
+be right justified, unsigned, and zero filled. Characters used in BEFTN records are restricted to 0‐9,
+A‐Z, a‐z and space.
+SECTION 1.4 Sequence of Records in BEFTN Files
+
+Each file begins with a File Header Record. After the File Header may be any number of batches.
+Each batch is identified by a Batch Header Record and contains one or more Entry Detail Records.
+The number of addenda records that accompany each entry is dependent upon the Standard Entry
+Class Code. At the end of each batch is a Batch Control Record. Each file is ended with a File Control
+Record. The records in BEFTN files must be in the following sequence:
+
+File Header Record
+Batch #1
+Company/Batch Header
+Record
+Entry Detail Records or Corporate Entry Detail Records
+(with Addenda Records) Company/Batch
+Control Record
+Batch #2
+Company/Batch Header
+Record
+Entry Detail Records or Corporate Entry Detail Records
+(with Addenda Records) Company/Batch
+Control Record
+Batch #n
+Company/Batch Header
+Record
+Entry Detail Records or Corporate Entry Detail Records
+(with Addenda Records) Company/Batch
+Control Record
+File Control
+
+--- Page 50 ---
+49 of 83
+
+Record
+
+SECTION 1.5 File Structure
+
+File Header Record
+The File Header Record designates physical file characteristics and identifies the immediate origin
+(or BEFTN) and destination (or BEFTN) of the entries contained within the file or within the
+transmitted batched data. In addition, this record includes date, time, and file identification fields
+which can be used to identify the file uniquely.
+
+Company/Batch Header Record
+
+The Company/Batch Header Record identifies the Originator and briefly describes the purpose of the
+entry. For example, ―GAS BILL‖ or ―SALARY‖ indicates the reason for the transaction originated
+by the Originator. The Company/Batch Header Record contains the Routing Number of the OB for
+settlement, routing of returns, and other control purposes. In addition, the Company/Batch Header
+Record can indicate the intended effective entry date of all transactions within the batch. The
+information contained in the Company/Batch Header Record applies uniformly to all subsequent
+Entry Detail Records in the batch.
+
+
+Entry Detail Record, Corporate Entry Detail Record
+
+Entry Detail Records contain that information sufficient to relate the entry to the Receiver, i.e.,
+individual bank account number, identification number, name, and the debit or credit amount as
+indicated by the Transaction Code.
+
+The information in the Company/Batch Header Record must be incorporated with the Entry Detail
+Records to describe fully that entry and all participants in the transaction. The information in the
+Company/Batch Header Record identifies the Originator; the Trace Number identifies the OB; bank
+account information identifies both the RB and the specific account. In addition to the basic entry
+format, Transaction Codes for Entry Detail Records have been defined to accommodate zero Taka
+entries, and return entries. Zero entries are identical to the basic entry format but contain appropriate
+Transaction Codes and zeros in the Amount field. Zero entries can be batched with other entries or
+batched separately. A zero entry must be accompanied by at least one Addenda Record.
+
+Return entries are distinguished by special Transaction Codes and must be batched separately from
+other Taka entries.
+
+
+Addenda Record
+
+Addenda records will be used by the Originator to supply additional information about Entry Detail
+Records that will be passed from the OB through the BEFTN to the RB. Addenda records associated
+with the original Entry Detail Record or Corporate Entry Detail Record will not be included with any
+Entry Detail Record being returned. Only BEFTN sanctioned specification will be permitted, as
+specified by the Addenda Type Code. Addenda record information may only be used for the purpose
+of transmitting payment related information. Any other use is prohibited. Each instruction and its
+corresponding number of addenda records are listed below:
+INSTRUCTION
+MAX ‐ ADDENDA
+Mandatory/Optional
+CCD
+Optional
+CIE
+Optional
+NOC
+Mandatory
+
+--- Page 51 ---
+50 of 83
+
+CTX
+9,999
+Optional
+PPD
+Optional
+RETURNS
+Mandatory
+
+Company/Batch
+
+Company/Batch Control Record
+The Company/Batch Control Record contains the counts, hash totals, and total Taka controls
+for the preceding detail entries within the indicated batch.
+
+All Entry Detail Records are hashed. Both Entry Detail Records and Addenda Records are
+included in the entry/addenda counts; Batch Header and Batch Control Records are not
+included.
+
+File Control Record
+The File Control Record contains amount, entry, and hash total accumulations from the
+Company/Batch Control Records in the file. This record also contains counts of the number
+of blocks and the number of batches within the file (or batched data transmitted to a single
+destination).
+
+Sequence of Records:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION 1.6 Trace Number Sequence in BEFTN Files
+
+Banks must always prepare files so that individual Entry Detail Records within individual batches are
+in ascending Trace Number order (although Trace Numbers need not necessarily be consecutive).
+The Trace Number in an Addenda Record is the same as that of the Entry Detail Record with which
+the Addenda Record is associated.
+
+Addenda Records must be in consecutive ascending order by the Addenda Sequence Number.
+Entry Detail Record
+File header record
+Entry Detail Record
+Batch Header Record
+Batch Control Record
+Batch Header Record
+Entry Detail Record
+Entry Detail Record
+Batch Control Record
+File Control Record
+One per batch
+One per batch
+One per file,
+last logical
+One per file,
+last logical
+Batch 1
+Batches 2-N
+Batch N
+
+--- Page 52 ---
+51 of 83
+
+APPENDIX TWO
+BEFTN MESSAGE SPECIFICATIONS
+
+The BEFTN message specifications are designed to assist BEFTN participants in properly
+formatting and retrieving transaction information. This section details the contents of the
+various message formats and defines the code values and data elements. The inclusion
+requirements, contents, and lengths of data elements are illustrated in the message formats,
+which are arranged according to their sequence in the file. The glossary defines and explains
+the application of each field.
+SECTION 2.1 Code Values
+Addenda Record Indicator
+Record Format Location: Entry Detail Record and Corporate Entry Detail Record
+No addenda record follows the entry
+One or more addenda records follow the entry
+Addenda Type Codes
+Record Format Location: Addenda Record
+05
+Addenda Record (Applies to CCD, CIE, CTX, and PPD Entries)
+98
+Automated Notification of Change (NOC) Addenda Record
+99
+Automated Return Entry Addenda Record
+Originator Status Codes
+Record Format Location: Addenda Record
+File prepared by BEFTN
+This code identifies the Originator as a Bank which has agreed to be bound by these Rules
+This code identifies the Originator as a government entity or agency not subject to these Rules.
+Record Type Codes
+Record Format Location: The first position of all record formats. These codes are uniquely assigned
+for each type of record as follows:
+File Header Record Format
+Company/Batch Header Record Format
+Entry Detail Record Format (Consumer and Corporate)
+Addenda Record Formats
+Company/Batch Control Record Format
+File Control Record Format
+
+Service Class Codes
+Record Format Location: Company/Batch Header Record and Company/Batch Control Record
+220
+BEFTN Credits Only
+225
+BEFTN Debits Only
+Standard Entry Class Codes
+Record Format Location: Company/Batch Header Record
+Transaction Codes
+Record Format Location: Entry Detail Record
+Current Credit Records (Current Deposit Accounts)
+21
+Automated Return or Notification of Change for original transaction code 22, 23 or 24
+22
+Automated Deposit
+23
+Prenotification of Demand Credit Authorization
+24
+Zero Taka with remittance data (for CCD and CTX entries only);
+
+--- Page 53 ---
+52 of 83
+
+Current Debit Records (Current Deposit Accounts)
+25
+Reserved
+26
+Automated Return or Notification of Change for original transaction code 27, 28 or 29
+27
+Automated Payment
+28
+Prenotification
+29
+Zero Taka with remittance data (for CCD and CTX entries only)
+
+Savings Account Credit Records
+30
+Reserved
+31
+Automated Return or Notification of Change for original transaction code 32, 33 or 34
+32
+Automated Deposit
+33
+Prenotification
+34
+Zero Taka with remittance data
+
+Savings Account Debit Records
+35
+Reserved
+36
+Automated Return or Notification of Change for original transaction code 37, 38 or 39
+37
+Automated Payment
+38
+Prenotification
+39
+Zero Taka with remittance data
+SECTION 2.2 Glossary of File Format Data Elements
+
+Field Inclusion Requirements
+The following information defines the need for inclusion of certain data fields in BEFTN entries. This
+involves the standardization of three definitions: Mandatory, Required, and Optional.
+
+Mandatory for BEFTN Processing: A ―Mandatory‖ field is necessary to ensure the proper
+routing and/or posting of a BEFTN entry. Any ―Mandatory‖ field not included in a BEFTN record
+will cause that entry, batch, or file to be rejected by the BEFTN. A rejected entry will be returned to
+the OB by the BEFTN. A rejected batch or rejected file will be reported to the OB or by the BEFTN.
+
+Required: The omission of a ―Required‖ field will not cause an entry reject at the BEFTN, but may
+cause a reject at the RB. An example is the BANK Account Number field in the Entry Detail Record.
+If this field is omitted by an OB, the RB may return the entry as unable to be posted. Data classified
+as ―Required‖ should be included by the Originator and OB to avoid processing and control problems
+at the RB.
+
+Optional: The inclusion or omission of an ―Optional‖ data field is at the discretion of the Originator
+and OB. However, if a BANK does originate files using optional data fields, these fields must be
+returned to the OB if the entry is returned.
+
+SECTION 2.3 Sample message format of EFT file
+
+2.3.1 CIE Message Format
+
+<EFT>
+<FHR>
+<PriorityCode>01</PriorityCode>
+<ImmediateDestination>025270002</ImmediateDestination>
+<ImmediateOrigin>025278888</ImmediateOrigin>
+<CreationDate>190711</CreationDate>
+<CreationTime>1132</CreationTime>
+
+--- Page 54 ---
+53 of 83
+
+<FileIdModifier>7</FileIdModifier>
+<FormatCode>1</FormatCode>
+<ImmediateDestinationName>BACH</ImmediateDestinationName>
+<ImmediateOriginName>BANG</ImmediateOriginName>
+<Currency>BDT</Currency>
+</FHR>
+<BHR>
+<ServiceClassCode>220</ServiceClassCode>
+<CompanyName>Company</CompanyName>
+<CompanyDiscretionaryData>DISCRETIONARY</CompanyDiscretionaryData>
+<CompanyId>12345678910</CompanyId>
+<SECC>CIE</SECC>
+<CompanyEntryDesc>EntryDesc</CompanyEntryDesc>
+<CompanyDescDate>190711</CompanyDescDate>
+<EffectiveEntryDate>190711</EffectiveEntryDate>
+<SettlementJDate>000</SettlementJDate>
+<OrigStatusCode>1</OrigStatusCode>
+<OrigBank>02527888</OrigBank>
+<BatchNumber>0000001</BatchNumber>
+</BHR>
+<EDR>
+<TransactionCode>22</TransactionCode>
+<ReceivingBank>02027000</ReceivingBank>
+<CheckDigit>7</CheckDigit>
+<DFIAccountNum>123456789</DFIAccountNum>
+<Amount>0000010100</Amount>
+<ReceiverName>123</ReceiverName>
+<IndividualId>Receiver</IndividualId>
+<DiscretionaryData> </DiscretionaryData>
+<ADRIndicator>1</ADRIndicator>
+<TraceNumber>025278880000017</TraceNumber>
+</EDR>
+<ADR>
+<AddendaTypeCode>05</AddendaTypeCode>
+<PaymentInfo>Payment related information</PaymentInfo>
+<AddendaSeqNum>0001</AddendaSeqNum>
+<EntryDetailSeqNum>025278880000017</EntryDetailSeqNum>
+</ADR>
+<BCR>
+<ServiceClassCode>220</ServiceClassCode>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<TotalDebitAmount>000000000000</TotalDebitAmount>
+<TotalCreditAmount>000000010100</TotalCreditAmount>
+<CompanyId>ID</CompanyId>
+<MsgAuthCode>Auth Code</MsgAuthCode>
+<OriginBank>025278888</OriginBank>
+<BatchNumber>0000001</BatchNumber>
+
+--- Page 55 ---
+54 of 83
+
+</BCR>
+<FCR>
+<BatchCount>000001</BatchCount>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<DebitAmount>000000000000</DebitAmount>
+<CreditAmount>000000010100</CreditAmount>
+</FCR>
+</EFT>
+2.3.2 CCD Message Format (Credit entry)
+<EFT>
+<FHR>
+<PriorityCode>01</PriorityCode>
+<ImmediateDestination>025270002</ImmediateDestination>
+<ImmediateOrigin>025278888</ImmediateOrigin>
+<CreationDate>190711</CreationDate>
+<CreationTime>1132</CreationTime>
+<FileIdModifier>7</FileIdModifier>
+<FormatCode>1</FormatCode>
+<ImmediateDestinationName>BACH</ImmediateDestinationName>
+<ImmediateOriginName>BANG</ImmediateOriginName>
+<Currency>BDT</Currency>
+</FHR>
+<BHR>
+<ServiceClassCode>220</ServiceClassCode>
+<CompanyName>Company</CompanyName>
+<CompanyDiscretionaryData>DISCRETIONARY</CompanyDiscretionaryData>
+<CompanyId>12345678910</CompanyId>
+<SECC>CCD</SECC>
+<CompanyEntryDesc>EntryDesc</CompanyEntryDesc>
+<CompanyDescDate>190711</CompanyDescDate>
+<EffectiveEntryDate>190711</EffectiveEntryDate>
+<SettlementJDate>000</SettlementJDate>
+<OrigStatusCode>1</OrigStatusCode>
+<OrigBank>02527888</OrigBank>
+<BatchNumber>0000001</BatchNumber>
+</BHR>
+<EDR>
+<TransactionCode>22</TransactionCode>
+<ReceivingBank>02027000</ReceivingBank>
+<CheckDigit>7</CheckDigit>
+<DFIAccountNum>123456789</DFIAccountNum>
+<Amount>0000010100</Amount>
+<ReceiverName>123</ReceiverName>
+<IndividualId>Receiver</IndividualId>
+<DiscretionaryData> </DiscretionaryData>
+<ADRIndicator>1</ADRIndicator>
+
+--- Page 56 ---
+55 of 83
+
+<TraceNumber>025278880000017</TraceNumber>
+</EDR>
+<ADR>
+<AddendaTypeCode>05</AddendaTypeCode>
+<PaymentInfo>Payment related information</PaymentInfo>
+<AddendaSeqNum>0001</AddendaSeqNum>
+<EntryDetailSeqNum>025278880000017</EntryDetailSeqNum>
+</ADR>
+<BCR>
+<ServiceClassCode>220</ServiceClassCode>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<TotalDebitAmount>000000000000</TotalDebitAmount>
+<TotalCreditAmount>000000010100</TotalCreditAmount>
+<CompanyId>ID</CompanyId>
+<MsgAuthCode>Auth Code</MsgAuthCode>
+<OriginBank>025278888</OriginBank>
+<BatchNumber>0000001</BatchNumber>
+</BCR>
+<FCR>
+<BatchCount>000001</BatchCount>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<DebitAmount>000000000000</DebitAmount>
+<CreditAmount>000000010100</CreditAmount>
+</FCR>
+</EFT>
+2.3.3 CCD Message Format (Debit entry)
+<EFT>
+<FHR>
+<PriorityCode>01</PriorityCode>
+<ImmediateDestination>025270002</ImmediateDestination>
+<ImmediateOrigin>025278888</ImmediateOrigin>
+<CreationDate>190711</CreationDate>
+<CreationTime>1132</CreationTime>
+<FileIdModifier>7</FileIdModifier>
+<FormatCode>1</FormatCode>
+<ImmediateDestinationName>BACH</ImmediateDestinationName>
+<ImmediateOriginName>BANG</ImmediateOriginName>
+<Currency>BDT</Currency>
+</FHR>
+<BHR>
+<ServiceClassCode>225</ServiceClassCode>
+<CompanyName>Company</CompanyName>
+<CompanyDiscretionaryData>DISCRETIONARY</CompanyDiscretionaryData>
+<CompanyId>12345678910</CompanyId>
+<SECC>CCD</SECC>
+
+--- Page 57 ---
+56 of 83
+
+<CompanyEntryDesc>EntryDesc</CompanyEntryDesc>
+<CompanyDescDate>190711</CompanyDescDate>
+<EffectiveEntryDate>190711</EffectiveEntryDate>
+<SettlementJDate>000</SettlementJDate>
+<OrigStatusCode>1</OrigStatusCode>
+<OrigBank>02527888</OrigBank>
+<BatchNumber>0000001</BatchNumber>
+</BHR>
+<EDR>
+<TransactionCode>27</TransactionCode>
+<ReceivingBank>02027000</ReceivingBank>
+<CheckDigit>7</CheckDigit>
+<DFIAccountNum>123456789</DFIAccountNum>
+<Amount>0000010100</Amount>
+<ReceiverName>123</ReceiverName>
+<IndividualId>Receiver</IndividualId>
+<DiscretionaryData> </DiscretionaryData>
+<ADRIndicator>1</ADRIndicator>
+<TraceNumber>025278880000017</TraceNumber>
+</EDR>
+<ADR>
+<AddendaTypeCode>05</AddendaTypeCode>
+<PaymentInfo>Payment related information</PaymentInfo>
+<AddendaSeqNum>0001</AddendaSeqNum>
+<EntryDetailSeqNum>025278880000017</EntryDetailSeqNum>
+</ADR>
+<BCR>
+<ServiceClassCode>225</ServiceClassCode>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<TotalDebitAmount>000000010100</TotalDebitAmount>
+<TotalCreditAmount>000000000000</TotalCreditAmount>
+<CompanyId>ID</CompanyId>
+<MsgAuthCode>Auth Code</MsgAuthCode>
+<OriginBank>025278888</OriginBank>
+<BatchNumber>0000001</BatchNumber>
+</BCR>
+<FCR>
+<BatchCount>000001</BatchCount>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<DebitAmount>000000010100</DebitAmount>
+<CreditAmount>000000000000</CreditAmount>
+</FCR>
+</EFT>
+
+--- Page 58 ---
+57 of 83
+
+2.3.4 PPD Message Format (Credit entry)
+<EFT>
+<FHR>
+<PriorityCode>01</PriorityCode>
+<ImmediateDestination>025270002</ImmediateDestination>
+<ImmediateOrigin>025278888</ImmediateOrigin>
+<CreationDate>190711</CreationDate>
+<CreationTime>1132</CreationTime>
+<FileIdModifier>7</FileIdModifier>
+<FormatCode>1</FormatCode>
+<ImmediateDestinationName>BACH</ImmediateDestinationName>
+<ImmediateOriginName>BANG</ImmediateOriginName>
+<Currency>BDT</Currency>
+</FHR>
+<BHR>
+<ServiceClassCode>220</ServiceClassCode>
+<CompanyName>Company</CompanyName>
+<CompanyDiscretionaryData>DISCRETIONARY</CompanyDiscretionaryData>
+<CompanyId>12345678910</CompanyId>
+<SECC>PPD</SECC>
+<CompanyEntryDesc>EntryDesc</CompanyEntryDesc>
+<CompanyDescDate>190711</CompanyDescDate>
+<EffectiveEntryDate>190711</EffectiveEntryDate>
+<SettlementJDate>000</SettlementJDate>
+<OrigStatusCode>1</OrigStatusCode>
+<OrigBank>02527888</OrigBank>
+<BatchNumber>0000001</BatchNumber>
+</BHR>
+<EDR>
+<TransactionCode>22</TransactionCode>
+<ReceivingBank>02027000</ReceivingBank>
+<CheckDigit>7</CheckDigit>
+<DFIAccountNum>123456789</DFIAccountNum>
+<Amount>0000010100</Amount>
+<ReceiverName>123</ReceiverName>
+<IndividualId>Receiver</IndividualId>
+<DiscretionaryData> </DiscretionaryData>
+<ADRIndicator>1</ADRIndicator>
+<TraceNumber>025278880000017</TraceNumber>
+</EDR>
+<ADR>
+<AddendaTypeCode>05</AddendaTypeCode>
+<PaymentInfo>Payment related information</PaymentInfo>
+<AddendaSeqNum>0001</AddendaSeqNum>
+<EntryDetailSeqNum>025278880000017</EntryDetailSeqNum>
+</ADR>
+<BCR>
+<ServiceClassCode>225</ServiceClassCode>
+
+--- Page 59 ---
+58 of 83
+
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<TotalDebitAmount>000000000000</TotalDebitAmount>
+<TotalCreditAmount>000000010100</TotalCreditAmount>
+<CompanyId>ID</CompanyId>
+<MsgAuthCode>Auth Code</MsgAuthCode>
+<OriginBank>025278888</OriginBank>
+<BatchNumber>0000001</BatchNumber>
+</BCR>
+<FCR>
+<BatchCount>000001</BatchCount>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<DebitAmount>000000000000</DebitAmount>
+<CreditAmount>000000010100</CreditAmount>
+</FCR>
+</EFT>
+
+2.3.5 PPD Message Format (Debit entry)
+
+<EFT>
+<FHR>
+<PriorityCode>01</PriorityCode>
+<ImmediateDestination>025270002</ImmediateDestination>
+<ImmediateOrigin>025278888</ImmediateOrigin>
+<CreationDate>190711</CreationDate>
+<CreationTime>1132</CreationTime>
+<FileIdModifier>7</FileIdModifier>
+<FormatCode>1</FormatCode>
+<ImmediateDestinationName>BACH</ImmediateDestinationName>
+<ImmediateOriginName>BANG</ImmediateOriginName>
+<Currency>BDT</Currency>
+</FHR>
+<BHR>
+<ServiceClassCode>225</ServiceClassCode>
+<CompanyName>Company</CompanyName>
+<CompanyDiscretionaryData>DISCRETIONARY</CompanyDiscretionaryData>
+<CompanyId>12345678910</CompanyId>
+<SECC>PPD</SECC>
+<CompanyEntryDesc>EntryDesc</CompanyEntryDesc>
+<CompanyDescDate>190711</CompanyDescDate>
+<EffectiveEntryDate>190711</EffectiveEntryDate>
+<SettlementJDate>000</SettlementJDate>
+<OrigStatusCode>1</OrigStatusCode>
+<OrigBank>02527888</OrigBank>
+<BatchNumber>0000001</BatchNumber>
+</BHR>
+
+--- Page 60 ---
+59 of 83
+
+<EDR>
+<TransactionCode>27</TransactionCode>
+<ReceivingBank>02027000</ReceivingBank>
+<CheckDigit>7</CheckDigit>
+<DFIAccountNum>123456789</DFIAccountNum>
+<Amount>0000010100</Amount>
+<ReceiverName>123</ReceiverName>
+<IndividualId>Receiver</IndividualId>
+<DiscretionaryData> </DiscretionaryData>
+<ADRIndicator>1</ADRIndicator>
+<TraceNumber>025278880000017</TraceNumber>
+</EDR>
+<ADR>
+<AddendaTypeCode>05</AddendaTypeCode>
+<PaymentInfo>Payment related information</PaymentInfo>
+<AddendaSeqNum>0001</AddendaSeqNum>
+<EntryDetailSeqNum>025278880000017</EntryDetailSeqNum>
+</ADR>
+<BCR>
+<ServiceClassCode>220</ServiceClassCode>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<TotalDebitAmount>000000010100</TotalDebitAmount>
+<TotalCreditAmount>000000000000</TotalCreditAmount>
+<CompanyId>ID</CompanyId>
+<MsgAuthCode>Auth Code</MsgAuthCode>
+<OriginBank>025278888</OriginBank>
+<BatchNumber>0000001</BatchNumber>
+</BCR>
+<FCR>
+<BatchCount>000001</BatchCount>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<DebitAmount>000000010100</DebitAmount>
+<CreditAmount>000000000000</CreditAmount>
+</FCR>
+</EFT>
+
+2.3.6 CTX Message Format (Credit entry)
+<EFT>
+<FHR>
+<PriorityCode>01</PriorityCode>
+<ImmediateDestination>025270002</ImmediateDestination>
+<ImmediateOrigin>025278888</ImmediateOrigin>
+<CreationDate>190727</CreationDate>
+<CreationTime>1718</CreationTime>
+<FileIdModifier>D</FileIdModifier>
+
+--- Page 61 ---
+60 of 83
+
+<FormatCode>1</FormatCode>
+<ImmediateDestinationName>BACH</ImmediateDestinationName>
+<ImmediateOriginName>BANG</ImmediateOriginName>
+<Currency>BDT</Currency>
+</FHR>
+<BHR>
+<ServiceClassCode>220</ServiceClassCode>
+<CompanyName>Company</CompanyName>
+<CompanyDiscretionaryData>DISCRETIONARY</CompanyDiscretionaryData>
+<CompanyId>ID</CompanyId>
+<SECC>CTX</SECC>
+<CompanyEntryDesc>EntryDesc</CompanyEntryDesc>
+<CompanyDescDate>190727</CompanyDescDate>
+<EffectiveEntryDate>190727</EffectiveEntryDate>
+<SettlementJDate>000</SettlementJDate>
+<OrigStatusCode>1</OrigStatusCode>
+<OrigBank>02527888</OrigBank>
+<BatchNumber>0000001</BatchNumber>
+</BHR>
+<EDR>
+<TransactionCode>22</TransactionCode>
+<ReceivingBank>03027000</ReceivingBank>
+<CheckDigit>0</CheckDigit>
+<DFIAccountNum>123456789</DFIAccountNum>
+<Amount>0000010100</Amount>
+<IdNumber>123</IdNumber>
+<ADRCount>1</ADRCount>
+<ReceivingCompanyId>Receiver</ReceivingCompanyId>
+<DiscretionaryData> </DiscretionaryData>
+<ADRIndicator>1</ADRIndicator>
+<TraceNumber>025278880000013</TraceNumber>
+</EDR>
+<ADR>
+<AddendaTypeCode>05</AddendaTypeCode>
+<PaymentInfo>Payment related information</PaymentInfo>
+<AddendaSeqNum>0001</AddendaSeqNum>
+<EntryDetailSeqNum>025278880000013</EntryDetailSeqNum>
+<InvoiceNumber>A123456789</InvoiceNumber>
+<InvoiceDate>20190727</InvoiceDate>
+<InvoiceGrossAmt>000010000000</InvoiceGrossAmt>
+<AmountPaid>000000010100</AmountPaid>
+<PurchaseOrder>XYZ1234567</PurchaseOrder>
+<AdjustmentAmount>0000010100</AdjustmentAmount>
+<AdjustmentCode>11</AdjustmentCode>
+<AdjustmentDescription>Wrong Amount Sent Previously</AdjustmentDescription>
+</ADR>
+<BCR>
+<ServiceClassCode>220</ServiceClassCode>
+
+--- Page 62 ---
+61 of 83
+
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0003027000</EntryHash>
+<TotalDebitAmount>000000000000</TotalDebitAmount>
+<TotalCreditAmount>000000010100</TotalCreditAmount>
+<CompanyId>ID</CompanyId>
+<MsgAuthCode>Auth Code</MsgAuthCode>
+<OriginBank>025278888</OriginBank>
+<BatchNumber>0000001</BatchNumber>
+</BCR>
+<FCR>
+<BatchCount>000001</BatchCount>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0003027000</EntryHash>
+<DebitAmount>000000000000</DebitAmount>
+<CreditAmount>000000010100</CreditAmount>
+</FCR>
+</EFT>
+2.3.7 Pre-Notification Format
+<EFT>
+<FHR>
+<PriorityCode>01</PriorityCode>
+<ImmediateDestination>025270002</ImmediateDestination>
+<ImmediateOrigin>025278888</ImmediateOrigin>
+<CreationDate>190627</CreationDate>
+<CreationTime>1055</CreationTime>
+<FileIdModifier>7</FileIdModifier>
+<FormatCode>1</FormatCode>
+<ImmediateDestinationName>BACH</ImmediateDestinationName>
+<ImmediateOriginName>BANG</ImmediateOriginName>
+<Currency>BDT</Currency>
+</FHR>
+<BHR>
+<ServiceClassCode>220</ServiceClassCode>
+<CompanyName>Company</CompanyName>
+<CompanyDiscretionaryData>DISCRETIONARY</CompanyDiscretionaryData>
+<CompanyId>ID</CompanyId>
+<SECC>PPD</SECC>
+<CompanyEntryDesc>EntryDesc</CompanyEntryDesc>
+<CompanyDescDate>190627</CompanyDescDate>
+<EffectiveEntryDate>190627</EffectiveEntryDate>
+<SettlementJDate>000</SettlementJDate>
+<OrigStatusCode>1</OrigStatusCode>
+<OrigBank>02527888</OrigBank>
+<BatchNumber>0000001</BatchNumber>
+</BHR>
+<EDR>
+<TransactionCode>23</TransactionCode>
+
+--- Page 63 ---
+62 of 83
+
+<ReceivingBank>01527000</ReceivingBank>
+<CheckDigit>9</CheckDigit>
+<DFIAccountNum>123456789</DFIAccountNum>
+<Amount>0000000000</Amount>
+<IndividualId>123</IndividualId>
+<IndividualName>Receiver</IndividualName>
+<DiscretionaryData> </DiscretionaryData>
+<ADRIndicator>1</ADRIndicator>
+<TraceNumber>025278880000006</TraceNumber>
+</EDR>
+<ADR>
+<AddendaTypeCode>05</AddendaTypeCode>
+<PaymentInfo>Payment related information</PaymentInfo>
+<AddendaSeqNum>0001</AddendaSeqNum>
+<EntryDetailSeqNum>025278880000006</EntryDetailSeqNum>
+</ADR>
+<BCR>
+<ServiceClassCode>220</ServiceClassCode>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0001527000</EntryHash>
+<TotalDebitAmount>000000000000</TotalDebitAmount>
+<TotalCreditAmount>000000000000</TotalCreditAmount>
+<CompanyId>ID</CompanyId>
+<MsgAuthCode>Auth Code</MsgAuthCode>
+<OriginBank>025278888</OriginBank>
+<BatchNumber>0000001</BatchNumber>
+</BCR>
+<FCR>
+<BatchCount>000001</BatchCount>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0001527000</EntryHash>
+<DebitAmount>000000000000</DebitAmount>
+<CreditAmount>000000000000</CreditAmount>
+</FCR>
+</EFT>
+
+2.3.8 Notification of Change (NOC) Format
+
+<EFT>
+<FHR>
+<PriorityCode>01</PriorityCode>
+<ImmediateDestination>025270002</ImmediateDestination>
+<ImmediateOrigin>025278888</ImmediateOrigin>
+<CreationDate>190702</CreationDate>
+<CreationTime>1659</CreationTime>
+<FileIdModifier>9</FileIdModifier>
+<FormatCode>1</FormatCode>
+
+--- Page 64 ---
+63 of 83
+
+<ImmediateDestinationName>BACH</ImmediateDestinationName>
+<ImmediateOriginName>BANG</ImmediateOriginName>
+<Currency>BDT</Currency>
+</FHR>
+<BHR>
+<ServiceClassCode>220</ServiceClassCode>
+<CompanyName>Company</CompanyName>
+<CompanyDiscretionaryData>DISCRETIONARY</CompanyDiscretionaryData>
+<CompanyId>ID</CompanyId>
+<SECC>NOC</SECC>
+<CompanyEntryDesc>EntryDesc</CompanyEntryDesc>
+<CompanyDescDate>190702</CompanyDescDate>
+<EffectiveEntryDate>190702</EffectiveEntryDate>
+<SettlementJDate></SettlementJDate>
+<OrigStatusCode>1</OrigStatusCode>
+<OrigBank>02527888</OrigBank>
+<BatchNumber>0000001</BatchNumber>
+</BHR>
+<EDR>
+<TransactionCode>21</TransactionCode>
+<ReceivingBank>02027000</ReceivingBank>
+<CheckDigit>7</CheckDigit>
+<DFIAccountNum>123456789</DFIAccountNum>
+<Amount>0000000000</Amount>
+<IndividualId>123</IndividualId>
+<IndividualName>Receiver</IndividualName>
+<DiscretionaryData> </DiscretionaryData>
+<ADRIndicator>1</ADRIndicator>
+<TraceNumber>025278880000001</TraceNumber>
+</EDR>
+<ADR>
+<AddendaTypeCode>98</AddendaTypeCode>
+<ChangeCode>C01</ChangeCode>
+<OriginalEntryTN>020270000000007</OriginalEntryTN>
+<OriginalReceivingBank>02527888</OriginalReceivingBank>
+<CorrectedData>0310023148</CorrectedData>
+<AddendaSeqNum>1204</AddendaSeqNum>
+<EntryDetailSeqNum>025278880000001</EntryDetailSeqNum>
+</ADR>
+<BCR>
+<ServiceClassCode>220</ServiceClassCode>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<TotalDebitAmount>000000000000</TotalDebitAmount>
+<TotalCreditAmount>000000000000</TotalCreditAmount>
+<CompanyId>ID</CompanyId>
+<MsgAuthCode>Auth Code</MsgAuthCode>
+<OriginBank>025278888</OriginBank>
+
+--- Page 65 ---
+64 of 83
+
+<BatchNumber>0000001</BatchNumber>
+</BCR>
+<FCR>
+<BatchCount>000001</BatchCount>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0002027000</EntryHash>
+<DebitAmount>000000000000</DebitAmount>
+<CreditAmount>000000000000</CreditAmount>
+</FCR>
+</EFT>
+
+2.3.9 Return Message Format(Credit)
+<EFT>
+<FHR>
+<PriorityCode>01</PriorityCode>
+<ImmediateDestination>025270002</ImmediateDestination>
+<ImmediateOrigin>025278888</ImmediateOrigin>
+<CreationDate>190918</CreationDate>
+<CreationTime>1132</CreationTime>
+<FileIdModifier>1</FileIdModifier>
+<FormatCode>1</FormatCode>
+<ImmediateDestinationName>BACH</ImmediateDestinationName>
+<ImmediateOriginName>BANG</ImmediateOriginName>
+<Currency>BDT</Currency>
+</FHR>
+<BHR>
+<ServiceClassCode>220</ServiceClassCode>
+<CompanyName>Company</CompanyName>
+<CompanyDiscretionaryData>DISCRETIONARY</CompanyDiscretionaryData>
+<CompanyId>ID</CompanyId>
+<SECC>PPD</SECC>
+<CompanyEntryDesc>EntryDesc</CompanyEntryDesc>
+<CompanyDescDate>190918</CompanyDescDate>
+<EffectiveEntryDate>190918</EffectiveEntryDate>
+<SettlementJDate>000</SettlementJDate>
+<OrigStatusCode>1</OrigStatusCode>
+<OrigBank>02527888</OrigBank>
+<BatchNumber>0000001</BatchNumber>
+</BHR>
+<EDR>
+<TransactionCode>21</TransactionCode>
+<ReceivingBank>01527000</ReceivingBank>
+<CheckDigit>9</CheckDigit>
+<DFIAccountNum>123456789</DFIAccountNum>
+<Amount>0000010000</Amount>
+<IndividualId>123</IndividualId>
+<IndividualName>Receiver</IndividualName>
+
+--- Page 66 ---
+65 of 83
+
+<DiscretionaryData> </DiscretionaryData>
+<ADRIndicator>1</ADRIndicator>
+<TraceNumber>025278880000001</TraceNumber>
+</EDR>
+<ADR>
+<AddendaTypeCode>99</AddendaTypeCode>
+<ReturnReason>R01</ReturnReason>
+<OriginalTraceNumber>015270000000000</OriginalTraceNumber>
+<DateOfDeath></DateOfDeath>
+<OriginalReceivingBank>02527888</OriginalReceivingBank>
+<AddendaInformation>Addenda information</AddendaInformation>
+<TraceNumber>025278880000001</TraceNumber>
+</ADR>
+<BCR>
+<ServiceClassCode>200</ServiceClassCode>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0001527000</EntryHash>
+<TotalDebitAmount>000000000000</TotalDebitAmount>
+<TotalCreditAmount>000000010000</TotalCreditAmount>
+<CompanyId>ID</CompanyId>
+<MsgAuthCode>Auth Code</MsgAuthCode>
+<OriginBank>025278888</OriginBank>
+<BatchNumber>0000001</BatchNumber>
+</BCR>
+<FCR>
+<BatchCount>000001</BatchCount>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0001527000</EntryHash>
+<DebitAmount>000000000000</DebitAmount>
+<CreditAmount>000000010000</CreditAmount>
+</FCR>
+</EFT>
+
+2.3.10 Return Message Format (Debit)
+<EFT>
+<FHR>
+<PriorityCode>01</PriorityCode>
+<ImmediateDestination>025270002</ImmediateDestination>
+<ImmediateOrigin>025278888</ImmediateOrigin>
+<CreationDate>190918</CreationDate>
+<CreationTime>1132</CreationTime>
+<FileIdModifier>1</FileIdModifier>
+<FormatCode>1</FormatCode>
+<ImmediateDestinationName>BACH</ImmediateDestinationName>
+<ImmediateOriginName>BANG</ImmediateOriginName>
+<Currency>BDT</Currency>
+</FHR>
+
+--- Page 67 ---
+66 of 83
+
+<BHR>
+<ServiceClassCode>225</ServiceClassCode>
+<CompanyName>Company</CompanyName>
+<CompanyDiscretionaryData>DISCRETIONARY</CompanyDiscretionaryData>
+<CompanyId>ID</CompanyId>
+<SECC>PPD</SECC>
+<CompanyEntryDesc>EntryDesc</CompanyEntryDesc>
+<CompanyDescDate>190918</CompanyDescDate>
+<EffectiveEntryDate>190918</EffectiveEntryDate>
+<SettlementJDate>000</SettlementJDate>
+<OrigStatusCode>1</OrigStatusCode>
+<OrigBank>02527888</OrigBank>
+<BatchNumber>0000001</BatchNumber>
+</BHR>
+<EDR>
+<TransactionCode>27</TransactionCode>
+<ReceivingBank>01527000</ReceivingBank>
+<CheckDigit>9</CheckDigit>
+<DFIAccountNum>123456789</DFIAccountNum>
+<Amount>0000010000</Amount>
+<IndividualId>123</IndividualId>
+<IndividualName>Receiver</IndividualName>
+<DiscretionaryData> </DiscretionaryData>
+<ADRIndicator>1</ADRIndicator>
+<TraceNumber>025278880000001</TraceNumber>
+</EDR>
+<ADR>
+<AddendaTypeCode>99</AddendaTypeCode>
+<ReturnReason>R01</ReturnReason>
+<OriginalTraceNumber>015270000000000</OriginalTraceNumber>
+<DateOfDeath></DateOfDeath>
+<OriginalReceivingBank>02527888</OriginalReceivingBank>
+<AddendaInformation>Addenda information</AddendaInformation>
+<TraceNumber>025278880000001</TraceNumber>
+</ADR>
+<BCR>
+<ServiceClassCode>225</ServiceClassCode>
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0001527000</EntryHash>
+<TotalDebitAmount>000000010000</TotalDebitAmount>
+<TotalCreditAmount>000000000000</TotalCreditAmount>
+<CompanyId>ID</CompanyId>
+<MsgAuthCode>Auth Code</MsgAuthCode>
+<OriginBank>025278888</OriginBank>
+<BatchNumber>0000001</BatchNumber>
+</BCR>
+<FCR>
+<BatchCount>000001</BatchCount>
+
+--- Page 68 ---
+67 of 83
+
+<EntryAddendaCount>000002</EntryAddendaCount>
+<EntryHash>0001527000</EntryHash>
+<DebitAmount>000000010000</DebitAmount>
+<CreditAmount>000000000000</CreditAmount>
+</FCR>
+</EFT>
+
+--- Page 69 ---
+68 of 83
+
+
+
+The data acceptance criteria set forth below applies to entries submitted by a participating bank.
+Failure to meet such criteria will result in the rejection of an entire file, batch, or an individual entry by
+the BEFTN. A must select either the file level reject option or the batch level reject option and notify
+the BEFTN of its choice.
+SECTION 3.1 File Acknowledgment
+The BEFTN generates an acknowledgment for every file submitted for processing. The
+acknowledgment is in the form of a message or report transmitted or made available electronically.
+The BEFTN makes the acknowledgment available as soon as possible after the completion of the
+edits listed in sections 3.4 (Automatic File Rejection), 3.5 (Automatic Batch Rejection), and 3.6
+(Automatic Entry Detail Return Entry) of this Appendix Three. At a minimum, the acknowledgment
+includes information from the following fields within the File Header and File Control Records:
+
+Immediate Origin
+Immediate Origin Name (if available)
+File Creation Date
+File Creation Time (if available)
+File ID Modifier
+File Entry/Addenda Count
+Total Debit Entry Amount in File
+Total Credit Entry Amount in File
+File Batch Count
+
+The acknowledgment also contains the date and time the file was processed by the BEFTN system and,
+if the file was rejected, the reason for the rejection. If the file was not rejected, but one or more
+batches were rejected by the BEFTN, the acknowledgment will also contain the following
+information about each rejected batch:
+
+Originating Bank Identification
+Originating Bank Name (if available)
+Company Name
+Company Identification
+Batch Number
+Effective Entry Date
+Batch Entry/Addenda Count
+Total Debit Amount
+Total Credit Amount
+Reason for Batch Rejection
+
+APPENDIX THREE
+SPECIFICATION FOR DATA ACCEPTANCE
+
+--- Page 70 ---
+69 of 83
+
+SECTION 3.2 File Level Reject Option
+If the bank chooses the file level reject option, any condition which would cause a batch to be rejected
+will cause the entire file to be rejected. Automatic file rejections, as described in section 3.4
+(Automatic File Rejection) of this Appendix Three, are not affected by this option.
+SECTION 3.3 Batch Level Reject Option
+If the bank chooses the batch level reject option, any condition that would cause only a batch to be
+rejected will allow the BEFTN to accept the file but to reject the erroneous batch as described in
+section 3.5 (Automatic Batch Rejection) of this Appendix Three.
+SECTION 3.4 Automatic File Rejections
+The following error conditions will always cause the entire file to be rejected:
+
+ The file cannot be successfully read, e.g., data read failures,
+hardware/software error checks indicated.
+ The file contains any ―undefined‖ record type.
+ The File Header Record does not contain the number of a valid (a point
+defined on the BEFTN routing table file).
+ The file is ―out‐of‐balance,‖ i.e., one or more of the following
+conditions exist:
+ The summation of the counts, hash totals, and total amount on
+Company/Batch Control
+ Records do not agree with the File Control Record.
+ The actual number of blocks or batches in the file does not agree with
+the File Control Record counts.
+ Mandatory fields in the File Header Record are not valid:
+ File ID Modifier is upper or lower case A‐Z or 0‐9.
+ Format Code is not 1.
+ The sequence of records in the file is incorrect.
+ The Immediate Origin, File Creation Date, File Creation Time, and File
+ID Modifier are equal to that of a previously accepted file.
+SECTION 3.5 Automatic Batch Rejection
+The following error conditions will cause the batch to be rejected if batch level rejection has been
+specified, or will cause the entire file to be rejected if file level rejection has been specified:
+ The batch contains invalid characters (i.e., characters not specified in Appendix One, BEFTN
+File Exchange Specifications).
+ Except for files coming from another EFT Operator, the OB Identification in the
+ Company/Batch Header Record is not the routing number of a valid OB.
+ The Service Class Code in a Company/Batch Header Record is other than a currently valid
+code.
+ The Trace Numbers on the file are not in ascending sequence within a batch.
+ The Transaction Codes in Entry Detail Records are invalid.
+ The Amount field in an Entry Detail Record is non‐numeric.
+ The sequence of records in the batch is incorrect.
+ The batch is ―out‐of‐balance,‖ i.e., the counts, hash totals, or Takas in the Company/Batch
+ Control Records do not agree with the summation of the entries for the batch.
+
+--- Page 71 ---
+70 of 83
+
+ The Company Name is all spaces or all zeros.
+ The Company Entry Description is all spaces or all zeros.
+ The Company Identification is all spaces or all zeros.
+ The Standard Entry Class Code in the Company/Batch Header Record is other than a currently
+valid code.
+ The Service Class Code in the Company/Batch Control Record is not the same as that in the
+ Company/Batch Header Record.
+ The first eight positions of the Trace Number in an Entry Detail Record are not the same as the
+OB
+ Routing Number in the corresponding (immediately preceding) Company/Batch Header
+Record.
+ The Transaction Code in an Entry Detail Record is not valid for the Service Class Code in the
+ Company/Batch Header Record. Either a debit Transaction Code is in a credit batch, or a credit
+ Transaction Code is in a debit batch.
+ The Transaction Code in an Entry Detail Record is not valid for the Standard Entry Class Code
+in the Company/Batch Header Record. For Standard Entry Class Code NOC or RET, the
+Transaction Code must be 21, 26, 31, or 36.
+ Return and non‐return transactions are in the same batch.
+ Return, dishonoured return, and/or contested dishonoured return transactions are in the same
+batch.
+ The Batch Number in the Company/Batch Header Record is non‐numeric.
+ The Batch Number in the Company/Batch Control Record is non‐numeric.
+ The Batch Number in the Company/Batch Control Record is not the same as the Batch Number
+in the Company/Batch Header Record.
+SECTION 3.6 Automatic Entry Detail Return Entry
+BEFTN uses return reason codes for the following error conditions.
+
+RB Not Qualified to Participate
+Improper Effective Entry Date
+Amount Field Error
+Addenda Error
+Mandatory Field Error
+Trace Number Error
+Routing Number Check Digit Error
+Non‐Settlement
+Return of Improper Debit Entry
+Return of Improper Credit Entry
+
+These error conditions will never cause the entire file to be rejected but will always cause the entry
+detail record to be returned using an Addenda Record with an Addenda Type Code of ―99‖:
+
+Creation of the resulting automated return entries shall be in accordance with the specifications in
+Appendix Five (Return Entries).
+
+--- Page 72 ---
+71 of 83
+
+APPENDIX FOUR
+MINIMUM DESCRIPTION STANDARDS
+
+These rules require each RB to send or make available to each Receiver specific minimum descriptive
+information concerning each credit or debit entry to the Receiver’s account. This descriptive
+information is as follows:
+
+(a) Posting date to customer’s account
+(b) Amount of the entry
+(c) Company name
+(d) Company entry description
+(e) Type of account (e.g., checking)
+(f) Number of the account
+(g) Amount of any charges assessed against the account for electronic funds transfer services
+(h) Balances in the customer’s account at the beginning and at the close of the statement
+(i) Address and telephone number to be used for inquiries or notices of errors preceded by ―Direct
+Inquiries To‖ or similar language
+(j) Company Descriptive Date
+(k) Individual Identification Number/ Identification Number
+
+Terms used herein shall have the meanings set forth in Appendix Two (BEFTN message
+Specifications) of these Rules.
+
+--- Page 73 ---
+72 of 83
+
+APPENDIX FIVE
+RETURN ENTRIES
+
+Except as otherwise provided in Article Five, section 5.1 (Return of Entries) of these Rules, a RB may
+return entries for any reason, provided it uses an appropriate Return Reason Code as specified in
+this Appendix. If no appropriate Return Reason Code is specified in this Appendix Five, the RB shall
+use the code which most closely approximates the reason for return.
+SECTION 5.1 Automated Return Entries
+NOTE: Throughout this section, banks will always be designated by their original names. For
+example, the OB is the bank that initially prepared the original entry, and which will eventually have
+the Automated Return Entry delivered to it. The RB is the bank that was supposed to receive the
+original entry and will usually be preparing the Automated Return Entry.
+
+When an Automated Return Entry is prepared, the original Company/Batch Header Record, the
+original Entry Detail Record, and the Company/Batch Control Record are copied for return to the
+Originator. The SEC code will be as per inward SEC Code.
+
+The Automated Return Entry is looked at as a new entry, generated because the original entry failed to
+accomplish its intended purpose. Thus, these entries should be assigned new batch and trace
+numbers, new identification numbers for the returning institution, appropriate transaction codes, and
+so on.
+
+The File Creation Date is of use to the OB when the entry is being returned by the BEFTN. Otherwise,
+this data element is for a file created outside the organization of the OB and the information is not
+helpful. The OB can determine if the date is from its own file by looking at Field 12 of the
+Company/Batch Header Record, which now carries the identification of the institution preparing the
+return entry.
+
+There is nothing required in the format that limits the number of Entry Detail Record/Addenda
+Record pairs to one for each batch. Multiple entry return entry batches certainly may be generated
+from one original batch.
+
+SECTION 5.2 Table of Return Reason Codes
+
+Codes To Be Used by the RB for Return Entries
+R01
+‐ Insufficient Funds
+The available and/or cash reserve balance is not sufficient to cover the amount of the debit
+entry.
+R02
+‐ Account Closed
+A previously active account has been closed by action of the customer or the RB.
+
+--- Page 74 ---
+73 of 83
+
+R04
+‐ Invalid Account Number
+The account number structure is not valid. The entry may fail the check digit validation or
+may contain an incorrect number of digits.
+R05
+‐ Unauthorized Debit to Consumer Account Using Corporate SEC Code
+(Adjustment entries)
+A CCD or CTX debit entry was transmitted to a Consumer Account of the Receiver and
+was not authorized by the Receiver. The Receiver may request immediate credit from the RB
+for an unauthorized debit. The request must be made in writing within one hundred eighty
+calendar days after the RB sends or makes available to the Receiver information pertaining to
+that debit entry. The Receiver must also provide the RB with a written statement, pursuant
+to subsection 8.6.5 (Receiver’s Written Statement), that the debit entry was not authorized by
+the Receiver. For purposes of this code and related Operating Rules provisions, a debit entry
+was not authorized by a Receiver if (1) the authorization requirements of Article Two,
+subsection 2.1.2 (Receiver Authorization and Agreement) have not been met; (2) the debit
+entry was initiated in an amount greater than that authorized by the Receiver; or (3) the debit
+entry was initiated for settlement earlier than authorized by the Receiver. An unauthorized
+debit entry does not include a debit entry initiated with fraudulent intent by the Receiver
+or any person acting in concert with the Receiver. A RB using this return reason code must
+transmit the return entry by BEFTN deposit deadline for the return entry to be made
+available to the OB no later than the opening of business on the banking day following the
+one hundred eightieth calendar day following the Settlement Date of the original entry.
+R06
+‐ Returned per OB’s Request
+The OB has requested that the RB return the BEFTN entry. If the RB agrees to return the
+entry, the OB must indemnify the RB according to Article Five (Return, Adjustment,
+Correction, and Acknowledgment of Entries and Entry Information) of these Rules.
+R10
+‐ Customer Advises Not Authorized
+For entries to Consumer Accounts that the Originator of a given transaction has not
+been authorized to debit his account, the Receiver may request immediate credit from the
+RB for an unauthorized debit. The request must be made in writing within one hundred
+eighty calendar days after the RB sends or makes available to the Receiver information
+pertaining to that debit entry. The Receiver must also provide the RB with a written
+statement, pursuant to subsection 7.6.4 (Receiver’s Written Statement), that the debit entry
+was not authorized by the Receiver. For purposes of this code and related Operating Rules
+provisions, a debit entry was not authorized by the Receiver if (1) the authorization
+requirements of Article Two, subsection 2.1.2 (Receiver Authorization and Agreement) have
+not been met; (2) the debit entry was initiated in an amount greater than that authorized by
+the Receiver; or (3) the debit entry was initiated for settlement earlier than authorized by the
+Receiver. An unauthorized debit entry does not include a debit entry initiated with
+fraudulent intent by the Receiver or any person acting in concert with the Receiver. The
+RB must return the rescinded transaction to the BEFTN by its deposit deadline for the
+adjustment entry to be made available to the OB no later than the opening of business on the
+Banking day following the one hundred eightieth calendar day following the Settlement Date
+of the original entry. This code and related Operating Rule provisions apply to Consumer
+entries only.
+
+--- Page 75 ---
+74 of 83
+
+R14
+‐ Representative Payee Deceased or Unable to Continue in that Capacity
+The representative payee is a person or institution authorized to accept entries on behalf of
+one or more other persons, such as legally incapacitated adults or minor children. The
+representative payee is either deceased or unable to continue in that capacity. The
+beneficiary is not deceased.
+R15
+‐ Beneficiary or Account Holder (Other than a Representative Payee) Deceased
+(1) The beneficiary is the person entitled to the benefits and is deceased. The
+beneficiary may or may not be the account holder; or
+(2) The account holder (acting in a non‐representative payee capacity) is an owner of the
+account and is deceased.
+R16
+‐ Account Frozen
+The funds in the account are unavailable due to specific action taken by the RB or by legal
+action.
+R20
+‐ Non‐Transaction Account
+The BEFTN entry destined for a non‐transaction account would include either an account
+against which transactions are prohibited or limited.
+R23
+‐ Credit Entry Refused by Receiver
+The Receiver may return a credit entry because one of the following conditions
+exists: (1) a minimum amount required by the Receiver has not been remitted; (2) the exact
+amount required has not been remitted; (3) the account is subject to litigation and the
+Receiver will not accept the transaction; (4) acceptance of the transaction results in an
+overpayment; (5) the Originator is not known by the Receiver; or (6) the Receiver has not
+authorized this credit entry to this account.
+R29
+‐ Corporate Customer Advises Not Authorized
+The RB has been notified by the Receiver (non‐consumer) that a specific transaction has not
+been authorized by the Receiver.
+
+--- Page 76 ---
+75 of 83
+
+
+APPENDIX SIX
+NOTIFICATION OF CHANGE
+
+A Notification of Change is created by a RB to notify the OB that previously valid information
+contained in a posted entry has become outdated or that information contained in a pre-notification is
+erroneous and should be changed.
+
+SECTION 6.1 Automated Notification of Change
+An Automated Notification of Change must comply with the following specifications:
+
+A zero amount must be indicated
+Addenda Type Code 98 must be used to indicate that the Addenda Record contains automated
+change information.
+Field 3 of the Addenda Record must contain the appropriate code indicating the information to be
+changed, in accordance with the Table of Change Codes set forth in this Appendix Six. Field 7 of
+the Addenda Record must contain the change (correction) information corresponding to the change
+code used, in accordance with the Table of Change Codes set forth in this Appendix Six.
+The Standard Entry Class Code ―NOC‖ must be used to denote a batch containing automated
+change information.
+Company/Batch Header Record, Entry Detail Record, and Addenda Record formats as set forth in
+this section must be used.
+The Transaction Code, Entry Detail Record must be 21, 26, 31, 36, 41, or 46.
+
+SECTION 6.2 Minimum Description Standards for Notifications of Change
+An OB must, at a minimum, provide to each of its Originators the following information, with respect
+to each Notification of Change entry received by the OB, within two Banking days of the Settlement
+Date of the NOC:
+a) Company Name;
+b) Company Identification;
+c) Company Entry Description;
+d) Effective Entry Date;
+e) Bank Account Number;
+f) Individual Name/Receiving Company Name;
+g) Individual Identification Number
+h) Identification Number.
+i) Change Code;
+j) Original Entry Trace Number;
+k) Original Receiving Bank Identification and
+l) Corrected Data.
+
+--- Page 77 ---
+76 of 83
+
+
+SECTION 6.3 Table of Change Codes
+
+Table of Change Codes
+
+Code Meaning
+C01
+Incorrect Bank Account Number
+Correct BANK Account Number appears in first (left justification) 17 positions of the
+Corrected Data Field.
+Example: This code would also be used when an Account Number is incorrectly formatted.
+C02
+Incorrect Routing Number
+Correct Routing Number (including Check Digit) appears in first nine positions of the
+Corrected Data Field.
+Example: Due to merger or consolidation, a once valid Routing Number must be changed.
+C04
+Incorrect Individual Name/Receiving Company Name
+Correct Individual Name/Receiving Company Name appears in first 22 positions of the
+Corrected Data Field.
+C05
+Incorrect Transaction Code
+Correct Transaction Code appears in first two positions of the Corrected Data Field.
+Example: An item which the RB determines should be posted to their Demand Deposit
+Account (DDA) System contains a Savings Transaction Code.
+Example: An entry posting to a savings account should actually be going to a demand
+account or vice versa, and the account number is also incorrect.
+C08
+Reserved
+09
+Incorrect Individual Identification Number
+Correct number appears in first 22 positions of the Corrected Data Field.
+Example: Individual’s Identification Number within the Company is incorrect, either on initial
+input or through merger or consolidation.
+
+--- Page 78 ---
+77 of 83
+
+
+APPENDIX SEVEN
+BEFTN PARTICIPANT AGREEMENT
+
+(On Tk. 150 Non-Judicial Stamp)
+
+BANGLADESH ELECTRONIC FUNDS TRANSFER NETWORK
+PARTICIPANT AGREEMENT AND INDEMNITY
+
+In consideration of the undersigned being admitted as a participating banking company of the
+Bangladesh Electronic Funds Transfer Network ("BEFTN") acting as a facility to operate
+an automated clearing house of the Bangladesh Bank providing settlement and other services, and of
+the mutual indemnification of the undersigned by each other participating banking company of
+BEFTN: the undersigned, which intends to act as a participating banking company of BEFTN, hereby
+agrees with the Bangladesh Bank, and with each other participating banking company:
+
+1) to comply with and be subject to the BEFTN Operating Rules, (collectively referred to as
+the "BEFTN Rules") including descriptive requirements, as in effect from time to time;
+
+2) to ma ke all payments required by the BEFTN Rules;
+
+3) to indemnify and hold harmless the Bangladesh Bank and each other participating banking
+company from any and all costs, charges, claims, demands, expenses (including costs of
+investigation and attorneys' fees and expenses of litigation), losses, liabilities, damages,
+judgments, fines, penalties, interest, and amounts paid in settlement (each referred to herein as a
+"cost") arising from any failure on the part of the undersigned to exercise ordinary care or to
+comply with any of the provisions of the BEFTN Rules, except for amounts paid in settlement
+of such costs unless the undersigned shall have received 10 days' prior written notice of the
+proposed settlement thereof;
+
+This agreement shall be governed by and construed in accordance with the laws the People’s
+Republic of Bangladesh. The undersigned and the Bangladesh Bank submit to the exclusive
+jurisdiction of the courts of the People’s Republic of Bangladesh.
+
+This agreement shall inure to the benefit of the Bangladesh Bank and shall be binding on the
+undersigned and its successors and assigns, except no Participating Banking Company may transfer
+or assign its rights or obligations hereunder except as expressly provided in the BEFTN Rules.
+
+
+
+Date:______________
+
+
+
+(Participating Banking Company)
+
+
+
+By
+
+
+
+
+
+(Signature)
+
+
+
+
+
+
+
+
+
+Print Name
+
+
+
+Title
+Accepted this ________
+day of ___________, _____
+
+
+Bangladesh Bank
+
+
+
+
+
+
+By
+
+
+
+
+Print Name
+
+
+
+
+Title
+
+--- Page 79 ---
+78 of 83
+
+
+APPENDIX EIGHT
+SAMPLE BEFTN ORIGINATION AGREEMENT
+
+
+:: WARNING ::
+
+BEFTN Origination Agreement Must Be Customized For
+BEFTN Originator and Application
+
+
+
+BEFTN ORIGINATION AGREEMENT
+
+THIS AGREEMENT is entered into effective as of the day of , 20 ,
+by and between _, (the ―Originator‖), and
+(―Bank‖).
+
+RECITALS
+
+WHEREAS, the Originator has requested that Bank permit it to initiate electronic credit and
+debit entries (and ―Entry‖ or ―Entries‖) for payment to accounts maintained at Bank and
+other Banks, by means of the Bangladesh Electronic Funds Transfer Network (the ―BEFTN‖);
+and
+
+WHEREAS, Bank is willing to provide such services to Originator in accordance with the
+terms and conditions contained herein.
+
+NOW THEREFORE, in consideration of the mutual promises contained herein, the
+sufficiency of which is hereby acknowledged, it is agreed as follows:
+
+AGREEMENT
+
+1. Transmission of Entries.
+
+1.1. Bank, in its capacity as an originating deposit Bank, will transmit the Entries initiated by the
+Originator into the BEFTN and with those procedures provided for herein and as provided in
+the BEFTN Rules; as such rules may be amended from time to time.
+1.2. The Originator will utilize Bank’s origination system using BEFTN format or such other format
+or medium as the parties may mutually agree upon for the transmittal of Entries to Bank.
+1.3. All Entries will be transmitted to Bank in accordance with the processing schedule set forth
+on Attachment A (Processing Schedule).
+1.4. The total amount of Entries sent by the Originator shall not exceed the established limits set
+forth on Attachment B (Exposure Limit).
+
+2. Compliance with Law, BEFTN Rules.
+
+2.1. The Originator will comply with all BEFTN Rules, and applicable regulations and laws
+(―Rules and Laws‖) with respect to the subject matter of this agreement. The specific duties
+of the Originator provided in this agreement shall in no way limit the foregoing undertaking.
+
+--- Page 80 ---
+79 of 83
+
+2.2. It will be the sole responsibility of the Originator to ensure that the transmission of Entries
+and origination of BEFTN transactions are in full compliance with all Rules and Laws.
+2.3. The Originator will obtain written authorizations for consumer entries in accordance with
+the BEFTN Rules and Laws, and shall retain the original or a reasonable copy thereof for no
+less than two (2) years following the termination or revocation of such authorization.
+
+3. Rejection of Entries.
+
+3.1. In the event that any Entries are rejected by the BEFTN System for any reason, it shall be the
+responsibility of the Originator to remake such entries. Bank shall have no responsibility to
+reinitiate any returned entries until Originator remakes such entries in accordance with the
+BEFTN Rules.
+3.2. Bank shall have the right to reject any Entry that does not fully comply with the
+requirements of this agreement, which determination shall be made in Bank’s sole discretion.
+In addition, Bank shall have the right to reject any Entry that is made while the Originator is
+in default of any requirements of this agreement, including but not limited to the requirement
+to maintain an adequate account balance or line of credit.
+
+4. Return of Entries. Bank will notify the Originator of the receipt of any returned entry or
+notification of change entry no later than one business day after the business day of such
+receipt. The Originator may reinitiate any returned entry at their discretion, provided the
+reinitiating is in accordance with applicable sections of the BEFTN Rules. Bank will not reinitiate
+any returned entries automatically.
+
+5. Originator Error.
+
+5.1. If the Originator discovers that any Entry it has initiated was made in error, it must notify
+Bank of the error within 24 hours. In such a case, Bank will utilize its best efforts to initiate
+an adjusting entry or stop processing of any ―on‐us‖ Entry. Should Bank be unable to stop
+the Entry from posting, or if it is too late to withdraw the item from the BEFTN System, the
+Originator may initiate a reversal file to correct the Entry, as provided for and abiding by the
+BEFTN Rules.
+5.2. Should a reversal be created for an individual Entry or Entries, the receiver(s) of the Entries
+must be notified by the Originator of the reversal no later than the settlement date of the
+reversing Entry.
+5.3. Should a reversal be created for a complete file reversal, the Originator must advise Bank
+within five (5) business days of settlement.
+
+6. Settlement. The Originator and Bank shall comply with the settlement procedures described in
+Attachment C (Settlement).
+
+7. Account Reconciliation. Entries transmitted by Bank will be reflected on Originator’s periodic
+statement. Originator agrees to notify Bank immediately of any discrepancy between Originator’s
+records and the information shown on any such periodic statement. If Originator fails to notify
+Bank of any discrepancy within sixty (60) days of receipt of the corresponding periodic
+statement, Originator agrees that Bank will not be liable for any losses resulting from Originator’s
+failure to give such notice.
+
+8. Security Procedures. The Originator and Bank shall comply with the security procedures
+described in Attachment D (Security Procedures). The Originator acknowledges that the purpose of
+the security procedures is for verification of file authenticity and not to detect errors within
+
+--- Page 81 ---
+80 of 83
+
+the transmitted file or individual transactions. No security procedure for detection of any such
+error has been agreed upon between the Originator and Bank.
+
+9. Payment for Services. The Originator agrees to compensate Bank for providing the services
+referred to herein at the prices set forth in Attachment E. The prices contained therein do not
+include, and Originator shall be responsible for payment of, any sales, use, excise, value added,
+utility or other taxes relating to the services provided for herein. Bank may amend the Pricing
+Schedule at any time upon delivery of notice thereof to Originator.
+
+10. Limitation of Liability.
+
+10.1.
+BANK’S LIABILITY HEREUNDER SHALL BE LIMITED TO LIABILITY FOR
+ITS
+OWN
+GROSS
+NEGLIGENCE
+OR
+WILLFUL
+MISCONDUCT.
+NOTWITHSTANDING THE FOREGOING, IN NO EVENT SHALL BANK BE
+LIABLE FOR
+ANY
+INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE OR
+CONSEQUENTIAL DAMAGES OR FOR ANY LOST OR IMPUTED PROFITS OR
+REVENUES OR COSTS OF COVER ARISING FROM OR RELATED TO THE
+SERVICES PROVIDED UNDER THIS AGREEMENT, REGARDLESS OF THE
+LEGAL THEORY UNDER WHICH SUCH LIABILITY IS ASSERTED AND
+REGARDLESS OF WHETHER A PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY OF ANY SUCH LIABILITY, LOSS OR DAMAGE. ORIGINATOR’S
+EXCLUSIVE REMEDIES FOR ANY AND ALL CLAIMS RELATED TO THE
+SERVICES PROVIDED HEREUNDER SHALL BE LIMITED TO THE AMOUNT
+RECOVERABLE BY BANK FROM THE BEFTNSYSTEM OPERATOR, OR ANY
+OTHER SUB MEMBER PURSUANT TO THE BEFTN RULES OR ANY
+APPLICABLE INDEMNITY AGREEMENT.
+
+10.2.
+Bank will not be liable for any failure or delay in transmission of an Entry if such
+transmission would (1) result in Bank’s having exceeded any limitation upon its intra‐day
+net funds position established pursuant to Federal Reserve Guidelines, (2) violate any
+risk control provision promulgated by the Federal Reserve, or (3) violate any rule or
+regulation of any Bangladesh governmental regulatory authority.
+
+11. Disclaimer of Warranties. ORIGINATOR ASSUMES TOTAL RESPONSIBILITY FOR USE
+OF THE SERVICES PROVIDED HEREUNDER. EXCEPT AS SPECIFICALLY SET FORTH
+HEREIN, THE SERVICES AND ANY RELATED SOFTWARE, IF ANY, ARE PROVIDED
+WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING
+BUT
+NOT
+LIMITED
+TO
+WARRANTIES
+OF
+TITLE,
+NONINFRINGEMENT,
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+12. Indemnification of Bank.
+
+12.1.
+The Originator will indemnify Bank if Bank incurs any financial loss or liability
+(including attorneys’ fees and associated expenses) due to the breach, with respect to any
+Entries initiated by the Originator, of any of the warranties of an Originating Bank
+contained in the BEFTN Rules, except those due to the gross negligence of Bank. This
+includes reimbursement by the Originator to Bank of any fines imposed on Bank due to
+breaches of the BEFTN Rules by the Originator.
+
+12.2.
+The Originator will indemnify Bank against any loss, liability or expense
+(including attorneys’ fees and associated expenses) resulting from any claim that Bank is
+responsible for any act or omission of the Originator or any other person or entity
+associated with or affected by the services to be performed hereunder, including but not
+limited to any receiver, receiving Bank, or any federal reserve financial institution.
+
+--- Page 82 ---
+81 of 83
+
+13. Notices. Except as otherwise provided herein, all required notices shall be in writing,
+transmitted to the parties’ addresses specified below or such other addresses as may be
+specified by written notice, and will be considered given either: (i) when delivered in person to
+the recipient specified below; (ii) when deposited in either registered or certified Mail, return
+receipt requested, postage prepaid; or (iii) when delivered to an overnight courier service.
+
+If to Bank:
+If to Originator:
+
+
+
+
+Attn:
+
+Attn:
+
+
+Bank shall be entitled to rely on any written notice or other written communication believed by it
+in good faith to be genuine and to have been signed by an authorized representative of
+Originator, and any such communication shall be deemed to have been signed by such person.
+The names and signatures of authorized representatives of Originator are set forth in
+Attachment F (Authorized Representatives). Originator may add or delete any authorized
+representative by written notice to Bank signed by an authorized representative other than that
+being added or deleted. Such notice shall be effective on the second business day following the
+day of Bank’s receipt thereof.
+
+14. Originator Data Retention. Originator will retain data on file adequate to permit remaking of
+Entries for ten (10) days following the date of their transmittal by Bank as provided herein, and
+shall provide copies of such data to Bank upon its request.
+
+15. Assignment. Originator may not assign this agreement or any of its rights or obligations
+hereunder without the prior written consent of Bank. This agreement shall be binding upon and
+inure to the benefit of the parties hereto and their respective legal representatives, successors and
+assigns.
+
+16. No Third Party Beneficiaries. The terms, representations, warranties and agreements of the
+parties set forth in this Agreement are not intended for, nor shall they be for the benefit of or
+enforceable by, any person or entity that is not a party to this agreement.
+
+17. Severability. If any provision of this agreement is held to be unenforceable, the unenforceable
+provision shall be construed as nearly as possible to reflect the original intent of the parties and
+the remaining provisions shall remain in full force and effect.
+
+18. Force Majeure. Bank will not be liable for any delay or failure to perform its obligations
+hereunder if such delay or failure is caused by a Force Majeure Event. For purposes hereof, a
+―Force Majeure Event‖ means an unforeseeable event beyond the reasonable control of Bank,
+including but not limited to: an act of God; fire; flood; labour strike; sabotage; fiber or data‐line
+cut; lack of or delay in transportation; government codes, ordinances, laws, rules, regulations or
+restrictions; war or civil disorder.
+
+19. Waiver. Bank’s failure to insist upon strict performance of any provision of this agreement shall
+not be construed as a waiver of any of its rights hereunder.
+
+20. Termination. The Originator may terminate this agreement at any time upon delivery of thirty
+(30) days written notice of its intent to so terminate. Bank may terminate this agreement
+immediately upon delivering written notice thereof to the Originator. Any termination of this
+
+--- Page 83 ---
+82 of 83
+
+agreement shall not affect any of the Originator’s obligations arising pursuant to the terms of
+this agreement prior to such termination.
+
+21. Controlling Documents; Governing Law. In the event of a conflict between the terms of
+any attachment to this agreement and the terms of this agreement, the terms of the attachment
+shall control. This agreement shall be governed by the laws of the People’s Republic of
+Bangladesh.
+
+22. Entire Agreement. This agreement, together with any attachments hereto, constitute one and
+the same legally binding instrument and the entire agreement between the Originator and Bank
+with respect to the subject matter hereof, and supersedes all prior offers, contracts,
+agreements, representations and understandings made to or with the Originator, whether oral or
+written, relating to the subject matter hereof. All amendments to this agreement shall be in
+writing and signed by authorized representatives of the parties.
+
+IN WITNESS WHEREOF, the undersigned have duly executed the Agreement by their duly
+authorized officers.
+
+
+BANK
+By
+: Print Name : Title

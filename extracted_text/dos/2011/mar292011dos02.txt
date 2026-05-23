@@ -1,0 +1,348 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাংক
+
+Website:www.bangladesh-bank.org প্রধান কার্যালয় ডিপার্টমেন্ট অব অফ-সাইট সুপারভিশন
+
+www.bangladeshbank.org.bd
+ডাকবাক্স নং ৩২৫
+
+ঢাকা |
+
+ডিওএস সার্কুলার নং ০২ তারিখঃ -_---------২-
+
+২৯ মার্চ, ২০১১ ্বীষটাব্দ
+প্রধান নির্বাহী
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক-কোম্পানী |
+
+Liquidity Profile সংক্রান্ত বিবরণী দাখিল প্রসংগে |
+
+ব্যাংকের সার্বিক তারল্য পরিস্থিতি নিরূপন এবং নিয়মিত মনিটরিং এর বিষয়ে বাংলাদেশ ব্যাংক কর্তৃক জারীকৃত MANAGING
+CORE RISKS IN BANKING: ASSET-LIABILITY MANAGEMENT (ALM) শীর্ষক গাইডলাইনস্-এ
+
+£ 4 4৮
+
+বিস্তারিত দিক নির্দেশনা প্রদান করা হয়েছে। উক্ত গাইডলাইনস্-এ Maturity Profile Mismatch নিরূপন এবং তদনুসারে
+
+A om
+
+গৃহীতব্য যথাযথ ব্যবস্থা সম্পর্কে সুস্পষ্ট দিক নির্দেশনা থাকা সত্তেও সম্প্রতি বিভিন্ন তফসিলি ব্যাংকের Liquidity Profile এ বড়
+
+
+ধরণের অসংগতি পরিলক্ষিত হচ্ছে। বর্ণিত অবস্থার প্রেক্ষাপটে নিম্রোক্ত সিদ্ধান্তগুলো গৃহীত হয়েছে 8
+
+১) ব্যাংকগুলো তাদের প্রতি মাসের শেষ কার্যদিবসের স্থিতির ভিত্তিতে প্রস্তুতকৃত ভবিষ্যতমূখী Liquidity Profile
+
+AS
+
+নির্ধারিত ছকে ডিপার্টমেন্ট অব অফ-সাইট সুপারভিশনে দাখিল PACA |
+
+২) Liquidity 71016 প্রস্তুতের সময় সার্কুলারের সাথে সংযোজিত Annex -1 এ বর্ণিত পদ্ধতি অনুসরণ করতে হবে।
+উপরোল্লিখিত নির্দেশনা অবিলম্বে কার্যকর হবে এবং ব্যাংকগুলোকে তাদের প্রতিমাসের Structural Liquidity
+Profile এর Soft copy (CD) এবং Hard copy পরবর্তী মাসের ৩(তিন) কার্যদিবসের মধ্যে অত্র ডিপার্টমেন্টে দাখিল করতে
+
+হবে। এ লক্ষ্যে প্রস্তুতকৃত ছকের Soft copy অত্র ডিপার্টমেন্ট থেকে সংগ্রহ করার জন্য ব্যাংকগুলোকে পরামর্শ দেয়া যাচ্ছে।
+
+সংযোজনী £ বর্ণনা মোতাবেক
+আপনাদের বিশ্বস্ত,
+স্বাঠ-
+
+(সুলতান আহাম্মদ)
+মহাব্যবস্থাপক
+ফোন ৪ ৭১২০৩৭৬
+
+--- Page 2 ---
+Bank Name
+Date
+(In crore TK.)
+CALL
+2 - 7 Days
+8 Days - 1 Month
+1 - 3 months
+3 - 12 months
+1 - 5 years
+more than 5 years
+Total
+ASSETS (INFLOW)
+Cash in hand (Lcy+Fcy)
+
+Balance with Bangladesh Bank (Lcy)
+
+Balance with BB (Fcy)
+
+Balance with other banks and financial
+institutions
+
+Money at call and short notice
+
+Investment in G-SEC
+
+Other Investment (Share, Debenture &
+bond, MFU and others)
+
+Loans and Advances
+
+Bills Purchased & discounted
+
+Reverse Repo with Bangladesh Bank
+
+Reverse Repo with Others
+
+Fixed assets including premises, furniture
+and fixtures
+
+Other assets
+
+Non-banking assets
+
+Other receivables
+
+Total Inflows
+
+
+
+
+
+
+
+
+Liabilities: (OUTFLOW)
+Borrowing
+from
+Bangladesh
+Bank
+(Refinances,etc.)
+
+REPO/LS with Bangladesh Bank
+
+REPO with other banks & Fis
+
+Borrowing from other Banks & FIs
+
+Money at call and short notice
+
+Demand Deposits
+
+Savings bank deposit
+
+Fixed Deposit
+
+Bills payable
+
+Provision and other liabilities
+
+Capital & Reserve
+
+Total Outflows
+
+
+
+
+
+
+
+
+Letter of Credit/Guarantees (Net of
+margin)
+
+Other OBS Items (Net of margin)
+
+Available Balance with BB (Fcy)
+
+Net Nostro a/c balance
+
+NET MISMATCH
+
+
+
+
+
+
+
+CUMULATIVE NET MISMATCH
+
+
+
+
+
+
+
+Medium Term Funding Ratio (MTF):
+#DIV/0!
+Maximum Cumulative Outflow (MCO):
+#DIV/0!
+Trends:
+CALL
+2 - 7 Days
+8 Days - 1 Month
+1 - 3 months
+3 - 12 months
+1 - 5 years
+Demand Deposits withdrawal
+Savings bank deposit withdrawal
+Letter of Credit/Guarantees (non funded
+to funded)
+Other OBS Items (non funded to funded)
+Signature
+Name
+Designation
+Phone
+# MCO = (Total outflows upto one month and Total OBS upto one month)/(Total Inflows+Total Nostro a/c balance (Net)+ Total available Fcy with BB)
+# MTF= (Total Liabilities one year and above)/(Total Assets one year and above)
+Structural Liquidity Profile
+
+--- Page 3 ---
+Annex 1:P 1/2
+A. Inflows
+
+1. Cash in hand (Lcy + Fcy)
+Day 1(Call) bucket.
+2. Balances with BB (Lcy)
+a. The excess balance over the required CRR/SLR
+should be placed under Day 1(Call) bucket, the rest
+(maintained amount) should be placed in more than 5
+years bucket.
+b. In case of foreign banks, the difference between
+maintained cash reserve (as CRR/SLR) and cash
+amount liened as capital or required cash reserve
+whichever is higher , should be placed under Day
+1(Call) bucket, the rest amount should be placed in
+more than 5 years bucket.
+c. In case of shortfall in CRR/SLR the entire maintained
+amount should be placed in more than 5 years bucket.
+3. Balances with BB (Fcy)
+a. In case of Local banks, amount of FC to be used for
+maintaining SLR should be placed in more than 5 years
+bucket.
+b. In case of foreign banks, the higher amount
+between FC to be used for maintaining SLR and FC
+liened as Capital should be placed in more than 5
+years bucket.
+c. Excess Balance [after deducting (a) or (b) above, and
+OBS liabilities from Day 1 to 3-12 months bucket] in FC
+Clearing a/c maintained with BB should be placed in
+Day 1(Call) bucket.
+4. Investment in G-SEC
+All unencumbered treasury securities (TBills & BGTBs)
+should be included in respective time buckets
+excluding the amount mentioned in (a) below and in
+case of foreign banks the higher of the amounts
+mentioned in (a) and (b) below which should be
+placed in more than 5 years bucket :
+a. maturing amount required to be reinvested to
+maintain SLR corresponding to the DTL profile in
+various time bucket;
+b. maturing amount required to be reinvested to
+maintain capital.
+5. Balance with other banks and Financial
+institutions
+Respective maturity buckets.
+6. Money at call and short notice
+Respective maturity buckets.
+7. Other Investment
+a. Shares and MFU
+b. Debentures & bonds, Others
+
+3-12 months bucket.
+Respective maturity buckets.
+8. Loans and Advances
+a. Cash credit, Overdraft and Demand loan
+(including demand portion of working capital)
+
+
+b. Term Loan
+c. NPLs (Net of provision and interest suspense)
+(i) Sub-standard
+(ii) Doubtful and B/L
+
+The stable and volatile portion should be determined
+from the previous trend. The volatile portion should
+be placed in 8days -1 month bucket while the stable
+portion should be placed in 3-12 months bucket.
+Respective maturity buckets.
+
+1-5years bucket.
+1-5years bucket.
+
+--- Page 4 ---
+Annex 1:P 2/2
+9. Bills Purchased and discounted
+Respective maturity buckets.
+10. Reverse Repo with BB
+Respective maturity buckets.
+11. Reverse Repo with others
+Reverse repo amount should be placed in respective
+maturity buckets while the underlying security should
+be excluded from the respective maturity buckets.
+12. Fixed assets including premises, furniture and
+fixtures
+More then 5 years bucket. Interim cash flows should
+be shown under respective maturity buckets.
+13. Other assets and non banking assets
+More than 5 years bucket.
+14. Other receivables
+Respective maturity buckets.
+B. Outflows
+
+1. Capital, Reserves and
+Surplus
+More than 5 years bucket.
+2. Demand Deposits (Current and Savings
+Bank Deposits)
+10% of the Savings Bank Deposits should be placed in
+the Day 1(Call) time bucket, and the rest portion
+should be placed in different time buckets within 5
+years, according to the observed previous trend. A
+portion of the Demand Deposits is generally withdraw
+able on demand. This portion should be placed in the
+Day 1(Call) time bucket, and the rest portion should be
+placed in different time bucket within 5 years,
+according to the observed previous trend.
+3. Fixed Deposits
+Respective maturity buckets.
+4. Bills Payable
+Respective maturity buckets.
+5. Repo & LS with BB
+Repo amount should be placed in respective maturity
+buckets while the underlying security should be
+included in the respective maturity buckets of assets.
+6. Repo with other banks & FIs
+Repo amount should be placed in respective maturity
+buckets while the underlying security should be
+included in the respective maturity buckets of assets.
+7. Borrowing from BB (refinance, etc.)
+Respective maturity buckets.
+8. Provision (other than loan loss & depreciation in
+investment) and other liabilities
+Respective maturity buckets. Items which do not
+represent cash payment (i.e. income received in
+advance, etc.) may be placed in over 5 years bucket.
+9. Borrowing from other banks and FIs
+Respective maturity buckets.
+10. Money at call & short notice
+Respective maturity buckets.
+11.01 OBS items:
+a. Letter of Credits/Guarantees (Net of margin)
+
+b. Other OBS Items (Net of margin)
+
+
+
+
+
+11.02 Balance with BB (Fcy) and in Nostro a/c
+
+
+a. Respective time buckets from Day 1 (Call) to 1 year
+depending on the observed trend.
+b. Respective time buckets from Day 1 (Call) to 1 year
+depending on the observed trend.
+c. The forced loans created from (a) and (b) above
+should be shown under respective maturity buckets of
+assets on the basis of probable recovery dates /dates
+mentioned in sanction letters.
+Available Foreign currency balance maintained with
+BB (after deducting (a) or (b) mentioned in Inflows:3)
+and in Nostro account (Net) would be netted against
+the items mentioned in 11.01(a) and 11.01(b) above
+according to the maturity of the OBS items beginning
+from day 1 to 3-12months buckets .

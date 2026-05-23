@@ -1,0 +1,2995 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+BPRD Circular No-06
+
+
+
+
+
+Date: ----------------------
+
+Managing Directors/Chief Executives
+All Scheduled Banks in Bangladesh
+Guidelines on Interest Rate Risk in the Banking Book (IRRBB)
+Effective measurement and management of interest rate risk are crucial for banks to
+manage liabilities and assets portfolio, which are exposed to risks emanating from adverse
+movements in interest rates. The changes in interest rates not only impair the current and
+potential future earnings but may also potentially threaten the bank’s solvency. To strengthen
+interest rate risk monitoring and measurement, Bangladesh Bank has developed Guidelines on
+IRRBB. Banks are advised to make adequate and reliable arrangements for the adoption of the
+Guidelines by- developing and formulating IRRBB policy, processes, and procedures,
+determining the impact of interest rates, both earnings and economic value perspective on the
+balance sheet structure. The use of suitable statistical tools along with other qualitative and
+quantitative techniques for measuring interest rate risk is necessary for allocating appropriate
+capital against IRRBB. Appendix and annexure at the end of these Guidelines are provided to
+facilitate and enhance understanding of the subject.
+To facilitate the full implementation of the instructions contained in the Guidelines by
+June 30, 2024, banks are advised to make adequate and reliable arrangements for the
+experimental adoption of the Guidelines by June 30, 2021. Furthermore, banks shall report to
+DOS and BRPD of Bangladesh Bank in the formats prescribed in Appendix 2 and Annexure
+from June 30, 2021, half-yearly, on an experimental basis. Additionally, all banks must develop
+their own and fully implementable IRRBB model within the final implementation period, June
+30, 2024.
+
+Yours sincerely,
+
+(Md. Nazrul Islam)
+General Manager
+Phone: 9530252
+13 April 2021
+30 Choitra 1427
+
+--- Page 2 ---
+Bangladesh Bank
+
+
+
+GUIDELINES ON INTEREST
+RATE RISK IN THE
+BANKING BOOK
+
+--- Page 3 ---
+Guidelines on Interest Rate Risk in the
+Banking Book
+
+
+Advisor
+Abu Farah Md. Nasser, Deputy Governor
+
+Coordinators
+Md. Shahidul Islam, Executive Director
+Md. Nazrul Islam, General Manager, BRPD
+Md. Anwarul Islam, General Manager, DOS
+
+Team Members
+Mohammad Shahriar Siddiqui, Deputy General Manager, BRPD
+Md. Aminur Rahman Chowdhury, Deputy General Manager, DOS
+Md. Deluair Hossen, Deputy Director, BRPD
+
+--- Page 4 ---
+Foreword
+The banking industry has been growing and facilitating the development of Bangladesh. For
+sustaining this growth, effective management of interest rate risk in the banking book (IRRBB)
+is crucial as the liabilities and assets portfolio of the banking industry are affected by the risks
+emanating from adverse movements in interest rates. The changes in interest rates not only
+impair the current and potential future earnings but may also potentially threaten the bank’s
+capital base. Hence, for managing the IRRBB issue, Bangladesh Bank has prepared this
+guidelines on “Guidelines on interest rate risk in the banking book (IRRBB)” in line with
+international best practices as per the Basel Core Principles (BCPs) for Effective Banking
+Supervision 2012.
+The Guidelines on IRRBB set out the requirements and supervisory perspective of Bangladesh
+Bank to ensure that banks have adequate policies and processes in place to identify, measure,
+evaluate, monitor, report, and mitigate IRRBB. As excessive IRRBB can pose a significant threat
+to a bank’s current capital base and/or future earnings if it is not managed appropriately, this
+guidelines will make the overall risk management of banks more appropriate and efficient.
+We believe this guideline is an important key step towards achieving bank-led robust economic
+growth by strengthening interest rate risk monitoring and measurement.
+
+
+Abu Farah Md. Nasser
+Deputy Governor
+Bangladesh Bank
+
+--- Page 5 ---
+1. Introduction
+1.1
+The guidelines, titled “Guidelines on Interest Rate Risk in the Banking Book (IRRBB)”
+issued by Bangladesh Bank (BB) are applicable in the computation of IRRBB for all the
+commercial banks including Islamic banks (Profit Rate Risk in the Banking Book) operating in
+Bangladesh. This guidelines are issued under section 45 of the Banking Company Act, 1991 by
+following Principle 23 of Core Principles for Effective Banking Supervision 2012 of the Bank
+for International Settlements (BIS) and supervisory review process ‘SRP31 Interest rate risk in
+the banking book’ (December 2019) of the Basel Committee on Banking Supervision (BCBS).
+It aligned international best practices as well as concerned circulars and circular letters, the
+Guidelines on Stress Testing of 2010, the Guidelines on Risk Based Capital Adequacy of 2014,
+and Risk Management Guidelines for Banks of 2018 of BB. Islamic banks, i.e., Shari’ah based
+banks, due to their different business model, are expected to follow the instructions of section 12
+of the guidelines.
+1.2
+Interest rate risk in the banking book (IRRBB) refers to the current or potential risk to the
+bank’s capital and earnings arising from adverse movements in interest rates that affect the
+bank’s banking book positions. When interest rates change, the present value and timing of
+future cash flows change. This in turn changes the underlying value of a bank’s assets, liabilities,
+and off-balance sheet items and hence its economic value. Changes in interest rates also affect a
+bank’s earnings by altering interest rate-sensitive income and expenses, affecting its net interest
+income (NII). Excessive IRRBB can pose a significant threat to a bank’s current capital base
+and/or future earnings if it is not managed appropriately.
+1.3
+Three main sub-types of IRRBB are gap risk, basis risk, and option risk.
+(1) Gap risk arises from the term structure of banking book instruments and describes the
+risk arising from the timing of instruments’ rate changes. The extent of gap risk depends
+on whether changes to the term structure of interest rates occur consistently across the
+yield curve (parallel risk) or differentially by period (non-parallel risk).
+(2) Basis risk describes the impact of relative changes in interest rates for financial
+instruments that have similar tenors but are priced using different interest rate indices.
+(3) Option risk arises from option derivative positions or from optional elements
+embedded in a bank’s assets, liabilities, and/or off-balance sheet items, where the bank or
+its customer can alter the level and timing of their cash flows. Option risk can be further
+characterized by automatic option risk and behavioral option risk.
+1.4
+All three sub-types of IRRBB potentially change the price/value or earnings/costs of
+interest rate-sensitive assets, liabilities, and/or off-balance sheet exposures in a way, or at a time,
+that can adversely affect a bank’s financial condition. While the three sub-types listed above are
+directly linked to IRRBB, credit spread risk in the banking book (CSRBB) is a related risk that
+banks need to monitor and assess in their interest rate risk management framework. CSRBB
+refers to any kind of asset/liability spread risk of credit-risky instruments that is not explained by
+IRRBB and by the expected credit/jump to default risk.
+
+--- Page 6 ---
+2. Identification and monitoring of IRRBB
+2.1
+IRRBB is an important risk that arises from banking activities and is encountered by all
+banks. It arises because interest rates can vary significantly over time, while the business of
+banking typically involves intermediation activity that produces exposures to both maturity
+mismatch (e.g., long-maturity assets funded by short-maturity liabilities) and rate mismatch (e.g.,
+fixed rate loans funded by variable rate deposits). Besides, there are optionalities embedded in
+many of the common banking products (e.g., non-maturity deposits, term deposits, fixed rate
+loans) that are triggered by changes in interest rates.
+2.2
+All banks must be familiar with all elements of IRRBB, actively identify their IRRBB
+exposures, and take appropriate steps to measure, monitor, and control them.
+2.3
+Banks must identify the IRRBB inherent in products and activities and ensure that these
+are subject to adequate procedures and controls. Significant hedging or risk management
+initiatives must be approved before being implemented.
+2.4
+Products and activities that are new to a bank must undergo a careful pre-acquisition
+review to ensure that the IRRBB characteristics are well understood and subject to a
+predetermined test phase before being fully rolled out. Prior to introducing a new product,
+hedging, or risk-taking strategy, adequate operational procedures and risk control systems must
+be in place. The management of a bank’s IRRBB shall be integrated within its broader risk
+management framework and aligned with its business planning and budgeting activities.
+2.5
+In identifying, measuring, monitoring, and controlling IRRBB, banks shall also ensure
+that CSRBB is properly monitored and assessed.
+3. IRRBB management framework
+3.1
+The board of directors (hereafter, board) has responsibility for understanding the nature
+and the level of the bank’s IRRBB exposures. The board shall approve broad business strategies
+as well as overall policies concerning IRRBB. It shall ensure that there is clear guidance
+regarding the acceptable level of IRRBB, given the bank’s business strategies.
+3.2
+Accordingly, the board is responsible for ensuring that steps are taken by the bank to
+identify, measure, monitor, and control IRRBB consistent with the approved strategies and
+policies. More specifically, the board is responsible for setting:
+(1) appropriate limits on IRRBB, including the definition of specific procedures and
+approvals necessary for exceptions, and ensuring compliance with those limits;
+(2) adequate systems and standards for measuring IRRBB;
+(3) standards for measuring IRRBB, valuing positions, and assessing performance,
+including procedures for updating interest rate shock and stress scenarios and key
+underlying assumptions driving the institution’s IRRBB analysis;
+(4) a comprehensive IRRBB reporting and review process; and
+(5) effective internal controls and management information systems (MIS).
+
+--- Page 7 ---
+3.3
+The board shall oversee the approval, implementation, and review of IRRBB
+management policies, procedures, and limits. The board shall be informed regularly (at least
+semi-annually) on the level and trend of the bank’s IRRBB exposures. It shall regularly review
+with timely information that is sufficiently detailed to allow it to understand and assess the
+performance monitoring and controlling IRRBB in compliance with policies approved. Such
+reviews shall be carried out more frequently when the bank contains significant IRRBB
+exposures or has positions in complex IRRBB instruments.
+3.4
+While the board members individually do not need to have detailed technical knowledge
+of complex financial instruments, or of quantitative risk management techniques, they shall
+understand the implications of the bank’s IRRBB strategies, including the potential linkages with
+and impact on the market, liquidity, credit, and operational risk. Some of the members shall have
+sufficient technical knowledge to question and challenge the reports made to them. The board is
+responsible for ensuring that senior management has the capability and sufficient skills to
+understand IRRBB, and adequate resources are devoted to IRRBB management.
+3.5
+The board may delegate the task for developing IRRBB policies and practices to the
+asset and liability management committee (ALCO). The ALCO shall meet regularly and include
+representatives from concerned departments managing exposures connected to IRRBB.
+3.6
+The board shall clearly identify responsibilities for managing IRRBB and, to avoid
+potential conflicts of interest, shall ensure that there is adequate separation of responsibilities in
+key elements of the risk management process. Banks shall have IRRBB identification,
+measurement, monitoring, and control functions with clearly defined responsibilities that are
+satisfactorily independent of risk-taking functions of the bank and that report directly to the
+board.
+3.7
+The board shall ensure that the bank’s organizational structure enables ALCO to carry
+out its responsibilities and facilitates effective decision-making and good governance. The board
+shall encourage discussions between its members and ALCO regarding the IRRBB management
+process. The risk management division of the bank shall also regularly communicate and work
+closely with ALCO to facilitate evaluations of risk arising from future business.
+3.8
+Banks shall have adequate internal controls to ensure the integrity of their IRRBB
+management process. The internal controls shall promote effective and efficient operations,
+reliable financial and regulatory reporting, and compliance with relevant laws, regulations, and
+banking policies.
+3.9
+With regard to IRRBB control policies and procedures, banks shall have appropriate
+approval processes, exposure limits, reviews, and other mechanisms designed to provide a
+reasonable assurance that risk management objectives are being achieved.
+3.10
+In addition, banks shall have in place regular evaluations and reviews of their internal
+control system and risk management processes carried out by the Risk Management Division.
+3.11
+Banks shall have their IRRBB identification, measurement, monitoring, and control
+processes reviewed by an independent auditing function (such as an internal or external auditor)
+
+--- Page 8 ---
+regularly. In such cases, reports written by internal/external auditors or other equivalent external
+parties (such as consultants) shall be made available to BB on demand.
+4. IRRBB risk appetite
+4.1
+Banks shall have clearly defined risk appetite statements that are approved by the board
+and implemented through comprehensive risk appetite frameworks, i.e., policies and procedures
+for limiting and controlling IRRBB. The risk appetite framework shall delineate delegated
+powers, lines of responsibility, and accountability over IRRBB management decisions and shall
+clearly define authorized instruments, hedging strategies, and risk-taking opportunities. All
+IRRBB policies shall be reviewed periodically (at least annually) and revised as needed.
+4.2
+Policy limits set by the board shall be consistent with the bank’s overall approach for
+measuring IRRBB. Aggregate risk limits, clearly articulating the amount of IRRBB acceptable to
+the board, shall be applied on a solo as well as a consolidated basis. Limits may be associated
+with specific scenarios of changes in interest rates and/or term structures, such as an increase or
+decrease of a particular size or a change in shape. The interest rate movements used in
+developing these limits shall represent meaningful shock and stress situations, considering
+historical interest rate volatility and the time required by management to mitigate those risk
+exposures.
+4.3
+Policy limits shall be appropriate to the nature, size, complexity, and capital adequacy of
+the bank, as well as its ability to measure and manage its risks. Depending on the nature of a
+bank's activities and business model, sub-limits may also be identified for individual business
+units, portfolios, instrument types, or specific instruments. The level of detail of risk limits shall
+reflect the characteristics of the bank’s holdings, including the various sources of the bank’s
+IRRBB exposures. Banks with significant exposures to gap risk, basis risk, or positions with
+explicit or embedded options shall establish risk tolerances appropriate for these risks.
+4.4
+The board shall approve risk-taking initiatives in advance of implementation. Proposals
+to use new strategies shall be assessed to ensure that the resources required to establish sound
+and effective IRRBB management of the product or activity have been identified, that the
+proposed activities are in line with the bank’s overall risk appetite, and procedures to identify,
+measure, monitor and control the risks of the proposed product or activity have been established.
+4.5
+There shall be systems in place to ensure that positions that exceed, or are likely to
+exceed, limits defined by the board or its delegates shall receive prompt management attention
+and be escalated without delay. There shall be a clear policy on who will be informed, how the
+communication will take place, and the actions which will be taken in response to an exception.
+5. IRRBB measurement
+5.1
+Banks’ internal measurement systems (IMS) shall capture all material sources of IRRBB
+and assess the effect of market changes on the scope of their activities. In addition to the impact
+of an interest rate shock on its economic value, a bank’s policy approach shall consider its ability
+to generate stable earnings sufficient to maintain its normal business operations.
+
+--- Page 9 ---
+5.2
+Banks shall pay attention to the complementary nature of economic value and earnings-
+based measures in their risk and internal capital adequacy assessments. If a bank solely
+minimizes its economic value risk by matching the repricing of its assets with liabilities beyond
+the short term, it could run the risk of earnings volatility.
+5.3
+Banks’ IMS for IRRBB shall be able to accommodate the calculation of the impact on
+economic value (∆EVE) and net interest income earnings (∆NII) of multiple scenarios, based on:
+(1) internally selected interest rate shock scenarios addressing the bank’s risk profile,
+according to its Internal Capital Adequacy Assessment Process (ICAAP);
+(2) historical and hypothetical interest rate stress scenarios, which tend to be more severe
+than shock scenarios;
+(3) the six prescribed interest rate shock scenarios set out in Appendix 1; and
+(4) any additional interest rate shock scenarios required by BB from time to time.
+5.4
+Banks shall measure their vulnerability to loss under stressful market conditions–
+including the breakdown of key assumptions – and consider those results when establishing and
+reviewing their policies and limits for IRRBB.
+5.5
+A bank shall develop and implement an effective stress testing framework for IRRBB as
+part of its broader risk management and governance processes. This shall feed into the decision-
+making process at the appropriate management level, including strategic decisions (e.g.,
+business, and capital planning decisions) of the board. IRRBB stress testing shall be considered
+in the ICAAP, requiring banks to undertake rigorous, forward-looking stress testing that
+identifies events of severe changes in market conditions that could adversely impact the bank’s
+capital or earnings, possibly also through changes in the behavior of its customer base.
+5.6
+A bank’s stress testing framework for IRRBB shall be commensurate with its nature,
+size, and complexity as well as business activities and overall risk profile. The framework shall
+include clearly defined objectives, scenarios tailored to the bank’s businesses and risks, well-
+documented assumptions, and sound methodologies. The framework will be used to assess the
+potential impact of the scenarios on the bank’s financial condition, enable ongoing and effective
+review processes for stress tests, and recommend actions based on the stress test results. IRRBB
+stress tests shall play an important role in the communication of risks, both within the bank and
+externally with BB and the market through appropriate disclosures.
+5.7
+The identification of relevant shock and stress scenarios for IRRBB, the application of
+sound modeling approaches, and the appropriate use of the stress testing results require the
+collaboration of different experts within a bank (e.g., the treasury department, the finance
+department, the ALCO, the risk management division and/or the bank’s economists). A stress-
+testing program for IRRBB shall ensure that the opinions of the experts are considered.
+5.8
+Banks shall determine, by currency, a range of potential interest rate movements against
+which they will measure their IRRBB exposures. Management shall ensure that risk is measured
+under a reasonable range of potential interest rate scenarios, including some containing severe
+stress elements. In developing the scenarios, banks shall consider a variety of factors, such as the
+shape and level of the current term structure of interest rates and the historical and implied
+
+--- Page 10 ---
+volatility of interest rates. In low-interest rate environments, banks shall also consider negative
+interest rate scenarios and the possibility of asymmetrical effects of negative interest rates on
+their assets and liabilities.
+5.9
+A bank shall consider the nature and sources of its IRRBB exposures, the time it would
+need to take action to reduce or unwind unfavorable IRRBB exposures, and its
+capability/willingness to withstand accounting losses to reposition its risk profile. A bank shall
+select scenarios that provide meaningful estimates of risk and include a range of shocks that is
+sufficiently wide to allow the board to understand the risk inherent in the bank’s products and
+activities. When developing interest rate shock and stress scenarios for IRRBB, banks shall
+consider the following:
+(1) The scenarios shall be sufficiently wide-ranging to identify parallel and non-parallel
+gap risk, basis risk, and option risk. In many cases, static interest rate shocks may be
+insufficient to assess IRRBB exposure adequately. Banks shall ensure that the scenarios
+are both severe and plausible, considering the existing level of interest rates and the
+interest rate cycle.
+(2) Special consideration shall be given to instruments or markets where concentrations
+exist, because those positions may be more difficult to liquidate or offset in a stressful
+market environment.
+(3) Banks shall assess the possible interaction of IRRBB with its related risks, as well as
+other risks (e.g., credit risk, liquidity risk).
+(4) Banks shall assess the effect of adverse changes in the spreads of new assets/liabilities
+replacing those assets/liabilities maturing over the horizon of the forecast on their NII.
+(5) Banks with significant option risk shall include scenarios that capture the exercise of
+such options. Given that the market value of options also fluctuates with changes in the
+volatility of interest rates, banks shall develop interest rate assumptions to measure their
+IRRBB exposures to changes in interest rate volatilities.
+(6) Banks shall specify, in building their interest rate shock and stress scenarios, the term
+structure of interest rates that will be incorporated and the relationship between yield
+curves, rate indices, etc. Banks shall also estimate how interest rates that are administered
+or managed by management (e.g., prime rates or retail deposit rates, as opposed to those
+that are purely market-driven) might change. Management shall document how these
+assumptions are derived.
+5.10
+Banks shall perform qualitative and quantitative reverse stress tests to identify interest
+rate scenarios that could severely threaten a bank’s capital and earnings; and reveal
+vulnerabilities arising from its hedging strategies and the potential behavioral reactions of its
+customers.
+
+--- Page 11 ---
+10
+
+6. Behavioural and modeling assumptions
+6.1
+Both economic value and earnings-based measures of IRRBB are significantly impacted
+by several assumptions made for risk quantification, namely:
+(1) expectations for the exercise of interest rate options (explicit and embedded) by both
+the bank and its customers under specific interest rate shock and stress scenarios;
+(2) treatment of balances and interest flows arising from non-maturity deposits (NMDs);
+(3) treatment of own equity in economic value measures; and
+(4) the implications of accounting practices for IRRBB.
+
+6.2
+Common products with behavioral optionalities include:
+(1) Fixed rate loans subject to prepayment risk – Banks shall understand the nature of
+prepayment risk for their portfolios and make reasonable and prudent estimates of the
+expected prepayments. The assumptions underlying the estimates and where prepayment
+penalties or other contractual features affect the embedded optionality effect shall be
+documented. Several factors are important determinants of the bank’s estimate of the
+effect of each interest rate shock and stress scenario on the average prepayment speed.
+Specifically, a bank must assess the expected average prepayment speed under each
+scenario.
+(2) Fixed rate loan commitments – Banks may enter into commitments with retail
+customers whereby, for a limited period, the customers can choose to draw down a loan
+at a committed rate. Unlike loan commitments to corporate, where drawdowns strongly
+reflect characteristics of automatic interest rate options, mortgage commitments (i.e.,
+pipelines) to retail customers are impacted by other drivers.
+(3) Term deposits subject to early redemption risk – Banks may attract deposits with a
+contractual maturity term or with step-up clauses that enable the depositor at different
+periods to modify the speed of redemption. The classification scheme shall be
+documented whether a term deposit is deemed to be subject to redemption penalties or to
+other contractual features that preserve the cash flow profile of the instrument.
+(4) NMDs – Behavioural assumptions for deposits that have no specific repricing date
+can be a major determinant of IRRBB exposures under the economic value and earnings-
+based measures. Banks shall document, monitor, and regularly update key assumptions
+for NMD balances and behavior used in their IMS. To determine the appropriate
+assumptions for its NMDs, a bank shall analyze its depositor base to identify the
+proportion of core deposits (i.e., NMDs which are unlikely to reprice even under
+significant changes in interest rate environment). Assumptions shall vary according to
+depositor characteristics (e.g., retail/wholesale) and account characteristics (e.g.,
+transactional/non-transactional).
+6.3
+Modelling assumptions shall be conceptually sound and reasonable, and consistent with
+historical experience. Banks must carefully consider how the exercise of the behavioral
+
+--- Page 12 ---
+11
+
+optionality will vary not only under the interest rate shock and stress scenario but also across
+other dimensions. For instance, considerations may include those set out in Table 1.
+Table 1: Considerations affecting behavioral optionality
+Product
+Dimensions influencing the exercise of the embedded behavioral options
+Fixed rate loans
+subject to
+prepayment risk
+Loan size, loan-to-value ratio (LTV), borrower characteristics, contractual interest
+rates, seasoning, geographical location, original and remaining maturity, and other
+historical factors.
+Other macroeconomic variables such as stock indices, unemployment rates, gross
+domestic product (GDP), and inflation and housing price indices shall be
+considered in modeling prepayment behavior.
+Fixed rate loan
+commitments
+Borrower
+characteristics,
+geographical
+location
+(including
+competitive
+environment and local premium conventions), customer relationship with the bank
+as evidenced by cross-products, a remaining maturity of the commitment,
+seasoning, and remaining term of the mortgage.
+Term deposits
+subject to early
+redemption risk
+Deposit size, depositor characteristics, funding channel (e.g., direct or wholesale
+deposit), contractual interest rates, seasonal factors, geographical location and
+competitive environment, remaining maturity, and other historical factors.
+Other macroeconomic variables such as stock indices, unemployment rates, GDP,
+inflation, and housing price indices shall be considered in modeling deposit
+redemption behavior.
+NMDs
+Responsiveness of product rates to changes in market interest rates, the current
+level of interest rates, spread between a bank’s offer rate and market rate,
+competition from other firms, the bank’s geographical location and demographic,
+and other relevant characteristics of its customer base.
+
+6.4
+In addition, banks with positions denominated in different currencies can expose
+themselves to IRRBB in each of those currencies. Since yield curves vary from currency to
+currency, banks generally need to assess exposures in each currency. Banks with the necessary
+skills and sophistication, and with material multicurrency exposures, may choose to include, in
+their IMS, methods to aggregate their IRRBB in different currencies using assumptions about the
+correlation between interest rates in different currencies.
+6.5
+Further, banks shall consider the materiality of the impact of behavioral optionalities
+within floating rate loans. For instance, the behavior of prepayments arising from embedded caps
+and floors could impact the banks’ economic value of equity.
+6.6
+Banks shall be able to test the appropriateness of key behavioral assumptions, and all
+changes to the assumptions of key parameters shall be documented (e.g., by comparing the
+economic value of equity measured under their IMS with the standardized framework in
+Appendix 1). Banks shall periodically perform sensitivity analyses for key assumptions to
+monitor their impact on measured IRRBB. Sensitivity analyses shall be performed regarding
+both economic value and earnings-based measures.
+6.7
+The most significant assumptions underlying the system shall be documented and clearly
+understood by the board. Documentation shall also include descriptions of how those
+assumptions could potentially affect the bank’s hedging strategies.
+
+--- Page 13 ---
+12
+
+6.8
+As market conditions, competitive environments, and strategies change over time, the
+bank shall review significant measurement assumptions at least annually and more frequently
+during rapidly changing market conditions. For example, if the competitive market has changed
+such that consumers now have lower transaction costs available to them for refinancing their
+residential mortgages, prepayments may become more sensitive to smaller reductions in interest
+rates.
+7. Data integrity and model governance
+7.1
+Accurate and timely measurement of IRRBB is necessary for effective risk management
+and control. A bank’s risk measurement system shall be able to identify and quantify the major
+sources of IRRBB exposure. The mix of a bank’s business lines and the risk characteristics of its
+activities shall guide management’s selection of the most appropriate form of measurement
+system.
+7.2
+Banks shall not rely on a single measure of risk, given that risk management systems tend
+to vary in how they capture the components of IRRBB. Instead, banks shall use a variety of
+methodologies to quantify their IRRBB exposures under both the economic value and earnings-
+based measures, ranging from simple calculations based on static simulations using current
+holdings to more sophisticated dynamic modeling techniques that reflect potential future
+business activities.
+7.3
+A bank’s MIS shall allow it to retrieve accurate IRRBB information in a timely manner.
+The MIS shall capture interest rate risk data on all the bank’s material IRRBB exposures. There
+shall be sufficient documentation of the major data sources used in the bank’s risk measurement
+process.
+7.4
+Data inputs shall be automated as much as possible to reduce administrative errors. Data
+mapping shall be periodically reviewed and tested against an approved model version. A bank
+shall monitor the type of data extracts and set appropriate controls.
+7.5
+Where cash flows are slotted into different time buckets (e.g., for gap analyses) or
+assigned to different vertex points to reflect the different tenors of the interest rate curve, the
+slotting criteria shall be stable over time to allow for a meaningful comparison of risk figures
+over different periods.
+7.6
+Banks’ IMS shall be able to compute the economic value and earnings-based measures of
+IRRBB, as well as other measures of IRRBB prescribed by BB, based on the interest rate shock
+and stress scenarios set out in Appendix 1. It shall also be sufficiently flexible to incorporate BB-
+imposed constraints on banks’ internal risk parameter estimates.
+7.7
+The validation of IRRBB measurement methods and assessment of corresponding model
+risk shall be included in a formal policy process that shall be reviewed and approved by the
+board or its delegates. The policy shall specify the management roles and designate who is
+responsible for the development, implementation, and use of models. Besides, the model
+oversight responsibilities as well as policies including the development of initial and ongoing
+validation procedures, evaluation of results, approval, version control, exception, escalation,
+
+--- Page 14 ---
+13
+
+modification and decommission processes need to be specified and integrated within the
+governance processes for model risk management.
+7.8
+An effective validation framework shall include three core elements:
+(1) evaluation of conceptual/methodological soundness, including developmental
+evidence;
+(2) ongoing model monitoring, including process verification and benchmarking; and
+(3) outcomes analysis, including backtesting of key internal parameters (e.g., stability of
+deposits, prepayments, early redemptions, pricing of instruments).
+7.9
+In addressing the expected initial and ongoing validation activities, the policy shall
+establish a hierarchical process for determining model risk soundness based on both quantitative
+and qualitative dimensions such as size, impact, past performance, and familiarity with the
+modeling technique employed.
+7.10
+Model risk management for IRRBB measures shall follow a holistic approach that begins
+with motivation, development, and implementation by model owners and users. Before receiving
+authorization for usage, the process for determining model inputs, assumptions, modeling
+methodologies, and outputs shall be reviewed and validated independently of the development of
+IRRBB models. The review and validation results and any recommendations on model usage
+shall be presented to and approved by the board. Upon approval, the model shall be subject to
+ongoing review, process verification, and validation at a frequency that is consistent with the
+level of model risk determined and approved by the bank.
+7.11
+The ongoing validation process shall establish a set of exception trigger events that
+obligate the model reviewers to notify the board in a timely fashion, to determine corrective
+actions and/or restrictions on model usage.
+7.12
+IRRBB models might include those developed by third-party vendors. Model inputs or
+assumptions may also be sourced from related modeling processes or sub-models (both in-house
+and vendor-sourced) and shall be included in the validation process. The bank shall document
+and explain model specification choices as part of the validation process.
+7.13
+Banks that purchase IRRBB models shall ensure there is adequate documentation of their
+use of those models, including any specific customization. If vendors provide input for market
+data, behavioral assumptions, or model settings, the bank shall have a process in place to
+determine if those inputs are reasonable for its business and the risk characteristics of its
+activities.
+7.14
+Internal audit shall review the model risk management process as part of its annual risk
+assessment and audit plans. The audit activity shall not duplicate model risk management
+processes but shall review the integrity and effectiveness of the risk management system and the
+model risk management process.
+
+--- Page 15 ---
+14
+
+8. Reporting to management
+8.1
+The reporting of risk measures to the board shall be regular and shall compare current
+exposure with policy limits. Reporting shall include the results of the periodic model reviews and
+audits as well as comparisons of past forecasts or risk estimates with actual results to inform
+potential modeling shortcomings regularly. Portfolios that may be subject to significant mark-to-
+market movements shall be identified within the bank’s MIS and subject to oversight in line with
+any other portfolios exposed to market risk.
+8.2
+While the types of reports prepared for the board will vary based on the bank’s portfolio
+composition, they shall include at least the following:
+(1) summaries of the bank’s aggregate IRRBB exposures, and explanatory text that
+highlights the assets, liabilities, cash flows, and strategies that are driving the level and
+direction of IRRBB;
+(2) reports demonstrating the bank’s compliance with policies and limits;
+(3) key modeling assumptions such as NMD characteristics, prepayments on fixed rate
+loans, and currency aggregation;
+(4) results of stress tests, including assessment of sensitivity to key assumptions and
+parameters; and
+(5) summaries of the reviews of IRRBB policies, procedures, and adequacy of the
+measurement systems, including any findings of internal and external auditors and/or
+other equivalent external parties (such as consultants).
+
+8.3
+Reports detailing the bank’s IRRBB exposures shall be provided to the bank’s board on a
+timely basis and reviewed regularly. The IRRBB reports shall provide aggregate information as
+well as sufficient supporting detail to enable the board to assess the sensitivity of the bank to
+changes in market conditions, regarding portfolios that may potentially be subject to significant
+mark-to-market movements. The board shall review the bank’s IRRBB management policies and
+procedures considering the reports, to ensure that they remain appropriate and sound.
+9. Disclosure
+9.1
+Banks shall disclose the measured ∆EVE and ∆NII under the prescribed interest rate
+shock scenarios set out in Appendix 1. Disclosure shall be in the formats given in Appendix 2.
+Furthermore, the formats of Appendix 2 and Annexure should be submitted to both Department
+of Off-site Supervision (DOS) and Banking Regulation and Policy Department (BRPD) of BB.
+10. IRRBB in the ICAAP
+10.1
+Banks are responsible for evaluating the level of capital that they shall hold, and for
+ensuring that this is sufficient to cover IRRBB and its related risks. The contribution of IRRBB
+to the overall internal capital assessment shall be based on the bank’s IMS outputs, taking
+account of key assumptions and risk limits. The overall level of capital shall be commensurate
+with both the bank’s actual measured level of risk (including for IRRBB) and its risk appetite
+and be duly documented in its ICAAP report.
+
+--- Page 16 ---
+15
+
+10.2
+Banks shall not only rely on BB’s assessments of capital adequacy for IRRBB but shall
+also develop their methodologies for capital allocation, based on their risk appetite. In
+determining the appropriate level of capital, banks shall consider both the amount and the quality
+of capital needed.
+10.3
+Capital adequacy for IRBBB shall be considered in relation to the risks to economic
+value, given that such risks are embedded in the bank’s assets, liabilities, and off-balance sheet
+items. For risks to future earnings, given the possibility that future earnings may be lower than
+expected, banks shall consider capital buffers.
+10.4
+Capital adequacy assessments for IRRBB shall factor in:
+(1) the size and tenor of internal limits on IRRBB exposures, and whether these limits are
+reached at the point of capital calculation;
+(2) the effectiveness and expected cost of hedging open positions that are intended to take
+advantage of internal expectations of the future level of interest rates;
+(3) the sensitivity of the internal measures of IRRBB to key modeling assumptions;
+(4) the impact of shock and stress scenarios on positions priced off different interest rate
+indices (basis risk);
+(5) the impact on economic value and NII of mismatched positions in different
+currencies;
+(6) the impact of embedded losses;
+(7) the distribution of capital relative to risks across legal entities that form part of a
+capital consolidation group, in addition to the adequacy of overall capital on a
+consolidated basis;
+(8) the drivers of the underlying risk; and
+(9) the circumstances under which the risk might crystallize.
+10.5
+The outcomes of the capital adequacy for IRRBB shall be considered in a bank’s ICAAP
+and flow through to assessments of capital associated with business lines.
+11. Assessment of banks’ IRRBB exposures and management by BB
+11.1
+Banks shall, on a regular basis, provide sufficient information to BB by assessing their
+IRRBB exposures. The amount of information provided shall allow BB to assess the IRRBB
+exposures of the bank.
+11.2
+BB may collect additional information to assess banks’ IRRBB including the sensitivity
+of their IMS calculations to changes in key assumptions. For example, BB may collect
+information on:
+(1) the modeling of NMDs for IMS purposes and the sensitivity of a bank’s economic
+value and earnings to changes in NMD assumptions;
+(2) the impact of assumptions used regarding products with behavioral optionalities;
+(3) the treatment of own equity in internal calculations and the extent to which this
+impacts the change in the economic value of equity (EVE) number disclosed;
+(4) repricing gaps of cash flows associated with their interest rate-sensitive assets,
+liabilities, and off-balance sheet items (by significant currencies);
+
+--- Page 17 ---
+16
+
+(5) exposures to automatic interest rate options;
+(6) the types of yield curve used for IMS purposes;
+(7) the level of EVE if calculated using the standardized framework set out in Appendix
+1; and
+(8) economic value and earnings-based measures for interest rate shock and stress
+scenarios in addition to those prescribed in Appendix 1 (including results based on banks’
+internally developed or other interest rate shock or stress scenarios).
+
+11.3
+BB will evaluate the adequacy, integrity, and effectiveness of a bank’s IRRBB
+management framework and assess whether its practices comply with the stated objectives and
+risk tolerances set by its governing body.
+11.4
+BB will evaluate whether a bank’s IMS provides a sufficient basis for identifying and
+measuring IRRBB, taking note particularly of the key assumptions that affect the measurement
+of IRRBB. BB may request and evaluate information about the significant model or policy
+changes that have occurred between their regular reviews and concentrate their efforts on
+reviewing the most material models and policies.
+11.5
+BB will regularly review the outputs from the bank’s IMS, including the bank’s IRRBB
+exposures (both economic value and earnings-based measures) based on the internal calculations
+using at least the prescribed interest rate shock scenarios specified in Appendix 1, as well as any
+additional interest rate shock and stress scenarios determined by BB.
+11.6
+BB will assess the adequacy of a bank’s capital relative to its IRRBB exposures to
+determine whether the bank requires more detailed examination and shall potentially be subject
+to additional capital requirements and/or other mitigation actions.
+
+12. Islamic banks, i.e., Shari’ah based banks
+12.1
+Shari’ah based banks must be able to distinguish the different nature and combination of
+risks that are embedded within different types of Shariah contracts used to structure financial
+products. A robust and dynamic risk assessment approach is required for products that involve
+different types of Shariah contracts throughout the life of the product. It must establish
+comprehensive risk management and reporting process to assess the potential impacts of market
+factors affecting profits on assets in comparison to profits paid on its liabilities.
+12.2
+Profit rate risk or rate of return risk of Islamic banks generally associated with overall
+balance sheet exposures where mismatches arise between assets and balances from fund
+providers. Since Islamic bank`s responsibility is to manage their investment accounts holder`s
+(IAHs) expectations and their liabilities to current account holders, the rate of return risk is a
+strategic risk issue forming part of Islamic bank`s balance sheet risk management. An increase in
+benchmark rates may result in IAHs having expectations of a higher rate of return. Changes in
+the expected rate of return may trigger the transfer of funds from the bank to other banks. The
+rate of return risk differs from interest rate risk in that Islamic banks managing Shari'a-compliant
+
+--- Page 18 ---
+17
+
+products are concerned with the result of their investment activities at the end of the investment
+holding period. Such results cannot be pre-determined exactly.
+12.3
+A consequence of rate of return risk may be displaced commercial risk derives from
+competitive pressures on Shari’ah based banks to attract and retain investors (fund providers).
+Shari’ah based banks may be under market pressure to pay a profit that exceeds the rate that has
+been earned on assets when the return on assets is under-performing as compared with its
+competitors. Shari’ah based banks may decide to forgo their part of profits to satisfy and retain
+their fund providers and dissuade them from withdrawing their funds. The decision needs to be
+taken with clear and well-defined Shari’ah compliant policies approved by the board.
+12.4
+A Profit Equalisation Reserve (PER) is the amount appropriated by Islamic banks out of
+their gross income, before allocating the Mudarib share, to maintain a certain level of return on
+investment and increase owners' equity. The basis for computing the amounts to be so
+appropriated shall be predefined and applied per the contractual conditions accepted by the IAHs
+and after formal review and approval by the board.
+12.5
+An Investment Risk Reserve (IRR) is the amount appropriated by Islamic banks out of
+the income of IAHs, after allocating the Mudarib share, to cushion the effects of the risk of
+future investment losses on IAHs. The terms and conditions whereby IRR can be set aside and
+utilized shall be determined and approved by the board.
+12.6
+Islamic banks must take necessary steps to ensure that the management processes relating
+to the identification, measurement, monitoring, reporting, and control of the rate of return risk
+(including appropriate structure) are in place.
+12.7
+Islamic banks must assess the effect of the level of their dependency on current account
+holders' funds. Although no returns are expected by current account holders, the sudden
+withdrawal of these funds would have an adverse impact on the overall potential rate of return
+for Islamic banks.
+12.8
+When calculating a rate of return, Islamic banks must employ a gapping method for
+allocating positions into time bands with remaining maturities or re-pricing dates, whichever is
+earlier.
+12.9
+Actual cash flows may indicate a gap for a given time band, affecting the rate of return
+for that period. Depending on the complexity and the nature of their business operations,
+Shari’ah based banks may employ techniques ranging from simple gap to advance simulation or
+dynamic approaches to assess future cash flow variability and net income. The estimates derived
+from selected approaches may provide acceptable approximations of periodic future earnings'
+variability; hence, the outcomes will yield different levels of expected returns to IAHs.
+12.10 The measurement of the rate of return risk highlights the importance of cash flow
+forecasting for instruments and contracts where Islamic banks are required to simulate and assess
+their behavioral maturity, underlying assumptions, and parameters, which must be reviewed
+periodically for reliability. The materiality of potential threats to future earnings and the
+
+--- Page 19 ---
+18
+
+usefulness of the resulting information must be considered in determining the type and extent of
+forecasted behavior for Shari’ah based banks.
+12.11 In assessing whether a potential threat is likely to have a material, likely and imminent
+impact on a balance sheet position, Islamic banks must ensure that they understand the different
+characteristics of their balance sheet positions in the different currencies and the prevailing
+regulations.
+12.12 In assessing exposure to rate of return risks, Shari’ah based banks must consider the non-
+contractual behavioral maturity of the transactions in the context of the environment in which
+they operate and changing market conditions.
+13. Outlier banks
+13.1
+If any bank’s maximum ∆EVE, under the six prescribed interest rate shock scenarios as
+reported under table 2 of Appendix 1 is equal to or more than 15% of its Tier 1 capital
+(materially high IRRBB), it will be considered as outlier banks. BB may ask these banks to either
+reduce their exposure to IRRBB or enhance their capital base.
+
+--- Page 20 ---
+19
+
+Appendix 1
+14. The standardized interest rate shock scenarios
+
+14.1
+Banks shall apply six prescribed interest rate shock scenarios to capture parallel and non-
+parallel gap risks for EVE and two prescribed interest rate shock scenarios for NII. These
+scenarios are applied to IRRBB exposures in each currency for which the bank has material
+positions (equals or more than 5% of the banking book assets or liabilities). IRRBB is measured
+employing the following six scenarios:
+(1) parallel shock up;
+(2) parallel shock down;
+(3) steepener shock (short rates down and long rates up);
+(4) flattener shock (short rates up and long rates down);
+(5) short rates shock up; and
+(6) short rates shock down.
+
+Table 2: Specified size of interest rate shocks, 𝑅shocktype, c
+Shock
+USD
+BDT*
+Parallel
+200
+400
+Short
+300
+500
+Long
+150
+300
+* The shocks for BDT will be determined from time to time by Bangladesh Bank
+
+14.2
+Given the above table, the instantaneous shocks to the risk-free rate for parallel, shorts,
+and long, for each currency, the following parameterizations of the six interest rate shock
+scenarios shall be applied:
+(i) Parallel shock for currency c: a constant parallel shock up or down across each time
+buckets.
+Δ𝑅𝑝𝑎𝑟𝑎𝑙𝑙𝑒𝑙,𝑐(𝑡𝑘) = ±𝑅̅𝑝𝑎𝑟𝑎𝑙𝑙𝑒𝑙,𝑐
+(ii) Short rate shock for currency c: shock up or down that is greatest at the shortest
+tenor midpoint. That shock, through the shaping scalar S𝑠ℎ𝑜𝑟𝑡(𝑡𝑘) = (𝑒
+−𝑡𝑘
+𝑥), where x=4,
+diminishes towards zero at the tenor of the longest point in the term structure.
+ΔR𝑠ℎ𝑜𝑟𝑡,𝑐(𝑡𝑘) = ±𝑅̅𝑠ℎ𝑜𝑟𝑡,𝑐. S𝑠ℎ𝑜𝑟𝑡(𝑡𝑘) = ±𝑅̅𝑠ℎ𝑜𝑟𝑡,𝑐 . (𝑒
+−𝑡𝑘
+(iii) Long rate shock for currency c (note: this is used only in the rotational shocks): Here
+the shock is greatest at the longest tenor midpoint and is related to the short scaling factor
+as
+S𝑙𝑜𝑛𝑔(𝑡𝑘) = 1 −S𝑠ℎ𝑜𝑟𝑡(𝑡𝑘)
+ΔR𝑙𝑜𝑛𝑔,𝑐(𝑡𝑘) = ±𝑅̅𝑙𝑜𝑛𝑔,𝑐. S𝑙𝑜𝑛𝑔(𝑡𝑘) = ±𝑅̅𝑙𝑜𝑛𝑔,𝑐 . (1 −𝑒
+−𝑡𝑘
+
+--- Page 21 ---
+20
+
+(iv) Rotation shocks for currency c: involving rotations to the term structure (i.e.,
+steepeners and flatteners) of the interest rates whereby both the long and short rates are
+shocked and the shift in interest rates at each tenor midpoint is obtained by applying the
+following formulas to those shocks:
+ΔR𝑠𝑡𝑒𝑒𝑝𝑒𝑛𝑒𝑟,𝑐(𝑡𝑘) = −0.65 . |ΔR𝑠ℎ𝑜𝑟𝑡,𝑐(𝑡𝑘)| + 0.9 . |ΔR𝑙𝑜𝑛𝑔,𝑐(𝑡𝑘)|
+ΔR𝑓𝑙𝑎𝑡𝑡𝑒𝑛𝑒𝑟,𝑐(𝑡𝑘) = +0.8 . |ΔR𝑠ℎ𝑜𝑟𝑡,𝑐(𝑡𝑘)| −0.6 . |ΔR𝑙𝑜𝑛𝑔,𝑐(𝑡𝑘)|
+Examples:
+Short rate shock: Assume that a bank uses the framework with K=19 time bands and with 𝑡𝐾=25
+years (the midpoint (in time) of the longest tenor bucket K), and where 𝑡𝑘 is the midpoint (in
+time) for bucket k. In the standardized framework, if k=10 with 𝑡𝑘=3.5 years (see table 3), the
+scalar adjustment for the short shock would be S𝑠ℎ𝑜𝑟𝑡(𝑡𝑘) = (𝑒
+−3.5
+4 ) = 0.417. Banks would
+multiply this by the value of the short rate shock to obtain the amount to be added to or
+subtracted from the yield curve at that tenor point. If the short rate shock were +500 bp (as for
+the BDT), the increase in the yield curve at 𝑡𝑘 =3.5 years would be 208.5bp.
+Steepener: Assume the same point on the yield curve as above, 𝑡𝑘 =3.5 years. If the absolute
+value of the short rate shock were 500 bp and the absolute value of the long rate shock was 300
+bp (as for the BDT), the change in the yield curve at 𝑡𝑘=3.5 years would be the sum of the effect
+of the short rate shock plus the effect of the long rate shock in basis points: - 0.65 ∙ 500bp ∙ 0.417
++ 0.9 ∙ 300bp ∙ (1 - 0.417) =21.89bp.
+Flattener: The corresponding change in the yield curve for the shocks in the example above at
+𝑡𝑘=3.5 years would be: + 0.8 ∙ 500bp ∙ 0.417 - 0.6 ∙ 300bp ∙ (1 - 0.417) = 61.86bp.
+15. The standardized framework
+
+15.1
+The steps involved in measuring a bank’s IRRBB from data formats in Annexure, based
+solely on EVE, are:
+
+(1) Interest rate-sensitive banking book positions are allocated to one of three categories
+(i.e., amenable, less amenable, and not amenable to standardization).
+
+(2) Determination of slotting of cash flows based on repricing maturities. This is a
+straightforward translation for positions amenable to standardization. For positions less
+amenable to standardization, they are excluded from this step. For positions with
+embedded automatic interest rate options, the optionality shall be ignored for slotting of
+notional repricing cash flows. For positions that are not amenable to standardization,
+there is a separate treatment for:
+(a) NMDs – according to the separation of core and non-core cash flows
+(b) Behavioural options (fixed rate loans subject to prepayment risk and term
+deposits subject to early redemption risk) – behavioral parameters relevant to the
+position type must rely on a scenario-dependent look-up table 5.
+
+--- Page 22 ---
+21
+
+3) Determination of ∆EVE for relevant interest rate shock scenarios for each currency.
+The ∆EVE is measured per currency for all six prescribed interest rate shock scenarios.
+
+(4) Add-ons for changes in the value of automatic interest rate options (whether explicit
+or embedded) are added to the EVE changes. Automatic interest rate options sold are
+subject to full revaluation (possibly net of automatic interest rate options bought to hedge
+sold interest rate options) under each of the six prescribed interest rate shock scenarios
+for each currency. Changes in values of options are then added to the changes in the EVE
+measure under each interest rate shock scenario on a per currency basis.
+
+(5) IRRBB EVE calculation. The ∆EVE under the standardized framework will be the
+maximum of the worst aggregated reductions to EVE across the six prescribed interest
+rate shocks.
+
+15.2
+Banks must project all future notional repricing cash flows arising from interest rate-
+sensitive assets, liabilities, and off-balance sheet items on to:
+(1) 19 predefined time buckets (indexed numerically by k) as set out in Table 3, into
+which they fall according to their repricing dates, or
+(2) the time bucket midpoints as set out in Table 3, retaining the notional repricing cash
+flows’ maturity. This alternative requires splitting up notional repricing cash flows
+between two adjacent maturity bucket midpoints.
+
+Table 3: Maturity schedule with 19-time buckets for notional repricing cash flows at tCF
+Time bucket intervals** (On=Overnight; M = months; Y = years)
+Short
+term
+rates
+On
+(0.002
+8Y)
+On to1M
+(0.0417Y)
+1M to 3M
+(0.1667Y)
+3M to
+6M
+(0.375Y)
+6M to9M
+(0.625Y)
+9M to1Y
+(0.875Y)
+1Y
+to1.5Y
+(1.25Y)
+1.5Yto2Y
+(1.75Y)
+Medium
+term
+rates
+2Y to
+3Y
+(2.5Y)
+3Y to 4Y
+(3.5Y)
+4Y to 5Y
+(4.5Y)
+5Y to 6Y
+(5.5Y)
+6Y to 7Y
+(6.5Y)
+
+
+
+Long
+term
+rates
+7Y
+to8Y
+(7.5Y)
+8Y to9Y
+(8.5Y)
+9Y to10Y
+(9.5Y)
+10Y
+to 15Y
+(12.5Y)
+15Yto20Y
+(17.5Y)
+tCF>20Y
+(25Y)
+
+
+**The number in brackets is the time bucket’s midpoint.
+15.3
+For this approach, assets are those not deducted from CET1 capital and exclude fixed
+assets (such as real estate or intangible assets) and equity exposures in the banking book.
+Liabilities include all non-remunerated deposits but exclude CET1 capital under the Basel III
+framework.
+15.4
+A notional repricing cash flow CF(k) is defined as:
+(1) any repayment of principal (e.g., at contractual maturity);
+(2) any repricing of principal; repricing is said to occur at the earliest date at which either
+the bank or its counterparty is entitled to unilaterally change the interest rate, or at which
+the rate on a floating rate instrument changes automatically in response to a change in an
+external benchmark; or
+
+--- Page 23 ---
+22
+
+(3) any interest payment on a tranche of principal that has not yet been repaid or repriced;
+spread components of interest payments on a tranche of principal that has not yet been
+repaid and which do not reprice must be slotted until their contractual maturity
+irrespective of whether the non-amortized principal has been repriced or not.
+
+15.5
+The date of each repayment, repricing, or interest payment is referred to as its repricing
+date.
+15.6
+Banks have the choice of whether to deduct commercial margins and other spread
+components from the notional repricing cash flows, using a prudent and transparent
+methodology.
+15.7
+Floating rate instruments are assumed to reprice fully at the first reset date. Hence, the
+entire principal amount is slotted into the bucket in which that date falls, with no additional
+slotting of notional repricing cash flows to later time buckets or time bucket midpoints (other
+than the spread component which is not repriced).
+15.8
+All notional repricing cash flows associated with interest rate-sensitive assets, liabilities,
+and off-balance sheet items, for each currency, are allocated to the prescribed time buckets or
+time bucket midpoints (henceforth, denoted by CFi,c(k) or CFi,c(tk) under interest rate shock
+scenario i and currency c) based on their amenability to standardization.
+15.9
+Notional repricing cash flows can be slotted into appropriate time buckets or time bucket
+midpoints based on their contractual maturity, if subject to fixed coupons, or into the next
+repricing period if coupons are floating. Positions amenable to standardization fall into two
+categories:
+(1) Fixed rate positions: such positions generate cash flows that are certain till the point
+of contractual maturity. Examples are fixed rate loans without embedded prepayment
+options, term deposits without redemption risk, and other amortizing products such as
+mortgage loans. All coupon cash flows and periodic or final principal repayments shall be
+allocated to the time bucket midpoints closest to the contractual maturity.
+(2) Floating rate positions: such positions generate cash flows that are not predictable
+past the next repricing date other than that the present value would be reset to par.
+Accordingly, such instruments can be treated as a series of coupon payments until the
+next repricing and a par notional cash flow at the time bucket midpoint closest to the next
+reset date bucket.
+15.10 Positions amenable to standardization include positions with embedded automatic interest
+rate options where the optionality (whether sold or bought) shall be ignored for slotting of
+notional repricing cash flows.
+15.11 Positions not amenable to standardization include:
+(1) NMDs,
+(2) fixed rate loans subject to prepayment risk and
+(3) term deposits subject to early redemption risk.
+
+--- Page 24 ---
+23
+
+15.12 Under the standardized framework, banks shall first separate their NMDs according to
+the nature of the deposit and depositor. Banks shall then identify, for each category, the core, and
+non-core deposits, up to the limits specified in Table 4. Finally, banks shall determine an
+appropriate cash flow slotting for each category, following the average maturity limits specified
+in Table 4.
+15.13 NMDs must be segmented into retail and wholesale categories. Retail deposits are
+defined as deposits placed with a bank by a person. Deposits made by small business customers
+and managed as retail exposures are considered as having similar interest rate risk characteristics
+to retail accounts and thus can be treated as retail deposits (provided the total aggregated
+liabilities raised from one small business customer are less than 10 crores BDT). Retail deposits
+shall be considered as held in a transactional account when regular transactions are carried out in
+that account (e.g., when salaries are regularly credited) or when the deposit is non-interest
+bearing. Other retail deposits shall be considered as held in a non-transactional account. Deposits
+from legal entities, sole proprietorships, or partnerships are captured in wholesale deposit
+categories.
+15.14 Banks shall distinguish between the stable and the non-stable parts of each NMD
+category using observed volume changes over the past 10 years. The stable NMD portion is the
+portion that is found to remain undrawn with a high degree of likelihood. Core deposits are the
+proportion of stable NMDs which are unlikely to reprice even under significant changes in the
+interest rate environment. The remainder constitutes non-core NMDs.
+
+15.15 Banks are required to estimate their level of core deposits using this two-step procedure
+for each deposit category, and then to aggregate the results to determine the overall volume of
+core deposits subject to imposed caps as shown in Table 4.
+
+15.16 NMDs shall finally be slotted into the appropriate time bucket or time bucket midpoint.
+Non-core deposits shall be considered as overnight deposits and accordingly shall be placed into
+the overnight time bucket or time bucket midpoint.
+
+15.17 Banks shall determine an appropriate cash flow slotting procedure for each category of
+core deposits, up to the maximum average maturity per category as specified in Table 4.
+
+Table 4: Caps on core deposits and average maturity by category
+
+Cap on the proportion of
+core deposits (%)
+Cap on the average maturity of
+core deposits (years)
+Retail/transactional
+90
+Retail/non-transactional
+70
+4.5
+Wholesale
+50
+
+15.18 Under the standardized framework, the optionality in these products is estimated using a
+two-step approach. Firstly, baseline estimates of loan prepayments and early withdrawal of
+fixed-term deposits are calculated given the prevailing term structure of interest rates.
+
+--- Page 25 ---
+24
+
+15.19 In the second stage, the baseline estimates are multiplied by scenario-dependent scalars
+that reflect the likely behavioral changes in the exercise of the options.
+
+15.20 Prepayments, or parts thereof, for which the economic cost is not charged to the
+borrower, are referred to as uncompensated prepayments. For loan products where the economic
+cost of prepayments is never charged, or charged only for prepayments above a certain threshold,
+the standardized framework for fixed rate loans subject to prepayments set out below must be
+used to assign notional repricing cash flows.
+
+15.21 Banks must determine the baseline conditional prepayment rate 𝐶𝑃𝑅𝑜,𝑐
+𝑝 for each portfolio
+p of homogeneous prepayment-exposed loan products denominated in currency c, under the
+prevailing term structure of interest rates.
+
+15.22 The conditional prepayment rate (CPR) for each portfolio of homogeneous prepayment-
+exposed loan products denominated in currency c, under interest rate scenario i, is given using
+the formula that follows, where 𝐶𝑃𝑅𝑜,𝑐
+𝑝 is the constant base CPR of a portfolio p of homogeneous
+prepayment-exposed loans given in currency c and given the prevailing term structure of interest
+rates. 𝛾𝑖 is a multiplier applied for scenario i as given in Table 5.
+𝐶𝑃𝑅𝑖,𝑐
+𝑝= min (1, 𝛾𝑖× 𝐶𝑃𝑅𝑜,𝑐
+
+Table 5: CPRs under the shock scenarios
+Scenario number (i)
+Interest rate shock scenarios
+Scalar multipliers 𝜸𝒊
+Parallel up
+0.8
+Parallel down
+1.2
+Steepener
+0.8
+Flattener
+1.2
+Short rate up
+0.8
+Short rate down
+1.2
+
+15.23 Prepayment speeds vary according to the interest rate shock scenario. The multipliers
+𝛾𝑖reflect the expectation that prepayments will generally be higher during periods of falling
+interest rates and lower during periods of rising interest rates.
+
+15.24 The prepayments on the fixed rate loans must ultimately be reflected in the relevant cash
+flows (scheduled payments on the loans, prepayments, and interest payments). These payments
+can be broken up into scheduled payments adjusted for prepayment and uncompensated
+prepayments according to the following formula, where 𝐶𝐹𝑖,𝑐
+𝑆(𝑘) refers to the scheduled interest
+and principal repayment, and 𝑁𝑖,𝑐
+𝑝(𝑘−1) denotes the notional outstanding at time bucket k–1.
+The base cash flows (i.e., given the current interest rate yield curve and the base CPR) are given
+by i=0, while the interest rate shock scenarios are given for i=1 to 6.
+𝐶𝐹𝑖,𝑐
+𝑝(𝑘) = 𝐶𝐹𝑖,𝑐
+𝑆(𝑘) + 𝐶𝑃𝑅𝑖,𝑐
+𝑝 .𝑁𝑖,𝑐
+𝑝(𝑘−1)
+15.25 Term deposits lock in a fixed rate for a fixed term and would usually be hedged on that
+basis. However, term deposits may be subject to the risk of early withdrawal, also called early
+
+--- Page 26 ---
+25
+
+redemption risk. Consequently, term deposits may only be treated as fixed rate liabilities and
+their notional repricing cash flows slotted into the time buckets or time bucket midpoints up to
+their corresponding contractual maturity dates if it can be shown to the BB’s satisfaction that:
+(1) the depositor has no legal right to withdraw the deposit; or
+(2) an early withdrawal results in a significant penalty that at least compensates for the
+loss of interest between the date of withdrawal and the contractual maturity date and the
+economic cost of breaking the contract.
+
+15.26 If neither of these conditions is met, the depositor holds an option to withdraw, and the
+term deposits are deemed to be subject to early redemption risk. Further, if a bank issues term
+deposits that do not meet the above criteria to wholesale customers, it must assume that the
+customer will always exercise the right to withdraw in the way that is most disadvantageous to
+the bank (i.e., the deposit is classified as an automatic interest rate option).
+
+15.27 Banks must determine the baseline term deposit redemption ratio 𝑇𝐷𝑅𝑅𝑜,𝑐
+𝑝 applicable to
+each homogeneous portfolio p of term deposits in currency c and use it to slot the notional
+repricing cash flows. Term deposits that are expected to be redeemed early are slotted into the
+overnight time bucket (k=1) or time bucket midpoint (t1).
+
+15.28 The term deposit redemption ratio for time bucket k or time bucket midpoint tk applicable
+to each homogeneous portfolio p of term deposits in currency c and under scenario i is obtained
+by multiplying 𝑇𝐷𝑅𝑅𝑜,𝑐
+𝑝 by a scalar ui (set out in Table 6) that depends on scenario i, as follows:
+
+𝑇𝐷𝑅𝑅𝑖,𝑐
+𝑝= min (1, 𝑢𝑖 . 𝑇𝐷𝑅𝑅𝑜,𝑐
+
+Table 6: Term deposit redemption rate (TDRR) under the shock scenarios
+Scenario number (i)
+Interest rate shock scenarios
+Scalar multipliers ui
+Parallel up
+1.2
+Parallel down
+0.8
+Steepener
+0.8
+Flattener
+1.2
+Short rate up
+1.2
+Short rate down
+0.8
+
+15.29 The notional repricing cash flows which are expected to be withdrawn early under any
+interest rate shock scenario i are described as follows, where 𝑇𝐷𝑜,𝑐
+𝑝 is the outstanding amount of
+term deposits of type p.
+𝐶𝐹𝑖,𝑐
+𝑝= 𝑇𝐷𝑜,𝑐
+𝑝 . 𝑇𝐷𝑅𝑅𝑖,𝑐
+15.30 This paragraph describes the method for calculating an add-on for automatic interest rate
+options, whether explicit or embedded. This applies to sold automatic interest rate options. Banks
+have a choice to either include all bought automatic options or include only automatic options
+used for hedging sold automatic interest rate options:
+
+--- Page 27 ---
+26
+
+(1) For each sold automatic option o in currency c, the value change, denoted Δ𝐹𝑉𝐴𝑂𝑖,𝑐
+is calculated for each interest rate shock scenario i. The value change is given by:
+(a) an estimate of the value of the option to the option holder, given:
+(i) a yield curve in currency c under the shock scenario; and
+(ii) a relative increase in the implicit volatility of 25%; minus
+(b) the value of the sold option to the option holder, given the yield curve in
+currency c at the valuation date.
+
+(2) Likewise, for each bought automatic interest rate option q, the bank must determine
+the change in the value of the option between interest rate shock scenario i and the
+current interest rate term structure combined with a relative increase in the implicit
+volatility of 25%. This is denoted as Δ𝐹𝑉𝐴𝑂𝑖,𝑐
+(3) The bank’s total measure for automatic interest rate option risk under interest rate
+shock scenario i in currency c is calculated as follows, where nc (mc) is the number of
+sold (bought) options in currency c.
+𝐾𝐴𝑂𝑖,𝑐= ∑Δ𝐹𝑉𝐴𝑂𝑖,𝑐
+𝑛𝑐
+𝑜=1
+−∑Δ𝐹𝑉𝐴𝑂𝑖,𝑐
+𝑚𝑐
+𝑞=1
+
+15.31 If the bank chooses to only include bought automatic interest rate options that are used
+for hedging sold automatic interest rate options, the bank must, for the remaining bought options,
+add any changes in market values reflected in the regulatory capital measure of the respective
+capital ratio (i.e. CET1, Additional Tier 1 or total capital) to the total automatic interest rate
+option risk measure KAOi,c.
+15.32 First, the loss in the economic value of equity ΔEVEi,c under scenario i and currency c is
+calculated for each currency with material exposures, i.e. those accounting for more than 5% of
+either banking book assets or liabilities, as follows:
+(1) Under each scenario i, all notional repricing cash flows are slotted into the respective
+time bucket k ⋲ {1, 2, …, K} or time bucket midpoint tk, k ⋲ {1, 2…, K}. Within a given
+time bucket k or time bucket midpoint tk, all positive and negative notional repricing cash
+flows are netted to form a single long or short position, with the canceled parts removed
+from the calculation. Following this process across all time buckets or time bucket
+midpoints leads to a set of notional repricing cash flows CFi,c(k) or CFi,c(tk), k ⋲ {1, 2,
+(2) Net notional repricing cash flows in each time bucket k or time bucket midpoint tk are
+weighted by a continuously compounded discount factor, described below, that reflects
+the interest rate shock scenario i in currency c, and where tk is the midpoint of time
+bucket k. This results in a weighted net position, which may be positive or negative for
+each time bucket. The cash flows shall be discounted using either a risk-free rate or a
+risk-free rate including commercial margin and other spread components (only if the
+bank has included commercial margins and other spread components in its cash flows).
+
+--- Page 28 ---
+27
+
+𝐷𝐹𝑖,𝑐(𝑡𝑘) = 𝑒(−𝑅𝑖,𝑐(𝑡𝑘).𝑡𝑘)
+(3) These risk-weighted net positions are summed to determine the EVE in currency c
+under scenario i (excluding automatic interest rate option positions):
+𝐸𝑉𝐸𝑖,𝑐
+𝑛𝑎𝑜= ∑
+𝐶𝐹𝑖,𝑐(𝑘) .
+𝑘=1
+𝐷𝐹𝑖,𝑐(𝑡𝑘) (maturity buckets) or
+𝐸𝑉𝐸𝑖,𝑐
+𝑛𝑎𝑜= ∑
+𝐶𝐹𝑖,𝑐(𝑡𝑘) .
+𝑘=1
+𝐷𝐹𝑖,𝑐(𝑡𝑘) (maturity bucket midpoints)
+(4) Then, the full change in EVE in currency c associated with scenario i is obtained by
+subtracting 𝐸𝑉𝐸𝑖,𝑐
+𝑛𝑎𝑜 from the EVE under the current interest rate term structure
+𝐸𝑉𝐸𝑜,𝑐
+𝑛𝑎𝑜 and by adding the total measure for automatic interest rate option risk KAOi,c, as
+follows:
+Δ𝐸𝑉𝐸𝑖,𝑐= ∑
+𝐶𝐹𝑜,𝑐(𝑘) .
+𝑘=1
+𝐷𝐹𝑜,𝑐(𝑡𝑘) −∑
+𝐶𝐹𝑖,𝑐(𝑘) .
+𝑘=1
+𝐷𝐹𝑖,𝑐(𝑡𝑘) + 𝐾𝐴𝑂𝑖,𝑐or
+Δ𝐸𝑉𝐸𝑖,𝑐= ∑
+𝐶𝐹𝑜,𝑐(𝑡𝑘) .
+𝑘=1
+𝐷𝐹𝑜,𝑐(𝑡𝑘) −∑
+𝐶𝐹𝑖,𝑐(𝑡𝑘) .
+𝑘=1
+𝐷𝐹𝑖,𝑐(𝑡𝑘) + 𝐾𝐴𝑂𝑖,𝑐
+(5) Finally, the EVE losses Δ𝐸𝑉𝐸𝑖,𝑐> 0 are aggregated under a given interest rate shock
+scenario i and the maximum loss across all interest rate shock scenarios is the EVE risk
+measure.
+Standardized EVE risk measure =
+max
+𝑖∊{1,2,…,6}{ 𝑚𝑎𝑥(0; ∑
+Δ𝐸𝑉𝐸𝑖,𝑐
+𝑐:Δ𝐸𝑉𝐸𝑖,𝑐>0
+
+--- Page 29 ---
+28
+
+Appendix 2
+Table A
+Purpose: To describe the risk management objectives and policies concerning IRRBB.
+Scope of application: Mandatory for all scheduled banks***.
+Content: Qualitative and quantitative information. Quantitative information is based on the daily or monthly
+average of the year or the data as of the reporting date.
+Frequency: Half-yearly (June 30 and December 31)
+Format: Flexible.
+Qualitative disclosure
+A description of how the bank defines IRRBB for purposes of risk control and measurement.
+A description of the bank’s overall IRRBB management and mitigation strategies. Examples are monitoring
+of EVE and NII with established limits, the conduct of stress testing, outcomes analysis, the role of
+independent audit, the role and practices of the ALCO, the bank’s practices to ensure appropriate model
+validation, and timely updates in response to changing market conditions.
+The periodicity of the calculation of the bank’s IRRBB measures, and a description of the specific measures
+that the bank uses to gauge its sensitivity to IRRBB.
+A description of the interest rate shock and stress scenarios that the bank uses to estimate changes in the
+economic value and earnings.
+Where significant modeling assumptions used in the bank’s IMS (i.e. the EVE metric generated by the bank
+for purposes other than disclosure, e.g. for internal assessment of capital adequacy) are different from the
+modeling assumptions prescribed for the disclosure in Table B, the bank shall provide a description of those
+assumptions and their directional implications and explain its rationale for making those assumptions (e.g.
+historical data, published research, management judgment, and analysis).
+A high-level description of how the bank hedges its IRRBB, as well as the associated accounting treatment.
+A high-level description of key modeling and parametric assumptions used in calculating ∆EVE and ∆NII in
+Table B, which includes:
+
+For ∆EVE, whether commercial margins and other spread components have been included in the
+cash flows used in the computation and discount rate used.
+
+How the average repricing maturity of non-maturity deposits has been determined (including any
+unique product characteristics that affect the assessment of repricing behavior).
+
+The methodology used to estimate the prepayment rates of customer loans, and/or the early
+withdrawal rates for time deposits, and other significant assumptions.
+
+Any other assumptions (including for instruments with behavioral optionalities that have been
+excluded) that have a material impact on the disclosed ∆EVE and ∆NII in Table B, including an
+explanation of why these are material.
+
+Any methods of aggregation across currencies and any significant interest rate correlations
+between different currencies.
+(Optional) Any other information which the bank wishes to disclose regarding its interpretation of the
+significance and sensitivity of the IRRBB measures disclosed and/or an explanation of any significant
+variations in the level of the reported IRRBB since previous disclosures.
+Quantitative disclosures
+Average repricing maturity assigned to NMDs.
+Longest repricing maturity assigned to NMDs.
+
+*** For Islamic banks, Profit Rate Risk in the Banking Book (PRRBB) policies will include rate of return risk
+instead of interest rate risk.
+
+--- Page 30 ---
+29
+
+Table B
+Scope of application: Mandatory for all scheduled banks.
+Content: Quantitative information.
+Frequency: Half-yearly (June 30 and December 31)
+Format: Fixed.
+Accompanying narrative: Commentary on the significance of the reported values and an explanation of any
+material changes since the previous reporting period.
+In reporting
+Δ EVE
+Δ NII
+Period
+T–1
+T–1
+Parallel up
+
+
+
+
+Parallel down
+
+
+
+
+Steepener
+
+
+
+
+Flattener
+
+
+
+
+Short rate up
+
+
+
+
+Short rate down
+
+
+
+
+Maximum
+
+
+
+
+Period
+T–1
+Tier 1 capital
+
+
+
+For each of the specified interest rate shock scenarios, the bank must report for the current period and the previous
+period:
+(i) the change in the economic value of equity-based on its IMS, using a runoff balance sheet and an
+instantaneous shock and
+(ii) the change in projected NII over a forward-looking rolling 12-month period compared with the bank’s
+own best estimate 12-month projections, using a constant balance sheet assumption and an instantaneous
+shock.
+
+--- Page 31 ---
+30
+
+Annexure
+Data Formats of IRRBB Calculation for Conventional Banks (Assets)
+
+
+
+
+
+
+Assets
+ON
+(0.0028
+ON<tCF
+≤ 1M
+(0.0417
+1M<tCF
+≤ 3M
+(0.1667
+3M<tCF
+≤ 6M
+(0.375
+6M<tCF
+≤ 9M
+(0.625
+9M<tCF
+≤ 1Y
+(0.875
+1Y<tCF
+≤ 1.5Y
+(1.25
+1.5Y<tCF
+≤ 2Y
+(1.75 Y)
+2Y<tCF
+≤ 3Y
+(2.5 Y)
+3Y<tCF
+≤ 4Y
+(3.5 Y)
+4Y<tCF
+≤ 5Y
+(4.5 Y)
+5Y<tCF
+≤ 6Y
+(5.5 Y)
+6Y<tCF
+≤ 7Y
+(6.5 Y)
+7Y<tCF
+≤ 8Y
+(7.5 Y)
+8Y<tCF
+≤ 9Y
+(8.5 Y)
+9Y<tCF
+≤ 10Y
+(9.5 Y)
+10Y<
+tCF≤15
+Y (12.5
+15Y<
+tCF≤20
+Y (17.5
+tCF>20
+Y (25
+Fixed rate assets
+other than loans
+with contractual
+cash inflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Floating rate
+assets other than
+loans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed rate retail
+loans subject to
+prepayment risk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed rate retail
+loans subject to no
+prepayment risk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed rate non-
+retail loans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Floating rate retail
+loans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Floating rate non-
+retail loans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other interest rate
+sensitive assets
+subject to
+prepayment risk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weighted average
+interest rate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total rate sensitive assets
+
+
+Total non-rate sensitive assets
+
+
+Total assets
+
+--- Page 32 ---
+31
+
+Data Formats of IRRBB Calculation for Conventional Banks (Liabilities)
+Liabilities
+ON
+(0.00
+28Y)
+ON<tCF
+≤ 1M
+(0.0417
+1M<tC
+F≤ 3M
+(0.166
+7 Y)
+3M<tC
+F≤ 6M
+(0.375
+6M<tC
+F≤ 9M
+(0.625
+9M<tCF
+≤ 1Y
+(0.875
+1Y<t
+CF≤
+1.5Y
+(1.25
+1.5Y<tC
+F≤ 2Y
+(1.75 Y)
+2Y<tC
+F≤ 3Y
+(2.5
+3Y<tC
+F≤ 4Y
+(3.5
+4Y<tC
+F≤ 5Y
+(4.5
+5Y<tC
+F≤ 6Y
+(5.5
+6Y<tC
+F≤ 7Y
+(6.5
+7Y<tC
+F≤ 8Y
+(7.5
+8Y<tC
+F≤ 9Y
+(8.5
+9Y<tC
+10Y
+(9.5
+10Y<
+tCF≤15
+(12.5
+15Y<
+tCF≤20
+(17.5
+tCF>20
+(25 Y)
+Term Deposits subject to
+penalty for early encashment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Term Deposits with no
+penalty for early encashment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Retail transactional NMD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1
+Stable portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.1
+Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.2
+Non-Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2
+Unstable Portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Retail non-transactional NMD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1
+Stable portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1.1
+Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1.2
+Non-Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.2
+Unstable Portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wholesale NMD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1
+Stable portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.1
+Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.2
+Non-Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.2
+Unstable Portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed rate bonds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Floating rate bonds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weighted average interest rate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total rate sensitive liabilities
+
+
+Total non-rate sensitive liabilities
+
+
+Total liabilities
+
+Terms
+Explanations
+Retail transactional Non-
+maturity deposits (NMDs)
+(1) deposits placed by a person; (2) small business customers and managed as retail exposures (provided the total aggregated liabilities raised from one small business
+customer are less than 10 crores BDT). In short, all current accounts from natural persons or small businesses with balances less than or equal to Tk. 10 crores.
+Retail non-transactional NMD
+Deposits held in an account where regular transactions are not carried out and the rest portion of Retail transactional NMDs, Savings, SND
+Wholesale NMD
+Deposits from legal entities, sole proprietorships, or partnerships.
+Stable portion
+By using observed volume changes over the past 10 years, the stable NMD portion is the portion that is found to remain undrawn with a high degree of likelihood
+Core NMD
+Core deposits are the proportion of stable NMDs which are unlikely to reprice even under significant changes in the interest rate environment
+
+--- Page 33 ---
+32
+
+Data Formats of IRRBB Calculation for Islamic Banks (Assets)
+Assets
+ON
+(0.0028Y
+ON<
+tCF≤ 1M
+(0.0417Y
+1M<
+tCF≤
+3M
+(0.166
+7 Y)
+3M<
+tCF≤
+6M
+(0.375
+6M<
+tCF≤
+9M
+(0.625
+9M<
+tCF≤
+1Y
+(0.875
+1Y<
+tCF≤
+1.5Y
+(1.25
+1.5Y<
+tCF≤
+2Y
+(1.75
+2Y<
+tCF≤
+3Y
+(2.5
+3Y<
+tCF≤
+4Y
+(3.5
+4Y<
+tCF≤
+5Y
+(4.5
+5Y<
+tCF≤
+6Y
+(5.5
+6Y<
+tCF≤
+7Y
+(6.5
+7Y<
+tCF≤
+8Y
+(7.5
+8Y<
+tCF≤
+9Y
+(8.5
+9Y<
+tCF≤
+10Y
+(9.5
+10Y<
+tCF≤15
+Y (12.5
+15Y<
+tCF≤20
+Y (17.5
+tCF>20
+Y (25
+All "Bai-mode” investments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share-mode Investments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.1 Mudaraba
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.2 Musharaka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Ijara-mode investments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weighted average rate of
+return
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total rate sensitive assets
+
+
+Total non-rate sensitive assets
+
+
+Total assets
+
+--- Page 34 ---
+33
+
+Data Formats of IRRBB Calculation for Islamic Banks (Liabilities)
+Liabilities
+ON
+(0.0028Y)
+ON< tCF≤
+1M
+(0.0417Y)
+1M<
+tCF≤ 3M
+(0.1667
+3M<
+tCF≤ 6M
+(0.375
+6M< tCF≤
+9M
+(0.625 Y)
+9M<
+tCF≤ 1Y
+(0.875
+1Y<
+tCF≤
+1.5Y
+(1.25
+1.5Y<
+tCF≤
+2Y
+(1.75
+2Y<
+tCF≤
+3Y
+(2.5
+3Y<
+tCF≤
+4Y
+(3.5
+4Y<
+tCF≤
+5Y
+(4.5
+5Y<
+tCF≤
+6Y
+(5.5
+6Y<
+tCF≤
+7Y
+(6.5
+7Y<
+tCF≤
+8Y
+(7.5
+8Y<
+tCF≤
+9Y
+(8.5
+9Y<
+tCF≤
+10Y
+(9.5
+10Y<
+tCF≤15Y
+(12.5 Y)
+15Y<
+tCF≤20Y
+(17.5 Y)
+tCF>20Y
+(25 Y)
+Mudaraba Deposits subject to
+penalty for early encashment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Retail transactional NMD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.1
+Stable portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.1.1
+Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.1.2
+Non-Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.2
+Unstable Portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Retail non-transactional NMD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1
+Stable portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.1
+Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.2
+Non-Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2
+Unstable Portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wholesale NMD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1
+Stable portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1.1
+Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1.2
+Non-Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.2
+Unstable Portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Floating rate bonds/Sukuk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed rate bonds/Sukuk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weighted average rate of return
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total rate sensitive liabilities
+
+
+Total non-rate sensitive liabilities
+
+
+Total liabilities

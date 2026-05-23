@@ -1,0 +1,50 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org
+WWW.bangadeshbank.org.bd
+(50080)
+Telex : Banglabank
+Telephone : 7126101-20
+Fax : 7114705
+
+Financial Institutions Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+29 December, 2005
+FID Circular No. 12 Dated ...............................
+15 Pous , 1412
+Managing Director/Chief Executive
+All Financial Institutions
+
+Dear Sir,
+Guideline on Information & Communication Technology for
+Financial Institutions (non-bank)
+
+You are well aware that in recent years the banking and finance industry has
+undergone massive changes in providing service to their customers by using information
+technology. So it is important to ensure security in IT setup as well as in IT operations and
+financial Institutions must take adequate measures to prevent the information unauthorized
+access, modification, disclosure and destruction so that customers' interest is fully protected.
+
+Considering the above circumstances, Bangladesh Bank has taken the initiative to
+provide the industry with IT guideline of `minimum' security standards for scheduled banks
+and financial institutions prepared by focus group with participation from Nationalized
+Commercial Banks, Private Commercial Banks, Foreign Banks and Bangladesh Bank. These
+guidelines forwarded through CD-ROM will be the base to develop financial institutions
+owns IT Policy and Security Standards.
+
+Financial Institutions, are, therefore, advised to follow these Guidelines in their IT area
+and implement all the security standards by May 15, 2006 and submit a compliance report to
+this department. Bangladesh Bank will also monitor the progress of implementation of these
+security standards through its on-site inspection team during routine inspection.
+
+Please acknowledge receipt.
+
+
+Yours faithfully,
+Enclo : 1(one) CD-ROM.
+
+(Sudhir Chandra Das)
+Deputy General Manager
+Phone : 7120956.

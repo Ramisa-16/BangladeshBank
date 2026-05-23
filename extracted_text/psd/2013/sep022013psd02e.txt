@@ -1,0 +1,29 @@
+--- Page 1 ---
+Payment Systems Department
+Bangladesh Bank
+Head Office, Dhaka-1000
+Website: http://www.bb.org.bd
+PSD Circular No. – 02/2013
+Date:
+18 Bhadra, 1420
+2 September, 2013
+Managing Directors/CEOs
+All Scheduled Banks in Bangladesh
+Dear Sir,
+Risk mitigation measures
+related to ‘card not present’ transactions
+With the increasing use of credit/debit cards and online transactions it is
+imperative to enhance the security of online card based transactions and with a view to
+protecting the interest of all concerned, it has been decided as under:
+The card issuing banks will establish a system of providing additional
+authentication/validation (2-factor authentication) based on information not
+visible on the cards for all online ‘card not present’ transactions.
+II.
+Introduce a system of ‘online alerts’ (e.g. SMS alert) to the cardholders for all
+‘card not present’ transactions of the value of Tk. 5,000.00 and above.
+It would be mandatory to comply the instructions on or before April 01, 2014.
+Please acknowledge receipt.
+Sincerely yours,
+(Md. Humayun Kabir)
+General Manager
+Phone: +88-02-9530174

@@ -1,0 +1,1381 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+
+May 29, 2013
+BRPD Circular No. 05
+Date: -----------------------
+
+
+
+
+
+
+
+Jaistha 15, 1420
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+Loan Classification and Provisioning
+
+Please refer to BRPD Circular No.14 dated September 23, 2012 and attached CL formats on
+the captioned subject.
+
+With a view to recognizing potential losses on loan pools of similar risks in a similar manner,
+following amendments have been made into the circular:
+
+1. Section 4.a)(4) of the circular will be replaced as under :
+“Rate of provision on the outstanding amount of loans kept in the 'Special Mention
+Account' will be same as the rates stated in (1), (2), (3) of Section 4.a) which one is
+applicable. i.e. @ 0.25% against all unclassified loans of Small and Medium Enterprise
+(SME), @ 5% on the unclassified amount for Consumer Financing, @ 2% on the
+unclassified amount for Housing Finance, Loans for Professionals to set up business under
+Consumer Financing Scheme, Loans to Brokerage House, Merchant Banks, Stock dealers,
+etc. and @ 1% against all other unclassified loans. ”
+
+
+
+2. CL-1 format will be replaced by the format attached herewith.
+
+This circular will come into force with immediate effect and all other instructions as well as
+other CL formats attached with BRPD Circulars No.14 and 19 dated September 23, 2012 and
+December 27, 2012 respectively will remain unchanged.
+
+Please acknowledge receipt.
+
+Yours sincerely,
+
+
+(Md. Anwarul Islam)
+Deputy General Manager
+Phone-9530094
+
+--- Page 2 ---
+CL-1
+BRANCH SUMMARY OF LOAN CLASSIFICATION AND PROVISION AS OF………………..
+Ref : BRPD Circular no. 14, 19/2012
+BRPD Circular no. 05 /2013
+Bank Name:
+Branch Name :
+Stamp of Branch Serial No………
+
+
+
+(As Provided by Bangladesh Bank)
+(AMOUNT IN TAKA)
+
+SL.
+No.
+Categories of Loans
+Total
+Balance outstanding
+Base for provision
+Amount
+of
+Provision
+required
+Amount of
+actual
+Provision
+
+Interest suspense on
+Unclassified(UC)
+Classified
+SMA
+SS
+DF
+B/L
+UC
+(standar
+d) (if
+any)
+SMA
+Classified
+A/Cs
+Total
+Standard
+SMA
+SS
+DF
+B/L
+
+10
+11
+12
+13
+14
+15
+16
+17
+Continuous Loan (CL-2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (CF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Other than SMEF, CF, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III & IV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demand Loan (CL-3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (CF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Other than SMEF, CF, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III & IV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed Term loan (CL-4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (Other than HF & LP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Housing Finance (HF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Loans for professionals to set up business (LP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI) Others than SMEF, CF, HF, LP, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III, IV, V & VI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short term Agri. Credit and Microcredit (CL-5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Short Term Agri. Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Microcredit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I & II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total (1+2+3+4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Staff Loan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Off-Balance Sheet Exposure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHECK LIST
+
+
+
+
+Rate of Provision :
+
+
+
+
+
+Form No.
+No. of Page (s)
+Form No.
+No. of Page (s)
+
+
+
+Particulars
+
+Short
+Term
+Agri.
+Credit
+
+Consumer financing
+
+
+SMEF
+Loans to
+BHs/MBs/
+SDs
+
+All
+other
+Credit
+
+
+
+CL-2
+
+CL-4
+
+
+Other
+than
+HF,LP
+HF
+LP
+
+
+
+CL-3
+
+CL-5
+
+
+UC
+Standard
+0.25%
+
+
+
+
+
+
+
+
+SMA
+0.25%
+
+
+NB: CF=CONSUMER FINANCING, HF=HOUSING FINANCE, LP=LOANS FOR
+PROFESSIONALS TO SET UP BUSINESS, SMA=SPECIAL MENTION ACCOUNT,
+SS=SUBSTANDARD, DF=DOUBTFUL, B/L=BAD/LOSS, BHs/ MBs,/SDs= LOANS TO
+BROKERAGE HOUSES/MERCHANT BANKS/STOCK DEALERS.
+
+
+Classified
+SS
+20%
+20%
+20%
+20%
+20%
+20%
+
+
+
+DF
+50%
+50%
+50%
+50%
+50%
+50%
+
+
+
+B/L
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+
+--- Page 3 ---
+CL-1
+OBU SUMMARY OF LOAN CLASSIFICATION AND PROVISION AS OF………………..
+Ref : BRPD Circular no. 14, 19/2012
+BRPD Circular no. 05 /2013
+Bank Name:
+Branch Name :
+Stamp of Branch Serial No………
+
+
+
+(As Provided by Bangladesh Bank)
+(AMOUNT IN TAKA)
+
+SL.
+No.
+Categories of Loans
+Total
+Balance outstanding
+Base for provision
+Amount of
+Provision
+required
+Amount
+of actual
+Provision
+Interest suspense on
+Unclassified(UC)
+Classified
+SMA
+SS
+DF
+B/L
+UC
+(standar
+(if any)
+SMA
+Classified
+A/Cs
+Total
+Standard
+SMA
+SS
+DF
+B/L
+
+10
+11
+12
+13
+14
+15
+16
+17
+Continuous Loan (CL-2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (CF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Other than SMEF, CF, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III & IV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demand Loan (CL-3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (CF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Other than SMEF, CF, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III & IV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed Term loan (CL-4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Small & Medium Enterprise Financing (SMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Financing (Other than HF & LP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Housing Finance (HF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Loans for professionals to set up business (LP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V) Loans to BHs/MBs/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI) Others than SMEF, CF, HF, LP, BHs/ MBs,/SDs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III, IV, V & VI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short term Agri. Credit and Microcredit (CL-5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Short Term Agri. Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Microcredit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I & II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total (1+2+3+4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Staff Loan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Off-Balance Sheet Exposure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHECK LIST
+
+
+
+
+Rate of Provision :
+
+
+
+
+
+Form No.
+No. of Page (s)
+Form No.
+No. of Page (s)
+
+
+
+Particulars
+
+Short
+Term
+Agri.
+Credit
+
+Consumer financing
+
+
+SMEF
+Loans to
+BHs/MBs/
+SDs
+
+All
+other
+Credit
+
+
+
+CL-2
+
+CL-4
+
+
+Other
+than
+HF,LP
+HF
+LP
+
+
+
+CL-3
+
+CL-5
+
+
+UC
+Standard
+0.25%
+
+
+
+
+
+
+
+
+SMA
+0.25%
+
+
+NB: CF=CONSUMER FINANCING, HF=HOUSING FINANCE, LP=LOANS FOR
+PROFESSIONALS TO SET UP BUSINESS, SMA=SPECIAL MENTION ACCOUNT,
+SS=SUBSTANDARD, DF=DOUBTFUL, B/L=BAD/LOSS, BHs/ MBs,/SDs= LOANS TO
+BROKERAGE HOUSES/MERCHANT BANKS/STOCK DEALERS.
+
+
+Classified
+SS
+20%
+20%
+20%
+20%
+20%
+20%
+
+
+
+DF
+50%
+50%
+50%
+50%
+50%
+50%
+
+
+
+B/L
+100%
+100%
+100%
+100%
+100%
+100%
+100%

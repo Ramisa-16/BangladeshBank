@@ -1,0 +1,357 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+FE Circular No. 32
+
+
+
+
+
+
+Date: August 31, 2014
+
+All Authorized Dealers in
+Foreign Exchange in Bangladesh
+
+Dear Sirs,
+Repatriation of sale proceeds of non-resident owned
+equity in unlisted companies purchased by residents
+
+Paragraph 3(B), chapter 9 of the Guidelines for Foreign Exchange Transactions-2009
+currently states that the sale proceeds of non-resident equity investment in unlisted
+companies and private limited companies are repatriable abroad with prior Bangladesh Bank
+approval to the extent of net asset value of the shares as on the date of sales, based on latest
+audited financial statements.
+
+02. It has now been decided that in such cases Bangladesh Bank will accept fair
+value of the shares as on the date of sale based on appropriate combination of three valuation
+approaches (viz. net asset value approach, market value approach and discounted cash flow
+approach) depending on the nature of the company.
+
+03. Application for repatriation of sale proceeds of shares shall be submitted to
+Foreign Exchange Investment Department at head office of Bangladesh Bank with a
+Valuation Certificate of shares issued by a Merchant banker licensed by BSEC or a
+Chartered Accountant experienced in company valuation. Annexure-A to this circular
+provides indicative guidelines for arriving at fair value.
+
+04. The valuation certificates by eligible valuers will have to be supported by full
+explanation justifying the fair value arrived at. Full set of audited financial statements of the
+company will have to be submitted to Bangladesh Bank along with application for remittance
+approval. If not fully satisfied about appropriateness of the valuation arrived at, Bangladesh
+Bank reserves the right to obtain second opinion from another qualified valuer of its choice.
+
+Please inform all your concerned constituents accordingly.
+
+Yours faithfully,
+Enclosure: As stated
+
+(Md. Abdul Mannan)
+Deputy General Manager
+Phone: 9530319
+
+--- Page 2 ---
+Annexure-A
+
+Indicative guidelines on determination of fair value of shares of unlisted company
+
+Bangladesh Bank has decided to consider the market value approach and discounted cash
+flow approach alongwith currently used net asset value approach in determining the
+repatriable value of shares of an unlisted company. Following is an illustrative example in
+determining the fair value of shares of an unlisted company using the three mostly used
+approaches:
+
+Asset Based Approach
+
+The underlying principle of asset-based approach is equivalent to the fair value of its assets
+less the fair value of its liabilities. This method is considered most appropriate for resource
+firms, financial services firms, investment companies (real estate investment trusts, closed-
+end investment companies) and small businesses with limited intangible assets or early stage
+companies.
+
+In this approach, net asset value of the target unlisted company (net assets after meeting all
+the liabilities) is estimated as the fair value.
+
+Asset based approach often indicates the most conservative valuation as it does not take into
+account the value of intangible assets (such as goodwill).
+
+For ‘The Sample Company’, asset based approach gives us a fair value of BDT 22,370
+million derived from the Balance Sheet as follows:
+
+Balance Sheet (BDT million)
+20AC
+Current Assets
+
+Cash & Cash Equivalent
+981
+Accounts Receivable & prepayments
+3,561
+Inventories
+3,091
+Total Current Assets
+7,633
+Total Long Term Investment
+5,103
+Total Fixed Assets
+14,520
+Total Assets
+27,256
+
+Page – 1/5
+
+--- Page 3 ---
+Balance sheet (cont’d)
+Balance Sheet (BDT million)
+20AC
+Current Liabilities
+
+Accounts Payable
+Liabilities for other expense
+1,426
+Short Term Bank Loan
+1,302
+Current Portion of Long Term Debt
+540
+Total Current Liabilities
+3,275
+Total Non-Current Liabilities
+1,611
+Total Liabilities
+4,886
+Shareholder's Equity
+
+Share Capital (BDT 10 each)
+3,708
+Share Premium
+2,035
+Reserve
+826
+Retained Earnings
+15,801
+Total Shareholder's Equity
+22,370
+Total Liabilities & Shareholder's Equity
+27,256
+
+Net Asset Value of Equity
+= Total Assets – Total Liabilities
+
+= BDT 27,256 m – BDT 4,886 m = BDT 22,370 m
+Net Asset Value per share
+= BDT 22,370 m / 370.8 m = BDT 60.33
+
+Market Value Approach
+Multiple based analysis or comparable analysis is one of the widely used tools in private
+company valuation. Comparable company trading multiples analysis utilizes the valuation
+multiples of similar or comparable publicly or privately traded companies to value a target
+unlisted company. Peers can be grouped based on any number of criteria, such as industry
+focus, private company size, or growth.
+
+The multiples can be equity based multiples like Price to Earnings (P/E), Price to Book Value
+of Equity (P/B) etc. The multiples derived from this type of analysis are for a given point in
+time and generally change over time.
+
+The most popular equity based multiple is earnings multiple. The price-to-earnings (P/E)
+ratio, which is equal to a company’s market price per share divided by its earnings per share
+(EPS), is the most widely used earnings multiple. It provides an indication of how much
+
+Page – 2/5
+
+--- Page 4 ---
+investors are willing to pay for a company’s earnings. For example, a company whose P/E
+ratio is 15 is said to be selling for 15 times of earnings i.e. fair market value of a share = EPS
+* P/E Ratio.
+
+It is often difficult to find out the right comparable listed companies. Hence, adjustments
+need to be made to reflect differences, such as business mix, geographic spread and capital
+structure. For instance, conglomerates may have unrelated lines of businesses that probably
+will require multiples from two different unique companies and then deriving a blended
+multiple. To select the comparable universe or peer group for a given unlisted company it
+must be ensured that its peers share similar industry, business, and financial characteristics.
+
+Caution is also needed to get the correct valuation based on this method. It is advisable that at
+least three years average EPS of the target company to be used in valuation.
+
+The fair value of ‘The Sample Company’ is as follows
+
+Income Statement (BDT million)
+20AA
+20AB
+20AC
+Sales
+16,975
+19,798
+20,202
+Cost of Goods Sold
+9,401
+10,872
+10,364
+Gross Profit
+7,574
+8,926
+9,838
+Administrative Expenses
+2,668
+3,077
+3,521
+EBITDA
+4,906
+5,849
+6,317
+Depreciation
+1,088
+1,234
+1,228
+Other income
+454
+420
+378
+EBIT
+4,272
+5,035
+5,467
+WPPF
+191
+220
+247
+Interest Expenses (income)
+310
+465
+357
+EBT
+3,771
+4,350
+4,863
+TAX @ 40%
+1,508
+1,740
+1,945
+Profit After Tax
+2,263
+2,610
+2,918
+No. Shares (in million)
+196.20
+264.80
+370.80
+EPS in BDT
+11.53
+9.86
+7.87
+Average EPS in BDT
+
+
+9.75
+
+P/E ratio of comparable company at the date of sale = 12
+
+Fair Market Value per share = average EPS * P/E Ratio
+
+
+= BDT 9.75*12 = BDT 117.00
+
+
+Page – 3/5
+
+--- Page 5 ---
+Income Approach
+
+
+Valuation of unlisted companies in the income approach is highly sensitive to assumptions of
+future cash flows. In practice, income approach is not used in isolation and used as one of the
+drivers to determine the final price.
+
+Income approach is primarily driven by three key inputs i.e. Free Cash Flow (FCF), Terminal
+Value and Discount rate; valuer needs to carefully verify all the inputs, validating these with
+rational assumptions. Making valuation for the target company involves the following steps:
+
+1. The last recorded free cash flow in the audited financial statement is assumed to be
+the terminal perpetual cash flow for future. The free cash flow will be arrived at by
+taking operating cash flow from audited financial statement minus capital
+expenditure. The valuer must ensure that all overdue liabilities are deducted while
+arriving at free cash flow.
+
+2. The discount rate should be the Weighted Average Cost of Capital (WACC) or the
+yield rate on 20-year BGTB as on the date of sale, whichever is higher.
+
+3. Trend cash flow growth of the company (g) will be the average of annual cash flow
+growth over the past 3-5 years according to audited financial statements.
+
+4. The valuation of the company would then be calculated by
+Fair value = FCF/(r-g)
+
+
+Where FCF
+= Operating Cash Flow – Capital Expenditure
+= Discount rate
+= Average growth rate of free cash flow in last available five years
+
+
+
+Following these steps, one may determine the fair value of ‘The Sample Company’ as below:
+
+
+Page – 4/5
+
+--- Page 6 ---
+DCF (BDT million)
+20AA
+20AB
+20AC
+EBIT*(1-TAX) (1)
+2,563 3,021 3,280
+Depreciation (2)
+1,088 1,234 1,228
+Capital Expenditure (3)
+600 1,200 1,250
+Change in working capital (4)
+200 49 37
+Net Cash Flow (1+2-3-4) (5)
+2,851 3,006 3,221
+Terminal Free cash flow
+
+
+3,221
+Free Cash Flow (FCF) (6)
+2,851 3,006 3,221
+Growth of FCF
+6.00%
+5.43%
+7.15%
+Average Growth of FCF (g)
+6.19%
+
+
+Discount Rate
+= 12.50%
+(WACC which is higher than the yield rate of 20-year
+BGTB has been applied)
+Fair Value
+
+= FCF/(r-g)
+
+
+
+= 3221/ (0.125-0.0619) = 51,046 m
+
+Fair Value per share = 51,046/370.80 = BDT 137.66
+
+Finally, after taking into account all three approaches, we derived three separate values for
+‘The Sample Company’ as follows:
+Asset based approach (Net asset value)
+BDT 60.33 per share
+Market value approach (Earnings to P/E)
+BDT 117.00 per share
+Income approach (Discounted cash flow)
+BDT 137.66 per share
+
+
+
+
+
+
+
+
+Page – 5/5

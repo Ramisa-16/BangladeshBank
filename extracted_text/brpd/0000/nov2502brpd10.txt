@@ -1,0 +1,424 @@
+--- Page 1 ---
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka.
+
+
+
+
+
+
+
+
+
+
+
+24 November 2002
+BRPD Circular No. 10
+
+
+
+
+
+Dated: ----------------------
+
+
+
+
+
+
+
+
+
+
+11 Agrahayan 1409
+
+All Scheduled Banks in Bangladesh
+
+
+Master Circular on Capital Adequacy of Banks.
+Dear Sir,
+
+Bangladesh Bank vide BRPD Circular No.1 dated 08-01-1996 introduced new arrangements for
+assessing the capital adequacy of banks on the basis of Risk-weighted Assets replacing Capital-
+to-Liabilities approach for assessing capital adequacy. Certain amendments have also been made
+thereto from time to time. In order to enable the banks to have all existing instructions on the
+subject at one place this Master Circular has been prepared by incorporating all instructions
+issued from time to time. It may also be mentioned here that the Master Circular also includes a
+few new instructions.
+Definition of Capital
+For the purpose of supervision, capital will be categorised into two tiers: Tier 1 i.e. Core Capital
+comprising the highest quality capital elements and
+Tier 2 i.e. Supplementary Capital represents other elements, which fall short of some of the
+characteristics of the core capital but contribute to the overall strength of a bank. The
+constituents of core capital and supplementary capital are enclosed at Annexure-I.
+Minimum Capital Standards
+Each bank will maintain a ratio of capital to risk weighted assets of not less than 9% with at least
+4.5% in core capital and this requirement will have to be achieved by 30 June 2003. However,
+the minimum capital requirements of Tk. 40 crore for locally incorporated banks and an amount
+equivalent to USD 10 million for banks incorporated outside Bangladesh will remain unchanged
+until further instructions.
+Risk-weighted Assets
+Both balance sheet assets and off-balance sheet exposures are to be weighted according to their
+relative risk. Presently, there are 4(four) categories of risk weights - 0, 20, 50 and 100 percent.
+For the purpose of assessing capital adequacy, weights for particular items are given in
+Annexure-II.
+Off-balance sheet transactions are to be converted into balance sheet equivalents for the purpose
+of assessing the capital adequacy before assigning a risk weight as shown in section 10(a) of
+Annexure-II. Four
+categories of credit equivalents of 0, 20, 50 & 100 percent will apply. Details are shown in
+Annexure-III.
+Implementation
+Banks are advised to assess their capital position on half-yearly basis i.e. on 30 June and 31
+December each year and report the same to the Department of Banking Operation and
+Development (DBOD) of Bangladesh Bank within one month from the end of respective half-
+year.
+Banks are also advised to contact Banking Regulation and Policy Department (BRPD) of
+Bangladesh Bank in case of any confusion or ambiguity.
+Please acknowledge receipt.
+Yours faithfully,
+Encl.: As above.
+
+
+
+
+
+
+
+(Rafiul Alam)
+General Manager
+Phone: 7117825
+
+--- Page 2 ---
+Annexure-I
+
+
+CONSTITUENTS OF CAPITAL
+
+
+CORE CAPITAL (TIER-1)
+
+Paid up Capital
+Non-repayable Share premium account
+Statutory Reserve
+General Reserve
+Retained Earnings
+Minority interest in Subsidiaries
+Non-Cumulative irredeemable Preference Shares.
+Dividend Equalisation Account
+
+SUPPLEMENTARY CAPITAL (TIER-2)
+
+General provision (1% of Unclassified loans)
+Assets Revaluation Reserves
+All other Preference Shares
+Perpetual Subordinated debt
+Exchange Equalisation Account
+
+Note 1: Core Capital must be equal to or more than 4.5% of the risk-weighted assets.
+
+Note 2: Reserves created by periodic revaluation of banks' assets can be included as a
+Component of Tier-2 capital only if the revaluation is formally conducted by
+professionally qualified valuation firm. Such reserves will be eligible up to 50% for the
+treatment as Supplementary Capital provided that the rationale of the re-valued amount is
+duly certified by the external auditors of the bank. Such revaluation may be done once in
+a year.
+
+--- Page 3 ---
+Annexure-II
+
+RISK WEIGHTS APPLICABLE FOR BALANCE-SHEET ITEMS
+
+
+
+Items
+Risk Weights
+
+Cash in hand and with banks (except banks abroad)
+
+
+Bangladesh Bank notes
+
+Government notes and coins
+
+Balances with Bangladesh Bank
+
+Balances with Sonali Bank as agent of Bangladesh Bank
+
+Balances with Deposit Money Banks including Sonali Bank
+
+Balances with Other Financial Institutions (OFIs)-Public
+
+Balances with Other Financial Institutions (OFIs)-Private
+20%
+
+Money at call and short notice
+
+
+Deposit Money Banks (DMB)
+
+Other Financial Institutions (OFIs)-Public
+
+Other Financial Institutions (OFIs) -Private
+20%
+
+Foreign currency balances held
+
+
+Foreign currency notes in hand
+
+Balances with banks abroad
+
+Foreign currency clearing account balances with Bangladesh Bank
+
+Bilateral trade credits
+50%
+
+Wage Earners' (WES) accounts
+
+Export and other Foreign Bills
+
+
+
+a) Export bills
+50%
+
+
+b) Other foreign bills
+50%
+
+Foreign Investment
+
+
+
+
+a) Organisation of Economic Co-operation and Development
+(OECD) countries
+20%
+
+
+
+b) Other countries
+50%
+
+Import and Inland Bills
+
+
+Government
+
+
+
+1) Ministry of Food
+
+2) President's Office, Prime Minister's office, Parliament,
+Judiciary & Non-Food Ministries
+
+
+3) Autonomous & Semi-Autonomous Bodies
+20%
+
+Other Financial Institutions
+
+
+
+1) Other Financial Institutions-Public
+20%
+
+
+2) Other Financial Institutions-Private
+20%
+
+Major Non-financial Public Enterprises
+50%
+
+Other Non-financial Public Enterprises
+50%
+
+Local Authorities
+20%
+
+Private Sector
+100%
+
+Deposit Money Banks
+20%
+
+Advances
+
+
+Government
+
+
+
+1) Ministry of Food
+
+
+2) President's Office, Prime Minister's Office, Parliament,
+Judiciary & Non-Food Ministries
+
+
+3) Autonomous & Semi-Autonomous bodies
+20%
+
+Other Financial Institutions:
+
+
+
+1) Other Financial Institutions-Public
+20%
+
+
+2) Other Financial Institutions-Private
+50%
+
+Major Non-financial Public Enterprises
+50%
+
+Other Non-financial Public Enterprises
+50%
+
+Local Authorities
+20%
+
+Private Sector
+100%
+
+--- Page 4 ---
+Deposit Money Banks
+20%
+
+Investment (as per book value)
+
+
+President's Office, Prime Minister's Office, Parliament, Judiciary &
+Non-Food Ministries
+
+
+
+1) Treasury Bills (28 days, 91 days etc.)
+
+
+2) Treasury Bills (Long-term)
+
+
+3) Government Savings Certificate (Bangladesh Sanchaya Patra,
+3 month's profit basis Sanchaya Patra etc.)
+
+
+4) Prize bonds/Income tax bonds
+
+
+5) Other Securities of Government
+
+Autonomous & Semi-Autonomous Bodies
+20%
+
+Other Financial Institutions
+
+
+
+1) Other Financial Institutions-Public
+20%
+
+
+2) Other Financial Institutions-Private
+50%
+
+Major Non-financial Public Enterprises
+50%
+
+Other Non-financial Public Enterprises
+50%
+
+Local Authorities
+20%
+
+Private Sector
+100%
+
+Deposit Money Banks
+20%
+
+Negotiable Certificates of Deposits
+20%
+
+Head Office and Inter Branches Adjustments
+10.
+
+Other Assets
+
+
+Contingent Assets as per contra (Off-balance sheet items)
+
+
+
+1) Letter of Credit and Letter of Guarantee
+issued on account of Government
+
+
+
+2) Deposit Money Banks
+20%
+
+
+3) Others
+50%
+
+Fixed Assets
+50%
+
+Valuation adjustments
+50%
+
+Expenditure Account
+
+Other
+100%
+
+Note -1: Claims fully secured by cash/quasi-cash, which is lodged with the bank itself
+Will have zero weight. All claims should be calculated net of such securities.
+
+Note -2: Claims on borrowers other than Government or bank, which are guaranteed by
+The Government or a bank will carry the weight appropriate for the guarantor.
+
+Note -3: Netting may also be done in respect of assets where provisions for depreciation
+Or for bad and doubtful debts have been made.
+
+--- Page 5 ---
+Annexure-III
+
+
+
+CREDIT CONVERSION FACTORS FOR SELECTED OFF-BALANCE SHEET ITEMS
+
+
+
+
+Instruments
+Credit
+Conversion
+Factors
+Direct credit substitutes, including financial guarantees, standby letters of
+credit serving as guarantees and bills endorsed under bill endorsement lines
+(which are not accepted by or have the prior endorsement of another bank)
+100%
+Sale and repurchase agreements, forward assets purchases and placement
+of forward deposits
+100%
+Transaction related contingent items including performance bonds, bid
+bonds, warranties and stand-by letters of credit related to a particular
+transaction
+50%
+All note issuance facilities and revolving underwriting facilities; other
+commitments (e.g. formal standby facilities) with a residual maturity
+exceeding one year
+50%
+Short-term self liquidating trade related contingencies (e.g. documentary letters of credit
+and other trade financing transactions)
+20%
+Commitments with a residual maturity not exceeding one year, or which
+can be cancelled or revoked at any time (e.g. un-drawn overdraft and credit
+card facilities)
+
+Note: For items not included above, credit conversion factors to be used, should be

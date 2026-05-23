@@ -1,0 +1,56 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+FE Circular No. 33 Date: 09 September, 2019
+All Authorized Dealers in
+Foreign Exchange in Bangladesh
+
+Dear Sirs,
+
+Outward remittances on account of IT expenses through digital wallet.
+
+Please refer to paragraph 40, chapter 10 of the Guidelines for Foreign Exchange Transactions-2018 (GFET),
+Vol-1 in terms of which Authorized Dealers (ADs) are allowed to remit IT expenses upto USD 300 in a calendar
+year on behalf of individual developers/freelancers of mobile Apps and Games having acknowledgements/training/
+bootcamps/hackathons/course participation certificates on mobile application development through virtual
+(debit/credit/pre-paid) cards. To facilitate freelancers/developers for meeting bonafide needs, it has been decided to
+enhance the limit to USD 500 from USD 300.
+
+
+02. To bring wider scope for cross border transactions by alternative channel, it has been decided that ADs may
+release IT expenses within permissible limit on behalf of individual developers/freelancers through their notional
+accounts (digital wallet) maintained with Online Payment Gateway Service Providers (OPGSPs) in accordance with
+FE Circular No. 44/2017. In this context, ADs shall observe the following instructions:
+
+(a) ADs shall arrange required amount in their nostro accounts for settlement of payment through notional
+accounts of OPGSPs on post-funding basis.
+(b) For execution of online instructions from individual developers/freelancers, ADs shall have secure and
+suitable online transaction platform, and arrangement for documentary formalities before disbursement of
+funds as per (a) above.
+(c) In case of refund due to cancellation of the relative transactions for valid reasons, ADs shall, on receipt
+of amount from OPGSPs, refund the same to remitters.
+(d) Usual formalities required for outward remittances need to be observed including usual reporting,
+deduction of applicable taxes and payment thereof .
+
+
+
+03. Irrespective of above limit, developers/freelancers are permitted to remit their bonafide business expenses
+out of balances held in ERQ accounts through digital wallet.
+
+
+04. It has also been decided that ADs may, in addition to standing arrangement as per FE Circular No. 44/2017,
+maintain notional accounts with OPGSPs. ADs shall use the accounts to execute above transactions on behalf of
+individual developers/freelancers having no notional accounts with OPGSPs.
+
+Other instructions in this regard shall remain unchanged. Please bring the contents of this circular to the notice
+of all your concerned constituents.
+
+Yours faithfully
+
+
+(Md. Kawsar Matin)
+General Manager(Currenrt Charge)
+Phone: 9539487

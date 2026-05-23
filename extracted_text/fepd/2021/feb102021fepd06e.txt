@@ -1,0 +1,71 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+FE Circular No. 06 Date: February 10, 2021
+
+All Authorized Dealers in Foreign Exchange and all
+licensed Mobile Financial Service Providers in Bangladesh
+
+Dear Sirs,
+Repatriation facilities by MFSPs to ITES exporters
+
+Please refer to FE Circular No. 44 of December 28, 2017 and its subsequent circulars in terms of
+which Authorized Dealers (ADs) are permitted to use Online Payment Gateway Service Providers
+(OPGSPs) for repatriation of payment against small value service exports in non-physical form such as
+data entry/data process, off-shore IT service, business process outsourcing etc.
+
+02. To facilitate small value ITES exports, it has been decided to allow Mobile Financial Service
+Providers (MFSPs) licensed by Bangladesh Bank for repatriation of export proceeds in association with
+internationally recognized OPGSPs/digital wallets and/or aggregators having operation in multiple
+countries (hereinafter referred to as foreign payment service providers, PSPs).
+
+03. In accordance with above decision, MFSPs shall -
+(a) have standing arrangements with foreign PSPs.
+(b) maintain settlement accounts in equivalent Taka with ADs, under agreements for this
+particular purpose, through whom repatriation of export proceeds shall be channeled by
+foreign PSPs.
+(c) make fund available to digital wallets of eligible exporters upon credit of the fund in
+settlement accounts.
+(d) maintain electronic records of transactions in details and make available to Bangladesh Bank
+as and when required.
+
+04. ADs shall observe, in connection with operation of the transactions, the following instructions:
+
+(a) ADs shall transfer the fund, on receipt in their nostro accounts, to settlement accounts in
+equivalent Taka of MFSPs. While executing the transfer, ADs shall comply with deduction
+and payment of taxes, if applicable.
+(b) As an alternative to (a) above, ADs may maintain accounts in the name of foreign PSPs at
+their desire in foreign currency/Taka as per foreign exchange regulations (cf. paragraph 1(i),
+chapter 13 and paragraph 8(b), chapter 14 of the Guidelines for Foreign Exchange
+Transactions-2018, Vol-1) to facilitate the said transfer by debit the accounts. Overdraft
+facilities may be allowed for the accounts so maintained provided that ADs shall have payment
+guarantees, from banks acceptable to them, for the adequate amounts based on the transaction
+flows.
+(c) ADs may maintain ERQ accounts in the name of ITES exporters to be arranged in association
+with MFSPs up to the extent of permissible limit from repatriated proceeds. In this case, ADs
+shall make fund available to ERQ accounts as per standing arrangement in foreign currency
+before transfer of the fund to settlement accounts of MFSPs.
+
+05. MFSPs entering into arrangements with foreign PSPs shall intimate through their designated
+ADs to Payment Systems Department and Foreign Exchange Policy Department at Bangladesh Bank
+head office with necessary details. They shall observe admissible procedures to execute transactions in
+accordance with regulatory instructions issued by Bangladesh Bank from time to time.
+
+06. Due diligence in respect of the transactions needs to be observed regarding foreign
+exchange/payment systems regulations, KYC and AML/CFT standards and relevant laws/regulations in
+force. As usual, ADs shall observe usual reporting routine to Bangladesh Bank with specification of
+purposes.
+
+Please bring the contents of this circular to the notice of your concerned constituents.
+
+
+Yours faithfully,
+
+
+
+(Md. Ali Akbar Faraji)
+General Manager
+Phone: 9530123

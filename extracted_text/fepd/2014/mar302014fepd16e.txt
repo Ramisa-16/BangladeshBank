@@ -1,0 +1,133 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka.
+www.bb.org.bd
+FE Circular No. 16
+Date: 30 March, 2014
+Head Offices/Principal Offices of all Authorized Dealers
+in Foreign Exchange Transactions.
+
+Dear Sirs,
+Submission of information regarding transactions in foreign exchange market
+and exchange rates through Online Foreign Exchange Market Monitoring System
+Your attention is invited to the Para 23 and 24 of the Guidelines for Foreign Exchange Transactions,
+2010 (Vol-2) read with letter no. ‰egybx(wemkv)/01/2002 dated 09/12/2002 and the following statements (Table-1)
+regarding submission of information on foreign exchange market related transactions, exchange rates and inflow
+and outflow of foreign exchange :
+Table-1
+Sl. No.
+Name of the Statement
+References
+Inter-bank Foreign Exchange Transactions
+Para 23, Chapter 2, Guidelines for
+Foreign Exchange Transactions (Vol-2)
+Statement of Day-End Balances in Nostro Accounts
+Daily Foreign Exchange Rates for Dealing with
+Public/Non-bank customers
+Two Way Quotation for Inter-bank Foreign Exchange
+Transactions
+Statement of Un-reconciled Entries of Nostro Accounts
+(Month end)
+Para 24, Chapter 2, Guidelines for
+Foreign Exchange Transactions (Vol-2)
+Statement of Receipt and Projection of Foreign Exchange
+& Statement of Payment and Projected Payment of
+Foreign Exchange.
+Letter No. ‰egybx(wemkv)/01/2002; Dated:
+09.12.2002
+As part of ongoing automation program of Bangladesh Bank, with a view to making the foreign
+exchange market monitoring system more dynamic and effective, an web-based platform under the title “ Online
+Foreign Exchange Market Monitoring System” has been developed for submission of the above statements
+through online instead of hard copy. In lieu of the above mentioned 6 statements, ADs are now advised to
+submit the following 7(seven) statements in different intervals through the above mentioned online web portal
+of Bangladesh Bank.
+Contd.../2
+Translated
+
+--- Page 2 ---
+Table-2
+The short description of submitting the above mentioned statements are given below:
+1. Daily Statement of Inter-Bank and Cross Border Foreign Exchange Transactions: ADs shall submit the
+information regarding buying and selling of foreign exchange (spot, forward, swap) with all correspondent
+banks and OBUs located in Bangladesh or outside on daily basis through designated web portal.
+2. Daily Statement of Foreign Exchange Rates: The following Foreign Exchange Rates mentioned in
+Exchange Rate Sheet of banks are to be submitted within 11.00 a.m. of each working day:
+(i) Buying rates for Cash, TT Clean, OD Sight, OD Transfer, 1m forward, 3m forward, 6m forward, 1y
+forward, 1m usance Export Bill, 3m usance Export Bill, 6m usance Export Bill, 1y usance Export Bill,
+Export Bill Collection.
+(ii) Selling rates for Cash, BC, TT & OD, 1m forward, 3m forward, 6m forward, 1y forward.
+This is to mention here that bank shall have to submit above mentioned daily exchange rates (if any) of
+those currencies which it usually publishes in its daily exchange rate sheet. If any exchange rate of any
+bank changes after submitting it in web portal, bank will have to submit the changed rate to the web portal
+immediately.
+Banks have to submit interbank buying and selling rate of US Dollar in the same portal (Two way Quotations
+for Inter-bank Foreign Exchange Transactions).
+3. Daily Statement of Deal Rates with Exchange Houses: Authorized Dealers buy foreign exchange from
+Exchange Houses. Currency-wise maximum and minimum exchange rates of foreign exchange bought from
+exchange houses of any working day have to be submitted through designated web portal within 11.00 a.m. of
+the next working day. To mention, only maximum and minimum rates are to be quoted regardless of number
+of transactions.
+4. Daily Statement of Quoted Rate to Exchange Houses: Authorized Dealers quote different exchange rates to
+buy foreign exchange from Exchange Houses. Quoted exchange rate for buying foreign exchange has to be
+submitted immediately through online web portal. To mention, only currency-wise maximum and minimum
+rates are to be reported. For example, first quoted rate of a currency will be considered as maximum and
+minimum rate of that currency simultaneously. Any subsequent change in this rate will be reported as
+maximum or minimum (as the case may be) exchange rate of this currency.
+Sl. No.
+Name of the Statement
+Frequency
+Daily Statement of Inter-Bank and Cross Border Foreign Exchange
+Transactions
+Daily Basis
+Daily Statement of Foreign Exchange Rates
+Daily Statement of Deal Rates with Exchange Houses
+Daily Statement of Quoted Rates to Exchange Houses
+Daily Statement of Day end Balances in Nostro Accounts
+Monthly Statement of Unadjusted Entries of Nostro Accounts
+Monthly Basis
+Monthly Foreign Exchange Inflow-Outflow Statement
+Contd.../3
+
+--- Page 3 ---
+5. Daily Statement of Day-End Balances in Nostro Accounts: Information regarding balances held in
+different nostro accounts (account-wise deposits, placements, investments, etc.) at the end of each working
+day will have to be submitted by 2.00 p.m. of the subsequent working day to the designated web portal. This
+is to mention here that information regarding balances held in one or more than one OBUs will also have to
+be reported.
+
+6. Monthly Statement of Unadjusted Entries of Nostro Accounts: After each month, AD bank shall have to
+report information regarding number and volume of unreonciled entries of nostro accounts (as per both local
+and foreign book) and reconciliation of unreconciled entries of respective nostro accounts through designated
+web portal within 7th instant of the next month.
+
+7. Monthly Foreign Exchange Inflow-Outflow Statement: Actual of previous month and projected of next
+month information of inflows and outflows of foreign exchange shall have to be submitted on monthly basis
+in designated format through the web portal within 10th instant of each month.
+
+Detail description/instructions for submitting above statements in web portal have been given in „User
+Guidelines‟ attached with the web portal.
+
+AD Bank shall start submission of statements mentioned in serial no. 1 to 5 given in Table-2 of page 2
+from 1st April, 2014 and statements mentioned in serial no. 6 and 7 of the same table (based on April 30, 2014) on
+trial basis from May 02, 2014. However, submission of statements mentioned in Table -1 will continue during this
+period as usual. Regular submission of statements mentioned in Table-2 will start from 1st July, 2014. Since,
+statements in Table-2 will be started instead of statements mentioned in Table-1 from July 01, 2014; submission
+of hardcopies of statements mentioned in Table-1 will no longer be required from that day; but hardcopies of
+required statements based on 30th June, 2014 shall have to be submitted even after that day. This is to mention
+here that the submission of hardcopy of “Quarterly Statement of Unreconciled Nostro Account” will remain
+unchanged under the existing system.
+
+Technical problem (if any) faced during submission of the statements through web portal are required to
+be communicated through e-mail to Mr. Mohammad Bazlul Karim (bozlul.karim@bb.org.bd), Programmer or Mr.
+Hasan Al Mamun (hasan.mamun@bb.org.bd), System Analyst of Bangladesh Bank immediately. Besides, for any
+clarification/information related to statements to be submitted, ADs may contact Foreign Exchange Policy
+Department, Bangladesh Bank through email (fepd.femp2@bb.org.bd) or by phone to 9530298.
+
+
+Yours faithfully
+Signed\-
+(Jagannath Chandra Ghosh)
+Deputy General Manager
+Phone: 9530092

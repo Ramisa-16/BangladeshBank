@@ -1,0 +1,55 @@
+--- Page 1 ---
+Anti Money Laundering Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+A. M. L. Circular No. 09
+Date: 29-12-05
+All Banks
+
+Dear Sir,
+
+Regarding submission of cash transaction report ( CT R )
+
+Please refer to A M L Circular No 08 dated 21 - 12 - 2005 on the above subject.
+
+02. For close monitoring of anti-money laundering activities and as per the recommendation
+of the working committee formed with the representatives of a few commercial banks the
+system for submitting
+CTR was introduced. Previously introduced abnormal/suspicious transactions reporting
+(STR) was a quite different system and separate from each other. That is, if any
+customer happens to make transaction of 5 lacs taka or more, there is no scope of
+treating it as suspicious only for this. But the banks have to be reported CTR to
+Bangladesh Bank for information only the date of cash transactions have to be reported.
+For the safeguard of the banking industry from money laundering such instructions were
+issued.
+03. At the request of the bank representatives & considering the case of the banks which,
+have numerous branches but not yet automated. the reports for the period from January
+to March, 2006 have been made optional. In such case the following guidance may be
+followed:-
+a) The banks which are small in size with limited number of branches and have
+computerized on-line system are requested to report cash transactions as per A M L
+Circular No 08 dated 21 - 12 - 2005 from January, 2006.
+b) If it is not possible for the large banks to submit complete CTR for January-March,
+2006, they may submit partial report ( i. e excluding branches which are unable to
+submit CTR).
+04. In the case of cash deposit (regardless of amount) of the Govt. accounts or of accounts
+of the Govt. owned entities need not to be reported. But in case of cash withdrawal such
+report is to be submitted as per A M L Circular No 08 dated 21-12 - 2005.
+05. CTR must be submitted in soft copy; i.e. there is no need to send hard copy with soft
+one. For the convenience of reporting in soft copy, the oracle - based data entry
+software may be collected from Bangladesh Bank.
+
+
+Other instruction regarding CTR shall remain unchanged.
+
+Please acknowledge receipt.
+
+
+
+Yours faithfully,
+Sd/-
+( M. Mahfuzur Rahman)
+Deputy General Manager
+Phone -7120371

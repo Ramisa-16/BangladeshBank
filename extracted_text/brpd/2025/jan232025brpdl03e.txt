@@ -1,0 +1,216 @@
+--- Page 1 ---
+Page 1 of 3
+
+
+Bangladesh Bank
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+website: www.bb.org.bd
+
+
+
+
+
+Banking Regulation and Policy Department
+
+23 January 2025
+BRPD Circular Letter No. 03
+Date: -----------------------
+
+09 Magh 1431
+
+Managing Director/Chief Executives
+All Scheduled Banks in Bangladesh
+
+
+Dear Sir,
+Implementation of ECL-based Loan Classification and Provisioning under IFRS 9
+Please refer to BRPD Circular No. 15 dated 27 November 2024 on Loan Classification and
+Provisioning.
+2. According to the mentioned circular, Bangladesh Bank (BB) plans to implement Expected Credit
+Loss (ECL) methodology-based provisioning system for banks in accordance with International
+Financial Reporting Standard (IFRS 9) by 2027. Presently, we are following rule-based loan
+classification and provisioning system. As a part of our ongoing efforts to enhance the risk
+management capabilities of banks and increase the transparency of the financial reporting,
+Bangladesh Bank has decided to adopt ECL-based loan classification and provisioning system for
+banks under IFRS 9.
+3. Traditionally, the incurred-loss model is the foundation for the accounting recognition and
+measurement of credit losses, varying significantly across different jurisdictions. However, in
+December 2015, the Basel Committee on Banking Supervision (BCBS) issued guidance on credit
+risk and the accounting for expected credit losses, outlining supervisory expectations for banks
+regarding sound credit risk practices related to the implementation and application of an ECL
+accounting model. The International Financial Reporting Standard 9 (IFRS 9), which replaces IAS
+39, mandates that impairment loss allowances be measured based on an ECL accounting model
+instead of the incurred loss accounting model. Within the IFRS 9 framework, credit risk assessments
+must include forward looking approach, which is primarily designed to mitigate procyclicality. When
+evaluating ECL, it is essential to consider macroeconomic and financial factors, anticipated risks, and
+associated dynamics.
+4. To achieve the goal of implementing IFRS 9 for the banking sector by 2027, BB has outlined a
+roadmap with the specified timelines. The details of which are provided in the following table:
+
+--- Page 2 ---
+Page 2 of 3
+
+Table: Roadmap of Implementation of IFRS 9
+Phases
+Sl.
+Particulars
+Timeline of
+Implementation
+within
+Report
+Submission to
+BRPD
+PHASE-I
+(a) Formation of the ‘IFRS 9 Implementation
+Team’ led by the Managing Director
+(MD)/CEO.
+(b) Preparation of the ‘Time Bound Action Plan
+to Implement ECL-based loan classification
+and
+provisioning
+under
+IFRS
+9’duly
+approved by the Board of Directors (BODs)
+March 2025
+Within 15
+April 2025.
+Develop a database preserving required data
+(e.g. sector wise, borrower wise and loan-nature
+wise
+classification
+percentages,
+default
+percentages, loan loss recovery rates, various
+macroeconomic factors etc.) of borrowers on
+monthly basis from January 2022 onwards to
+calculate ECL.
+June 2025
+Within 15 July
+2025.
+Prepare
+pre-assessment
+report
+on
+implementation
+of
+ECL-based
+loan
+classification and provisioning, and submit the
+same to Banking Regulation and Policy
+Department (BRPD). The report shall include
+detailed plan for transition from existing rule-
+based model to ECL model, probable challenges
+and required actions to implement IFRS 9.
+September 2025
+Within 15
+October 2025.
+Conducting training and capacity building
+programs on ECL-based loan classification and
+provisioning for all the relevant employees.
+December 2025
+Within 15
+January 2026.
+PHASE-II
+BB will issue guidelines on ECL-based loan
+classification and provisioning model following
+BCBS documents and IFRS 9.
+January 2026
+(by BB)
+Finalization of automated ECL-based loan
+classification and provisioning model by banks
+following the BB guidelines.
+June 2026
+Within 15 July
+2026.
+Implement IFRS 9 on a pilot basis in the
+branches that collectively cover at least 25% of
+the total loan portfolio of the bank.
+September 2026
+Within 15
+October 2026.
+Implement IFRS 9 on a pilot basis in the
+branches that cover at least 50% of the total loan
+portfolio of the bank.
+December 2026
+Within 15
+January 2027
+Parallel preparation of financial statements
+(provisional) on a half yearly basis under IFRS 9
+and existing policy.
+December 2026
+and onwards
+Within 15
+days of
+reference date.
+PHASE-III
+10.
+Implement IFRS 9 on a pilot basis in branches
+which cover at least 75% of the total loan
+portfolio of the bank.
+June 2027
+Within 15 July
+2027.
+11.
+Full
+Implementation
+of
+ECL-based
+loan
+classification and provisioning under IFRS 9 on
+pilot basis.
+December 2027
+Within 15
+January 2028.
+
+--- Page 3 ---
+Page 3 of 3
+
+
+5. The readiness of the banking sector and early assessment of banks’ financial health in accordance
+with IFRS 9 are essential to implement ECL-based classification and provisioning for banking sector.
+In this regard, the following preparatory instructions are provided :
+Banks shall prepare themselves at the institutional level by reviewing internal systems and
+procedures, accounting standards, technical aspects and capacity building of their officials.
+The ‘IFRS 9 Implementation Team’, led by the MD/CEO, will be responsible for
+implementation of IFRS 9 of the concerned bank. They are assigned with the task of ensuring
+regulatory compliance, overseeing the preservation, management, and analysis of historical
+data used in the credit loss models, maintaining regular communication with BB, and
+performing the necessary reporting.
+The ‘IFRS 9 Implementation Team’ shall include officials from relevant departments such as
+Credit Risk Management, Financial Accounts, IT, ICC etc. However, Chief Risk Officer
+(CRO) and Chief Financial Officer (CFO) must be included in the team. Additionally,
+employees with relevant professional degree (e.g., CA, CFA, CMA, etc.) shall be included on a
+preferential basis.
+Bank management shall submit quarterly reports to the BODs detailing the implementation
+status of IFRS 9. With the approval of the BODs, bank shall submit a summary of the same to
+the Banking Regulation and Policy Department within the following month.
+Bank shall ensure that all pertinent officials receive adequate training for the implementation of
+IFRS 9. To achieve this, regular training and capacity-building programs shall be organized. As
+a part of capacity building and business continuity the bank shall arrange training for trainers
+(ToT) program for the faculty members of the training institute by the experts of IFRS 9.
+Bank shall ensure the appropriate automation, upgradation and enhancement of IT
+infrastructure and system capacity as and when necessary.
+Bank may consider seeking technical assistance from external experts during the
+implementation of IFRS 9.
+6. This directive has been issued by Bangladesh Bank in exercise of its power conferred on it under
+section 49(1)(cha) of the Bank Company Act, 1991.
+
+
+
+
+
+
+
+
+
+
+
+Yours faithfully,
+
+
+(Mohammad Shahriar Siddiqui)
+Director (BRPD)
+Phone: 9530252

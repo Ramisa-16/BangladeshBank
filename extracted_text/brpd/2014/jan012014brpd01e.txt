@@ -1,0 +1,698 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+
+
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+January 01, 2014
+Dhaka
+BRPD Circular No- 01 Date:-----------------------
+Paush 18, 1420
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+Amendment of Guidelines on Risk Based Capital Adequacy (RBCA).
+
+(Revised Regulatory Capital Framework for banks in Line with Basel II)
+Please refer to BRPD Circular No. 35 dated December 29, 2010 regarding the issuance of
+Guidelines on Risk Based Capital Adequacy (RBCA) for banks.
+
+As per RBCA guidelines, the capital requirement for credit risk is based on the risk
+assessment made by External Credit Assessment Institutions (ECAIs) recognized by BB for
+capital adequacy purposes. Banks are required to assign risk weights to all their on-balance sheet
+and off-balance sheet exposures. Risk weights are based on external credit rating which will be
+mapped with the BB rating grade or a fixed weight that is specified by BB.
+
+Recently BB has given recognition to ‘The Bangladesh Rating Agency Limited’ (BDRAL), a
+new rating Agency only for rating the Small and Medium Enterprises (SMEs). The credit risk
+assessment in this segment requires a specific approach, as the factors affecting the
+creditworthiness differ from those compared to large corporate entities and other institutions.
+Hence, BB has developed a ‘Credit Rating Methodology for Small and Medium Enterprises’
+(Annexure-1) which will ensure uniformity, larger levels of transparency of external credit
+assessment and thereby determine the relative creditworthiness of entities belonging to this
+segment and thus establish credit discipline in the banking industry. In this manner, BB has
+launched SME ratings for banks in Bangladesh.
+
+For the aforesaid purpose, the following amendments have been made to the guidelines on
+RBCA, December 2010:
+
+1. A new Para 2.2.9.1 will be added for definition of Claims on SME above 2.2.10 and after
+2.2.9 in the chapter 2 of the RBCA Guidelines. Consequently, Para no. 2.2.9, 2.2.10 and 2.3.1
+will be rephrased as follows for incorporating the said inclusion:
+2.2.9. Claims on corporate: Loans and advances to and investments (excluding equity
+exposure) in corporate. “Corporate” refers to any proprietorship, partnership or limited company
+that is neither PSE, bank, NBFI nor borrower within the definition of retail portfolio.
+
+Para 2.2.9.1. Claims on Small and Medium Enterprises (SMEs): Small and Medium
+Enterprises (SMEs) will be defined in line with the Industrial policy 2010 and Bangladesh
+Bank’s SME & SPD circular no.1 dated 19th June, 2011 or any changes thereof made from time
+to time.
+
+--- Page 2 ---
+Exposure limit:
+
+Any exposure will fall under this category but the risk weight of 75%
+will be applicable in case of unrated small enterprise Clients having the exposure limit of BDT
+10,000 to BDT 30,00,000 and 100% for exposure of BDT 30,00,000 and above. Any exposure
+against Medium Enterprise may be considered for Credit rating and risk weight of 100% will be
+assigned against unrated Medium Enterprise clients.
+Para 2.2.10. Claims categorized as retail portfolio: Claims (including both fund and non-fund
+based) that meet all the four criteria listed below may be considered as retail claims for
+regulatory capital purposes and included in a regulatory retail portfolio.
+
+
+Qualifying criteria
+Orientation criterion: The exposure to an individual person or persons.
+
+Product criterion: The exposure takes the form of any of the following product types:
+
+a) Revolving credit and lines of credit (including overdrafts)
+
+b) Term loans and leases (e.g. installment loans, vehicle loans for manufacturing
+/production and leases, student and educational loans, micro business facilities and
+commitments).
+
+
+The following claims, both fund and non fund based, will be excluded from retail portfolios:
+a) Exposures by way of investments in securities (such as bonds and equities), whether
+listed or not;
+b) Mortgage loans to the extent that they qualify for treatment as claims secured by
+residential property (section 2.2.12) or claims secured by commercial real estate (section
+2.2.13);
+c) Loans and advances to bank’s own staff which are fully covered by superannuation
+benefits and / or mortgage of flat/ house;
+d) Consumer finance;
+e) Capital market exposures; and
+f) Venture capital funds.
+
+Granularity criterion: Exposures under this category must be sufficiently diversified to a
+degree that reduces the risks. In order to meet this criterion, aggregate exposure without
+considering Credit Risk Mitigation (CRM), to one counterpart should not exceed 0.2% of the
+overall exposures under this category excluding past due loans. ‘To one counterpart’ means one
+or several entities that may be considered as a single beneficiary
+
+Exposure limit: The maximum aggregate exposure to a person(s) or entity (ies) will be
+limited to BDT 1.00 (One) crore.
+
+--- Page 3 ---
+Para 2.3.1 External Credit Rating Agency:
+Bangladesh Bank has recognized eight credit rating agencies i. e. Credit Rating Agency of
+Bangladesh (CRAB) Ltd., Credit Rating Information and Services Limited (CRISL),
+National Credit Ratings Ltd. (NCRL), Emerging Credit Rating Ltd. (ECRL), ARGUS Credit
+Rating Services Limited (ACRSL), Alpha Credit Rating Limited (ACRL), WASO Credit
+Rating Company (BD) Limited and The Bangladesh Rating Agency Limited (BDRAL)
+which met the eligibility criteria of ECAIs guidelines (BRPD Circular no. 35/2010) of BB.
+
+BB has also decided that banks may use the ratings (if available) of the following
+international credit rating agencies for the purposes of risk weighting their exposure at
+abroad:
+a) Fitch,
+b) Moody's, and
+c) Standard & Poor.
+
+2. The Table 1 of the RBCA Guidelines regarding ‘ECAI’s Credit Rating Categories Mapped
+with BB Rating Grade’ will be replaced for incorporating the mapping of 07 rating agencies
+(Annexure -2) and a separate Table (Table:1.1) will be added including mapping of SME rating
+scales with BB’s SME rating grades. (Annexure -3)
+3. The Following table will be inserted as SL. No. h (1) between Sl. No. h and Sl. No.- i in the
+Table: 2: Risk Weight for Balance Sheet Exposure and in the reporting format at chapter -8,
+working sheet 1 and 2 accordingly.
+
+SL. No.
+Exposure Type
+BB Rating Grade
+Risk Weight
+h (1)
+Claims on SME
+SME 1
+20
+SME 2
+40
+SME 3
+60
+SME 4
+80
+SME 5
+120
+SME 6
+150
+Unrated (small enterprise & <BDT 3.00m)
+75%
+
+
+Unrated (small enterprise having ≥
+BDT 3.00m & Medium enterprise)
+100%
+
+However, the SME rating may not be treated as mandatory.
+
+
+Please acknowledge receipt.
+
+
+
+
+
+
+
+Yours Sincerely,
+
+SD/-
+
+(Md. Nasiruzzaman )
+General Manager
+Phone: 9530252
+
+Enclosure: 9(nine) pages.
+
+--- Page 4 ---
+Credit Rating
+Methodology
+
+For Small and Medium Enterprise (SME)
+
+Annexure-1
+2013
+Banking Regulation and Policy Department
+Basel II Implementation Cell
+
+--- Page 5 ---
+Table of Contents
+
+
+1. Background ........................................................... .…..03
+2. Concepts and definition of SMEs....... .........................03
+3. Objectives of SME Rating ………………………….…03
+4. Rating Methodology……………………………… ….04
+A. Financial Risk...........................................................04
+B. Business Risk/Industry Risk................................... 04
+C. Management Risk………………………………….05
+D. Bank Relationship Risk…………………………....05
+E. Financial Security Risk…………………..………..05
+F. Other Factors………………………………………05
+5. Details Risks Parameters and Score…………..……..06
+
+--- Page 6 ---
+Background:
+
+
+As a move towards facilitating development of Small & Medium Enterprises (SMEs) in
+the country and encourage larger levels of transparency and credit discipline, BB proposes to
+launch SME Ratings in Bangladesh. The credit risk assessment in this segment requires a
+specific approach, as the factors affecting the creditworthiness differ from those compared to
+large corporate entities. Hence, to further support the growth for this sector and help the
+investors to determine the relative creditworthiness of entities belonging to this segment, SME
+Ratings will play a helping hand.
+
+
+Concepts and Definition of SMEs
+The Industrial policy 2010 and accordingly Bangladesh Bank’s SME & SPD circular
+no.1 dated 19th June, 2011 defines small and medium enterprises in terms of the value of fixed
+assets with replacement cost excluding land and building or in terms the number persons
+employed as under-
+
+Category
+Industry Type
+Value of Fixed Assets
+(Tk.)
+Number of Persons
+Employed
+Medium
+Manufacturing
+>1000 lacs -3000 lacs
+100-250
+Service/
+Trading
+100-1500 Lacs
+50-100
+Small
+Manufacturing
+50 -1000 lacs
+25-99
+Service/
+Trading
+5-100 Lacs
+10-25
+
+Objectives of SME rating
+
+Banks and financial institutions are migrating from an individual’s opinion based credit
+review process toward a systematic and scientific process with an emphasis on objective inputs.
+The main reason for this shift is the need for faster, more accurate, uniform and timely credit
+decisions. This can only be possible when highly productive and easy to use tools are provided to
+them to help them in their decision-making. There was a need to enhance the existing credit
+assessment system with additional features:
+
+a. Comply with Standardized approach of Basel II requirements
+b. Creation of risk rating system
+c. Help to automate Credit Origination, credit approval process, risk administration and
+monitoring functions and management of Non Performing assets
+d. Help to provide data feeds for management reporting.
+
+--- Page 7 ---
+RATING METHODOLOGY
+Both quantitative and qualitative factors should be considered in assessing the SME
+operation. The methodology is comprehensive where assessment area concentrates five broad
+categories– Financial Risk, Business/Industry Risk, Management Risk, Bank Relationship Risk,
+Financial Security Risk and others. Although, the above concentration areas are in line with
+corporate rating methodology, the relative weightage for different parameters may differ in
+between the two sectors. The financial position (i.e. Balance Sheet and Income Statement) and
+Cash flow Statement may be collected as per accounting Standard provided by concerned
+regulators that may either be audited or signed by the appropriate authority.
+
+A. FINANCIAL RISK:
+SMEs are typically set up as, Proprietorship, partnership or private limited companies.
+Each category of SMEs will prepare their own yearly financial statement (B/S, Profit and Loss
+A/C, Cash Flow Statement, statement of WC utilization etc.) in a structured format applicable for
+them and the same will be provided to the Rating Agencies. Bank transaction statement will also
+be provided which may be a good support to justify and assess its business volume.
+
+Assessment of financial risk includes identification of net worth, asset size, liability,
+turnover, cost pattern, profitability, cash flow adequacy to debt repayment, and other important
+performance indicators (profit margin, ROE, ROA, leverage, liquidity etc). The ratio calculation
+is same as in the corporate ratings but adjustment may be made as per the nature of the business.
+Analysts are basically entrusted with the responsibility to frame opinion about the entity’s ability
+in debt repayment based on its cash flow assessment. The future cash flow estimation against the
+debt obligation is also important in SME rating framework.
+
+In addition to above, assessment of the flexibility of the entity in fund arrangement;
+especially the relationship with the bank and Assessment of the expected financial support from
+the sponsors in any distressed position may be considered. In view, the sponsor(s)’ personal
+assets may be assessed specially for sole proprietorship and partnership business.
+
+
+B. BUSINESS RISK/INDUSTRY RISK:
+
+Business risk/Industry Risk can be termed as “a risk of direct or indirect loss arising due
+to deficient or unsuccessful internal systems, process, people or external factors.’’
+Business risk arises due to change in market situation and from its own operation infrastructure.
+Under the business risk, the sustainability of the business in the changing market situation will be
+assessed. Due to the limited scale of operation, business nature differs in different mode like
+manufacturing & marketing in a specific geographical region or functioning as support service to
+large scale manufacturers or trading of goods through import or local procurement, or even at
+agro-based level. A significant number of SMEs are doing their business as the backward
+operation of the formal sector; hence, rarely have control over pricing or fully market dependent.
+Even market competition is very high due to large number of SMEs in the same business.
+
+--- Page 8 ---
+Thus, customer group, performance track record, relationship with the suppliers, business
+network and the necessary infrastructures are important in market positioning of an enterprise.
+In case of new project in SME sector, the same key consideration factors in the project finance
+will be followed but in limited scale. SME project rating Framework would include parameters
+like: project viability in respect of market situation, estimated project cost, cost overrun,
+implementation plan, competence of the sponsor in implementing new project, estimated cash
+generation from the project and also the project location and availability of necessary manpower.
+
+The industry related risks might have impact on the operation of related SMEs. So, the
+factors like the scope of diversification, industry size, supply gap, government policy towards the
+industry, nature of the product, social desirability, entry and exit barriers etc should be
+considered while rating SMEs broadly. As SMEs have presence in majority of the economic
+sectors of the economy, these types of enterprise operate as linkage and supportive to the
+industry either by products or by services.
+
+
+C. MANAGEMENT RISK:
+
+SMEs are typically managed by one or two entrepreneurs mostly related as family
+members or members from the known community. Unlike corporate, SMEs are rarely managed
+by qualified professionals; hence, performance of the enterprise is highly dependent on the
+experience and expertise of the entrepreneur in managing the business. A good number of
+entrepreneurs do not have formal education, however, involved in the business as inheritance. In
+assessing the competence of the promoters, track record and risk taking capacity is an important
+consideration in SME rating framework. However, the capacity of the support employees in
+many cases to handle the business efficiently may also be considered. Working condition and
+relationship between the employer and employees is an important consideration factor. Generally
+lenders have good control over the borrowers in SME sector, however, willingness to repay loan
+is an important characteristics even having good ability to pay its obligations which is being
+reflected by his/her track record. In addition to those, assess the performance of the entrepreneurs
+in other business, experience in the same or different line of business, succession of the
+entrepreneurs etc. should be assessed rigorously.
+
+D. BANK RELATIONSHIP RISK:
+
+Review of banking relationship is very important in SME rating process. The analyst
+team must visit the respective branch to meet with the bank professionals to collect information
+about the loan payment history, reason against the delay in payment, utilization performance of
+the loan limit, security against the loan, control over the security, and related issues. Any loan
+classification may create problem to the respective entity in further borrowing from the bank.
+
+E. Financial Security Risk:
+
+Although security against a loan is a post-default event and has bearing only in recovery
+rating, security offered against an SME loan plays an important role in the repayment behavior of
+the borrower even in the process of loan repayment. Loan coverage through FDR, hypothecation,
+guarantee, collateral, third party guarantee etc. will be considered in the rating evaluation
+process.
+F. OTHER FACTORS:
+
+Other than the above broad areas, other parameters like legal or environmental issue,
+disaster management capacity, impact of subsidies/tax waiver by the government, sudden
+business loss, impact of non insurance or inadequate insurance of assets, extraordinary or
+windfall gains and losses, impact of the new monetary or fiscal policies or significant
+development in the industry should thoroughly be assessed on case to case basis.
+
+--- Page 9 ---
+Credit Rating Methodology
+For Small and Medium Enterprise
+
+(SME)
+
+
+Methodology should cover analysis of following risks
+parameters (Score 100)
+Maximum
+Score
+Score achieved
+by the client
+i) Financial Risk (Business Performance and Profitability)
+30
+
+Leverage (Less than 0.25-More than 2.75 times)
+
+Liquidity ((Greater than 2.74-Less than 0.70 times)
+
+Profitability (Greater than 25%-Less than 1%)
+
+Coverage ratio (More than 2.00 times-Less than 1.00 times)
+
+Additional Risk Parameters to be assessed
+(Profit Margin -Gross & Net, Return On Assets , Return on Equity,
+Equity Development Trend (Last 3 years), Trend of Operating cash
+flow (OCF), Business as well as personal net worth)
+10
+
+ii) Business/Industry Risk
+23
+
+Size of Business (Yearly sales in BDT )
+Medium-(1 crore or More)
+Small-( 25 Lacs or More)
+Micro-( 5 Lacs or More)
+
+Age of Business (>5 years -<2 years)
+
+Business Outlook (Favorable-Cause for concern )
+
+Business Growth compared to Industry (Strong-No Growth)
+
+10
+Market Competition (Dominant Player-Highly Competitive )
+
+11
+Entry/Exit Barriers to Business ( Difficult-Easy)
+
+12
+Additional Risk Parameters to be assessed
+(Level of Technology/Service, Infrastructure Facility, Government
+Policy Toward Industry, Nature of the Product & potentialities /Social
+Desirability,
+Dependency
+on
+suppliers/clients,
+Trade
+mark/Patent/copy
+right,
+Franchise/dealership,
+Marketing
+strategy)
+
+--- Page 10 ---
+Methodology should cover analysis of following risks
+parameters (Score 100)
+Maximum
+Score
+Score achieved by
+the client
+iii) Management Risk
+18
+
+13
+Track Records of the sponsors(Excellent- Not Satisfactory)
+
+14
+Educational Qualification, Experience & technical know-how of
+sponsors/stuffs ( 5 years or more in the related line of business - No
+experience)
+
+15
+Risk Taking Capacity of Sponsor(s) ( Assessment would be made on
+the basis of past experience of sponsors) (High-Low)
+
+16
+Personnel Policy & Internal Control System
+
+17
+Succession (Ready Succession - Succession in question)
+
+18
+Working Environment/Team Work (Very Good- Regular Conflict)
+
+19
+Income Tax/VAT payment History
+
+iv) Bank Relationship Risk
+12
+
+20
+Relationship with bank (Maintain accounts for 3 (three) years or
+more with faultless record- Account(s) says Frequent Past dues &
+Irregular dealings)
+
+21
+Current Status of Loans(Regular-Classified)
+
+22
+Compliance of covenants/conditions-If any (Full Compliance - Non
+Compliance)
+
+23
+Personal Deposit (Personal accounts of the key business Sponsors
+are maintained with banks) (with significant deposits - No
+depository relationship)
+
+v) Financial Security Risk
+10
+
+24
+Security Coverage(Primary)
+(Capable for fully pledged /cash cover/ Reg. Mortgage – Not
+capable to provide security)
+
+25
+Collateral coverage (Property Location)
+(Capable for Registered Mortgage on Municipal corporation /Prime
+area property- Not capable for providing such collateral)
+
+26
+Support/Guarantee (Capable Personal guarantee or Corporate
+Guarantee - Not capable for Support/ Guarantee )
+
+27
+Legal Intervention regarding security Coverage (Fair-Disputed)
+
+VI) Other Factors
+28
+Legal /Environmental Issue (Complied- Not Complied)
+
+29
+Disaster Management capacity (Excellent- Not Satisfactory )
+
+30
+Insurance (yes- No)
+
+31
+Govt. Subsidies/Tax Waiver( Favorable - unfavorable)
+
+32
+Any other Material risk factor
+
+
+Total
+100
+
+
+N.B: 1. Each External Credit Assessment Institutions (ECAIs) should prepare the sector wise
+industry average of SME on all risk parameters and this industry average will be considered
+while assigning score for the purpose of rating of the client.
+2. Each Qualitative Factor related to rating report requires further explanation.
+
+--- Page 11 ---
+Annexure-2
+
+Table: 1-ECAI’s Credit Rating Categories Mapped with BB Rating Grade
+
+BB
+Rating
+Grade
+Equivalent
+Rating
+of
+S&P and Fitch
+Equivalent Rating
+of Moody
+Equivalent Rating of
+CRISL
+Equivalent
+Rating
+of CRAB
+Equivalent
+Rating
+of NCRL
+Equivalent Rating
+of ECRL
+Equivalent Rating
+of ACRSL
+Equivalent Rating
+of ACRL
+Equivalent Rating
+of WASO
+AAA to AA
+Aaa to Aa
+AAA,
+AA+, AA, AA-
+AAA,
+AA1, AA2, AA3
+AAA,
+AA+, AA, AA-
+AAA,
+AA+, AA, AA-
+AAA,
+AA+, AA, AA-
+AAA,
+AA+, AA, AA-
+AAA
+AA1, AA2, AA3
+A+, A, A-
+A1, A2, A3
+A+, A, A-
+A+, A, A-
+A+, A, A-
+A+, A, A-
+A1, A2, A3
+BBB
+Baa
+BBB+, BBB, BBB-
+BBB1, BBB2, BBB3
+BBB+, BBB, BBB-
+BBB+,
+BBB,
+BBB-
+BBB+, BBB, BBB-
+BBB+, BBB, BBB-
+BBB1, BBB2,
+BBB3
+BB to B
+Ba to B
+BB+, BB, BB-
+BB1, BB2, BB3
+BB+, BB, BB-
+BB+, BB, BB-
+BB+, BB, BB-
+BB+, BB, BB-
+BB1, BB2, BB3
+Below B
+Below B
+B+, B, B-,
+CCC+, CCC, CCC-,
+CC+, CC, CC-
+B1, B2, B3,
+CCC1, CCC2, CCC3,
+CC
+B+, B, B-
+
+B+, B, B-
+
+B+, B, B-,
+CC+,CC,CC-
+B+, B, B-,
+CCC
+B1, B2, B3, CCC
+C+, C, C-, D
+C, D
+C+, C, C-, D
+C+, C, C-, D
+CC+,CC,
+CC-,
+C+, C, C-, D
+CC1, CC2, CC3,
+C+, C, C-, D
+Short-Term Rating Category Mapping
+S1
+F1+
+P1
+ST-1
+ST-1
+N1
+ECRL-1
+ST-1
+AR-1
+P-1
+S2
+F1
+P2
+ST-2
+ST-2
+N2
+ECRL-2
+ST-2
+AR-2
+P-2
+S3
+F2
+P3
+ST-3
+ST-3
+N3
+ECRL-3
+ST-3
+AR-3
+P-3
+S4
+F3
+
+NP
+ST-4
+ST-4
+N4
+ECRL-4
+ST-4
+AR-4
+P-4
+S5,S6
+B,C, D
+ST-5, ST-6
+ST-5, ST-6
+N5
+ST-5, ST-6
+AR-5, AR-6
+P-5, P-6
+
+--- Page 12 ---
+Annexure-3
+
+
+Table: 1.1-ECAI’s Credit Rating Categories Mapped with BB’s SME Rating Grade.
+
+
+
+
+
+BB’s SME Rating Grade
+Equivalent rating of BDRAL
+SME 1
+SE1, ME 1
+SME 2
+SE2, ME 2
+SME 3
+SE3, ME 3
+SME 4
+SE4, ME 4
+SME 5
+SE5, ME 5
+SME 6
+SE6, SE7, SE8, ME 6 ME 7, ME 8

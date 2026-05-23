@@ -1,0 +1,1039 @@
+--- Page 1 ---
+Anti Money Laundering Department
+Bangladesh Bank
+Head Office
+Dhaka
+A.M.L. Circular No.: 08 Date: 21 December, 2005
+
+All Banks
+
+Regarding submission of cash transaction report (CTR)
+
+Dear Sir
+
+By the power conferred under section 4 & 19, of Money Laundering Prevention Act, 2002, the
+following instructions have been issued for all the commercial banks to follow properly:
+
+1. Each bank will analysis the transaction of their branches and submit Cash Transaction Report
+(CTR) to Bangladesh Bank for the cash deposits or cash withdrawals of BDT500000.00 or
+above in any account in a day according to the specimen forms Annexure-1. If the cash deposit
+in an account by more than one entry in a day totals TK 5,00,000/- or above or if the cash
+withdrawal from an account in a day by more than one entry totals TK. 5,00,000/- , it has to be
+reported separately. Besides it has to be reported to Bangladesh Bank if one or more than one
+cash remittance or online deposit totalling the above mentioned amount transacted in any single
+account.
+2. This report has to be submitted on monthly basis. Accordingly, report of cash transactions for
+each month must be reported to Bangladesh Bank within the 21st of the following month. All
+concerned parties are advised to be sincere in case of submitting the return on time; for any
+kind of negligence or failure to report this CTR, the concerned bank might be penalized
+according to Section 19(4) of the Money Laundering Prevention Act, 2002.
+3. Transactions have to be examined properly and if any kind of suspicious transaction/
+information are noticed during submitting the CTR by branches to the CAMLCO, that has to be
+reported to him with all details mentioning the reason of suspicion. Similarly CAMLCO has to
+check the transactions in the CTR and if any suspicion raised that has to be reported to
+Bangladesh Bank with all details mentioning the reason of suspicion at the time of submitting
+CTR. If no matter of suspicion noticed, a statement to be furnished along with the CTR saying,
+“Nothing noticed suspicious”.
+4. This directive will come into force with effect from 01 January 2006. For instance, the report of
+January 2006 will be reported by prescribed date of February 2006. At this stage, both the hard
+copy and soft copy of the CTR to be submitted in Bangladesh Bank. Similarly, the STR to be
+reported in both the forms wef. 01 January 2006.
+
+Please acknowledge the receipt.
+
+
+
+
+
+Yours faithfully
+
+Attachment: 10 pages
+
+
+
+
+
+
+Sd./
+
+
+
+
+
+
+
+
+
+
+(S M Abul Quashem)
+
+
+
+
+
+
+
+
+
+General Manager
+
+
+
+
+
+
+
+
+
+
+Tel:7120659.
+
+--- Page 2 ---
+Attachment no. 02
+Instructions on how to complete the CTR related Forms:
+
+1. Bank Code: There are 3 boxes/spaces under this field. The SBS code provided by the Statistics
+dept of BB to be used in this case. However, a zero (0) to be inserted before the SBS code, as
+typically it is of 2 digits. For example, the SBS code of Agrani Bank is 11, here the Bank code
+will be 011.
+Branch Code: There are 4 boxes under this field. In this case the exact SBS Branch Code to be
+used.
+
+2. Reporting Month: There are 6 boxes under this field, 2 spaces for month, i.e. for October 10;
+and the rest 4 spaces are applicable for year, i.e. 2006, 2007, etc. Hence, the Reporting Month
+code for March’06 will be: 032006.
+
+3. Account Number: There are 20 boxes under this field. What ever the size of the A/C number, it
+must be started from the 1st box onwards, and rest of the boxes at end may remain empty, if not
+applicable. However, no other mark should be used in the empty boxes (if not applicable).
+
+4. Account Type: There are 2 boxes under this field. Please refer to Attachment#5, for A/C Type
+Codes. For example, if it is a ‘Savings Account/Taka’- the code will be ‘02’.
+
+5. Ownership Type: There are 2 boxes under this field, too. Please refer to Attachment#5, for
+Ownership Type Codes. For example, if it is a ‘Partnership Account’- the code will be ‘04’.
+
+6. Account Title: There are 100 boxes under this field. The title has to be completed exactly how
+it has been mentioned on the bank’s account opening form/ledger. However, only one letter
+should place in each box, even for full stop (dot) and an additional box should be left empty
+between two words. The title must be started from the 1st box and in no way other titles like,
+Mr., Mrs., M/S. etc. be used and the non-applicable boxes at the end should remain empty.
+
+7. Present/Mailing Address: There are 60 boxes in 1st three lines under this field for address and 5
+boxes in the 4th line exclusively for Upazila/Thana Code as mentioned in Attachment#5.
+
+8. Permanent/Registered Address: There are 60 boxes in 1st three lines under this field for address
+and 5 boxes in the 4th line exclusively for Upazila/Thana Code as mentioned in Attachment#5.
+Permanent address will be applicable for individuals whereas, Registered address will be
+applicable for company/ organizations.
+
+9. Telephone Number: There are 16 boxes in each of the 8 lines under this field, 2 lines for
+residence number, 3 for office numbers and last 3 lines for mobile numbers. The structure of
+phone number should follow – Country> City> phone number, as appropriate.
+
+10. i) Tax Identification Number (TIN) & ii) Business Identification Number (BIN): There are 20
+boxes in each 2 lines under this field. The numbers should be mentioned as it is prescribed by
+the Income Tax & VAT authority.
+
+--- Page 3 ---
+11 Transaction Type
+
+
+
+There are two boxes for Transaction Type. The codes according to the type of transaction are attached
+here. These two boxes have to be filled in by following the codes.
+Code
+Definition
+01
+Cash Deposit
+02
+Cash Withdrawal
+03
+Cash Remittance/ Online Deposit
+
+12 Transaction Date
+
+
+
+
+
+
+
+
+d d m m y y y y
+Eight boxes are given for the title ‘Transaction Date’. First two boxes are selected for date. In this case
+for dates 1-9 there has to be a zero (0) in the first box. Next two boxes are for the months. 01, 02, 03,
+04, 05, 06, 07, 08, 09, 10, 11 & 12 has to be used accordingly for the twelve months of the year
+January- December. Last four boxes are for years. For example: 06 November 2006 will be written as
+06112006.
+
+13 Amount for the day
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the title ‘Amount for the day’ there are ten boxes for Taka & two boxes for Poisa. The total amount
+has to be written if the amounts of transactions cross the lowest range of CTR in the above-mentioned
+11th section. These sections are (1) Cash Deposit (2) Cash Withdrawal & (3) Cash Remittance. In every
+case of crossing the limit there has to be an individual report. The vacant boxes from left have to be
+filled in by zero (0) in time of writing the amount of transaction.
+
+14. Three boxes are given for the number of transaction. The total number of daily transaction will be
+mentioned here. In this case the total amount of daily transaction means the section where the cash
+transaction limit has crossed (sections mentioned in no. 11). The vacant boxes from left have to be
+filled in by zero (0).
+
+15. The boxes of no. 15 have to be filled in if the Transaction Type mentioned in no. 11 is Cash
+Remittance/ Online Deposit. In that case the name, account number & account type where the money
+has been send and the bank code & branch code has to be filled in according to the previous
+description.
+
+16. All Owner related information in serial 16 have to be completed as mentioned previously. If there
+is a single account holder then section (i), (ii), (iii), (iv), (v), (vi), (vii), and (viii) of 16 have to be
+completed. However, if the account is a company account, or other type of organisational account with
+multiple account holders, or a joint or partnership account then section (i), (ii), (iii), (iv), (v), (vi),
+(vii), and (viii) of 16 have to be separately filled for each individual. Therefore, information on all
+account holders have to provided one after another. In case of a company account, all directors’
+information must be provided in addition to another 3 to 5 high officials’ information.
+
+16 has two sections on (ii) Occupation as discussed above. To fill these up attachment: 5-a titled
+‘Occupation’ is provided.
+POISA
+TAKA
+
+--- Page 4 ---
+Attachment No. 04
+
+
+
+
+Suspicious transaction report (STR)
+Directive for filling in form
+
+The following necessary explanation as to how the STR forms have to be filled in are given:
+
+1 Bank Code
+
+
+Branch Code
+
+
+
+Under the Caption Bank Code there are three fields in which SBS bank code given by the BB’S
+statistics department has to be used . Since the SBS bank code of the National Credit and Commercial
+Bank LTD is 53 in which is to be written as they are.
+
+In the branch code there are four fields. In this case SBS code given by the statistics department has to
+be written as they are.
+
+2 Reporting month
+
+
+
+
+
+
+
+
+Under the caption reporting month there 6 [six] fields of which the first two are for the month as-
+For January 01, Feb. 02, March. 03,April. 04, May 05, and June. 06, July. 07, August. 08,
+September.09, Oct. 10, Nov.11, and December. 12 and the rest 4 ones are for the year. For the report of
+2006, 2006 is to be written. This is for the report March /2006 the six fields shall be field in as 032006.
+
+3 Account Number
+5 6 7 8 9 0
+
+
+
+Under the caption account number there are 20 fields. In this case the a/c no. is to be written from the
+first field . The a/c No. May not be for 20 digits. In that case the fields towards the end shall be kept
+blank. Nothing like dash or other shall be kept blank. As for example – A/C No. 567890 shall be
+written as above.
+
+A/C Type
+
+
+
+
+Under A/C type head there are two fields. In this for use as per as the a/c type annexure.5 contains
+code under the heading ‘A/C Type’.Example- If the A/C is savings Account /Taka the code will be 02.
+
+Ownership type
+
+
+
+
+
+
+Under ownership type caption their two fields. For the use of the type of a/c holder or ownership type
+the code list is given in annexure –5 under the caption ownership type. Example- if the a/c type is
+partnership account, the code will be 04.
+
+
+
+
+
+A B
+D U
+L A H M O J
+
+D E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Account title
+
+--- Page 5 ---
+Under account title there are 100 fields. In this case the name as per the opening form or the ledger is
+to be put as it is . If there is any coma or full stop in between the words of the name, one field will be
+used for it.
+
+Each field is to be used for each letter. One field shall be kept blank between two words as for
+example- A.K.M Abdullah Mujumdar and co. If 100 fields are not required for the name, the fields on
+the blank side will be kept blank. Mr., Mrs., Ms., M/S, Messars, Al-Haj cannot be used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Present / Mailing Address
+
+
+
+
+
+Upazila/Thana (five digit to be used]
+
+Under the present / Mailing address caption first 60 fields are given. In this case for each letter each
+field is to be used and one field is to be kept blank between two words .If all the 60 fields are not used,
+the fields towards the end are to be kept blank. In the line there five fields for Upazila/ there code-
+given in annexure-5.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Permanent/
+Registered
+address
+
+Upazila/ thana [ five digit code to be
+used]
+
+
+Under the caption permanent / registered address there are 60 fields in the first 3 lines. In this case each
+field for each letter and one field between two words blanks. If all the 60 fields are not used, the fields
+to the end will be kept blank. For individual a/c permanent address and for business/ organization/
+Company etc registered address .In the 4th line there are five fields to be filled with Upazila/ thana code
+which is given in annexure- 5.
+
+Country, City number
+9 Telephone No.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Residence 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Residence2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Under the caption telephone number there are 8 lines consisting of 16 columns of which first 2 for
+residence phone No., next 3 for office Phone No. And the last 3 for mobile No. In the case of columns
+for the telephone numbers of residence and office first country code and following it City Code have to
+be put; the telephone number will follow. In the case of mobile- Country Code will precede the mobile
+
+--- Page 6 ---
+number. As for example takes case of an individual Chittagong whole title; Phone number is 123456.
+Put B’desh code 88 first, then Chittagong Code – 031 and thereafter the telephone No.123456. It will
+stand as 88-031-123456. Mobile number.
+Some person Kishorigong is 015123456 which be written as 88-015123456
+
+10
+[i] Tax
+identification [
+TIN]
+
+
+
+[II
+Business
+identification
+number [BIN]
+
+
+
+Tax identification number [TIN] and the Business Identification number [BIN] issued by the Vat
+authority have to be written as they are.
+
+11
+Transaction Type
+
+
+
+
+Under the caption Transaction type there are two fields in which transaction type code is to be put.
+
+code
+Definition
+01
+Cash Deposit
+02
+Cash withdrawal
+03
+Cash Remittance/ online deposit
+04
+Inward Remittance TK
+05
+Inward Remittance FCY
+06
+Outward Remittance / DD/ MT/ PO TK
+07
+Outward Remittance / DD/ MT/ PO FCY
+08
+Transfer
+09
+Cheque / Bill deposit /collection TK
+10
+Cheque / Bill deposit /collection FCY
+11
+LC / guarantee TK
+12
+LC / guarantee FCY
+99
+Others
+
+
+12
+Transaction Data
+
+
+Under the caption Transaction Data there are 8 fields . First two fields are for date – from 1 to 9 with
+follow zero and the next two fields are for the month as 01, 02, 03, 04, 05,06,07,08,09,10,11 and 12.
+The last four fields are for the year. As for example, 6 Nov. Will be written as 06112006
+
+--- Page 7 ---
+13
+Transaction
+Account
+Taka
+pais
+
+Under the caption Transaction account there are 10 fields for taka and two for paisa. The some total of
+the transaction considered as suspicious / unusual is to be put here. If 10 fields are not required for the
+amount , the fields on the left shall be filled in with zero
+
+
+
+[ To be filled with reporting officer]
+[To be filled by the Branch Anti- Money
+Laundering
+compliance officer]
+14
+Reasons for
+treating
+The transactions
+as
+Unusual/
+suspicious
+[ To be filled by the chief Anti – Money
+Laundering compliance officer]
+
+Under the caption reason for treating the transaction as unusual/ suspicious there are three fields of
+which first one is to be filled by reporting officer after identifying the unusual/ suspicious transactions,
+the second one will be filled by the Branch Anti- Money Laundering compliance officer on the basis of
+investigation data and other data mentioning in it whether it was sent to the central compliance unit in
+the time [if so, Ref. No. And data have to be mentioned]. The third field is to be filled by the Chief
+Anti- Money Laundering Compliance officer. In this case also it must be mentioned, on the basis of
+investigation and analysis if the transaction can be considered unusual / suspicious and if it has
+reported to BB [if so, give Ref. No. And data]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+[v] Beneficiary’s
+name
+
+
+
+
+
+[iv] Account
+Number
+
+
+
+
+
+
+[iv] Account
+type
+
+
+
+
+
+
+
+
+[iv] Bank
+code
+
+
+Branch code
+
+
+
+
+If under SL. 11 Transaction type is cash remittance/ online deposit, then the fields under SL. 15 will be
+filled. In that case the name, a/c No., a/c type of the person to whose a/c the money has been deposited.
+
+--- Page 8 ---
+16
+[I] owner’s name
+[20 fields]
+
+
+
+
+
+
+
+
+
+
+[ii] Occupation
+
+
+
+
+
+[iii] Father’s name
+
+
+
+
+
+
+
+
+[iv] Mother’s name
+
+
+
+
+
+
+
+
+
+
+
+[v] Date of birth
+
+
+
+
+
+[vi] Passport No.
+
+
+
+
+
+[vii] Driving License No
+
+
+
+
+
+[viii] TIN
+
+
+The dates about owner have to be filled as per the ownership of the a/c mentioned before. If the owner
+of the account is one, the filling of [ v] to [ viii] of SL.16 will do. If the owner is a company or any
+entity of more than one owner or the a/c belongs to joint venture or partnership, then [i ] to [viii] of the
+SL. No.16 shall have to filled with each concerned person one after another separately. That is the
+data of one will follow that of the other. In that case the entity the bio-data of the direction / the
+members of the Board of Directors shall have to be given together with the bio-data of 3 to 5 high
+officials.
+
+Under the caption occupation [ ii] there are 2 fields. For filling them code under occupation in
+annexure- 5 is given.

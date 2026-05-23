@@ -1,0 +1,87 @@
+--- Page 1 ---
+বৈদেশিক মুদ্বা নীতি বিভাগ
+বাংলাদেশ ব্যাংক
+প্রধান কার্ধালয়
+ঢাকা-১০০০।
+
+www.bb.org.bd
+
+২৩ চৈত্র, ১৪২০
+
+সার্কুলার পত্র নং-এফইপিডিআমদানি নীতি)১২৩/২০১৪-০৬ তারিখ 8 --------------
+
+০৬ এপ্রিল, ২০১৪
+
+বৈদেশিক মুদ্রায় লেনদেনে নিয়োজিত
+
+সকল অনুমোদিত ডিলার ব্যাংকের
+
+প্রধান কার্যালয়/প্রিন্সিপাল অফিস
+
+প্রিয় মহোদয়গণ,
+
+বিল-ডিসকাউন্টিং এর মাধ্যমে বৈদেশিক খণ
+প্রাপ্তি ও পরিশোধ রিপোর্টিং প্রসংগে |
+
+এফ,ই সার্কুলার নং-০৩, তারিখঃ ফেব্রুয়ারি ০৪, ২০১৩ এর প্রতি আপনাদের দৃষ্টি আকর্ষণ করা যাচ্ছে।
+
+উল্লিখিত সার্কুলারে বা
+
+তি লেনদেনের সূত্রে বৈদেশিক খণ প্রাপ্তি ও পরিশোধ এতদ্সাথে সংযুক্ত ছকে (Annexure-1) বর্ণিত পদ্ধতি
+
+অনুসরণপূর্বক S-1 রিটার্ণ-এ বাংলাদেশ ব্যাংকে যথারীতি রিপোর্টিং করার জন্য পরামর্শ দেয়া যাচ্ছে।
+
+সংযুক্তিঃ বর্ণনা মোতাবেক
+
+(মোঃ জাকির হোসেন চৌধুরী)
+উপ মহাব্যবস্থাপক
+ফোনঃ ৯৫৩০২৫৩
+
+--- Page 2 ---
+Annexure-1
+Cf. FE Circular letter No. 06/2014
+
+
+Reporting procedure of receipt and payment of short term foreign currency
+loan through discounting of direct/deemed export bills as per FE Circular 03/2013
+
+Serial
+no
+Description of the
+transactions
+Types of
+receipt/payment
+Forms to
+be used
+Purpose
+code
+Corresponding
+schedule
+Comments
+Obtaining short term loan
+through bill
+purchase/discounting
+Receipt of short
+term loan
+Form C
+9135
+To be
+submitted with
+S-1 returns
+
+Realization of export
+proceed
+Receipt of proceed
+EXP
+A1
+Repayment of short term
+loan
+Principal repayment
+TM
+9135
+E-3/P-3
+Interest payment
+4206
+Service charge
+payment
+2314

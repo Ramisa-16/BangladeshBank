@@ -1,0 +1,893 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+
+FE Circular No.06
+
+
+
+
+
+
+
+Date: July 9, 2015
+
+All Authorized Dealers of
+Foreign Exchange in Bangladesh
+
+Dear Sirs,
+Issuance and disposal of EXP Form and IMP Form
+
+Attention of Authorized Dealers (ADs) is invited to FEPD Circular Letter No. 26, dated
+December 09, 2012 regarding online reporting of foreign exchange transactions on daily basis through
+Bangladesh Bank online reporting system. Since online reporting system is in well place to generate
+EXP/IMP Forms based on the online reports of trade transactions by ADs, it has been decided to phase
+out submission of hard copies of EXP/IMP Forms with monthly returns to Bangladesh Bank. To generate
+these documents electronically with authenticity from the reporting system for legitimate purposes in
+future, a clause ‘This is an electronically generated document which does not require signature of
+declarant/issuer.’ is to be incorporated in the system. In the context of the decision, ADs shall observe the
+following instructions for issuance and disposal of these documents in physical form:
+
+02. Issuance and disposal of EXP Form: In terms of paragraph 10(i), chapter 8 of the Guidelines
+for Foreign Exchange Transactions-2009 (GFET), Vol-1, EXP Form is issued in quadruplicate. To
+rationalize documentation in export transactions, it has been decided to reduce the number of Forms from
+four sets to two sets renamed as First Original and Second Original (copies enclosed). Accordingly, EXP
+Forms annexed in FE Circular No. 14, dated March 16, 2014 shall stand amended. As usual, Customs
+Authorities, to whom AD’s certified EXP Forms submitted shall, after completion of their necessary
+formalities, return the Second Original EXP Form to the exporter/their authorized agent and forward the
+First Original EXP Form to the respective area office of Bangladesh Bank. Regarding disposal of EXP
+Form, ADs shall observe the following instructions:
+(a) ADs shall arrange to pass all shipping documents covering goods declared of EXP Form
+within the prescribed period of 14 days of shipment and report the same to online reporting module
+without submitting Second Original EXP Form. ADs shall continue to hold Second Original EXP
+Form until the full proceeds are realized. During the non-realization stage of export proceeds, ADs
+shall, on demand, submit the EXP Form and full set of export documents to Bangladesh Bank.
+(b) After realization of export proceeds, ADs shall certify on the reverse of the Second Original
+EXP Form and shall report the same to online reporting module. As usual ADs shall, without
+attachment of EXP Form, report the realization of export proceeds in relevant schedule of monthly
+returns to Bangladesh Bank. Afterwards, ADs shall retain Second Original EXP Form with them
+
+Cont’d to page - 02
+
+--- Page 2 ---
+-02-
+for record and eventual inspection for a period of 5(five) years. However, in respect of cases which are
+under investigation by Bangladesh Bank inspection team/other Government agencies, the EXP Form
+and full set of export documents shall be disposed of only after obtaining clearance from the
+inspection team/Government agency concerned.
+
+03. Issuance and disposal of IMP Form: In terms of paragraph 28(a), chapter 7, of GFET-2009,
+IMP Form for payment against imports must be submitted in duplicate by the importer or their authorized
+agent. As a part of phasing out submission of EXP/IMP Forms, ADs are no longer required to obtain IMP
+Form in duplicate from the importer. IMP Form (amended form with separation of FOB value; freight,
+insurance and other charges and reporting instructions in relevant schedules, copy enclosed) submitted by
+the importer should, therefore, be in original. Regarding disposal of IMP Form, ADs shall observe the
+following instructions:
+(a) Immediately after import payment, ADs shall make online report to Bangladesh Bank
+reporting module; and report the import payment in usual monthly returns to Bangladesh Bank
+without attachment of IMP Form. ADs shall continue to hold IMP Form until the Customs certified
+Bill of Entry is received. During this stage of non-receipt of Customs Certified Bill of Entry, ADs
+shall, on demand, submit the IMP Form and full set of import documents to Bangladesh Bank.
+(b) On receipt of Customs certified Bill of Entry evidencing import into Bangladesh, ADs shall
+report the same to online reporting portal after necessary verification. Afterwards, ADs shall retain the
+IMP Form and relevant Bill of Entry with full set of import documents including LCA Form with them
+for record and eventual inspection for a period of 5(five) years. However, in respect of cases which are
+under investigation by Bangladesh Bank inspection team/other Government agencies, the IMP Form
+and full set of import documents including Bill of Entry shall be disposed of only after obtaining
+clearance from the inspection team/Government agency concerned.
+(c) The above instructions will also be applicable for import transactions under
+Buyer’s/Supplier’s credit as per stipulation of FE Circular no.07 dated February 16, 2014.
+
+04. Prescribed size of EXP/IMP Forms: Prescribed size for EXP/IMP Forms as laid down in
+paragraph 17 (c), GFET, Vol-2 shall no longer be required for printing such documents. ADs may
+generate the forms in standard paper size maintaining uniformity for their exporter/importer
+customers.
+05. All other relevant instructions pertaining to disposal of EXP/IMP Form shall remain
+unchanged.
+
+Please bring the above instructions, effective from October 01, 2015, to the notice of your
+concerned constituents.
+Yours faithfully,
+Encl. As stated (7 pages)
+
+(Md. Zakir Hossain Chowdhury)
+Deputy General Manager
+Phone: 9530250
+
+--- Page 3 ---
+EXP FORM
+(Statutory declaration to be furnished by
+exporters under FE Regulation Act, 1947
+before shipment of goods. An incorrect
+declaration constitutes offence under the
+said Act.)
+
+First Original
+
+
+
+
+
+
+(To be submitted to the Customs with Second
+Original duly completed and certified by the
+Authorized Dealers)
+
+EXP NO.
+AD’s Code
+Serial Number
+Serial Year
+
+
+
+
+
+
+
+
+
+
+
+Name and address of the Authorized Dealer ________________________________________________
+I/We, the undersigned hereby declare that I/we am/are the sellers/consignors of the goods described below in respect of
+which this declaration is made out and that the particulars given in the following items are true and that the invoice value
+declared in SI.No.5 in case of firm contract is full value as contracted with the buyers; and in case of consignment sale, is
+a fair value of the goods which are being shipped on consignment sale.
+I/We do hereby undertake to repatriate full proceeds of the export within the period specified by the Bangladesh Bank in
+terms of FER Act.
+Sl.
+No.
+Items
+Particulars (to be filled
+in by Exporter)
+Code No. (to be filled in by
+Authorized Dealer)
+
+Commodity to be exported
+
+
+
+
+
+
+Country of destination
+
+
+
+
+
+
+Port of destination
+
+
+
+
+
+
+Quantity
+Unit (bales/tons/lbs. etc.)
+
+
+
+
+
+
+Volume (Weight/number etc.)
+
+
+
+
+
+
+Value
+Currency
+
+
+
+
+
+
+Incoterm Used
+
+
+
+
+
+
+Invoice Value
+
+FOB
+Insurance
+Freight
+
+
+
+CMT Value (if applicable)
+
+
+
+
+
+
+Terms of sale (Firm Contract/LC or Consignment
+sale)
+
+
+
+
+
+
+Name & address of importer/consignee
+
+
+
+
+
+
+Name of carrying vessel
+
+
+
+
+
+
+Bill of Lading/Railway Receipt/Airway
+Bill/Truck Receipt/Post Parcel Receipt
+No.:
+Date:
+
+
+
+
+
+10.
+Port of shipment/Post Office of despatch
+
+
+
+
+
+
+11.
+Land Custom Post
+
+
+
+
+
+
+12.
+Shipment date
+
+
+
+
+
+
+13.
+Name of the Exporter (in block letter) with
+address
+
+
+
+
+
+
+
+14.
+CCI&E’s Registration Number of the exporter
+and date
+
+
+
+
+
+
+15.
+Sector (Public or Private) under which the
+exporter falls
+
+
+
+
+
+
+
+Coded by ……………………………….
+Checked by ……………………………..
+
+Authorized Signature and Stamp
+of the Exporter with date
+(Signature of authorized official of the bank)
+
+
+
+Cont’d …………………P/2
+
+--- Page 4 ---
+Page - 2
+Certificate of Authorized Dealer
+Certified that the above exporter(s) is/are known to us, that he/they is/are bonafide businessman/men in Bangladesh
+and that he/they has/have made arrangements with us for the realization of the export proceeds of the goods declared on this
+form within the stipulated period and that we are satisfied with the said arrangements. We have also satisfied ourselves
+about the bonafides of the importers/consignees abroad and their credentials etc.
+*We undertake that for export shipments on consignment sale, we shall obtain from the exporter(s) and furnish to the
+Bangladesh Bank a fully documented account sale certified by the consignees/Chamber of Commerce of the country of
+import.
+*We further undertake that in the event of non-realization or short realization of export proceeds against shipment
+within the stipulated period, we shall obtain from the exporter(s) and furnish to the Bangladesh Bank full explanation as
+to the circumstances resulting in non-realization/short realization.
+*(Strike out the portion not applicable and authenticate with initials).
+Date_________________
+Stamp and Signature of
+Authorized Dealer
+(TO BE COMPLETED BY CUSTOMS/POST OFFICE)
+1. Month in which this item is included in the Customs/Post Office Return_______________________
+2. Value assessed by the Customs/Post Office_____________________________________________
+3. Shipping Bill/Airway Bill/Post Parcel Receipt No__________________Dt. _____________________
+
+Seal
+Signature of Custom Officer
+Date_______________________
+
+CERTIFICATE BY AUTHORISED DEALER
+(Applicable where advance payment or irrevocable or confirmed Letter of Credit is required in cover of the shipment.)
+1. An irrevocable/confirmed Letter of Credit No._____________________________ for_________ on___________ has
+been opened covering the shipment described on page No. 1.
+2. Remittance for _________________ has been received as per method No. _______ as indicated below on _____ and
+has been allocated against the shipment described on page No. 1.
+(i) in Taka from a Non-Resident Bank A/C.
+(ii) in Foreign Currency on _______________ Amount_________________
+(State Currency)
+
+Date_________________
+Signature and Stamp of
+Authorized Dealer
+
+--- Page 5 ---
+EXP FORM
+(Statutory declaration to be furnished by
+exporters under FE Regulation Act, 1947
+before shipment of goods. An incorrect
+declaration constitutes offence under the
+said Act.)
+
+Second Original
+
+
+
+
+
+
+(To be returned to the Authorized Dealer within 14
+days from the date of shipment along with customs
+certification
+and
+relative
+document
+for
+negotiation.)
+
+EXP NO.
+AD’s Code
+Serial Number
+Serial Year
+
+
+
+
+
+
+
+
+
+
+
+Name and address of the Authorized Dealer ________________________________________________
+I/We, the undersigned hereby declare that I/we am/are the sellers/consignors of the goods described below in respect of
+which this declaration is made out and that the particulars given in the following items are true and that the invoice value
+declared in SI.No.5 in case of firm contract is full value as contracted with the buyers; and in case of consignment sale, is
+a fair value of the goods which are being shipped on consignment sale.
+I/We do hereby undertake to repatriate full proceeds of the export within the period specified by the Bangladesh Bank in
+terms of FER Act.
+Sl.
+No.
+Items
+Particulars (to be filled
+in by Exporter)
+Code No. (to be filled in by
+Authorized Dealer)
+
+Commodity to be exported
+
+
+
+
+
+
+Country of destination
+
+
+
+
+
+
+Port of destination
+
+
+
+
+
+
+Quantity
+Unit (bales/tons/lbs. etc.)
+
+
+
+
+
+
+Volume (Weight/number etc.)
+
+
+
+
+
+
+Value
+Currency
+
+
+
+
+
+
+Incoterm Used
+
+
+
+
+
+
+Invoice Value
+
+FOB
+Insurance
+Freight
+
+
+
+CMT Value (if applicable)
+
+
+
+
+
+
+Terms of sale (Firm Contract/LC or Consignment
+sale)
+
+
+
+
+
+
+Name & address of importer/consignee
+
+
+
+
+
+
+Name of carrying vessel
+
+
+
+
+
+
+Bill of Lading/Railway Receipt/Airway
+Bill/Truck Receipt/Post Parcel Receipt
+No.:
+Date:
+
+
+
+
+
+10.
+Port of shipment/Post Office of despatch
+
+
+
+
+
+
+11.
+Land Custom Post
+
+
+
+
+
+
+12.
+Shipment date
+
+
+
+
+
+
+13.
+Name of the Exporter (in block letter) with
+address
+
+
+
+
+
+
+14.
+CCI&E’s Registration Number of the exporter
+and date
+
+
+
+
+
+
+15.
+Sector (Public or Private) under which the
+exporter falls
+
+
+
+
+
+
+
+Coded by ……………………………….
+Checked by ……………………………..
+
+Authorized Signature and Stamp
+of the Exporter with date
+(Signature of authorized official of the bank)
+
+Cont’d …………………P/2
+
+--- Page 6 ---
+Page - 2
+Certificate of Authorized Dealer
+Certified that the above exporter(s) is/are known to us, that he/they is/are bonafide businessman/men in Bangladesh
+and that he/they has/have made arrangements with us for the realization of the export proceeds of the goods declared on this
+form within the stipulated period and that we are satisfied with the said arrangements. We have also satisfied ourselves
+about the bonafides of the importers/consignees abroad and their credentials etc.
+*We undertake that for export shipments on consignment sale, we shall obtain from the exporter(s) and furnish to the
+Bangladesh Bank a fully documented account sale certified by the consignees/Chamber of Commerce of the country of
+import.
+*We further undertake that in the event of non-realization or short realization of export proceeds against shipment
+within the stipulated period, we shall obtain from the exporter(s) and furnish to the Bangladesh Bank full explanation as
+to the circumstances resulting in non-realization/short realization.
+*(Strike out the portion not applicable and authenticate with initials).
+Date_________________
+Stamp and Signature of
+Authorized Dealer
+(TO BE COMPLETED BY CUSTOMS/POST OFFICE)
+1. Month in which this item is included in the Customs/Post Office Return_______________________
+2. Value assessed by the Customs/Post Office_____________________________________________
+3. Shipping Bill/Airway Bill/Post Parcel Receipt No__________________Dt. _____________________
+
+Seal
+Signature of Custom Officer
+Date_______________________
+
+CERTIFICATE BY AUTHORISED DEALER
+(Applicable where advance payment or irrevocable or confirmed Letter of Credit is required in cover of the shipment.)
+1. An irrevocable/confirmed Letter of Credit No._____________________________ for_________ on___________ has
+been opened covering the shipment described on page No. 1.
+2. Remittance for _________________ has been received as per method No. _______ as indicated below on _____ and
+has been allocated against the shipment described on page No. 1.
+(i) in Taka from a Non-Resident Bank A/C.
+(ii) in Foreign Currency on _______________ Amount_________________
+(State Currency)
+
+Date_________________
+Signature and Stamp of
+Authorized Dealer
+
+--- Page 7 ---
+IMP No.
+AD’s Code
+Serial No.
+Year
+
+Form IMP
+For Imports only
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Original copy for AD’s matching
+with Authenticated Copy of Bill of
+Entry/Customs certified invoice]
+
+
+
+
+
+
+FOREIGN EXCHANGE REGULATION ACT, 1947
+Application for permission under Section 4/5 of the Foreign Exchange Regulation Act, 1947
+to purchase foreign exchange for payment of imports
+
+Name and address of the Authorized Dealer effecting the remittance_________________________________________________________________________________
+I/We, the undersigned hereby apply for permission to remit________________________________________________________________________________________
+
+
+
+
+
+
+
+
+(Amount in foreign currency in figures and in words)
+______________________________________________________ to _______________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+(Name and address of the beneficiary)
+for goods imported/to be imported by us/me as per details given below against LC/Contract No………………………………………….. Date: ……………………………
+
+LC Authorization Form
+Registration No.
+with the AD
+Description
+of goods
+HS
+Code
+No.*
+Quantity of goods
+Invoice value in foreign currency**
+Number
+Date
+Value in
+Taka
+Unit
+Quantity
+FOB
+Freight
+Insurance
+Others, if any
+(Pls. specify)
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+11
+12
+13
+Country of
+origin
+Incoterm
+used
+Port of
+Shipment
+Name of Steamer/Airlines and
+date of shipment (if goods are
+sent by post state so)
+Port of importation in
+Bangladesh or name of country
+of ultimate destination if other
+than Bangladesh
+Indentor’s name
+and address
+Indentor’s Registration No. with
+CCI&E
+Bangladesh Bank
+
+
+
+
+
+
+
+
+
+*For more than one HS Code, a separate sheet should be added.
+** (a) ADs shall report FOB value, freight, insurance and other charges separately in Bangladesh Bank reporting system as per Circular Letter No. FEPD(Import)/125/2013-35 dated
+December 10, 2013. (b) ADs shall report FOB value of goods in Schedule E-2/P-2 or relevant schedules, and freight, insurance and other charges in Schedule E-3/P-3 or other relevant
+schedules mentioning IMP Form number.
+
+Cont’d ……………….. P/2
+
+--- Page 8 ---
+Page - 2
+1. I /We declare:
+(a) That the above payment is due and that I/we have not already obtained exchange for payment of (any of) these goods, nor have I/we made any other application for
+that purpose.
+(b) The amount of Foreign Exchange mentioned above represents the correct prevailing market price for these goods on the date of contract in country of Export.
+(c) That I/we am/are neither connected with the exporters abroad directly or indirectly nor do I/we have any financial or other interest in the exporters abroad.
+
+2. I/We certify that the above import is covered by a valid L.C. Authorization Form.
+3. I/We undertake to clear the goods for consumption in Bangladesh within four months of the date of this application and shall, before the expiry of that period, surrender
+to the Bangladesh Bank through yourselves the AUTHENTICATED COPY/IES OF THE CUSTOMS' BILLS OF ENTRY FOR CONSUMPTION INBANGLADESH
+or certified invoice/s covering the above goods, along with the Duplicate copy of this form (See note (a) below).
+4. I/We declare that the statements made in this application are true to the best of my/our knowledge and belief.
+5. I/We assume full responsibility for complying with the provisions of the Foreign Exchange Regulation Act, 1947 and rules, orders and directions made or issued
+thereunder.
+
+Full name and address of the applicant................................................................................... ....................................................................
+
+
+
+
+Signature and Stamp of the Importer
+Registration No. with C.C.I. &E ...........................................Date…………………………….
+
+Importer’s VAT Registration (BIN) No………………….. Date…………………………….
+
+(This form shall be signed by the Importer or his authorized Agent)
+
+(To be completed by the authorized Dealer)
+1. We hereby certify that the statements made by the applicant in this form are to the best of our knowledge correct and that we have seen documentary evidence
+in support thereof.
+
+2. The remittance has been made in accordance with method of payment as per existing Foreign Exchange Regulations.
+
+Date.................................. Signature and Stamp of the Authorized Dealer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cont’d ……………….. P/3
+
+--- Page 9 ---
+Page - 3
+
+
+Bangladesh Bank Approval No. (if required)………………………………………………………………. Date …………………………………………….
+Approved for (Amount in words & figures)…………………………………………………………………………
+(Bangladesh Bank approval will remain valid for 30 days from the date of approval)
+
+
+
+
+(CODING OF THE TRANSACTION BY AUTHORIZED DEALER)
+Month
+Country Receiving
+Payment
+Country of origin of
+goods
+Commodity
+Quantity of goods
+Place of
+importation
+Type of
+LCAF
+Currency
+Amount
+Unit
+Quantity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coded by_______________________________
+Checked by ___________________________________ Signature and Stamp of the
+Authorized Dealer
+Date ……………………………..
+
+NOTES FOR IMPORTERS:
+
+
+
+(PLEASE READ CAREFULLY)
+
+(a) IMP Form are in one set. The importer should complete and sign of the form and hand them over to the Authorized Dealer (Bank) through whom the remittance is
+being made.
+(b) The form should he completed in every required detail. There should be no alterations or deletions in the wording of the form except where provided. The form
+should be signed by the Importer or his Authorized Agents holding Power of Attorney from the original importer. Importers are advised that a false statement on this
+form constitutes an offence under Section 22 of the Foreign Exchange Regulation Act,1947. Omission of essential information constitutes a false declaration.
+(c) The attention of Importers is drawn to sub-section 3 of the Section 4 of the Foreign Exchange Regulation Act, 1947. Exchange sanctioned for a particular purpose
+must be utilized for that purpose only and all conditions attaching to the sanction must be complied with. If any of the prescribed conditions cannot be fulfilled and
+as a result the exchange cannot be utilized in whole or in part for the purpose for which it was sanctioned, the unutilized amount must immediately be refunded
+through an Authorized Dealer in foreign exchange in Bangladesh.

@@ -1,0 +1,140 @@
+--- Page 1 ---
+Foreign Exchange Policy Department-1
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+FEPD-1 Circular No. 03
+Date: January 08, 2026
+
+All Authorized Dealers in
+foreign exchange in Bangladesh
+
+
+Streamlining the disposal of inward remittances and enhancing operational efficiency
+
+Dear Sirs,
+
+In terms of the provisions of FE Circular No. 31 dated July 31, 2025 and subsequent circulars
+regarding (i) disposal of export proceeds through EXP Form formalities, including e-Commerce
+exports without EXP Form, (ii) repatriation of export proceeds received in advance under Advance
+Remittance Voucher (ARV) procedures, and (iii) disposal of other inward remittances (excluding
+export and wage remittances) through Form-C, including cases where Form-C is not required,
+Authorized Dealers (ADs) are required to dispose of such transactions in compliance with the
+applicable regulatory instructions.
+
+02. To streamline the disposal of inward remittances and enhance operational efficiency, ADs
+shall ensure timely processing and crediting of cross-border inward payment receipts, subject to
+observance of the instructions set out herein:
+03. Customer notification, processing and timely crediting:
+(a) ADs shall notify customers promptly, through secure electronic channels, upon receipt of
+inward remittance messages. Messages received after close of banking transaction hours shall be
+notified at the beginning of the next business day.
+(b) Subject to regulatory compliance and risk assessment, ADs shall promptly credit inward
+remittances to beneficiaries’ accounts through straight-through processing (STP) arrangements,
+taking into account the customer profile, transaction value and frequency, transaction type, and
+country/counterparty risk. Where STP arrangements are not operational, ADs shall apply risk-based
+expedited processing so as to facilitate timely credit. Upon completion of processing, ADs shall
+credit inward remittances in line with the following timelines:
+(i) inward remittances received during banking transaction hours shall be credited on the
+same business day; those received after banking transaction hours shall be credited on the next
+business day.
+(ii) recurring transactions shall follow the same timelines.
+(c) The above timelines shall apply, where all required transaction details or prior
+documentation are available.
+(d) Where all essential information for crediting is available, ADs may credit the
+beneficiaries’ accounts even if some documents or checks are pending. Remaining items shall be
+completed later as part of routine post-credit review and monitoring, without delaying the credit.
+(e) Where effective post-credit review and monitoring is not feasible due to the requirement
+for additional due diligence, regulatory checks, or documentation, ADs shall undertake pre-credit
+verification in the following situation, including but not limited to:
+
+Cont’d to page - 2
+
+--- Page 2 ---
+(i) inward remittances involving new customers or customers with no recent transactional
+history;
+(ii) transactions originating from, or routed through, jurisdictions classified as high-risk in
+accordance with applicable guidelines;
+(iii) transactions with incomplete, or inconsistent information relating to the stated purpose or
+the underlying transaction;
+(iv) remittances subject to specific regulatory requirements, or approvals, and
+(v) transactions flagged by sanctions screening systems, transaction monitoring systems, or
+manual review.
+
+ADs shall identify such cases immediately upon receipt of the inward remittance, prioritize
+their processing without undue delay, and complete settlement at the earliest practicable time, not
+exceeding 3 business days. ADs shall maintain a daily follow-up mechanism to monitor progress and
+ensure timely resolution of such cases.
+
+04. Use of intraday confirmations and reduction of end-of-day dependency:
+(a) ADs should reduce dependence on end-of-day or next-day nostro account statements for
+crediting inward remittances and, to the extent feasible, use intraday credit confirmations and
+scheduled intraday statements to enable faster credit to beneficiaries.
+(b) ADs shall put in place appropriate mechanisms, systems, and controls to ensure timely
+reconciliation of nostro account balances and confirmation of incoming credits. Such reconciliation
+may be undertaken on a near real-time basis or at frequent periodic intervals, commensurate with the
+bank’s operational capabilities; however, reconciliation intervals shall, as a general benchmark, not
+exceed 60 minutes.
+
+05. Payment tracking, transparency, and UETR compliance:
+(a) ADs shall ensure appropriate tracking of inward remittance transactions from receipt to
+final credit, including the use of the Unique End-to-End Transaction Reference (UETR), where
+applicable. ADs are encouraged to maintain a high level of compliance in updating tracker
+information in a timely manner.
+(b) The UETR shall be carried through domestic transactions, including inter-bank transfers,
+up to the ultimate beneficiary to ensure end-to-end traceability.
+
+06. Inter-bank transfers:
+(a) Where inward remittances are received in favor of beneficiaries maintaining accounts
+with other ADs, the receiving AD shall transfer the funds without delay to the relevant AD through
+the FC Clearing BD-RTGS System.
+(b) Ultimate beneficiaries’ ADs shall send credit-successful confirmations to intermediary
+ADs through appropriate messaging channels, including the UETR for end-to-end reference.
+Intermediary ADs shall update payment trackers accordingly.
+
+07. Digital facilitation and customer interfaces:
+(a) ADs shall establish secure digital interfaces to facilitate foreign exchange transactions,
+enabling
+electronic
+submission
+of
+required
+information
+and
+documents,
+electronic
+acknowledgements, and monitoring of transaction status by customers. Information provided by
+customers via secure digital interfaces-including repatriated amount, remitter details, purpose of
+Cont’d to page - 3
+
+--- Page 3 ---
+remittance, and other relevant particulars-shall be deemed authentic based on the customer’s
+declaration and shall be captured, validated, and retained by ADs in an auditable and retrievable
+manner in accordance with internal controls. Information relating to inward remittances received
+through secure banking channels, including authenticated remittance messages, shall be treated
+likewise. Accordingly, Form-C and Form-C (ICT) shall stand discontinued.
+(b) Until such interfaces are implemented, ADs shall collect remittance purpose and
+supporting information/documents through their existing digital channels, consistent with risk-based
+controls and regulatory compliance.
+
+08. This guidance note shall come into force with immediate effect. ADs shall be allowed a
+transition period up to March 31, 2026 to fully operationalize the frameworks outlined above. During
+this period, ADs shall take all necessary preparatory and progressive measures to ensure timely and
+effective compliance, with particular emphasis on the implementation of STP arrangements/risk-
+based expedited processing, intraday credit confirmation arrangements, appropriate nostro account
+reconciliation intervals, use of UETR for end-to-end transaction traceability, and the provision of
+digital facilitation and customer interfaces.
+
+All other relevant instructions shall remain unchanged. Please bring the contents of this
+circular to the notice of all your constituents.
+
+
+Faithfully yours,
+
+
+
+
+(Md. Harun-Ar-Rashid)
+Director (FEPD-1)
+Phone: 9530123

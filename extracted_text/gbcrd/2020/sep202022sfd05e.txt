@@ -1,0 +1,2816 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+
+Bangladesh Bank
+Head Office ) )
+Dhaka Sustainable Finance Department
+18 September 2022
+SFD Circular No. 05 Date: ------------+---------4+
+০৩ আশ্বিন ১৪২৯
+
+Managing Director/Chief Executive
+All Scheduled Banks and Financial Institutions in Bangladesh
+Dear Sir,
+
+Policy on Green Bond Financing for Banks and Financial Institutions (FIs)
+
+Government of Bangladesh prioritizes achieving Sustainable Development Goals (SDGs) which
+requires significant sustainable investment in infrastructure sectors. Intended Nationally Determined
+Contribution (INDC) of Bangladesh prioritizes the energy, transport and industrial sectors setting out
+a number of quantified targets with a view to reducing Green House Gas (GHG) emissions by 5%
+within 2030 compared to a business as usual scenario. Furthermore, Perspective Plan 2021-2041 and
+Bangladesh Delta Plan 2100 sets out an ambitious plan for sustainable economic growth highlighting
+the need for climate change mitigation and adaptation. Sustainable investment including green areas
+has a key role to play in mobilizing the necessary capital to deliver on the government’s national and
+
+international commitments towards sustainability objectives.
+
+2. In this backdrop, Policy on Green Bond Financing for Banks and FIs has been formulated with
+a view to facilitating green focused sustainable investment of Banks and FIs through on climate
+change mitigation and adaption. The Policy is being issued vide this circular under the authority
+given through Section 45 of Bank Company Act, 1991 and Section 18 (Cha) of Financial Institutions
+Act, 1993.
+
+This circular will come into force with immediate effect.
+
+Yours si ;
+
+(Khondkar Morshed Millat)
+Director (SFD)
+Phone: 9530320
+Email: morshed.millat@bb.org.bd
+
+--- Page 2 ---
+Page | 10
+
+
+
+
+
+
+
+Bangladesh Bank
+
+
+Policy on Green Bond Financing for Banks
+and FIs
+Sustainable Finance Department
+September 2022
+
+--- Page 3 ---
+Page | 11
+
+
+
+Policy on Green Bond Financing for Banks and FIs
+
+
+Team Leader
+
+Khondkar Morshed Millat
+Director, Sustainable Finance Department, Bangladesh Bank
+
+Team Members
+
+Chowdhury Liakat Ali
+Additional Director, Bangladesh Bank
+
+
+Ishrat-I-Mowla
+Joint Director, Bangladesh Bank
+
+Juwel Majumder
+Deputy Director, Bangladesh Bank
+
+--- Page 4 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 1
+
+Table of Contents
+Foreword ................................................................................................................................................... 3
+Acronyms .................................................................................................................................................. 4
+Chapter-1 .................................................................................................................................................. 6
+1. Introduction ...................................................................................................................................... 6
+2. Definition of the Green Bond........................................................................................................... 6
+3. Rationale .......................................................................................................................................... 6
+4. Bangladesh capital market context .................................................................................................. 7
+5. Key National Stakeholders............................................................................................................... 8
+6. Alignment of Green Bond Financing with SDGs and INDC........................................................... 9
+Chapter-2 ................................................................................................................................................ 10
+1. Green Bond Taxonomy .................................................................................................................. 10
+2. Goals .............................................................................................................................................. 10
+3. Objectives of the Green Bond Taxonomy ...................................................................................... 10
+4. Policy Landscape for green finance and green investment ............................................................ 11
+5. Key sectors and policy targets ....................................................................................................... 11
+6. Sector Activity, Definition and Criteria ......................................................................................... 14
+7. Developing Green Bond Financing Policy by Banks/FIs .............................................................. 15
+Chapter-3 ................................................................................................................................................ 16
+1. Proceeds of Green Bond ................................................................................................................ 16
+2. Green Bond Assessment ................................................................................................................ 16
+3. Management of Proceeds ............................................................................................................... 17
+4. Reporting by Bond Issuer .............................................................................................................. 17
+Chapter-4 ................................................................................................................................................ 18
+1. Procedure of Green Bond Issuance by Banks and FIs ................................................................... 18
+2. Appointment of Underwriters, Issue Manager and Trustee ........................................................... 19
+3. Procedure of Green Bond Financing by Banks and FIs ................................................................. 20
+4. Compliance .................................................................................................................................... 20
+5. Eligibility Criteria of Bank and FIs ................................................................................................ 21
+6. Monitoring ..................................................................................................................................... 21
+7. Reporting ........................................................................................................................................ 22
+
+--- Page 5 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 2
+
+8. Disclosure....................................................................................................................................... 22
+9. Rating ............................................................................................................................................. 22
+10. Capacity Building ........................................................................................................................ 22
+Conclusion .............................................................................................................................................. 23
+Annexure ................................................................................................................................................. 24
+Annex-1: Sector Activity, Definition and Criteria for Green Bond ................................................... 24
+1. Low-Carbon Electricity, Heating and Cooling ........................................................................... 24
+2. Green Establishments and the Built Environment ...................................................................... 28
+3. Energy and Resource Efficiency in Industry .............................................................................. 29
+4. Low-Carbon Transport ............................................................................................................... 32
+5. Circular Economy, Wastewater and Water Management ........................................................... 36
+6. Green Agriculture and Land Use ................................................................................................ 42
+7. Climate Resilience and Climate Change Adaptation Measures ................................................. 45
+8. Services Associated with the Low Carbon, Climate Resilient and Green Economy ................. 46
+
+--- Page 6 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 3
+
+Foreword
+
+Government's growth plan, its global commitment to sustainability, and Bangladesh Bank's strategic
+objectives are the primary catalysts those have been taken into due consideration in designing the
+Policy on Green Bond Financing for Banks and FIs. This policy has undergone a lengthy process of
+preparation and consultation with banks and financial institutions as well as development partners. The
+policy contains a taxonomy that came out of mapping of Bangladesh's green investment targets to
+international standards. The objective of the Policy on Green Bond Financing for Banks and FIs is to
+facilitate sustainable investment by banks and financial institutions with a focus on climate change
+mitigation and adaptation, energy and resource efficiency, and a green economy. The strategy efforts
+included a series of consultations with international development partners and Advisory Committee
+comprising representatives from the relevant regulatory bodies, ministries, and other government
+institutions/agencies. It is quite encouraging that the team (Sustainable Finance Department,
+Bangladesh Bank) has received comments/feedback on the draft document from International Finance
+Corporations, Ministry of Agriculture, Ministry of Environment, Forest and Climate Change, Ministry
+of Finance (Financial Institution Division, Finance Division and Economic Relation Division),
+Ministry of Energy, Sustainable and Renewable Energy Development Authority (SREDA), Federation
+of Bangladesh Chambers of Commerce and Industry (FBCCI), Bangladesh Securities and Exchange
+Commission (BSEC), Insurance Development & Regulatory Authority(IDRA), Bangladesh Climate
+Change Trust and the three members of Banks and FIs. The comments have been rigorously analyzed
+and adjusted which seemed justified. We are grateful to the honorable Governor for his directives and
+approval of the strategic decisions. This Policy on Green Bond Financing for Banks and FIs was
+created with a goal of promoting green-focused sustainable investment by Banks and FIs through the
+mitigation and adaptation to climate change while availing every options of green finance. In the long
+run the policy should assist the development of a vibrant green bond market with an impact of growth
+for national economy. It is also anticipated that all the concerned stakeholders, including banks and
+FIs, will be passionate, proactive, and will focus on the Policy on Green Bond Financing for Banks and
+FIs with due consideration in a coordinated and collaborative manner in order to transform any
+potential challenges into opportunities.
+
+
+
+
+
+Abu Farah Md. Nasser
+Deputy Governor &
+The chair of the Advisory Committee
+
+--- Page 7 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 4
+
+Acknowledgment
+
+The formulation process of Policy on Green Bond Financing for Banks and FIs is highly indebted to
+Sheikh Hasina, Honourable Prime Minister of the Government of the People's Republic of Bangladesh
+for her vision and guidance towards sustainability. Honourable Governor of Bangladesh Bank has
+strong leadership over the financial sector sustainability which inspired the team for hunting the scopes
+for the participation of Banks and FIs on Green Bond. The policy is gratified with the technical
+assistance from International Finance Corporation for the preparation of Green Bond Taxonomy.
+
+The Policy on Green Bond Financing for Banks and FIs has come into light with prudent reviews and
+guidance of the Chair and the members of the Advisory Committee, concerned regulatory authorities,
+ministries and other government institutions/agencies.
+
+--- Page 8 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 5
+
+Acronyms
+BREEAM Building Research Establishment
+Environmental Assessment Method
+
+ILO
+International Labour Organization
+BDT
+Bangladeshi Taka
+
+IMO
+International Maritime
+Organization
+FIs
+Financial Institutions
+
+IPCC
+Intergovernmental Panel on
+Climate Change
+BRT
+Bus Rapid Transit
+
+ISCC
+International Sustainability &
+Carbon Certification
+BSEC
+Bangladesh Securities and Exchange
+Commission
+
+ISO
+International Organization for
+Standardization
+BSTI
+Bangladesh Standards and Testing
+Institution
+
+IUCN
+International Union for
+Conservation of Nature
+CASBEE
+Comprehensive Assessment System
+for Built Environment Efficiency
+
+LED
+Light Emitting Diode
+DNSH
+Do No Significant Harm
+
+LEED
+Leadership in Energy and
+Environmental Design
+EDGE
+Excellence in Design for Greater
+Efficiencies
+
+MPA
+Marine Protected Area
+EEDI
+Energy Efficiency Design Index
+
+INDC
+Intended Nationally Determined
+Contribution
+ESG
+Environmental, Social and
+Governance
+
+PEFC
+Programme for the Endorsement
+of Forest Certification
+FSC
+Forest Stewardship Council
+
+PM
+Particulate Matter
+FI
+Financial Institution
+
+PV
+Photovoltaic
+GHG
+Greenhouse Gas
+
+RD&I
+Research, Development and
+Innovation
+GOTS
+Global Organic Textile Standard
+
+RSB
+Roundtable on Sustainable
+Biomaterials
+GSTC
+Global Sustainable Tourism Council
+
+RTRS
+Roundtable on Responsible Soy
+Association
+ICMA
+International Capital Market
+Association
+
+SDG
+Sustainable Development Goals
+IFC
+International Finance Corporation
+
+SFI
+Sustainable Forestry Initiative
+
+
+
+SREDA
+Sustainable And Renewable
+Energy Development Authority
+
+--- Page 9 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 6
+
+Chapter-1
+
+1. Introduction
+
+Global interest in green bonds has been driven by the need to finance projects that will reduce
+greenhouse gas emissions, mitigate environmental degradation and contribute to sustainable
+development. The geographical and demographical landscape of Bangladesh is acutely vulnerable to
+climate change and environmental degradation. Sustainable Development Goals (SDGs), Fifth Year
+Plans, National Sustainable Development Strategy, Perspective Plan 2041 and Delta Plan 2100 of the
+Government of Bangladesh indicate moving towards climate mitigation and adaptation, environmental
+and social protection and promoting all the alternatives of green finance. Bangladesh is one of the
+pioneers whose Central Bank (Bangladesh Bank) issued regulatory policies for Green Banking,
+Guidelines on Environmental and Social Risk Management and Sustainable Finance Policy for Banks
+and FIs. Bangladesh Bank has provided the Policy on Green Bond Financing for Banks and FIs with a
+view to further accelerating the green finance initiatives towards green finance and investments on
+climate resilience, environmental and social safeguard.
+
+2. Definition of the Green Bond
+
+EU defines green bond as a type of fixed-income instrument that is specifically earmarked to raise
+money for climate and environmental projects. These bonds are typically asset-linked and backed by
+the issuing entity's balance sheet, so they usually carry the same credit rating as their issuers‟ other
+debt obligations.
+International Capital Market Association (ICMA) defines Green Bonds as any type of bond instrument
+where the proceeds or an equivalent amount will be exclusively applied to finance or re-finance, in part
+or in full, new and/or existing eligible green projects provided by transparent green credentials.
+IFC defines Green Bonds as the financial instruments that finance green projects and provide investors
+with regular or fixed income payments.
+Bangladesh Securities and Exchange Commission (Debt Securities) Rules, 2021 states „Green bond‟ as
+a debt securities or Islamic Shariah based Securities (IBS) or Asset Backed Securities (ABS), the fund
+or proceeds of which is for investments in such project or company or organization to generate a
+measurable and beneficial climate or environmental impact in addition to financial returns.
+However, Green bond is a long term fixed income securities/instrument to finance or refinance the
+projects or activities which are recognized as green under the Green Bond Taxonomy stipulated in this
+policy.
+
+3. Rationale
+
+In order to meet the SDGs, Bangladesh requires an additional significant investment in infrastructure
+sectors (water, electricity, telecom, ports, airports, rail and road) to match the performance of its best
+performing peers in 2030. Bangladesh‟s Intended Nationally Determined Contribution (INDC)
+prioritizes the energy, transport, and industrial sectors. Bangladesh has ratified an ambitious and
+progressive INDC, which sets out a number of quantified targets to reduce greenhouse gas emissions
+by 5% by 2030 compared to a business as usual scenario or 15% conditional on mobilizing
+international finance and support from international sources. While the priority action sectors are
+
+--- Page 10 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 7
+
+energy, transport and industry, the INDC action plan also lists conditional measures in other sectors
+such as buildings, agriculture, waste, land use and forestry sectors. Furthermore, the Bangladesh Delta
+Plan 2100 sets out an ambitious plan for economic growth to support the country‟s ambition to reach
+upper-middle income status by 2030 while highlighting the need for climate resilience and climate
+change adaptation. Sustainable investment has a key role to play in mobilizing the necessary capital to
+deliver on the policy objectives as national and international commitments on climate and
+sustainability objectives.
+
+4. Bangladesh capital market context
+
+Bangladesh Bank has been at the forefront of driving a financial sector in Bangladesh that supports
+sustainable and green capital flows. Key milestones include:
+ The establishment of Green Banking Policy Guidelines in 2011.
+ The introduction Climate Risk Fund in 2015 and allocation of at least 10% of their Corporate
+Social Responsibility budget by Banks and FIs.
+ A requirement from 2016 that all banks and FIs establish a sustainable finance unit and
+sustainable finance committee.
+ The publication of a Green Bond Market Landscape report in October 2019.
+ The adoption of a Sustainable Finance Policy for Banks and FIs in December 2020.
+
+In recent years BSEC has facilitated a significant increase in finance for green projects in Bangladesh
+and broader capital market development. Since the introduction of the green lending requirements in
+January 2016, green finance from Banks and FIs has increased from around BDT 30 billion per year to
+over BDT 100 billion per year since 2018. More recently, a range of reforms have driven an uptick in
+bond issuances, reaching BDT 90 million in 2020. These recent developments include:
+ The National Board of Revenue reducing stamp duty on BSEC approved bond issuances from
+2% to 0.5%.
+ Development of benchmark yield curve by Bangladesh Bank in November 2020, made up of a
+list of 30 treasury bonds.
+ Listing and trading of government bonds on the major stock exchanges. In November 2020,
+BSEC announced government treasury bonds and bills can be traded through the public
+markets which will allow retail participation in the bill/bond market.
+ The International Finance Corporation issuing its first „Bangla Bond‟ in BDT November 2019,
+raising the equivalent of almost US$ 10 million.
+ The Bangladesh Securities and Exchange Commission (Debt Securities) Rules, 2021 opened
+the scopes for green bond financing.
+ Issuance of SUKUK, first of its kind in Bangladesh has brought an example of development in
+green finance.
+
+--- Page 11 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 8
+
+5. Key National Stakeholders
+
+Respective legislations and regulations as issued by different regulatory agencies must be considered
+in case of issuance and placement in green bond ( please see Figure 1) Bangladesh Bank is mandated
+to formulate monetary policy and regulate financial systems as well as promoting green banking and
+green finance policies. BB is responsible for overseeing the whole banking industry as well as
+non-bank financial institutions in order to avoid irresponsible or fraudulent behaviour.
+Trading rules for securities including green bonds are governed by the Bangladesh Securities and
+Exchange Commission (BSEC). The BSEC's key responsibilities include developing and maintaining
+transparent and efficient securities markets as well as ensuring appropriate securities issuance. The
+Debt Securities Rules control all bond issuances in Bangladesh including Sukuk. However, according
+to The Public debt Act 2022 BB is responsible for the issuance and management of government
+securities. This act also gives the authority to establish and to maintain Depository of Government
+securities by BB.
+
+Figure 1: Key stakeholders in the Bangladesh green bond market
+
+--- Page 12 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 9
+
+6. Alignment of Green Bond Financing with SDGs and INDC
+Sectors of Green Bond Financing under this policy have been aligned with relevant goals and targets of
+SDGs and INDC‟s commitment of Bangladesh in the following manner:
+
+
+
+
+SDGs
+SDGs Targets
+Sectors of Green Bond
+Financing
+INDC Priority
+Area
+
+2.4, 6.5, 7.1, 7.2, 7.a
+Low-carbon
+electricity,
+heating and cooling
+Power
+
+
+7.3, 9.1, 9.2, 9.4,
+12.5
+Green
+establishments
+and
+built environment
+Industry
+and
+Commercial
+Buildings
+
+7.1, 7.2, 7.3, 7.a, 8.4,
+8.8, 9.4, 11.6
+Energy
+and
+resource
+efficiency in industry
+Industry
+(energy-related)
+
+11.2, 14.2
+Low-carbon transportation
+Transport
+
+
+3.9, 6.1, 6.3, 6.4,
+6.5, 12.4, 12.5
+Circular economy, wastewater
+and water management
+Waste and Land use
+
+2.3, 2.4, 15.2, 15.4
+Agriculture and land use
+Agriculture
+(non-energy
+related)
+
+8.9, 14.2, 11.b
+Climate
+Resilience
+and
+Climate Change Adaptation
+Measures
+Land use and land
+use change and
+forestry
+
+7.a, 9.b
+Services Associated with the
+Low
+Carbon,
+Climate
+Resilient and Green Economy
+Industry
+
+--- Page 13 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 10
+
+Chapter-2
+
+1. Green Bond Taxonomy
+
+Green bond taxonomy is a classification of economic activities based on some environment related
+standardized thresholds that are consistent with the goal of creating a low-carbon, climate resilient and
+green economy and that might be financed through issuing green bonds. The green bond taxonomy
+relates the context in Bangladesh and will support the development of the emerging green bond market
+in Bangladesh and hence enable financial flows by banks and FIs towards the country‟s objectives of
+transitioning to a low-carbon climate resilient and environmentally sound economy. Green Bond
+Taxonomy in this regard has been developed for the banks and FIs for issuance of and investment in
+Green Bond (Chapter-2/section-6). The taxonomy lays out a list of actions for investors such as banks
+and financial institutions (FIs) aligned with the country's green investment goals as well as worldwide
+green bond standards and investor expectations. It has been developed on the basis of Bangladesh's
+green investment priorities, international standards, the Climate Bond Standards and a series of
+reviews by an advisory committee comprised of representatives from the concerned regulatory
+authorities, ministries and other government institutions/agencies. It provides banks and financial
+institutions with a list of nationally appropriate projects and activities that meet the required criteria for
+ensuring their climate and/or environmental credibility acknowledging the principle of shared but
+differentiated responsibilities and capabilities.
+
+2. Goals
+
+The taxonomy will serve two purposes: (1) it will assist issuers in identifying suitable projects and
+activities for which green bond proceeds can be used and (2) it will aid in communicating the green
+credentials of a green bond issuance and prospectus to potential investors. It will ensure consistency by
+establishing a strong and transparent framework that is in line with the country's low-carbon
+development, climate resilience, environmental and social sustainability goals.
+
+3. Objectives of the Green Bond Taxonomy
+
+For issuers such as banks and FIs, it describes green
+investment priorities that could be supported by the
+proceeds of a green bond. Issuance of green bond is
+also a good business case yielding good return. The
+taxonomy provides a comprehensive list of projects
+and activities that could be supported by a green
+bond, and which corresponds to the significant green
+investment priorities and opportunities in the coming
+decades. The taxonomy both (1) helps issuers
+identify eligible projects and activities where
+proceeds of green bonds can be used, and (2) helps
+communicate the underlying green credentials of a
+green bond issuance and prospectus for potential
+investors. It provides consistency with a robust
+transparent framework, aligned to the country‟s low-
+Figure 2: Objectives supported by the
+Bangladesh Green Bond Taxonomy
+
+--- Page 14 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 11
+
+carbon development, climate resilience and environmental sustainability objectives.
+
+For investors such as banks and FIs, it sets out a list of activities that entitle the nation‟s green
+investment needs and priorities with international green bond standards and investor expectations. The
+taxonomy has been developed based on a mapping of Bangladesh‟s green investment priorities to
+international standards and in particular the ICMA Green Bond Principles, the Climate Bonds
+Standards and Certification requirements and series of reviews by advisory committee represented by
+concerned government institutions. It provides banks and FIs with a list of nationally appropriate
+projects and activities meeting clear criteria to ensure their climate and/or environmental credibility
+while recognising the principle of common but differentiated responsibilities and respective
+capabilities. The taxonomy aims to provide clarity and transparency that their capital will be allocated
+to genuinely green projects and activities, making it easier for them to commit capital to bonds whose
+proceeds are aligned with this taxonomy, with lesser transaction costs.
+
+4. Policy Landscape for green finance and green investment
+
+Sustainable Finance Policy published by Bangladesh Bank in December 2020 supports this Green
+Bond Taxonomy. The Sustainable Finance Policy is an overarching strategy document covering issues
+such as green financial disclosure, carbon foot-printing methodologies, green and sustainable finance
+definitions etc. Importantly, it also includes clearly defined exclusion criteria for eligible projects,
+which apply equally to the activities set out in this Green Bond Taxonomy. The specific role of this
+Green Bond Taxonomy is to focus on establishing a list of activities appropriate for green bond
+finance; that is activities that (1) align to national green and low-carbon transition priorities, and (2)
+meet international green standards. The Sustainable Finance Policy covers 68
+green
+products/initiatives/projects for banks and FIs.
+
+BSEC enacted the Bangladesh Securities and Exchange Commission (Debt Securities) Rules, 2021
+which includes a list of eligible sectors for green bond financing and additional requirements for
+issuance of green bond under private offer or public issue or offer. Both the existing green product list
+in sustainable finance policy and the list of eligible sectors of BSEC rules 2021 have been addressed in
+the Policy on Green Bond Financing for Banks and FIs.
+
+5. Key sectors and policy targets
+
+The taxonomy has been structured into 8 sectors. The sectors have been informed by current
+Bangladesh Bank product list and the eligible sectors provided by BSEC, while aligning to Bangladesh
+policy targets and international practice to support investor familiarity.
+
+--- Page 15 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 12
+
+Figure 3: Eight sectors covered by the Bangladesh Green Bond Taxonomy
+
+
+Each of these sectors is important in the Bangladeshi economy and has an important role to play in
+meeting Bangladesh‟s policy targets for green and resilient growth. As a rapidly developing economy,
+Bangladesh has set ambitious policy goals covering all six of the environmental objectives specified
+above in many of sectors identified in the Green Bond taxonomy. Table 1 provides more detail on the
+importance of each sector in the taxonomy to Bangladesh and some of the relevant policy targets.
+
+
+Table-1 Policy targets underpinning the Green Bond Taxonomy Sectors
+
+Sector
+Importance of the sector and selected policy targets
+Low-carbon electricity,
+heating and cooling
+• Bangladesh has access to a range of renewable energy resources
+including solar, wind, hydro and geothermal energy. The country has
+already achieved considerable success in using solar energy to increase
+energy access and support agricultural communities.
+• The 2100 Delta Plan sets a target that 30% of installed power capacity
+should be from renewable sources by 2041 while future versions of the
+New Power Sector Master Plan may lead to additional targets being
+set.
+Green establishments and
+built environment
+• Previous market assessments identify a $110billion investment
+opportunity in green establishments in Bangladesh with rapid growth
+in green building activity since 2015.
+• The Energy Efficiency and Conservation Master Plan targets a 20%
+improvement in primary energy consumption per unit of GDP between
+2014 and 2030, with important contributions from green buildings and
+establishments.
+
+--- Page 16 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 13
+
+Sector
+Importance of the sector and selected policy targets
+Energy and resource
+efficiency in industry
+• The share of industry value added in GDP has risen from 22% in 2000
+to 30% by 2019, providing significant market opportunities for energy
+and resource efficient industrial applications. Key sectors include
+textiles (including jute) and leather, as well as brick, paper and cement
+manufacturing
+• As above, the Energy Efficiency and Conservation Master Plan targets
+a 20% improvement in primary energy consumption per unit of GDP
+between 2014 and 2030.
+Low-carbon
+transportation
+• Hybrid vehicles have become increasingly popular in Bangladesh and
+electric vehicles are expected to penetrate the market in the near future,
+mass transit schemes are planned in Dhaka and Chittagong, and further
+potential for inter-city rail links.
+• The 2041 Perspective Plan targets a major shift of freight and
+passenger transport away from roads by 2041, and for all major cities
+to have urban mass transit schemes by 2041. The 2100 Delta Plan
+targets modernizing 24 inland ports and maintaining the navigability of
+88 river routes.
+Circular economy,
+wastewater and water
+management
+• Bangladesh‟s extreme flood risk makes water and wastewater
+management exceptionally important for the country.
+• Looking forward, the 2041 Perspective Plan targets an increase of 42%
+to 100% (urban households) and 0 to 50% (rural households) of
+households with water-sealed sanitary toilets by 2041. It also envisages
+that all urban water bodies comply with water quality standards by
+2041.
+• The 2100 Delta Plan establishes flood risk management and fresh
+water National Investment Strategies.
+Agriculture and land use
+• Despite a steady decline, agriculture is still estimated to account for
+around 38% of total employment in Bangladesh, making it the single
+most important sector in terms of employment.
+• The 2041 Perspective Plan recognizes the importance of increased
+conservation agriculture, organic farming and urban agriculture as well
+as enhanced irrigation efficiency using digital technology and drip
+irrigation.
+• The 2041 Perspective Plan also envisages an increase in forest cover
+from 14.1% to 15.2% by 2025 and 20% by 2040.
+Activities to enhance
+climate resilience not
+elsewhere classified
+• Bangladesh has been identified as one of top 10 countries in the world
+most affected by extreme weather events between 2000 and 2019
+according to the Global Climate Risk index.
+• The National Plan for Disaster Management identifies 34 core targets
+to help improve the country‟s disaster preparedness and disaster
+management capacity.
+
+--- Page 17 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 14
+
+Sector
+Importance of the sector and selected policy targets
+Services to support the
+low-carbon, climate-
+resilient and green
+economy
+• Services account for more than half of Bangladesh‟s GDP.
+• Efficiency service delivery can support delivery of all environmental
+objectives across all of the sectors above.
+
+
+6. Sector Activity, Definition and Criteria
+
+The taxonomy describes eligible activities and eligibility criteria (details are included in Annex-1)
+where appropriate, to deliver on its primary environmental objective. These criteria are used to ensure
+that the taxonomy drives a high standard of environmental ambition across the six environmental
+objectives and that any concerns regarding „green washing‟ are avoided. At the same time, they are
+intended to take account of the specifics of undertaking activities in the country context. The nature of
+some activities means that there are no direct criteria that would need to be met as the activities are
+inherently consistent with Bangladesh‟s green ambitions; in such cases the taxonomy records the direct
+criteria that need to be met as „none‟.
+In addition, there is a possibility that some activities might support one environmental objective but
+lead to harm against other environmental objectives. In such cases, the overall environmental
+credibility of the activity might be called into question. To avoid this risk would require compliance
+with a series of generic „do no significant harm‟ (DNSH) criteria. These criteria are that the activity
+should:
+1. Only proceed when an Environmental and Social Due Diligence (ESDD) assessment is undertaken,
+and conditions complied with, and an Environmental Clearance Certificate acquired.
+2. Meet the relevant standards relating to air quality, water quality, noise, emissions from motor
+vehicles or mechanized vessels, odour, sewage discharge, waste from industrial units, gaseous
+emissions, industrial effluent and emissions.
+3. Only proceed after a climate risk vulnerability screening and/or assessment has been undertaken
+and any requirements to improve climate resilience have been incorporated.
+4. Identify and manage issues around water quality and water stress in consultation with stakeholders.
+5. Only proceed once a waste management plan has been developed and implemented, in accordance
+with the waste hierarchy.
+All criteria related to emissions/energy use reductions or thresholds would need to be undertaken using
+a recognized methodology by an independent third party. Except where specified, emissions intensities
+of products and services should be measured on a lifecycle basis. This measures the emissions
+associated with three phases of the product lifecycle:
+ Upstream: the emissions associated with material acquisition and pre-processing of materials
+ Production: the emissions associated with producing the good or service
+ Downstream: the emissions associated with distribution and storage, use and end-of-life
+Lifecycle emissions assessments should be based on ISO 14067 or the GHG Protocol Product Life
+cycle Accounting and Reporting Standard, or other methodology approved by the concerned ministry
+of the government.
+
+--- Page 18 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 15
+
+7. Developing Green Bond Financing Policy by Banks/FIs
+
+Banks/FIs will develop their own Green Bond Financing Policy which must be approved by its
+competent authority. Board‟s approval will be required upon the RMC‟s approach in case of all
+scheduled commercial banks. Regional Office or MANCOM‟s approval is required for foreign banks
+operating in Bangladesh. Green Bond Financing Policy of a Bank/FI must be in conformity with the
+Policy on Green Bond Financing for Banks and FIs as well as Bangladesh Securities and Exchange
+Commission (Investment Sukuk) Rules, 2019 and relevant Islamic Shariah principles, Bangladesh
+Securities and Exchange Commission (Debt Securities) Rules, 2021 of BSEC including its other
+concerned policy guidelines.
+
+--- Page 19 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 16
+
+Chapter-3
+
+1. Proceeds of Green Bond
+
+The utilization of the proceeds of the bond for Green projects which should be appropriately aligned
+with the described sector activities. Proceeds or fund raised by issuance of green bond shall be invested
+in such project, company or organization which is engaged in activities with intension to generate a
+measurable and beneficial environment and climate impact for the society in addition to financial
+returns as justified with criteria with respect to particular defined activity mentioned in the
+Chapter-2/section-6 of this policy. A summary report on benefits of environmental and climate impact
+as well as social benefits will be included in the Information Memorandum.
+
+2. Green Bond Assessment
+
+Assessment by the expert verifiers and certification provides investors with immediate and credible
+assurance that the green bond achieves recognized standard. The standards of Green Bond Initiatives
+set following five step certification process:
+
+2.1. Preparation
+
+In the first instance, the issuer will need to determine how it will use the proceeds of the bond issuance.
+In particular, what „green‟ assets will be the bond be used to finance or refinance. For certification and
+verification, these will need to conform to defined sector standards. The issuer may also prepare a
+Green bond framework which explains to investors how the proceeds will be spent and how the bond
+aligns with the issuer‟s business strategy.
+
+2.2. Pre-issuance Verification
+
+A pre-issuance review process includes review of project evaluation and selection criteria including
+project activity eligibility verification for Green Bond financing. This gives investors a confidence that
+robust processes and policies are in place for the issuer to allocate proceeds to eligible green projects.
+The green projects should be properly assessed, quantified and verified by an eligible expert (for
+example the expert‟s eligibility as approved by BSEC).
+
+2.3. Certification
+
+An independent third party certifier, for reviewing/certifying the pre-issuance process including project
+evaluation and selection criteria including project activity eligibility verification for Green Bond
+financing will lend credibility to the issuance of Green Bonds as well as financing in Green Bonds.
+BSEC is the competent authority to set the eligibility criteria for third party certification of Green
+Bond.
+
+--- Page 20 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 17
+
+2.4. Post-issuance Verification
+
+After the bond has been issued and the bond proceeds are allocated to the underlying assets, the issuer
+needs to update information on the bond to clearly highlight and agree any variance to the use of
+proceeds after the bond issuance. The external verifier confirms that the management and allocation of
+proceeds continue to meet the certification requirements.
+
+
+3. Management of Proceeds
+
+The proceeds of the Green Bond should be credited to a sub-account, moved to a sub-portfolio or
+otherwise tracked by the issuer in an appropriate manner and attested to by the issuer in an approved
+internal process linked to the issuer‟s lending and investment operations for eligible Green Projects.
+BSEC prescribes the proceeds or fund of the green bond shall be placed in a separate account (escrow
+or specified bank account for corporate company) and utilization of such proceeds or fund shall also be
+made from this account.
+
+4. Reporting by Bond Issuer
+
+The issuer should provide periodical reports to BSEC (half yearly/annually as prescribed by BSEC)
+throughout the term of the bond and ideally publish these. The purpose of these short reports is to
+provide transparent confirmation and communication that the bond continues to meet the standards and
+should include particular environmental impact indicators.
+
+--- Page 21 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 18
+
+Chapter-4
+
+1. Procedure of Green Bond Issuance by Banks and FIs
+
+Banks/FIs may issue green bond (being approved by the Board of directors) to raise its capital with a
+view to financing the proceeds in environmentally eligible projects. The eligible projects will be
+aligned with the sector activities definition and specified criteria mentioned in the Chapter-2/Section-6
+of this policy. Apart from this eligible projects alignment Banks/FIs will be obliged to comply all the
+regulatory compliance set by BSEC regarding the issuance, verification, certification, proceeds
+management and other subsequent norms. Green Bonds issued by bank/FI will be treated as “Green
+equity”.
+Figure 4: Green Bond Issuance Process flow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.1. Preparation
+The issuing banks/FIs will need to determine how it will use the proceeds of the bond issuance and
+what „green‟ assets will be the bond be used to finance or refinance. The issuing bank/FI will submit
+required documents, verification and certification as per BSEC Rules time to time enacted. A Green
+bond framework explaining the procedure from issuance, fund management, proceeds utilization to
+bond settlement reflect issuer's overall business plan.
+
+--- Page 22 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 19
+
+1.2. Fund Management and Proceeds Utilization
+The proceeds or funds obtained through the issuance of green bonds will be invested in
+environment-friendly projects. Eligible projects/activities may also cover social co-benefits where the
+issuer determines and discloses the use of proceeds based on the underlying projects' primary
+objectives.
+The steps under fund management and proceeds utilizations are as follows:
+i. Account Management: The proceeds or fund of the green bond shall be placed in separate
+account and utilization of such proceeds or fund shall also be made from this account. The
+issuing bank/FI will testify through in an approved internal procedure related to lending and
+investment activities for eligible projects/activities.
+ii. Proceeds Utilization: In compliance with Bangladesh Securities and Exchange Commission
+(Debt Securities) Rules, 2021, the proceeds or funds raised through the issuance of a green
+bond shall be invested in a project/activities having a goal of generating a measurable and
+positive environmental and climate impact for society, in addition to financial returns as
+justified by criteria with respect to a specific defined activities. Banks/FIs will determine
+the project/activities as stipulated in the Green Bond Taxonomy.
+iii. Settlement of the Bond: According to Bangladesh Securities Exchange Commission (Debt
+securities) Rule 2021 the bank/FI will repay to the bond holder as per repayment schedule
+mentioned in the prospectus/information memorandum.
+
+2. Appointment of Underwriters, Issue Manager and Trustee
+
+The use of proceeds and the method for managing the funds must be disclosed to investors in the
+prospectus prior to the issuing of a Green Bond. Banks/FIs will prepare the prospectus and appoint the
+underwriters and issue manager as per Bangladesh Securities Exchange Commission (Debt securities)
+Rule 2021. Banks/FIs will also prepare the trust deed and appoint the trustee as per Bangladesh
+Securities Exchange Commission (Debt securities) Rule 2021.
+
+--- Page 23 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 20
+
+3. Procedure of Green Bond Financing by Banks and FIs
+
+Banks/FIs may invest in green bond (being approved by the Board of directors) authorized by BSEC
+regarding the issuance, verification, certification, proceeds management and other subsequent norms.
+Banks/FIs will ensure the particular proceeds of the green bond should be in alignment with the sector
+activities definition and specified criteria mentioned in the Chapter-2/Section-6 of this policy. The
+green bond tenor should not exceed 15 (fifteen) years maturity and should be redeemable in nature.
+
+Figure 5: Green Bond Financing Process flow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Compliance
+The banks/FIs shall adhere to Bangladesh Securities and Exchange Commission (Debt Securities)
+Rules, 2021 in case of issuance of Green Bond. The issuer shall comply ruling regarding Approval of
+Information Memorandum and Publication of information in Media, obligor, issue size, coupon rate,
+Use of Proceeds, Asset Backed Securities, Secured Debt Instrument, Special Purpose Vehicle,
+Unsecured Debt Instrument, Conversion or Exchange Options, Consent fee, Subscription procedure,
+Arbitration and Contravention.
+All general conditions under Bangladesh Securities and Exchange Commission (Debt Securities)
+Rules, 2021 shall be applicable to issuance of green bond as well as Shariah Based Islamic Green
+Bond/Sukuk.
+
+--- Page 24 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 21
+
+5. Eligibility Criteria of Bank and FIs
+
+5.1. Issuing Green Bond
+a. NPL must be less than 10% (Excluding State Owned Commercial Banks);
+b. Minimum Capital Adequacy including CCB (Capital Conservation Buffer) shall not be less
+than the prescribed ratio for the last eight consecutive periods,
+c. No provision Shortfall for the last two years;
+d. No shortfall in maintaining Cash Reserve Requirement (CRR) and Statutory Liquidity
+Requirement (SLR)for the last two years;
+e. CAMELS rating shall not be less than 2;
+f. Minimum acceptable rating grade 2 of BB or equivalent for long term;
+g. Minimum acceptable rating grade S2 of BB or equivalent for short term;
+h. Must be Nonconvertible.
+
+5.2. Financing in Green Bond
+
+a. Minimum Investment Grade of the instrument shall be equivalent to:
+i. Long term- BB rating Grade 2;
+ii. Short term- BB Rating Grade S3;
+b. Not more than 5% of the sum of paid-up capital, statutory reserve, retained earnings and Share
+premium account as time to time prescribed by BB;
+c. Single Borrower Exposure Limit shall be maintained as prescribed by BB;
+d. CIB status of the Borrower shall be verified through CIB database of BB;
+e. The instrument must be nonconvertible and also non perpetual.
+
+6. Monitoring
+
+Monitoring must move on in a structured manner immediately after the bond being issued or financed
+by the banks and FIs for the maintenance of the defined criteria proceeds management and utilization.
+Screening on Environmental, Social and Governance issue is essential for the review of a green bond
+with respect to sustainability but the permanence in sustainability will only be ensured if stricter
+monitoring in both offsite and onsite manner is carried on with regular intervention.
+
+Banks/FIs will track and mitigate risks which may arise from the development or operation of
+green projects.
+ii.
+Monitoring for valid ESG permits or licenses
+iii.
+Any fines and penalties for non-compliance with ESG regulations
+iv.
+Recent reports from the relevant regulator or inspection authority confirming compliance with
+specified laws
+Emission level within the permissible limit
+vi.
+ESG occurrences including major accidents or incidents associated with a project‟s operations
+such as worker injuries and spills
+vii.
+Complaints submitted by the stakeholders regarding project‟s operation
+
+--- Page 25 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 22
+
+7. Reporting
+
+Banks/FIs will report to Bangladesh Bank on quarterly basis regarding list of the projects to which
+green bond proceeds have been assigned or being financed, a brief description of the projects, the
+amounts allocated and estimated effect. Banks/FIs will also submit any other reports as and when
+required by Bangladesh Bank.
+
+8. Disclosure
+
+Banks and FIs should disclose the green bond initiatives/practices time to time taken by them in their
+respective websites. The following disclosure should be made and updated by all Banks and FIs:
+Updated and detailed information regarding Banks‟/FIs‟ green bond exposure and
+performances of major green projects should be disclosed.
+ii.
+Banks/FIs shall keep their annual report and websites updated with the disclosures on green
+bond exposure.
+iii.
+Disclosure on how unforeseen deviations from compliance with eligibility criteria will be dealt
+with, to enhance integrity and so investor comfort. For instance, operational assets continuously
+failing to fulfil any of the qualifying criteria over a specified period will be removed from the
+portfolio and substituted with similar green assets of equivalent or better credit quality.
+9. Rating
+
+Banks and FIs are being rated once a year under sustainability rating considering their performance on
+environmental, social and governance attributes especially their policies and performance. This Rating
+includes their performance on green investment component under sustainable finance indicator where
+issuance of green bond will be considered as green equity and financing in green bond as green
+investment.
+
+10. Capacity Building
+
+Awareness and capacity building for green bond financing, including green goods, projects, and
+activities, will run concurrently with marketing for green and sustainable investments. For the
+following capacity building initiatives, banks and FIs will organize events/programs involving all
+management level executives/officials (head office, zonal/regional office, branches, units).
+Creating a time-bound action plan that includes:
+
+1. Dissemination of information and raising awareness
+
+2. Knowledge exchange session and training/seminar/workshop
+
+3. Keeping track of the training schedule
+
+4. Creating a Knowledge Hub
+
+
+5. Evaluation of project/initiative contributions to the environment, society, and economy
+
+6. Evaluation of the governance issue
+
+7. Examining the bank's/internal FI's and regulatory targets for achievement/attainment
+
+--- Page 26 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 23
+
+Conclusion
+
+It is evident that government of Bangladesh is making untiring efforts to contribute to inclusive
+sustainable green growth and towards attaining sustainability. Bangladesh is particularly vulnerable to
+climate change and environmental degradation due to its population density and geographical location.
+The Government of Bangladesh's Sustainable Development Goals (SDGs), Fifth Year Plans, National
+Sustainable Development Strategy, Perspective Plan 2041, and Delta Plan 2100 all point toward
+advancing climate mitigation and adaptation, environmental and social protection, and promoting all
+available options of green finance. Nevertheless, Green bonds, which are relatively new to the market,
+is a potential financial instrument in an echo system. The Policy on Green Bond Financing for Banks
+and FIs will facilitate drawing a considerable amount of domestic and foreign capital raised for
+building confidence and trust for the bond market. Moreover, Bangladesh will have to establish a
+vibrant green bond market in view of the expansion of the underlying economy and the country's
+imminent graduation from the LDC category. After the adoption of the Policy on Green Bond
+Financing for Banks and FIs, the major ecosystem participants will be able to quickly develop a
+vibrant green bond market that will make a significant contribution to the economy of Bangladesh.
+
+--- Page 27 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 24
+
+Annexure
+
+Annex-1: Sector Activity, Definition and Criteria for Green Bond
+
+The tables below present the taxonomy of green activities in of the eight sectors.
+
+1. Low-Carbon Electricity, Heating and Cooling
+
+The taxonomy focuses on those energy technologies that can both help meet Bangladesh‟s energy
+demand and are domestically and internationally recognized as supporting green objectives.
+
+Activity
+Definition
+Criteria
+Generation of
+electricity using
+solar PV
+technology
+Construction or operation of facilities that
+generate electricity from solar power
+including solar minigrids, solar microgrids,
+solar nanogrids, solar picogrids, solar parks,
+Rooftop Solar Systems, Solar Irrigation
+Systems.
+No more than [15]% of electricity
+generated from non-renewable sources
+(where relevant). AND For rooftop
+solar PVs (as per Net Metering
+Guideline), the minimum threshold is
+10% of total electricity.
+All equipment must meet national solar
+equipment standards as defined by the
+Bangladesh Standards and Testing
+Institution (summary available on the
+SREDA website).
+Wind powered
+electricity,
+heating and
+cooling
+Construction or operation of facilities that
+generate electricity, heating or cooling from
+wind power
+Wind turbines where maximum
+emission level 20 g/kwh Co2 emission
+OR Activity delivers [80]% GHG
+emission reduction relative to fossil fuel
+comparator on a lifecycle basis.
+Hydropower
+electricity,
+heating and
+cooling
+Construction or operation of facilities that
+produce electricity, heating or cooling from
+hydropower, including mixed pumped
+hydropower storage
+Activity delivers [80]% emission
+reduction relative to fossil fuel
+comparator.
+AND must perform an assessment,
+based on recognized best practice
+guidelines of environmental and social
+risks and incorporate measures to
+address risks. International Hydropower
+Association‟s (IHA) Hydropower
+Sustainability ESG Gap Analysis tool
+can be a ready reference.
+Ocean powered
+electricity,
+heating and
+cooling
+Construction or operation of facilities that
+produce electricity, heating or cooling
+through tidal or wave generation facility or
+the use of ocean thermals.
+Activity delivers [80]% GHG emission
+reduction relative to fossil fuel
+comparator on a lifecycle basis.
+
+--- Page 28 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 25
+
+Activity
+Definition
+Criteria
+Bio energy for
+electricity,
+heating and
+cooling
+Construction and operation of facilities that
+produce electricity, heating or cooling from
+bio energy (Biomass, Biogas and Biofuels)
+Activity delivers [80]% emission
+reduction relative to fossil fuel
+comparator.
+Facilities use feedstock which met the
+criteria associated with the manufacture
+of the feedstock.
+Hybrid
+renewable
+powered
+electricity,
+heating and
+cooling
+Construction or operation of facilities that
+produce electricity, heating or cooling
+through a combination of solar PV, wind
+power, hydropower, ocean power and
+bioenergy
+Activity delivers [80]% GHG emission
+reduction relative to fossil fuel
+comparator on a lifecycle basis; AND
+The criteria in this taxonomy associated
+with each of the individual renewable
+energy resources used within the hybrid
+facility are satisfied.
+Manufacture of
+biomass (and
+biogas not
+covered
+elsewhere)
+Manufacture of biomass (and biogas not
+covered elsewhere)
+Feedstock production has been certified
+under one of the following standards:
+RSB, RTRS, FSC or ISCC Plus; AND
+For facilities producing biomass as a
+final product, the subsequent use of that
+biomass will deliver an [80%] reduction
+in GHGs; AND
+Any anaerobic digestion facilities have
+a methane leakage monitoring plan and
+all digestate is used for fertiliser use
+Solar thermal
+heat
+Construction of operation of facilities that
+produce heat/cool from solar thermal
+Automatically eligible
+Waste heat
+recovery
+Construction or operation of facilities that
+produce heat/cool from waste heat
+Automatically eligible
+10
+Manufacture of
+renewable energy
+technologies
+Manufacture of products, key components
+and machinery that are essential for
+renewable energy technologies including
+hydropower, concentrated solar power, solar
+PV, solar heaters for water or space heating,
+solar cooling systems, solar cookers, solar
+pumps, wind energy, ocean energy,
+bioenergy (that meets the relevant criteria)
+and hydrogen production (that meets
+relevant criteria)
+Manufacture must be of equipment that
+meets mandatory Bangladeshi standards
+as defined by the Bangladeshi
+Standards and Testing Institute (BSTI)
+and available on the SREDA website
+
+--- Page 29 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 26
+
+Activity
+Definition
+Criteria
+11
+Installation etc.
+of renewable
+energy
+technologies
+(excluding solar
+pumps)
+Installation, maintenance and repair of
+renewable energy technologies on site
+including rooftop solar and solar home
+systems and ancillary technical equipment,
+solar hot water panels and ancillary
+technical equipment, wind turbines and
+ancillary technical equipment, thermal or
+electric energy storage units, micro-
+Combined Heat and Power, solar cooking
+appliances
+Assembly must be of equipment that
+meets mandatory Bangladeshi standards
+as defined by the Bangladeshi
+Standards and Testing Institute (BSTI)
+and available on the SREDA website.
+12 Solar pumps,
+irrigation system
+Installation, maintenance and repair of solar
+pumps
+Must meet national standards, for
+example must have capacity to meet at
+least 5 lakh to 6 lakh litres of water
+extraction, AND have solar panel
+capacity: of at least 8 KWp per pump,
+and comply with the net metering
+guidelines for grid integration where
+relevant.
+
+--- Page 30 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 27
+
+Activity
+Definition
+Criteria
+13
+Electricity
+transmission and
+distribution
+Construction and operation of transmission,
+distribution systems that transport
+electricity on extra high-voltage, high-
+voltage, medium-voltage and low-voltage
+distribution Systems.
+
+Construction and operation of
+interconnections that transport electricity
+between separate systems
+Establishes a direct connection to any
+renewable electricity generation
+technology identified elsewhere in the
+taxonomy; OR
+Facilitates the electrification of the
+transport fleet; OR
+the main objective is an increase in
+generation of use of renewable
+electricity generation that is or is
+expected to be consistent with the
+taxonomy; OR
+enables the development or integration
+of renewable energy sources; OR
+activity/equipment allows for carrying
+information to users for remotely acting
+on consumption; OR
+activity/equipment allows for exchange
+of renewable electricity between users
+OR
+more than [67%] of newly connected
+generation is below [100gCO2e/kWh]
+over a rolling five year period on a
+lifecycle basis; OR
+the average grid emissions factor on a
+lifecycle basis is below
+[100gCO2e/kWh] over a rolling five
+year period.
+14
+Electricity and
+thermal energy
+storage
+Construction and operation of facilities that
+store electricity or thermal energy and return
+it at a later time, in the form of electricity or
+other vectors (except hydropower pumped
+storage which is covered elsewhere)
+Automatically eligible
+15
+Nuclear power
+plants electricity
+generation
+
+--- Page 31 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 28
+
+2. Green Establishments and the Built Environment
+
+Activity
+Definition
+Criteria
+16
+Construction of
+new green
+buildings
+Development of building projects for
+residential and non-residential buildings
+by bringing together financial, technical
+and physical means to realise the building
+projects for later sale as well as the
+construction of complete residential or
+non-residential buildings, on own account
+for sale or on a fee or contract basis.
+SREDA Building Energy Efficiency and
+Environment Rating exceeds [100] points;
+OR
+Buildings are EDGE certified; OR
+LEED certified to [gold or platinum]
+standard; OR
+BREEAM certified to [Very good]
+standard; OR
+Green Rating for Integrated Habitat
+Assessment of [86 points or more]; OR
+CASBEE Rating of [4 stars] or more, OR
+GRIHA certification
+17 Renovation of
+buildings
+Renovation of existing residential or non-
+residential buildings by bringing together
+financial, technical and physical means to
+realise the building projects on own
+account for sale or on a fee or contract
+basis.
+Renovation leads to the buildings
+obtaining the standard specified in relation
+to 'Construction of new green buildings';
+OR
+Renovation lead to a [20%] reduction in
+lifecycle GHG emissions; AND (in both
+cases)
+Any removal of existing building materials
+that contain asbestos is carried out by
+trained personnel; Bangladesh National
+Building Code to be referred in this
+regard.
+18
+Manufacture
+and/or assembly
+of green
+building
+products
+Manufacture and/or assembly of green
+building/energy efficiency materials,
+equipment, products and appliances for
+deployment in the construction or
+operation of buildings
+Products being manufactured reach the
+[top] standard in SREDA's energy
+efficiency labelling standards for ceiling
+fans, LED lamps, air conditioners and
+refrigerators; OR
+Manufacturing air conditioning systems,
+lifts/escalators, fresh air supply and
+mechanical vents, lighting, sensors,
+automated systems, ceiling fans, rainwater
+collection and use systems, motors, water
+fixtures, (including sensor water taps),
+glass and windows, and insulation
+materials meet the domestic regulatory
+standards OR
+Manufacturing facade and roofing
+elements with a solar shading or solar
+control function, including those that
+support the growing of vegetation;
+
+--- Page 32 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 29
+
+19 Installation of
+EE equipment
+Individual renovation measures consisting
+in installation, maintenance or repair of
+energy efficiency equipment
+Installation is of a product that meets the
+standards for manufacturing specified in
+„Manufacture of green building product‟
+or „Manufacture of energy efficiency
+products‟; AND
+Building components and materials do not
+contain asbestos and any removal of
+existing building materials that contain
+asbestos is carried out by trained
+personnel.
+
+3. Energy and Resource Efficiency in Industry
+
+Activity
+Definition
+Criteria
+20 Industrial energy
+efficiency
+Investment in and operation of
+energy efficiency or other process
+improvements associated with
+emission reductions in existing
+industrial facilities through the
+installation of more efficient
+equipment, changes in processes and
+management, reduction in heat losses
+and/or utilization of residual heat and
+pressure, including through new
+motors, pumps, fans, etc.
+
+Lifecycle GHG emissions and/or energy
+use reduced by [20]% over the lifetime of
+the change
+
+21 Co-generation plants
+Construction and/or operation of co-
+generation plant that generate
+electricity as well as heating or
+cooling
+Lifecycle impacts for producing 1 kWh of
+electricity from the cogeneration facilities
+are lower than [100] gCO2e
+22
+Manufacturing and/or
+assembly of energy
+efficient
+product/technology
+Manufacturing and/or assembly of
+products that, when applied other
+sectors of the Bangladeshi economy,
+will allow significant lifecycle GHG
+emission reductions compared to
+standard market practice. This
+includes auto-sensor power switch
+assembly plant, energy efficient cook
+stove manufacture, improved rice
+parboilers, and LED bulb/tube
+manufacturing, LED Bulb Panels,
+Solar PV, Energy Efficient Fan,
+Energy efficient AC, Fridges, Ovens
+manufacturing and Sensor water taps
+The energy efficiency products deliver
+lifecycle GHG emission reduction or
+applicable for the product that satisfy
+Minimum Energy Performance Standard
+if applicable.
+
+--- Page 33 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 30
+
+Activity
+Definition
+Criteria
+23 Cement
+manufacturing
+Construction or upgrade and
+operation of manufacturing facilities
+for the manufacture of cement
+clinker, cement or alternative binders
+For clinker production, lifecycle
+emissions intensity is less than
+[0.766tCO2e/tonne clinker];
+For combined clinker and cement
+production, lifecycle emissions intensity
+is less than [1tCO2e/t cement]; AND
+An ISO-standard environmental
+management system is in operation; AND
+The facility does not use refuse derived
+fuels; AND production facilities
+incorporating dry process, efficient point
+and non-point air pollution control
+systems.
+24 Lime manufacturing
+Construction or upgrade and
+operation of manufacturing facilities
+for the manufacture of lime or dolime
+Lifecycle emissions intensity for lime
+production is less than
+[1.25tCO2e/tonne]or for do lime the
+lifecycle emissions intensity is less than
+[1.4 tCO2e/tonne]; AND
+An ISO-standard environmental
+management system is in operation; AND
+The facility does not use refuse derived
+fuels
+25
+Textile (including
+jute) and leather
+manufacturing
+Construction or upgrade and
+operation of manufacturing facilities
+for the manufacture of textiles
+including leather; AND Production
+facilities incorporating high resource
+productivity, improved product
+safety, reduced air and water
+emission and sufficient occupational
+health and safety measures
+The facility incorporates high resource
+productivity, high product safety, low air
+and water emissions and robust
+occupational health and safety measures
+as certified by the Leather Working
+Group, the Sustainable Textile & Leather
+Production (STeP) by OEKO- TEX, the
+RMG Sustainability Council, the Global
+Organic Textile Standard (GOTS) or any
+certifying organisation approved by the
+DOE; AND BSTI Standard must be
+compliant.
+AND Any other compliance certificates
+as approved or acknowledged by the
+RMG Sustainability Council Bangladesh.
+26 Pulp and paper
+manufacturing
+Construction or upgrade and
+operation of facilities for the
+manufacture of pulp, paper and paper
+products
+Facilities have received FSC, PEFC or
+SFI certification; AND Production
+facilities incorporating efficient pulping
+process, bio refineries and use of
+recyclers;
+AND installed 100% black liquor boiler
+& de-inking plant.
+
+--- Page 34 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 31
+
+Activity
+Definition
+Criteria
+27 Green construction
+brick manufacturing
+Construction or upgrade and
+operation of manufacturing facilities
+for the manufacture of
+environmentally friendly bricks,
+specifically autoclaved aerated
+concrete, fly ash and concrete blocks,
+Tunnel Kiln and HHK
+The activity meets the rules specified for
+brick manufacture specified in the
+Environmental Conservation Rules, 1997
+and/or the Environmental Conservation
+Amendment Act 2010.
+28 Eco-industrial parks
+Construction or upgrade and
+operation of an eco-industrial park
+The standards identified by the World
+Bank/UNIDO/GIZ in their 'Framework
+for Eco-Industrial Parks' have been
+complied with, with independent
+verification; OR third party ESIA
+compliance report as the regulatory
+standards.
+29 Industrial air pollution
+Control
+Construction or operation of
+industrial air pollution treatment,
+exhaust gas and effluent reducing or
+desulfurization and de-nitration
+facilities
+Automatically eligible
+30 Capture of CO2
+emissions
+Construction and operation of a
+facility that captures CO2 emissions
+preventing their release into the
+atmosphere
+The captured CO2 emissions will, after
+transportation as necessary, be stored in a
+taxonomy-compliant sequestration
+facility.
+An environmental management system,
+consistent with ISO 14001, is in place;
+AND The activity meets the rules
+specified in the Environmental
+Conservation Rules 1997
+31 Transportation of
+CO2 emissions
+Transportation of CO2 emissions by
+pipeline, ship or rail
+The CO2 emissions are being transported
+to a taxonomy eligible sequestration
+facility.
+Leakage between the collections of the
+CO2 to injection in the sequestration
+facility is less than 0.5%.
+An environmental management system,
+consistent with ISO 14001, is in place
+32 Sequestration of CO2
+emissions
+Construction and operation of a
+permanent CO2 emissions storage
+facility
+Facility complies with ISO 27914:2017
+for geological storage of CO2.
+
+--- Page 35 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 32
+
+
+4. Low-Carbon Transport
+
+Activity
+Definition
+Criteria
+33 Rail infrastructure
+Construction, operation and maintenance of
+railways and subways as well as bridges and
+tunnels, and traffic management systems
+including the provision of architectural
+services, engineering services, drafting
+services, building inspection services and
+surveying and mapping services and the like
+as well as the performance of physical,
+chemical and other analytical testing of all
+types of materials and products
+The trackside infrastructure allows for
+the use of electrified trains, or where
+there is a plan for such electrification
+within [15] years of the start of
+activity; OR
+The infrastructure is dedicated to
+transhipping freight between modes;
+OR
+The infrastructure is dedicated to the
+transfer of passengers from other
+modes to rail; AND (in all cases)
+The infrastructure is not dedicated to
+the transportation of fossil fuels.
+34 Passenger rail
+transport
+Retrofit, upgrade or operation of transport
+of passengers using railroad rolling stock on
+mainline networks, spread over an extensive
+geographic area, passenger transport by
+interurban railways and operation of
+sleeping cars or dining cars as an integrated
+operation of railway companies
+The trains and passenger coaches have
+exhaust emissions of less than [50g]
+CO2e per passenger km; OR
+The passenger transport services are
+intended to allow a reduction in
+emissions of [30%] on a passenger km
+basis compared to a baseline (i.e.
+relevant alternative mode of transport
+in Bangladesh) in which the activity
+does not proceed;
+35 Freight rail
+transport
+Retrofit, upgrade or operation of freight
+transport on mainline rail networks as well
+as short line freight railroads
+The trains and wagons have zero
+tailpipe exhaust emissions or these
+emissions are below [25g] CO2 per
+tonne kilometre; OR
+The freight transport services are
+intended to allow a reduction in
+exhaust emissions of [30%]compared
+to a baseline (i.e. relevant alternative
+mode of transport in Bangladesh)in
+which the activity does not proceed;
+AND (in both cases)
+The trains and wagons are not
+dedicated to the transport of fossil
+fuels.
+36 Bus Rapid Transit
+Retrofit, upgrade or operation of bus rapid
+transit
+BRT projects meets gold, silver or
+bronze score under the BRT Standard
+
+--- Page 36 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 33
+
+Activity
+Definition
+Criteria
+37 Other commuter
+transport services
+Construction or upgrade and operation of
+urban and suburban transport systems for
+passengers where transport is carried out on
+scheduled routes following a fixed time
+schedule.
+The exhaust CO2 emissions of the
+vehicles are below [50]gCO2e per
+passenger km
+38 Infrastructure for
+water transport
+Construction and operation of waterways,
+harbour and rivers works, pleasure ports,
+locks, dams and dykes and other as well as
+the dredging of waterways, including the
+provision of architectural services,
+engineering services, drafting services,
+building inspection services and surveying
+and mapping services and the like as well as
+the performance of physical, chemical and
+other analytical testing of all types of
+materials and products
+The infrastructure is dedicated towards
+the operation of either passenger or
+freight vessels that will comply with
+the requirements related to those
+vessels specified in this taxonomy; OR
+The infrastructure is dedicated to the
+provision of electrical power for
+vessels at berth; OR
+The infrastructure is dedicated to the
+performance of the port's own
+operations with direct CO2 emissions;
+OR
+The infrastructure is dedicated to
+transhipping freight between transport
+modes; AND
+The infrastructure is not dedicated to
+the transport of fossil fuels; AND
+39
+Passenger inland
+waterway
+transportation
+Transport of passengers on inland waters,
+involving vessels that are not suitable for
+sea transport.
+The exhaust GHG emissions of the
+vehicles are below [50]gCO2e per
+passenger km;OR
+The passenger transport services are
+intended to achieve a reduction in
+exhaust emissions of [30%] on a
+passenger km basis compared to a
+baseline in which the activity does not
+proceed
+40
+Freight inland
+waterway
+transportation
+Transport of freight on inland waters,
+involving vessels that are not suitable for
+sea transport
+The exhaust GHG emissions of the
+vehicles are below [25g] CO2e per
+tonne kilometre OR
+the vessels are intended to allow a
+reduction in exhaust emissions of
+[30%] on a tonne-kilometre
+basiscompared to a baseline in which
+the activity does not proceed; AND (in
+both cases)
+vessels are not dedicated to the
+transport of fossil fuels;
+
+--- Page 37 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 34
+
+Activity
+Definition
+Criteria
+41
+Retrofitting of
+inland water
+passenger and
+freight transport
+Retrofit and upgrade of vessels for transport
+of freight or passengers on inland waters,
+involving vessels that are not suitable for
+sea transport
+The retrofitting reduces fuel
+consumption, measured in litres of fuel
+per tonne kilometre, by [10]%; AND
+The retrofitted or upgraded vessels are
+not dedicated to the transport of fossil
+fuels.
+42
+Sea and coastal
+passenger
+transport services
+Transport of passengers overseas and
+coastal waters, whether scheduled or not as
+well as renting of pleasure boats with crew
+for sea and coastal water transport
+The exhaust GHG emissions of the
+vehicles are below [50]gCO2e per
+passenger km;OR
+The passenger transport services are
+intended to allow a reduction in
+exhaust GHG emissions of [30%] on a
+passenger km basis compared to a
+baseline in which the activity does not
+proceed; OR
+The vessels have an attained Energy
+Efficiency Design Index (EEDI) value
+[10%] below the EEDI requirements;
+AND (in all cases)
+the ship is operated in line with
+regulations pertaining to IMO Marpol
+Convention and IMO Guidelines for
+the Reduction of Underwater Noise.
+43
+Sea and coastal
+freight transport
+services
+Transport of freight on vessels designed for
+operating on sea or coastal waters, and of
+vessels required for port operations, such as
+tugboats, mooring vessels, pilot vessels
+The exhaust GHG emissions of the
+vehicles are below [25g] CO2e per
+tonne kilometre; OR
+the vessels are intended to allow a
+reduction in exhaust GHG emissions of
+[30%]compared to a baseline in which
+the activity does not proceed; OR the
+vessels have an attained Energy
+Efficiency Design Index (EEDI) value
+10 % below the EEDI requirements;
+AND(in all cases)
+vessels are not dedicated to the
+transport of fossil fuels; AND(in all
+cases)
+the ship is operated in line with
+regulations pertaining to IMO Marpol
+Convention and IMO Guidelines for
+the Reduction of Underwater Noise
+
+--- Page 38 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 35
+
+Activity
+Definition
+Criteria
+44
+Retrofitting of sea
+and coastal freight
+and passenger
+water transport
+Retrofit and upgrade of vessels for the
+transport of freight or passengers on vessels
+designed for operating on sea or coastal
+waters, and of vessels required for port
+operations, such as tugboats, mooring
+vessels, pilot vessels
+The retrofitting activity reduces fuel
+consumption of the vessel by at least
+[10]% expressed in grams of fuel per
+deadweight tons per nautical mile;
+AND
+vessels are not dedicated to the
+transport of fossil fuels; AND
+The ship is operated in line with
+regulations pertaining to IMO Marpol
+Convention and IMO Guidelines for
+the Reduction of Underwater Noise
+45
+Infrastructure for
+pedestrians and
+cyclists
+Construction and operation of infrastructure
+for personal mobility, including the
+construction of roads, bridges and tunnels
+and other infrastructure that are dedicated to
+pedestrians and bicycles, with or without
+electric assist.
+Automatically eligible
+46
+Low-carbon road
+transport
+infrastructure
+Construction and operation of motorways,
+streets, roads, other vehicular and pedestrian
+ways, surface work on streets, roads,
+highways, bridges or tunnels and
+construction of airfield runways, including
+the provision of architectural services,
+engineering services, drafting services,
+building inspection services and surveying
+and mapping services and the like as well as
+the performance of physical, chemical and
+other analytical testing of all types of
+materials and products.
+Dedicated towards the operation of
+road vehicles with zero tailpipe CO2
+emissions e.g. electric vehicles
+including electric charging points and
+ensuring battery management,
+electricity grid connection upgrades
+etc.; OR
+dedicated to transhipping freight
+between modes; OR
+Dedicated to public passenger
+transport; AND(in all cases)
+not dedicated to the transport of fossil
+fuels.
+47
+Low carbon
+vehicle
+manufacture,
+assembly, supply,
+retrofit
+Manufacture, assembly and supply of low-
+carbon transport vehicles
+Vehicles which, if used for
+transportation services, would meet
+this taxonomy's requirements for such
+services1
+
+
+1Note that the vehicles do not have to be used to provide these services, just that if the vehicles were used for such services, they
+would meet the associated standards. This implies for road vehicles, for instance, vehicles with CO2 tailpipe emissions of less than
+[150]gCO2/km would meet the criteria.
+
+--- Page 39 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 36
+
+Activity
+Definition
+Criteria
+48 Road passenger
+transport services
+Provision of passenger transportation
+services using road vehicles
+Vehicles have CO2 tailpipe emissions
+of less than [50]gCO2e/km using the
+World-Harmonised Light Vehicle Test
+Procedure.
+49 Road freight
+transport services
+Provision of freight transport services by
+road including Electric Vehicle (EV)
+Vehicles providing the freight transport
+service provide a [30%] reduction in
+exhaust GHG emissions compared to
+the most commonly used alternative;
+AND EV having life cycle emission
+less than 40g CO₂/km and ensuring
+battery management
+50
+Low-carbon
+transport planning
+activities
+Activities that facilitate the integration of
+transport and urban development e.g. urban
+land use changes that facilitate a reduction
+in the use of motorised vehicles through
+dense development and active transport
+Activities are expected to lead to a
+reduction in lifecycle GHG emissions
+
+5. Circular Economy, Wastewater and Water Management
+
+The taxonomy identifies a wide range of activities that support Bangladesh move towards more
+circular production and consumption practices; reduce the health, safety and environmental risks
+associated with wastes; improve its ability to withstands extremes of water (both too much and too
+little); or some combination of these benefits.
+
+Activity
+Definition
+Criteria
+51
+Waste collection,
+transportation and
+sorting activities
+Separate collection and transport of non-
+hazardous waste in single or comingled
+fractions aimed at preparing for reuse and/or
+recycling.
+Waste collection is with the aim
+of preparing for reuse and/or
+recycling.
+52 Material recovery and
+recycling plants
+Construction and operation of facilities for
+the sorting and processing of separately
+collected non-hazardous waste streams into
+secondary raw materials involving a
+mechanical transformation process
+(including, but not limited to, PET bottles,
+plastic waste, paper, batteries, steel,
+aluminium, glass, plastics etc.)
+Activity converts [50]%, by
+weight, of the waste into
+secondary raw materials that can
+be substituted for virgin materials
+in production processes.
+AND secondary raw materials
+(such as steel, aluminum, glass,
+plastics) cease to be waste and are
+sold to be used as secondary raw
+material
+
+--- Page 40 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 37
+
+Activity
+Definition
+Criteria
+53 Manufacturing using
+recycled materials
+Investment, retrofit or operation of
+manufacturing plants using recycled
+materials for their primary feedstock
+
+Activity uses [50]%, by weight,
+of its primary feedstock from
+recycled (secondary raw)
+materials or can otherwise
+demonstrate that the percentage
+of recycled (secondary raw)
+materials is at least equal to
+current best practice in
+Bangladesh.
+54 Landfills with gas
+capture
+Construction and operation of sanitary
+landfills where the landfill gas is captured
+Methane emissions from landfill
+and leakages from landfill gas
+collection and utilization facilities
+are controlled by a monitoring
+plan; OR
+The landfill gas is used for the
+generation of electricity or heat,
+upgraded to biomethane for gas
+combustion in vehicles or
+industry, or used as an industrial
+feedstock.
+55 Hazardous waste
+Construction and operation of facilities for
+the management and/or treatment and/or
+disposal of explosive, flammable, toxic, or
+corrosive waste
+Activity complies with all rules
+and standards of the Bangladesh
+Environment Conservation Act,
+1995 and subsequent amendments
+as applicable, and the Ship-
+Breaking and Hazardous Waste
+Management Rules 2010; AND
+The prior transport of the
+hazardous waste and its disposal
+complies with the Basel
+Convention on the Control of
+Transboundary Movements of
+Hazardous Wastes and Their
+Disposal
+56 Medical waste
+Construction and operation of facilities for
+the management and/or treatment and/or
+disposal of hazardous medical wastes
+including infectious, pathological, sharps,
+chemical, pharmaceutical, and cytotoxic
+wastes.
+Activity complies with all rules
+and standards of the Bangladesh
+Environment Conservation Act,
+1995 and subsequent amendments
+as applicable, and the Biomedical
+Waste Management Rules, 2008.
+
+--- Page 41 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 38
+
+Activity
+Definition
+Criteria
+57 E-waste
+Construction and operation of facilities for
+the management and/or treatment and/or
+disposal of electronic products
+Activity complies with all rules
+and standards of the Bangladesh
+Environment Conservation Act,
+1995 and subsequent amendments
+as applicable, and the
+Hazardous Waste (e-waste)
+Management Rules 2021
+58 Radioactive waste
+Construction and operation of facilities for
+the disposal of radioactive waste
+Management and disposal is
+consistent with International
+Atomic Energy Agency (IAEA)
+standards
+59 Composting
+Construction and operation or on-site
+installation of dedicated facilities that
+process bio-waste by aerobic digestion for
+the production and utilization of compost.
+Bio-waste is source segregated
+and collected separately; AND
+the compost is used as fertiliser or
+soil improver; AND
+there is a system in place to
+prevent leachate reaching
+groundwater; AND
+Resulting compost complies with
+safe limits of heavy metal content
+as defined by the Bangladesh
+Technical Sub-Committee of
+Fertiliser Standardization
+60 Anaerobic digestion of
+sewage sludge
+Treatment of sewage sludge in wastewater
+treatment plants or construction/operation of
+other dedicated installation with the resulting
+production and utilization of biogas
+Methane leakage from relevant
+facilities is controlled by a
+monitoring plan; AND
+Biogas is used for the generation
+of electricity or heat, upgraded to
+biomethane for gas combustion in
+vehicles or industry, or used as an
+industrial feedstock.
+
+--- Page 42 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 39
+
+Activity
+Definition
+Criteria
+61 Anaerobic digestion of
+biowaste
+Construction and operation of facilities for
+the treatment of bio-waste through anaerobic
+digestion with the resulting production and
+utilization of biogas and digestate and/or
+chemicals, including integrated cow rearing
+and biogas plant
+Bio-waste is source segregated
+and collected separately; AND
+Methane leakage from facilities is
+controlled by a monitoring plan;
+AND
+Biogas is used for the generation
+of electricity or heat, upgraded to
+biomethane for gas combustion in
+vehicles or in industry as an
+industrial feedstock; AND
+Digestate is used as a fertiliser or
+soil improver (potentially after
+further treatment); complying
+with safe limits of heavy metal
+content as defined by the
+Bangladesh Technical Sub-
+Committee of Fertiliser
+Standardization; AND
+In dedicated bio-waste treatment
+plants, bio-waste accounts for at
+least [70]% by weight of the
+feedstock over the course of the
+year;
+62 Waste to energy
+Waste-to-energy plants (e.g. incineration,
+gasification, pyrolysis and plasma). Facilities
+for solid waste treatment with production of
+electricity or heat as a by-product
+Minimum 80% pollution (PM2.5)
+reduction compared to coal
+baseline; OR
+
+Plant efficiency >= [25%]; AND
+Bottom ash recovery; AND
+>= 90% recovery of metal from
+ash; AND
+Average GHG intensity of
+electricity and/ or heat over the
+life of the plant <= waste
+management allowance; AND
+capacity of the plant does not
+exceed the calculated residual
+waste at any time in the plant‟s
+life
+
+--- Page 43 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 40
+
+Activity
+Definition
+Criteria
+63
+Investment in
+centralized wastewater
+and sewage collection
+and treatment facilities
+Construction, extension and operation of
+centralized waste water and sewage systems
+including collection (sewer network) and
+treatment
+New wastewater and sewage
+treatment substitutes for a more
+GHG emissions intensive
+alternative on a lifecycle basis
+including pit latrines, septic tanks
+etc.; AND
+Measures to avoid and mitigate
+sewer overflow in cases of heavy
+rainfall have been introduced.
+64
+Upgrade/renewal of
+centralized wastewater
+and sewage collection
+and treatment facilities
+Renewal of centralized waste water and
+sewage systems including collection (sewer
+network) and treatment
+Renewed facility reduces energy
+use by [10]% as established using
+an ISO methodology and
+confirmed through independent
+verification; AND
+Measures to avoid and mitigate
+sewer overflow in cases of heavy
+rainfall have been introduced.
+65 Decentralized
+sanitation
+Manufacture and/or installation of
+decentralized sanitation solutions e.g.
+composting toilets, container-based toilets
+Installation will result in lifecycle
+GHG emission reductions of
+[20%]
+66 Water distribution and
+storage - new assets
+Construction and operation of water
+distribution and storage systems or individual
+distribution and storage assets including
+infiltration ponds, aquifer storage
+For individual new assets, these
+have no net impact on lifecycle
+GHG emissions; OR
+In the case of a new front-to-end
+water supply system, this has an
+high degree of energy efficiency
+such that the average energy
+consumption of the system from
+abstraction to distribution and
+supply is less than [0.5]kWh per
+m3;
+67 Water distribution and
+storage - renewal
+Renewal of water distribution and storage
+systems or individual assets including
+leakage reduction, infiltration ponds, aquifer
+storage
+The renewed system or assets
+reduce energy consumption by
+[10]% as established using an ISO
+methodology and confirmed
+through independent verification.
+68 Water treatment
+Construction and operation or renewal of
+facilities for the treatment of water including
+water recycling and effluent treatment
+facilities
+There is no net increase in
+lifecycle GHG emissions
+
+--- Page 44 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 41
+
+Activity
+Definition
+Criteria
+69 Irrigation systems
+Construction or upgrade and operation of
+water distribution systems to support
+agricultural production including rainwater
+harvesting, drip irrigation systems, gravity
+fed canal systems
+There is no net increase in
+lifecycle GHG emissions
+70 Stormwater
+management systems
+Construction or upgrade and operation of
+systems and management methods that are
+intended to reduce the impacts of intense
+rainfall including permeable services, erosion
+control
+There is no net increase in
+lifecycle GHG emissions
+71 Flood defence
+Construction or upgrade and operation of
+flood defence mechanisms against pluvial or
+fluvial flooding including surge barriers,
+pumping stations, levees
+Automatically eligible
+72 Drought defence
+Construction or upgrade and operation of
+facilities, systems and management methods
+that are expected to reduce the vulnerability
+of people and/or assets/crops to droughts
+including, for example, pumps to transfer
+water to/from natural aquifers
+Automatically eligible
+73 Water monitoring
+Manufacturing, assembly or installation of
+technologies and systems that improve
+monitoring of water resources including
+stormwater warning systems, floodwater
+monitoring systems, water quality
+monitoring systems and devices
+Automatically eligible
+74 Water saving
+technologies
+Manufacturing, assembly or installation of
+technologies and systems that are intended to
+support lower water consumption or
+otherwise save water
+Automatically eligible
+
+--- Page 45 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 42
+
+6. Green Agriculture and Land Use
+
+Activity
+Definition
+Criteria
+75 Climate smart
+crop production
+Growing of perennial and/or non-
+perennial crops
+There is a reduction in GHG emissions (tCO2e)
+associated with production of [20%] over the
+lifetime of the investment and above and below
+ground carbon stocks are increased
+progressively; OR
+A verified farm management plan demonstrates
+that a series of crop cultivation best practices are
+being followed; AND (applies in all cases)
+There is no conversion of high carbon stock
+lands; AND(applies in all cases)
+There is no production on wetlands,
+continuously forested areas (including
+mangroves), or peat land and any permanent
+grassland remains maintained; AND(applies in
+all cases)
+Efforts have been taken to reduce the application
+of fertilisers and prevent nitrogen pollution;
+AND (applies in all cases)
+Any organic fertilizer used complies with safe
+limits of heavy metal content as defined by the
+Bangladesh Technical Sub-Committee of
+Fertiliser Standardization; AND (applies in all
+cases)
+There are efforts to prevent soil erosion and run
+off of soil into water courses, AND (applies
+when either GHG or farm management plan
+being followed)
+AND “Where relevant, carbon and nitrogen
+sequestrations increase in soil.”
+Actions do not lead to conversion or
+fragmentation or areas of high biodiversity or the
+deterioration of legally protected habitats.
+
+--- Page 46 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 43
+
+Activity
+Definition
+Criteria
+76
+Climate smart
+livestock
+management
+Raising (farming) and breeding of
+all animals, except aquatic animals
+There is a reduction in GHG emissions (tCO2e)
+associated with production of [20%] over the
+lifetime of the investment and above and below
+ground carbon stocks are increased
+progressively; OR
+A verified farm management plan demonstrates
+that a series of livestock management best
+practices; AND(applies in all cases)
+there is no conversion of high carbon stock
+lands; AND(applies in all cases)
+There is no production on wetlands,
+continuously forested areas (including
+mangroves), or peatland and any permanent
+grassland remains maintained; AND (applies in
+all cases)
+Efforts have been taken to reduce the application
+of fertilisers and prevent nitrogen pollution;
+AND(applies in all cases) Any organic fertilizer
+used with safe limits of heavy metal content as
+defined by the Bangladesh Technical Sub-
+Committee of Fertiliser Standardization; AND
+(applies in all cases)
+There are efforts to prevent soil erosion and run
+off of soil into water courses, AND(applies in all
+cases)
+Actions do not lead to conversion or
+fragmentation or areas of high biodiversity or the
+deterioration of legally protected habitats
+77
+Organic
+agriculture and
+livestock
+management
+Raising (farming) and breeding of
+all animals, except aquatic animals
+and or growing of perennial or non-
+perennial crops
+Produce has been certified as organic by a
+standard that is recognized in the International
+Federation of Organic Agriculture Movements
+Family
+of
+Standards;
+AND
+There has been no conversion of high carbon
+stock
+lands;
+AND
+There
+is
+no
+production
+on
+wetlands,
+continuously
+forested
+areas
+(including
+mangroves), or peatland and any permanent
+grassland
+remains
+maintained;
+AND
+There are efforts to prevent soil erosion and run
+off of soil into water courses; AND
+Actions do not lead to conversion or
+fragmentation or areas of high biodiversity or the
+deterioration of legally protected habitats.
+
+--- Page 47 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 44
+
+Activity
+Definition
+Criteria
+78
+Climate smart
+aquaculture and
+fishing
+Climate smart aquaculture and
+fishing and manufacture, assembly
+and supply of products and
+technologies for this exclusive
+purpose
+Activities have been certified for sustainable
+management, for example such as by the blue
+MSC label of the Marine Stewardship Council;
+OR
+There is a reduction in GHG emissions (tCO2e)
+associated with production of [20%] over the
+lifetime of the investment
+79
+Afforestation
+and
+reforestation
+The establishment or re-
+establishment of forest through
+planting and/or deliberate seeding
+on land either that was previously
+classified as having a different use
+(afforestation) or land that is already
+classified as forest (reforestation).
+The forest is FSC or PEFC certified; OR
+There is a forest management plan in place for
+[10] years or longer, and regularly updated,
+covering soil health, water management, fire
+management, riparian areas protection,
+biodiversity management, species selection,
+chemical use and forest protection; AND
+An analysis of the impact of the plan by an
+independent third party verifier demonstrates
+that it will lead to a decrease in net GHG
+emissions over a period of [20] years or longer,
+using IPCC guidelines for emissions accounting;
+AND (applies in all cases)
+(In cases of afforestation) that conversion to
+forest was not from a natural landscape e.g.
+peatland; AND (applies in all cases)
+Free, prior and informed consent for
+afforestation has been obtained from indigenous
+peoples or local communities using an
+international standard (e.g. ILO 169, FSC,
+PEFC, etc.)
+80
+Ecosystem
+conservation
+and
+management
+Conservation and management
+interventions in forests, grasslands,
+mangroves, wetlands or other
+natural ecosystems.
+There is an ecosystem management plan in place
+for [10] years or longer, which is regularly
+updated, covering, as relevant, soil health, water
+management and hydrological conditions,
+pedological conditions, fire management,
+riparian areas protection, biodiversity
+management, species selection, chemical use and
+ecosystem protection; AND
+An analysis of the impact of the restoration plan
+by an independent third party verifier
+demonstrates that it will lead to a decrease in net
+GHG emissions over a period of [20] years or
+longer, using IPCC guidelines for emissions
+accounting; AND
+The land is protected by law from conversion to
+other land uses.
+
+--- Page 48 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 45
+
+Activity
+Definition
+Criteria
+81 Ecosystem
+restoration
+Intentional activity that initiates or
+accelerates the recovery of an
+ecosystem (including forests,
+grasslands, wetlands) from a
+degraded state
+There is an ecosystem restoration plan in place
+for [10] years or longer, which is regularly
+updated, covering, as relevant, soil health, water
+management and hydrological conditions,
+pedological conditions, fire management,
+riparian areas protection, biodiversity
+management, species selection, chemical use and
+ecosystem protection; AND
+An analysis of the impact of the restoration plan
+by an independent third party verifier
+demonstrates that it will lead to a decrease in net
+GHG emissions over a period of [20] years or
+longer, using IPCC guidelines for emissions
+accounting, AND
+The land is protected by law from conversion to
+other land uses.
+
+7. Climate Resilience and Climate Change Adaptation Measures
+
+Activity
+Definition
+Criteria
+82 Marine
+protection
+The establishment and maintenance of a
+Marine Protected Area.
+MPA is verified as meeting the IUCN's global
+standard of success for Marine Protected Areas
+(consisting of the IUCN Green List of Protected
+and Conserved Areas Standard plus relevant
+positions taken in IUCN Resolutions,
+Recommendations and Guidance Documents)
+83 Disaster risk
+reduction
+Intentional investments in disaster risk
+reduction for resilience (Sendai priority
+3) that aim to reduce risks in relation to
+hydro-meteorological hazards e.g.
+investment in shelters; design,
+manufacture, supply and operation of
+early warning systems
+Investment is consistent with the National Plan
+for Disaster Management; AND
+The investments have been assessed relative to
+the forward-looking physical climate hazards
+that can be expected over their lifetime and it
+can be demonstrated that they will continue to be
+'fit-for purpose' over that lifetime.
+84 Ecotourism
+Provision of services for tourism
+including hotels, travel services and the
+management and operation of individual
+sites
+The hotel, tour operator or destination has been
+certified, by an accredited body, as either
+meeting the Global Sustainable Tourism Council
+(GSTC) criteria, or the criteria of an alternative
+sustainable standard or system that has been
+deemed by the GSTC to be equivalent to the
+GSTC criteria.
+
+--- Page 49 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 46
+
+8. Services Associated with the Low Carbon, Climate Resilient and Green Economy
+
+The taxonomy identifies the most important areas of service provision that can support these goals
+covering international technology/digital services, financial services in the form of insurance, research
+and development activities and the provision of technical services.
+
+Activity
+Definition
+Criteria
+85
+Computer
+programming,
+consultancy and
+related activities
+Providing expertise in the field of
+information technologies including:
+collecting, transmitting, storing data and
+its modelling; writing, modifying, testing
+and supporting software; planning and
+designing computer systems that integrate
+computer hardware, software and
+communication technologies; on-site
+management and operation of clients‟
+computer systems or data processing
+facilities; and other professional and
+technical computer-related activities;
+These activities are predominantly aimed
+at the provision of data and analytics for
+decision making (by the public and
+private sector) enabling GHG emission
+reductions; OR
+these activities are predominantly aimed
+at the provision of data and analytics for
+decision making (by the public and
+private sector) enabling a reduction in
+climate risks.
+86
+Research,
+development and
+innovation
+(RD&I)
+Research, applied research, experimental
+development in natural sciences and
+engineering of solutions, processes,
+technologies and other products dedicated
+to the reduction, avoidance or removal of
+GHG emissions, or adaptation solutions
+or enhanced environmental performance
+(RD&I).
+The RD&I activity enables activity that
+satisfies the criteria elsewhere in this
+taxonomy; OR
+The RD&I activity has the potential to
+materially reduce impacts from climate
+risks; OR
+The RD&I activity delivers improved
+environmental outcomes compared to
+alternatives already available or delivers
+equivalent environmental outcomes but
+with significant new advantages (i.e.
+lower cost, higher quality, reduced time);
+AND
+The outcomes associated with the RD&I
+have been demonstrated in a relevant
+'real-world' context;
+87 Insurance
+Provision of non-life insurance services
+covering climate-related perils (including
+wildfire, flood, subsidence, sea level rise,
+heat stress) for people, incomes or assets
+Modelling associated with the provision
+of insurance services integrates forward
+looking scenarios of climate change; AND
+The design and structure of the insurance
+product provide incentives for the
+reduction of climate risks; AND
+Insurance is not being provided for
+activities related to the extraction, storage,
+transportation or manufacture of fossil
+fuels or vehicles or assets related to these
+activities.
+
+--- Page 50 ---
+Policy on Green Bond Financing for Banks and FIs
+Page | 47
+
+Activity
+Definition
+Criteria
+88 Other green
+services
+Professional services associated with a
+low-carbon, climate resilient or robust
+environmental outcomes
+The activity undertakes technical
+consultations (e.g. project management,
+training) related to any of the activity
+specified in this taxonomy; OR
+the activity supports the development of
+compliance-grade carbon assets and
+mechanisms; OR
+The activity improves understanding of
+and/or reduces the risks associated with
+climate change through the development
+of models, the undertaking of climate risk
+assessments, the removal of barriers to
+adaptation, or the development or
+application of climate proofing guidelines
+in the built environment; OR
+The activity results in the assessment of
+the environmental performance of an
+activity or asset identified in this
+taxonomy; The activity supports
+developers to understand the opportunities
+for using green technologies, including as
+part of a project feasibility study; OR
+The provision of energy management
+services; OR
+The provision of energy performance
+contracts; OR
+The provision of energy services provided
+by energy service companies; AND (in all
+cases)
+The services are not provided to those
+extracting or transporting fossil fuels.

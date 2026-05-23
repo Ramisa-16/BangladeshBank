@@ -1,0 +1,945 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাংক
+
+প্রধান কার্ধালয়
+ঢাকা
+পেমেন্ট সিস্টেমস ডিপার্টম্টে
+Sorta নং: £ ২২২২২ ০৫ জুন ২০২৪.
+পিএসডি সার্কুলার নং: ০৫/২০২৪ তারিখ: ইজ ১৪৩১
+
+Guidelines on Licensing, Operation and Regulation of Credit Bureau
+
+চতুর্থ শিল্প বিপ্লবের এই যুগে ব্যক্তির খণ প্রাপ্তি, অর্থ পরিশোধ ইত্যাদির যোগ্যতা নির্ধারণে সর্বাধুনিক প্রযুক্তি ব্যবহৃত
+হচ্ছে। বিশ্বব্যাপী বিভিন্ন প্রতিষ্ঠান কর্তৃক বিভিন্ন উৎস হতে গ্রাহকের তথ্য সংগ্রহ করে তা কৃত্রিম Gaeta মাধ্যমে বিশ্লেষণ করে
+গ্রাহকের অর্থ পরিশোধের সক্ষমতা নির্ধারণ করা হচ্ছে। এর ফলশ্রুতিতে ব্যাংক গ্রাহকের পাশাপাশি যে সকল ব্যক্তি কোন ব্যাংকের
+গ্রাহক নয়, তাদেরও পরিশোধ যোগ্যতা অনুসারে দ্রুত খণ প্রাপ্তির সুযোগ সৃষ্টি হচ্ছে। অর্থাৎ এ পদ্ধতি আধুনিক ক্রেডিট fre
+এসেসমেন্ট এর পাশাপাশি আর্থিক MTS বৃদ্ধিতেও ভূমিকা রাখছে।
+
+২। দেশে খণ প্রদানে ঝুঁকি হ্রাসের প্রয়োজনে যুগোপযোগী ক্রেডিট রিস্ক এসেসমেন্ট পদ্ধতি প্রণয়ন করা প্রয়োজন। তাই
+খণ যোগ্যতা নির্ধারণ, পরিশোধ সক্ষমতা যাচাইকল্লে নিত্যনতুন বিভিন্ন ধরণের বিশ্রেষণমূলক তথ্য বিবেচনাপূর্বক খণ প্রদানে
+ব্যাংকের সিদ্ধান্ত গ্রহণের ক্ষেত্রে বেসরকারি ক্রেডিট ব্যুরো খণমান নির্ধারণে কাজ করতে পারে । এ ব্যুরোসমূহ সিআইবিসহ বিভিন্ন
+উৎস হতে গ্রাহকের অনুমতি সাপেক্ষে তথ্য সংগ্রহ করে তা বিশ্লেষণপূর্বক নির্ণিত খণমান ব্যবহারকারীকে অবহিত করবে |
+
+৩। এমতাবস্থায়, কোন ব্যক্তির খণ অথবা অন্যান্য পরিশোধ সক্ষমতা পরিমাপের জন্য ব্যক্তি খাতে ক্রেডিট ব্যুরো স্থাপনের
+লক্ষ্যে বাংলাদেশ ব্যাক অর্ডার ১৯৭২ এর ৭এ(এফ), ১৬(২৫,২৬) এবং ৮২ ধারায় প্রদত্ত ক্ষমতাবলে Guidelines on
+Licensing, Operation and Regulation of Credit Bureau প্রণয়ন করা হয়েছে।
+
+৪ । উক্ত গাইডলাইন্স AMS সকলের অবগতির জন্য বাংলাদেশ ব্যাংকের ওয়েবসাইটে আপলোড করা হলো।
+
+(মোঃ মোতাছিম বিল্লাহ)
+পরিচালক (পিএসডি)
+ফোন: ৯৫৩০৩৩৪
+
+--- Page 2 ---
+BANGLADESH BANK
+Guidelines on the Licensing, Operation and Regulation of Credit
+Bureau
+
+
+Payment Systems Department
+
+--- Page 3 ---
+Contents
+SECTION 1 - DEFINITION OF TERMS .............................................................................................................. 3
+SECTION 2– INTRODUCTION ......................................................................................................................... 5
+SECTION 3 – PURPOSE AND OBJECTIVE OF THE GUIDELINES ....................................................................... 6
+SECTION 4 – AUTHORITY OF THESEGUIDELINES ........................................................................................... 6
+SECTION 5 – JURISDICTION OF THE GUIDELINES .......................................................................................... 7
+SECTION 6 –ESTABLISHMENT OF CREDIT BUREAU ....................................................................................... 7
+SECTION 7 –APPLICATION AND LICENSING PROCEDURE.............................................................................. 8
+SECTION 8 - LICENSE REVOCATION/SUSPENSION ...................................................................................... 13
+SECTION 9 -RIGHTS OF BANGLADESH BANK ............................................................................................... 14
+SECTION 10 - OPERATIONAL MODEL .......................................................................................................... 14
+SECTION 11 - OPERATIONAL PROCEDURES OF CREDIT BUREAU ................................................................ 15
+SECTION 12 – CUSTOMER DUE DILIGENCE ................................................................................................. 21
+SECTION13 – INTEROPERABILITY ................................................................................................................ 22
+SECTION 14 - RIGHTS OF DATA SUBJECT .................................................................................................... 22
+SECTION 15 - DISPUTE RESOLUTION AND COMPLAINT HANDLING ........................................................... 22
+SECTION 16 - OPENING AND CLOSURE OF CREDIT BUREAU OFFICES ........................................................ 23
+SECTION 17 - SUBMISSION OF RETURNS AND AUDITED ACCOUNTS TO THE BB ....................................... 23
+SECTION 18 – COMPLIANCE WITH THE GUIDELINES .................................................................................. 24
+SECTION 19 - DISSOLUTION, LIQUIDATION AND REVOCATION OF LICENSE .............................................. 24
+
+--- Page 4 ---
+SECTION 1 - DEFINITION OF TERMS
+
+1.1 “Act” - means the Bank Company Act, 1991;
+1.2 “Adverse action” shall include, but not limited to, actions taken by a User resulting in the
+denial of Credit, cancellation of Credit, reduction of value of a Credit line, denial of
+employment, or denial of any advantage to which a Data Subject would otherwise be
+entitled;
+1.3 “API” – refers to Application Programming Interface to technologically connect multiple
+software applications;
+1.4 “Banks” shall have the same meaning as defined in the Act-;
+1.5 “BB” – means the Bangladesh Bank, the central bank of Bangladesh established under
+the Order;
+1.6 “Board of Directors”- means the Board of Directors of a Credit Bureau;
+1.7 “CEO” - refers to the Chief Executive Officer appointed by a Credit Bureau;
+1.8 “Company”- refers to the companies as defined in the Companies Act, 1994;
+1.9 “Companies Act” – means The Companies Act, 1994;
+1.10 “Consent” – means a signed (physical/electronic) written/electronic authorization by a
+Data Subject, his/her legal representative or authorized agent indicating his/her
+approval to inquire and provide his/her data from/to the Credit Bureau;
+1.11 “Credit Bureau” (CB) - means an institution that collects information from credit
+information provider and other available sources and performs credit scoring;
+1.12 “Credit File” – means an electronic or physical docket containing a Data Subject’s
+personal and Credit Information that are collected, processed and maintained by a Credit
+Bureau;
+1.13 “Credit Information” –means any information with respect to a Data Subject relating to-
+1.13.1 the amounts, nature, and structure of loans, advances, lease finance and any
+other credit facilities, funded or non-funded, granted by a credit institution and
+repayment thereof;
+1.13.2 any other financial record available from the Credit Information Providers;
+1.13.3 any other information deemed relevant by the Credit Bureau to determine the
+credit worthiness of the Data Subject;
+1.14 “Credit Information Provider” – means entities that are allowed under these guidelines
+to furnish credit information to a Credit Bureau and include banks and other Finance
+Companies and such other institutions that provide any form of credit and entities that
+have personal or credit information or data related to the Data Subject’s payment habits
+or creditworthiness and furnish them to the Credit Bureau as per these guidelines;
+
+--- Page 5 ---
+1.15 “Credit Report” – means credit information issued by a Credit Bureau containing all or
+part of the data subject’s information available in the credit file or a summary thereof;
+1.16 “Credit Scoring” – refers to a measure of the probability of default of a credit facility
+granted to a Data Subject;
+1.17 “Database” - means a set of information administered by a Credit Bureau;
+1.18 “Data Subject” – means any person or entity whose Credit Information is collected,
+compiled, and administered by the Credit Bureau;
+1.19 “Director”- means an individual that is a member of the Board of Directors of a Credit
+Bureau;
+1.20 “Finance Companies”- shall have the same meaning as licensed under the Finance
+Companies Act, 2023;
+1.21 “Order”- means the Bangladesh Bank Order, 1972;
+1.22 “Permissible Purpose”- means those activities specified in 11.2;
+1.23 “PSD” - means Payment Systems Department of BB;
+1.24 “Public Database”- means a database owned or operated by a public entity in
+Bangladesh that may contain data on a borrower, potential borrower, guarantor or
+potential guarantor;
+1.25 “Rules of Reciprocity”- means a set of norms defining the level of mutual information
+exchange and cooperation between Data Providers and a Credit Bureau;
+1.26 “User”– means any person or body who is allowed under these guidelines to seek Credit
+Information from a Credit Bureau for Permissible Purposes.
+
+--- Page 6 ---
+SECTION 2– INTRODUCTION
+
+2.1
+Background
+Apart from the credit registry maintained by Bangladesh Bank under Article 43 of the Bangladesh
+Bank Order, 1972, to identify the default status of a data subject, it has become imperative that
+a more rigorous credit risk assessment process needs to be followed. With the advent of
+technology, credit scoring of borrowers in terms of default probability has become a regular
+practice of the credit market worldwide.
+A healthy financial system supports long-term economic growth and development since it often
+provides productive and efficient methods for assessing risk and return on investment as well as
+for controlling and allocating credit operation risk at the national level.
+The necessity of credit reporting systems is being appreciated more and more in the domain of
+the financial sector in order to aid supervision, enhance stability, and facilitate more organized
+management of credit portfolio. As a significant component of a healthy financial ecosystem, it
+serves as a medium of public interest as well.
+Besides, a well-established financial ecosystem reduces information asymmetry and legal
+uncertainty, and thus, improves the efficiency of the lending market. Transparent credit
+reporting certainly helps banks and other Finance Companies manage their risk and give
+regulators up-to-date information on the risk profiles of regulated entities, including systemically
+significant ones.
+Indeed, reduced default risk can result from proper identification of market failures by an
+efficient credit information system, such as adverse selection and asymmetry of information
+between lenders and borrowers. Better availability of credit to borrowers who previously had no
+or limited access to credit could result from this as well. In addition, it fosters a responsible credit
+culture by promoting healthy borrowing and repayment habit and preventing the likelihood of
+taking unnecessary debt burden.
+Moreover, borrowers may keep an eye on their credit ratings over time and prevent
+unmanageable debt accumulation and identity theft by using a functional credit information
+system. They will also be able to use the "reputational collateral" to get credit outside of their
+current banking connection. This helps borrowers who are disadvantaged, such as small
+businesses, farmers, and first-time borrowers who have little to no physical collateral.
+This policy is being developed in compliance with Article 82 of the Bangladesh Bank Order, 1972
+to take advantage of modern technologies like Artificial Intelligence, Machine Learning, etc., in
+
+--- Page 7 ---
+the overall assessment of credit risk through credit scoring and grading by third parties as
+authorized by BB to do so.
+2.2
+These guidelines will be applicable to the operation of all credit bureaus licensed by BB.
+2.3
+The goal of these guidelines is to specify the operational, regulatory, and licensing
+criteria for a credit bureau.
+SECTION 3 – PURPOSE AND OBJECTIVE OF THE GUIDELINES
+
+These guidelines are issued considering the following objectives:
+3.1
+To reduce the information asymmetry about the borrowers in the financial market
+3.2
+To provide detailed guidelines for the operation of credit reporting/scoring companies
+in the country
+3.3
+To provide guidelines for data sharing among credit and other financial service
+providers
+3.4
+To make positive client information, which is often kept confidential, available to other
+lenders, increasing competition in the credit market and benefitting better credit
+applicants
+3.5
+To reduce default rates and average interest rates, facilitated by increased credit
+information, leading towards increased lending
+3.6
+To encourage borrowers to keep up a strong credit history which ultimately lowers non-
+performing loans (NPLs) and improves the quality of the credit portfolio
+3.7
+To expand the private loan markets through exchange of credit data
+3.8
+To examine and process credit proposals more quickly and cheaply
+3.9
+To promote digital lending both at individual and enterprise, especially CMSME, level
+SECTION 4 – AUTHORITY OF THESEGUIDELINES
+
+These guidelines are issued under the purview of Articles 7A(f), 16(25), 16 (26) and 82 of the
+Order.
+
+--- Page 8 ---
+SECTION 5 – JURISDICTION OF THE GUIDELINES
+
+These guidelines will be applicable to all-
+5.1. Credit Bureaus
+5.2. Banks
+5.3. Finance Companies
+5.4. Mobile Financial Services Providers
+5.5. Payment Systems Operators
+5.6. Payment Service Providers
+5.7. Institutions that provide any form of credit or seek credit information of a Data Subject
+5.8. Anyone who wants to use credit information
+5.9. Any other organization as may be declared by BB from time to time.
+SECTION 6 –ESTABLISHMENT OF CREDIT BUREAU
+
+A Credit Bureau shall be established according to these guidelines. A potential applicant who
+intends to apply to establish a credit bureau must satisfy the following criteria:
+6.1
+The proposed company must be a limited company
+6.2
+Investment from an individual or business entity incorporated outside of Bangladesh is
+allowed
+6.3
+The minimum paid-up capital of a Credit Bureau will be BDT One Hundred Million which
+needs to be complied before inception of its operation
+6.4
+Composition of the Board of Directors:
+6.4.1 Number of directors shall not exceed eleven
+6.4.2 At least two of the directors must have banking experience of Ten years
+6.4.3 At least two of the directors must have experience and academic background in
+technology-related businesses
+6.4.4 A shareholder holding more than two percent share of the total shares will be
+eligible to become a director of the Credit Bureau
+6.4.5 No individual shall be a director in more than one Credit Bureau at any point in
+time
+
+--- Page 9 ---
+6.5
+Composition of Management:
+6.5.1 The Chief Executive Officer, the Chief Technology Officer, the Database
+Administrator and the Chief Information Security Officer each must possess at
+least five years of relevant experience in the field of banking, electronic money, or
+fintech services
+6.6
+The Directors and Members of the management:
+6.6.1 must not have a history of being convicted of any criminal offence or involved in
+any fraud/forgery, financial crime, or other illegal activities
+6.6.2 must not have been dismissed from service from any financial institution
+6.6.3 have not been involved with a company/firm whose registration/license has been
+revoked or cancelled
+6.6.4 must not be a credit defaulter in personal capacity or in the capacity of an owner,
+director or shareholder of a business entity
+6.6.5 must not have a history of being adjudicated a bankrupt by a court
+6.6.6 must not have been declared mentally unsound by a court
+SECTION 7 –APPLICATION AND LICENSING PROCEDURE
+
+An individual or a company shall not operate a Credit Bureau in Bangladesh unless licensed by
+BB.
+License will be issued following the procedures mentioned here in under. However, BB may bring
+necessary changes in this procedure from time to time.
+7.1
+Application
+A company seeking to operate a Credit Bureau in Bangladesh shall apply to BB in such manner as
+decided by BB.
+Application and licensing procedures will have several steps as described below:
+Interested applicants should apply to Payment Systems Department (PSD) of BB for
+license to operate a Credit Bureau along with the following documents:
+General Documents-
+a) Non-refundable application fee of BDT Five Hundred Thousand payable to the
+Bangladesh Bank;
+b) Proposed Memorandum and Articles of Association clearly mentioning the Credit
+Bureau service as their business;
+
+--- Page 10 ---
+c) A table of the list of shareholders showing their residential addresses, their businesses
+or companies’ addresses, the amount invested in the Credit Bureau as well as
+addresses of their current bankers;
+d) Name, date of birth, address, TIN/BIN, National ID Card Number, Passport Number,
+Credit Report (subject to the approval by the Act) of all the Board of Directors, CEO
+and other Senior Executives reporting directly to the CEO;
+e) Detailed feasibility report of the proposed Credit Bureau which shall include:
+The objectives and aims of the proposed Credit Bureau;
+II.
+A detailed and comprehensive business plan of the Credit Bureau including
+value proposition;
+III.
+Methodology to be followed in credit scoring;
+IV.
+Capital plan;
+A five-year financial projection for the operation of the Credit Bureau
+indicating its expected growth and profitability;
+VI.
+Details of the assumptions upon which the financial projections have been
+made;
+VII.
+The organizational structure of the proposed Credit Bureau, setting out in
+detail the functions, relationships and responsibilities of the Board, the
+Management, and staff;
+VIII.
+The composition of the proposed Board of Directors and the curriculum vitae
+(CV) of each member including information on positions held by them in other
+organizations;
+IX.
+Code of Conduct, Reciprocity Rules and other relevant rules for the functioning
+of the system;
+Sworn declaration of the Directors attesting to their willingness to adhere to
+these requirements and any code(s) of proper conduct and integrity as may be
+issued by the Bangladesh Bank from time to time.
+Technical Documents-
+a) A clear data protection policy;
+b) Data collection strategy including the procedure to collect consent from the Data
+Subject;
+c) A detailed dispute resolution process;
+d) Detail plan of technology infrastructure which should comply with the latest
+version of “Guidelines on ICT Security for Banks and Non-Bank Financial
+Institutions” by BB;
+e) Proposed Management Information Systems, Internal Controls and Procedures,
+including Operational Manual;
+
+--- Page 11 ---
+10
+
+f) Submission of specimen copies of Credit Reports as well as the proposed charges
+for such Credit Reports;
+g) A clearly defined exit policy in case of business closure due to revocation of license
+by BB or any other reason.
+
+7.2
+Evaluation and Approval of Application:
+All the submitted applications will be examined and evaluated by two separate
+committees namely a Business Evaluation Committee and a Technical Evaluation
+Committee.
+b) Applications receiving minimum qualifying marks in both business and technical
+evaluation will be given provisional Non-Objection Certificate (NOC) or Letter of
+Intent (LOI) for establishing necessary infrastructure within a stipulated timeline
+according to the approved proposal.
+After the establishment of necessary infrastructure, BB will conduct onsite
+inspection.
+d) After satisfactory onsite inspection, approval of the license will be provided.
+
+7.3
+Operating License
+On completion of the infrastructure setup, the company shall apply for the operating license to
+commence operation. BB shall grant a perpetual operating license to a Credit Bureau subject to
+the following:
+7.3.1 The Credit Bureau has satisfied all conditions as specified in the section 7.1;
+7.3.2 The Credit Bureau has met the required capital requirements;
+7.3.3 The Credit Bureau has submitted a valid trade license;
+7.3.4 The Credit Bureau is established as a limited company;
+7.3.5 The Credit Bureau has formed a board;
+7.3.6 The Credit Bureau has established sufficient technology infrastructure and
+collected all the necessary certifications required;
+7.3.7 The Credit Bureau has collected the Software License Agreement, Management or
+Service Level Agreements, if any, which have been concluded with other parties
+or any Memorandum of Understanding in that regard;
+7.3.8 The Credit Bureau has properly performed System Integration Test (SIT), User
+Acceptance Test (UAT) and Vulnerability and Penetration Test (VAPT);
+7.3.9 BB has conducted onsite verification of its infrastructure set-up to ascertain its
+readiness to commence operations;
+7.3.10 Deposited a license fee of BDT One Million in favor of the Bangladesh Bank;
+
+--- Page 12 ---
+11
+
+7.4
+The Credit Bureau so licensed shall comply with the provisions of these guidelines,
+regulations and circulars and any other instructions as may be issued by the BB from
+time to time;
+7.5
+A Provisional License/NOC shall automatically expire if a Credit Bureau fails to build its
+infrastructure or if it fails to commence its operations within one year of stipulated time
+after the date of issuance of the License or any other stipulated time by BB;
+7.6
+All licensed Credit Bureau shall be required to make the word “Credit Bureau” as part
+of their names.
+
+--- Page 13 ---
+12
+
+Flow chart of the application submission and verification process is as follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Documents
+need to be
+reviewed
+Initial
+Verification
+Application
+Submission
+Documents
+Are Ok
+Forwarded to Business
+Committee
+Presentation
+from
+Applicant
+Not Viable
+Viable
+Forwarded to Technical
+Committee
+Technically Viable
+Not Technically
+Viable
+Presentation
+from
+Applicant
+Application
+Rejection
+Onsite
+Inspection
+Approval of License to
+operate CB in BD
+Satisfactory Inspection Report
+Not Satisfactory Inspection
+Report
+Provisional
+License/
+NOC
+
+--- Page 14 ---
+13
+
+SECTION 8 - LICENSE REVOCATION/SUSPENSION
+
+BB may revoke/suspend the license of a Credit Bureau if
+8.1
+The Credit Bureau is engaged in any job not mentioned in the permissible purposes in
+this document;
+8.2
+The Credit Bureau fails to perform the jobs mentioned in this document or
+8.2.1 If the licensed Credit Bureau is wound up or otherwise dissolved
+8.2.2 The manner in which the licensed Credit Bureau’s business is being conducted is
+not satisfactory
+8.2.3 The Credit Bureau is contravening or has contravened any provision of these
+guidelines, or any condition or restriction imposed or any notice issued by the
+authority under these guidelines
+8.2.4 It appears to BB that the Credit Bureau is failing or has failed to satisfy any of its
+obligations under or arising from these guidelines or any directives issued by BB
+8.2.5 The Credit Bureau has provided to BB any information or document required
+under these guidelines that is false or misleading
+8.2.6 It appears to BB that the credit bureau or any of its officers or employees has not
+performed their duties under these guidelines in good faith
+8.2.7 It appears to BB that it would be contrary to the public interest for the Credit
+Bureau to continue its operations
+8.2.8 The Credit Bureau fails or ceases to carry on any credit reporting business for
+which it is licensed
+8.3
+If the Credit Bureau is engaged in any intentional wrongdoing which caused adverse
+action for a client;
+8.4
+Failed to protect the confidentiality of the borrower/Data Subject;
+8.5
+BB, if it considers it desirable to do so, may
+8.5.1 Suspend the license of a Credit Bureau for specified period instead of revoking the
+license, and
+8.5.2 At any time
+8.5.2.1 Extend the suspension for specified period; or
+8.5.2.2 Revoke the suspension.
+
+--- Page 15 ---
+14
+
+SECTION 9 -RIGHTS OF BANGLADESH BANK
+
+9.1
+Bangladesh Bank shall have the power to call for any information from a Credit Bureau
+regarding its business and affairs and to appoint inspecting officers to inspect its books,
+data, accounts, record and other documents.
+9.2
+It shall be duty of every director, officer or employee of Credit Bureaus to produce all
+such books, data, accounts, record and other documents in his/her custody or power
+to an inspecting officer.
+9.3
+The Credit Bureau shall submit quarterly reports as per instruction of BB.
+9.4
+If Bangladesh Bank is satisfied that any chairman, director, chief executive or any
+officer, by whatever name called, of a Credit Bureau, has been, or is likely to be, in
+breach of the provisions of these guidelines or rules or regulations made there under
+or any policy, directions issued there under, it may, for reasons to be recorded in
+writing, remove from office, with effect from such date as may be specified in order, or
+may hold the same liable to a fine.
+SECTION 10 - OPERATIONAL MODEL
+
+The Credit Bureau will follow a mixed model where information from existing registry, other
+regulated financial institutions and other available sources will be collected and analyzed for
+credit reporting/scoring.
+The Credit Bureau shall collect basic personal history data directly from a Data Subject with
+proper consent. As per international best practices, the Data Subject is the owner of his/her data.
+So, the data must be shared by the organizations holding it once the Data Subject has provided
+proper consent to the Credit Bureau. Basic credit information of a borrower/data subject will be
+shared by the credit registry (Credit Information Bureau, CIB) of Bangladesh Bank and other
+necessary information may be collected from sources as per section 11.4.3 and a process flow is
+furnished underneath:
+
+--- Page 16 ---
+15
+
+
+SECTION 11 - OPERATIONAL PROCEDURES OF CREDIT BUREAU
+
+11.1 Functions of Credit Bureau
+Credit Bureau shall not engage in any form of business other than those listed below:
+11.1.1
+May collect, manage, store and process credit information related to debtor
+(who is the Data Subject in this case) with proper consent;
+11.1.2
+May provide credit information and credit score of Data Subject to User, other
+Credit Bureaus, BB, Govt. Organizations and other institutions allowed by this
+document in a manner so that the identity of Data Subject is protected;
+11.1.3
+Undertake any other businesses as mentioned in this document.
+
+--- Page 17 ---
+16
+
+11.2 Permissible Purposes
+To access any Credit Information from a Credit Bureau, the User should have a
+Permissible Purpose and the Bureau must have proper consent from the respective
+Data Subject.
+The Permissible Purposes are as follows:
+11.2.1
+Credit appraisal of a Data Subject
+11.2.2
+Assessment of repayment capacity of a Data Subject
+11.2.3
+Credit behavior of a Data Subject
+11.2.4
+Information about a Data Subject asked by a government entity, BB, or other
+applicable regulatory authorities in Bangladesh
+11.2.5
+Other purposes with the consent from the Data Subject
+
+11.3 Scope of Data Sharing:
+
+No personal data of a Data Subject is to be shared among the institutions dealing with
+customer data. Only the transactional data, credit data, data related to payment habits,
+public information or any other relevant positive or negative information that may have
+relevance in assessing credit scoring of an entity can be shared. However, no data
+related to the balance of deposit accounts is to be shared.
+
+11.4 Data Collection and Data Sharing:
+
+11.4.1 A licensed Credit Bureau shall be allowed to collect relevant information for
+Permissible Purposes only on the Credit History relating to the commitment of
+Data Subject, in order to determine their overall debt exposure, repayment
+behavior and other contractual obligations.
+11.4.2 All Data Providers and Users, whether regulated by the Bangladesh Bank or not,
+will be subject to the same rules and obligations as provided in these guidelines.
+11.4.3 Credit Bureau may collect data from any of the following sources as per the
+allowance to do so in their respective legislation:
+
+11.4.3.1
+Banks and Finance Companies operating in Bangladesh pursuant to the
+Bank Company Act, 1991, and the Finance Companies Act, 2023;
+11.4.3.2
+Credit Information Bureau (CIB) of BB;
+11.4.3.3
+Other Credit Bureaus licensed by BB;
+11.4.3.4
+Mortgage Finance Companies;
+11.4.3.5
+Finance Companies;
+11.4.3.6
+Insurance Companies;
+
+--- Page 18 ---
+17
+
+11.4.3.7
+Institutions that offer credit to medium, small and micro-enterprises.
+(Micro Finance Institutions);
+11.4.3.8
+Asset Management Companies;
+11.4.3.9
+Courts;
+11.4.3.10 Suppliers of goods and providers of services on a post-paid or installment
+payment basis;
+11.4.3.11 Mobile Financial Service Providers;
+11.4.3.12 Payment Service Providers;
+11.4.3.13 Telecommunication Service Providers;
+11.4.3.14 Utility companies;
+11.4.3.15 Any other companies having credit or non-credit information about the
+subject matter and are willing to provide such information;
+11.4.3.16 Other entities that have relevant data and information that complies with
+Permissible Purposes and serves the purposes of the Credit Bureau.
+11.4.4 At the time of receiving Credit Information on a Data Subject, a Credit Bureau
+shall have reasonable procedures in place to ensure that all available relevant
+Credit Information on the Data Subject is obtained and have sufficient documents
+to prove the authenticity of data.
+11.4.5 In case of collection of data from the source which is regulated by BB, the data
+provider is liable to provide correct and authentic data.
+11.4.6 In case of collection of data from the source which is not regulated by BB, Credit
+Bureau must take the responsibility to ensure the correctness and authenticity of
+data as mentioned in this document.
+11.4.7 A Credit Bureau may consult other Public Databases as sources of relevant
+information, provided that the confidentiality of the Data Subject is maintained
+and it is for Permissible Purposes.
+11.4.8 Collected data should be stored within the geographic location of Bangladesh.
+Data cannot be stored in internet cloud located outside the geographic location
+of Bangladesh.
+
+11.5 Information Dissemination and Consent of Data Subjects:
+
+11.5.1 A Data Provider shall be required to give notice to all its customers or potential
+customers of its duty to seek Credit Report and to report Credit Information to
+a licensed Credit Bureau. Such notice can be given by placement of notice in the
+banking halls, on ATM screen, text messages, Account Opening forms and any
+other appropriate means.
+11.5.2 Every User shall be required to obtain the consent of a Data Subject before
+requesting for the credit report of that Data Subject from licensed Credit
+
+--- Page 19 ---
+18
+
+Bureaus. If the credit report however is required by either a law enforcement
+agency, a regulatory body or pursuant to a directive of a regulator or a court
+order, then the Data Subject’s consent is not required.
+11.5.3 While providing information to User, Credit Bureau must ensure two or more
+factor authentication to identify the User.
+
+11.6 Responsibilities and Duties of Banks, Other Finance Companies and Other Users:
+
+11.6.1
+All Banks, Other Financial Companies, Mobile Financial Service Providers, and
+Payment Service Providers must have data exchange agreements with at least
+one licensed Credit Bureau.
+11.6.2
+A Credit Bureau must have data exchange agreement with all other Credit
+Bureaus.
+11.6.3
+As an alternate of the above procedure of manual upload of data, API-based
+connectivity may be established between the Credit Bureau and the Data
+Provider who has data sharing agreement with them to access real-time data
+of the borrower or the potential borrower.
+11.6.4
+A data provider or a credit information furnisher shall not knowingly
+disseminate credit information that contains false or misleading information.
+11.6.5
+All data provider shall update any change in the data submitted to a Credit
+Bureau at least monthly or more frequently or in accordance with a schedule
+provided by the Credit Bureau.
+11.6.6
+All Users shall adopt reasonable procedures to ensure that all Credit
+Information is kept confidential.
+11.6.7
+All Users shall utilize the Credit Information collected solely for permissible
+purposes set out in these guidelines.
+11.6.8
+Each User shall have its own credit decision-making rules. The Credit
+Information and other services provided by the Credit Bureau shall be
+considered as one of the tools for a credit risk decision process, but the decision
+shall not be made solely on the basis of the Credit Information obtained from
+the Credit Bureau.
+
+11.7 Responsibilities and Duties of Credit Bureau:
+A Credit Bureau shall –
+11.7.1
+Implement strict data quality control procedures to ensure the quality of its
+database and the continuity of its services.
+11.7.2
+Appoint external auditor for both technology and financial audit of the
+organization on annual basis.
+
+--- Page 20 ---
+19
+
+11.7.3
+Utilize the information collected solely for Permissible Purposes set out in these
+guidelines.
+11.7.4
+Not knowingly disseminate credit or other information that contains false or
+misleading information.
+11.7.5
+Adopt reasonable procedures to ensure that Data Providers can update data
+regularly and at least once in every calendar month.
+11.7.6
+Adopt reasonable procedures to allow Data Providers, the Bangladesh Bank,
+other Credit Bureaus or Data Subjects to correct data found to be inaccurate,
+invalid, incomplete or out of date.
+11.7.7
+Provide Bangladesh Bank, unrestricted access to all the Credit Information
+managed by the Credit Bureau, either through access to its systems or in a
+manner stipulated by the Bangladesh Bank, for the purpose of supervision.
+11.7.8
+Observe, through its shareholders, Directors and Officers, policies and
+procedures, a perpetual duty of confidentiality regarding the Credit
+Information in its database.
+11.7.9
+Shall not transfer, directly or indirectly, physically or otherwise any database,
+or provide access to any database containing Credit Information to any person
+or entity other than the Bangladesh Bank. Where the Credit Bureau needs to
+give access to its database to consultants and technical partners for the
+purpose of creating or designing products or any other legitimate purposes,
+such consultants and technical partners shall be contractually bound to observe
+the duties of confidentiality imposed on the Credit Bureau under these
+guidelines and shall enter into agreements accordingly.
+11.7.10 Ensure that all Users and Data Providers that are not statutorily under the
+regulatory purview of the BB are contractually bound to the duties and
+responsibilities of Data Providers and Users specified in these guidelines.
+11.7.11 Credit Bureau must adopt reasonable procedures to ensure that they can
+update data regularly and at least once in every calendar month.
+11.7.12 Credit Bureau must have reasonable and accessible Dispute Resolution
+Processes and procedures to allow Data Subjects to correct data found to be
+inaccurate, invalid, incomplete or out of date.
+11.7.13 Credit Bureau must have a credit scoring method approved by BB at the time
+of application submission for licensing purpose by the relevant credit bureau.
+
+11.8 Unless any willful negligence on the part of Data Providers and Credit Bureau has been
+established, they shall not be held responsible for any decision made by the users of
+credit report.
+11.9 Nature of data collected by Credit Bureau and Data Retention Period:
+
+--- Page 21 ---
+20
+
+11.9.1
+A Credit Bureau must maintain a Credit File on each Data Subject which, if
+available, should contain, at a minimum the Data Subject’s personal and credit
+data including:
+
+Personal Historical Data:
+i. Natural Person: They include the name, nationality, photograph, date
+and place of birth, identification documents, present and past
+addresses in the last three years, profession, details of present and
+past jobs in the past three years, spouse name in addition to any other
+data that meet the requirements of the Credit Bureau.
+ii. Legal Persons: They include the name, legal status, shareholding
+structure, shareholders holding ten percent and above of the paid-up
+capital, company registration certificate and any other information
+that meet the requirements of the credit bureau.
+Credit Data: It includes loan value and/or authorized credit limit, the
+outstanding balances, type of facility or product, maturity date,
+outstanding installments due and types of collaterals offered in addition
+to any other information that meet the requirements of the Credit
+Bureau.
+Payment Habits: These are historical data for a minimum of five preceding
+years, reflecting the extent to which clients are regular in meeting their
+commitments on due dates and they include:
+i. Positive information: Information that reflects the clients’ payment of
+obligations on due dates.
+ii. Negative information: Information related to clients’ delinquencies
+including payment delays, irregularities, dishonored cheques and bills,
+defaults, court sentences, seizures, protested bills of exchange,
+insolvency and bankruptcy.
+d) Public Record Information: Information available in public records
+including civil, commercial, real estate, court registries, the police,
+utilities, etc.
+Inquiries made to the credit file: It includes the User’s name, business,
+and date of inquiry. The credit file should not contain data related to
+affiliation to a political party or other general organizations, religious
+beliefs, or health conditions.
+
+--- Page 22 ---
+21
+
+11.9.2 A Credit Bureau shall -
+11.9.2.1 Maintain a database for a period of at least twelve years for each data
+subject. Among the total database, Credit Bureau will be responsible to
+provide one-year old data immediately to User if requested through proper
+channel. Credit Bureau is allowed to take at most seven working days to
+provide more than one-year old data to the user.
+11.9.2.2 Implement procedures and systems that ensure that the Credit Information
+in its database is updated on an ongoing basis.
+11.9.2.3 Update its database as and when information is provided by the data
+collection sources. The information shall be updated on a regular basis and
+as often as may be required in standardized formats/procedures.
+11.10 Maintenance of Data Integrity and Security
+
+11.10.1
+A Credit Bureau shall take the reasonable security and control measures in
+order to avoid unauthorized access or improper use or mismanagement of
+information in its database by its staff, contractors, and technology partners,
+Users, other Credit Bureaus, Data Providers or Data Subjects.
+11.10.2
+A Credit Bureau shall not request, collect or share Credit Information, other
+than as permitted in these guidelines.
+11.10.3
+All data collected by a Credit Bureau on a Data Subject must be aggregated
+and the resulting Credit Information must only be made available on request
+to Users or the Bangladesh Bank for Permissible Purposes.
+11.11 Fees and Charges
+
+11.11.1
+A Credit Bureau may charge fees for its services. Such charges shall continue
+to be approved by the BB pending the issuance of the guidelines to Credit
+Bureau Charges or instructions issued by BB.
+11.11.2
+Data Subjects shall have access, free of charges, to a copy of their Credit Report
+once per year or at a time when an adverse action has been taken by a User.
+SECTION 12 – CUSTOMER DUE DILIGENCE
+
+In order to provide better user experience, Credit Bureau shall make their user-onboarding
+process digital. Besides, they should also consider the security aspects in this regard.
+
+--- Page 23 ---
+22
+
+SECTION13 – INTEROPERABILITY
+
+All the licensed Credit Bureaus shall be interoperable and connected to each other. Data shall be
+shared with other Credit Bureau based on the points mentioned in the already signed agreement
+between both parties and in exchange of a previously agreed fee.
+SECTION 14 - RIGHTS OF DATA SUBJECT
+
+14.1
+The Credit Bureau will not impose any fees or charges on the Data Subject for
+providing any information to the Credit Bureau.
+14.2
+A Data Subject shall, upon production of satisfactory identification and payment of
+stipulated fee, have unhindered access to inspect his or her Credit Information at any
+Credit Bureau.
+14.3
+Where the Data Subject believes that the information contained in the database is
+inaccurate, incomplete or out of date, he or she may request the Credit Information
+to be corrected.
+14.4
+Any entry or statement confirmed as inaccurate or incomplete by the Data Provider
+shall be remedied within five working days from the date of receiving notice from the
+Data Provider.
+SECTION 15 - DISPUTE RESOLUTION AND COMPLAINT HANDLING
+
+15.1 All Credit Bureau and Users shall establish readily accessible processes and procedures,
+supported by a Complaint Resolution Unit to handle all complaints or disputes in
+respect of its data or operations.
+15.2 For the duration of the investigation resulting from a complaint or dispute, the Credit
+Information in the Credit Bureau must indicate that the Credit Information is under
+dispute.
+15.3 Where there are Legal Liabilities or cost arising from inaccurate data, because of illegal
+activity, gross negligence or reckless behavior, the Data Provider or the Credit Bureau
+shall be liable, depending upon their degree of culpability.
+15.4 If a party to a dispute is not satisfied with the outcome, that party has the right to
+appeal to BB which shall establish readily accessible processes and procedures,
+supported by a Complaint Resolution Unit to handle all complaints or disputes. The
+determination of BB shall be deemed final but an unsatisfied party has the right of
+recourse to an appropriate court in Bangladesh.
+
+--- Page 24 ---
+23
+
+15.5 The Credit Bureau shall render monthly reports on all disputes and complaints to the
+Bangladesh Bank in a format approved by the Bangladesh Bank.
+15.6 Any dispute, contrary, claim arising out of, or relating to Credit Bureau-related
+transaction, shall be settled between the parties and if settlement is not reached, the
+dispute shall be referred to BB for arbitration.
+15.7
+
+A Credit Bureau may file a claim against the Data Provider whenever it is held
+liable for any incorrect, incomplete or out-of-date information.
+(ii)
+Users of Credit Information provided by a Credit Bureau shall be held liable
+in the event of wrongful or fraudulent use of the Credit Information, or if the
+Users cause material damage to the Data Subject’s financial reputation.
+15.8 The Bangladesh Bank may, at any time, request information from Credit Bureau, Users,
+or Data Providers in order to evaluate complaints, accusations or inconsistencies
+detected related to the operations of a Credit Bureau or a User or Data Provider.
+SECTION 16 - OPENING AND CLOSURE OF CREDIT BUREAU OFFICES
+
+16.1 A Credit Bureau must obtain approval of the BB before opening, relocating or closing
+its office.
+16.2 Such opening or closure of office by a Credit Bureau must be approved by the Board of
+Directors in accordance with its business plan.
+SECTION 17 - SUBMISSION OF RETURNS AND AUDITED ACCOUNTS TO THE BB
+
+17.1 Every Credit Bureau shall submit details of its activities according to the specified
+format to BB on a quarterly basis.
+17.2 All Credit Bureaus shall submit their Audited Financial Statements not later than two
+months after completion of the financial reporting period. On special cases, BB may
+extend the submission date by two more months if it deems necessary.
+17.3 BB, as part of its supervisory functions of the activities of Credit Bureau, shall have
+unrestricted access to the database and records of all licensed Credit Bureau in
+Bangladesh.
+
+--- Page 25 ---
+24
+
+SECTION 18 – COMPLIANCE WITH THE GUIDELINES
+
+18.1 Credit Bureau, Users and Data Providers must comply strictly with the provisions of
+these guidelines. However, in case of confirmed contravention, BB shall apply
+appropriate sanctions on the Credit Bureau and Data Providers that operate under its
+regulatory purview.
+18.2 Where a Credit Bureau, through its shareholders, Directors or Officers illegally
+discloses any Credit Information, before or after its dissolution, the responsible party
+is liable to pay a penalty of Five Hundred Thousand Taka only and in the case of a
+continuing offence, additional fines will be imposed as deemed appropriate by the
+Bangladesh Bank.
+18.3 In the attainment of its corporate purpose and the performance of its activities, a
+Credit Bureau shall comply with any directives issued by the BB.
+18.4 The Board of Directors of a Credit Bureau, Data Provider or a User is responsible for
+ensuring compliance and internal dissemination of these guidelines.
+SECTION 19 - DISSOLUTION, LIQUIDATION AND REVOCATION OF LICENSE
+
+A Credit Bureau must have a defined exit policy.
+19.1
+Where a Credit Bureau is to be dissolved and liquidated, it shall notify BB in writing
+three months prior to the date of its final application to BB and the final application
+needs to be accompanied by the following documents:
+19.1.1 A copy of the minutes of the extraordinary meeting of shareholders in
+which the agreement to dissolve was recorded.
+19.1.2 Financial Statements as of the date the agreement to dissolve was made,
+as well as a report from the auditor appointed by the BB for that purpose.
+19.1.3 A sworn statement from the CEO specifying outstanding obligations (if
+any).
+19.1.4 Evidence of appointment of a liquidator.
+19.1.5 Evidence of court order if necessary.
+19.1.6 The BB shall on receipt of notice of dissolution or liquidation conduct an
+investigation of the Credit Bureau.
+19.2
+The Official Receiver or Liquidator of the Credit Bureau shall comply with the decision
+of the BB with regards to the management and control of its database on dissolution.
+
+--- Page 26 ---
+25
+
+19.3
+The Official Liquidator of a Credit Bureau shall deliver its database containing Credit
+Information to the BB in the form, and upon the terms and conditions stipulated by
+the BB.
+19.4
+A Credit Bureau License is valid until revoked by the BB. The BB may revoke a Credit
+Bureau License if it is satisfied that:
+There have been substantial unaddressed violations of these guidelines.
+ii.
+The Credit Bureau is insolvent.
+iii.
+It is in the public interest to do so.

@@ -1,0 +1,647 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+www.bb.org.bd
+
+FE Circular No. 03 Date: February 07, 2022
+
+Head offices/Principle offices of
+All Authorized Dealers of
+Foreign Exchange in Bangladesh
+
+Dear Sir,
+
+Submission of Daily Exchange Position Statement
+
+Please refer to Paragraph-22, Chapter-2 of the Guidelines for Foreign Exchange
+Transactions (GFET)-2018, Volume-2 whereby the Authorized Dealers (ADs) are instructed
+to submit the Daily Exchange Position statements through Rationalized Input Template
+(RIT).
+
+02. For further convenience of supervision, it has been decided that the Paragraph-22
+and Appendix-49A & 49B will be replaced by the updated “Paragraph-22 and Appendix-49”
+
+containing new RIT of Daily Exchange Position Statement attached herewith.
+
+03. Authorized Dealers (ADs) shall start submitting [trial] Daily Exchange Position
+using the new RIT from 16 February 2022 in excel format by email. At the end of this trial
+period, from 21 March, 2022 ADs shall start uploading their Daily Exchange Position to
+ereturns.bb.org.bd. Beside the new RIT, ADs shall continue submitting Daily Exchange
+
+Position to EDW using previous RIT until further instruction.
+
+Please bring the contents of this circular to notice of all stakeholders concerned.
+
+Yours Faithfully,
+
+মি nh,
+(Kazi Rafiqul Hasan)
+
+General Manager
+Phone: 9530123
+
+--- Page 2 ---
+22. Submission of Daily Exchange Position Statement
+(A) ADs shall maintain records of their exchange position in foreign currencies as at the close of
+business on each working day in the prescribed proforma (Appendix 49). The currency wise
+daily exchange position statement shall be submitted to Bangladesh Bank on the following
+working day through RIT.
+Banks shall maintain their overall exposures in foreign currencies (overall net exchange
+position) within the ‘Open position limit’ at the end of the day. The open position limit is
+required to be approved by the Bangladesh Bank on the basis of total capital (sum of Tier-
+1 & Tier-2) and some other qualitative judgment.
+The proforma of exchange position has been drawn up to suit the different types of
+bookkeeping used in different banks. The main items which may cause some difficulties
+are explained below. In the event of any further difficulty being encountered, the AD
+should refer the matter to the Foreign Exchange Policy Department of Bangladesh Bank.
+(B) Guidelines for Calculation and Reporting of Foreign Exchange Exposure of Bank
+
+Foreign currency exposure of a bank is defined as the sum of all foreign currency
+denominated assets and liabilities. The exposure shall be the consolidated value of the
+bank’s DBU and OBU operation. The exposure shall also include the net forward and
+other possible off-balance sheet items (as decided by Bangladesh Bank) in each currency.
+No foreign currency denominated asset or liability can be ignored, unless it has been
+explicitly agreed with the Bangladesh Bank.
+Bank’s overall foreign exchange exposure (i.e. overall net exchange position) is to be
+measured in two successive steps: first, the measurement of the exposure in each single
+currency, and second, the measurement of overall foreign exchange exposure (i.e. overall
+net exchange position) by aggregating the sum of the net short positions or sum of the
+net long positions whichever is higher.
+(C) Calculation of Net Exchange Position in Each Currency
+Bank’s net exchange position in each currency shall be calculated by summing (i) net
+position in balance sheet items and (ii) net position in off-balance sheet items.
+Balance sheet items include spot position only. The net spot position is the difference
+between foreign currency assets and the liabilities in the balance sheet. This should
+include all accrued income/expenses.
+Off-balance sheet items include all foreign currency denominated assets and liabilities not
+included in the balance sheet. These transactions are recorded in the off-balance sheet
+section of the book of a bank.
+Off-balance sheet items include forward position denominated in foreign currency. Net
+Forward Position in a currency represents all amounts to be received less all amounts to
+be paid at a future value date under forward foreign exchange transactions including the
+far leg position of currency swap contracts.
+Therefore, banks shall arrive at net foreign exchange position in each currency by adding
+
+(i) net spot position and
+
+(ii) net forward position.
+
+--- Page 3 ---
+(D) Banks shall, thus, calculate the overall net exchange position in the following manner
+(i) Calculate the net exchange position in each currency;
+(ii) Convert the net positions in various currencies in equivalent USD [using the
+conversion rate determined by ‘Forex Reserve and Treasury management
+Department (FRTMD) of Bangladesh Bank’ or ‘Bangladesh Foreign Exchange Dealers
+Association (BAFEDA)’];
+(iii) Arrive at the sum of all the net long positions;
+(iv) Arrive at the sum of all the net short positions;
+(v) Arrive at the overall net foreign exchange position [higher of (iii) or (iv) above]
+The overall net foreign exchange position thus arrived must be kept within the limit
+approved by Bangladesh Bank.
+Net Exchange Position shall be worked out on the basis of opening balance and other
+transactions of the day concerned as per the local books of the Authorized Dealer. All assets
+take the form of debit balances and all liabilities take the form of credit balances.
+Therefore, if an Authorized Dealer holds a balance with its correspondent/OBU book, its
+local book will show a debit balance, as the AD is holding an asset. Similarly, an overdrawn
+position with an overseas correspondent/OBU book will be shown as a credit balance in the
+local book. No under valuation shall take place; assets are to be marked to market in
+adherence to the ‘Guidelines on Foreign Exchange Risk Management’. Balance sheet and
+off-balance sheet exposures are to be reported separately but added together to arrive at
+overall exposures in individual currency. The nostro balances as per local book and nostro
+balances as per book of the overseas correspondents/OBU should be completely
+reconciled. The banks shall take utmost measures for complete reconciliation as suggested
+in the ‘Guidelines on Foreign Exchange Risk Management’.
+(E) Submission of Daily Exchange Position Statement
+Banks are required to submit daily statement as mentioned below:
+
+i. The exchange position at the beginning opening (Section A of Appendix 49);
+
+ii. The transactions during the reporting day (Section B of Appendix 49);
+iii. The exchange position at the end of the day (Section C of Appendix 49). (i.e., the
+opening position for the next day)
+
+Transfer between different foreign currency accounts does not affect day transactions. For
+instance, the transfer of the balance in an NFCD account after maturity to an approved
+foreign currency account does not constitute buy or sell on the part of the bank on the day
+transaction.
+
+--- Page 4 ---
+(F) Description of some items of the Daily Exchange Position Statement
+
+Clarification of the contents of the columns:
+Items in the
+column
+Clarification
+1 & 1*
+Balance sheet items in USD only
+2 & 2*
+Balance sheet items in EURO only
+3 & 3*
+Balance sheet items in JPY only
+4 & 4*
+Balance sheet items in GBP only
+5 & 5*
+Summation of balance sheet items in all other currencies
+converted in equivalent USD
+Off-balance sheet items in USD only
+Off-balance sheet items in EURO only
+Off-balance sheet items in JPY only
+Off-balance sheet items in GBP only
+10
+Summation of off-balance sheet items in all other currencies
+converted in equivalent USD
+11
+Total of long positions (among different currencies as indicated
+at Row 1.6 of section A & C and Row 8 of section B of Appendix
+49) in equivalent US Dollar
+12
+Total of short positions (among different currencies as indicated
+in Row 1.6 of section A & C and Row 8 of section B of Appendix
+49) in equivalent US Dollar
+13
+Overall net foreign exchange position i.e. higher of 11 or 12
+above:
+with +(plus) sign in case of long position and with -(minus) sign
+in case of short position as the case may be.
+*Assets and Liabilities of Offshore Banking Unit
+
+(G) Clarification of items of the rows of Appendix-49
+
+[A] At the beginning of the day:
+
+
+Foreign currency Assets and liabilities of DBU and OBU operation at the beginning of
+the day shall be reported under respective sub-head under this head.
+
+1. Foreign currency position
+1.1. Foreign currency assets [Sum of 1.1.1. to 1.1.7.]
+1.1.1. Debit balances in Nostro account as per local book
+Debit balances in Nostro account as per local book shall be reported here.
+
+--- Page 5 ---
+1.1.2.
+Investments
+1.1.2.1. BB clearing account
+Funds held with Bangladesh Bank in FC clearing account.
+1.1.2.2. Interbank Placement (Inside Bangladesh)
+Placements, deposits etc. to other banks in Bangladesh (interbank
+deposit in foreign currency) shall be reported under this head.
+1.1.2.3. Fund mobilized to Own OBU operation (i.e.
+Equity,Loan,Placement,Deposit,Balance)
+Any form of fund mobilization (Equity, Loan, Placement, Deposit,
+Balance etc.) to own OBUs in Bangladesh shall be reported under this
+head.
+1.1.2.4. Fund mobilized to OBUs of other banks (i.e. Equity, Loan,
+Placement, Deposit, Balance)
+Any form of fund mobilization (Equity, Loan, Placement, Deposit,
+Balance etc.) to OBUs of any other banks of Bangladesh shall be
+reported under this head.
+1.1.2.5. Equity, Loan, Placement, Deposit, Balance to own overseas
+branches
+Any form of fund mobilization (Equity, Loan, Placement, Deposit,
+Balance etc.) to own overseas branches abroad shall be reported under
+this head.
+1.1.2.6. Equity, Loan, Placement, Deposit, Balance to own overseas
+subsidiary, exchange company
+Any form of fund mobilization (Equity, Loan, Placement, Deposit,
+Balance etc.) to own overseas subsidiary, exchange company abroad
+shall be reported under this head.
+1.1.2.7. Funds Retained by own overseas subsidiary, exchange
+company
+Any form of fund retained (i.e. remittance/profit/funds retained abroad
+for capital shortfall or regulatory requirement) by own overseas
+subsidiary, exchange company abroad shall be reported under this
+head.
+
+--- Page 6 ---
+1.1.2.8. Equity, Loan, Placement to entity/bank/institution (domestic
+or abroad) other than own subsidiary/branch/exchange company
+Equity, Loan, Placement, Deposit, Balance etc. to entity/bank/institution
+(domestic or abroad) other than own subsidiary/branch/exchange
+company shall be reported under this head.
+1.1.2.9. Other Investments
+Other Investments (not mentioned in 1.1.2.1. to 1.1.2.8.) shall be
+reported under this head.
+1.1.3. Cash holding
+Foreign currencies held in cash shall be reported under this head.
+1.1.4. Bills Purchased and Discounted
+1.1.4.1. Inland Bills Purchased (IBP)
+1.1.4.2. Foreign Bills Purchased (FBP)
+Banks are facilitating exporters by purchasing export bills (i.e. accepted
+deferred/ usance bills or early payment against open account as stated
+in FE Circular No. 25/2020) which are denominated as well as receivable
+in foreign currency against direct/deemed exports. Banks are facilitating
+importers by financing them while paying import bills (i.e. Usance
+Payable at Sight LC). For the said facilities, Banks may have different
+methods of entries for inland and foreign bills purchased (1.1.4.1 and
+1.1.4.2 respectively). Nonetheless, the value of any type of bill
+purchased shall be reported under the above heads respectively until or
+unless the bill is realized or settled. When the exchange position is
+prepared before realization of the bill(s), the total outstanding amount
+of purchased bills (foreign and inland denominated as well as receivable
+in foreign currency) should be reported under this head. Note that, any
+outstanding payment liability in foreign currency (if any) against such
+purchased bills shall not be deducted/adjusted while reporting under
+the said head and shall be reported under newly created
+row no. 1.2.3. Bills Payable (under the 1.2. Foreign currency liabilities
+section). After realization of bills, such transactions are to be reported
+in the local book and the respective heads will be adjusted accordingly.
+1.1.5. Unsettled Spot Transactions
+Amount of unsettled spot purchase transactions (spot purchase
+transactions not yet settled/not yet booked for) against firm
+deal/contract shall be reported under this head. The particulars of such
+balances, if reported, should be mentioned in the footnote. After
+settlement, such transactions are to be booked for in the local book and
+the respective heads will be adjusted accordingly.
+
+--- Page 7 ---
+1.1.6. Loans and Advances to Non-bank Customers (Principal & Interest)
+Any form of Loans and Advances to Non-bank Customers (individual or
+institutional) in foreign currency shall be reported under this broad
+head. There are 03(three) different subheads-
+1.1.6.1. Principal Receivable from Individual Customers:
+Principal outstanding of loans extended to non-bank individual
+persons/customers (irrespective of maturity and type) shall be reported
+under this head. This may include foreign currency outstanding (FC) of
+credit card, any other Loans & Advances in FC etc.
+
+1.1.6.2. Principal Receivable from Institutional Customers
+Principal outstanding of loans extended to non-bank institutional
+customers (irrespective of maturity and type) shall be reported under
+this head.
+1.1.6.3. Interest Receivable
+Interest accrued on any kind of foreign currency assets but not yet
+realized, shall be reported under this head. This may include, among
+others, interest receivable on EDF and LTFF loans, discounted bills,
+derivatives, Interest Rate Swap (IRS) agreements, etc.
+1.1.7. Other FC Assets
+Other Assets in foreign currency (FC) (not mentioned in 1.1.1. to 1.1.6.)
+shall be reported under this head.
+1.1.8. Assets of Own OBU operation
+Assets of the bank’s own OBU shall be reported under this head. This is
+additional to the consolidated reporting of Assets (1.1.1 to 1.1.7.) for
+supervising OBU operation separately.
+1.1.8.1 Cash Holding
+Foreign currencies held in cash by OBUs shall be reported under this
+head.
+1.1.8.2. Fund mobilized to OBUs/branch/subsidiary/exchange
+company of own bank
+Any form of fund mobilization (Equity, Loan, Placement, Deposit,
+Balance etc.) to own OBUs/branch/subsidiary/exchange company from
+its own OBU operation shall be reported under this head.
+
+--- Page 8 ---
+1.1.8.3. Fund mobilized to OBUs/branch/subsidiary/exchange
+company of other banks
+
+Any form of fund mobilization (Equity, Loan, Placement, Deposit,
+Balance etc.) to other bank’s OBUs/branch/subsidiary/exchange
+company from its own OBU operation shall be reported under this
+head.
+1.1.8.4. Loans and Advances
+Any form of Loans and Advances to Non-bank Customers (individual or
+institutional) in foreign currency from OBU operation to inside or
+outside Bangladesh shall be reported under the following respective
+heads.
+1.1.8.4.1 Inside Bangladesh
+
+1.1.8.4.2 Outside Bangladesh
+1.1.8.5. Bill purchased and discounted
+
+1.1.8.5.1. Inland Bills Purchased (IBP)
+
+1.1.8.5.2. Foreign Bills Purchased (FBP)
+
+OBUs are facilitating exporters by purchasing export bills (i.e.
+accepted deferred/ usance bills or early payment against open
+account as stated in FE Circular No. 25/2020) which are
+denominated as well as receivable in foreign currency against
+direct/deemed exports. Banks are facilitating importers by
+financing them while paying import bills (i.e. Usance Payable at
+Sight LC). For the said facilities, OBUs may have different
+methods of entries for inland and foreign bills purchased
+(1.1.8.5.1. and 1.1.8.5.2. respectively). Nonetheless, the value of
+any type of bill purchased shall be reported under the above
+heads respectively until or unless the bill is realized or settled.
+When the exchange position is prepared before realization of
+the bill(s), the total outstanding amount of purchased bills
+(foreign and inland denominated as well as receivable in foreign
+currency) should be reported under this head. Note that, any
+outstanding payment liability in foreign currency (if any) against
+such purchased bills shall not be deducted/adjusted while
+reporting under the said heads and shall be reported under
+newly created row no. 1.2.8.2. Bills Payable (under the 1.2.8.
+Liabilities of Own OBU operation). After realization of bills, such
+transactions are to be reported in the local book and the
+respective heads will be adjusted accordingly.
+
+--- Page 9 ---
+1.1.8.6 Other FC Assets
+Other FC Assets of OBU operation (not mentioned in 1.1.8.1. to 1.1.8.5.)
+shall be reported under this head.
+
+1.2. Foreign currency liabilities[Sum of 1.2.1. to 1.2.7.]
+
+
+
+
+1.2.1. Credit balances in Nostro accounts as per local book
+
+
+Credit balances in Nostro accounts as per local book shall be reported here.
+1.2.2. Balances of customers' accounts: Balance held in FC accounts of customers.
+
+1.2.2.1. NFCD : Balance held in NFCD accounts of customers.
+
+
+1.2.2.2. RFCD: Balance held in RFCD accounts of customers.
+
+
+1.2.2.3. ERQ: Balance held in ERQ accounts of customers.
+
+1.2.2.4. FC Accounts : Balance held in any other FC accounts of customers.
+
+1.2.2.5. FDD, TT, MT etc. Payable
+Banks issue FDDs, MTs and TTs on correspondents to pay foreign currency or
+equivalent to the beneficiaries by debiting their own nostro accounts. If a
+bank inputs the value of such instruments/transfers immediately into their
+currency account, then such transactions need not to be reported under this
+head. If the AD does not enter the amount of the instrument or transfer into
+his currency position until it is actually paid, the amount needs to be
+reported under this head. After settlement, such transactions are to be
+reported in the local book and the respective head shall be adjusted
+accordingly.
+
+1.2.2.6. Other account balance
+Balances of customer accounts other than FC, NFCD, RFCD, ERQ etc. (out of
+exchange position) and not covered by any head as mentioned above shall
+be reported under this head. The particulars of such balances, if reported,
+shall be mentioned in footnote.
+
+1.2.3. Bills Payable
+
+
+
+
+1.2.3.1. Accepted Inland Bills Payable
+
+
+
+1.2.3.2. Accepted Foreign Bills Payable
+Against complied presentation of documents, Importer’s Bank primarily gives
+acceptance to pay at the maturity and thus Bills payable (i.e. accepted
+deferred/ usance bills) are generated. Nonetheless, the value of accepted
+inland and foreign bills payable shall be reported under the above heads
+(1.2.3.1. and 1.2.3.2.) respectively until or unless the bill is paid or settled.
+When the exchange position is prepared before the payment of the bill(s),
+the total outstanding amount of accepted bills (foreign and inland
+denominated as well as payable in foreign currency) shall be reported under
+this head. After payment of bills, such transactions are to be reported in the
+local book and the respective heads will be adjusted accordingly.
+
+--- Page 10 ---
+1.2.4. Funds awaiting for Back to Back LC payment
+Under the back-to-back system, import bills are usually paid from export
+earnings. Bank receives export proceeds and retains these to settle import
+bills accordingly on maturity. Balance in these accounts (e.g. back to back
+margin account) should be reported under this head. After payment is made
+on maturity, such transactions are to be reported in the local book and the
+respective head shall be adjusted accordingly.
+
+1.2.5. Unsettled Spot Transactions
+Amount of unsettled spot sales transactions against firm deal/contract shall
+be reported under this head. The particulars of such balances, if reported,
+should be mentioned in the footnote. After settlement, such transactions are
+to be booked for in the local book and the respective head will be adjusted
+accordingly.
+
+1.2.6. Borrowings & Interest Payables
+
+
+
+
+1.2.6.1. Borrowings from Bank/Institution abroad (i.e.
+Equity,Loan,Placement)
+Any type of Borrowings from Bank/Institution abroad in the form of Equity,
+Loan, Placement etc. shall be reported here.
+
+1.2.6.2. Borrowings from Scheduled Banks/Bank's OBU
+
+
+Any type of Borrowings from domestic scheduled Banks/Bank's OBUs in form
+of Equity, Loan, Placement etc. shall be reported here.
+
+1.2.6.3. Borrowings from Central Bank
+
+Any type of Borrowings from Bangladesh Bank shall be reported here.
+
+1.2.6.4. Interest Payables
+
+Amount of interest payable on account of FC denominated liabilities
+
+(including penal interest, if any) should come under this head.
+
+
+1.2.7. Other FC Liabilities
+Other Liabilities in foreign currencies (FC) (not mentioned in 1.2.1. to 1.2.6.) shall be
+reported under this head.
+
+1.2.8 Liabilities of Own OBU operation
+
+Liabilities of bank’s own OBU operation shall be reported under this head. This is
+additional to the consolidated reporting of Liabilities (1.2.1. to 1.2.7.) for supervising
+OBU operation separately.
+
+--- Page 11 ---
+10
+
+
+1.2.8.1 Placement/ Borrowing by OBU operation
+Total amount of Placement/ Borrowing by bank’s OBUs shall be reported
+here under the below sub-head accordingly.
+1.2.8.1.1 Placement/ Borrowing from Parent bank/ DBU operation
+Total amount of Placement/ Borrowing from parent bank/ DBU
+operation by OBUs shall be reported here under this sub-head.
+1.2.8.1.2. Placement/ Borrowing from own OBUs
+
+Total amount of Placement/Borrowing from own OBUs shall be
+reported here under this sub-head.
+1.2.8.1.3. Placement/ Borrowing from Other OBU
+Total amount of Placement/ Borrowing from any other bank’s OBUs
+shall be reported here under this sub-head.
+1.2.8.1.4. Placement/ Borrowing from Foreign
+Total amount of Placement/ Borrowing from foreign or abroad by
+OBUs shall be reported here under this sub-head.
+
+1.2.8.1.5. Placement/ Borrowing from Others
+Total amount of any other Placement/ Borrowing (not mentioned in
+1.2.8.1.1 to 1.2.8.1.4) by OBUs shall be reported here under this sub-
+head.
+
+1.2.8.2. Bills Payable
+
+1.2.8.2.1. Accepted Inland Bills Payable
+
+
+
+1.2.8.2.2. Accepted Foreign Bills Payable
+
+
+Against complying presentation of documents, OBUs primarily give
+acceptance to pay at the maturity and thus Bills payable (i.e.
+accepted deferred/usance bills) are generated. Nonetheless, the
+value of accepted inland and foreign bills payable by OBUs (1.2.8.2.1
+and 1.2.8.2.2 respectively) shall be reported under the above heads
+respectively until or unless the bill is paid or settled. When the
+exchange position is prepared before the payment of the bill(s), the
+total outstanding amount of accepted bills (foreign and inland
+denominated as well as payable in foreign currency) should be
+reported under this head. After payment of bills, such transactions
+are to be reported in the local book and the respective heads will be
+adjusted accordingly.
+
+--- Page 12 ---
+11
+
+
+1.2.8.3. Deposits
+Total Balance of FC accounts of customers.
+
+1.2.8.4. Other FC Liabilities
+
+
+Other FC Liabilities (not mentioned in 1.2.8.1. to 1.2.8.3.) shall be reported
+
+under this head.
+1.3. Net position of assets/liabilities
+Difference between the total items under 1.1. and total items under 1.2. shall be reported
+under this head.
+
+1.4. Forward against contract
+Banks offer forward booking to other banks and customers. Currency-wise net outstanding
+amount of forward derived from purchase or sale from/to banks/financial institutions and
+customers against firm contract shall be reported under this head.
+1.5. Contingent liability
+Outstanding amount of contingent liabilities: Letter of credit [Inland letter of credit opened
+in FC (if any), Inland Back to Back letter of credit, Foreign letter of credit], Letter of
+guarantee (including stand-by letter of credit, irrevocable repayment undertaking,
+confirmation given to other banks for LCs), Bills for Collection, acceptances, others are to be
+reported under this head. However, the amount under this head shall not be considered for
+calculation of net exchange position.
+1.6.
+Overall position (1.3. + 1.4.) (Balance sheet + Off-Balance sheet except Contingent
+
+
+liabilities)
+
+--- Page 13 ---
+12
+
+
+[B] During the day:
+
+2. Spot/ cash transactions (net) of the day
+Spot transaction is a single outright transaction involving the exchange of two
+currencies at a rate agreed on the date of the contract for value or delivery (cash
+settlement) within two business days. Cash transaction is the transaction involving the
+exchange of two currencies at a rate agreed where settlement takes place
+immediately (usually in the same day). These are to be reported under this head. To
+mention, cash settlement of forward transactions, settlement of near leg and far leg
+spot transactions of swap contracts (buy/sell as the case may be) shall be reported
+under this head ( Please see below).
+3. Forward Position (Net) of the Day
+
+3.1. Forward Transactions (net) during the Day (3.1.1-3.1.2)
+
+
+Forward transactions involve the exchange of two currencies at a rate agreed on the
+date of the contract for value or delivery (cash settlement) at a future date (more
+than two business days).
+Swap Transaction is a combination of a spot and a forward transaction and involves a
+simultaneous purchase and sale of two currencies against each other.
+Forward transactions (along with those derived from swap transactions i.e. far legs of
+swap transactions) of the day with banks and customers are to be reported under the
+above head. However, sales, purchases and settlement of such transactions are to be
+reported under different heads as stated in the format.
+Transactions derived from swap contracts are to be reported simultaneously under sl.
+no. 2 (Spot transactions) and sl. no. 3 (Forward transactions) of the exchange position
+statement. The near leg spot transaction of the currency is to be reported under sl.
+no. 2 while the far leg of the swap contract is to be reported under sl. no. 3. of the
+exchange position statement under the head of forward transactions (purchase or
+sale as the case may be). On maturity, the far leg transaction is to be reported under
+spot (buy/sell) as reversal of the previous one and to neutralize the forward book
+position; the settled transaction amount shall be shown as forward purchase/forward
+sale settlement under the respective head under sl. no. 3.
+4. Issuance and settlement of contingent liabilities during the day
+Issuance and settlement of contingent liabilities during the day (which shall be
+excluded for calculation of foreign exchange exposures) like letters of credit and
+letters of guarantee, Bills for collection are to be reported under this head.
+5. Total spot position of the day
+It is the sum of the spot position at the beginning (1.3.) and the Total spot/ cash
+transactions (net) during the day (2.6.)
+
+--- Page 14 ---
+13
+
+
+6. Total forward position of the day
+It is the sum of the opening forward position of the day (1.4.) with net forward
+transactions of the day (3.1.) less net settlement of outstanding forward transactions
+during the day (3.2.)
+7. Total currency-wise net exchange position of the day
+Net Exchange position in a currency is the sum of spot position (Row 5) and forward
+position (Row 6) in the respective currency.
+8. Total of the Net Long Positions (Column 11) and Total of the Net Short Positions
+(Column 12) in equivalent US Dollar
+
+The sum of the net exchange positions of the currencies as indicated in Row 7 having
+long position shall be reported at Row 8 and Column 11 of the matrix with ‘+’ (plus)
+sign. On the other hand, the sum of the net exchange positions of the currencies as
+indicated in Row 7 having short position shall be reported at Row 8 and Column 12 of
+the matrix with ‘ –’ (minus) sign.
+
+9. Overall Net Exchange Position in equivalent US Dollar
+The overall net exchange position of the bank shall be the ‘total of the net long
+positions’ or the ‘total of the net short positions’ (as indicated in Row 8) whichever is
+higher. Overall net exchange position thus arrived in equivalent US Dollar shall be
+reported at Row 9 and Column 13 of the matrix.
+10. Overall Net Exchange Position in equivalent BDT
+Overall net exchange position in equivalent BDT shall be reported at the Row 10 and
+Column 13 of the matrix.
+11. Conversion Rate (Equivalent Taka)
+The conversion rates applied by ADs to convert various currencies are to be reported
+here (equivalent BDT per respective foreign currency.) To convert currencies, ADs are
+advised to use weighted average rate of USD/BDT as declared by FRTMD of
+Bangladesh Bank or BAFEDA.
+
+--- Page 15 ---
+14
+
+
+[C] At the end of the day:
+
+
+Foreign currency Assets and liabilities of DBU and OBU operations at the end of the day
+shall be reported under the respective sub-head under this head. Description of subheads is
+similar to sub-heads of [A] At the beginning of the day (1.1. to 1.6.).
+
+
+[D] Additional Information:
+
+D1. Bangladesh Open position limit USD
+Currently authorized Open Position Limit (in USD) of the reporting scheduled bank shall be
+reported under this head.
+
+D2. Regulatory Capital
+Current Regulatory Capital (in USD) of the reporting scheduled bank shall be reported under
+this head.
+
+D3. Margin of Irrevocable letter of credit
+Consolidated margin amount of Irrevocable letter of credit issued by the reporting scheduled
+bank shall be reported under this head.
+
+D4. Endorsement against Credit/Debit cards
+Total endorsed value/amount against Credit/Debit cards shall be reported under this head.

@@ -1,0 +1,144 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাংক ক্রেডিট ইনফরমেশন ব্যুরো
+
+প্রধান কার্যালয়
+মতিঝিল, ঢাকা-১০০০
+বাহলাদেশ।
+website: www.bb.org.bd
+
+সিআইবি সার্কুলার নং ৪ ০২ তারিখঃ ২৩ জুন ২০২৪
+od আষাঢ় ১৪৩১
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+
+বাংলাদেশে SAAS সকল ব্যাংক এবং ফাইন্যান্স কোম্পানি
+প্রধান কার্যালয়, ঢাকা।
+
+| ROTA ডাটাবেইজে ক্রেডিট গ্যারান্টি সুবিধারপ্ত খণকে “005” হিসেবে রিপোর্ট করা প্রসঙ্গে
+উপর্যুক্ত বিষয়ে ক্রেডিট গ্যারান্টি ডিপার্টমেন্ট এর সিজিডি সার্কুলার নং-০১, তারিখ: ০৮/১১/২০২৩ এর প্রতি
+আপনাদের দৃষ্টি আকর্ষণ করা যাচ্ছে।
+
+২। উল্লিখিত সার্কুলারের ৪.১৪ নং অনুচ্ছেদ এ ব্যাংক এবং ফাইন্যান্স কোম্পানি কর্তৃক গ্যারান্টি সুবিধাপ্াপ্ত
+খণের তথ্য বাংলাদেশ ব্যাংকের ক্রেডিট ইনফরমেশন ব্যুরো (0113)-তে রিপোর্ট করার সময় CGS হিসেবে লিপিবদ্ধ
+
+৩। এ লক্ষ্যে ক্রেডিট গ্যারান্টি সুবিধাপ্রাপ্ত খণসমূহকে "সংযোজনী-ক” এ উল্লেখিত ‘Contract Types’ এর
+Domain Table অনুসরণপূর্বক সিআইবি ডাটাবেইজে এন্ট্রি বা Bulk আকারে Real Time-« রিপোর্ট করার জন্য
+নির্দেশনা প্রদান করা হলো |
+
+৪ । এ নির্দেশনা অবিলম্ে কার্যকর হবে।
+
+৫1 Bangladesh Bank Order, 1972 (P.O No. 127 of 1972) এর article 44(1) এ প্রদত্ত
+ক্ষমতাবলে এ নির্দেশনা জারি করা হলো ।
+
+আপনাদের বিশ্বস্ত,
+
+(মুন্সী মোহাম্মদ ওয়াকিদ)
+
+পরিচালক (সিআইবি)
+ফোন: ৯৫৩০১৩৩
+
+সংযুক্তি: বর্ণনা মোতাবেক |
+
+ফোন 8 ৮৮-০২-৯৫৫০৪৪৮, ৯৫৫৪৮৯৬, আইপি ৪ ৮৮-০২-৫৫৬৬৫০০১-৬, ফ্যাক্স ৪ ৮৮-০২-৯৫৩০৪৭৯, www.bb.org.bd
+
+--- Page 2 ---
+ক্রেডিট ইনফরমেশন ব্যুরো
+সংযোজনী-ক
+Contract Type
+
+Used in Contract Data - Body for Record Type: General information for all types of Financing to
+indicate what type of specific Contract you are providing from the following list.
+
+Table contract Type =
+Value Description(EN)
+
+Instalment contracts
+
+MG Mortgage loan
+
+DI Demand Loan (Instalment repayment)
+
+al Packing Credit (Instalment repayment)
+
+IL Term Loan
+
+PS Partially Secured Term Loan _|
+FL. Financial Leasing
+
+OL Operational Leasing
+
+BM Bai-Muazzal (Real Estate) _
+
+HP Hire-Purchase
+
+HS Hire-Purchase under shirkatul Meelk
+
+VJ | Ijara (Lease Finance)
+
+BI Bai-Muazzal (Instalment Payment)
+
+Ol Other instalment contract
+
+TG Term Loan - CGS
+
+BO Bai-Muazzal - CGS
+
+Credit Cards
+
+RV Revolving Credit
+
+CR Credit Card (Revolving)
+
+CG Charge Card (Payable in full each month)
+Non instalment contracts
+
+OD Overdraft
+
+BL _| PAD/BLC/BE loan against doc/bills
+
+CP _Cash Credit against Pledge
+
+CH Cash Credit against Hypothecation
+
+LT Loan Against Imported Merchandise (LTR) _
+LI Loan Against Imported Merchandise (LIM)
+DN Demand Loan (Not Installment)
+
+EX Export Credit
+
+FB | Export loan against Foreign Bill Purchased
+LB Export loan against Local Bill Purchased
+WK Working capital financing
+
+GU Guarantee (non funded)
+
+LC Letter of credit (non funded)
+
+OF Other indirect facility (non funded)
+
+PN Packing Credit (Not Installment)
+
+--- Page 3 ---
+ক্রেডিট ইনফরমেশন ব্যুরো
+
+MB Murabaha Bills, Murabaha Bill of Exchange (General) Import Bills
+BU Bai-Murabaha
+MC Musharaka on consigment basis
+BC Bai-Murabaha-commercial
+BB Bai-Muazzal; Bai-Muazzal WES/Bills
+MS Musharaka (General)
+TR Bai-Murabaha-TR
+PH Musharaka (Local Purchase-Hypo)
+MP Murabaha Post Import (MPI)
+MT Murabaha Post Import Trust Receipt (MPITR)
+FI Finance against Imported Merchandise (FIM)
+BS Musharaka Pre-shipment, Bai-Salam
+PC Bai-Muazzal Pre-shipment Credit
+OP Any other Pre-shipment Credit
+FN Foreign Bill Negotiation (FBN)
+BP Foreign Bill Purchase (FBP)
+MD Musharaka Documentary Bills(MDB)
+| PF Post-shipment Finance
+QA Quard (All types)
+ON Other non instalment contract
+WC Working capital financing - CGS
+BG Bai-Murabaha - CGS

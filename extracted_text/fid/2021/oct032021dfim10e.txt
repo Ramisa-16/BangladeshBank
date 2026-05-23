@@ -1,0 +1,152 @@
+--- Page 1 ---
+Department of Financial Institutions & Markets
+Bangladesh Bank
+Head Office
+Dhaka
+
+DFIM Circular No-10 Date: 03 October 2021
+
+Chief Executives/Managing Directors
+All Financial Institutions in Bangladesh
+
+Dear Sir,
+
+Classification and Provisioning of 'Other Assets' of Financial Institutions
+
+All unadjusted prepaid entries, unadjusted prepaid legal expenses, protested bills and other
+expenses/losses are shown as 'Other Assets', although these are not real asset. The instructions for
+classification and provisioning of 'Other Assets' are as follows:
+
+
+a. Unadjusted Prepaid Entries: Any prepaid expenses for salary and allowances, travelling,
+entertainment, advertisement and business development etc. remain unadjusted for 12 (twelve) months
+or beyond will be classified as 'Bad and Loss' and 100% provision must be maintained.
+
+
+b. Unadjusted Prepaid Legal Expenses: As there is uncertainty in any unsettled legal actions,
+unadjusted expenses related to these legal actions will be classified as 'Doubtful' and 50% provision
+must be maintained. For settled legal actions if there remain any unadjusted expenses, these will be
+classified as 'Bad and Loss' and 100% provision must be maintained.
+
+
+c. Protested Bills: Protested Bill is originated from fraud-forgery, robbery, fund embezzlement
+and other causes. If there is any possibility of recovery of that Protested Bill, it will be classified as
+'Doubtful' in qualitative judgment and 50% provision must be maintained. If there is no possibility of
+recovery, it will be treated as 'Bad and Loss' and 100% provision must be maintained.
+
+d. Other Expenses/Losses: Other expenses/losses shown in 'Other Assets' will be classified as
+'Bad and Loss' and 100% provision must be maintained.
+
+In terms of the above policies the Financial Institutions will conduct their classification and
+provisioning of 'Other Assets' on quarterly basis i.e. 31 March, 30 June, 30 September and 31
+December. Financial Institutions will submit Classification and Provisioning Statement of Other Assets
+within 30 (Thirty) days after the end of the each quarter in Department of Financial Institutions and
+Markets of Bangladesh Bank and upload the same in Enterprise Data Warehouse (EDW) of Bangladesh
+Bank. Financial Institutions will ensure reflection of the position of other assets classification and
+provisioning in Annual Financial Statements with the instructions laid out in this circular.
+
+These instructions will be effective from the quarter ended September 2021.
+
+Instructions provided in section 5.5 of FID Circular No-08, dated-03 August 2002 and template
+(FICL 5) for 'Other Assets' attached with FID Circular No-06, dated-20 August 2006 hereby stand
+superseded by this circular.
+Please acknowledge receipt.
+
+Yours Sincerely,
+
+
+
+(Md. Zulkar Nayn)
+General Manager
+Department of Financial Institutions and Markets
+Phone-9530178
+Enclosure-01 (One)
+Website: www.bb.org.bd
+
+--- Page 2 ---
+Ref : DFIM Circular No. 10/2021
+
+CLASSIFICATION AND PROVISIONING OF OTHER ASSETS OF FINANCIAL INSTITUTIONS AS OF……..
+
+
+
+Page No.
+Name of Financial Institution:
+
+
+
+
+
+
+(Amount in Taka)
+
+
+
+
+
+
+Sl.
+No.
+Category
+of Other Assets
+Sub-Category
+of Other Assets
+Date of
+Initiation
+DD/MM/YY
+Outstanding Balance
+as of
+Reference Date
+Classification
+Status
+Amount of
+Provision
+Required
+Amount of
+Actual
+Provision
+Surplus/
+Shortfall
+Remarks
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Total

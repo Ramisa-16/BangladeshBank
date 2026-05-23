@@ -1,0 +1,180 @@
+--- Page 1 ---
+Page 1 of 7
+User Manual
+for
+Integrated Supervision System (ISS) Reporting of NBFIs
+
+Steps to Download, Fill-up and Upload the RITs of Integrated Supervision System (ISS)
+Step-1 : Log In to Web Portal of Bangladesh Bank Website
+Type in address bar of the Browser : https://www.bb.org.bd
+Click on Services
+Click on E-Services
+
+
+The following page will be visible :
+
+--- Page 2 ---
+Page 2 of 7
+
+Click on eReturns
+
+Type : User Id, Password and Capcha
+Click on Login button
+
+--- Page 3 ---
+Page 3 of 7
+
+Step-2 : Download the Forms(RITs) from Web Portal (Website) of Bangladesh Bank
+a. Follow Step-1
+b. Click on Download File
+c. Click on Download by Department
+d. Select Integrated Supervision Management Department from the dropdown list
+
+
+e. Then download the following Forms (RITs) as required
+
+For Head Office :
+T_PS_M_NBFI_MONITOR_HO.xlsm (Form-5)
+
+
+For Branch Office :
+T_PS_M_NBFI_MONITOR_BR.xlsm (Form-6 )
+
+--- Page 4 ---
+Page 4 of 7
+Step-3 : Fill up the Forms(RITs) & Convert the file as CSV format
+RIT of ISS – Form-5 :
+a. Open the file T_PS_M_NBFI_MONITOR_HO.xlsm
+
+
+
+b. Click on Options
+c. Select Enable this content
+d. Click on OK
+
+
+
+
+
+e. Then enter information for the following fields of the RIT:
+
+DATE
+End date of the Reporting Month (i.e. 31-Mar-2017, 30-Apr-2017) without considering holidays.
+FI NAME
+Select the name of your FI from the dropdown list.
+AMOUNT_BDT
+- Type only Numeric Values without comma (,). {Example : Valid data- 12345678952.00, Invalid
+data- 12,345,678,952.00}
+- Don’t use any character/symbols/texts (#, $, %, *, -, /, \, N/A, etc).
+- If needed two decimal points may be used for decimal part, but in general you are
+discouraged to type any value after decimal notation. {Example : Valid data- 12345.58, Invalid
+data- 12345.583}
+- Figures should be absolute (not converted in thousand/lacs/crore/ million/billion..…).
+{Example : Valid data- 123456.00, Invalid data- 1.23 lac}
+- For figures with %, input the full figure (11.58) not the absolute number (0.1128) & do not use
+“%” symbol. {Example : Valid data- 11.58, Invalid data- 0.1128 or 11.58%}
+
+--- Page 5 ---
+Page 5 of 7
+
+f. After completion of Fill-up the RIT, Click on the radio button shown as below :
+
+
+
+The RIT will be converted to CSV(Comma Delimited) format and will be stored in the same location of the
+original RIT. The CSV file will have to be uploaded to Web Portal (website) of Bangladesh Bank (file upload
+process has been shown in Step-4.
+
+RIT of ISS – Form-6 :
+a. Open the file T_PS_M_NBFI_MONITOR_BR.xlsm
+
+
+b. Click on Options
+c. Select Enable this content
+d. Click on OK
+
+
+
+
+e. Then enter information for the following fields of the RIT:
+
+DATE
+End date of the Reporting Month (i.e. 31-Mar-2017, 30-Apr-2017) without considering holidays.
+FI NAME
+Select the name of your FI from the dropdown list.
+BRANCH_ID
+Input Bangladesh Bank provided 'Branch ID' for ISS reporting of the respective branch of the FI.
+AMOUNT_BDT
+- Type only Numeric Values without comma (,). {Example : Valid data- 12345678952.00, Invalid data-
+12,345,678,952.00}
+- Don’t use any character/symbols/texts (#, $, %, *, -, /, \, N/A, etc).
+- If needed two decimal points may be used for decimal part, but in general you are discouraged to
+type any value after decimal notation. {Example : Valid data- 12345.58, Invalid data- 12345.583}
+- Figures should be absolute (not converted in thousand/lacs/crore/ million/billion..…). {Example : Valid
+data- 123456.00, Invalid data- 1.23 lac}
+
+--- Page 6 ---
+Page 6 of 7
+
+
+f. After completion of Fill-up the RIT, Click on the radio button shown as below :
+
+
+
+The RIT will be converted to CSV(Comma Delimited) format and will be stored in the same location of the original
+RIT. The CSV file will have to be uploaded to Web Portal (website) of Bangladesh Bank (file upload process has
+been shown in Step-4.
+
+Step-4 : Upload the CSV file to Web Portal of Bangladesh Bank Website
+Click on Upload File option on the web portal
+
+
+Select Monthly from the dropdown list shown under RIT Frequency
+Select T_PS_M_NBFI_MONITOR_HO from the dropdown list shown under RIT Name in case of
+
+
+Head Office reporting, or
+Select T_PS_M_NBFI_MONITOR_BR from the dropdown list shown under RIT Name in case of
+
+
+Branch Office reporting
+
+Select Reporting Base Date (mm/dd/yyyy) which is the end date of the Reporting Month (the date
+
+
+should be exactly the same as that input by the HO/BR at the time of fill-up the RIT)
+
+Input The full name of the person who has prepared/fill-up the report just below Prepared By
+
+Input The mobile number of the person whose name has been written down against Prepared By
+
+Click
+On Browse button to locate the CSV file you have already prepared for uploading the same
+
+
+to the web portal of Bangladesh Bank.
+
+Click
+On Upload File
+
+--- Page 7 ---
+Page 7 of 7
+
+
+After successful completion of Upload procedure, the screen will be as follows:
+
+
+Finally, Sign Out from the web portal.
+
+
+Step-5 : Upload the revised CSV file to Web Portal (website) of Bangladesh Bank
+
+In case of any revision of the already uploaded CSV file for the current reporting month, necessary
+
+amendment would have been done in the original RIT (Excel file) and then have to make a CSV file from
+
+the revised RIT. The revised CSV file may be uploaded to the web portal of Bangladesh Bank by following
+
+Step-4, subject to the condition that revisions must be made within the time specified in the respective
+
+circular of Bangladesh Bank.

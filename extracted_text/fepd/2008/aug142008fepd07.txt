@@ -1,0 +1,214 @@
+--- Page 1 ---
+বৈদেশিক মুদ্রা নীতি বিভাগ
+
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা |
+www.bangladeshbank.org.bd
+শ্রাবণ ৩০, ১৪১৫
+এফ-ই সার্কুলার নং-০৭ তারিখ £ __------77+ী
+আগষ্ট ১৪, ২০০৮
+বৈদেশিক মুদ্রা লেনদেনে নিয়োজিত
+সকল ত ডিলার
+প্রিয় মহোদয়গণ,
+
+বৈদেশিক মুদ্রা লেনদেনের রিপোটিং এর জন্য নতুন কোড বরাদ্দ প্রসংগে |
+
+বাংলাদেশ ব্যাংক বর্তমানে আন্তর্জাতিক মুদ্রা তহবিল প্রণীত Balance of Payments Sth Manual অনুযায়ী BOP
+প্রস্তুত করছে | এ উদ্দেশ্যে Goods for processing এর তথ্য সরাসরি অথরাইজড ডিলার ব্যাংকসমূহ থেকে সংগ্রহের
+সুবিধার্থে "Code lists for reporting of external sector transactions by the authorized dealers" (2000-
+edition) পুত্তিকায় অদৃশ্য আয় (কোড-5) এবং অদৃশ্য ব্যয় (কোড-7) এ Manufacturing services on physical
+inputs owned by others নামে একটি purpose কোড 27.8.d অন্তর্ভুক্ত করা হলো এবং এর আওতায় Goods for
+processing এর জন্য Subcode 2742 বরাদ্দ করা হলো | Goods for processing এর আওতায় বাংলাদেশের
+অভ্যন্তর হতে বিদেশে বা ইপিজেড এ পণ্য রপ্তানি/পুনঃআমদানি অথবা আমদানি/পুনঃরপ্তানির তথ্যসমূহ পন্যসমূহের রূপান্তরের
+(Processing) পূর্বে এবং পরে পণ্যের ধার্যকৃত মুল্যের ভিত্তিতে রিপোর্ট করতে হবে |
+
+০২। অদৃশ্য আয় খাতে Export of Computer Software থেকে প্রাপ্ত আয় রিপোর্টের জন্য কোড বইয়ে কোড
+2412 বরাদ্দ থাকলেও অদৃশ্য ব্যয় খাতে Import of Computer Software এর আলাদী কোড বরাদ্দ না থাকায়
+অনুমোদিত ডিলার ব্যাংকসমূহ computer consultancy service কোড 2411 এ উক্ত ব্যয়/পেমেন্ট রিপোর্ট করে থাকে |
+এ সমস্যা দূরীকরণের লক্ষ্যে উক্ত পুস্তিকায় Computer Services এর অন্তর্গত (কোড 241.8.) অদৃশ্য ব্যয় খাতে Import
+of Computer Software খাত সংযোজন করে (অদৃশ্য আয়ের অনুরূপ) এর জন্য কোড 2412 বরাদ্দ করা হলো |
+
+0৩। এখন থেকে সকল অনুমোদিত ডিলার ব্যাংককে Goods for processing এবং Import of Computer
+Software এর তথ্য রিপোর্টিং এর ক্ষেত্রে উপরোল্লিখিত কোড ব্যবহার করে এ সংক্রান্ত লেনদেন যথানিয়মে বাংলাদেশ
+ব্যাংকে রিপোর্ট করার জন্য অনুরোধ করা হলো |
+
+08। কোড সংক্রান্ত পুস্তিকার সংশ্লিষ্ট অংশের সংশোধনীর সারণী এতদ্সঙ্গে সংযুক্ত করা হলো (পরিশিষ্ট-ক, খ ও গ)।
+
+OG] অনুগ্রহপূর্বক প্রাপ্তি স্বীকার করবেন এবং সংশ্লিষ্ট সকল পক্ষকে বিষয়টি অবহিত করবেন |
+
+আপনাদের বিশ্বস্ত
+
+(আহমেদ এহতেশামুল হায়দার)
+উপ-মহাব্যবস্থাপক
+ফোনঃ ৭১২০৩৭৫
+
+--- Page 2 ---
+Ÿá¼áÅÊ-N
+Code
+Codes
+already
+allotted
+Purpose
+Explanatory Notes
+27
+Other Business
+Services
+Other Business services cover
+various categories of services
+transactions ...
+271
+Merchanting
+and Other
+Trade Services
+2710-11
+272
+Operational
+Leasing
+2720
+273
+Misc. Business
+Professional and
+Technical
+Services.
+2730-41
+27.8.d
+** Since Code
+No.s 2740-41 have
+already been
+allotted under
+273.c. code 274
+can not be
+used/allotted
+Manufacturing
+services on
+physical inputs
+owned by others
+2742
+Goods for
+processing
+Goods for processing covers
+exports (or, in the compiling
+economy, imports) of goods
+crossing the frontier for
+processing abroad and
+subsequent re-import (or, in
+the compiling economy,
+exports) of the goods, which
+are valued on a gross basis
+before and after processing.
+The treatment of this item in
+the goods account is an
+exception to the change of
+ownership principle.
+28
+Government
+Services N.I.E.
+This is a residual category,
+covering those government
+services and transactions
+(including those of
+international organizations)
+not included in the above
+classification.
+a) All transaction by
+embassies........
+Code-5
+
+--- Page 3 ---
+Ÿá¼áÅÊ-X
+Code
+Codes
+already
+allotted
+Purpose
+Explanatory Notes
+27
+Other Business
+Services
+"Other business services"
+cover ...
+271
+Merchanting and
+Other Trade
+Services
+2710-12
+272
+Operational
+Leasing (rental)
+2720
+273
+Misc. Business
+Professional and
+Technical
+Services.
+2730-40
+27.8.d
+** In order to
+conform to code
+no. 2742 for
+invisible
+payments/receipts
+Manufacturing
+services on
+physical inputs
+owned by others
+2742
+Goods for
+processing
+Goods for processing covers
+exports (or, in the compiling
+economy, imports) of goods
+crossing the frontier for
+processing abroad and
+subsequent re-import (or, in
+the compiling economy,
+exports) of the goods, which
+are valued on a gross basis
+before and after processing.
+The treatment of this item in
+the goods account is an
+exception to the change of
+ownership principle.
+28
+Government
+Services N.I.E.
+Government services n.i.e is a
+residual category covering ...
+Code-7
+
+--- Page 4 ---
+Ÿá¼áÅÊ-Y
+Code
+Purpose
+Explanatory Notes
+24
+Computer and
+Information
+Services
+It covers computer data and news related
+services including data base, data
+processing, hardware consultancy,
+software implementation, maintenance
+and repair of computers and peripheral
+equipment and news agency services.
+241
+Computer
+Services
+2410
+Computer data
+processing
+2411
+Computer
+consultancy
+services
+2412
+Import of
+computer
+software
+Remittances on account of import of
+computer software.
+242
+News Agency
+Services
+Code-7

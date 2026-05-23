@@ -1,0 +1,52 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+Statistics Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+SD Circular No. 01/2015
+
+Date:
+April 13, 2015
+
+Choitra 30, 1421
+
+Managing Director/Chief Executive Officer
+All scheduled banks functioning in Bangladesh
+
+
+Dear Sir,
+
+
+Subject: Submission of E-banking and E-commerce return monthly instead of quarterly
+
+
+Please refer to St.D Cicular No. o4 dated May 15, 2014.
+
+According to the circular you have been sending quarterly E-banking and E-commerce
+return through RIT regularly from June, 2014 to this department (through BB web portal) by 15th
+of the month following the quarter to which it relates. Statistics Department is publishing this
+data in its booklet “Monthly Economic Trends” which is very much appreciated by the users. To
+improve the value of this booklet you are advised to implement the following decisions has taken
+by this Department.
+1) E-banking and E-commerce data have to submit regularly on monthly basis instead of
+quarterly basis.
+2) Monthly data have to submit regularly on or before 10th of the following month
+instead of 15th.
+3) The related RIT (T_ME_M_EBANKING_ECOMMERCE) can be downloaded from
+the Bangladesh Bank’s website or can be collected from SSP Division of Statistics
+Department.
+4) The said RIT have to submit in Statistics Department though Bangladesh Bank’s web
+portal from April, 2015.
+
+
+Yours faithfully,
+
+
+
+
+
+(Birendra Chandra Das)
+Deputy General Manager
+Phone: 9530344

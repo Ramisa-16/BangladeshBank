@@ -1,0 +1,33 @@
+--- Page 1 ---
+www.bb.org.bd
+Payment Systems Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+
+PSD Circular – 10/2015 Date : Oct. 04, 2015
+
+Managing Director/CEO
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+
+Revised implementation timeline for BD-RTGS System.
+
+Please refer to PSD Circular No. 02/2015 dated April 06, 2015 on the Implementation Roadmap for Real Time Gross
+Settlement (RTGS) System. A critical system like RTGS needs multiple phases of testing, all of which have not been
+completed yet. Participating banks have completed some, while others are in progress. Therefore, we are extending
+the System Integration Testing (SIT) completion timeline from October 1 to October 15, accordingly the Go Live date
+has been revised at October 22, 2015.
+
+All schedule banks are therefore, requested to take necessary steps to prepare themselves for go live operation of BD-
+RTGS.
+Please acknowledge the receipt.
+
+
+(K.M Abdul Wadood)
+General Manager
+Phone : 9530174
+Email : abdul.wadood@bb.org.bd

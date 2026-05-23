@@ -1,0 +1,117 @@
+--- Page 1 ---
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+BRPD Circular No. 05
+
+09 April, 2005
+Date-----------------------
+26 Chaitra, 1411
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+
+
+
+Master Circular - Single Borrower Exposure Limit
+
+As a prudential measure intended for ensuring improved risk management through restriction on
+credit concentration, Bangladesh Bank has from time to time advised the scheduled banks in
+Bangladesh to fix limits on their large credit exposures and their exposures to single and group
+borrowers.
+In general, and as practiced Internationally, exposure ceiling is derived from a bank's total capital as
+defined under capital adequacy standards (Tier I and Tier II Capital). Following the same practice,
+Bangladesh Bank issued a circular (BRPD Circular No.08) on March 18, 2003, recommending uniform
+exposure limits for both local and foreign banks.
+In order to enable the banks to improve their credit risk management further, Bangladesh Bank is
+issuing this Master Circular by consolidating all the instructions issued so far and incorporating some
+amendments to the previous circulars.
+01. As a result of increase in capital of almost all the banks, now it has been decided to reduce the
+single borrower exposure limit from 50% to 35%. Thus-
+(a) the total outstanding financing facilities by a bank to any single person or enterprise or
+organization of a group shall not at any point of time exceed 35% of the bank's total capital subject to
+the condition that the maximum outstanding against fund based financing facilities (funded facilities)
+do not exceed 15% of the total capital. In this case total capital shall mean the capital held by banks
+as per section-13 of the Bank Company Act,1991.
+(b) Non-funded credit facilities, e.g. letter of credit, guarantee etc. can be provided to a single large
+borrower. But under no circumstances, the total amount of the funded and non-funded credit facilities
+shall exceed 35% of a bank's total capital.
+However, in case of export sector single borrower exposure limit shall remain unchanged at 50% of
+the bank's total capital. But funded facilities in case of export credit shall also not exceed 15% of the
+total capital.
+In addition, the banks shall follow the following prudential norms, where applicable:
+02. (a) Loan sanctioned to any individual or enterprise or any organization of a group amounting to
+10% or more of a bank's total capital shall be considered as large loan.
+(b) The banks will be able to sanction large loans as per the following limits set against their
+respective classified loans:
+
+--- Page 2 ---
+Rate of net classified loans
+The highest rate fixed for large loan
+against bank's total loans & advances
+Upto 5%
+56%
+More than 5% but upto 10%
+52%
+More than 10% but upto 15%
+48%
+More than 15% but upto 20%
+44%
+More than 20%
+40%
+
+(c) In order to determine the above maximum rates of large loans, all non-funded credit facilities e.g.
+letter of credit, guarantee, etc., included in the loan shall be considered as 50% credit equivalent.
+However, the entire amount of non-funded credit facilities shall be included in determining the total
+credit facilities provided to an individual or enterprise or an organization of a group.
+03. (a) A public Limited company, which has 50% or more public shareholdings, shall not be
+considered as an enterprise/organization of any group.
+(b) In the cases of credit facilities provided against government guarantees, the aforementioned
+restrictions shall not be applicable.
+(c) In the cases of loans backed by cash and encashable securities (e.g.FDR), the actual lending
+facilities shall be determined by deducting the amount of such securities from the outstanding
+balance of the loans.
+04. (a) Banks should collect the large loan information on their borrowers from Credit Information
+Bureau(CIB) of Bangladesh Bank before sanctioning, renewing or rescheduling large loans in
+order to ensure that credit facilities are not being provided to defaulters.
+(b) Banks must perform Lending Risk Analysis (LRA) before sanctioning or renewing large loans.
+If the rating of an LRA turns out to be "marginal"; a bank shall not sanction the large loan, but it
+can consider renewal of an existing large loan taking into account other favorable conditions
+and factors. However, if the result of an LRA is unsatisfactory, neither sanction nor renewal of
+large loans can be considered.
+(c) While sanctioning or renewing of large loan, a bank should judge its borrower's overall debt
+repayment capacity taking into consideration the borrower's liabilities with other banks and
+financial institutions.
+(d) A bank shall examine its borrower's Cash Flow Statement, Audited Balance Sheet, Income
+Statement and other financial statements to make sure that its borrower has the ability to
+repay the loan.
+(e) Sanctioning, renewing or rescheduling of large loans should be approved by the Board of
+Directors in case of local banks. Such decisions should be taken by the Chief Executives in
+case of foreign banks. However, while approving proposals of large loans, among other
+things, compliance with the above guidelines must be ensured.
+05. For the loans that have already been disbursed with the approval of Bangladesh Bank, and that
+have exceeded the limit as stipulated in Section 01 (mentioned above), banks shall take
+
+--- Page 3 ---
+necessary steps to bring down the loan amounts within the specified limit. In order to accomplish
+this condition, banks may, if necessary, arrange partaking with other banks. However, for
+continuous loans, the limit has to be brought down as per Section 02 within June 30, 2005. For
+term loans, the deadline is June, 2006.
+06. Banks shall submit the quarterly statement of large loan in the specified format (Form L) to
+Department of Off-site Supervision of Bangladesh Bank within 10 days after the end of respective
+quarter.
+07. This circular is issued by Bangladesh Bank in exercise of its power conferred to it by section 45 of
+the Bank Company Act, 1991. This circular shall be effective immediately.
+The chief executives of all the banks are advised to place this circular in their next Board
+meetings.
+Please acknowledge receipt.
+
+Yours faithfully,
+
+(Naba Gopal Banik)
+General Manager
+Phone: 7117825

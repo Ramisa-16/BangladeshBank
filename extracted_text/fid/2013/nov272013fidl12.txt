@@ -1,0 +1,2056 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+
+আর্থিক প্রতিষ্ঠান ও বাজার বিভাগ
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা |
+
+১৩ অগ্রহায়ণ, ১৪২০
+ডিএফআইএম সার্কুলার লেটার নং-১২ তারিখ 8 --------------------
+
+ব্যবস্থাপনা পরিচালক/ প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে কার্যরত সকল আর্থিক প্রতিষ্ঠান |
+
+Guidelines on Product & Services of Financial Institutions
+in Bangladesh-aa কতিপয় অংশ পরিমার্জনপূর্বক পুনরায় জারিকরণ প্রসঙ্গে ।
+
+ডিএফআইএম সার্কুলার নং-০৫ তারিখ 3 ১৭/০৭/২০১৩ এর মাধ্যমে জারিকৃত Guidelines on Product &
+Services of Financial Institutions in Bangladesh-44 অনুচ্ছেদ-২.১.৮, ২.৩.২ এবং সারণি AVA, ৮, ১২ ও
+Chapter-IV এর Table-D এ কতিপয় সংশোধনী আনা হয়েছে | উল্লিখিত সংশোধনীগুলোসহ Guidelines on
+Product & Services of Financial Institutions in Bangladesh পুনরায় জারি করা হলো ।
+
+আর্থিক প্রতিষ্ঠান আইন, ১৯৯৩ এর ১৮ (ছ) ধারার আওতায় জনস্বার্থে এ নির্দেশ জারি করা হলো, যা অবিলম্বে
+কার্যকর হবে।
+
+Lorin -0/59-
+
+(এ.কে.এম. আমজাদ হোসেন)
+উপ মহাব্যবস্থাপক
+ফোন 3 ৯৫৩০২৪৯
+
+--- Page 2 ---
+GUIDELINES ON PRODUCTS & SERVICES OF
+FINANCIAL INSTITUTIONS IN BANGLADESH
+
+November 2013
+
+BANGLADESH BANK
+
+--- Page 3 ---
+GUIDELINES ON PRODUCTS & SERVICES OF
+FINANCIAL INSTITUTIONS IN BANGLADESH
+DEPARTMENT OF FINANCIAL INSTITUTIONS & MARKETS
+BANGLADESH BANK
+November 2013
+
+--- Page 4 ---
+Advisory Council
+M. Mahfuzur Rahman
+Executive Director
+Chief Coordinator
+Md. Shah Alam
+General Manager
+Chief Editor
+A.K.M. Amjad Hussain
+Deputy General Manager
+Editorial Panel
+Md. Rafiqul Islam
+Joint Director
+Sharmin Rahman
+Deputy Director
+Kazi Arif Uz Zaman
+Deputy Director
+Md. Saifuzzaman
+Deputy Director
+Shamma Tabassum
+Assistant Director
+
+--- Page 5 ---
+PREAMBLE
+The financial sector of Bangladesh has been developing in good pace with the rapid expansion
+of the economy. Several reform programs under prudential regulations have been successfully
+tuned over the last two decades. Along with the banks, the financial institutions with their
+customized products and services have emerged into this competitive financial market. Due to
+this increasing competition within the different financial intermediaries and changing demands
+of customers, the financial products and services have been becoming more multifaceted. This
+trend is continuing and it seems to be more diversified and complex with time.
+In order to deal with such situation in a prudent way, it is necessary to review and design the
+regulatory framework for managing products and services offered by the financial institutions.
+Keeping this in mind, we equipped different aspects of both existing and new products and
+services in these guidelines. I hope this will be able to protect clients' interest of which
+Bangladesh Bank is always aware of. At the same time, these guidelines will provide greater
+flexibility to financial institutions to cope up with changing circumstances. I expect this will
+help promoting sound risk management system associated with products and services. It will
+also bring discipline in launching new products and services.
+I would like to convey my thanks to the team of Department of Financial Institutions and
+Markets of Bangladesh Bank under the leadership of Executive Director for their unrelenting
+efforts in preparing these guidelines.
+(S. K. Sur Chowdhury)
+Deputy Governor
+Bangladesh Bank
+
+--- Page 6 ---
+TABLE OF CONTENTS
+Chapter-I :
+Introduction
+
+1.1
+Overview
+01
+
+1.2
+Objectives
+02
+
+1.3
+Scope
+02
+
+1.4
+Legal Framework
+02
+Chapter-II :
+Categorization of Products & Services of FIs
+
+2.1
+Broader Categories of Asset-side Products
+03
+
+
+2.1.1 Corporate Finance
+03
+
+
+2.1.2 Consumer Finance
+05
+
+
+2.1.3 Agriculture Finance
+06
+
+
+2.1.4 SME Finance
+07
+
+
+2.1.5 Housing Finance
+08
+
+
+2.1.6 Equity Finance
+09
+
+
+2.1.7 Syndication Finance
+10
+
+
+2.1.8 Bonds
+11
+
+
+2.1.9 Capital market investment
+11
+
+
+2.1.10 Others
+12
+
+2.2
+Broader Categories of Asset-side Services
+13
+
+2.3
+Broader Categories of Liability-side Products
+13
+
+
+2.3.1 Savings Scheme
+14
+
+
+2.3.2 Term Deposit Scheme
+15
+
+
+2.3.3 Wealth Builder Deposit Scheme
+16
+
+
+2.3.4 Issuance of Bond
+17
+Chapter-III :
+Product/Service Design & Operation
+
+3.1
+General Guidelines on Product/Service Design
+19
+
+
+3.1.1 Broader Category
+19
+
+
+3.1.2 Policy for Financing Limit
+19
+
+
+3.1.3 Policy on Insurance Coverage
+19
+
+--- Page 7 ---
+3.1.4 Pricing Strategy
+20
+
+
+3.1.5 Tenure of Repayment
+20
+
+
+3.1.6 Grace Period
+20
+
+
+3.1.7 Interest Rate charged during Grace Period
+20
+
+
+3.1.8 Fees & Other Charges
+20
+
+
+3.1.9 Reporting policy
+21
+
+
+3.1.10 Sanction/Approval Authority
+21
+
+
+3.1.11 Steps in Operation
+21
+
+3.2
+Product/Service specific Guidelines
+22
+Chapter-IV :
+Clientele Protection Related Issues
+
+4.1
+Availability of information for the Clients
+23
+
+4.2
+Clientele Acknowledgement
+23
+
+4.3
+Clientele Feedback
+25
+
+4.4
+Filing of the forms
+27
+Chapter-V :
+Product Risk Management
+
+5.1
+Product Risk Framework
+28
+
+5.2
+Product Risk Management System
+28
+
+
+5.2.1 Measuring the Risks
+29
+
+
+5.2.2 Monitoring and control of product/service risk
+29
+
+
+5.2.3 Reporting on Product/Service Risk Management
+30
+Chapter-VI :
+Guidelines on Promoting New Product/Service
+
+6.1
+Definition of 'New' Products and Services
+31
+
+6.2
+Applicability
+31
+
+6.3
+Steps to be followed for Introducing New Product/Service
+32
+
+
+6.3.1 Customer Suitability Assessments
+32
+
+
+6.3.2 Product Authorization
+32
+
+
+6.3.3 Information Requirements for New Products
+33
+Chapter-VII :
+Conclusion
+
+
+Conclusion
+34
+Annexure-A
+
+
+35
+Annexure-B
+
+
+38
+
+--- Page 8 ---
+ABS
+Asset Backed Securities
+BB
+Bangladesh Bank
+BDT
+Bangladeshi Taka
+BMRE
+Balancing, Modernization, Rehabilitation and Expansion
+BSEC
+Bangladesh Securities and Exchange Commission
+CAF
+Clientele Acknowledgement Form
+CFF
+Clientele Feedback Form
+CRG
+Credit risk Grading
+DFIM
+Department of Financial Institutions and Markets
+FIs
+Financial Institutions
+HHI
+Herfindahl-Hirschman Index
+IM
+Information Memorandum
+IT
+Information Technology
+L/C
+Letter of Credit
+MFIs
+Microfinance Institutions
+NGO
+Non Government Organization
+RAU
+Risk Analysis Unit
+RJSC
+The Registrar of Joint Stock Companies and Firms
+RMF
+Risk Management Forum
+ROI
+Rate of Interest
+SME
+Small and Medium Enterprise
+TDR
+Term Deposit Receipt
+TDS
+Term Deposit Scheme
+LIST OF ACRONYMS
+
+--- Page 9 ---
+1.1 Overview
+Immediately after independence few state-owned Banks were the sole financial intermediaries
+in Bangladesh. Throughout 1970s they played significant role in economic development and
+restructuring of financial system. At the outset of 1980s, in order to accelerate economic
+development through private sector and to face the challenges of globalization it was required
+to restructure the financial system. Under this structural adjustment more banks emerged under
+private sector and took the lead as financial intermediaries. Nevertheless, due to the structural
+limitations, banks were not interested to expand their operations in all expected areas rather
+confined to a relatively limited sphere of financial services. Moreover, their efforts to meet long
+term financing with short term resources resulted in asset-liability mismatch, which created
+pressure on their financial base. With a view to ensure the long-term financing in capital
+machineries, the concept of 'Leasing' was introduced in early 1980s in the country. Since the
+leasing was not duly focused by bank at that time, FIs were established to deal with this
+specialized financial product for supporting industrialization and economic growth of the
+country.
+However, in response to competitive business environment and changing consumer demands,
+financial products and services offered by FIs have progressively become more complex and
+diverse. This diversification has been continuing over the last three decades remarkably. Today
+FIs are offering diversified products and services in different areas that include industry,
+commerce, agriculture, housing and real estate, capital market, bond market etc. Along with
+these asset side products, FIs are also attracting fund from public and institutions by offering
+various customized liability side products such as monthly saving scheme, millionaire deposit
+scheme, double money deposit scheme, term deposit, zero coupon bond etc.
+With technological advancement and the evolution of more vibrant financial markets, the
+innovation of products and services will intensify further. In order to keep pace with such
+innovation and rapid development, the regulatory framework for FIs has to be reviewed for
+further enhancement of the clientele protection while according greater flexibility for FIs in
+response to the changing market conditions, both in managing risks and enhancing their
+competitiveness.
+Chapter-I
+INTRODUCTION
+Guidelines on Products & Services of Financial Institutions in Bangladesh 01
+
+--- Page 10 ---
+1.2 Objectives
+The framework set out in these guidelines aims to:
+a) illustrate the categorization of products and services offered by the FIs;
+b) formulate general framework for different products/services of FIs with a view to remove
+inconsistencies and discrepancies among the features and operational procedures of
+those products/services;
+c) strengthen the mechanism to enhance clientele protection by ensuring availability of
+information, proper understanding, and regular feedback;
+d) promote sound risk management practices in managing and controlling risk
+associated with products/services at various stages;
+e) provide a framework for financial institutions to introduce new products/services; and
+f) formulate the regulatory review process of products/services management of FIs.
+1.3 Scope
+These guidelines shall be applicable to all FIs in Bangladesh. For the purpose of the guidelines,
+FIs shall refer to institutions licensed under the Financial Institutions Act, 1993.
+These guidelines set out the pertinent regulatory procedures to ensure the role of FIs in
+developing, redesigning, offering and marketing of existing as well as new financial products
+and services in more prudent way. It will also address the responsibilities of FIs to their
+customers by providing all necessary information as and when required in an easily perceivable
+manner. These guidelines will also emphasize the risk management issues associated with
+products and services. It will help BB to be more informative about the products and services of
+FIs which will excel its supervisory review process.
+1.4 Legal Framework
+These Guidelines are issued by BB under section 18(chha) of Financial Institutions Act, 1993.
+The instructions described in the guidelines are supplementary to the standards set by the
+legislative requirements which will not replace or supersede them.
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+02
+
+--- Page 11 ---
+FIs are now dealing with numerous types of products and services in the market. For having a
+clear illustration and easy understanding, all the products and services are presented from Asset-
+side and Liability-side perspective. Both the Asset-side and Liability-side products and services
+are categorized under some generic broader categories. In Annexure-A, all these broader
+categories are defined. Subsequently, under each category, various products or services are
+characterized as shown below. This is to mention that, for the purpose of these guidelines
+products and services will refer to all the asset and liability side products and services
+mentioned in this chapter under different broader categories.
+2.1 Broader Categories of Asset-side Products
+For analyzing the asset-side products, following 10 broader categories are set:
+
+Corporate Finance
+
+Consumer Finance
+
+Agriculture Finance
+
+SME Finance
+
+Housing/real estate Finance
+
+Equity Finance
+
+Syndication Finance
+
+Capital Market Investment
+
+Bonds and
+
+(10)
+Others
+2.1.1 Corporate Finance
+Corporate finance of FIs consists of the following products:
+
+Lease Finance
+
+Term Loan
+
+Project Finance
+
+Working Capital Finance and
+
+Short-term Finance
+Chapter-II
+CATEGORIZATION OF PRODUCTS
+& SERVICES OF FIs
+Guidelines on Products & Services of Financial Institutions in Bangladesh 03
+
+--- Page 12 ---
+The key features of these products are presented in the following table:
+Lease Finance
+Term Loan
+Project Finance
+Working Capital
+Finance
+Short-term Finance
+Agreement between lessor and lessee under simple terms and
+conditions for acquisition of
+z capital machineries for industrial undertakings,
+z industrial equipments,
+z office equipments,
+z medical equipments,
+z commercial transport,
+z construction equipments including Generators, Boilers etc.
+z other essential items and equipments for large trading
+companies, manufacturing, services and industries.
+Target Customers: Manufacturing and service-oriented business
+entities having need for equipments/vehicles supported by
+repayment capacity.
+Financing in any business concern to meet up various regular
+capital/fixed expenditures like expansion of production line,
+modernization of manufacturing process, extension of capacity and
+space, purchase of fixed assets etc.
+Target Customers: Manufacturing and service oriented business
+entities supported by Repayment Capacity.
+Financial solution for an entire project provided through mix of
+different financial tools offered by FIs.
+Target Customers: Large and medium size enterprises.
+Loan facilities for a short term, generally for a period of one year to
+meet working capital need of clients.
+Target Customers: Large and medium size enterprises.
+Short Term Loan to different business concerns to meet urgent fund
+requirement for any interim period.
+Target Customers: Large and medium size enterprises.
+Table -1: Key features of Asset-side products under corporate finance
+Product
+Features/target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+04
+
+--- Page 13 ---
+2.1.2 Consumer Finance
+Consumer finance of FIs consists of the following products:
+
+1. Auto/car loan
+
+2. Lease financing for vehicle
+
+3. Personal Loan
+
+4. Loan against TDR
+The key features of these products are presented in the following table:
+Auto/car loan
+Lease financing for
+vehicle
+Personal Loan
+Loan against TDR
+z Loan to buy vehicles (Reconditioned/ Brand New) for personal
+use. Reconditioned vehicles should not be more than 6 years
+old.
+z Registration of the vehicles in the name of FI or jointly with
+client.
+z FI can repossess the vehicle (as per lease agreement) in
+case of failure of the Lessee to pay the rental regularly.
+Target Customers: Salaried Individuals, Business persons, Self
+Employed Professionals, Fixed income group people.
+Lease financing for different types of vehicles.
+Target Customers: Individual borrower.
+Loan to clients to meet their emergency as well as longer term needs
+like education, marriage, festival, credit card etc.
+Target Customers: Service Holders, Business Person, Depositors
+etc.
+This facility can be availed by a depositor against his/her deposit
+amount in the FI. Generally, this is a short-term finance and the loan
+amount is lower or equal to the deposit amount as approved by the
+Management.
+Target Customers: Service Holders, Business Person, housewives,
+students etc. who has deposit account in that FI.
+Table -2: Key features of Asset-side products under consumer finance
+Product
+Features/target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh 05
+
+--- Page 14 ---
+2.1.3 Agriculture Finance
+Agriculture finance of FIs comprises of the following products:
+
+1. Lease Finance
+
+2. Term Loan
+
+3. Working Capital Finance
+
+4. Agriculture trade finance
+
+5. SME agriculture loan
+The key features of these products are presented in the following table:
+Lease Finance
+Term Loan
+Working Capital
+Finance
+Agriculture trade
+finance
+SME agriculture
+loan
+Lease financing to different agro based business for purchasing
+machinery/equipment/vehicles/tractors etc.
+Target Customers: Agro-based business entities.
+For meeting various regular capital/fixed expenditures like balancing
+of production line, modernization of manufacturing process,
+expansion of capacity and space, etc. to different agro- based
+business.
+Target Customers: Agro-based business entities.
+Financing to meet short term need of various agro- based business,
+especially to already financed projects on selective basis.
+Target Customers: Agro-based business entities.
+Trade financing for stock/raw materials/finished product purchase for
+the agro-based project/individual. This comprises financing for
+poultry & fisheries, agro based industries, Fertilizer & pesticides
+manufacturing and marketing etc.
+Target Customers: Agricultural products manufacturing companies;
+Agro-based project/ individual.
+Financing facility for small and medium sized agro-based industries
+located across the country.
+Target Customers: Small and medium sized agro-based industries.
+Table -3: Key features of Asset-side products under Agriculture finance
+Product
+Features/target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+06
+
+--- Page 15 ---
+2.1.4 SME Finance
+SME finance of FIs consists of the following products:
+
+1. Lease finance
+
+2. Term finance
+
+3. Working capital
+
+4. Woman entrepreneur loan
+
+5. SME Tailored Loan
+
+6. Work order financing
+The key features of these products are presented in the following table:
+Lease finance
+Term finance
+Working capital
+Woman
+entrepreneur loan
+SME Tailored Loan
+Work order
+financing
+SME agriculture
+loan
+This is a long term facility to support small and medium business entities
+for procurement of machineries, equipment, vehicle etc.
+Target Customers : SME
+Financing to meet up various regular capital/fixed expenditures like
+expansion of production line, modernization of manufacturing process,
+extension of capacity and space, project set up etc. for SMEs.
+Target Customers : SME
+Short term loan up to one year or so to use as working capital or meet up
+any short-term requirements for SMEs.
+Target Customers : SME
+Finance facilities targeting the Women SME Entrepreneurs.
+Target Customers : Women Entrepreneur
+z Loan to business entities to give them extra edge and success i.e. to
+meet
+their
+financial
+freedom
+through
+their
+innovative
+entrepreneurship.
+z Customized and/or event-based products to SMEs
+Target Customers : SME
+This is a short term facility to support small and medium business entities
+in execution of work orders issued from government, reputed
+local/multinational organizations.
+Target Customers : SME
+Financing facility for small and medium sized agro-based industries
+located across the country.
+Target Customers : Small and medium sized agro-based industries.
+Table -4: Key features of Asset-side products under SME finance
+Product
+Features/target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh 07
+
+--- Page 16 ---
+2.1.5 Housing Finance
+Housing finance of FIs comprises of the following products:
+
+1. Real estate (individual consumer)
+
+2. Project/Commercial Housing Loan
+The key features of these products are presented in the following table:
+Real estate
+(individual
+consumer)
+Project/Commercial
+Housing Loan
+Affordable home loan facility to support clients (individual consumer
+in this case) to meet up fund requirement for any of the following
+reasons:
+z construction/extension/repair/renovation of client's
+apartment/home,
+z purchase of home/apartment
+z development/purchase/renovation of shop/personal
+office/chamber etc.
+z under special consideration development of commercial space
+Target Customers: Salaried Individuals, Business persons, Self
+Employed Professionals, Land Lords etc.
+This is for the real estate developers or business entities for
+construction/extension/repair/renovation
+of
+apartments
+and
+commercial buildings under different projects.
+Target Customers: Reputed developers with proven track record,
+Corporate, Proprietorship, Retailers business entities.
+Table -5: Key features of Asset-side products under housing finance
+Product
+Features/target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+08
+
+--- Page 17 ---
+2.1.6 Equity Finance
+Equity finance of FIs consists of the followings products:
+
+1. Investment in Preference Share
+
+2. Common Stock
+The key features of these products are presented in the following table:
+Investment in
+Preference Share
+Common Stock
+z This is a financing in the form of investment in the equity of private
+limited companies with option to annual redemption.
+z Dividends are cumulative.
+z Usually investors have a put option from the directors of the issuer
+company.
+z Due to tax advantage, preference shares may be offered at a lower
+rate compared to interest rate for loan thereby creating a win-win
+situation for both the issuer and the subscriber
+Target Customers: Promising corporate houses.
+No fixed term, no fixed return, upward gain potential, no downward
+protection in investment.
+Common stock includes:
+z Equity investment in own Subsidiaries.
+z Convertible debenture converted into equity.
+Target Customers: Listed and unlisted limited companies.
+Table -6: Key features of Asset-side products under Equity finance
+Product
+Features/target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh 09
+
+--- Page 18 ---
+2.1.7 Syndication Finance
+Syndication finance of FIs consists of the following products:
+
+1. Syndication Term Finance
+
+2. Syndication Lease Finance
+
+3. Working Capital Finance
+The key features of these products are presented in the following table:
+Syndication Term
+Finance
+Syndication Lease
+Finance
+Working Capital
+Finance
+z Financing by a group of financial organizations in which each lend
+an amount of money to a borrower for the same purpose.
+z Project requiring large-scale investment for green field operation or
+for expansion.
+Target Customers: Large Enterprises involved in Manufacturing and
+Service sectors.
+Mainly Asset based finance utilized by the customer for purchasing
+Machinery & Equipment under a syndication finance planning.
+Target Customers: Large Enterprises involved in Manufacturing and
+Service sectors.
+Loan up to one year period to use as working capital or to meet up any
+short-term requirements under a syndication finance planning.
+Target Customers: Large Enterprises involved in Manufacturing and
+Service sectors.
+Table -7: Key features of Asset-side products under syndication finance
+Product
+Features/target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+10
+
+--- Page 19 ---
+2.1.8 Bonds
+FIs invest on the following types of bond:
+
+1. Corporate Bond
+
+2. Zero Coupon Bond
+
+3. Asset Backed Securitization Bond
+
+4. Government Bond and Treasury Bills
+The key features of these existing products are presented in the following table:
+2.1.9 Capital market investment
+Capital market investment refers to the investments in all listed shares/debentures of
+Dhaka/Chittagong Stock Exchange or any other stock exchanges approved by Bangladesh
+Securities and Exchange Commission.
+Corporate Bond
+Zero coupon bond/Mortgaged
+Backed Securities
+Asset Backed Securitization
+Bond
+Government Bond and
+Treasury Bills
+As designed by the issuers
+As designed by the issuers
+As designed by the issuers
+As designed by the issuers
+Table -8: Key features of Asset-side products under syndication finance
+Product
+Features/target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh 11
+
+--- Page 20 ---
+2.1.10 Others
+Besides the above mentioned asset-side products, FIs are also financing in the following
+products:
+
+1. Factoring
+
+2. Loans against Deposit (other than consumer finance)
+
+3. Work Order Finance (other than SME finance)
+
+4. Institutional Loans
+The key features of these products are presented in the following table:
+Table -9: Key features of Asset-side products under others
+Factoring
+Loans against
+Deposit (other than
+consumer finance)
+Work Order Finance
+(other than SME
+finance)
+Institutional Loans
+Factoring is the purchase of an invoice or receivables at a discount.
+Instead of waiting for longer to get paid, factoring allows a business
+to turn its existing and ongoing accounts receivable into available
+cash to be used to fund its operations.
+By factoring, receivables can be converted into cash before maturity.
+The seller gets instantaneous liquidity and the buyer gets credit at an
+affordable cost.
+Target Customers: Manufacturer, Trader, Service provider who runs
+business on credit with institutional buyer.
+Loan facility provided against the lien of deposit accounts.
+Target Customers: Business entities.
+l Finance against specific work order.
+l Payments are realized on bills' maturity.
+Target Customers: Any individual or Business entities.
+Extending credit line with a time limit and fixed return to a financial
+institution for re-lending.
+Target Customers: FIs & MFIs.
+Product
+Features/target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+12
+
+--- Page 21 ---
+2.2 Broader Categories of Asset-side Services
+For analyzing the asset-side services, following broader categories are set:
+
+1. Advisory Services
+
+2. Arranger
+
+3. Trustee
+
+4. Guarantor
+The key features of these services are described in the following table:
+2.3 Broader Categories of Liability-side Products
+The Liability-side products of FIs are categorized under 4 broad categories as follows:
+
+1. Savings Scheme
+
+2. Term Deposit Scheme
+
+3. Wealth Builder Scheme
+
+4. Issuance of Bonds
+Advisory Services
+Arranger
+Trustee
+Guarantor
+Preparing financial feasibility reports for the clients or act as financial
+consultant for different projects.
+Target Customers: Local and multinational corporate houses.
+Arranging syndication for new project or BMRE
+Target Customers: Corporate Houses.
+Trustee holds or administers property or assets for the benefit of a
+third party. They are trusted to make decisions in the beneficiary's
+best interests. In case of issuance of Bond by different corporate
+bodies, a Trustee is required, who acts on behalf of the bond
+holders.
+Target Customers: Reputed corporate houses of the country.
+z FI Loan Guarantee: Providing guarantee by FIs on behalf of the
+clients to avail short-term credit facilities from other FIs and
+Banks.
+z Bank Guarantee Facility: FI may act as an arranger of Bank
+guarantee from a reputed bank for clients against FI's bank
+guarantee limit with that bank. In this case, FIs share margin and
+guarantee commission with the guarantee issuing bank.
+Target Customers: Reputed corporate houses.
+Table -10: Key features of Asset-side services
+Product
+Features/target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh 13
+
+--- Page 22 ---
+2.3.1 Savings Scheme
+The liability-side products of FIs under savings scheme are as follows:
+
+1. Deposit Pension Scheme
+
+2. Flexible Savings Plan
+
+3. Monthly Savings Scheme
+
+4. Purpose-based Savings Scheme
+The key features of these existing products are presented in the following table:
+Deposit Pension
+Scheme
+Flexible Savings
+Plan
+Monthly Savings
+Scheme
+z A very popular installment based small savings scheme for the
+conscious saver for a fixed rate and fixed term.
+z In this scheme customer will be able to deposit in affordable
+installments and on completion of the term customer will
+receive a handsome amount.
+Target Customers: Households, Students, Service holders, Retired
+pension-holder, Business man etc.
+z A new innovative and highly flexible savings plan which offers
+total freedom to the customer.
+z Customer can deposit any amount of his choice, at any
+frequency and any time. Interest will be accrued on a daily basis
+and credited on maturity.
+Target Customers: Households, Students, Service holders,
+Individuals, Institutions, NGOs, Clubs, Societies etc.
+z Under the scheme a depositor will deposit on monthly basis.
+z In most cases, such scheme provides opportunity to develop
+savings by setting aside an amount from depositor's monthly
+earnings.
+z This scheme helps clients to build the habit of savings and
+receive substantial amount at maturity.
+Target Customers: Monthly Income Deposit is an ideal product best
+suit for retired peoples, housewives and individuals accustomed to
+the comfort of a regular monthly income.
+Table- 11: Key features of Liability-side products under savings scheme
+Product
+Features/target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+14
+
+--- Page 23 ---
+Fixed Term Deposit
+Scheme
+A deposit at a bank or other financial institution that has a fixed
+return (usually via an interest rate) and a set maturity. That is, in
+general the depositor does not have access to the funds until
+maturity; in exchange, he/she is usually entitled to a higher interest
+rate.
+Types of TDS:
+z Fixed Term Deposit (with income at maturity)
+z Periodic Income Deposit (Monthly, Quarterly & Half yearly)
+Target Customers: Households, Corporate bodies, Government
+offices, NGOs, Clubs, societies etc.
+Table- 12: Key features of Liability-side products under term deposit scheme
+Product
+Features/ target customer
+2.3.2 Term Deposit Scheme
+The liability-side products of FIs under term deposit scheme are as follows:
+
+1. Fixed Term Deposit Scheme
+
+2. Cumulative Benefit Plan
+
+3. Other Scheme
+
+The key features of these products are presented in the following table:
+Purpose-based
+Savings Scheme
+z This is an installment based small savings scheme for the purpose-
+oriented saver for a fixed rate and fixed term.
+z Here a depositor can open an account in the name of his/her
+son/daughter/relative and deposits his/her deposit normally on
+monthly basis and on maturity he/she gets a higher amount in terms
+of principal accumulated with interests/profits to meet the expense for
+the purpose determined.
+z Some of the examples are:
+- Education Deposit Scheme
+- Marriage Deposit Scheme
+- Hajj Deposit Scheme
+- House Owning Deposit Scheme
+Target Customers: Households, Students, Service holders, Retired
+pension-holder, Business man etc.
+Guidelines on Products & Services of Financial Institutions in Bangladesh 15
+
+--- Page 24 ---
+2.3.3 Wealth Builder Deposit Scheme
+The liability-side products of FIs under wealth builder deposit scheme are as follows:
+
+1. Millionaire Deposit Scheme
+
+2. Double/Triple Money Scheme
+The key features of these existing products are presented in the following table:
+Cumulative Benefit
+Plan
+Other Scheme
+z Cumulative Deposit facilitates to meet substantial future
+requirements by giving a higher return at maturity.
+z It is a term deposit product and return will be compounded each
+period.
+Target Customers: Households, Students, Service Holders,
+Individuals, Institutions, NGOs, Clubs, societies etc.
+Flexible Fixed Deposit: it facilitates attractive return on the savings of
+the short term savers with facility of quick loan at a relatively lower
+rate. It will be attractive for individuals who save for a relatively short
+period and may need cash at any time during the tenure of deposit.
+Profit First Deposit: The term deposit scheme where a depositor is
+eligible to earn interest at the time of placement of the TDR to avail
+further reinvestment opportunity.
+Easy Home Deposit: Easy Home Deposit facilitates relatively higher
+rate of return on the savings of the small savers who save a small
+whenever possible and also lets the saver get a housing loan of three
+times or more of your savings with a discounted ROI. It is a time
+deposit product and return will be paid out at the end maturity.
+Children's Deposit: Children's Deposit facilitates relatively higher rate
+of return on the savings of the parents who save a small amounts
+monthly or fixed amount for a fixed term for their children. It is a time
+deposit product and return will be paid out at the end maturity.
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+16
+
+--- Page 25 ---
+2.3.4 Issuance of Bond
+The liability-side products of FIs under issuance of bond are as follows:
+
+1. Corporate Bond
+
+2. Zero Coupon Bond
+
+3. Asset Backed Securitization Bond
+The key features of these bonds are presented in the following table:
+Millionaire Deposit
+Scheme
+Double/ Triple
+Money Scheme
+An initial deposit and fixed monthly installment with pre tax maturity
+value of BDT 10,00,000
+Target Customers: Households, Students, Service Holders, Business
+man etc.
+Deposit amount placed at a time will turn double/triple at
+predetermined maturity.
+Target Customers: Households, Service Holders, Retired pension-
+holder and Business man, Corporate bodies, NGOs.
+Table- 13: Key features of Liability-side products under wealth builder deposit scheme
+Product
+Features/ target customer
+Corporate Bond
+A debt security issued by a corporation and sold to investors. The
+backing for the bond is usually the payment ability of the company,
+which is typically money to be earned from future operations. In some
+cases, the company's physical assets may be used as collateral for
+bonds.
+Corporate bonds are considered to have higher risk than government
+bonds. As a result, interest rates are almost always higher, even for
+top-flight credit quality companies.
+Target Customers : A diverse group of Banks, FIs, insurance
+companies, mutual funds, corporate houses, NGOs and Individuals.
+Table- 14: Key features of Liability-side products under issuance of bond
+Product
+Features/ target customer
+Guidelines on Products & Services of Financial Institutions in Bangladesh 17
+
+--- Page 26 ---
+Zero coupon bond
+Asset Backed
+Securitization Bond
+z Serial zero coupon bond comprising several serials
+z Secure, redeemable, nonconvertible
+z Coupon less Bond
+Target Customers: A diverse group of Banks, FIs, insurance
+companies, mutual funds, corporate houses, NGOs and Individuals.
+Asset-backed securities, called ABS, are bonds or notes backed by
+financial assets. Typically these assets consist of receivables other than
+mortgage loans, such as credit card receivables, auto loans,
+manufactured-housing contracts and home-equity loans. ABS differs
+from most other kinds of bonds in that their creditworthiness derives
+from sources other than the paying ability of the originator of the
+underlying assets.
+Target Customers: A diverse group of Banks, FIs, insurance
+companies, mutual funds, corporate houses, NGOs and Individuals.
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+18
+
+--- Page 27 ---
+Products and services offered by FIs are almost similar in nature. Despite this, FIs attempt to
+differentiate them from each other in terms of design and operational procedure. This is quite
+obvious that FIs must focus on specialization with the products and services they offer to their
+customers. However, it is also required to incorporate fair and balance features while designing
+products and services. In addition, some basic procedural norms and practices should be taken
+into consideration.
+3.1 General Guidelines on Product/Service Design
+3.1.1 Broader Category
+For the purpose of these guidelines, each product and service offered by an FI must be
+categorized under the broader category of asset or liability side products/services as illustrated
+in Annexure-A. In any case, where a product or service might be characterized under more than
+one broader category, the most appropriate category perceived by the FI should be considered.
+3.1.2 Policy for Financing Limit
+a. The 'single party exposure' limit as defined in the FI Act, 1993 is applicable for
+lending facility on any of the products or services.
+b. FIs should also consider the product/service concentration risk while making any
+financing decision. Credit facility to any single product under any of the broader
+categories shall not exceed 50% of total portfolio of the FI at any point of time. [Note:
+e.g. in case of term loan; Term loan (for corporate), Term Loan (for SME), Term Loan
+(for Agriculture), Term Loan (Syndication) shall be treated as different products].
+c. However, this limit may be extended up to 80% only for those FIs which are
+providing credit solely to one particular specialized area such as SME, housing,
+agriculture, infrastructure development etc.
+3.1.3 Policy on Insurance Coverage
+Though not mandatory, but a minimum 100% Insurance coverage against each asset-side
+product is recommended.
+Guidelines on Products & Services of Financial Institutions in Bangladesh 19
+Chapter-III
+PRODUCT/SERVICE
+DESIGN & OPERATION
+
+--- Page 28 ---
+3.1.4 Pricing Strategy
+a. FIs will calculate their own Cost of Fund using the Base Rate as per the instruction of
+BB.
+b. While calculating the Risk premium, an FI should consider the level of risks associated
+with the product/service along with the customer/investor profile. Therefore, Risk
+premium should be varied depending on the CRG of the loan/investment profile.
+c. Price of an asset-side product will then be calculated as:
+Price = Cost of Fund + Risk Premium + Administrative Cost + Margin.
+The spread over Cost of Fund i.e. (Risk Premium + Administrative Cost + Margin)
+should not exceed 5% at any point.
+d. FIs may determine the price of a liability-side product by considering prevailing
+market rate, demand-supply for liquidity, competitors' response, lending capability,
+overall economic trend, seasonal factors etc.
+3.1.5 Tenure of Repayment
+For the purpose of these guidelines, the tenure of repayment for any asset-side product will be
+determined depending upon the nature of the product and purpose of the business. For each
+product, FIs will fix up the maximum tenure.
+3.1.6 Grace Period
+Grace period should only be allowed to a new business project or a project of an existing
+business that will require some time to generate enough cash for repayment. The maximum
+limit of the grace period should not exceed one year from the date of final disbursement. In
+case of large industrial projects or syndication financing, grace period may be extended up to
+another 6 months.
+
+3.1.7
+Interest Rate charged (if different from the flat rate)
+
+during Grace Period
+This may be optional for any FI. However, no significant difference in the rate during grace
+period is desirable.
+3.1.8 Fees & Other Charges
+For the asset-side products, fees and charges shall be applicable in following way:
+z List of all types of fees and charges related with the loans/leases must be kept in a
+place that is easily visible to the clients in all branches of FIs. The fees and charges
+mentioned in that list must be
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+20
+
+--- Page 29 ---
+strictly followed i.e. FIs cannot charge more than the amount mentioned in that
+list.
+z All legal fees, redemption and/or cancellation of power of attorney of mortgaged
+assets should be charged at actual.
+z FI cannot charge documentation fees (with stamp charge) over the 'max-limit'. For the
+purpose of these guidelines, 'max-limit' will refer to 0.50% of the sanctioned amount
+or BDT 200,000-whichever is lower. FIs may charge any amount below the 'max-
+limit' depending upon the FI-Client relationship. However, the minimum amount of
+such fees may be determined by the FIs not more than BDT 5,000.
+z Documentation fees (with stamp charge) must not be charged more than once.
+z Penal charge may be imposed in case of delaying the repayment schedule in cascade
+manner, i.e. the penalty charged should be lowest for the first time and it may be
+charged at increasing rate for the next missing schedules. Whatever the case may be,
+the penal amount should be limited at the rate of 1%-5% (per annum) over the actual
+rate on the overdue amount only for the delayed period.
+For charging any other fees and charges FIs must follow the instructions of DFIM circular No.
+10 of 2010 and subsequent changes/modifications of this circular.
+3.1.9 Reporting policy
+The
+reporting
+on
+products
+or
+services
+must
+comply
+with
+the
+existing
+principles/policy/guidelines/Circulars of BB in most appropriate manner.
+3.1.10 Sanction/Approval Authority
+For the asset-side products/services, there should be at least 'three-level' approval committees
+i.e. Management-level Committee, Executive Committee and Board of Directors. There must be
+a written policy statement regarding approval authority and FIs will have to follow it strictly. FIs
+will determine the approval authority depending upon the size of the sanctioned amount and
+the total exposure of the client/group.
+3.1.11 Steps in Operation
+FIs will strategize their own operational guidelines for developing, marketing, selling,
+monitoring and evaluating products and services in accordance with the best practices within
+the industry.
+In case of lending, FIs will have to comply with the followings:
+z Credit Appraisal through client visit, discussion, and assessment of needs;
+z Preparation of Information Memo followed by application;
+Guidelines on Products & Services of Financial Institutions in Bangladesh 21
+
+--- Page 30 ---
+z CRG and/or any such rating and verification by Credit Risk Management section;
+z Forward the report to respective approval authority;
+z Issuance of Sanction Letter;
+z Completion of Documentation (including Clientele Acknowledgement Form as
+prescribed in Chapter-4 of this guidelines);
+z Scrutiny of all documents by the responsible unit/department of FIs;
+z Disbursement of fund; in case of multiple-phase disbursement, remaining sanctioned
+amount should be disbursed depending on the progress of the project;
+z Handover the file to Credit Administration/Loan Recovery Department;
+z Collection of Clientele Feedback Form (as mentioned in Chapter-4 of the guidelines) at
+regular interval.
+After disbursement of credit, FIs will monitor the borrower/business/project periodically (it may
+be monthly, quarterly, half-yearly or annually).
+For any lease financing, the delivery of the leased asset should be considered as 'Complete'
+only when the lessee, after the inspection, accepts the leased asset and issues "Certificate of
+Execution" under the said lease.
+In case of Preferred Stock/Share, FIs should accomplish the following procedures:
+z Signing of subscription agreement between investor and issuer.
+z Signing the Share Retention and/or Put Option among investors, the directors of the
+issuer company and the company issuer.
+z Issuance of cheque in favor of the issuer company subject to approval of the
+RJSC/BSEC as may be required.
+For syndication financing, disbursement should be made after getting confirmation from the
+Lead Arranger regarding completion of documentation as per terms and condition of
+Syndication arrangement.
+3.2 Product/Service specific Guidelines
+The following general conditions must be met:
+z Products/services must fall within the ambit of prescribed business activities as set out
+in Annexure-A or other permitted activities specifically approved by the BB.
+z FIs must not knowingly offer a products/services (including its variations) that has
+been prohibited in other countries or which could potentially give rise to public
+concerns.
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+22
+
+--- Page 31 ---
+The utmost responsibility of the central bank is to protect the interest of the common people
+within the periphery of financial sector. Hence, a comprehensive and strategic clientele
+protection framework is pivotal embedded part of the guidelines. The purpose of the guidelines
+is to ensure the transparency and accountability of FIs to their clients regarding products and
+services. This requires emphasizing on some factors as described below.
+4.1 Availability of information for the Clients
+FIs must disclose all information regarding their products/services and make them available to
+all clients. This information should be in written form i.e. in brochure, catalogue, website etc.
+and it must contain (but not limited to) the following features regarding the products/services:
+z Category of the product/service
+z Features of the product/service
+z Existing range in rate of interest
+z FI's policy on insurance coverage of the product/service (wherever applicable)
+z List of documentation & securities required
+z Documentation and all other fees to be charged
+z Any other fees might be charged later on
+The comprehensive set of above information must be readily available for the customers at free
+of charge.
+4.2 Clientele Acknowledgement
+After the issuance of these guidelines, FIs must use 'Clientele Acknowledgement Forms' (CAF)
+as per Table A & B for the new clients and depositors. The form must be acknowledged by the
+customer concerned (wherever applicable) prior to the first disbursement of the borrowed fund
+in case of asset-side products. The CAF will also be applicable for rescheduled accounts. The
+purpose of these forms is to communicate effectively with the clients with optimal transparency.
+This is to note that, the language for these forms along with those mentioned in section-4.3
+must be set according to the client's preference (in Bengali or in English) and/or the ability of
+the clients to understand the contents of these forms.
+Guidelines on Products & Services of Financial Institutions in Bangladesh 23
+Chapter-IV
+CLIENTELE PROTECTION
+RELATED ISSUES
+
+--- Page 32 ---
+Table-A: CAF (for Asset-side Products)
+What is the total amount to be disbursed?
+2(a).
+Will it be disbursed at once?
+2(b).
+If not, how many parts will be there and
+
+mention the amounts in each
+
+disbursement?
+What will be the tenure for repayment? (In
+
+case of rescheduled accounts, the tenure
+
+should be considered from the date of
+
+rescheduling)
+4(a).
+Is there any grace period allowed?
+4(b).
+If so, How long?
+What will be the mode of repayment
+
+(monthly/ quarterly/half-yearly)?
+What will be the installment size?
+7(a).
+Whether the installment size will be same
+
+throughout the repayment tenure?
+7(b).
+If not, is the client fully informed about
+
+this repayment reschedule?
+8(a).
+Whether the interest rate is fixed or flexible?
+8(b).
+If fixed, what will be rate?
+8(c).
+If flexible, is the client informed about it?
+9(a).
+Will there be any fees or other charges
+
+being added in future?
+9(b).
+If so, how much extra will the client have
+
+to pay and under what circumstances?
+10(a).
+Will there be any prepayment penalty if the
+
+client settles the loan/lease early?
+10(b).
+If so, how much the client will have to pay
+
+as early settlement fee?
+Name of the Client:
+Description of Loan/Lease Facility
+Sanction Amount:
+Purpose of the Loan:
+Product Category:
+Comments
+Questions
+FI's comment
+Client's comment
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+N.B.: For rescheduled accounts, questions number 1 and 2 of this CAF is not applicable.
+Client's Signature
+with date
+Official's Signature
+with date
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+24
+
+--- Page 33 ---
+Table-B: CAF (for Liability-side Products)
+4.3 Clientele Feedback
+Along with the CAF, FIs are also advised to keep records of clientele feedback (wherever
+applicable) in regular interval, preferably semi-annually or annually (in light of repayment
+schedule, not the calendar year). In case of liability side products, feedback may be taken at the
+end of maturity. 'Clientele Feedback Form' (CFF) should be prepared as per Table-C & D.
+Again, the prime objective of such forms is to ensure more transparency and accountability of
+FIs and to strengthen the FI-client relationship.
+What will be the interest rate?
+When will be the Deposit account matured?
+3(a).
+Will the interest rate be same in case of
+
+early encashment?
+3(b).
+If no, whether the client is fully informed
+
+about tenure-wise different rates for early
+
+encashment?
+4. Will it be automatically renewed if the
+
+amount is not withdrawn at maturity and
+
+no instruction is given by the client in this
+
+regard?
+5(a).
+Will there be any fees charged against the
+deposit account?
+5(b).
+If so, whether the depositor is informed
+
+about it or not.
+Name of the Client:
+Description of Deposit
+Deposit Amount:
+Product Category:
+Comments
+Questions
+FI's comment
+Client's comment
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Agreed with the
+FI's comment.
+Client's Signature
+with date
+Official's Signature
+with date
+Guidelines on Products & Services of Financial Institutions in Bangladesh 25
+
+--- Page 34 ---
+Table-C: CFF (for Asset-side Products)
+1(a).
+Had the client received loan amount as per
+
+agreement?
+1(b).
+If not, what was the reason (in brief)?
+2(a).
+Whether the grace period (if any) was
+
+allowed accordingly or not?
+2(b).
+If not, what was the reason?
+3(a).
+Whether FI had charged any extra amount
+
+as fee/penalty during this period that was
+
+not mentioned in the agreement?
+3(b).
+If so, what was the reason?
+3(c).
+If the client differs with the explanation of
+
+the FI as mentioned in 3(b), what are the
+
+reasons to differ?
+4(a).
+Was there any change in the interest rate
+
+during the period?
+4(b). If so, what was the reason?
+Name of the Client:
+Description of Loan/Lease Facility
+Sanction Amount:
+Purpose of the Loan:
+Product Category:
+Period of the Feedback ( from---- to----):
+Comments
+Questions
+FI's comment
+Client's comment
+Yes/No
+Yes/No
+Yes/No
+Yes/No
+Yes/No
+Agreed/not with
+FI's explanation
+Agreed/not with
+FI's explanation
+Agreed/not with
+FI's explanation
+Agreed/not with
+FI's explanation
+Client's Signature
+with date
+Official's Signature
+with date
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+26
+
+--- Page 35 ---
+Table-D: CFF (for Liability-side Products)
+The Bengali version of CAF and CFF are illustrated in Annexure-B.
+4.4 Filing of the forms
+The CAFs and the CFFs must be kept in the respective files of the client. Any discrepancies or
+disputes found with these forms must be given utmost attention by the responsible
+unit/department of the FI and should try to resolve those on urgent basis.
+1(a). Whether FI has charged any extra fee
+
+(maintenance fee/others) which was not
+
+mentioned in the agreement?
+1(b). If so, what is the reason?
+Name of the Customer:
+Description of Deposit
+Deposit Amount:
+Product Category:
+Comments
+Questions
+FI's comment
+Customer's comment
+Yes/No
+Agreed/not with
+FI's explanation
+Official's Signature
+with date
+Client's Signature
+with date
+Guidelines on Products & Services of Financial Institutions in Bangladesh 27
+
+--- Page 36 ---
+FIs are expected to develop and implement appropriate policies and procedures to prudently
+manage risks associated with the products and services offered by the institution. The policies
+and procedures should be designed to identify, measure, monitor and control product risk in
+each stage of product/service development, authorization, pricing, marketing, sale, distribution,
+portfolio management, accounting etc.
+5.1 Product Risk Framework
+It is expected that the management of product risks is well integrated within the FI's overall risk
+management framework. For this purpose, the policies and procedures for managing
+product/service risks should be formally endorsed by the Board and properly documented.
+These policies must be communicated in a timely manner to all relevant parts and levels within
+the organization and reviewed periodically in the light of changing circumstances. FIs should
+also ensure the adequacy and security of the IT systems with back-up and infrastructure to
+support their products and service risk management.
+5.2 Product Risk Management System
+A sound product risk management system should be established by the FIs. This should include
+the following features:
+(i) An FI should clearly set out policies regarding its products and services that must
+reflect its corporate strategy, competitive positioning, risk governance and financial
+capacity to absorb losses;
+(ii) It should establish restrictions and/or prudent concentration limits for exposures
+to geographic regions, product lines, distribution channels, economic sectors,
+customer groups or any other relevant risk dimension;
+(iii) It should also establish lines of responsibility for managing related risks.
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+28
+Chapter-V
+PRODUCT RISK MANAGEMENT
+
+--- Page 37 ---
+5.2.1 Measuring the Risks
+Under the product risk management system, an FI has to consider the following risk areas for
+measuring the risks:
+a) Concentration risk:
+Concentration risk can be considered from either a macro (systemic) or a micro
+(idiosyncratic) perspective. For the purpose of measuring the product/service-wise
+concentration risk, HHI can be used. Product concentration risk must be measured
+within FI and may be among FIs, subject to the availability of data.
+
+b) Market Risk:
+Market risk of any product or service may be analyzed from macroeconomic point
+of view i.e. external risks associated with the particular product/service. Along with
+that, product-inherent risk should also be considered within the context of existing
+financial system. While dealing with highly rate sensitive products/services, the
+volatility of interest rate risk must be taken into consideration.
+c) Operational Risk:
+Several operational issues must be addressed to minimize probable risks evolved
+for any product or service. Product risk framework thus requires technology,
+processes, and operational strategy for each product and service which needs to be
+aligned optimally for the creation of an optimal risk measurement model. Proper
+information of products and services must be disseminated all through the channels
+from the clientele support desk to the board of directors. Skilled handling of clients
+and system should be the other vital area to focus on.
+5.2.2 Monitoring and control of product/service risk
+FIs should ensure that there are adequate procedures to monitor and control product risks
+continuously. The procedures should be framed for constant identification, measurement and
+mitigation of existing and potential risks innate in the institution's products and services. For the
+purpose of effective monitoring and control over the product/service risks, the framework must
+ensure (but not limited to) the followings:
+Guidelines on Products & Services of Financial Institutions in Bangladesh 29
+
+--- Page 38 ---
+(i) explicitly defined responsibilities within business lines for managing product/service
+risks within approved parameters/limits;
+(ii) clearly defined lines of responsibility for monitoring and controlling risks by special
+mechanism that are independent of business lines;
+(iii) adequate systems for measuring risk on a continuing basis;
+(iv) regular reviews of the risks identified in product/service exposures in the light of
+varying market conditions for proper identification and monitoring of all material
+risks;
+(v) an well-organized internal control and compliance management system;
+(vi) regular reporting on the product/service risk related issues to the senior management
+and the board through the RAU and RMF.
+5.2.3 Reporting on Product/Service Risk Management
+FIs, through their RMF, should submit a comprehensive report on the 'Product/service Risk
+Management' to Bangladesh Bank in annual basis i.e. by 31 December. The report may
+include:
+- List of existing products/services;
+- Current assessment of product/service risks (from quantitative as well as qualitative
+perspectives) and any change in the direction of risks;
+- Probable plan of actions to mitigate the risks identified;
+- Overall effectiveness of policies and procedures for managing product/service risks;
+- Significant changes in market conditions that may impact the risk profile of the
+products/services;
+- Future plan for introducing new products/services.
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+30
+
+--- Page 39 ---
+6.1 Definition of 'New' Products and Services
+i. Any product/service is defined as 'new' that is being offered by the FIs in Bangladesh
+for the first time. For greater clarity, the instructions of this chapter will apply if the
+product/service has never been offered by the FIs in Bangladesh, despite the fact that
+the product may already be offered by the financial institutions outside Bangladesh; or
+ii. A combination of or variation to an existing product/service that results in a material
+change to the structure, features or risk profile of that product/service.
+The chief risk officer or other designated senior risk officer of the FI shall be responsible for
+determining whether a variation to an existing product constitutes a material change for the
+purpose of paragraph 6.1(ii). This determination of material change shall consider the risk
+implications of the change both from the financial institution's perspective (as provider) and the
+customers' perspective (as client). For Shariah-compliant products, the responsible officer shall
+consult Shariah Committee in assessing whether the proposed change gives rise to any Shariah
+issues that are yet to be deliberated by the Central Shariah Commitee of the country.
+6.2 Applicability
+These guidelines place greater responsibility on the Board, senior management and Shariah
+Committee. The rules apply to all FIs and cover the development, offering and marketing of
+new financial products and services by them.
+The instructions of this chapter generally do not apply to:
+z stock-broking and capital/fund raising activities of an investment;
+z the introduction of new delivery channels such as internet, telephone or mobile based
+financial service and payment gateway; and
+z new/improved systems or processes which generally enhance the operations of FIs.
+Guidelines on Products & Services of Financial Institutions in Bangladesh 31
+Chapter-VI
+GUIDELINES FOR PROMOTING
+NEW PRODUCT/SERVICE
+
+--- Page 40 ---
+6.3
+Steps to be followed for Introducing New Product/Service
+Under the prudent framework of introducing new product/service, FIs should follow the
+following procedures:
+z need assessment for the new product/service including customer suitability;
+z verification by FI's Risk Management and/or Shariah Committee;
+z preparation of IM;
+z product/service authorization; and
+z apply to BB for approval.
+6.3.1 Customer Suitability Assessments
+FIs should develop and implement internal customer suitability procedures in order to ensure
+compatibility of products/services with suitable customers.
+Components of effective customer suitability procedures include:
+z processes that clearly describe the types of consumers that a product would
+generally be suitable for;
+z clear lines of authority for approving transactions with customers that do not meet
+generic customer suitability categorizations;
+z sales personnel who are suitably trained to properly analyze customers' needs and risk
+appetites-
+ effective supervision of personnel involved in sale,
+ appropriate documentation and record keeping to aid reviews of compliance
+with approved procedures.
+z FIs should not recommend products to customers unless the institution is reasonably
+satisfied that the product is suitable for that particular customer.
+This is to ensure that product innovation is carried out in a manner that is aligned with the FI's
+business objectives, and consistent with its capability and capacity to manage associated risks.
+6.3.2 Product Authorization
+All new products/services and material variations of existing products must be authorized by
+senior management and/or the board as appropriate. Approving authorities within the
+institution should be clearly defined and documented, setting out the scope of authority given,
+to whom the authority is given and whether the authority may be further delegated.
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+32
+
+--- Page 41 ---
+The authorization should entail provisions for documentation requirements and internal
+reviews that are necessary for approving authorities to ensure that:
+i. the product proposal is consistent with the financial institution's product management
+program;
+ii. systems and procedures are in place to manage related risks and customer expectations;
+iii. both frontline and back-end staff are adequately trained to support the product; and
+iv. product illustrations and marketing strategies are appropriate and not misleading.
+6.3.3 Information Requirements for New Products
+Prior introducing any new product/service FIs must apply to BB for approval along with the
+followings:
+i. A detailed product description, including its features, structure, target market or
+customers, and distribution channel.
+ii. Sample product term sheet.
+iii. Details of any arrangements (including distribution arrangements) with other
+parties/strategic alliances (if any) in offering the new product, including information
+about the strategic partner, associated risks and actions taken to minimize or mitigate
+the identified risks.
+iv. Description of the product's key inherent risks from both the FIs and consumers'
+perspectives and the systems and/or processes in place to manage the risks.
+v. For new products that involve enhancements to the internet or wireless or other
+forms of electronic banking platforms, financial institutions must also submit the
+following:
+ an assessment of the IT-related risks and measures put in place to mitigate the risks;
+ detailed description on application security and application architecture diagram;
+ detailed IT and network security infrastructure arrangements; and
+ detailed network diagram (where applicable) depicting external linkages and
+control checkpoints.
+vi. Information Submission Checklist for Revision or Introduction of Fees and Charges, as
+required under the DFIM circular No-10 of 2010 or any subsequent updates which may be
+issued by the BB from time to time.
+vii. For Shariah-compliant products, in addition to the information required under items (i)
+to (vi), FIs will also submit the verification report on the new product/service from the
+Shariah Committee.
+Guidelines on Products & Services of Financial Institutions in Bangladesh 33
+
+--- Page 42 ---
+With the increased flexibility provided to FIs under these guidelines, greater responsibilities
+have been assigned on the Board and senior management to ensure that products/services risks
+are well managed, and the needs and rights of consumers are appropriately addressed. These
+responsibilities will continue to be rigorously reinforced by the FIs through its supervisory
+reviews and enforcement actions to enhance consumer protection and promote sound risk
+management practices.
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+34
+Chapter-VII
+CONCLUSION
+
+--- Page 43 ---
+Corporate
+Finance
+Consumer
+Finance
+Agriculture
+SME
+Housing/Real
+estate Finance
+Equity Finance
+Syndication
+Finance
+Loans, leases and advances to corporate bodies. "Corporate"
+refers to any proprietorship, partnership or limited company
+other than SMEs and Real-estate developer/construction firms.
+Loans, leases and advances to individuals for meeting their
+personal, family or household needs that includes credit cards,
+auto/vehicle loans for personal use, personal loans, and any
+purpose loan etc.
+Agricultural Loans are made to farmers to finance farming
+activities.
+These types of financing are adapted to the specific financial
+needs of farmers, which are determined by planting, harvesting
+and marketing cycles.
+The definition of SME will be the same as defined by BB from
+time to time.
+Loans for the purpose of constructing/purchasing/ renovating of
+land/house/apartment provided to individuals as well as
+corporate bodies. Industrial or warehouse space, hotels, land
+acquisition for/development/construction of residential real estate
+by real estate companies, and exposures to entities for setting up
+special economic zones will also be treated as commercial real
+estate.
+The act of raising money for company activities by selling
+common or preferred stock to individual or institutional
+investors. In return for the money paid, shareholders receive
+ownership interests in the corporation.
+The process of involving several different lenders in a group
+formed temporarily for the purpose of handling a large
+transaction that would be hard or impossible for the entities
+involved to handle individually. Syndication financing allows
+companies to pool their resources and share risks.
+Table-(i): Definition of Broader Categories of Asset-side Products
+Category
+Sl.
+Definition
+Guidelines on Products & Services of Financial Institutions in Bangladesh 35
+Annexure-A
+
+--- Page 44 ---
+Advisory
+Arranger/Trustee
+Guarantor
+Others
+Consulting service in which an FI develops findings, conclusions
+and recommendations that are presented to the client for
+consideration and decision making. A financial advisor is generally
+compensated through fees, commissions, or a combination of both.
+Service for arranging the funds especially in syndication loan/new
+placement of issue or securities provided by FIs.
+Trustee: An individual or organization which holds or manages and
+invests assets for the benefit of another.
+The trustee is legally obliged to make all trust-related decisions with
+the beneficiary's interests in mind, and may be liable for damages in
+the event of not doing so. Trustees may be entitled to a payment for
+their services, if specified in the trust deed.
+A person/institution that guarantees to pay for someone else's debt if
+the borrower defaults on a loan obligation. A guarantor acts as a co-
+signor of sorts, in that they pledge their own assets or services if a
+situation arises in which the original debtor cannot perform their
+obligations.
+This category will include all the services that are beyond periphery
+of the above categories.
+Table-(ii): Definition of Broader Categories of Asset-side Services
+Category
+Sl.
+Definition
+10
+Capital Market
+Investment
+Bonds
+Others
+The investment in the capital market in the form of
+stocks/bonds/securities (both in listed as well as non-listed
+companies).
+It is a debt security, under which the issuer owes the holders a debt
+and, depending on the terms of the bond, is obliged to pay them the
+coupon (interest) or to repay the principal at a later date, termed the
+maturity.
+This category will include all the products that are beyond periphery
+of the above nine categories. For example- Venture capital
+Financing, factoring etc.
+Guidelines on Products & Services of Financial Institutions in Bangladesh
+36
+
+--- Page 45 ---
+Savings Scheme
+Term Deposits
+Wealth Builder/
+Multiplier
+Schemes
+Issuance of Bond
+Others
+Systematic investment plan/periodic savings or cumulative
+deposit program designed to encourage savings through small
+but regular deposits or automatic deductions from salaries or
+wages.
+A deposit held at an FI that has a fixed term. These are
+generally short-term with maturities ranging anywhere from
+months to few years. When a term deposit is purchased, the
+lender (the customer) understands that the money can be
+withdrawn only after the term has ended. Under these deposit
+schemes depositors receive interest either at maturity or at
+periodical intervals.
+Under these deposit schemes depositors placed deposit
+amount at a time, and then it will turn double/triple/certain
+amount on completion of its prescribed tenure.
+It is a debt security, under which the issuer owes the holders a
+debt and, depending on the terms of the bond, is obliged to
+pay them the coupon (interest) or to repay the principal at a
+later date, termed as maturity.
+This category will include all the services that are beyond
+periphery of the above categories.
+Table-(iii): Definition of Broader Categories of Liability-side Products
+Category
+Sl.
+Definition
+Guidelines on Products & Services of Financial Institutions in Bangladesh 37
+
+--- Page 46 ---
+Annexure-B
+
+Table-A: CAF (সম্পদ ভিত্তিক Product এর জন্য)
+
+খণ/লিজ সুবিধার বিবরণ
+মঞ্জুরীকৃত খণ/লিজের পরিমাণ:
+খণ/লিজ গ্রহণের উদ্দেশ্য:
+Product «4 OO
+
+
+২(ক)-
+২(খ).
+
+
+8 (ক).
+
+৪খে),
+
+
+
+৭(ক),
+
+৮(ক).
+৮(খ).
+৮(গ).
+
+৯(খ).
+
+মোট কত টাকা বিতরণ করা হবে?
+
+খণ/লিজ সুবিধার সমুদয় অর্থ কি এককালীন বিতরণ করা হবে?
+যদি এককালীন বিতরণ করা না হয়, তবে কয়টি কিস্তিতে এবং কী
+পরিমাণে তা বিতরণ করা হবে?
+
+কত বছরে খণ/লিজ পরিশোধ করতে হবে? (পুন:তফসিলকৃত
+হিসাবের জন্য পুন:তফসিলিকরণের পর হতে)
+
+খণ/লিজ পরিশোধের ক্ষেত্রে কোন Grace Period দেয়া হবে কি?
+
+Grace Period দেয়া হলে,তা কত সময়ের জন্য?
+
+কিস্তির টাকা কিভাবে পরিশোধ করতে হবে
+(মাসিক/ত্রেমাসিক/যান্মাসিক ভিত্তিতে) ?
+
+প্রতিটি কিস্তির পরিমাণ কত হবে?
+
+খণ/লিজ পরিশোধের মেয়াদকালে কিস্তির পরিমাণ একই থাকবে কিনা?
+না থাকলে, গ্রাহককে সম্পূর্ণ পরিশোধ সুচি সম্পর্কে অবহিত করা
+হয়েছে কিনা?
+
+সুদের হার সবসময় একই থাকবে কিনা?
+
+একই থাকলে, সুদের হার কত হবে?
+
+সুদহার পরিবর্তনীয় হলে, গ্রাহককে এ সম্পর্কে অবহিত করা হয়েছে
+কিনা?
+
+বকেয়া খণের সাথে ভবিষ্যতে কোন ফি বা চার্জ আদায় করা হবে
+কিনা?
+
+যদি কোন ফি বা চার্জ আদায় করা হয়, তবে কোন পরিস্থিতিতে
+এবং কি পরিমাণে তা আদায় করা হবে?
+
+১০(ক). লিজ হাউ মেয়াদপূর্তির পূর্বে সমন্বয় করা হলে কোন
+
+জরিমানা প্রদান করতে হবে কিনা?
+
+১০(খ). যদি am ন করতে হয়, তবে তার পরিমাণ কত?
+
+*পুন:তফসিলকৃত খণ/লিজ হিসাবের ক্ষেত্রে ১ ও ২ নং্রশ্ন প্রযোজ্য নয়।
+
+3 ৪ |Guidetines on Products & Services of Financial Institutions in Bangladesh
+
+ip
+
+aI
+
+
+এ শর এ
+
+--- Page 47 ---
+Table-B: CAF (দায় ভিত্তিক Product এর জন্য)
+
+আমানতের বিবরণ
+আমানতের পরিমাণ:
+
+৩(ক),
+
+৩খে),
+
+৫(ক).
+৫(খ).
+
+আমানতের উপর প্রদত্ত সুদ হার কত?
+
+আমানত হিসাবটির মেয়াদ কবে শেষ হবে?
+
+মেয়াদপূর্তির পূর্বে আমানতকৃত অর্থ উত্তোলন করা হলে সুদহার
+কি একই থাকবে?
+
+যদি সুদহার একই না থাকে, সেক্ষেত্রে আমানতের মেয়াদ
+ভিত্তিক সুদহার সম্পর্কে গ্রাহককে অবহিত করা হয়েছে কিনা?
+মেয়াদ পূর্তিতে আমানতকৃত অর্থ উত্তোলন করা না হলে এবং
+স্বয়ংক্রিয়ভাবে নবায়ন হবে কি?
+
+আমানত হিসাবের বিপরীতে কোন ফি আরোপ করা হবে কিনা?
+যদি এরূপ ফি আদায় করা হয়, তবে সে বিষয়ে গ্রাহককে
+অবহিত করা হয়েছে কিনা ।
+
+তারিখসহ কর্মকর্তার
+
+Guidelines on Products & Services of Financial Institutions in Bangladesh| 3 9
+
+ভিন একমত
+
+প্রতিষ্ঠানটির মন্তব্যের
+সাথে একমত
+
+প্রতিষ্ঠানটির মন্তব্যের
+সাথে একমত
+
+প্রতিষ্ঠানটির মন্তব্যের
+সাথে একমত
+
+প্রতিষ্ঠানটির মন্তব্যের
+সাথে একমত
+
+তারিখসহ গ্রাহকের
+
+--- Page 48 ---
+Table-C: CFF সেম্পদ ভিত্তিক Product এর জন্য)
+
+ঝণ/লিজ সুবিধার বিবরণ
+মঞ্জুরীকৃত খণ/লিজের পরিমাণ:
+Product এর হিতে
+Feedback এর মেয়াদ (১... ২১১০০ ০০০ হইতে, ee. a
+
+১). চুক্তি অনুযায়ী মঞ্জুরীকৃত খণ/লিজের অর্থ গ্রাহক পেয়েছেন কিনা?
+
+১(খ). না পেয়ে থাকলে, কি কারণে পাননি ? প্রতিষ্ঠানটির ব্যাখ্যার
+সাথে সম্মত/সম্মত নই
+
+২(ক). চুক্তি মোতাবেক Grace Period প্রদান করা হয়েছে কিনা ? fF Siar
+
+২(খ). প্রদান করা না হয়ে থাকলে, তার কারণ কি ছিল? প্রতিষ্ঠানটির ব্যাখ্যার
+সাথে সম্মত/সম্মত নই
+
+৩(ক). খণ/লিজ চুক্তিতে উল্লেখ না থাকা সত্তেও Feedback এর
+
+মেয়াদকালে ফি বা জরিমানা হিসেবে কোন অতিরিক্ত অর্থ হা/না
+আদায় করা হয়েছে কি?
+৩(খ). এরূপ কোন অর্থ আদায় করে থাকলে তার কারণ কি ছিল? প্রতিষ্ঠানটির ব্যাখ্যার
+সাথে সম্মত/সম্মত নই
+৩(গ). প্রতিষ্ঠানটি কর্তৃক ৩(খ) এ প্রদত্ত ব্যাখ্যার সাথে গ্রাহক সম্মত
+না হলে, তার কারণ কি?
+
+৪(ক). উপরে উল্লিখিত Feedback এর মেয়াদকালে সুদহার
+পরিবর্তন করা হয়েছে কিনা? চি
+৪(খ). এ সময়ে সুদহার পরিবর্তন করা হয়ে থাকলে, তার কারণ কি প্রতিষ্ঠানটির ব্যাখ্যার
+
+ছিল? সাথে সম্মত/সম্মত নই
+
+তারিখসহ কর্মকর্তার তারিখসহ গ্রাহকের
+
+40 |Guidetines on Products & Services of Financial Institutions in Bangladesh
+
+--- Page 49 ---
+Table-D: CFF (দায় ভিত্তিক Product এর জন্য)
+
+আমানতের বিবরণ
+আমানতের পরিমাণ:
+
+গ্রাহকের মন্তব্য
+
+ঢা তল
+১(ক). চুক্তিতে উল্লেখ না থাকা সত্তেও Maintenance Fee বা .
+অনুরূপ ফি বাবদ কোন অর্থ কর্তন করা হয়েছে কিনা? হ্যা/না
+
+১(খ). কর্তন করা হয়ে থাকলে, তার কারণ কি ছিল? প্রতিষ্ঠানটির ব্যাখ্যার
+
+Guidelines on Products & Services of Financial Institutions in Bangladesh| 4 1
+
+--- Page 50 ---
+Published by
+
+F M. Mokamme! Huq, General Manager
+Department of Communications and Publications
+Bangladesh Bank, Head Office, Motijheel
+Dhaka-1000, Bangladesh
+
+Phone : 88-02-9530141, Fax : 88-02-9530198
+
+e-mail : mokammel.huq@bb,org.bd
+
+Website : www.bb.org.bd
+www.bangladesh-bank.org
+
+www. bangladeshbank.org.bd
+Printed by Sparkle IT, Tel : 9351769
+
+DCP-11-2013-300

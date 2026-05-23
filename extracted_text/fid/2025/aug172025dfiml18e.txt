@@ -1,0 +1,427 @@
+--- Page 1 ---
+Department of Financial Institutions and Markets
+Bangladesh Bank
+Head Office
+Dhaka-1000
+Website: www.bb.org.bd
+
+DFIM Circular letter No. 18 Date: August 17, 2025
+
+Managing Directors/Chief Executives
+All Finance Companies operating in Bangladesh
+
+Dear Sir,
+Regarding Submission of Liquidity Profile Statement.
+
+1. Please refer to DFIM Circular No. 9, dated October 20, 2015 on the captioned subject. As
+per the instructions of the said circular, Finance Companies have been submitting the projected
+Liquidity Profile prepared on the basis of the position as on the last working day of each month to this
+department within 7 (seven) working days of the following month.
+
+2. It is observed that there are some inconsistencies in the liquidity statements submitted by
+Finance Companies which do not reflect actual liquidity position of the concerned institutions.
+Moreover, with the passage of time the facility of investment by Finance Companies in various sectors
+has expanded. In this context, a decision has been taken to revise the input template of the Statement
+of Structural Liquidity Profile of Finance Companies by making necessary amendments to reflect the
+actual liquidity position.
+
+3. All Finance Companies are hereby instructed to submit the Statement of Structural Liquidity
+Profile within the time frame as mentioned in DFIM Circular No. 9, dated October 20, 2015 based on
+amended input template uploaded in Enterprise Data Warehouse (EDW) of Bangladesh Bank.
+Finance Companies shall log into the relevant BB web portal (http://ereturns.bb.org.bd/edwportal)
+using authorized User ID and download the T_PS_M _LIQDTY_FI template and reference file.
+Finance Companies should follow the instructions contained in Annexure-I attached herewith to
+prepare the statement.
+
+4. In this regard, all other instructions of DFIM Circular No. 9, dated October 20, 2015 will
+remain unchanged.
+
+5. This Circular Letter is issued under the authority vested under Section 41(3) of Finance
+Companies Act, 2023.
+Sincerely Yours
+
+(Goutam Kumar Ghosh)
+Director (DFIM)
+Phone: 9530178
+
+--- Page 2 ---
+ANNEXURE I
+
+Name of Finance Company (FC):
+Statement of Structural Liquidity as on:
+(Amount in crore)
+Projected Figure
+Actual
+Figure
+Particulars
+1 to 30/31
+day (one
+month)
+Over one
+month to
+2 months
+Over 2
+months to
+3 months
+Over 3
+months to
+6 months
+Over 6
+months to
+one year
+Over one
+year to 3
+years
+Over 3
+years to
+5 years
+
+Over 5
+years
+
+Total
+During Last
+One Month
+Outflows
+
+
+
+
+
+
+
+1. Capital Funds
+a. Equity and Non-redeemable or
+perpetual preference capital/shares
+b. Preference capital–redeemable/non-
+perpetual
+2. Reserves and surplus
+3. Notes, bonds & debentures
+(a) Plain vanilla bonds/debentures
+(b) Bonds/debentures with embedded call/put
+options (including zero/coupon/deep
+discount bonds)
+(c) Fixed rate notes
+4. Deposits
+(a) Term deposits from public
+(b) Term deposits from Banks/FCs
+5. Bank Borrowings
+(a) Long term loans
+(b) Bank Borrowings (SOD)
+(c) Money at Call & Short Notice
+6. Current Liabilities and provisions:
+(a) Accounts payable/Sundry creditors.
+(b) Short term loans/Expenses
+payable(Other than interest)
+(c) Advance income received
+(d) Interest payable on bonds/loans/deposits
+(e) Provisions for NPAs
+(f) Provisions for investment portfolio
+7. Contingent Liabilities
+(a) Letters of credit/guarantees
+(outflow through development)
+(b) Loan commitments , pending disbursal
+(outflow)
+(c) Lines of credit committed to/by other
+institutions (outflow/inflow)
+8. Other Outflows
+A. TOTAL OUTFLOWS (A)
+B. INFLOWS
+1. Cash
+2. Remittance in transit
+3. Balance with Bangladesh Bank
+4. Balances with banks
+(a) Current account
+(b) Deposit Accounts/short-term deposits
+
+--- Page 3 ---
+(c) Money at call & short notice
+5. Investments
+(a) Investments In Govt. Securities
+(b) Non-exchangeable shares of subsidiaries.
+Redeemable (open-ended) mutual funds
+(c) Exchangeable shares/bonds/debentures/ mutual
+funds
+(d) Non-exchangeable, irredeemable, non-
+convertible shares/bonds/debentures
+(e) Non-exchangeable, redeemable
+shares/bonds/debentures
+6. Loans/Lease/Advances(performing)
+(a) Term loan
+(b) Lease finance
+(c) Home loans
+(d) Corporate loans/short term loans
+Non-performing loans/Leases
+Fixed assets (excluding assets on lease)
+Assets on lease
+10. Other assets:
+(a) Intangible assets & other non-cash
+flow items
+(b) Interest and other income
+receivable
+(c) Others
+11. Other Inflows
+B. TOTAL INFLOWS (B)
+C. MISMATCH (B-A)
+D. CUMULATIVE MISMATCH
+E. C AS PERCENTAGE OF A
+
+--- Page 4 ---
+APPENDIX I
+MATURITY PROFILE–LIQUIDITY
+
+HEAD OF ACCOUNTS
+TIME-BUCKET CATEGORY
+A. OUTFLOWS
+
+1.Capital funds
+
+(a) Equity capital, Non-
+redeemable or perpetual
+preference capital/shares
+In the ‘over 5 years’ time bucket
+
+(b) Preference capital–
+redeemable/non-perpetual
+As per the residual maturity of the shares
+2. Reserves and surplus
+In the ‘over 5 years’ time bucket
+3. Notes, Bonds and debentures
+
+(a) Plain vanilla bonds/debentures
+As per the residual maturity of the instruments
+(b) Bonds/debentures with
+embedded call/put options
+(including zero/coupon/ deep
+discount bonds)
+As per the residual period for the earliest exercise date for
+the embedded option
+
+(c) Fixed rate notes
+As per the residual maturity
+4. Deposits:
+
+(a) Term deposit from public
+As per the residual maturity
+(b) Term deposits from Banks/FCs
+These, being institutional/wholesale deposits, should be
+slotted as per their residual maturity
+5. Bank Borrowings:
+
+(a) Long term loans
+As per the residual maturity
+(b) Bank borrowings (SOD)
+Over six months and up to one year
+(c) Money at call and short notice
+In the ‘1 to 30/31 days’ time-bucket
+6.Current liabilities and
+provisions:
+
+
+(a) Accounts payable/Sundry
+creditors
+
+As per the due date or likely timing of cash outflows. A
+behavioral analysis could also be made to assess the trend of
+outflows and the amounts slotted accordingly.
+(b) Short term loans/Expenses
+Payable (other than interest)
+As per the likely time of cash outflow
+(c) Advance income received
+In the ‘over 5 years’ time-bucket as these do not involve any
+cash outflow
+(d) Interest payable on
+bonds/loans/deposits
+In respective time buckets as per the due date of payment
+(e) Provision for NPAs
+In the ‘over 5 years’ time-bucket
+(f) Provision for Investments
+portfolio
+In the ‘over 5 years’ time-bucket
+
+--- Page 5 ---
+HEAD OF ACCOUNTS
+TIME-BUCKET CATEGORY
+B. INFLOWS
+
+1. Cash
+In 1 to 30/31 day time-bucket
+2. Remittance in transit
+In 1 to 30/31 day time-bucket
+3. Balance with Bangladesh Bank
+The amount required for CRR/SLR should be placed in the
+‘Over 5 Years’ time-bucket. The excess amount over
+required CRR/SLR should be placed in the ‘1 to 30/31 days’
+time-bucket.
+4. Balances with banks
+
+(a) Current account
+The stipulated minimum balance be shown in 6 months to 1
+year bucket. The balance in excess of the minimum balance
+be shown in1 to 30 day time bucket.
+(b) Deposit accounts/short term
+deposits
+As per residual maturity
+(c) Money at call and short notice
+In the ‘1 to 30/31 days’ time-bucket
+5. Investments
+
+(a) Investments in Govt. Securities
+All encumbered treasury securities required for maintaining
+minimum SLR and minimum capital should be placed in the
+‘Over 5 Years’ time-bucket. All other unencumbered
+treasury securities should be placed in the ‘1 day to 30/31
+days’, Over one month and up to 2 months’ and ‘Over two
+months and up To 3 months’ time- buckets depending upon
+the defeasance period proposed by the FCs.
+
+(b) Non-exchangeable shares of
+subsidiaries, redeemable (open
+ended) mutual funds
+In the ‘Over 5 Years’ time-bucket
+(c) Exchangeable shares/bonds/
+debentures/ mutual funds
+May be shown in the ‘1 day to 30/31 days’ , ‘Over one
+month and up to 2 months’, and ‘Over two months and up To
+3 months’ time- buckets depending upon the defeasance
+period proposed by the FCs
+(d) Non-exchangeable,
+irredeemable, non-convertible
+shares/bonds/debentures
+In the ‘Over 5 Years’ time-bucket
+(e) Non-exchangeable, redeemable
+shares/bonds/debentures
+Respective maturity buckets
+6. Loans/Leases/Advances
+(Performing)
+
+(a-c) Term Loans/Lease
+finances/Home Loans
+The cash inflows on account of the interest and principal of
+the loan may be slotted in respective time buckets as per the
+timing of the cash flows as stipulated in the original/revised
+repayment schedule
+(d) Corporate Loans/Short term
+loans
+As per the residual maturity
+
+--- Page 6 ---
+7. Non-Performing Loans/Leases
+75% of the average of the last 6 months actual collection
+from Total NPL may be shown in all other time buckets
+except ‘Over 5 Year’ time-bucket and the residual shall be
+shown in ‘Over 5 Year’ time-bucket.
+8. Fixed assets (excluding assets
+on lease)
+In the ‘over 5 year’ time-bucket
+9. Assets on Lease
+Cash flows from the lease transaction may be slotted in
+respective time buckets as per the timing of the cash flow
+10. Other assets (a-c)
+In the ‘over 5 year’ time-bucket
+11. Other Inflows
+In the ‘over 5 year’ time-bucket
+
+
+C. CONTINGENT LIABILITIES
+
+(a) Letters of credit/guarantees
+(outflow through devolvement)
+Based on the past trend analysis of the evolvements vis-a-vis
+the outstanding amount of guarantees (net of margins held),
+the likely evolvements should be estimated and this amount
+could be distributed in various time buckets on judgmental
+basis. The assets created out of evolvements may be shown
+under respective maturity buckets on the basis of probable
+recovery dates.
+(b) Loan commitments pending
+disbursal (outflow)
+In the respective time buckets as per the sanctioned
+disbursement schedule
+(c) Lines of credit committed to/by
+other Institutions (outflow/inflow)
+As per usance of the bills to be received under the lines of
+credit
+
+NOTE:
+(a) Any event-specific cash flows (e.g. outflow due to wage settlement arrears, capital expenses,
+income- tax refunds, etc.) should be shown in a time bucket corresponding to timing of such cash
+flows.
+(b) Overdue receivables on account of interest and installments of standard loans/hire purchase
+assets/leased rentals should be slotted as below:
+
+(i) Overdue for less than one month.
+In the 3 to 6 month bucket
+(ii) Interest overdue for more than one month but
+less than seven months (ie) before the relative
+amount becomes past due for six months)
+In the 6 to 12 month bucket without
+reckoning the grace period of month
+(iii) Principal installments overdue for 7 months
+but less than one year
+In 1 to 3 year bucket
+
+(c) 75% of the average of the last 6 months actual collection from Total NPL may be shown in all other
+time buckets based on the criteria depicted below and the rest amount in the ‘Over 5 years’ time
+bucket. For example, if the total NPL outstanding amount of a finance company is 1,00,000 taka and
+the total collection for the last 6 months from NPL is 6000 taka then average monthly collection
+comes out to be 1000 taka. Therefore, 75% of the average monthly collection is 1,000*75%=750 taka.
+So, based on the above information finance company may show NPL as follows:
+
+--- Page 7 ---
+Particulars
+Projected Figure
+Actual
+Figure
+B. Inflows
+1 to
+30/31
+day (one
+month)
+Over one
+month to
+2 months
+Over 2
+months
+to 3
+months
+Over 3
+months
+to 6
+months
+Over 6
+months
+to one
+year
+Over one
+year to 3
+years
+Over 3
+years
+to 5
+years
+Over 5
+years
+Total
+During
+Last
+One
+Month
+7. Non-
+performing
+loans/Leases
+750
+750
+750
+2250
+4500
+18000
+18000 55000 1,00,000 1,213
+* Convert the same in crore amount as per the requirement
+
+D. FINANCING OF GAPS:
+The negative gap (i.e. where outflows exceed inflows) in the 1-90 days time-bucket should not exceed the
+prudential limit of 15% of outflows of each time-bucket and the cumulative gap up to the one-year period
+should not exceed 15% of the cumulative cash outflows up to one year period. In case these limits are
+exceeded, the measures proposed for bringing the gaps within the limit, should be shown by a footnote in the
+relative statement.

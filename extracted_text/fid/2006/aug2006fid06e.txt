@@ -1,0 +1,953 @@
+--- Page 1 ---
+www.bangladeshbank.org.bd
+Bangladesh Bank
+Head Office
+Dhaka
+Financial Institutions
+Department
+
+
+FID Circular No. 06 Dated : 20 August, 2006
+
+Managing Director/Chief Executive
+All Financial Institutions
+
+Dear Sir,
+
+Policy on Loan/lease Classification and Provisioning
+
+In order to strengthen credit discipline and bring classification policy in line with
+international standards, Bangladesh Bank has revised its prudential norms for loan/lease
+classification and provisioning from time to time. As part of the process, Bangladesh Bank has
+introduced "Special Mention Account" and provisioning thereof vide FID Circular No-03, dated
+03 may 2006. In terms of the above, the Financial Institutions will conduct their loan/lease
+classification and provisioning. For this purpose, we are enclosing herewith the revised format of
+(FICL-1, 2A, 2B, 3A, 3B, 4A, 4B, 5 & 6).
+All other instructions contained in FID Circular No.08/2002, 11/2005 & 03/2006 will
+remain unchanged.
+
+
+Please acknowledge receipt.
+
+Yours faithfully,
+
+Enclosure : 09 (Nine) .
+(Md. Masum Patwary)
+Joint Director
+Phone : 7126101-20/3155.
+
+--- Page 2 ---
+Standard
+SMA
+SS
+DF
+B/L
+Standard
+(if any)
+SMA
+Classified
+A/Cs
+Total
+10
+11
+12
+13
+14
+15
+16
+Lease Finance (FICL-2A)
+Lease Finance (FICL-2B)
+Term Loans(FICL-3A)
+Term Loans(FICL-3B)
+Housing Finance(FICL-4A)
+Housing Finance(FICL-4B)
+Other Assets(FICL-5)
+Investments(FICL-6)
+Total
+RATE OF PROVISION
+AMOUNT OF ACTUAL PROVISION(taka in thousand) --------------------
+Form No.
+All Loan/Leases
+FICL-2A
+FICL-2B
+FICL-3A
+Sub-standard
+FICL-3B
+FICL-4A
+FICL-4B
+FICL-5
+FICL-6
+FICL-1 BRANCH SUMMARY OF LOAN/LEASE CLASSIFICATION AND PROVISION AS OF --------- Ref :FID Circular No. 06/2006
+NAME OF THE FI :
+BRANCH NAME:
+(taka in thousand)
+SL. NO.
+Sectors
+Total
+Balance Outstanding
+Base for provision
+Amount of
+provision
+required
+Interest suspense on
+Unclassified(UC)
+Classified
+SMA
+SS
+DF
+B/L
+50%
+CHECK LIST
+No.of Pages
+Standard
+SMA SPECIAL MENTION ACCOUNT, SS SUB-STANDARD, DF DOUBTFUL, B/L BAD/LOSS
+100%
+Particulars
+SMA
+Doubtful
+Bad/Loss
+20%
+
+--- Page 3 ---
+FICL-2A
+Ref : FID Circulr No.06/2006
+RETURN FOR CLASSIFICATION OF LEASES OF FINANCIAL INSTITUTIONS(Repayable within 5 Years) as of ……………………..
+Name of the FI :
+Branch name :
+Page-
+(Amount in Taka)
+Size
+Frequency
+Objective
+Criteria
+Qualitative
+Judgement
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13=11-12
+14
+15
+16
+17
+18
+Standard
+SMA
+Sub-
+standard
+(SS)
+Doubtful (DF) Bad/Loss (BL)
+Standard
+(if any)
+SMA
+Classified
+A/Cs
+Total
+SMA {col.20-
+25}
+Sub-
+standard
+(SS)
+{col.21-26-
+28}
+Doubtful
+(DF) {col.22-
+26-28}
+Bad/Loss
+(BL)
+{col.23-26-
+28}
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+Amount in Arrears x Installment Frequency
+* Time Equivalent of Amount in Arrears =
+Installment Size
+33
+Date of
+rescheduling
+DD MM YY
+Rescheduled
+Amount
+Amount due
+as on
+Reference
+date
+Amount Paid
+as on
+Reference
+date
+Amount in
+Arrears
+Time
+Equivalent of
+Amount in
+Arrears*
+Final Classification
+Amount of
+Outstanding
+as of
+Reference
+date
+Cumulative Interest suspense as of reference
+date
+Base for Provision for
+Value of
+elligible
+securities (in
+nearest taka)
+Remarks
+Name of the Leasee
+Date of Lease
+Execution
+DD MM YY
+Amount Unclassified(UC)
+Amount Classified
+Preliminary Status of
+Classification
+Installment
+Lease
+No./Lease A/C
+No
+Lease
+Amount
+Sl
+No.
+
+--- Page 4 ---
+FICL-2B
+Ref : FID Circulr No.06/2006
+RETURN FOR CLASSIFICATION OF LEASES OF FINANCIAL INSTITUTIONS(Repayable in more thn 5 Years) as of ……………………..
+Name of the FI
+Branch name :
+Page-
+(Amount in Taka)
+Size
+Frequency
+Objective
+Criteria
+Qualitative
+Judgement
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13=11-12
+14
+15
+16
+17
+18
+Standard
+SMA
+Sub-
+standard
+(SS)
+Doubtful (DF) Bad/Loss (BL)
+Standard
+(if any)
+SMA
+Classified
+A/Cs
+Total
+SMA {col.20-
+25}
+Sub-
+standard
+(SS)
+{col.21-26-
+28}
+Doubtful
+(DF) {col.22-
+26-28}
+Bad/Loss
+(BL)
+{col.23-26-
+28}
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+Amount in Arrears x Installment Frequency
+* Time Equivalent of Amount in Arrears =
+Installment Size
+Value of
+elligible
+securities (in
+nearest taka)
+Amount due
+as of
+Reference
+date
+Amount Paid
+as on
+Reference
+date
+Amount in
+Arrears
+Time
+Equivalent of
+Amount in
+Arrears*
+Preliminary Status of
+Classification
+33
+Installment
+Final Classification
+Base for Provision for
+Remarks
+Amount Unclassified(UC)
+Amount Classified
+Cumulative Interest suspense as of reference
+date
+Date of Lease
+Execution
+DD MM YY
+Rescheduled
+Amount
+Date of
+rescheduling
+DD MM YY
+Amount of
+Outstanding
+as on
+Reference
+date
+Sl
+No.
+Name of the Leasee
+Lease
+No./Lease A/C
+No
+Lease
+Amount
+
+--- Page 5 ---
+FICL-3A
+Ref : FID Circulr No.06/2006
+RETURN FOR CLASSIFICATION OF LOANS OF FINANCIAL INSTITUTIONS(Repayable within 5 Years) as of ……………………..
+Name of the FI :
+Branch Name :
+Page-
+(Amount in Taka)
+Size
+Frequency
+Objective
+Criteria
+Qualitative
+Judgement
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13=11-12
+14
+15
+16
+17
+18
+Standard
+SMA
+Sub-
+standard
+(SS)
+Doubtful (DF) Bad/Loss (BL) Standard (if
+any)
+SMA
+Classified
+A/Cs
+Total
+SMA {col.20-
+25}
+Sub-
+standard
+(SS)
+{col.21-26-
+28}
+Doubtful
+(DF) {col.22-
+26-28}
+Bad/Loss
+(BL)
+{col.23-26-
+28}
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+Amount in Arrears x Installment Frequency
+* Time Equivalent of Amount in Arrears =
+Installment Size
+33
+Final Classification
+Amount Unclassified(UC)
+Amount Classified
+Cumulative Interest suspense as of reference
+date
+Value of
+elligible
+securities (in
+nearest taka)
+Base for Provision for
+Remarks
+Amount Paid
+as on
+Reference
+date
+Amount in
+Arrears
+Date of Loan
+Execution
+DD MM YY
+Rescheduled
+Amount
+Date of
+rescheduling
+DD MM YY
+Amount of
+Outstanding
+as of
+Reference
+date
+Installment
+Amount due
+as on
+Reference
+date
+Time
+Equivalent of
+Amount in
+Arrears*
+Preliminary Status of
+Classification
+Sl
+No.
+Name of the Borrower
+Loan No./Loan
+A/C no.
+Loan
+Amount
+
+--- Page 6 ---
+FICL-3B
+Ref : FID Circulr No.06/2006
+RETURN FOR CLASSIFICATION OF LOANS OF FINANCIAL INSTITUTIONS(Repayable in more than 5 Years) as of ……………………..
+Name of the FI :
+Branch Name :
+Page-
+(Amount in Taka)
+Sl
+No.
+Size
+Frequency
+Objective
+Criteria
+Qualitative
+Judgement
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13=11-12
+14
+15
+16
+17
+18
+Standard
+SMA
+Sub-
+standard
+(SS)
+Doubtful (DF) Bad/Loss (BL)
+Standard
+(if any)
+SMA
+Classified
+A/Cs
+Total
+SMA {col.20-
+25}
+Sub-
+standard
+(SS)
+{col.21-26-
+28}
+Doubtful
+(DF) {col.22-
+26-28}
+Bad/Loss
+(BL)
+{col.23-26-
+28}
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+Amount in Arrears x Installment Frequency
+* Time Equivalent of Amount in Arrears =
+Installment Size
+33
+Final Classification
+Amount Unclassified(UC)
+Amount Classified
+Cumulative Interest suspense as of reference
+date
+Value of
+elligible
+securities (in
+nearest taka)
+Base for Provision for
+Remarks
+Amount Paid
+as of
+Reference
+date
+Amount in
+Arrears
+Time
+Equivalent of
+Amount in
+Arrears*
+Preliminary Status of
+Classification
+Name of the Borrower
+Loan No./Loan
+A/C no.
+Loan
+Amount
+Date of Loan
+Execution
+DD MM YY
+Rescheduled
+Amount
+Date of
+rescheduling
+DD MM YY
+Amount of
+Outstanding
+as of
+Reference
+date
+Installment
+Amount due
+as of
+Reference
+date
+
+--- Page 7 ---
+FICL-4A
+Ref : FID Circulr No.06/2006
+RETURN FOR CLASSIFICATION OF HOUSING LOANS OF FINANCIAL INSTITUTIONS(Repayable within 5 Years) as of ……………………..
+Name of the FI :
+Branch Name :
+Page-
+(Amount in Taka)
+Sl
+No.
+Size
+Frequency
+Objective
+Criteria
+Qualitative
+Judgement
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13=11-12
+14
+15
+16
+17
+18
+Standard
+SMA
+Sub-
+standard
+(SS)
+Doubtful (DF) Bad/Loss (BL)
+Standard
+(if any)
+SMA
+Classified
+A/Cs
+Total
+SMA {col.20-
+25}
+Sub-
+standard
+(SS)
+{col.21-26-
+28}
+Doubtful
+(DF) {col.22-
+26-28}
+Bad/Loss
+(BL)
+{col.23-26-
+28}
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+Amount in Arrears x Installment Frequency
+* Time Equivalent of Amount in Arrears =
+Installment Size
+33
+Final Classification
+Amount Unclassified(UC)
+Amount Classified
+Cumulative Interest suspense as of reference
+date
+Value of
+elligible
+securities (in
+nearest taka)
+Base for Provision for
+Remarks
+Amount Paid
+as of
+Reference
+date
+Amount in
+Arrears
+Time
+Equivalent of
+Amount in
+Arrears*
+Preliminary Status of
+Classification
+Name of the Borrower
+Housing
+Finance No./
+Housing
+Finance A/C
+no.
+Housing
+Finance
+Amount
+Date of
+Housing
+Finance
+Execution
+DD MM YY
+Rescheduled
+Amount
+Date of
+rescheduling
+DD MM YY
+Amount of
+Outstanding
+as of
+Reference
+date
+Installment
+Amount due
+as of
+Reference
+date
+
+--- Page 8 ---
+FICL-4B
+Ref : FID Circulr No.06/2006
+RETURN FOR CLASSIFICATION OF HOUSING LOANS OF FINANCIAL INSTITUTIONS(Repayable in more than 5 Years) as of ……………………..
+Name of the FI :
+Branch Name :
+Page-
+(Amount in Taka)
+Sl
+No.
+Size
+Frequency
+Objective
+Criteria
+Qualitative
+Judgement
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13=11-12
+14
+15
+16
+17
+18
+Standard
+SMA
+Sub-
+standard
+(SS)
+Doubtful (DF) Bad/Loss (BL)
+Standard
+(if any)
+SMA
+Classified
+A/Cs
+Total
+SMA {col.20-
+25}
+Sub-
+standard
+(SS)
+{col.21-26-
+28}
+Doubtful
+(DF) {col.22-
+26-28}
+Bad/Loss
+(BL)
+{col.23-26-
+28}
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+Amount in Arrears x Installment Frequency
+* Time Equivalent of Amount in Arrears =
+Installment Size
+33
+Final Classification
+Amount Unclassified(UC)
+Amount Classified
+Cumulative Interest suspense as of reference
+date
+Value of
+elligible
+securities (in
+nearest taka)
+Base for Provision for
+Remarks
+Amount Paid
+as of
+Reference
+date
+Amount in
+Arrears
+Time
+Equivalent of
+Amount in
+Arrears*
+Preliminary Status of
+Classification
+Name of the Borrower
+Housing
+Finance No./
+Housing
+Finance A/C
+no.
+Housing
+Finance
+Amount
+Date of
+Housing
+Finance
+Execution
+DD MM YY
+Rescheduled
+Amount
+Date of
+rescheduling
+DD MM YY
+Amount of
+Outstanding
+as of
+Reference
+date
+Installment
+Amount due
+as of
+Reference
+date
+
+--- Page 9 ---
+FICL-5
+Ref : FID Circulr No.06/2006
+RETURN FOR CLASSIFICATION OF OTHER ASSETS OF FINANCIAL INSTITUTIONS as of ……………………..
+Name of the FI :
+Branch Name :
+Page-
+(Amount in Taka)
+Objective
+Criteria
+Qualitative
+Judgement
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+Remarks
+Standard
+SMA
+Sub-standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss (BL)
+Standard
+(if any)
+SMA
+Classified
+A/Cs
+Total
+SMA {col.14-
+19}
+Sub-
+standard
+(SS)
+{col.15-20-
+22}
+Doubtful
+(DF) {col.16-
+20-22}
+Bad/Loss
+(BL) {col.17-
+20-22}
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+*Time in Arrears = Reference Date -Due Date of Repay
+Time in
+Arrear
+Finance
+Amount
+Date of
+Initiation
+DD MM YY
+Amount of
+Outstanding as
+os Reference
+Date
+Due Date of
+Repayment
+Sl No.
+Preliminary Status of
+Classification
+Final Classification
+Amount Unclassified(UC)
+Amount Classified
+Cumulative Interest suspense as of reference
+date
+Value of
+elligible
+securities (in
+nearest taka)
+Base for Provision for
+Name/Nature of
+the Asset
+Finance No./A/C
+No.
+
+--- Page 10 ---
+FICL-6
+Ref : FID Circulr No.06/2006
+RETURN FOR CLASSIFICATION OF INVESTMENT(SHARE & EQUITY ) EXCEPT INVESTMENT IN GOVERNMENT SECTOR .
+OF FINANCIAL INSTITUTIONS as of …………………….
+Name of FI :
+Branch Name:
+Page-
+(Amount in Tk.)
+SL No.
+Buying Date
+Name of the
+Copmpany
+Book Value
+Market Value
+Decrease in Value
+Provision Amount

@@ -1,0 +1,848 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+
+Banking regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+July 20, 2009
+BRPD Circular Letter No- 05
+
+
+
+Date: ----------------------
+Shraban 05, 1416
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+
+Dear Sir,
+Identifying Risk Factors Relating to Islamic Mode of Investment
+under Risk Based Capital Adequacy for Banks
+
+Please refer to our BRPD circular no. 09 dated: 31/12/2008.
+01. A separate Chapter (chapter-10) captioned ‘Risk Factors Relating to Islamic Mode of
+Investment’ including instructions for identifying risks relating to investments made by
+Islami Shariah based banking in Bangladesh is attached herewith.
+
+02. As per the instructions, banks will require to identify risks relating to investments
+made under Islami Shariah based banking. All scheduled banks are therefore requested to
+submit the statements on RBCA in this line from the June, 2009 quarter to the
+Department of Offsite Supervision.
+
+Sincerely yours,
+(Abu Hena Mohd. Razee Hassan)
+General Manager
+Phone: 7117825
+Encl: CD-ROM
+
+--- Page 2 ---
+10. Risk Factors Relating to
+Islamic Mode of Investment
+
+
+Introduction
+
+All Islamic banks and Islamic branches of conventional banking are required to
+measure and apply capital charges against credit, market and operational risk.
+
+
+Features of Islamic Mode of Investment
+
+Islamic modes of investments are asset-based. Gross return of these investments is the
+spread between the cost of the asset to the bank and the amount that can be recovered
+from selling or leasing it. Some investments can be categorized as equity participation
+and based on profit and loss sharing. Quards are beneficence financing based on
+service charge only.
+
+Bai-Murabaha : The seller informs the buyer of his cost of acquiring a specified
+product; then the profit margin (or mark up) is negotiated between the buyer and the
+seller. The total cost is usually paid in installments.
+
+Bai-Salam: Purchase with deferred delivery. The buyer pays the seller the full
+negotiated price of a product that the seller promises to deliver at a future date. This
+mode only applies products whose quality and quantity can be fully specified at the
+time the contact is made. Usually, it applies to agricultural or manufactured product.
+
+Bai-Istisna: The Istisna’a sale is a contract in which the price is paid in advance at the
+time of the contract and the objects of sale is manufactured and delivered later. The
+majority of the jurists consider Istisna’a as one of the division of ‘Salam Sale’.
+
+Bai Muajjal: Deferred payment sales. The seller can sell a product on the basis of a
+deferred payment in installments or in a lump sum payment. The price of the product
+Risk Factors Relating to Islamic Mode of Investment………………………………….55
+
+--- Page 3 ---
+is agreed upon between the buyers and the seller at the same time of the sale and
+cannot include any charge for deferring payments.
+
+Ijārah: Leasing or lease purchase: A party leases a particular product for a specific
+sum and a specific period of time. In the case of a lease purchase, cash payment
+includes a portion that goes towards the final purchase and transfer of ownership of
+the product.
+
+Higher Purchase under Sirkatul Melk : In this mode of investment Bank and borrower
+on the basis of contract purchase transport, machine & plant, building, apartment etc.
+Borrower uses it on the basis of rent and repays part of principal amount of bank. Thus
+borrower becomes owner of the property. In this process borrower deposit his equity
+to bank. Borrower pay the agreed rent and after full repayment bank handover the title
+to the borrower.
+
+Quards al-Hasana: Beneficence loans. These are zero return loans that the Islamic
+principles exhort Muslims to make ‘to those who need them’. Banks are allowed to
+charge the borrowers a service charge to cover the administrative expenses of handling
+the loan, provided that the charge is not related to the amount or maturity of the loan.
+
+Jo’alah: Service charge. A party under take to pay another party a specified amount of
+money as a fee for rendering a specified service in accordance to the terms of the
+contract stipulated between the two parties. This mode usually applies to transactions
+such as consultations, and professional services, fund placements, and trust services.
+
+Mushārakah: Equity participation contract. The bank is not the sole provider of funds
+to finance a project. Two or more partners contribute to the joint capital of an
+investment. Profit and losses are shared strictly in relation to the respective capital
+contributions. The kind of contract is usually employed to finance long-term projects.
+
+Risk Factors Relating to Islamic Mode of Investment………………………………….56
+
+--- Page 4 ---
+Mudārabah : Trustee finance contract. Under this kind of contract, the bank provides
+the entire capital needed for financing a project, while the entrepreneur offers his labor
+and expertise. The profit from the project is shared between the bank and entrepreneur
+at a certain fixed ratio. Financial losses are borne exclusively by the bank. The liability
+of the entrepreneur is limited only to his time and efforts. However if the negligence
+or mismanagement of the entrepreneur is proven he may be held responsible for
+financial losses. Mudarabah is usually employed in investment project with short
+gestation periods and in trade and commerce.
+Islamic banks mobilize funds on a profit sharing and loss bearing i.e. on Mudarabah
+basis (PLS). On the liability side, the contract between the bank and the depositors is
+known as unrestricted Mudaraba because depositors agree that their funds be used by
+the bank, ay its discretion, to finance to finance an open ended list of profitable
+investments and expect to share with the bank the overall profits accruing to the bank
+business.
+Certain risk are associated with such PLS accounts. These risks are referred to
+as fiduciary and displaced commercial risk.
+
+Fiduciary Risk: The bank shall have in place appropriate mechanisms to safeguard
+the interests of all fund providers. Where Investment Account holder funds are
+commingled with the banks own funds, the bank shall ensure that the bases for asset,
+revenue, expense and profit allocations are established, applied and reported in a
+manner consistent with the bank’s fiduciary responsibilities.
+
+Rate of Return risk and Displaced Commercial Risk: Banks are exposed to rate of
+return risk in the context of their overall balance sheet exposures. An increase in
+benchmark rates may result in the investment Account holder having expectations of a
+higher rate of return. Rate of return risk differs from risk in that banks are concerned
+with the result of their investment activities at the end of the investment-holding
+period. Such results cannot be pre-determined exactly.
+A consequence of rate of return risk may be displaced commercial risk. Banks may be
+under market pressure to pay a return that exceeds the rate that has been earned on
+Risk Factors Relating to Islamic Mode of Investment………………………………….57
+
+--- Page 5 ---
+assets financed by the investment account holder when the return on assets is under-
+performing as compared with the competitors’ rates. In such case, banks may decide to
+waive their rights to part or its entire Mudarib share of profits in order to satisfy and
+retain its fund providers and dissuade them from withdrawing their funds.
+Calculating Risk Weighted Assets (RWA) for Credit Risk
+Credit risk is defined as the potential that a bank’s counterparty will fail to meet its
+obligations in accordance with agreed terms. Investment (Credit) risk exposures in
+Islamic financing arise in connection with accounts receivable in Murabaha Contracts,
+Counterparty risk in Salam Contracts, Account receivable and counter party risk in
+Istisna Contracts, and Lease payment receivables in Ijara Contracts, and Sukuk held to
+maturity (HTM) in the banking book. Bai-muazzal contract and Higher Purchase
+under Sirkatul Melk (HPSM) mode in connection with installment payment
+receivables under HPSM agreement/contract may be added for credit risk exposure in
+connection with account receivable. In these investments Credit risk will be measured
+according to the Standardized Approach of Basel II as discussed bellow except for
+certain exposures arising from investment by means of Musharaka or Mudaraba
+contracts in assets in the banking book.
+The assignment of risk weight (RW) shall take into consideration the following
+components :
+a) The credit risk rating of a debtor, counterparty, or the obligor, or a security,
+based on external credit assessment and their RW as stated in Table-2 .
+b) The credit risk mitigation (CRM) as stated in chapter 5
+c) Types of underlying assets that are sold and collateralized or leased by the
+Islamic banks
+d) Amount of specific provisions made for the past-due portion of accounts
+receivable or leased payments receivables
+The Islamic banks will nominate the external credit assessment institutions (ECAIs)
+recognized by BB.
+Risk Factors Relating to Islamic Mode of Investment………………………………….58
+
+--- Page 6 ---
+Credit Risk Mitigation
+
+The exposure in respect of a debtor, counterparty or other obligor can be further
+adjusted or reduced by taking into account the credit risk mitigation (CRM) techniques
+employed by the Islamic Bank while collateral received is eligible financial for
+mitigation on the basis of adopting haircut formula or a guarantee as described in
+paragraph 5 (5). The Islamic Bank may consider the resultant net exposure applying
+the haircut formula. The Standard Supervisory Haircuts weight to offset its credit
+exposure is stated in Table 6&7.
+Off-balance Sheet Exposures
+Off-balance-sheet items under the standardized approach will be converted into credit
+exposure equivalents through the use of credit conversion factors (CCF) as stated in
+Table 3, 4 & 5. The resulting credit equivalent amount will be multiplied by the risk-
+weight associated with that counterparty credit rating as described in Table 2. Other
+clarifications and definitions in this regard are described in the paragraph 5(4).
+Some fixed Risk Weights based on Preference of Underlying Assets
+
+The RW of a debtor, counterparty or other obligor shall be reduced and has been fixed
+by BB on the basis of preferential treatment for some underlying assets where
+counterparties could be categorized as Retail and Small, or assets could be defined as
+Residential real estate (RRE) or Commercial real estate (RRE) as clarified in the
+section 5. The RW will be assigned as stated in the table 2.
+Past Due Receivables
+In the event that accounts receivable become past due, the exposure shall be risk-
+weighted in accordance with the statement of table-2. The exposures should be risk
+weighted net of specific provisions.
+
+Risk Factors Relating to Islamic Mode of Investment………………………………….59
+
+--- Page 7 ---
+Calculating Capital Charge for Market Risk
+Market risk is defined as the risk of losses in on- and off-balance sheet positions
+arising from movements in market variables i.e. prices, foreign exchange rate etc. The
+risks in Islamic Bank that are subject to the market risk capital requirement are:
+i) Trading positions in Sukūk (securities);
+ii) Investment in equity instrument in the trading book, and
+iii) Foreign exchange related issues through out the banking and trading book
+including gold; and
+iv) Commodities /inventory throughout the banking and trading book.
+(If there is no commodity/inventory under the ownership of the Bank, Market Risk will not
+applicable against Commodity/ inventory sold to the Counterparty)
+(i) Sukūk (securities) held for trading (HFT) and Equity Position Risk
+The capital charge for securities in Banks’ trading book comprises two charges that
+will be separately calculated for the following types of risk:
+Specific Risk: The capital charge for specific risk is 10% on all equity positions and
+Sukūk (securities) to be calculated on a mark to market basis.
+General Market Risk: The capital charge for general market risk is 10% on all equity
+positions and Sukūk (securities). The value of the instrument will be calculated on
+mark to market basis of Sukūk Held for Trading. In the case of equity investments
+made by means of a Mushārakah or a Mudārabah contract where the underlying
+assets are commodities, the market risk provisions for commodities will be applicable
+according to statement as described in section (iii) below.
+ii) Measuring the Foreign Exchange Risk in a Portfolio
+The Islamic Banks are allowed to calculate the risks inherent in mix of long and short
+foreign exchange positions including gold and silver in different foreign currencies
+through the banking and trading book. The capital charge is 10% on the overall net
+position as described and calculated in the section 6(III).
+(iii) Commodities and Inventory Risk
+
+The minimum capital requirements to cover the risks of holding or taking long
+positions in commodities, including precious metals but excluding gold and silver
+Risk Factors Relating to Islamic Mode of Investment………………………………….60
+
+--- Page 8 ---
+(which falls under foreign exchange) as well as the inventory risk which results from
+holding assets with a view to re-selling or leasing them. A commodity is defined as a
+physical product, which is and can be traded on a secondary market, e.g. agricultural
+products, minerals (including oil) and precious metals. Inventory risk is defined as
+arising from holding items in inventory either for resale under a Murābahah contract,
+or with a view to leasing under an Ijārah contract. In the case of inventory risk the net
+position, long or shot, in each commodity requires a capital charge of 15% to cater for
+directional risk plus an additional capital charge of 3% of the gross positions, i.e. long
+plus short positions, to cater for basis risk. The capital charge of 15% applies to assets
+held by Islamic Banks in inventory with a view to resale or lease. For Istisnā work-in-
+process (WIP), WIP inventory belonging to the Islamic bank shall attract a capital
+charge of 8% (equivalent to a 100% RW). In the case of the balance of unbilled WIP
+inventory under Istisnā` without parallel Istisnā`, in addition to the RW for credit risk
+a capital charge of 1.6% is applied (equivalent to a 20% RW) to cater for market risk
+exposure. The funding of a commodities position that exposes the Islamic Banks to
+foreign exchange exposure is also subject to capital charge as measured under the
+foreign exchange risk.
+Mode of Investment wise clarification for credit and Market
+risks:
+
+The minimum capital adequacy requirements for both credit and market risks are set
+out for each of the following Sharī`ah compliant financing and investment
+instruments:
+
+a) Murābahah and Murābahah for the Purchase Orderer;
+b) Salam and Parallel Salam;
+c) Istisnā and Parallel Istisnā;
+d) Ijārah and Ijārah Muntahia Bittamleek;
+e) Mushārakah and Diminishing Mushārakah; and
+f) Mudārabah;
+
+Risk Factors Relating to Islamic Mode of Investment………………………………….61
+
+--- Page 9 ---
+a) Murabaha and Murabaha for the purchase orderer (MPO):
+
+1. Introduction
+In Murābahah and MPO(Bai Murabaha), the capital adequacy requirement for credit
+risk refers to the risk of a counterparty not paying the purchase price of an asset to the
+Islamic bank/branch. In the case of market (price) risk, the capital adequacy
+requirement is with respect to assets in the Islamic bank’s possession which are
+available for sale either on the basis of Murābahah or MPO (Bai Murabaha), or also on
+assets which are in possession due to cancellation of Purchase Proposal (PP) in non-
+binding and binding MPO (Bai Murabaha).
+
+Murābahah and Non-binding MPO
+
+In a Murābahah transaction, the Islamic bank sells an asset that is already available in
+its possession, whereas in a MPO transaction the Islamic bank acquires an asset in
+anticipation that the asset will be purchased by the orderer/customer. This price risk in
+Murābahah contracts ceases and is replaced by credit risk in respect of the amount
+receivable from the customer following delivery of the asset. Likewise, in a non-
+binding MPO transaction, the Islamic bank is exposed to credit risk on the amount
+receivable from the customer when the latter accepts delivery and assumes ownership
+of the asset.
+
+Binding MPO
+
+In a binding MPO (Bai Murabaha), the Islamic bank has no ‘long’ position in the asset
+that is the subject of the transaction, as there is a binding obligation on the customer to
+take delivery of the asset at a pre-determined price. The Islamic bank is exposed to
+counterparty risk in the event that the orderer in a binding MPO does not honour
+his/her obligations under the PP, resulting in the Islamic bank selling the asset to a
+third party at a selling price which may be lower than the cost to the Islamic bank. The
+risk of selling at a loss is mitigated by securing a Hamish Jiddiyyah (HJ) (a security
+deposit held as collateral) upon executing the PP with the customer, as commonly
+Risk Factors Relating to Islamic Mode of Investment………………………………….62
+
+--- Page 10 ---
+practiced in the case of binding MPO. The Islamic bank would have recourse to the
+customer for any shortfall in the HJ to compensate for the loss.
+
+2. RW for Credit Risk in the Murābahah contract:
+
+Murābahah and Non-binding MPO
+
+The credit exposure shall be measured based on accounts receivable in Murābahah
+(the term used herein includes MPO), which is recorded at their cash equivalent value
+i.e. amount due from the customers at the end of the financial period less any
+provision for classified assets. The accounts receivable (net of specific provisions)
+amount arising from the selling of a Murābahah asset shall be assigned a RW as stated
+in Table -2 based on the credit standing of the obligor (purchaser or guarantor) as
+rated by an ECAI that is approved by BB.
+
+Binding MPO
+
+In a binding MPO, an Islamic bank is exposed to default on the purchase orderer’s
+obligation to purchase the commodity in its possession. In the event of the orderer
+defaulting on its PP, the Islamic bank will dispose of the asset to a third party. The
+Islamic bank will have recourse to any HJ paid by the orderer, and (a) may have a
+right to recoup from the orderer any loss on disposing of the asset, after taking account
+of the HJ, or (b) may have no such legal rights. In both cases, this risk is mitigated by
+the asset in possession as well as any HJ paid by the purchase orderer. In case (a), the
+Islamic bank has the right to recoup any loss (as indicated in the previous paragraph)
+from the orderer, that right constitutes a claim receivable which is exposed to credit
+risk, and the exposure shall be measured as the amount of the asset’s total acquisition
+cost to the Islamic bank, less the market value of the asset as collateral subject to any
+haircut, and less the amount of any HJ. The applicable RW as stated in Table -2 shall
+be based on the standing of the obligor as rated by a recognized ECAI.
+
+3. Capital Charge for the Market Risk in the Murābahah contract:
+
+Murābahah and Non-binding MPO
+
+Risk Factors Relating to Islamic Mode of Investment………………………………….63
+
+--- Page 11 ---
+In the case of an asset in possession in a Murābahah transaction and an asset acquired
+specifically for resale to a customer in a non-binding MPO transaction, the asset
+would be treated as inventory of the Islamic bank and using the simplified approach
+the capital charge for such a market risk exposure would be 15% of the amount of the
+position (carrying value). The 15% capital charge is also applicable to assets held by
+an Islamic bank in respect of incomplete non-binding MPO transactions at the end of a
+financial period. Assets in possession on a ‘sale or return’ basis (with such an option
+included in the contract) are treated as accounts receivable from the vendor and as
+such would be offset against the related accounts payable to the vendor. If these
+accounts payable have been settled, the assets shall attract a capital charge of 10%
+subject to (a) the availability of documentation evidencing such an arrangement with
+the vendor, and (b) the period for returning the assets to the vendor not having been
+exceeded.
+
+Binding MPO
+
+In a binding MPO the orderer has the obligation to purchase the asset at the agreed
+price, and the Islamic bank as the seller is only exposed to credit risk as above.
+
+1) Foreign Exchange Risk
+
+The funding of an asset purchase or the selling of an asset may well open an Islamic
+bank to foreign exchange exposures; therefore, the relevant positions should be
+included in the measures of foreign exchange risk described in the section 6(III)
+b) Salam and Parallel Salam:
+
+1. Introduction
+
+A Salam contract refers to an agreement to purchase, at a predetermined price, a
+specified kind of commodity, which is to be delivered on a specified future date in a
+specified quantity and quality. The Islamic bank as the buyer makes full payment of
+the purchase price upon execution of a Salam contract.
+
+In certain cases, an Islamic bank enters into a back-to-back contract, namely Parallel
+Salam, to sell a commodity with the same specification as the purchased commodity
+Risk Factors Relating to Islamic Mode of Investment………………………………….64
+
+--- Page 12 ---
+under a Salam contract to a party other than the original seller. The Parallel Salam
+allows the Islamic bank to sell the commodity for future delivery at a predetermined
+price (thus hedging the price risk on the original Salam contract) and protects the
+Islamic bank from having to take delivery of the commodity and warehousing it.
+
+The non-delivery of commodity by a Salam customer (i.e. counterparty risk) does not
+discharge the Islamic bank’s obligations to deliver the commodity under a Parallel
+Salam contract, and thus exposes the Islamic bank to potential loss in obtaining the
+supply elsewhere.
+
+The obligations of an Islamic bank under Salam and Parallel Salam are not inter-
+conditional or interdependent, which implies that there is no legal basis for offsetting
+credit exposures between the contracts.
+
+In the absence of a Parallel Salam contract, an Islamic bank may sell the subject-
+matter of the original Salam contract in the spot market upon receipt, or, alternatively,
+the Islamic bank may hold the commodity in anticipation of selling it at a higher price.
+In the latter case, the Islamic bank is exposed to price risk on its position in the
+commodity until the latter is sold.
+2. RW for Credit Risk in the Salam contract:
+The receivable amount generated from the purchase of a commodity based on a Salam
+contract shall be assigned a RW based on the credit standing of a seller/counterparty
+as rated by an recognized ECAI as stated in the table-2. The capital requirement is to
+be calculated on the receivable amount, net of specific provisions, of any amount that
+is past due by more than 90 days. The credit RW is to be applied from the date of the
+contract made between both parties until the maturity of the Salam contract, which is
+upon receipt of the purchased commodity. The credit exposure amount of a Salam
+contract is not to be offset against the exposure amount of a Parallel Salam contract, as
+an obligation under one contract does not discharge an obligation to perform under the
+other contract.
+Risk Factors Relating to Islamic Mode of Investment………………………………….65
+
+--- Page 13 ---
+3. Capital Charge for the Market Risk in the Salam contract:
+
+Against the price risk on the commodity exposure in Salam contract capital charge
+will be equal to 15% of the net position in each commodity, plus an additional charge
+equivalent to 3% of the gross positions, long plus short, to cover basis risk and
+forward gap risk. The 3% capital charge is also intended to cater for potential losses in
+Parallel Salam when the seller in the original Salam contract fails to deliver and the
+Islamic bank has to purchase an appropriate commodity in the spot market to honour
+its obligation. The long and short positions in a commodity, which are positions of
+Salam and Parallel Salam, may be offset for the purpose of calculating the net open
+positions provided that the positions are in the same group of commodities.* The
+funding of a commodity purchase or selling of a commodity may well leave an Islamic
+bank open to foreign exchange exposures, and in that case the relevant positions
+should be included in the measures of foreign exchange risk described in the section
+6(III).
+If the Islamic Banks purchase Goods/ Commodities from the seller and simultaneously sell the same to the ultimate buyer and if
+the Islamic Banks do not hold the goods/ Commodities at any stage, in that case, Market Risk will not be applicable*
+c) Istisnā`and Parallel Istisnā:
+1. Introduction
+
+An Istisnā` contract refers to an agreement to buy from a customer a non-existent asset
+which is to be manufactured or built according to the ultimate buyer’s specifications
+and is to be delivered on a specified future date at a predetermined price. The
+exposures under Istisnā` involve credit and market risks, as describe below. Credit
+exposures arise once the work is billed to the customer, while market (price)
+exposures arise on unbilled work-in-process (WIP). There is a capital requirement to
+cater for the credit (counterparty) risk of the Islamic bank not receiving the price of the
+asset from the customer or project sponsor either in pre-agreed stages of completion
+and/or upon full completion of the manufacturing or construction process. The capital
+adequacy requirement for the market risk an Islamic bank incurs from the date of
+manufacturing or construction. Which is applicable throughout the period of the
+contract on unbilled WIP inventory.
+Risk Factors Relating to Islamic Mode of Investment………………………………….66
+
+--- Page 14 ---
+2. Credit Risk
+
+The amount generated from buying of an asset based on an Istisna` contract shall be
+assigned a RW based on the credit standing of the customer as rated by an ECAI and
+as stated in Table 2.
+
+(i) Exclusions: The capital requirement is to be calculated on the receivable amount,
+net of specific provisions, any amount that is secured by eligible collateral or any
+amount which is past due by more than 90 days.
+
+(ii) Applicable Period: The credit RW is to be applied from the date when the
+manufacturing or construction process commences and until the credit exposure
+amount is fully settled by the Islamic bank, either in stages and/or on the maturity of
+the Istisna` contract, which is upon delivery of the manufactured asset to the Istisna`
+ultimate buyer.
+
+(iii) Offsetting Arrangement between Credit Exposures of Istisna` and Parallel
+Istisna`: The credit exposure amount of an Istisna` contract is not to be offset against
+the credit exposure amount of a Parallel Istisna` contract because an obligation under
+one contract does not discharge an obligation to perform under the other contract.
+
+3. Market Risk
+
+(a) Istisna` with Parallel Istisna`: There is no capital charge for market risk to be
+applied in addition to provisions stated above, subject to there being no provisions in
+the Parallel Istisna` contract that allow the seller to increase or vary its selling price to
+the Islamic bank, under unusual circumstances. Any variations in a Parallel Istisna`
+contract that are reflected in the corresponding Istisna`contract which effectively
+transfers the whole of the price risk to an Istisna` customer (buyer), is also eligible for
+this treatment.
+
+Risk Factors Relating to Islamic Mode of Investment………………………………….67
+
+--- Page 15 ---
+(b) Istisna` without Parallel Istisna`: A capital charge of 1.6% is to be applied to the
+balance of unbilled WIP inventory to cater for market risk, in addition to the credit
+RW stated above.
+This inventory is held subject to the binding order of the Istisna` buyer and is thus not
+subject to inventory price. However this inventory is exposed to the price risk.
+( If the Islamic Banks sell commodity simultaneously to the ultimate buyer, no Market Risk
+will be applicable).
+
+Foreign exchange risk: Any foreign exchange exposures arising from the
+purchasing of input materials, or from Parallel Istisna` contracts made, or the selling of
+a completed asset in foreign currency should be included in the measures of foreign
+exchange risk.
+d) Ijārah and Ijārah Muntahia Bittamleek:
+
+1. Introduction
+
+Bank leases a particular product for specific sum for specific period of time. Under the
+Shariah, substantial risk and rewards of ownership of assets may not be transferred to
+lessees in Ijarah Muntahia Bittamleek/ Hire Purchase under Shirkatul Melk (HPSM)
+contracts. This should be carried on the balance sheet of the lessor and assigned a risk
+weighting as per credit standing of the counterparty. All liabilities and risks pertaining
+to the leased asset are to be borne by the Islamic bank including obligations to restore
+any impairment and damage to the leased asset arising from wear and tear and natural
+causes which are not due to the lessee’s misconduct or negligence. Thus, in both Ijarah
+and IMB/HPSM, the risks and rewards remain with the lessor, except for the residual
+value risk at the term of an IMB/HPSM which is borne by the lessee, the risks and
+rewards remain with the lessor, except for the residual value risk at the term of an IMB
+which is borne by the lessee. The lessor is exposed to price risk on the asset while it is
+in the lessor’s possession prior to the signature of the lease contract, except where the
+asset is acquired following a binding promise to lease. In an IMB contract, the lessor
+promises to transfer to the lessee its ownership in the leased asset to the lessee at the
+end of the contract as a gift or as a sale at a specified consideration, provided that (a)
+Risk Factors Relating to Islamic Mode of Investment………………………………….68
+
+--- Page 16 ---
+the promise is separately expressed and independent of the underlying Ijarah; or (b) a
+gift contract is entered into conditional upon fulfillment of all the Ijarah obligations,
+and thereby ownership shall be automatically transferred thereupon.
+2. Credit Risk
+
+The applicable RW as stated in Table-2 shall be based on the standing of the obligor
+as rated by an ECAI that is approved by the BB. The lessor is exposed to credit risk in
+respect of the estimated value of the lease payments in respect of the remaining period
+of the Ijarah. This exposure is mitigated by the market value of the leased asset which
+may be repossessed. The net credit risk exposure shall be assigned a RW as stated in
+the Table-2 based on the credit standing of the lessee/counterparty as rated by an
+ECAI that is approved by BB.
+IMB: The capital requirement for IMB is based on the following two components:
+(a) the total estimated future Ijarah receivable amount over the duration of the lease
+contract. This exposure is mitigated by the market value of the leased asset which may
+be repossessed. The net credit risk exposure shall be assigned a RW as sted in the
+Table-2 based on the credit standing of the lessee/counterparty as rated by an ECAI
+that is approved by BB. and
+(b) The price risk attached to the expected residual fair value of a leased asset. The
+estimated future Ijarah receivable amount shall be risk-weighted based on the credit
+standing of the lessee as rated by an ECAI after deduction of the value of the leased
+asset as collateral (subject to any haircut).
+Exclusions: The capital requirement is to be calculated on the receivable amount, net
+of specific provisions, of any amount that is secured by eligible collateral or any
+amount which is past due by more than 90 days. The portions that are collateralized
+and past due are subject to the relevant RW.
+3. Market Risk
+In the case of an asset acquired and held for the purpose of either operating Ijarah or
+IMB, the capital charge to cater for market (price) risk in respect of the leased asset
+from its acquisition date until its disposal can be treated as inventory of the Islamic
+Risk Factors Relating to Islamic Mode of Investment………………………………….69
+
+--- Page 17 ---
+bank and the capital charge applicable to such a market risk exposure would be 15%
+of the amount of the asset’s market value.
+e) Mushārakah and Diminishing Mushārakah;
+1. Introduction
+
+A Musharakah is an agreement between the Islamic bank and a customer to contribute
+capital in various proportions to an enterprise, whether existing or new, or to
+ownership of a real estate or moveable asset, either on a permanent basis, or on a
+diminishing basis where the customer progressively buys out the share of the Islamic
+bank (“Diminishing Musharakah”). Profits generated by that enterprise or real
+estate/asset are shared in accordance with the terms of Musharakah agreement whilst
+losses are shared in proportion to the respective contributor’s share of capital. An
+Islamic bank may enter into a Musharakah contract with a customer as a means of
+providing a financing to the latter on a profit sharing and loss bearing basis. In this
+case, the Musharakah is normally of the diminishing type, in which the customer
+gradually purchases the Islamic bank’s partnership share over the life of the contract.
+This type of financing is one of the Shari`ah compliant alternatives to avoid a
+conventional term loan repayable by installments, and as such it is exposed to credit
+risk in respect of the customer’s purchase payments as well as to the risk attaching to
+the Islamic bank’s share of the underlying assets.
+Musharakah:
+
+For the purpose of determining the minimum capital adequacy requirement, this
+section
+makes distinctions between the three main categories of Musharakah as set out below:
+
+(a) Private commercial enterprise to undertake trading activities in foreign
+exchange,
+Shares and/or Commodities: This type of Musharakah exposes the Islamic bank to
+the risk of underlying activities, namely foreign exchange, equities or commodities.
+
+Risk Factors Relating to Islamic Mode of Investment………………………………….70
+
+--- Page 18 ---
+(b) Private commercial enterprise to undertake a business venture other than (a):
+This type of Musharakah exposes the Islamic bank to the risk as an equity holder,
+which is similar to the risk assumed by a partner in venture capital or a joint-venture,
+but not to market risk. As an equity investor, the Islamic bank serves as the first loss
+position and its rights and entitlements are subordinated to the claims secured and
+unsecured creditors.
+
+(c) Joint ownership of real estate or movable assets (such as cars) is divided into two
+sub-categories :
+(i) Musharakah with Ijarah sub-contract: Ownership of such assets can produce
+rental income for the partnership, through leasing the assets to third parties by means
+of Ijarah contracts. In this case, the risk of the Musharakah investment is essentially
+that of the underlying Ijarah contracts, i.e. credit risk mitigated by the collateral
+represented by the leased assets. However, in some cases the lessee is not a third party
+but the Islamic bank’s partner as customer. The existence of such an Ijarah sub-
+contract in addition to a Musharakah exposes the Islamic bank to credit risk in respect
+of the partner’s obligation to service the lease rentals.
+(ii) Musharakah with Murabahah sub-contract: The IIFS is entitled to its share
+of revenue generated from selling the assets to third parties by means of Murabahah
+contracts that expose the Islamic bank to credit risk in respect of the Murabahah
+receivables from the buyer/counterparty.
+Diminishing Musharakah:
+
+This form of Musharakah is a means whereby an Islamic bank can provide term
+finance to a client on a profit and loss sharing basis. The Islamic bank enters into this
+type of Musharakah with the objective of transferring the ownership to the
+partner/customer, where the Islamic bank acts as a joint-owner of the asset with a
+promise by the partner to purchase the Islamic bank’s share making a payment on one
+or more specified future dates. The Islamic bank’s selling price is normally based on
+the fair value of the partnership share being transferred on the date of each purchase,
+which may expose the Islamic bank to the risk of selling its share of ownership below
+the acquisition price. As a joint-owner, the Islamic bank is also entitled to its share of
+Risk Factors Relating to Islamic Mode of Investment………………………………….71
+
+--- Page 19 ---
+revenue generated from the assets of the Musharakah, such as Ijarah lease rentals in
+which the rental entitlements to the Islamic bank shall be adjusted periodically
+according to the IIFS’s share of ownership in the asset. The Islamic bank’s position in
+a Diminishing Musharakah thus entails two kinds of exposure. The amounts due from
+the partner to purchase the agreed shares of the asset on the agreed dates are subject to
+credit risk in respect of the partner’s ability and willingness to pay, with the shares of
+the partner in the asset providing credit risk mitigation as collateral. The capital
+invested by the Islamic bank is also subject to the risk that the amounts recoverable
+from the partner may be less than the amount invested because the value of the
+Musharakah assets has decreased (capital impairment risk).
+f) Mudārabah:
+
+A Muḍārabah is an agreement between the Islamic bank and a customer whereby the
+Islamic bank would contribute capital to an enterprise or activity which is to be
+managed by the customer as the (labour provider or) Muḍārib. Profits generated by
+that enterprise or activity are shared in accordance with the terms of the Muḍārabah
+agreement whilst losses are to be borne solely by the Islamic bank unless the losses are
+due to the Muḍārib’s misconduct, negligence or breach of contracted terms. A
+Muḍārabah financing can be carried out on either:
+(a) a restricted basis, where the capital provider allows the Muḍārib to make
+investments subject to specified investment criteria or certain restrictions such as types
+of instrument, sector or country exposures; or
+(b) an unrestricted basis, where the capital provider allows the Muḍārib to invest
+funds freely based on the latter’s skills and expertise.
+
+As the fund provider, the Islamic bank is exposed to the risk of losing its capital
+investment or ‘capital impairment risk’ upon making payment of the capital to the
+Muḍārib. Any loss on the investment is to be borne solely by the capital provider, but
+is limited to the amount of his capital. Losses that are due to misconduct, negligence
+or breach of contractual terms, are to be borne by the Muḍārib.
+Risk Factors Relating to Islamic Mode of Investment………………………………….72
+
+--- Page 20 ---
+However, it is not permissible for a Muḍārib to give a guarantee against such losses;
+such a guarantee may be given by a third party on the basis of tabarru’ (donation). In
+such a case, the amount of the Muḍārabah capital so guaranteed may be considered as
+subject to credit risk with a risk weighting equal to that of the guarantor. In particular,
+such guarantees may be given when liquid funds are placed in an Islamic inter-bank
+market under a Mudārabah contract.
+In assigning the RW, consideration is given to the intent of the Muḍārabah
+investment, and to the nature of the underlying assets. The intent may be either (a) the
+purchase of assets for trading; (b) investing on an equity basis in an ongoing business
+venture with the intention of holding the investment for an indefinite period perhaps
+with a view to eventual sale (e.g. venture capital investments); or (c) project finance.
+The underlying assets may be tradable assets such as commodities, foreign exchange
+or securities, or business assets such as real property, plant and equipment and
+working capital. Real property and moveable property may also be purchased with a
+view to generating rental income by means of Ijārah contracts.
+For the purpose of calculating the minimum adequacy capital requirement, this section
+makes distinctions between the three main categories of Muḍārabah as set out below:
+(a) Private commercial enterprise to undertake trading activities in foreign exchange,
+shares or commodities
+This type of Muḍārabah exposes the Islamic bank to the risk of the underlying
+activities, namely foreign exchange, equity or commodities.
+(b) Private commercial enterprise to undertake a business venture (other than (a))
+This type of Muḍārabah exposes the Islamic bank to risk as an equity holder, which is
+similar to the risk assumed by a partner in venture capital or a joint-venture, but not to
+market risk. As an equity investor, the Islamic bank serves as the first loss position and
+its rights and entitlements are subordinated to the claims secured and unsecured
+creditors.
+
+(c) Muḍārabah investments in project finance
+An Islamic bank advances funds to a customer who acts as Muḍārib in a construction
+contract for a third-party customer (ultimate customer). The ultimate customer will
+Risk Factors Relating to Islamic Mode of Investment………………………………….73
+
+--- Page 21 ---
+make progress payments to the Muḍārib who in turn make payments to the Islamic
+bank. The essential role of the Islamic bank in this structure is to provide bridging
+finance to the Muḍārib pending its receipt of the progress payments. In this
+Muḍārabah structure:
+(i) the Islamic bank has no direct or contractual relationship with the ultimate
+customer (but the Islamic bank may stipulate that payments by the ultimate customer
+to the Muḍārib be made to an account (“repayment account”) with the Islamic bank
+which has been opened for the purpose of the Muḍārabah and from which the
+Muḍārib may not make withdrawals without the Islamic bank’s permission); and
+(ii) the Islamic bank as investor advances funds to the construction company as
+Muḍārib for the construction project and is entitled to a share of the profit of the
+project but must bear 100% of any loss.
+The Islamic bank is exposed to the risk on the amounts paid to the Muḍārib, and as
+these amounts are made on a profit sharing and loss bearing basis they are treated
+under credit risk as “equity positions in the ‘banking book’”. In principle, the Islamic
+bank’s credit exposure is to the Muḍārib, not to the ultimate customer; however, as
+described below, a structure may involve the “Muḍārabah repayment account” instead
+of making payments to the Muḍārib, which transfers much of the credit risk to the
+ultimate customer.
+In addition to credit risk (i.e. that the Muḍārib has received payment from the ultimate
+customer but fails to pay the Islamic bank, or that the ultimate customer fails to pay)
+the IIFS is exposed to capital impairment in case the project results in a loss.
+
+Direct payment by ultimate customer into account opened with the Islamic bank and
+effectively pledged to the Islamic bank
+Much of the Islamic bank’s credit exposure to the Muḍārib may be transferred to the
+ultimate customer under this structure involving the “repayment account”. If the
+ultimate customer is a sovereign or otherwise has a very low risk weighting, this may
+affect the RW to be applied to the exposure, and other credit risk mitigants may be
+applied, as described below.
+Risk Factors Relating to Islamic Mode of Investment………………………………….74
+
+--- Page 22 ---
+Provided the construction work proceeds normally and to the ultimate customer’s
+satisfaction, the risk attaching to the progress payments due from the ultimate
+customer to the Muḍārib will be the credit risk of the ultimate customer. However,
+this does not per se constitute a mitigation of the credit risk of the Islamic bank’s
+exposure to the Muḍārib. In such a case, if an independent engineer employed to
+certify that the work has reached a certain stage of completion has issued a certificate
+to that effect, so that a progress payment is due from the ultimate customer, from the
+point of view of the Islamic bank the amount of that progress payment due is no
+longer exposed to the risk of unsatisfactory performance by the Muḍārib, but only to
+the latter’s failure to pay the Islamic bank (the Muḍārib being exposed to possible
+default by the ultimate customer). Such an amount might thus arguably bear a RW
+based entirely on the credit standing of the Muḍārib, i.e. say 100%, rather than 400%.
+However, if a binding agreement exists between the Islamic bank and the ultimate
+customer whereby the latter will make the payment into a “repayment account” with
+the Islamic bank, the latter’s credit exposure in respect of the amount due is
+transferred from the Muḍārib to the ultimate customer.
+Other structures may be used which have the effect of modifying the risk exposures of
+the investors in a Muḍārabah. The determination of the risk exposure (nature and
+amount) shall take into account any such structures and this shall also be reflected in
+the application of RW.
+2. Equity Position Risk
+The equity exposure can be measured based on the nature of the underlying
+investments as follows: (a) For investments held in the trading book, the exposure is
+equal to the fair value; or (b) For investments held to maturity, the exposure is equal
+to the historical cost less any provisions for impairment. The Muḍārabah exposures,
+net of specific provisions, shall be measured as follows:
+The Capital Charge shall be based on the applicable underlying assets as set out in the
+market risk section No. 6.
+The investment in foreign exchange and trading in gold/silver shall be measured
+according to the treatment of as set out in paragraphs 6(III), which requires 10%
+Risk Factors Relating to Islamic Mode of Investment………………………………….75
+
+--- Page 23 ---
+capital charge on the greater of either net long or net short positions and 10% capital
+charge on the net position of gold/silver.
+The Capital Charge of a Muḍārabah that invests in quoted shares shall be measured
+according to equity position risk approach where positions in assets tradable in
+markets will qualify for treatment as equity position risk in the trading book, which
+would incur a total capital charge of 20% as set out in paragraphs 6(II).
+Calculating Capital Charge for Operational Risk
+
+Operational risk is defined as the risk of losses resulting from inadequate or failed
+internal processes, people and systems or from external events, which includes but is
+not limited to, legal risk and Sharī`ah compliance risk. This definition excludes
+strategic and reputational risks.
+The proposed measurement of capital to cater for operational risk in Islamic
+Banks will be based on the Basic Indicator Approach as set out in the Basel II. Under
+the Basic Indicator Approach, a fixed percentage of 15% of annual average gross
+income, averaged over the previous three years. Figures for any year in which annual
+gross income is negative or zero, should be excluded from both the numerator and
+denominator when calculating the average b. The capital charge may be expressed as
+follows:
+K = [(GI 1 + GI2 + GI3)¯ α ]/n
+Where:-
+K = the capital charge under the Basic Indicator Approach
+GI = only positive annual gross income over the previous three years (i.e.
+negative or zero gross income if any shall be excluded)
+α = 15%
+n = number of the previous three years for which gross income is positive.
+
+Gross income is defined as:
+(a) Net income from financing activities which is gross of any provisions and
+operating expenses and of depreciation of Ijarah assets;
+(b) Net income from investment activities; and
+Risk Factors Relating to Islamic Mode of Investment………………………………….76
+
+--- Page 24 ---
+(c) Fee income (e.g. commission and agency fee)
+Less:
+Investment account holders’ share of income i.e. Profit Paid on Mudaraba Deposits
+(PPD)
+
+
+The gross income includes income attributable to restricted and unrestricted Profit
+Sharing Investment Accounts’ funds, but excludes extraordinary or exceptional
+income. Net income from investment activities includes the Islamic Bank’s share of
+profit from Mushārakah and Mudārabah financing activities.
+
+Sharī`ah compliance risk is a type of operational risk facing the Islamic Banks which
+can lead to non-recognition of income and resultant losses.
+
+Set out below are examples of Sharī`ah requirements that are to be complied with by
+the Islamic Banks in respect of the financing contracts. The list is not conclusive and
+may vary according to the views of the various Sharī`ah Supervisory Board (SSB):
+(a) Murābahah and Ijārah contracts
+• The asset is in existence at the time of sale or lease or, in case of Ijārah, the
+lease contract should be preceded by acquisition of the usufruct of that
+asset except if the asset was agreed upon based on a general specification.
+• The asset is legally owned by the Islamic Banks when it is offered for sale.
+• The asset is intended to be used by the buyer/lessee for activities or
+businesses permissible by Sharī`ah; if the asset is leased back to its owner
+in the first lease period, it should not lead to contract of ‘inah, by varying
+the rent or the duration.
+• There is no late payment, penalty fee or increase in price in exchange for
+extending or rescheduling the date of payment of accounts receivable or
+lease receivable, irrespective of whether the debtor is solvent or insolvent.
+(b) Salam and Istisnā` contracts
+• A sale and purchase contract cannot be inter-dependent and inter-conditional
+on each other, such as Salam and Parallel Salam; Istisnā` and Parallel Istisnā`.
+Risk Factors Relating to Islamic Mode of Investment………………………………….77
+
+--- Page 25 ---
+• It is not allowed to stipulate a penalty clause in respect of delay in delivery of a
+commodity that is purchased under Salam contract, however it is allowed
+under Istisnā` or Parallel Istisnā`.
+• The subject-matter of an Istisnā` contract may not physically exist upon
+entering into the contract.
+(c) Mushārakah and Mudārabah contracts
+• The capital of the Islamic Banks is to be invested in Sharī`ah compliant
+investments or business activities.
+• A partner in Mushārakah cannot guarantee the capital of another partner or a
+Mudārib guarantees the capital of the Mudārabah.
+• The purchase price of other partner’s share in a Mushārakah with a binding
+promise to purchase can only be set as per the market value or as per the
+agreement at the date of buying. It is not permissible, however, to stipulate that
+the share be acquired at its face value.
+The extent of losses arising from non-compliance with Sharī`ah rules and principles
+cannot be ascertained owing to lack of data. Therefore, the Islamic Banks is not
+required to set aside any additional amount over and above the 15% of average annual
+gross income over the preceding three years for operational risk. A higher capital
+charge may be imposed by Bangladesh Bank to fit to cater for the Sharī`ah compliance
+risk of a particular Islamic Banks.
+
+
+
+Risk Factors Relating to Islamic Mode of Investment………………………………….78

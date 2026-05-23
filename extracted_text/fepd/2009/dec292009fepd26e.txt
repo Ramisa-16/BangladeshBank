@@ -1,0 +1,618 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+website : www.bangladeshbank.org.bd
+
+
+
+
+FE Circular No. 26
+
+
+
+Date: 29 December, 2009
+
+
+
+
+
+
+
+
+
+
+Head Offices/Principal Offices of
+all Authorised Dealers in
+Foreign Exchange in Bangladesh.
+
+
+Dear Sirs,
+
+CALCULATION OF EXCHANGE POSITION
+
+
+
+Reference is drawn to Par a No. 22 , Chapter 2 of the Guidelines for Foreig n Exchange Transactions
+(GFET) 1996, (Vol-2) and FE Circular No. 07, dated 08-
+06-2005 regarding calculation of daily exchange
+position for onward submission to Bangladesh Bank.
+
+
+Following the BASEL-II Guidelines, it has been decided to am end the calculation m ethod of daily
+exchange position as per guidelines attached herewith.
+
+ADs shall th erefore, cal culate the daily exch ange position as p er Annexure-A and Annexure-B.
+Instructions for filling up the Annexures are det
+ailed in Annexure-C. ADs shall use new form
+ats for
+submission of their daily exchange position on trial b asis fro m January 10, 2010. However, sub mission of
+daily exchange position under the exist ing formats (according to FE Circular No. 07, dated 08-06-2005) will
+continue till 31-01-2010 and the existing formats shall be replaced by the new formats from February 1, 2010.
+
+Please acknowledge receipt and bring the contents of this circular to the notice of all concerned.
+
+
+Thanking you,
+
+Yours faithfully,
+
+
+
+(Khandaker Abdus Salim)
+Deputy General Manager
+Phone: 7120375
+
+--- Page 2 ---
+Overall
+10
+11
+12
+13
+ib3) Others
+ie) Others
+
+iib1) NFCD
+iib2) RFCD
+iib3) ERQ
+iib6) Others
+A) i. Purchases from Bangladesh Bank
+ii. Sales to Bangladesh Bank
+iii. Net position with Bangladesh Bank
+B) i. Purchases from other banks/correspondents abroad/OBUs
+ii. Sales to other banks/correspondents abroad/OBUs
+iii. Net position with other banks/correspondents abroad/OBUs
+C) i. Purchases from customers :
+ia) against exports
+ib) others
+ii. Sales to customers :
+iia) against imports
+iib) others
+iii. Net position with customers
+FE Circular 26, 29/12/2009
+Annexure-A : Page-1
+Overall
+Net Ex.
+Positions
+Total Positions
+Total of
+Net Short
+Positions
+(Eqv
+USD)
+GBP
+Other
+currencies
+in
+equivalent
+USD
+Balance sheet
+Off-balance sheet
+Total of
+Net Long
+Positions
+(Eqv
+USD)
+D) Acceptance and similar comitments
+2. Spot/Cash transactions of the day :
+D) Total transactions (Net) - spot/ cash of the day (A.iii + B.iii + C.iii)
+C) Forward against contract (Ci+Cii)
+Ci) Forward against contract with banks/corrs. abroad/OBUs
+Cii) Forward against contract with customers
+E2) Letter of guarantee
+E3)Others
+F) Overall position ( Aiii + C +D) ( Balance sheet + Off-Balance sheet)
+E) Contingent liability on account of bankers
+E1) Letter of credit
+iib) Balances held on account of customers
+iib4)FC Accounts
+iib5) FDD, TT, MT etc. payable
+iic) Back to back LC fund awating for remittance
+iid) Others
+iii. Net position of assets/ liabilities ( 1Ai-1Aii)
+ib2) Placement abroad
+ic) Cash holding
+id) Outward bills purchased
+ii. Foreign currency liabilities ( iia+iib+iic+iid)
+A) i. Foreign currency assets ( ia+ib+ic+id+ie)
+ia) Debit balances in NOSTRO account as per local book
+ib) Investments
+ib1) BB clearing account
+1. Net position at the beginning of the day :
+USD
+EURO
+JPY
+GBP
+DAILY STATEMENT OF EXCHANGE POSITION
+Name of the Authorised Dealer Bank...................… Open position limit ..............................…Statement for the day .............................
+Particulars
+USD
+EURO
+JPY
+iia) Credit balances in Nostro account
+Other
+currencies
+in
+equivalent
+USD
+
+--- Page 3 ---
+Overall
+10
+11
+12
+13
+3 A1)
+Forward Transactions of the Day ( Ai-Aii)
+Ai) Purchases ( i+ii+iii)
+i. Purchases from other banks/corrs. abroad/OBUs
+ii. Purchases from customers
+iii. Others
+Aii)Sales ( i+ii+iii)
+i. Sales to other banks/corrs. abroad/OBUs
+ii. Sales to customers
+iii. Others
+A2)
+Settlement of outstanding forward transactions ( i-ii)
+i.Purchases
+ii. Sales
+4 A1)
+Acceptance/similar commiments of the day ( i-ii)
+i) Acceptance received
+ii) Acceptance given
+A2)
+Settlement of outstanding acceptancs/similar commitments (i-ii)
+i. Settlement of acceptances/commitments received
+ii. Settlement of acceptances/commitments given
+6. Total spot position as at the end of the day (1A iii +2D)
+7. Total forward position as at the end of the day (1C+ 3A1-3A2)
+8. Total acceptance position as at the end of the day (1D+ 4A1-4A2)
+9. Total currency-wise position as at the end of the day (Row 6+ Row 7+Row8)
+10. Total of the Net Long and Total of the Net Short Positions ( Eqv US Dollar)
+11. Overall Net Exchange Position ( Eqv US Dollar)
+12. Overall Net Exchange Position ( Eqv BDT)
+13.Conversion Rate ( equivalent Taka )
+FE Circular 26, 29/12/2009
+Annexure-A : Page 2
+Total Positions
+Total of
+Net Long
+Positions
+(Eqv
+USD)
+Total of
+Net Short
+Positions
+(Eqv
+USD)
+Overall
+Net Ex.
+Positions
+GBP
+Other
+currencies
+in
+equivalent
+USD
+ib) Lodgement of documents against LC
+ii) Letter guarantee ( 1E2+5Aiia-5Aiib)
+iia) Guarantees issued during the day
+iib) Guarantees settled during the day
+iii) Other ( 1E3+5Aiiia-5Aiiib)
+iiia) New liability created during the day
+iiib) Liability settled during the day
+EURO
+JPY
+i) Letter of credit ( 1E1+5Aia-5Bib)
+ia) Letter of credit issued
+GBP
+Other
+currencie
+s in
+equivalen
+t USD
+5. A. Contingent liability on account of bankers ( i+ii+iii)
+USD
+Particulars
+USD
+EURO
+JPY
+Balance sheet
+Off-balance sheet
+
+--- Page 4 ---
+Overall
+10
+11
+12
+13
+ib3) Others
+ie) Others
+
+iib1) NFCD
+iib2) RFCD
+iib3) ERQ
+iib6) Others
+iib5) FDD, TT, MT etc. payable
+Ci) Forward against contract with banks/corrs. abroad/OBUs
+E3)Others
+D) Acceptance and similar comitments
+E) Contingent liability on account of bankers
+E1) Letter of credit
+E2) Letter of guarantee
+C) Forward against contract (Ci+Cii)
+ic) Cash holding
+id) Outward bills purchased
+Cii) Forward against contract with customers
+ii. Foreign currency liabilities ( iia+iib+iic+iid)
+iia) Credit balances in Nostro account
+iib) Balances held on account of customers
+iib4)FC Accounts
+iic) Back to back LC fund awating for remittance
+iid) Others
+iii. Net position of assets/ liabilities ( 1Ai-1Aii)
+1. Net position at the beginning of the day :
+A) i. Foreign currency assets ( ia+ib+ic+id+ie)
+ia) Debit balances in NOSTRO account as per local book
+ib) Investments
+ib1) BB clearing account
+ib2) Placement abroad
+GBP
+Other
+currencies
+in
+equivalent
+USD
+Other
+currencie
+s in
+equivalen
+t USD
+USD
+DAILY STATEMENT OF EXCHANGE POSITION
+FE Circular 26, 29/12/2009
+EURO
+JPY
+USD
+EURO
+JPY
+GBP
+Total of
+Net Long
+Positions
+(Eqv
+USD)
+Name of the Authorised Dealer Bank...................… Open position limit ..............................…Statement for the day ending ............................. and beginning……………..
+Annexure-B
+Balance sheet
+Off-balance sheet
+Total Positions
+Particulars
+Total of
+Net Short
+Positions
+(Eqv
+USD)
+Overall
+Net Ex.
+Positions
+F) Overall position ( Aiii + C +D) ( Balance sheet + Off-Balance sheet)
+
+--- Page 5 ---
+FE Circular 26, Date : 29-12-2009, Annexure-C
+
+
+
+Authorised Dealers shall maintain records of their exchange position in foreign currency in
+which they maintain an account as at the close of business on each working day in the
+prescribed proforma (See Annexure-A and Annexure-B). These currency wise daily position
+statements should be submitted to Bangladesh Bank on the following working day.
+
+Banks shall maintain their overall exposures in foreign currencies (overall net exchange
+position) within the ‘Open position limit’ at the end of the day. The open position limit is
+required to be approved by the Bangladesh Bank on the basis of total capital (sum of Tier-1,
+Tier-2 & Tier-3) and some other qualitative judgements.
+
+The proforma of exchange position has been drawn up to suit the different types of book
+keeping used in different banks and in some cases some of the items will not be required.
+The main items which may cause some difficulty are explained below. In the event of any
+further difficulty being encountered, the Authorised Dealer should refer the matter to the
+Foreign Exchange Policy Department of Bangladesh Bank.
+
+Guidelines for Calculation and Reporting of Foreign Exchange Exposure of Banks
+
+Foreign currency exposure of bank is defined as the sum of all foreign currency
+denominated assets and liabilities. The exposure shall also include the net forward and other
+possible off-balance sheet items (as decided by Bangladesh Bank) in each currency. No
+foreign currency denominated asset or liability can be ignored, unless it has been explicitly
+agreed with the Bangladesh Bank.
+
+Bank's overall foreign exchange exposure (i.e. overall net exchange position) is to be
+measured in two successive steps: first, the measurement of the exposure in each single
+currency, and second, the measurement of overall foreign exchange exposure ( i.e. overall
+net exchange position) by aggregating the sum of the net short positions or sum of the net
+long positions; whichever is higher.
+
+Calculation of Net Open Position in Each Currency
+
+Bank’s net open position in each currency should be calculated by summing (i) net position
+in balance sheet items and (ii) net position in off-balance sheet items. :
+Balance sheet items include spot position only. The net spot position is the difference
+between foreign currency assets and the liabilities in the balance sheet. This should include
+all accrued income/expenses.
+Off-balance sheet items include all foreign currency denominated assets and liabilities not
+included in the balance sheet. These transactions are recorded in the off-balance sheet
+section of the book of a bank.
+Off-balance sheet items include forward positions and acceptances/similar commitments
+denominated in foreign currency which are certain to be called. Net Forward Position in a currency
+represents all amounts to be received less all amounts to be paid at a future value date under forward
+foreign exchange transactions including the far leg position of currency swap contracts.
+
+--- Page 6 ---
+FE Circular 26, Date : 29-12-2009, Annexure-C
+
+
+2 of 6
+Net position in Acceptances/similar commitments represents all amounts to be received less all
+amounts to be paid in future under definite and unconditional commitment (other than forward and
+swap).
+
+However, banks shall report the following items of contingent liabilities in the daily exchange
+position statement which will be excluded for arriving at currency-wise exposure:
+i) Letter of credit
+ii) Letter of guarantee
+iii) Other contingent liabilities
+Therefore, banks shall arrive net foreign exchange position in each currency by adding (i) net spot
+position ( ii) net forward position (iii) net acceptance/similar commitment.
+Banks shall, therefore, calculate the overall net open position/overall net exchange position in
+the following manner:
+(i) Calculate the net open position in each currency ;
+(ii) Convert the net positions in various currencies in equivalent USD and BDT [using the
+conversion rate determined by ‘Forex Reserve and Treasury management Department (FRTMD) of
+Bangladesh Bank’ or ‘Bangladesh Foreign Exchange Dealers Association (BAFEDA)’];
+(iii) Arrive at the sum of all the net long positions.
+(iv) Arrive at the sum of all the net short positions;
+(v) Arrive at the overall net foreign exchange position [ higher of (iii) or (iv)]
+
+The overall net foreign exchange position thus arrived must be kept within the limit approved by
+Bangladesh Bank.
+
+Net Exchange Position shall be worked out on the basis of opening balance and other
+transactions of the day concerned as per the local books of the Authorised Dealer. All assets
+take the form of debit balances and all liabilities the form of credit balances. Therefore, if an
+Authorised Dealer holds a credit balance with his correspondent/OBU book, his local book
+will show a debit balance, as he is holding an asset. Similarly, an overdrawn position with
+his overseas correspondent/OBU book will be shown as a credit balance in his local book.
+No under valuation shall take place; assets are to be marked to market in adherence to the
+'Guidelines for Core Risks Management'. Balance sheet and off-balance sheet exposures are
+to be reported separately but added together to arrive at overall exposures in individual
+currency. The nostro balances as per local book and nostro balances as per book of the
+overseas correspondents/OBU should be completely reconciled. The banks shall take utmost
+measures for complete reconciliation as suggested in the Core Risk Guidelines on Foreign
+Exchange.
+
+Submission of Daily Exchange Position Statement
+
+Banks are required to submit two statements, -
+statement stating the opening exchange position and transactions during the
+reporting day (Annexure -A), that is, opening stock and flow data respectively
+ii.
+the position at the close of the day (Annexure-B), i.e., the opening position for the
+next day.
+
+--- Page 7 ---
+FE Circular 26, Date : 29-12-2009, Annexure-C
+
+
+3 of 6
+Transfer between different foreign currency accounts does not affect in day transaction. For instance,
+the transfer of the balance in an NFCD after maturity to an approved foreign currency account does
+not constitute buy or sale on the part of the bank on the day transaction.
+
+Description of Some Major Items of the Formats [ Annexure A, Annexure -B]
+
+Clarification of the Contents of the Columns
+
+Item in
+Column
+Clarification
+Balance sheet item in USD only
+Balance sheet item in EURO only
+Balance sheet item in JPY only
+Balances sheet item in GBP only
+Summation of balance sheet items in all other currencies converted in equivalent USD
+Off-balance sheet item in USD only
+Off-balance sheet item in EURO only
+Off-balance sheet item in JPY only
+Off-balance sheet item in GBP only
+10
+Summation of off-balance sheet items in all other currencies converted in equivalent
+USD
+11
+Total of Long Positions (among different currencies as indicated in Row 1F or Row 10,
+as the case may be ) in equivalent US Dollar.
+12
+Total of Short Positions (among different currencies as indicated in Row 1F or Row 10,
+as the case may be ) in equivalent US Dollar
+13
+Overall net foreign exchange position i.e. higher of 11 or 12 above with sign of + (plus)
+in case of long position and with sign of – (minus) in case of short position as the case
+may be.
+
+Clarification of Items of the Rows :
+
+1.A.i(d): Outward bills purchased
+
+Banks have different methods of entries for outward bills purchased. If a bank inputs the value of any
+outward bill purchased immediately into their currency account, then such transactions need not be
+reported under this head. On the other hand, some banks debit their bills purchased to a temporary
+suspense account and transfer to their currency account when the bill is realized. When the exchange
+position is prepared before realization of the bill(s), the total outstanding purchased export bill should
+be reported under this head. After realization of bills, such transactions are to be reported in local
+book and the respective head will be adjusted accordingly. The amount of bills sent for collection
+shall not to be reported under this head.
+1.A.i(e) : Others
+Opening balance of any foreign asset not covered in 1(A)(ia through id) will have to be reported
+under this head. Besides, amount of unsettled spot purchase transactions (spot purchase transactions
+not yet settled/not yet booked for) against firm deal/contract shall have to be reported under this
+head. The particulars of such balances, if reported, should be mentioned in foot note. After
+settlement, such transactions are to be booked for in local book and the respective head will be
+adjusted accordingly.
+
+1.A.ii(b5): FDDs, MTs and TTs payable :
+
+Banks issue FDDs, MTs and TTs on correspondents to pay foreign currency or equivalent to the
+beneficiaries by debiting their nostro accounts. If a bank inputs the value of such
+instruments/transfers immediately into their currency account, then such transactions need not be
+
+--- Page 8 ---
+FE Circular 26, Date : 29-12-2009, Annexure-C
+
+
+4 of 6
+reported under this head. If the Authorised Dealer does not enter into his currency position the
+amount of draft or transfer until it is actually paid, the amount need to be reported under this head.
+After settlement, such transactions are to be reported in local book and the respective head will be
+adjusted accordingly.
+
+1.A.ii(b6): Others:
+Balances on account of customer account other than FC, NFCD, RFCD, ERQ etc. (out of exchange
+position) and not covered by any head as mentioned above will have to be reported under this head.
+The particulars of such balances, if reported, should be mentioned in footnote.
+
+1.A.iic): Back to back letters of credit-fund awaiting for remittance :
+Under back-to-back import system, import bills are usually paid from export earnings. Bank receives
+export proceeds and retains these to settle import bills accordingly on maturity. Balance in these
+accounts (e.g. back to back margin account) should be reported under this head. After payment is
+made on maturity, such transactions are to be reported in local book and the respective head will be
+adjusted accordingly.
+1.A.ii(d): Others
+Opening balance of foreign liabilities not covered in 1(A)(iia through iic) will be reported under this
+head. Besides, amount of unsettled spot sales transactions against firm deal/contract shall be
+reported under this head. The particulars of such balances, if reported, should be mentioned in foot
+note.
+1.Aiii : Net position of assets/liabilities (1Aiii):
+Difference between the total of items under A.i and total of items under A.ii will be reported under
+this head.
+1.C: Forward against contract
+Banks offer forward booking to other banks and customers as well. Currency-wise net outstanding
+amount of forward derived from purchase or sale from/to banks and customers against firm contract
+should be reported under this head.
+1.D. Acceptance and similar commitments
+Banks may accord acceptance against bills/other instruments to other banks/concerns on behalf of
+their customers for making payment in future which are certain to be paid in foreign exchange. On
+the contrary, banks may receive such acceptance from other banks which are certain to be received in
+future. Net position of such acceptances/commitments (receivables minus payables) is to be reported
+under this row as off-balance sheet exposure. Amount under this row is to be considered for
+determining net exchange position in respective currency.
+1(E): Contingent liability
+Outstanding amount of contingent liabilities (Letters of credit, guarantees, others) at the beginning
+of the day is to be reported. However, the amount under this head will not be considered for
+calculation of net exchange position.
+
+2. Spot/Cash Transactions of the day
+Spot transaction is single outright transaction involving the exchange of two currencies at a rate
+agreed on the date of the contract for value or delivery (cash settlement) within two business days.
+Cash transaction is the transaction involving the exchange of two currencies at a rate agreed where
+
+--- Page 9 ---
+FE Circular 26, Date : 29-12-2009, Annexure-C
+
+
+5 of 6
+settlement takes place immediately (usually in the same day). These are to be reported under this
+head. To mention, cash settlement of forward transactions, settlement of near leg and far leg spot
+transaction of swap contracts (buy/sell as the case may be), settlement of acceptances/similar
+commitments ( payments or receipts, as the case may be) shall be reported under this head ( Please
+see below) .
+
+3. Forward/swap transactions of the day
+Forward transactions involve the exchange of two currencies at a rate agreed on the date of
+the contract for value or delivery (cash settlement) at some future date (more than two
+business days).
+Swap Transaction is a combination of a spot and a forward transaction and involves a
+simultaneous purchase and sale of two currencies against each other.
+Forward transactions (alongwith those derived from swap transactions i.e. far legs of swap
+transactions) of the day under report with banks and customers are to be reported under the
+above head. However, sales, purchases and settlement of such transactions are to be reported
+under different heads as stated in the format.
+
+Settlement of Swap Transactions
+Transactions derived from swap contracts are to be reported simultaneously under sl. nos. 2 (Spot
+transactions) and 3(Forward Transactions) of the exchange position statement. The near leg spot
+transaction of the currency(ies) is to be reported under sl. no. 2 while far leg of the swap contract is
+to be reported in sl. no. 3 of the exchange position statement under the head of forward transactions (
+purchase or sale as the case may be). On maturity, the far leg transaction is to be reported under spot
+(buy/sell) as reversal of the previous one(s) and to neutralise the forward book position, the
+transaction amount should be shown as forward purchase/forward sale settlement under the
+respective head in sl. no. 3A2.
+4. Acceptances/similar commitments of the day
+Acceptances/similar commitments denominated in foreign currency received and given on the day
+are to be reported under the head specified in Row 4A1. Similarly settlements of such
+acceptances/commitments are to be reported under the head specified in Row 4A2. Besides,
+payments/receipts under such settlements are also to be reported under spot transactions (sl. No. 2,
+sales or purchases, as the case may be).
+5. Contingent liabilities
+Issuance and settlement of contingent liabilities which are excluded for calculation of foreign
+exchange exposures like letters of credit and guarantees are to be reported under this head.
+6. Total spot position of the day
+It is the sum of the opening spot position at the beginning (Aiii) and the spot transactions during the
+day as well( 2D).
+
+7. Total forward position of the day: It is the sum of the opening forward position at the beginning
+(1C) with net forward transactions of the day ( 3.A1) less net settlement of outstanding forward
+transactions during the day (3A2).
+
+--- Page 10 ---
+FE Circular 26, Date : 29-12-2009, Annexure-C
+
+
+6 of 6
+8. Total acceptance positions of the day
+It is the sum of the opening acceptance position at the beginning (1D) with net of acceptance
+received/acceptance given during the day ( 4.A1) less net settlement of outstanding acceptances
+during the day (4.A2).
+9. Total currency-wise net exchange position of the day
+Net Exchange position in a currency is the sum of spot position(Row 6), forward position ( Row 7)
+and acceptance position ( Row 8) in the respective currency.
+
+10. Total of the Net Long Positions ( Row 11) and Total of the Net Short Positions ( Row 12) in
+equivalent US Dollar
+The sum of the net exchange positions of the currencies having long position as indicated in Row 9
+shall be reported at Row 10 and Column 11 of the matrix. On the other hand, the sum of the net
+exchange positions of the currencies having short position as indicated in Row 9 will be reported at
+Row 10 and Column 12 of the matrix with ‘ –’ (minus) sign.
+
+11. Overall Net Exchange Position ( Eqv US Dollar)
+The overall net exchange positions of the bank will be the total of the net long positions or the total
+of the net short positions (as indicated in Row 10) whichever is higher. Overall net exchange position
+thus arrived in equivalent US Dollar will be reported at Row 11 and Column 13 of the matrix.
+12. Overall Net Exchange Position ( Eqv BDT):
+Overall net exchange position in equivalent BDT will be reported at the Row 12 and Column 13 of
+the matrix.
+13. Conversion Rate ( Equivalent Taka)
+The conversion rates ADs applied to convert various currencies (USD, EURO, JPY GBP etc.) are to
+be reported here( equivalent BDT per foreign currency.) To convert currencies, ADs are advised to
+use weighted average rate of USD/BDT as declared by FRTMD of Bangladesh Bank or BAFEDA.

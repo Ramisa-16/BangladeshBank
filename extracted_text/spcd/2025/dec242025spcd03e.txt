@@ -1,0 +1,530 @@
+--- Page 1 ---
+Page 1 of 5
+
+
+Bangladesh Bank
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+www.bb.org.bd
+
+Supervisory Policy and
+Coordination Department
+SPCD Circular No. 03
+Date:
+09 Poush 1432
+24 December 2025
+
+Managing Directors/Chief Executive Officers
+All Scheduled Banks in Bangladesh
+
+Dear Sirs,
+Implementation of Risk Based Supervision (RBS): Framework, Organogram, Operational
+Arrangements, Supervisory Engagement, and Regulatory Reporting Requirements
+Please refer to SPCD Circular No. 02 dated 23 October 2025, in terms of which
+Bangladesh Bank (BB) communicated the supervisory expectations and preparatory measures
+required of all scheduled banks to ensure readiness for the transition to Risk Based Supervision
+(RBS) from January 2026. With a view to ensuring a smooth and effective transition to the RBS
+framework, this circular sets out the operational, supervisory, and reporting arrangements
+applicable from the commencement of RBS.
+02. In view of the increasing globalization of financial services, rapid technological
+advancement, product innovation, and heightened interconnectedness of financial institutions,
+the complexity of banking operations and the overall risk profile of banks have significantly
+increased. Traditional compliance-based supervision, which primarily emphasizes rule-checking
+and reliance on historical data, is considered no longer sufficient to proactively address these
+evolving challenges and risks. In this context, BB has decided to implement RBS, which is
+expected to strengthen forward-looking assessment of risks and the effectiveness of risk
+governance, promote enhanced risk awareness, accountability and prudent risk culture across
+banks, and support sustainable innovation while safeguarding overall financial stability.
+Accordingly, RBS shall be implemented with effect from 01 January 2026. Under this
+framework, all banks are required to operate, maintain and strengthen their systems, internal
+controls, and governance structure in conformity with the supervisory expectations mentioned in
+SPCD Circular No. 02 dated 23 October 2025.
+03. This circular shall be applied to all scheduled banks operating in Bangladesh and
+shall cover all business lines, functions, and activities that have a material impact on a bank’s
+overall risk profile. The scope of RBS shall extend to all scheduled banks, both on a solo and
+consolidated basis, within the purview of the Bank Company Act, 1991.
+04. Under the RBS framework, supervisory assessment shall be grounded in a structured
+evaluation of a bank’s inherent risks, inter alia, credit, market, operational, legal and regulatory,
+strategic, ML/TF, technology, and other emerging risks relevant to the bank’s operation and risk
+exposures; the effectiveness of the bank’s risk governance arrangements, including Board and
+
+--- Page 2 ---
+Page 2 of 5
+
+senior management oversight; adequacy and effectiveness of internal control and risk
+management systems including risk culture; and implementation of risk mitigation measures.
+The overall assessment shall culminate in the determination of a bank’s Composite Risk Rating
+and the corresponding calibration of intensity, frequency, and depth of supervisory engagement
+based on the materiality of identified risks and weaknesses in the quality of risk management.
+Supervision under RBS shall be forward-looking, with emphasis on early identification and
+evaluation of emerging risks; continuous in nature through a combination of off-site monitoring
+and targeted on-site reviews; and proportionate to the bank’s size, complexity, and systemic
+importance.
+05. In order to support effective implementation of RBS, BB has undertaken a
+comprehensive restructuring of its supervisory organogram. The objectives of this restructuring
+are to establish a clear single-point supervisory interface for each bank, eliminate duplication and
+fragmentation in supervisory data submission, and promote a more coordinated, risk-focused,
+and forward-looking supervisory approach. Under the restructured framework, supervisory
+responsibilities have been realigned to ensure holistic bank-specific supervision through
+dedicated Bank Supervision Departments, while enabling specialized and cross-cutting oversight
+in critical areas such as supervisory policy coordination, data management and analytics,
+technology risk and digital banking supervision, money laundering and terrorist financing risks,
+and payment system oversight. This structure is intended to enhance supervisory consistency,
+strengthen risk identification and escalation, improve data quality and analytical capability, and
+support timely supervisory intervention. Accordingly, Bangladesh Bank has established a total of
+seventeen supervisory departments comprising twelve Bank Supervision Departments (BSD-1 to
+BSD-12) and five specialized supervisory departments. As part of this transition, the existing
+inspection and function-based supervisory departments have been streamlined and integrated into
+the new RBS-aligned structure, to be effective from 01 January 2026. The list of dissolved and
+new supervisor departments is provided in Annexure-1. Out of the seventeen departments listed
+in the annexure, the SPCD was established earlier, and the banks were duly informed through
+SPCD Circular No. 01 dated 03 August 2025.
+06. Under the RBS framework, each BSD shall carry out full supervision of its
+designated banks through a single dedicated supervisory team for each bank. The team will
+conduct continuous supervision (off-site and on-site) and cover all key supervisory areas,
+including foreign exchange operations and complaint management, while maintaining the bank’s
+risk profile and ensuring timely supervisory intervention and follow-up. The distribution of
+banks among BSDs is provided in Annexure-2. Among the five specialized supervisory
+departments, the Supervisory Data Management and Analytics Department (SDAD) will serve as
+the central hub for supervisory data collection, validation, data quality assurance, and sectoral
+risk analysis to support timely, evidence-based supervision. The Technology Risk and Digital
+Banking Supervision Department (TRDS) will oversee risks emerged from technology and
+digital banking under RBS. The Money Laundering and Terrorist Financing Prevention
+Department (AMLD) will carry dedicated supervisory responsibility for ML/TF risk while the
+Payment Systems Supervision Department (PSSD) will oversee the risk associated with payment
+and settlement systems of the banks. Each department is designed to strengthen supervisory
+consistency, depth, and responsiveness in its specialized domain. Detailed Terms of Reference
+(ToR) of all supervision departments will be available in Bangladesh Bank Website.
+07. RBS framework shall adopt an integrated approach to ensure proactive identification
+of risks, enforcement of corrective measures, and enhanced resilience of supervised entities.
+Bank Supervisors shall be in continuous contact with banks through both off-site and on-site
+engagement to conduct risk assessments and communicate expectations, findings, and risk
+
+--- Page 3 ---
+Page 3 of 5
+
+mitigation measures. Formal supervisory engagement shall be primarily carried out via
+Supervisory Letters, regulatory circulars/guidelines, enforcement notices, and Supervisory
+Reports. Supervisory Letters shall convey observations, concerns, and corrective actions to banks
+while Supervisory Reports shall provide insights into a bank’s risk profile, governance, control
+effectiveness, financial resilience, and supervisory measures. Supervisors shall also hold
+structured meetings and dialogues with Boards of Directors, Chief Executive Officers, Senior
+Management and other stakeholders of banks. Onsite engagement shall include full-scope or
+targeted inspections covering credit, market, operational, legal and regulatory, and strategic risks,
+as well as governance and internal control practices, while thematic reviews shall be conducted
+with emphasis on high-risk areas such as credit concentration, ML/TF, and cyber security. Off-
+site engagement shall involve reviewing regulatory returns and reports, seeking clarifications
+through official correspondence, and analyzing data to identify vulnerabilities. Additionally,
+supervisors shall also be engaged in follow-up and remedial activities, monitoring the
+implementation progress of action plan and validating effectiveness through compliance testing.
+
+08. Under the RBS framework, each bank shall be assigned a Lead Bank Supervisor who
+shall serve the bank as the primary supervisory point of contact. The Lead Bank Supervisor shall
+coordinate supervisory activities relating to the bank, facilitate continuous supervisory dialogue
+and communicate Supervisory Letter as well as monitor and follow up on supervisory
+interventions. Banks are expected to ensure effective, transparent, and timely engagement with
+the assigned Lead Bank Supervisor at all times. All banks shall designate a Focal Point official
+for RBS, following criteria specified in SPCD Circular No. 02 dated 23 October 2025, who shall
+act as the primary point of contact to liaison with the Lead Bank Supervisor and the supervisory
+team for supporting the supervisory process as well as addressing the supervisory concerns and
+ensuring timely compliance of the supervisory observations, action points and concerns
+mentioned, inter alia, in the Risk Assessment Report, Supervisory Letter and the Risk Mitigation
+Plan. Besides, Lead Bank Supervisors shall communicate letters any time whenever any material
+issues identified for addressing and resolving those issues.
+09. For effective transition to RBS, Bangladesh Bank has adopted a phased approach to
+supervisory data consolidation where all supervisory data shall be brought gradually under a
+single platform to avoid redundancy and duplication of data submission. In this regard, with the
+implementation of RBS from 01 January 2026, the following directives shall be applied to all
+banks with respect to data reporting requirements:
+A. Centralized submission portal
+
+All regulatory returns, reports and documents that were previously submitted to the
+dissolved supervision departments as mentioned in annexure-1 — and which were not
+already collected via web portal— shall be submitted to SDAD following the same
+channel and frequency specified in applicable circulars or guidelines until further
+instruction.
+
+B. Existing web-portal submissions
+Data already submitted to any of the dissolved departments via web portal shall be
+continued through the same portal and with the same frequency as mentioned in the
+applicable circulars or guidelines until further instruction.
+
+C. RITs for Structured Data
+Without prejudice to other reporting requirements, banks are required to submit
+structured data using the prescribed RITs through the designated web portal:
+
+--- Page 4 ---
+Page 4 of 5
+
+https://ereturns.bb.org.bd/ strictly in accordance with the submission frequency and
+deadline applicable to each template as follows.
+SL
+Name of RITs
+Submission
+Frequency
+Submission Deadline
+T_M_RBS_MAIN
+Monthly
+basis
+By the 15th of the
+following month
+T_M_RBS_DEPOSIT_CONCENTRATION
+Monthly
+basis
+By the 10th of the
+following month
+T_M_RBS_IB_TRANS_MATRIX
+Monthly
+basis
+By the 15th of the
+following month
+T_Q_RBS_ALL_CLAIMS
+Quarterly
+basis
+By the last day of the
+following month
+T_Q_RBS_PAST_DUE
+Quarterly
+basis
+By the 20th of the
+following month
+T_Q_RBS_ECAIS
+Quarterly
+basis
+By the last day of the
+following month
+T_Q_RBS_BORROWERS_CONCENTRATION
+Quarterly
+basis
+By the last day of the
+following month
+T_Q_RBS_DEFAULTERS_CONCENTRATION
+Quarterly
+basis
+By the 20th of the
+following month
+T_Q_RBS_SUBSIDIARY_INFORMATION
+Quarterly
+basis
+By the last day of the
+following month
+10. T_Q_RBS_LIST_OF_SHAREHOLDERS
+Quarterly
+basis
+By the 12th of the
+following month
+11. T_Q_RBS_INVESTMENT_AGAINST_BOND_CP
+Quarterly
+basis
+By the 10th of the
+following month
+12. T_Q_RBS_MAIN
+Quarterly
+basis
+By the last day of the
+following month
+13. T_Q_RBS_SUMMARY
+Quarterly
+basis
+By the 20th of the
+following month
+
+D. Unstructured data
+
+1. Banks are required to upload all unstructured data/reports as listed in annexure-3 to
+the designated web portal https://ereturns.bb.org.bd/ .
+
+2. From data/reports listed in annexure-3, where a specific timeline is prescribed under
+any relevant regulatory instruction through circulars/guidelines/any other ways, those
+shall be submitted to the above-mentioned portal strictly in accordance with such
+applicable timeline and frequency. The remaining data/reports shall be submitted as
+or when updated.
+
+--- Page 5 ---
+Page 5 of 5
+
+E. Data Quality
+Banks shall ensure the accuracy, completeness, consistency and timeliness of all
+structured and unstructured data to be submitted under the RBS framework. Persistent
+data quality deficiencies or material misreporting etc. may be viewed as a reflection of
+failure of the governance and internal controls of the bank, leading to punitive measures.
+10. It is mentionable here that the supervisory expectations outlined in SPCD Circular
+No. 02 dated 23 October 2025 remain fully applicable and continue to form the foundation of
+supervisory assessment under the RBS framework. In line with these expectations, banks are
+required to establish and operationalize effective risk governance frameworks, while
+strengthening oversight by the Board of Directors and Senior Management. It is essential to
+ensure the independence and effectiveness of key control functions, including risk management,
+compliance, and internal audit, supported by robust management information systems (MIS) and
+comprehensive risk data aggregation capabilities. Moreover, the principles of RBS should be
+fully embedded into the banks’ day-to-day decision-making processes. Progress in meeting these
+supervisory expectations shall have a direct impact on risk rating, intensity of supervisory
+oversight, frequency of supervisory engagement, and the potential application of supervisory
+measures.
+11. Banks are required to fully comply with all aspects of the RBS framework, including
+the timely submission of data, proactive engagement with supervisory processes, and prompt
+implementation of corrective actions. Any failure to meet these obligations shall attract enhanced
+supervisory scrutiny and may lead to the issuance of regulatory directives or other measures
+considered appropriate by Bangladesh Bank.
+12. This circular is issued in exercise of the powers conferred under Section 45 of the
+Bank Company Act, 1991.
+
+
+
+Yours faithfully,
+
+(Mohammad Abdur Rab)
+Director (SPCD)
+Phone: 9530173
+Annexure: 4 Pages
+
+--- Page 6 ---
+Annexure-1
+List of Dissolved and New Supervision Departments
+*Payment Systems Department (Division-3) has been renamed as Payment Systems Supervision
+Department and brought under supervisory framework.
+
+
+
+Dissolved Supervision Departments
+New Supervision Departments
+1. Department of Banking Inspection-1
+2. Department of Banking Inspection-2
+3. Department of Banking Inspection-3
+4. Department of Banking Inspection-4
+5. Department of Banking Inspection-5
+6. Department of Banking Inspection-6
+7. Department of Banking Inspection-7
+8. Department of Banking Inspection-8
+9. Department of Banking Inspection-9
+10. Department of Foreign Exchange Inspection
+11. Department of Off-site Supervision
+(Division-1, 2)
+12. Integrated Supervision Management
+Department
+13. Financial Integrity and Customer Services
+Department (Division-1, 2)
+1. Bank Supervision Department (BSD)-1
+2. Bank Supervision Department (BSD)-2
+3. Bank Supervision Department (BSD)-3
+4. Bank Supervision Department (BSD)-4
+5. Bank Supervision Department (BSD)-5
+6. Bank Supervision Department (BSD)-6
+7. Bank Supervision Department (BSD)-7
+8. Bank Supervision Department (BSD)-8
+9. Bank Supervision Department (BSD)-9
+10. Bank Supervision Department (BSD)-10
+11. Bank Supervision Department (BSD)-11
+12. Bank Supervision Department (BSD)-12
+13. Technology Risks and Digital Banking
+Supervision Department (TRDS)
+14. Supervisory Data management and Analytics
+Department (SDAD)
+15. Supervisory Policy and Coordination Department
+(SPCD)
+16. Money Laundering and Terrorist Financing
+Prevention Department (AMLD)
+17. Payment Systems Supervision Department (PSSD)*
+
+--- Page 7 ---
+ii
+
+Annexure-2
+Banks under Bank Supervision Departments
+Bank Supervision Department-1
+Sonali Bank PLC
+One Bank PLC
+Habib Bank Limited
+Karmasangsthan Bank*
+
+Bank Supervision Department-2
+Janata Bank PLC
+Mercantile Bank PLC
+Commercial Bank of Ceylon PLC
+Palli Sanchay Bank*
+
+Bank Supervision Department-3
+Agrani Bank PLC
+Jamuna Bank PLC
+Rajshahi Krishi Unnayan Bank
+BASIC Bank PLC
+
+Bank Supervision Department-4
+Rupali Bank PLC
+National Credit and Commerce Bank PLC
+Woori Bank
+Bangladesh Krishi Bank
+
+Bank Supervision Department-5
+Pubali Bank PLC
+United Commercial Bank PLC
+Midland Bank PLC
+Citizens Bank PLC
+SBAC Bank PLC
+Standard Chartered Bank
+Ansar VDP Unnayan Bank*
+
+Bank Supervision Department-6
+BRAC Bank PLC
+AB Bank PLC
+Modhumoti Bank PLC
+NRBC Bank PLC
+HSBC Limited
+Probashi Kallyan Bank
+
+Bank Supervision Department-7
+Dutch-Bangla Bank PLC
+The City Bank PLC
+National Bank PLC
+Bengal Commercial Bank PLC
+Bank Alfalah
+Grameen Bank*
+
+Bank Supervision Department-8
+Dhaka Bank PLC
+Mutual Trust Bank PLC
+Shimanto Bank PLC
+Meghna Bank PLC
+State Bank of India
+Bangladesh Development Bank PLC
+Jubilee Bank*
+
+Bank Supervision Department-9
+Southeast Bank PLC
+Eastern Bank PLC
+The Premier Bank PLC
+Community Bank Bangladesh PLC
+Bangladesh Commerce Bank Limited
+National Bank of Pakistan
+
+Bank Supervision Department-10
+Uttara Bank PLC
+IFIC Bank PLC
+Trust Bank PLC
+Padma Bank PLC
+NRB Bank PLC
+Citibank N.A.
+Investment Corporation of Bangladesh*
+
+Bank Supervision Department-11
+Islami Bank Bangladesh PLC
+Shahjalal Islami Bank PLC
+Prime Bank PLC
+ICB Islamic Bank Limited
+
+Bank Supervision Department-12
+Al-Arafah Islami Bank PLC
+Standard Bank PLC
+Bank Asia PLC
+Sammilito Islami Bank PLC (EXIM Bank PLC,
+Social Islami Bank PLC, First Security Islami
+Bank PLC, Global Islami Bank PLC, Union
+Bank PLC.)
+* Relevant Bank Supervision Departments will oversee the non-scheduled banks/institutions
+
+--- Page 8 ---
+iii
+
+Annexure-3
+List of Unstructured Data/Reports
+Particulars
+Reports and Statements
+1. Latest internal audit report on
+a) Largest branches accounting for at least 60% of the bank's assets
+b) Corporate Division
+c) SME Division
+d) Consumer-credit/Retail-credit related division
+e) Credit Risk Management Division
+Credit Administration Division
+g) Treasury Division
+h) International Division
+Centralized Trade Processing Unit
+Risk Management Division
+k) Reconciliation department
+Financial Administration Division
+m) IT Division
+n) ICT-related internal audit report for the divisions/branches as mentioned above
+2. Management Report
+3. Report on credit ratings of banks
+4. Statement of Willful Defaulters
+5. Annual Health report
+6. Audited Financial Statements (excel copy & pdf)
+7. Detailed statement of affairs (GL)
+8. ICAAP Report
+9. Report on Interest Rate Risk in Banking Book (IRRBB)
+10. Stress test report
+11. ALCO Report
+12. Risk Appetite Statement of Bank
+13. Comprehensive Risk Management Report
+14. Report on effectiveness of Internal Control & Compliance
+15. Report on effectiveness of Risk Management Function
+16. Self-assessment of anti-fraud internal control report
+17. Statement of fraud and forgeries detected and unsettled upto previous reporting period since inception of
+the bank
+18. Statement of fraud and forgeries detected during reporting period
+19. Statement regarding penalties imposed by regulatory authority.
+20. Review reports of Quarterly Operations Report (QOR) and Loan Documentation Check list (LDCL)
+Internal policies/manual and plans
+1. Operational risk and fraud management policy
+2. Internal policies on six core risk (CRM, FX, ALM, ICC, ICT and AML/CFT)
+3. Whistle-blowing policy, if any
+4. Succession plans of BoD Chairman, CEO and the functional heads
+5. 5-year strategic plan
+6. Detailed annual budget plan
+7. Capital management plan
+
+--- Page 9 ---
+iv
+
+Meeting Agenda:
+1. Board of Director Meeting
+2. Executive Committee Meeting
+3. Audit Committee Meeting
+4. Risk Management Committee Meeting
+Meeting Minutes
+1. Board of Director meeting minutes
+2. Board Audit Committee meeting minutes
+3. Board Risk Management committee meeting minutes
+4. Senior Management meeting minutes
+5. ALCO meeting minutes
+6. Credit Committee meeting minutes
+7. Executive/Management Level Risk Management Committee meeting minutes
+Sanctioned Advice/Letter of Top 20 Borrowers
+ML/TF related documents
+1. Report on CTR & STR (total number & value)
+2. Information regarding ongoing investigations against its officials or clients by any statutory bodies (BB,
+ACC, NBR, Custom Authority etc.)
+3. Internal ML/TF Risk Assessment Report
+4. Information regarding penalty imposed by BB regarding ML/TF issues
+5. Special findings from Bangladesh Bank regarding ML/TF
+6. Observation and compliances thereof regarding Core Risk Inspection (ML/TF)
+7. Observations from external and internal audit related with ML/TF
+8. Significant ML/TF related event
+9. ML/TF training statistics
+10. CEO message regarding ML/TF
+11. Future plan on ML/TF prevention framework development
+Internal Audit related documents
+1. Details of Internal Auditors including IS audit and shariah audit (if any) [Name, Qualification, Service
+tenure in audit, Training received including time and duration, Latest 3 working station's
+(divisions/branch) name & service tenure in that division/branch]
+2. Annual Audit Plan & Implementation status
+Legal issues related documents
+1. Policies and procedures relating to legal and regulatory risk
+2. List of employees in Legal division with qualification and experience
+3. List of training on legal and regulatory matters for BoD (Name of the training programs, Number of
+respective trainings organized during the year, no of board member attended)
+4. List of training programs tailored to legal and regulatory compliance for Senior Management (name of the
+training programs, number of respective trainings organized during the year, No of members of Senior
+Management attended)
+5. List of regular trainings to staff members on legal risks and regulatory compliance (Name of the training
+programs, number of respective trainings organized during the year along with number of staff attended )
+6. List of in-house legal counsel e.g. panel lawyer with qualification and experience
+7. Reports on the bank's legal and regulatory risk profile and compliance activities (presented to the Board)
+Other Documents/Information:
+1. Detailed organogram (organizational structures including branch/division and reporting lines with
+manpower allocation)
+2. Delegation of power for loan sanction and investment
+3. Details on staff of different divisions: Consumer Credit, SME, Corporate, CRM, CAD, Treasury, FAD &
+IT (to be submitted in separate tables for each division) including information on name, designation,
+qualification, service tenure in current division, work experience in previous division including name of
+that division, titles of the training received etc.

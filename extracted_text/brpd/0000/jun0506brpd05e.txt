@@ -1,0 +1,1203 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+
+
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+June 05, 2006
+BRPD Circular No.05
+
+
+
+
+
+Date : ----------------------
+
+
+
+
+
+
+
+
+
+
+Jaistha 22, 1413
+
+
+
+
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+
+Dear Sir,
+
+
+Master Circular - Loan Classification and Provisioning
+
+
+In order to strengthen credit discipline and improve the recovery position of loans and advances by
+the banks, Bangladesh Bank vide BCD Circular No. 34/1989 introduced a new system covering loan
+classification, the suspension of interest due, and the making of provisions against potential loan loss.
+With a view to further strengthening credit discipline and bring classification and provisioning regulation
+in line with international standard, a phasewise programme for loan classification and provisioning was
+undertaken by Bangladesh Bank through BCD Circular No. 20/1994. Afterwards, a comprehensive
+circular, BRPD Circular No. 16/1998 was issued with major amendments in BCD Circular No. 34/1989
+and 20/1994 with a view to achieving a more specified & simplified system of loan classification and
+provisioning. As part of the process i.e. regarding the changes, it needs to be mentioned here that
+Bangladesh Bank has already introduced 'Special Mention Account' vide BRPD Circular No. 02/2005 and
+09/2005 for the banks to raise early warning signals for accounts showing first signs of weakness and
+making appropriate provisioning therein. As a further move towards this end, changes in the formats for
+classification and provisioning (CL-1, 2, 3, 4 & 5) have been made vide BRPD Circular Letter No.
+08/2005. Moreover, some changes have been made in the provisioning requirement for Consumer
+Financing & Small Enterprise Financing.
+
+Now in order to enable the banks to have all existing instructions on the subject at one place this
+Master Circular has been prepared by incorporating all instructions issued from time to time. It may also
+be mentioned that this Circular also includes a few new instructions as well as new formats for loan
+classification & provisioning.
+
+
+contd............page/02
+
+--- Page 2 ---
+-02-
+
+1. Categories of Loans
+
+All loans and advances will be grouped into four(4) categories for the purpose of classification,
+namely (a) Continuous Loan (b) Demand Loan (c) Fixed Term Loan & (d) Short-term Agricultural &
+Micro Credit.
+(a) Continuous Loan: - The loan Accounts in which transactions may be made within certain
+limit and have an expiry date for full adjustment will be treated as Continuous Loans. Examples are: CC,
+OD etc.
+
+(b) Demand Loan: The loans that become repayable on demand by the bank will be treated as
+Demand Loans. If any contingent or any other liabilities are turned to forced loans (i.e. without any prior
+approval as regular loan) those too will be treated as Demand Loans. Such as: Forced LIM, PAD, FBP,
+and IBP etc.
+
+(c) Fixed Term Loan: The loans, which are repayable within a specific time period under a
+specific repayment schedule will be treated as Fixed Term Loans.
+
+(d) Short-term Agricultural & Micro Credit:
+Short-term Agricultural Credit will include the short-term credits as listed under the Annual
+Credit Programme issued by the Agricultural Credit and Special Programmes Department (ACSPD) of
+Bangladesh Bank. Credits in the agricultural sector repayable within 12(twelve) months will also be
+included herein. Short-term Micro-Credit will include any micro-credits not exceeding Tk.25,000/=
+(twenty five thousand) and repayable within 12(twelve) months, be those termed in any names such as
+Non-agricultural credit, Self-reliant Credit, Weaver's Credit or Bank's individual project credit.
+2. Basis for Loan Classification: -
+
+(A) Objective Criteria:
+
+(1) Past Due/Over Due
+
+Any Continuous Loan if not repaid/renewed within the fixed expiry date for repayment will
+be treated as past due/overdue from the following day of the expiry date.
+
+(ii)
+Any Demand Loan if not repaid/rescheduled within the fixed expiry date for repayment will
+be treated as past due/overdue from the following day of the expiry date.
+
+(iii)
+In case of any installment(s) or part of installment(s) of a Fixed Term Loan(not over five
+years) is not repaid within the fixed expiry date, the amount of unpaid installment(s) will be
+treated as past due/overdue from the following day of the expiry date.
+
+(iv)
+In case of any installment(s) or part of installment(s) of a Fixed Term Loan(over five years)
+is not repaid within the fixed expiry date, the amount of unpaid installment(s) will be treated as
+past due/overdue after six months of the expiry date.
+
+The Short-term Agricultural and Micro-Credit if not repaid within the fixed expiry date for
+repayment will be considered past due/overdue after six months of the expiry date .
+
+contd............page/03
+
+--- Page 3 ---
+-03-
+
+(2) All unclassified loans other than Special Mention Account (SMA) will be treated as Standard.
+
+(3) A Continuous credit, Demand loan or a Term Loan which will remain overdue for a period of 90 days
+or more, will be put into the "Special Mention Account(SMA)" and interest accrued on such loan
+will be credited to Interest Suspense Account, instead of crediting the same to Income Account. This
+will help banks to look at accounts with potential problems in a focused manner and it will capture
+early warning signals for accounts showing first sign of weakness.
+
+Loans in the "Special Mention Account (SMA)" will have to be reported to the Credit Information
+Bureau (CIB) of Bangladesh Bank. However, it is reiterated that loans in the "Special Mention
+Account" will not be treated as defaulted loan for the purpose of section 27KaKa(3) of the Bank
+Company Act, 1991.
+
+(4) Any continuous loan will be classified as:
+
+¾ 'Sub-standard' if it is past due/over due for 6 months or beyond but less than 9 months.
+
+¾ `Doubtful' if it is past due/over due for 9 months or beyond but less than 12 months
+
+¾ `Bad/Loss' if it is past due/over due for 12 months or beyond.
+
+(5) Any Demand Loan will be classified as:
+
+¾ 'Sub-standard' if it remains past due/overdue for 6 months or beyond but not over 9 months from
+the date of claim by the bank or from the date of creation of forced loan.
+
+¾ `Doubtful' if it remains past due/overdue for 9 months or beyond but not over 12 months from the
+date of claim by the bank or from the date of creation of forced loan.
+
+¾ `Bad/Loss' if it remains past due/overdue for 12 months or beyond from the date of claim by the
+bank or from the date of creation of forced loan.
+
+(6) In case of any installment(s) or part of installment(s) of a Fixed Term Loan is not repaid within the
+due date, the amount of unpaid installment(s) will be termed as `defaulted installment'.
+
+(6.1) In case of Fixed Term Loans, which are repayable within maximum five years of time: -
+
+¾ If the amount of 'defaulted installment' is equal to or more than the amount of installment(s)
+due within 6 (six) months, the entire loan will be classified as ''Sub-standard''.
+
+¾ If the amount of 'defaulted installment' is equal to or more than the amount of installment(s)
+due within 12 (twelve) months, the entire loan will be classified as ''Doubtful".
+
+¾ If the amount of 'defaulted installment' is equal to or more than the amount of installment(s)
+due within 18 (eighteen) months, the entire loan will be classified as ''Bad/Loss''.
+
+
+
+
+contd............page/04
+
+--- Page 4 ---
+-04-
+
+(6.2)
+In case of Fixed Term Loans, which are repayable in more than five years of time: -
+
+¾ If the amount of 'defaulted installment' is equal to or more than the amount of installment(s)
+due within 12 (twelve) months, the entire loan will be classified as ''Sub-standard''.
+
+¾ If the amount of 'defaulted installment' is equal to or more than the amount of installment(s)
+due within 18 (eighteen) months, the entire loan will be classified as ''Doubtful".
+
+¾ If the amount of 'defaulted installment' is equal to or more than the amount of installment(s)
+due within 24 (twenty four) months, the entire loan will be classified as ''Bad/Loss''.
+
+Explanation: If any Fixed Term Loan is repayable on monthly installment basis, the amount of
+installment(s) due within 6 months will be equal to the sum of 6 monthly installments. Similarly, if the
+loan is repayable on quarterly installment basis, the amount of installment(s) due within 6 months will be
+equal to the sum of 2 quarterly installments.
+
+The Short-term Agricultural and Micro-Credit will be considered irregular if not repaid within
+the due date as stipulated in the loan agreement. If the said irregular status continues, the credit will be
+classified as 'Substandard ' after a period of 12 months, as 'Doubtful' after a period of 36 months and as
+'Bad/Loss' after a period of 60 months from the stipulated due date as per loan agreement.
+
+(B). Qualitative Judgement:
+
+
+If any uncertainty or doubt arises in respect of recovery of any Continuous Loan, Demand Loan or
+Fixed Term Loan, the same will have to be classified on the basis of qualitative judgement be it
+classifiable or not on the basis of objective criteria. If any situational changes occur in the stipulations in
+terms of which the loan was extended or if the capital of the borrower is impaired due to adverse
+conditions or if the value of the securities decreases or if the recovery of the loan becomes uncertain due
+to any other unfavourable situation, the loan will have to be classified on the basis of qualitative
+judgement .
+
+Besides, if any loan is illogically or repeatedly re-scheduled or the norms of re-scheduling are
+violated or instances of (propensity to) frequently exceeding the loan-limit are noticed or legal action is
+lodged for recovery of the loan or the loan is extended without the approval of the competent authority, it
+will have to be classified on the basis of qualitative judgement .
+
+
+Despite the probability of any loan being affected due to the reasons stated above or for any other
+reasons, if there exists any hope for change of the existing condition by resorting to proper steps, the loan,
+on the basis of qualitative judgement, will be classified as 'Sub-standard '. But even if after resorting to
+proper steps, there exists no certainty of total recovery of the loan, it will be classified as ' Doubtful ' and
+even after exerting the all-out effort, there exists no chance of recovery, it will be classified as ' Bad/Loss '
+on the basis of qualitative judgement.
+The concerned bank will classify on the basis of qualitative judgement and can declassify the
+loans if qualitative improvement does occur.
+
+
+contd............page/05
+
+--- Page 5 ---
+-05-
+
+But if any loan is classified by the Inspection Team of Bangladesh Bank, the same can be
+declassified with the approval of the Board of Directors of the respective bank. However, before placing
+such case to the Board of Directors, the Managing Director/Chief Executive Officer and the respective
+Branch Manager of the bank shall have to certify that the terms and conditions of declassification have
+been duly fulfilled by the borrowers.
+
+The bank will have to inform such declassifications to the Department of Banking Inspection/
+concerned offices of Bangladesh Bank within 15 days of such decision taken by the Board of Directors.
+Bangladesh Bank will examine these matters on case-to-case basis and if any irregularities/deviations is
+detected, necessary legal action will be taken against the concerned officials.
+
+3. Accounting of the interest of classified loans:
+
+If any loan or advance is classified as 'Sub-standard' and 'Doubtful', interest accrued on such loan
+will be credited to Interest Suspense Account, instead of crediting the same to Income Account. In case of
+rescheduled loans the unrealized interest, if any, will be credited to Interest Suspense Account, instead of
+crediting the same to Income Account.
+
+
+As soon as any loan or advance is classified as 'Bad/Loss', charging of interest in the same account
+will cease. In case of filing a law-suit for recovery of such loan, interest for the period till filing of the suit
+can be charged in the loan account in order to file the same for the amount of principal plus interest. But
+interest thus charged in the loan account has to be preserved in the 'Interest Suspense' account. If any
+interest is charged on any 'Bad/Loss' account for any other special reason, the same will be preserved in
+the 'Interest Suspense' account. If classified loan or part of it is recovered i.e., real deposit is effected in
+the loan account, first the interest charged and not charged is to be recovered from the said deposit and the
+principal to be adjusted afterwards.
+
+4. Maintenance of provision:
+
+
+(a) (i) Banks will be required to maintain General Provision in the following way :
+
+(1) @ 1% against all unclassified loans (other than loans under Small Enterprise
+and Consumer Financing and Special Mention Account.)
+
+(2) @ 2% on the unclassified amount for Small Enterprise Financing.
+
+
+(3) @ 5% on the unclassified amount for Consumer Financing whereas it has to
+be maintained @ 2% on the unclassified amount for (i) Housing Finance and
+(ii) Loans for Professionals to set up business under Consumer Financing
+Scheme.
+
+(4) @ 5% on the outstanding amount of loans kept in the 'Special Mention
+Account' after netting off the amount of Interest Suspense.
+
+
+(b) (i) Banks will maintain provision at the following rates in respect of classified
+Continuous, Demand and Fixed Term Loans:
+
+
+
+(1) Sub-standard 20%
+
+
+(2) Doubtful 50%
+
+(3) Bad/Loss 100%
+contd............page/06
+
+--- Page 6 ---
+-06-
+
+(ii) Provision in respect of Short-term Agricultural and Micro-Credits is to be maintained at the
+following rates:
+
+(1) All credits except 'Bad/Loss' (i.e. 'Doubtful', 'Sub-standard', irregular and regular
+credit accounts) : 5%
+
+(2) 'Bad/Loss' : 100%
+
+6. Base for Provision :
+
+Provision will be maintained at the above rate on the balance to be ascertained by
+deducting the amount of 'Interest Suspense' and value of eligible securities from the
+outstanding balance of classified accounts.
+
+7.Eligible Securities :
+
+In the definition of 'Eligible Securities' as mentioned in the above paragraph the
+following securities will be included as eligible securities in determining base for
+provision:
+
+-100% of deposit under lien against the loan
+-100% of the value of government bond/savings certificate under lien.
+-100% of the value of guarantee given by Government or Bangladesh Bank
+
+-100% of the market value of gold or gold ornaments pledged with the bank.
+
+- 50% of the market value of easily marketable commodities kept under control
+of the bank
+
+- Maximum 50% of the market value of land and building mortgaged with the
+bank
+
+- 50% of the average market value for last 06 months or 50% of the face value,
+whichever is less, of the shares traded in stock exchange.
+
+Determination of Market Value of Eligible Securities
+
+
+In determining market value of easily marketable commodities, land and building, banks are
+advised to follow the instructions mentioned below:
+
+(a) Easily marketable goods will mean pledged, easily encashable/saleable goods that remain
+under full control of the bank. However, while the concerned bank branch official will conduct periodic
+inspection to verify as to whether issues such as the suitability of goods for use, expiry period,
+appropriateness of documentary evidences, up to date insurance cover, same will have to be assessed by
+the professional assessor from time to time.
+
+(b) For land and building, banks will have to ensure whether title documents are in order and
+concerned land and building will have to be valued by the professional valuation firm along with
+completion of proper documentation in favour of the bank. In absence of professional valuation firm,
+certificate in favour of such valuation will have to be collected from the specialized engineer.
+Nevertheless, temporary houses including tin-shed structure shall not be shown as building.
+
+contd............page/07
+
+--- Page 7 ---
+-07-
+
+
+(c) In order to facilitate the on-site inspection by our Department of Bank Inspection, banks are
+also advised to maintain complete statement of eligible securities on a separate sheet in the concerned
+loan file. Information such as description of eligible securities, their assessment by recognized firm,
+marketability of the commodity, control of the bank, and reasons for considering eligible securities etc.
+will have to be included in that sheet.
+
+In terms of the above policies, the banks will conduct their classification- activities on quarterly
+basis. In this connection revised forms for loan classification, provisioning and interest suspense i.e CL-1
+to CL-6 have been enclosed herewith which will replace the existing ones.
+CL-1 is the compilation/summary of 5 other forms. This form is for showing summary of
+classification status for different loan categories mentioned earlier along with staff loan.
+(ii)
+CL-2 is for reporting loan classification of Continuous Loan
+(iii)
+CL-3 is for reporting loan classification of Demand Loan
+(iv)
+CL-4 is for reporting loan classification of term loans which are repayable within maximum
+5(five) years.
+CL-5 is for reporting loan classification of term loans of over 5(five) years.
+
+Bank branches shall send the completed forms (CL-1 to CL-6) to their Head Office. The Head
+Offices of banks should make arrangements for scrutiny of all the forms prepared by the branches. Where
+necessary, they should carry out corrections and ensure maintenance of the corrected forms in the records
+of the branch. After scrutiny of all forms (CL-1, CL-2, CL-3, CL-4, CL-5 and CL-6) prepared by branches
+and being satisfied with the results, they should prepare a consolidated position of classification,
+provisions and interest suspense using form CL-1 and send the same to Banking Regulation & Policy
+Department of Bangladesh Bank. Banks are also advised to preserve the CL statements in both their Head
+Offices and branches for inspection by the Bangladesh Bank Inspection Team.
+
+
+
+Banks having Offshore Banking Unit (OBU) will report to Bangladesh Bank in similar way in a
+separate CL-1 named OBU SUMMARY OF LOAN CLASSIFICATION AND PROVISION(enclosed
+herewith) . In this regard, concerned banks will prepare and send data on OBU transactions for A, B and
+C type in separate worksheets along with the consolidated statement through the said separate CL-1
+named OBU SUMMARY OF LOAN CLASSIFICATION AND PROVISION to the Banking
+Regulation and Policy Department and CIB of Bangladesh Bank.
+
+
+
+
+10.
+Banks are advised to submit detailed statements through CL-1 in respect of classification,
+provision and interest suspense accounts within 30 days from the reference date and ensure correct and
+timely submission of CL-1 failing to which Penalty may be imposed on the concerned non compliant
+bank.
+
+
+
+11.
+Banks shall submit the consolidated quarterly statement on revised CL-1 format starting from the
+quarter ended June, 2006.
+
+
+
+Please acknowledge receipt.
+Yours sincerely,
+
+Enclo : 7(seven)
+(Naba Gopal Banik)
+General Manager
+Phone : 7117825
+
+--- Page 8 ---
+Stamp of Branch Serial No. (As provided by Bangladesh Bank)........
+Standard
+SMA
+SS
+DF
+B/L
+UC
+(Standard)
+(if any)
+SMA
+Classified
+A/Cs
+Total
+10
+11
+12
+13
+14
+15
+16
+Continuous Loan(CL-2)
+І) Small Enterprise Financing(SEF)
+II) Consumer Financing(CF)
+ІІI) Other than SEF & CF
+Sub-total of І, ІІ & III
+Demand Loans(CL-3)
+І) Small Enterprise Financing(SEF)
+II) Consumer Financing(CF)
+ІІI) Other than SEF & CF
+Sub-total of І, ІІ & III
+Term Loan upto 5 years (CL-4)
+І) Small Enterprise Financing(SEF)
+ІI) Consumer Financing(Other than HF& LP)
+ІІI) Housing Finance (HF)
+ІV) Loans for Professionals to setup business(LP)
+V) Others
+Sub-total of І, ІІ, ІІІ, ІV & V
+Term Loan over 5 years (CL-5)
+І) Small Enterprise Financing(SEF)
+ІI) Consumer Financing(Other than HF& LP)
+ІІI) Housing Finance (HF)
+ІV) Loans for Professionals to setup business(LP)
+V) Others
+Sub-total of І, ІІ, ІІІ, ІV & V
+Short Term Agri. credit and Microcredit (CL-6):
+І) Short Term Agri. credit
+ІІ) Microcredit
+Sub-Total of І & ІІ
+Sub-total(1+2+3+4+5)
+Staff Loan
+Grand-Total
+CHECK LIST
+RATE OF PROVISION
+Form No.
+No.of Pages
+Form No.
+No.of Pages
+CL-2
+CL-5
+Other
+than
+HF &
+HF
+LP
+CL-3
+CL-6
+Standard
+CL-4
+SMA
+SS
+20%
+20%
+20%
+20%
+20%
+DF
+50%
+50%
+50%
+50%
+50%
+B/L
+100%
+100%
+100%
+100%
+100%
+100%
+CL-1 BRANCH SUMMARY OF LOAN CLASSIFICATION AND PROVISION AS OF --------- Ref :BRPD Circular No. 05/2006
+BANK NAME:
+BRANCH NAME:
+(taka in thousand)
+SL.
+NO.
+Categories of Loans
+Total
+Balance Outstanding
+Base for provision
+Amount of
+provision
+required
+Interest suspense on
+Unclassified(UC)
+Classified
+SMA
+SS
+DF
+B/L
+AMOUNT OF ACTUAL PROVISION (taka in thousand)……………..
+Particulars
+Short
+Term
+Agri.
+credit
+Consumer Financing
+Small
+Enterprise
+Financing
+All other
+credit
+UC
+Classified
+N.B. CF►CONSUMER FINANCING, HF►HOUSING FINANCE, LP►LOANS FOR PROFESSIONALS TO SETUP BUSINESS, SMA►SPECIAL MENTION ACCOUNT, SS►SUBSTANDARD, DF►DOUBTFUL, B/L►BAD/LOSS
+
+--- Page 9 ---
+Objective
+Criteria
+Qualitative Judgement
+10
+11
+Total
+Standard
+SMA
+Substandard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+UC
+(Standard)
+(if any)
+SMA
+Classified A/Cs
+Total
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Total
+Ref: BRPD Circular No. 05/2006
+CL-2
+RETURNS FOR CLASSIFICATION OF CONTINIOUS LOANS AS OF…………
+Page No.
+Period of arrears
+(in Months)
+(Ref. Date - Col.8)
+Bank Name:
+BRANCH NAME:
+Stamp of Branch Serial No………..
+(As Provided by Bangladesh Bank)
+Preliminary status of classification
+(amount in taka)
+SL.
+No.
+Name of
+borrower
+Nature of
+Loans and
+Advances
+Loan
+identification
+No
+Date of
+sanction/ last
+renewal/
+rescheduling
+(if any)
+DD MM YY
+Amount
+sanctioned/
+renewed/
+rescheduled
+(if any)
+Balance
+Outstanding as
+of reference
+date
+Date of
+expiry
+DD MM YY
+Final Classification
+12
+13
+SL No
+Amount
+Cumulative interest suspense as of reference date
+Value of eligible securities
+(in nearest Taka)
+Base for Provision for
+Remarks
+Unclassified(UC)
+Classified
+SMA
+Col.(15-20)
+Substandard
+(SS)
+Col.(16-21-23)
+Doubtful
+(DF)
+Col.(17-21-23)
+Bad/Loss
+(B/L)
+Col.(18-21-23)
+Classification Status
+Basis for classification
+
+--- Page 10 ---
+Objective
+Criteria
+Qualitative Judgement
+10
+11
+Total
+Standard
+SMA
+Substandard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+UC
+(Standard)
+(if any)
+SMA
+Classified A/Cs
+Total
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Total
+Ref: BRPD Circular No. 05/2006
+CL-3
+RETURNS FOR CLASSIFICATION OF DEMAND LOANS AS OF…………
+Page No.
+Bank Name:
+BRANCH NAME:
+Stamp of Branch Serial No………..
+(As Provided by Bangladesh Bank)
+(amount in taka)
+SL.
+No.
+Name of
+borrower
+Nature of
+Loans and
+Advances
+Loan
+identification
+No
+Date of
+sanction/
+rescheduling
+(if any)
+DD MM YY
+Amount
+Disbursed/
+rescheduled
+(if any)
+Balance
+Outstanding as
+of reference
+date
+Claim Date
+DD MM YY
+Period of arrears
+(in Months)
+(Ref. Date - Col.8)
+Preliminary status of classification
+Final Classification
+Classification Status
+Basis for classification
+12
+13
+SL No
+Amount
+Cumulative interest suspense as of reference date
+Value of eligible securities
+(in nearest Taka)
+Base for Provision for
+Remarks
+Unclassified(UC)
+Classified
+SMA
+Col.(15-20)
+Substandard
+(SS)
+Col.(16-21-23)
+Doubtful
+(DF)
+Col.(17-21-23)
+Bad/Loss
+(B/L)
+Col.(18-21-23)
+
+--- Page 11 ---
+Objective
+criteria
+Qualitative
+Judgement
+Classification
+status
+Basis for
+classification
+11
+12
+13
+14
+15
+16
+17
+18
+Total
+SMA
+Substandard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+UC
+(Standard)
+(if any)
+SMA
+Total
+20
+21
+22
+23
+24
+25
+27
+28
+29
+30
+31
+32
+Total
+Note
+Ref: BRPD Circular No. 05/2006
+CL-4
+RETURNS FOR CLASSIFICATION OF TERM LOANS AND ADVANCES(UPTO 5 YEARS) AS OF………
+BANK NAME:
+BRANCH NAME:
+Stamp of Branch Serial No………..
+Page No.
+(As Provided by Bangladesh Bank)
+(amount in taka)
+SL.
+No.
+Name of
+borrower
+Nature of
+facilities
+Loan
+identification
+No
+Date of
+sanction/ last
+rescheduling
+DD MM YY
+Principal
+Amount/
+rescheduled
+amount
+Balance
+Outstanding as
+of reference
+date
+Installment
+Period of
+Arrears
+(in months)
+(col.11-col.13)
+Preliminary status of
+classification
+Final Classification
+Size
+Frequency
+Date of 1st Repayment Due
+Period Since 1st
+Repayment Due
+(Ref. date-col.10)
+(in months)
+Amount paid
+since
+sanctioning /
+last
+rescheduling
+Time equivalent
+of amount paid
+(in months)
+10
+SL.
+No
+Amount
+Cumulative interest suspense as of reference date
+Value of eligible
+securities
+(in nearest Taka)
+Base for Provision for
+Remarks
+Unclassified (UC)
+Classified
+SMA
+(Col.20-25)
+Substandard
+(SS)
+(Col.21-26-28)
+Doubtful
+(DF)
+(Col.22-26-28)
+Bad/Loss
+(B/L)
+(Col.23-26-28)
+Standard
+Classified A/Cs
+19
+26
+33
+Col.9= Installment Frequency in months
+Col.13= Col.12 x Col. 9
+col.8
+
+--- Page 12 ---
+Objective
+criteria
+Qualitative
+Judgement
+Classification
+status
+Basis for
+classification
+11
+12
+13
+14
+15
+16
+17
+18
+Total
+SMA
+Substandard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+UC
+(Standard)
+(if any)
+SMA
+Total
+20
+21
+22
+23
+24
+25
+27
+28
+29
+30
+31
+32
+Total
+Note
+Ref: BRPD Circular No. 05/2006
+CL-5
+RETURNS FOR CLASSIFICATION OF TERM LOANS AND ADVANCES (FOR MORE THAN 5 YEARS) AS OF………
+BANK NAME:
+BRANCH NAME:
+Stamp of Branch Serial No………..
+Page No.
+(As Provided by Bangladesh Bank)
+(amount in taka)
+SL.
+No.
+Name of
+borrower
+Nature of
+facilities
+Loan
+identification
+No
+Date of
+sanction/ last
+rescheduling
+DD MM YY
+Principal
+Amount/
+rescheduled
+amount
+Balance
+Outstanding as
+of reference
+date
+Installment
+Date of 1st Repayment Due
+Period Since 1st
+Repayment Due
+(Ref. date-col.10)
+(in months)
+Amount paid
+since
+sanctioning /
+last
+rescheduling
+Size
+Frequency
+Time equivalent
+of amount paid
+(in months)
+Period of
+Arrears
+(in months)
+(col.11-col.13)
+Preliminary status of
+classification
+Final Classification
+10
+Bad/Loss
+(B/L)
+(Col.23-26-28)
+Standard
+Classified A/Cs
+SL.
+No
+Amount
+Cumulative interest suspense as of reference date
+Value of eligible
+securities
+(in nearest Taka)
+33
+Base for Provision for
+Remarks
+Unclassified (UC)
+Classified
+SMA
+(Col.20-25)
+Substandard
+(SS)
+(Col.21-26-28)
+Doubtful
+(DF)
+(Col.22-26-28)
+Col.13= Col.12 x Col. 9
+col.8
+Col.9= Installment Frequency in months
+19
+26
+
+--- Page 13 ---
+Stamp of Branch Serial No………..
+(As Provided by Bangladesh Bank)
+10
+11
+12
+13
+14
+15
+16
+17
+
+Total
+CL-6
+Ref: BRPD Circular No. 05/2006
+RETURN FOR CLASSIFICATION OF SHORT TERM AGRICULTURAL CREDIT (STAC) & MICROCREDIT(MC) AS OF …..
+Bank Name:
+BRANCH NAME:
+Page no.
+I. Short Term Agri. Credit II. Microcredit
+(amount in taka)
+SL.
+NO.
+Loan
+Identification
+No.
+Date of
+sanction/last
+rescheduling
+DD MM YY
+
+Principal
+Amount/
+Rescheduled
+amount
+Due Date
+DD MM YY
+Period of Arrears
+(in Months)
+(Ref. Date- Col. 5)
+Balance Outstanding
+Interest Suspense
+Base for Provision for
+Unclassified
+Classified
+Substandard
+(SS)
+(Col.8-12-14)
+Doubtful
+(DF)
+(Col.9-12-14)
+Bad/Loss
+(B/L)
+(Col.10-12-14)
+Substandard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+UC
+(if any)
+Classified
+A/Cs
+Total
+Value of eligible
+securities
+(in nearest Taka)
+
+--- Page 14 ---
+Stamp of Branch Serial No. (As provided by Bangladesh Bank)........
+Standard
+SMA
+SS
+DF
+B/L
+UC
+(Standard)
+(if any)
+SMA
+Classified
+A/Cs
+Total
+10
+11
+12
+13
+14
+15
+16
+Continuous Loan(CL-2)
+І) Small Enterprise Financing(SEF)
+II) Consumer Financing(CF)
+ІІI) Other than SEF & CF
+Sub-total of І, ІІ & III
+Demand Loans(CL-3)
+І) Small Enterprise Financing(SEF)
+II) Consumer Financing(CF)
+ІІI) Other than SEF & CF
+Sub-total of І, ІІ & III
+Term Loan upto 5 years (CL-4)
+І) Small Enterprise Financing(SEF)
+ІI) Consumer Financing(Other than HF& LP)
+ІІI) Housing Finance (HF)
+ІV) Loans for Professionals to setup business(LP)
+V) Others
+Sub-total of І, ІІ, ІІІ, ІV & V
+Term Loan over 5 years (CL-5)
+І) Small Enterprise Financing(SEF)
+ІI) Consumer Financing(Other than HF& LP)
+ІІI) Housing Finance (HF)
+ІV) Loans for Professionals to setup business(LP)
+V) Others
+Sub-total of І, ІІ, ІІІ, ІV & V
+Short Term Agri. credit and Microcredit (CL-6):
+І) Short Term Agri. credit
+ІІ) Microcredit
+Sub-Total of І & ІІ
+Sub-total(1+2+3+4+5)
+Staff Loan
+Grand-Total
+CHECK LIST
+RATE OF PROVISION
+Form No.
+No.of Pages
+Form No.
+No.of Pages
+CL-2
+CL-5
+Other
+than
+HF &
+LP
+HF
+LP
+CL-3
+CL-6
+Standard
+CL-4
+SMA
+SS
+20%
+20%
+20%
+20%
+20%
+DF
+50%
+50%
+50%
+50%
+50%
+B/L
+100%
+100%
+100%
+100%
+100%
+100%
+CL-1 OBU SUMMARY OF LOAN CLASSIFICATION AND PROVISION AS OF --------- Ref :BRPD Circular No. 05/2006
+BANK NAME:
+BRANCH NAME:
+(taka in thousand)
+SL.
+NO.
+Categories of Loans
+Total
+Balance Outstanding
+Base for provision
+Amount of
+provision
+required
+Interest suspense on
+All other
+credit
+Unclassified(UC)
+Classified
+SMA
+SS
+UC
+Classified
+N.B. CF►CONSUMER FINANCING, HF►HOUSING FINANCE, LP►LOANS FOR PROFESSIONALS TO SETUP BUSINESS, SMA►SPECIAL MENTION ACCOUNT, SS►SUBSTANDARD, DF►DOUBTFUL, B/L►BAD/LOSS
+DF
+B/L
+AMOUNT OF ACTUAL PROVISION (taka in thousand)……………..
+Particulars
+Short
+Term
+Agri.
+credit
+and
+Consumer Financing
+Small
+Enterprise
+Financing

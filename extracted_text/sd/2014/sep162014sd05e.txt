@@ -1,0 +1,148 @@
+--- Page 1 ---
+Statistics Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+St.d. Circular no:05 Date:16/09/2014
+
+All Authorized Dealers of
+Foreign Exchange in Bangladesh
+
+
+Dear Sirs,
+Allocation of new codes regarding Invisible Receipts (Code-5) and Invisible Payments
+(Code-7) for reporting foreign exchange transactions as per the guideline titled
+“Code list for reporting of external sector transactions by the authorized dealers”
+(2012-edition)
+
+In order to facilitate separate reporting for Receipts / deposits from abroad in F. Cy accounts of
+foreign nationals residing in Bangladesh and Payments against Maintenance services of
+telecommunication , Vendor or any other supervision Charges or fees, Maintenance services of
+machineries & equipments etc., new codes have been allocated in the chapter Invisible Receipts
+(Code-5) and Invisible Payments (Code-7) as per the guideline titled “Code list for reporting of
+external sector transactions by the authorized dealers” (2012-edition).
+All ADs have been requested to report to Bangladesh Bank as per allocated new codes
+(Annexure-A, Annexure-B).
+Please bring the contents of this circular to the notice of all concerned.
+
+Enclosure: As stated
+Yours faithfully’
+
+
+
+
+Md. Mohib Ullah Miah
+Deputy General Manager
+Phone:9530087
+
+--- Page 2 ---
+Annexure-A
+INVISIBLE RECEIPTS
+Code-5
+Code No.
+Purpose
+Explanatory Notes
+Comment
+51
+Financial corporations,
+non-financial corporations,
+households and Nonprofit
+Institution Serving
+Households ( NPISHs)
+
+
+511
+Personal Transfers
+
+
+5110
+Personal transfers other
+than workers' remittances.
+
+Existing code
+5111
+Receipts from Non-resident
+Bangladeshi (NRB)
+through Money Changers'
+
+Existing code
+5112
+Receipts/ deposits from
+abroad in F. Cy accounts
+of foreign nationals
+residing in Bangladesh.
+Receipts/ deposits from abroad in F. Cy
+accounts of foreign nationals residing in
+Bangladesh as per salaries or others
+New code
+
+
+
+
+Annexure-B
+INVISIBLE PAYMENTS
+Code-7
+Code
+No.
+Purpose
+Explanatory Notes
+Comment
+20
+Telecommunications
+
+
+201
+Telecommunication Services
+
+
+2010
+Telecommunication services
+
+Existing code
+2011
+Maintenance services of
+telecommunication
+Payments to abroad against maintenance
+services of telecommunication network
+/machineries equipments etc ( Excluded are
+installation services for telephone network
+equipment which are included in
+construction services and transportation ,
+computer maintenance and machineries
+equipments of mills, plants, factories, etc.)
+New code
+27
+Other business services
+
+
+273
+Misc. Business
+professional and
+management consulting
+services, and Technical
+Services
+
+
+2738
+Vendor or any other
+supervision Charges or
+fees
+Payments to abroad against vendor or
+any other supervision Charges or fees ,
+inspection fees etc.(excluding Pre-
+shipment inspection fees – code: 2712
+and vendor fees or charge of software-
+code: 2410)
+New code
+2739
+Maintenance services of
+machineries equipments
+etc
+Payments to abroad against
+maintenance cost of machineries
+equipments of mills, plants, factories,
+etc. (excluding transportation,
+telecommunication and computer
+maintenance services.)
+New code

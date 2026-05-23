@@ -1,0 +1,274 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+Statistics Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+St.D. Circular No. 04
+
+Date:
+May 15, 2014
+
+Joishtho 1, 1421
+Managing Director/Chief Executive Officer
+All scheduled banks functioning in Bangladesh
+
+
+Dear Sir,
+Submission of E-banking and E-commerce return through RIT
+
+Statistics Department of Bangladesh Bank collects data from the financial and non-financial
+institutions and compiles the data and prepares some important macro-economic indicators regularly.
+The monthly booklet “Monthly Economic Trends” compiled and published by the Department which
+comprises very useful information are used in formulation of monetary policy of the country and are
+also used by users with high demand for analytical purpose. Presently with the help of prevailing
+internet and modern information technologies banks and other financial institutions have extended
+their E-commerce and E-banking business in addition to their traditional banking which are greatly
+contributing to the green banking as well as our economy. This Department has taken decision to
+collect and compile this data with a view to publish it in the booklet “Monthly Economic Trends”. As
+per decision taken by the bank, you are requested to send quarterly E-banking and E-commerce
+return through RIT regularly from June, 2014 to this department (through BB web portal) by 15th of
+the month following the quarter to which it relates. It is to be mentioned here that the RIT
+(T_ME_M_EBANKING_ECOMMERCE) related to this return can be downloaded from Bangladesh
+Bank website or it also can be collected from the Economic Trends Section of this Department.
+
+Please acknowledge the receipt.
+
+Yours faithfully,
+
+Enclosure: RIT (T_ME_M_EBANKING_ECOMMERCE)
+
+(Nabadwip Chandra Biswas)
+Deputy General Manager
+Phone: 9530348
+
+--- Page 2 ---
+BEG
+1 M
+T_ME_M_EBANKING_ECOMMERCE
+DATE
+FI NAME
+PRODUCT
+TYPE
+No. of
+Transactions/
+AMOUNT
+30-Jun-2014 AB BANK LTD.
+Cheque Clearing - MICR Clearing
+Number of Transactions
+100
+30-Jun-2014 AB BANK LTD.
+Cheque Clearing - MICR Clearing
+Amount (BDT)
+200000.00
+30-Jun-2014 AB BANK LTD.
+Cheque Clearing - Non-MICR Clearing
+Number of Transactions
+50
+30-Jun-2014 AB BANK LTD.
+Cheque Clearing - Non-MICR Clearing
+Amount (BDT)
+10000.00
+30-Jun-2014 AB BANK LTD.
+Retail Electronic Clearing - Electronic Fund Transfer (Outward)
+Number of Transactions
+5000
+30-Jun-2014 AB BANK LTD.
+Retail Electronic Clearing - Electronic Fund Transfer (Outward)
+Amount (BDT)
+5000000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - Usage at ATMs - Local Transactions (issuing)
+Number of Transactions
+200
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - Usage at ATMs - Local Transactions (issuing)
+Amount (BDT)
+300000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - Usage at ATMs - Abroad Transactions (Issuing)
+Number of Transactions
+20
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - Usage at ATMs - Abroad Transactions (Issuing)
+Amount (BDT)
+50000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - Usage at POS - Local Transactions (issuing)
+Number of Transactions
+40
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - Usage at POS - Local Transactions (issuing)
+Amount (BDT)
+40000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - Usage at POS - Abroad Transactions (Issuing)
+Number of Transactions
+30
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - Usage at POS - Abroad Transactions (Issuing)
+Amount (BDT)
+60000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - E-Commerce - Local Transactions (issuing)
+Number of Transactions
+10
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - E-Commerce - Local Transactions (issuing)
+Amount (BDT)
+10000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - E-Commerce - Abroad Transactions (Issuing)
+Number of Transactions
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - E-Commerce - Abroad Transactions (Issuing)
+Amount (BDT)
+5000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Credit Cards - Outstanding
+Amount (BDT)
+7500000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - Usage at ATMs - Local Transactions (issuing)
+Number of Transactions
+500
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - Usage at ATMs - Local Transactions (issuing)
+Amount (BDT)
+9000000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - Usage at ATMs - Abroad Transactions (Issuing)
+Number of Transactions
+60
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - Usage at ATMs - Abroad Transactions (Issuing)
+Amount (BDT)
+800000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - Usage at POS - Local Transactions (issuing)
+Number of Transactions
+2000
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - Usage at POS - Local Transactions (issuing)
+Amount (BDT)
+5200000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - Usage at POS - Abroad Transactions (Issuing)
+Number of Transactions
+40
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - Usage at POS - Abroad Transactions (Issuing)
+Amount (BDT)
+80000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - E-Commerce - Local Transactions (issuing)
+Number of Transactions
+80
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - E-Commerce - Local Transactions (issuing)
+Amount (BDT)
+90000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - E-Commerce - Abroad Transactions (Issuing)
+Number of Transactions
+50
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Debit Cards - E-Commerce - Abroad Transactions (Issuing)
+Amount (BDT)
+450000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Prepaid Card - Local Transactions (issuing)
+Number of Transactions
+45
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Prepaid Card - Local Transactions (issuing)
+Amount (BDT)
+7200000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Prepaid Card - Abroad Transactions (issuing)
+Number of Transactions
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Prepaid Card - Abroad Transactions (issuing)
+Amount (BDT)
+900000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Internationally Issued Cards Transactions - ATM Transactions (Acquring)
+Number of Transactions
+45
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Internationally Issued Cards Transactions - ATM Transactions (Acquring)
+Amount (BDT)
+630000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Internationally Issued Cards Transactions - POS Transactions (Acquring)
+Number of Transactions
+50
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Internationally Issued Cards Transactions - POS Transactions (Acquring)
+Amount (BDT)
+780000.00
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Internationally Issued Cards Transactions - E-Commerce Transactions (Acquring)
+Number of Transactions
+54
+30-Jun-2014 AB BANK LTD.
+Cards Transactions - Internationally Issued Cards Transactions - E-Commerce Transactions (Acquring)
+Amount (BDT)
+6500000.00
+30-Jun-2014 AB BANK LTD.
+Number of Credit Cards (net)
+Number
+500000.00
+30-Jun-2014 AB BANK LTD.
+Number of Debit Cards (net)
+Number
+60000000.00
+30-Jun-2014 AB BANK LTD.
+Number of Prepaid Cards
+Number
+80000.00
+30-Jun-2014 AB BANK LTD.
+Mobile Banking - Number of Agents
+Number
+1000.00
+30-Jun-2014 AB BANK LTD.
+Mobile Baking - Transactions
+Number of Transactions
+4500
+30-Jun-2014 AB BANK LTD.
+Mobile Baking - Transactions
+Amount (BDT)
+750000.00
+30-Jun-2014 AB BANK LTD.
+Mobile Banking - Number of Subscribers
+Number
+6300.00
+30-Jun-2014 AB BANK LTD.
+Agent Banking - Number of Agents
+Number
+50.00
+30-Jun-2014 AB BANK LTD.
+Agent Banking - Transactions
+Number of Transactions
+2500
+30-Jun-2014 AB BANK LTD.
+Agent Banking - Transactions
+Amount (BDT)
+850000.00
+30-Jun-2014 AB BANK LTD.
+Agent Banking - Number of Subscribers
+Number
+6000.00
+30-Jun-2014 AB BANK LTD.
+Number of ATMs (in actuals)
+Number
+5000.00
+30-Jun-2014 AB BANK LTD.
+Number of POS (in actuals)
+Number
+2000.00
+30-Jun-2014 AB BANK LTD.
+Internet Banking - Number of Customers
+Number
+3000.00

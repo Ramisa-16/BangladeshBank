@@ -1,0 +1,68 @@
+--- Page 1 ---
+www.bangladeshbank.org.bd
+www.bb.org.bd
+
+Payment Systems Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+
+
+
+PSD Circular No: 01 /2016
+
+
+
+
+
+14 February 2016
+Date -------------------
+
+
+
+
+
+
+
+
+
+02 Falgun, 1422
+
+
+
+
+
+
+Managing Director/ Chief Executive Officer
+All Schedule Banks Of Bangladesh
+
+Dear Sir,
+Banks’ responsibilities to ensure security in ATM transactions.
+
+Recently it has been observed that, money from customers’ accounts has been withdrawn from ATM booths
+through fraudulent transactions by collecting card information and PIN numbers through card skimming. It
+appears that such kind of frauds were possible to prevent by complying the instructions of PSD circular no.-
+03/2013, issued on 05 September, 2013; review of CCTV footage of ATM booths regularly and installation
+of anti-skimming device might also be useful to prevent card skimmings. Under this circumstance, banks are
+advised to take the following initiatives including the fulfillment of instructions laid down in PSD circular
+no.-03/2013:
+1. Mandatorily, new ATM booths should have anti skimming and PIN shield devices. Anti skimming
+and PIN shield devices should be installed in the existing ATM booths within one month.
+2. Video footage of ATM booths should be reviewed regularly and effective steps should be taken for
+anything suspicious.
+3. Customer cards information and PIN numbers which seems to be captured/stolen should be voided
+and reissued immediately in case of own bank’s cards. If the customer is of other bank, concern card
+issuing bank should be informed immediately requesting to do the same. Such suspicious video
+footage should be sent to law enforcement agencies requesting for necessary action.
+4. A monthly inspection report should be submitted to Payment Systems Department of Bangladesh
+Bank after conducting regular examination in ATM booths on random basis.
+5. Guards of ATM booths must be provided necessary training on measures to repel fraud. Moreover,
+guards must be cautious about the customers wearing cap, sun glasses and carring bags.
+6. Automatic SMS alert should be sent for every transaction instantly at the time of withdrawl of
+money from ATM booths.
+
+
+(Md. Eskandar Miah)
+General Manager
+Phone: 9530174

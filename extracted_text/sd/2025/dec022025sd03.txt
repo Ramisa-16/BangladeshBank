@@ -1,0 +1,1799 @@
+--- Page 1 ---
+পরিসংখ্যান বিভাগ
+
+পরিসংখ্যান বিভাগ সার্কুলার নং- ০৩ ১৭ BARAT ১৪৩২
+তারিখ: ---------------------
+
+ব্যবস্থাপনা পরিচালক/ প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে SATS সকল তফসিলি ব্যাংক
+
+Wage Earners’ Remittance Cost হিসাবায়ন সংক্রান্ত তথ্যাদি Rationalised Input Template (RIT)
+এর মাধ্যমে দৈনিক ভিত্তিতে পোর্টালে আপলোড প্রসঙ্গে |
+
+অত্র বিভাগের স্পেশাল স্টাডিজ এন্ড প্রজেক্ট উপ-বিভাগ কর্তৃক দেশে রেমিট্যান্স প্রবাহ বৃদ্ধির স্বার্থে এবং SDGs এর Target
+10.c বাস্তবায়নে অত্র বিভাগ রেমিট্যান্স প্রেরণ ব্যয়ের তথ্য/উপাত্ত mae ও হিসাবায়ন করছে। উল্লিখিত বিষয়ে সংশোধিত RIT
+(T_ME_D_REMITTANCE_COST) এর মাধ্যমে বাংলাদেশ ব্যাংকের ওয়েব পোর্টালে এ ১লা জানুয়ারি, ২০২৬ হতে
+নিয়মিতভাবে দৈনিক ভিত্তিক Wage Earners Remittance প্রেরণ ব্যয় সংক্রান্ত প্রতিটি লেনদেনের তথ্যাদি সংগ্রহ করার বিষয়ে সিদ্ধান্ত
+
+গৃহীত হয়েছে।
+
+এক্ষণে, এতদলক্ষ্যে নিন্োক্ত নির্দেশনাসমূহ পরিপালনের জন্য আপনাদেরকে পরামর্শ প্রদান করা যাচ্ছেঃ
+
+>1 Exchange House সমূহের Cost Chart অনুযায়ী Wage Earners Remittance প্রেরণ ব্যয় সংক্রান্ত প্রতিটি
+লেনদেনের তথ্য/উপাত্ত রিপোর্ট করার প্রয়োজনীয় ব্যবস্থা গ্রহণ করতে VC |
+
+২। প্রতিদিনের তথ্য/উপাত্ত পরবর্তী কর্মদিবসে দুপুর ১২.০০ ঘটিকার মধ্যে T_ME_D_REMITTANCE_COST এর
+মাধ্যমে ereturns.bb.org.bd ওয়েব পোর্টালে Upload করতে হবে |
+
+© 1 Exchange House এর তালিকা হালনাগাদ সংক্রান্ত বিষয়ে নিয়মিতভাবে অত্র বিভাগকে অবহিত করতে হবে |
+
+৪ । এ নির্দেশনা ১লা জানুয়ারী, ২০২৬ থেকে কার্যকর হবে |
+
+উদ্ধতন কর্তৃপক্ষের অনুমোদনক্রমে এ সার্কুলার জারি করা হলো।
+
+সংযুক্তি-১৪1০10101915
+23 List of exchange house
+আপনার বিশ্বস্ত,
+
+(মোঃ হাবিবুর রহমান)
+পরিচালক (পরিসংখ্যান)
+ফোন- ৯৫৩০১
+
+--- Page 2 ---
+Annexure-1
+
+RIT (T_ME_D_REMITTANCE_COST )
+Date
+Bank
+Source Country
+Firm
+Firm Type
+Access point
+Payment instrument
+Receiving method
+Remittance amount
+(BDT)
+Incentive Amount
+Conversion rate (BDT
+to USD)
+Remittance_amount
+(USD)
+Paid currency
+Remittance fee
+Applied Tax/VAT on
+sending remittance
+Other cost (BDT)
+Total Remittance Cost
+(BDT)
+Total remittance cost
+(USD)
+(3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (16) (17)
+(18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Variables
+Explanation
+Example
+Date
+Previous day of reporting period
+Date Format-MM/DD/YYYY; 12/15/2025
+Bank
+Bank code with bank name
+
+Source/
+Country
+Source Country where wage is generated
+
+Firm
+Remittance service provider offering the
+service
+Western Union, Al Razi Bank etc.
+Firm Type
+Type of remittance service provider offering
+the service
+MTO-1001, Bank-1002, Post office-1003,
+Mobile Operation-1004, Default-9999
+Access
+Point
+Banks, agents, Internet, mobile banking, other,
+the place where the remitter starts the
+remittance transactions
+Banks-1001, Agents-1002, Internet-1003,
+Mobile Banking/Mobile Apps-1004,
+Other-8888, Default-9999
+Payment
+Instrument
+Debit card, credit card, Cash and bank account,
+other payment instrument offered through that
+access point
+Bank Account-1001,Cash-1002, Credit
+Card-1003, Debit Card-1004,Default-9999
+Receiving
+Method
+Bank account or cash or mobile wallet, the
+way beneficiary receives the remittance
+Bank Account-1001,Cash-1002, Mobile
+Wallet-1003, Default-9999
+Remittance
+amount
+Amount to be send
+
+Remittance
+fee
+Exchange house/foreign banks charge to send
+remittance
+
+Applied
+Tax/VAT
+VAT/ taxes imposed on sending fees
+
+Paid
+Currency
+The currency in which remitter remits the fund
+USD, GBP, Saudi Riyal etc.
+
+--- Page 3 ---
+Annexure-2
+List of Exchange Houses
+
+Serial No.
+Country of Origin
+Name of Exchange House
+Code
+Australia
+Agrani Exch.Company (Australia) Pty.Ltd.
+036001
+Australia
+Aussie Forex & Finance Pty Ltd.
+036002
+Australia
+Fast Remit Exchange House
+036003
+Australia
+Instarem PTE
+036004
+Australia
+I-Pay
+036005
+Australia
+PFG Forex Pty Ltd.
+036006
+Australia
+Prime Forex PTY Ltd.
+036007
+Australia
+SAFKHAN INTL GROUP
+036008
+Australia
+SBX Money Pty Limited
+036009
+10
+Australia
+SHARP REMIT PTY LTD
+036010
+11
+Australia
+Smart Money Transfer
+036011
+12
+Australia
+Transcash International Pty. Ltd
+036012
+13
+Australia
+World Services Online Pty Ltd
+036013
+14
+Australia
+QuiqSend
+036014
+15
+Australia
+Veloxpays Pty Ltd
+036015
+16
+Bahrain
+Bahrain Financing Co. Bahrain
+048001
+17
+Bahrain
+Bahrain India Intl. Exchange, Bahrain
+048002
+18
+Bahrain
+BFC Bank Limited, Bahrain
+048003
+19
+Bahrain
+BFC Ez Remit
+048004
+20
+Bahrain
+Dalil Exchange, Bahrain
+048005
+21
+Bahrain
+Lulu International Exchange BSC, Bahrain
+048006
+22
+Bahrain
+Modern Ex. Co., Bahrain
+048007
+23
+Bahrain
+National Financing And Exchange Co. Bahrain
+048008
+24
+Bahrain
+NEC B.S.C., Bahrain
+048009
+25
+Bahrain
+Nonoo Exchange Co.
+048010
+26
+Bahrain
+TURBO CASH
+048011
+27
+Bahrain
+Zenj Exchange Co. Bahrain
+048012
+28
+Bahrain
+Zenj Exchange Co. W.L.L. Bahrain
+048013
+29
+Belgium
+HomeSend SCRL
+056001
+30
+Brunei
+Afima Express
+096001
+31
+Brunei
+K & H Remittance Services, Brunei
+096002
+32
+Brunei
+Boza Remittance
+096003
+33
+Canada
+Agrani Remittance House CANADA Inc.
+124001
+34
+Canada
+Alertpay
+124002
+35
+Canada
+Asia Pacific Foreign Exchange
+124003
+36
+Canada
+Deshi Foreign Exchange
+124004
+37
+Canada
+East Bengal Exchange Co.
+124005
+38
+Canada
+Exim Exchange Company (Canada) Ltd
+124006
+39
+Canada
+Habib Canadian Bank
+124007
+
+--- Page 4 ---
+40
+Canada
+Payza. Com
+124008
+41
+Canada
+U Remit International Corporation, Canada
+124009
+42
+Canada
+U-Remit
+124010
+43
+Canada
+Wall Street Finance LLC
+124011
+44
+Canada
+AF GLOBAL PAYMENT TECHNOLOGIES INC.
+124012
+45
+Canada
+Simpaisa Ca Ltd
+124013
+46
+Cyprus
+Masari Payment Services Limited
+196001
+47
+France
+Tempo France S.A.S.
+250001
+48
+France
+Western Union Network, France
+250002
+49
+Georgia
+Intel Express Georgia
+268001
+50
+Georgia
+JSC MFI Intel Express (Intel Express)
+268002
+51
+Global
+Bangladeh P.Office
+999001
+52
+Global
+Continental Ex. Solutions, Inc Dba Ria Financial Serivices
+999002
+53
+Global
+Moneygram Payment System inc.
+999003
+54
+Global
+X Press Money (UAE Exchange) LLC, Global
+999004
+55
+Global
+Dandelion Payments, Inc Dba Ria Financial Serivices
+999005
+56
+Greece
+NBL Money Transfer Payment Foundation S.A
+300001
+57
+Greece
+Worldlink Payment Foundation SA
+300002
+58
+Hongkong
+Orient Exchange Company (HK) Limited
+344001
+59
+Hongkong
+SMA
+344002
+60
+Hong Kong
+EMQ Limited
+344003
+61
+Hong Kong
+City Foreign Exchange Limited, Hong Kong
+344004
+62
+Italy
+Commex SRILANKA S.R.L
+380001
+63
+Italy
+First Security Islami Exchange Italy S.r.l.
+380002
+64
+Italy
+National Exchange Company, Italy
+380003
+65
+Italy
+NEC MONEY TRANSFER
+380004
+66
+Italy
+Uni Credito Italiano
+380005
+67
+Italy
+Valutrans Spa Money Transfer
+380006
+68
+Italy
+Connect Plus, S.r.l.
+380007
+69
+Italy
+Mondial Bony Service S.p.A.
+380008
+70
+Japan
+Japan Remit Finance Co. Limited
+392001
+71
+Japan
+Queen Bee Capital Co.Ltd.Japan
+392002
+72
+Japan
+Unidos Co. Ltd
+392003
+73
+Japan
+DIGITAL WALLET CORPOMTION
+392004
+74
+Japan
+Japan Money Express Co.Ltd
+392005
+75
+Japan
+N&P japan Co., Ltd
+392006
+76
+Jordan
+Al Alami Exchange Company, Jordan
+400001
+77
+Jordan
+Hekmat Nawras and Partners Exchange Co. (Zarqa Exchange
+Est.)
+400002
+78
+Jordan
+Jordan Valley Exchange
+400003
+79
+Jordan
+Musharbash Exchange company
+400004
+80
+Jordan
+Alawaneh Ex. Jordan
+400005
+81
+Jordan
+Abu Sheikhan Exchange L.L.C.
+400006
+82
+Jordan
+Alawneh Exchange LLC
+400007
+83
+Kenya
+FLEX MONEY TRANSFER LIMITED
+404001
+
+--- Page 5 ---
+84
+Korea
+GLOBAL MONEY EXPRESS (GME) CO LTD, Korea
+410001
+85
+Korea
+Gmoney Trans Co., Ltd.
+410002
+86
+Korea
+Hanpass Co. Ltd.
+410003
+87
+Korea
+Korea Exchange Bank
+410004
+88
+Korea
+E9Pay Co., Ltd.
+410005
+89
+Korea
+Finshot Inc.
+410006
+90
+KSA
+A. Aziz A. Al Zamil and Sons Co
+682001
+91
+KSA
+Al Amoudi Exchange
+682002
+92
+KSA
+Al Rajhi Bank
+682003
+93
+KSA
+Alinma Bank, KSA
+682004
+94
+KSA
+Al-Rajhi Bank
+682005
+95
+KSA
+Al-Rajhi Banking & Investment Corp. Riyadh
+682006
+96
+KSA
+Arab National Bank, Riyadh, K.S.A.
+682007
+97
+KSA
+Bank Al Bilad
+682008
+98
+KSA
+Bank Al Jazira
+682009
+99
+KSA
+Mohd. H. Yela & Sons Co.
+682010
+100
+KSA
+National Com Bank
+682011
+101
+KSA
+National Commercial Bank ,KSA
+682012
+102
+KSA
+NCBJ, Jeddah, KSA
+682013
+103
+KSA
+SAMBA Financial Group
+682014
+104
+KSA
+The National Commercial Bank
+682015
+105
+KSA
+The Saudi Investment Bank(SAIB)
+682016
+106
+KSA
+Riyad Bank, KSA
+682017
+107
+Kuwait
+Al Moosa Exchange Company WLL
+414001
+108
+Kuwait
+Al Mulla International Exchange Co. WLL
+414002
+109
+Kuwait
+Al Muzaini Exchange Company, Kuwait
+414003
+110
+Kuwait
+Aman Exchange Company W.L.L
+414004
+111
+Kuwait
+Bahrain Exchange Co, Kuwait
+414005
+112
+Kuwait
+Burgan Bank
+414006
+113
+Kuwait
+City Int'l Exchange Co, Kuwait
+414007
+114
+Kuwait
+Commercial Bank of Kuwait
+414008
+115
+Kuwait
+Dollarco Exchange Co. Kuwait
+414009
+116
+Kuwait
+Etemadco Exchange Co.
+414010
+117
+Kuwait
+Joyalukkas Exchange Company,Kuwait
+414011
+118
+Kuwait
+Kuwait Asian Int'l Exchange Co. WLL
+414012
+119
+Kuwait
+Kuwait Bahrain Int'l Ex. Co.
+414013
+120
+Kuwait
+Kuwait Finance House
+414014
+121
+Kuwait
+Kuwait India Int
+414015
+122
+Kuwait
+Lulu Exchange Co. W.L.L., Kuwait
+414016
+123
+Kuwait
+National Exchange Company, Kuwait
+414017
+124
+Kuwait
+National Money Exchange Co.
+414018
+125
+Kuwait
+Oman Exchange Co. Ltd., Kuwait
+414019
+126
+Kuwait
+Riyal exchange Kuwat
+414020
+127
+Kuwait
+Security Exchange Company WLL
+414021
+
+--- Page 6 ---
+128
+Kuwait
+The City International Exchange Co.WLL
+414022
+129
+Kuwait
+UAE Exchange Centre W.L.L. Kuwait
+414023
+130
+Kuwait
+ARY Exchange CO. WLL
+414024
+131
+Kuwait
+AL-SULTAN EXCHANGE COMPANY
+414025
+132
+Kuwait
+U J Exchange Co WLL
+414026
+133
+Kuwait
+UNITED GULF EXCHANGE COMPANY
+414027
+134
+Lebanon
+Transfer International SAL
+422001
+135
+Malaysia
+Agrani Remittance House Sdn. Bhd.
+458001
+136
+Malaysia
+Al Rajhi Banking & Investment Corpo.(Malaysia)BHD
+458002
+137
+Malaysia
+CBL Money Exchange, Malaysia
+458003
+138
+Malaysia
+CIMB ISLAMIC BANK BERHAD
+458004
+139
+Malaysia
+IME (M) Malaysia
+458005
+140
+Malaysia
+INCENTIVE REMIT SDN BHD, MALAYSIA
+458006
+141
+Malaysia
+KL Remit Exchange Sdn. Bhd.
+458007
+142
+Malaysia
+Marchantrade Asia Sdn.Bhd. Malaysia
+458008
+143
+Malaysia
+Max Money Sdn. Bhd., Malaysia
+458009
+144
+Malaysia
+Merchantrade Asia Sdn. Bhd.
+458010
+145
+Malaysia
+METRO MONEY EXCHANGE SDN BHD
+458011
+146
+Malaysia
+MTA SDN-BHD,MALAYSIA
+458012
+147
+Malaysia
+NBL Money Transfer Sdn Bhd
+458013
+148
+Malaysia
+One Transfer Remittance SDN BHD
+458014
+149
+Malaysia
+Placid Express, Malaysia
+458015
+150
+Malaysia
+SMJ TERATAI SDN. BHD.
+458016
+151
+Malaysia
+Tranglo Sdn. Bhd.
+458017
+152
+Malaysia
+UAE Exchange Malaysia SDN BHD
+458018
+153
+Malaysia
+Val You SDN BHD
+458019
+154
+Malaysia
+Valyou Sdn. Bhd.
+458020
+155
+Malaysia
+Lotus Froup Sdn. Bhd.
+458021
+156
+Malaysia
+LULU MONEY MALAYSIA SDN BHD
+458022
+157
+Malaysia
+MANAGEPAY SERVICES SDN BHD
+458023
+158
+Malaysia
+Moneymatch Sdn. Bhd
+458024
+159
+Maldives
+Commercial Bank of Maldives PVT LTD
+462001
+160
+Maldives
+NBL Money Transfer (Maldives) Pvt Ltd
+462002
+161
+Mauritius
+BANYANTREE BANK LIMITED
+480001
+162
+Mauritius
+Terra Payment Service
+480002
+163
+Nepal
+SIDDHARTH BANK LIMITED
+524001
+164
+New Zealand
+Orbitremit Ltd
+554001
+165
+Oman
+Al Ghurair International Exchange
+512001
+166
+Oman
+Al Jadeed Exchange LLC.
+512002
+167
+Oman
+Asia Express Exchange
+512003
+168
+Oman
+Bank Dofar Al- Omani Al- Fransi, Oman
+512004
+169
+Oman
+Bank Muscat(S.A.O.G),Oman
+512005
+170
+Oman
+Global Money Exchange Co. LLC, Oman
+512006
+171
+Oman
+GULF EXCHANGE, OMAN
+512007
+
+--- Page 7 ---
+172
+Oman
+Gulf Overseas Exch.co LLC,Oman
+512008
+173
+Oman
+Hamdan Exchange,Oman
+512009
+174
+Oman
+Joyalukkas Exchange LLC, OMAN
+512010
+175
+Oman
+Laxmidas Tharia Ved (Exchange) Co. LLC
+512011
+176
+Oman
+Lulu Exchange Company LLC, Oman
+512012
+177
+Oman
+M/S Unimoni Exchange LLC, Oman
+512013
+178
+Oman
+Majan Exchange L.L.C, Oman
+512014
+179
+Oman
+Modern Ex. Co., Oman
+512015
+180
+Oman
+Musandum Exchange Co.
+512016
+181
+Oman
+Mustafa Sultan Exchange CO. L.L.C., Oman
+512017
+182
+Oman
+National Bank Oman.
+512018
+183
+Oman
+Oman & U.A.E. Exchange , Oman
+512019
+184
+Oman
+Oman Int'l Exchange Ltd. Oman
+512020
+185
+Oman
+Oman United Exchange Co.LLC
+512021
+186
+Oman
+Purshottam Kanji Exchange Company
+512022
+187
+Oman
+Unimoni Exchange LLC
+512023
+188
+Oman
+Wasel Exchange SAOC
+512024
+189
+Oman
+Oman Exchange L.L.C
+512025
+190
+Qatar
+Al Dar Foreign Exchange Works
+634001
+191
+Qatar
+Al Mirqab Exchange Co W.L.L.
+634002
+192
+Qatar
+Al Zaman Exchange W.L.L
+634003
+193
+Qatar
+Al-Fardan Exchange Co. Doha, Qatar
+634004
+194
+Qatar
+Al-Jazeera Exchange Co.
+634005
+195
+Qatar
+Al-Zaman Exchnage
+634006
+196
+Qatar
+Arabian Exchange Company WLL
+634007
+197
+Qatar
+City Exchange Company WLL
+634008
+198
+Qatar
+Doha Bank QSC
+634009
+199
+Qatar
+Doha Exchange Co WLL
+634010
+200
+Qatar
+Eastern Exchange Est. Doha, Qatar
+634011
+201
+Qatar
+Gulf Exchange Company , Qatar
+634012
+202
+Qatar
+Habib Qatar International Exchange
+634013
+203
+Qatar
+Islamic Exchange Co. WLL
+634014
+204
+Qatar
+Natinal exchange Qatar
+634015
+205
+Qatar
+National Exchange Co., Qatar
+634016
+206
+Qatar
+Qatar International Islamic Bank
+634017
+207
+Qatar
+THE COMMERCIAL BANK of QATAR
+634018
+208
+Qatar
+Trust Ex. Company W.L.L. Qatar
+634019
+209
+Qatar
+Al Mana Exchange W.L.L.
+634020
+210
+Qatar
+Al Sadd Exchange
+634021
+211
+Qatar
+Dukhan Bank
+634022
+212
+Qatar
+LULU EXCHANGE CO, WLL (OATAR)
+634023
+213
+RUSSIA
+FEDERATION
+CB UNISTREAM BANK
+643001
+214
+S. Africa
+Hello Paisa (Pty) Limited
+710001
+215
+S. Africa
+Southeast Exchange Company (South Africa) Pty Ltd.
+710002
+
+--- Page 8 ---
+216
+Seychelles
+CASH PLUS
+690001
+217
+Singapore
+Agrani Exchange House Pte. Ltd., Singapore
+702001
+218
+Singapore
+Ameertech Remittance Services Pte. Ltd.
+702002
+219
+Singapore
+D B S (Singapore)
+702003
+220
+Singapore
+Global Money Remittance Pte Ltd., Singapore
+702004
+221
+Singapore
+International Remittance
+702005
+222
+Singapore
+Mustafa Foreign Exchange Pte. Ltd., Singapore
+702006
+223
+Singapore
+NBL Money Transfer Pte Ltd.
+702007
+224
+Singapore
+Paypal Inc.
+702008
+225
+Singapore
+Prime Exchange Co. Pte Ltd.
+702009
+226
+Singapore
+SIR MONEY CHANGER PTE. LTD
+702010
+227
+Singapore
+TRANSFERTO MOBILE FINANCIAL SERVICES LTD
+702011
+228
+Singapore
+DOLLARSMART GLOBAL PTE LTD
+702012
+229
+Singapore
+Hitpay Payment Solutions Pte. Ltd
+702013
+230
+Singapore
+Indian Bank
+702014
+231
+Singapore
+Lightnet Singapore Pte Ltd
+702015
+232
+Singapore
+Moolahgo Pte Ltd
+702016
+233
+Singapore
+TRANGLO PTE LTD.
+702017
+234
+Singapore
+Wandr Pte Ltd (Pay2Home)
+702018
+235
+Singapore
+WORLD FIRSTASIA PTE. LTD
+702019
+236
+Spain
+NEC Money Transfer Limited, UK
+724001
+237
+Spain
+Trans-Fast Financial Services, Spain
+724002
+238
+Spain
+Global Money Exchange & Transfer SA
+724003
+239
+Spain
+I-Transfer Global Payments EP, S.A
+724004
+240
+Sweden
+S. F Enterprise Exchange Co
+752001
+241
+Switzerland
+Habib Bank AG Zurich
+756001
+242
+Switzerland
+PACO SERVICES SARL
+756002
+243
+Switzerland
+Capital Services
+756003
+244
+Switzerland
+Six Seasons GMBH
+756004
+245
+UAE
+Abu Dhabi Islamic Bank
+784001
+246
+UAE
+Aftab Currency Exchange Ltd
+784002
+247
+UAE
+Al Ahalia Money Exchange Bureau
+784003
+248
+UAE
+Al Ansari Exchange LLC
+784004
+249
+UAE
+Al Bader Exchange , UAE
+784005
+250
+UAE
+Al Dahab Exchange
+784006
+251
+UAE
+Al Fuad Exchange
+784007
+252
+UAE
+Al Ghurair International Exchange
+784008
+253
+UAE
+Al Jaber Exchange
+784009
+254
+UAE
+Al Mona Exchange LLC
+784010
+255
+UAE
+Al Nahdi Exchange
+784011
+256
+UAE
+Al Neel Exchange
+784012
+257
+UAE
+Al Razouki International Exchange
+784013
+258
+UAE
+Al Rostamani Int.Exchnage
+784014
+259
+UAE
+Alfa Exchange
+784015
+
+--- Page 9 ---
+260
+UAE
+Al-Falah Exchange Company.
+784016
+261
+UAE
+Al-Fardan Exchange, AbuDhabi
+784017
+262
+UAE
+AL-Ghurair Ex. Dubai, UAE
+784018
+263
+UAE
+Asia Exchange Centre
+784019
+264
+UAE
+Belhasa Global Exchange
+784020
+265
+UAE
+Cash Express
+784021
+266
+UAE
+Delma Exchange, U A E
+784022
+267
+UAE
+Deniba International Exchange LLC
+784023
+268
+UAE
+Dubai Islamic Bank
+784024
+269
+UAE
+Economic Exchange Centre Dubai, UAE
+784025
+270
+UAE
+Emirates India International Ex.
+784026
+271
+UAE
+Emirates Islamic Bank
+784027
+272
+UAE
+Federal Exchange, Dubai
+784028
+273
+UAE
+Gcc Exchange, Dubai, UAE
+784029
+274
+UAE
+Gulf Express Exchange, Dubai, UAE
+784030
+275
+UAE
+Habib Exchange Co, Abu Dhabi
+784031
+276
+UAE
+Horizon Exchange Centre Llc, Dubai
+784032
+277
+UAE
+Index Exchange L.L.C
+784033
+278
+UAE
+Instant Cash FZE
+784034
+279
+UAE
+Janata Bank, UAE
+784035
+280
+UAE
+Joyalukkas Ex, UAE
+784036
+281
+UAE
+Joyalukkas Exchange
+784037
+282
+UAE
+Joyalukkas Exchange LLC
+784038
+283
+UAE
+Joyalukkas Exchange, UAE
+784039
+284
+UAE
+Lari Exchange Establishment, UAE
+784040
+285
+UAE
+Leela Megh Exchange LLC
+784041
+286
+UAE
+Lulu International Exchange LLC., UAE
+784042
+287
+UAE
+Malik Exchange UAE
+784043
+288
+UAE
+Mashreq Bank
+784044
+289
+UAE
+MAWARID EXCHANGE
+784045
+290
+UAE
+Multinet trust Ex. LLC, UAE
+784046
+291
+UAE
+Muthoot Exchnge
+784047
+292
+UAE
+National Exchange Co., UAE
+784048
+293
+UAE
+Oman UAE Exchange, UAE
+784049
+294
+UAE
+Omda Exchange
+784050
+295
+UAE
+Orient Exchange Co L.L.C UAE
+784051
+296
+UAE
+Progoti Exchange, UAE
+784052
+297
+UAE
+Redha Al Ansari Exchange
+784053
+298
+UAE
+Sajwani Exchange
+784054
+299
+UAE
+Send Exchange Est. Uae
+784055
+300
+UAE
+Sharaf Exchange Llc, UAE
+784056
+301
+UAE
+UAE Exchange Centre, L.L.C. UAE
+784057
+302
+UAE
+Universal Exchange Center, UAE
+784058
+303
+UAE
+Wall Street Ex. Centre L.L.C. UAE
+784059
+
+--- Page 10 ---
+304
+UAE
+X Press Money (UAE Exchange) LLC, UAE
+784060
+305
+UAE
+XPIN
+784061
+306
+UAE
+BOTIM Money Technology L.L.C
+784062
+307
+UAE
+Myzoi
+784063
+308
+UAE
+Shaheen Money Exchange L.L.C
+784064
+309
+UAE
+Blue Remit Limited
+784065
+310
+UK
+Aftab Currency Exchange Ltd
+826001
+311
+UK
+AN Express International Money Transfer
+826002
+312
+UK
+Ba Exchange Company (Uk) Limited
+826003
+313
+UK
+BFC Bank Limited, UK
+826004
+314
+UK
+BFC Exchange Ltd. UK
+826005
+315
+UK
+BRAC Saajan Exchange Co.Ltd.
+826006
+316
+UK
+Daytona Capital Mgt. ltd.
+826007
+317
+UK
+Dex International Ltd.
+826008
+318
+UK
+Dipa Exchange & Travel Limited, Uk
+826009
+319
+UK
+Eastern Union Remittance & Exchange
+826010
+320
+UK
+Euro De Forex
+826011
+321
+UK
+Exim Exchange Company (UK) Limited
+826012
+322
+UK
+FAST TRACK MONEY TRANSFER
+826013
+323
+UK
+Finsbury Foreign Exchange Solution Ltd
+826014
+324
+UK
+GS Money Limited
+826015
+325
+UK
+IFIC Money Transfer (UK) Ltd.
+826016
+326
+UK
+Instant Cash, UK
+826017
+327
+UK
+Jalalabad Money Transfer & Travels Ltd
+826018
+328
+UK
+Joyalukkas Exchange, UK
+826019
+329
+UK
+K.M.B. Enterprise Money Transfer Limited
+826020
+330
+UK
+K.S. Enterprises Limited
+826021
+331
+UK
+Kaymaks Financial Services
+826022
+332
+UK
+Khan Enterprise Money Transfer Ltd.
+826023
+333
+UK
+KMB International Money Transfer Ltd.
+826024
+334
+UK
+KS Enterprise
+826025
+335
+UK
+Kushiara Financial Services Ltd. Uk
+826026
+336
+UK
+LLC Trans Sending Ltd.
+826027
+337
+UK
+Mercantile Exchange House (UK) Ltd.
+826028
+338
+UK
+Money Link (UK) Ltd.
+826029
+339
+UK
+MTB EXCH. UK
+826030
+340
+UK
+NEC MONEY TRANSFER LTD, UK
+826031
+341
+UK
+OI Brasil Finance Limited
+826032
+342
+UK
+PBL Exchange (UK) Ltd.
+826033
+343
+UK
+PLACID NK CORPORATION
+826034
+344
+UK
+Remitix (Mukuru), UK
+826035
+345
+UK
+Rumana Money Exchange
+826036
+346
+UK
+Sonali Pay UK Limited
+826037
+347
+UK
+SHIFT Financial Services Ltd
+826038
+
+--- Page 11 ---
+348
+UK
+Sigue Global Services Limited
+826039
+349
+UK
+Small World Financial Services LCC, UK
+826040
+350
+UK
+Southeast Financial Services (UK)
+826041
+351
+UK
+Speed Remit Worldwide Ltd
+826042
+352
+UK
+Standard Exchange Co (UK) Ltd.
+826043
+353
+UK
+Tns Money Transfer Services Limited
+826044
+354
+UK
+Trans-Fast Remittance LLC, UK
+826045
+355
+UK
+TRANSFERWISE LTD
+826046
+356
+UK
+UAE Exchange UK Ltd
+826047
+357
+UK
+World Remit Limited, UK
+826048
+358
+UK
+Worldwide West 2 East (T/A Shah Global)
+826049
+359
+UK
+X Press Money (UAE Exchange) LLC, UK
+826050
+360
+UK
+Zamzam Exchange International Ltd
+826051
+361
+UK
+Remit Choice Limited
+826052
+362
+UK
+Taptap Send UK Ltd.
+826053
+363
+UK
+Commerce PLEX Limited
+826054
+364
+UK
+AMAL UK Limited
+826055
+365
+UK
+AMO Money Transfer & Exchange Ltd
+826056
+366
+UK
+Crown Agents Bank Ltd
+826057
+367
+UK
+DAHABSHIIL TRANSFER SERVICES LTD
+826058
+368
+UK
+Gcc Exchange UK Limited
+826059
+369
+UK
+Guavapay Limited
+826060
+370
+UK
+iFAST Global Bank
+826061
+371
+UK
+Inter City Money Limited
+826062
+372
+UK
+SKRILL LTD.
+826063
+373
+UK
+Visa Payments Limited
+826064
+374
+USA
+Ba Express USA, Inc
+840001
+375
+USA
+Cash Express
+840002
+376
+USA
+Choice Money Ex. , USA
+840003
+377
+USA
+Continental Ex. Solutions, Inc Dba Ria Financial Serivices
+840004
+378
+USA
+DOLEX DOLLAR EXPRESS INC
+840005
+379
+USA
+Fast Remit LLC
+840006
+380
+USA
+Habib American Bank
+840007
+381
+USA
+Instant Cash FZE
+840008
+382
+USA
+NBL Money Transfer Inc.
+840009
+383
+USA
+Payoneer Inc.
+840010
+384
+USA
+Paypal Inc.
+840011
+385
+USA
+Placid Express
+840012
+386
+USA
+Prabhu Group Inc.(Prabhu Money Transfer)
+840013
+387
+USA
+Samso’s Express Money Transfer Inc.
+840014
+388
+USA
+Sigue Global Services Limited
+840015
+389
+USA
+Small World Financial Service, USA
+840016
+390
+USA
+Sonali Ex. USA
+840017
+391
+USA
+Standard Express co. (USA)
+840018
+
+--- Page 12 ---
+392
+USA
+Sunman Global Express Corp.
+840019
+393
+USA
+Mastercard Transaction Services (US) LLC
+840020
+394
+USA
+Transmit International Inc.
+840021
+395
+USA
+Wall Street Finance LLC
+840022
+396
+USA
+Western Union Money Transfer Services
+840023
+397
+USA
+Zoha Inc.
+840024
+398
+USA
+Atlantic Xchange LLC.
+840025
+399
+USA
+OMNEX GROUP, INC.
+840026
+400
+USA
+Priyo Inc.
+840027
+401
+USA
+REMTTLY INC
+840028
+402
+USA
+Viamericas Corporation
+840029
+403
+Others
+Others
+997000

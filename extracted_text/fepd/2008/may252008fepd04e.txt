@@ -1,0 +1,444 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bangladeshbank.org.bd
+11 Jaishtha, 1415
+FE Circular No. 04
+Date:-----------------------
+25 May, 2008.
+All Authorized Dealers in
+Foreign Exchange in Bangladesh
+Dear Sirs,
+Hedging the price risk of commodities
+It has now been decided that authorized dealers can hedge the price risk of commodities (that
+are traded on exchanges or over-the-counter) of their customers through standard exchanged
+traded futures/options and OTC derivatives on commodities subject to prior approval of
+Bangladesh Bank.
+The use of commodity derivatives will only be permitted when customers have genuine
+underlying commodity price risk exposure(s). This can be monitored by the Authorized
+Dealers (AD) through checking of the underlying risk exposure documents. Any kind of
+speculation through the use of commodity derivative instruments will not be permissible.
+ADs must completely hedge the commodity price risk arising from the commodity hedge
+transactions by booking back to back transactions with banks having international standing or
+their branches operating in Bangladesh.
+While applying to Bangladesh Bank for commodity hedge transactions the suitability and
+appropriateness form (Annex-2) must be submitted. To become eligible for offering
+commodity derivative products, ADs must have the ability to monitor the credit and market
+risk arising from such products. They should also forward relevant commodity price
+forecasts (page-3 of Annex-1 can be used as reference in this regard) to customers before the
+product is offered to them. The forecast(s), Annex-2 and Annex-3 should also be forwarded
+to Bangladesh Bank along with the application.
+ADs should follow IAS 39 (Financial Instruments: Recognition and Measurement) for
+accounting of gain or loss on the commodity hedging instrument and the hedged item.
+The following reporting requirements must be followed by the ADs:
+All the details of commodity hedge transactions that have been approved and
+booked with the clients should be reported to Bangladesh Bank on a monthly
+basis.
+At maturity of each transaction, ADs must send a detailed report to Bangladesh
+Bank.
+Audited financial Statements must have adequate disclosures of commodity hedge
+transactions.
+Cont'd
+to page 2
+
+--- Page 2 ---
+Page-2
+
+BRPD Circular No. 06, dated May 21, 2008 should be referred to for assigning risk
+weightage for all the commodity transactions for capital adequacy.
+Prior to engaging in a transaction, ADs must advise client of all costs, charges and
+commissions related to the commodity hedge. ADs must explicitly mention all the downside
+risks and worst-case-scenarios of a commodity derivative hedge to the client prior to entering
+into a transaction.
+A detailed annexure (Annex-1) has been attached with this circular as a reference for
+explaining basics of commodity derivatives, counterparties who are eligible to hedge through
+commodities.
+Please bring the contents of this circular to the notice of all concerned.
+Yours faithfully,
+(Ahmed Ehteshamul Haider)
+Deputy General Manager
+Phone: 7120375
+
+--- Page 3 ---
+ANNEX -1
+Commodity Defined:
+In a general sense, the term “ commodity” is used to refer to goods that are mined or agriculturally
+produced. However, in the financial world, “ commodity” is more specifically used to describe the
+subset of commodities that is traded on exchanges or over-the-counter. It can be physically delivered
+and stored for a reasonable period of time. A few examples of the broad commodity sector are:
+Energy: This includes crude oil, petrol, heating oil, natural gas and coal. of this market.
+Precious Metals: The most important precious metals are gold, silver and the platinum group
+(platinum, palladium, rhodium, iridium, osmium and ruthenium).
+Base Metals: The main base metals are aluminum, copper, zinc, tin, lead and nickel.
+Agriculture: Also known as soft commodities, this is a heterogeneous group that includes wheat,
+rice, sugar, coffee, rubber, millet, soy, palm oil, cotton and so on.
+Livestock: These include pork bellies, live cattle, feeder cattle, lean hogs and so on.
+In addition, new categories like carbon emission credits and freight credits continue to emerge.
+Popular Instruments:
+FUTURES:
+In a futures contract two parties agree to exchange a standard commodity at a predetermined price at a
+pre-specified date. Not all the futures contract have a physical delivery clause. Rather, most of the
+futures contracts are cash settled i.e. buyers and sellers exchange the difference between the contract
+price and current price of the commodity at the settlement date. Commodity futures contracts on
+numerous exchanges, including the Chicago Board of Trade (CBOT), Chicago Mercantile Exchange
+(CME),
+New
+York
+Mercantile
+Exchange
+(NYMEX),
+London
+Metals
+Exchange
+(LME),
+Intercontinental Exchange (ICE) and the Shanghai Metals Exchange. Brief description of the major
+commodity exchanges as follows:
+NYMEX (COMEX), New York Mercantile Exchange
+Largest commodities exchange.
+Trades futures and option contracts for crude oil, natural gas, energy derivatives, precious metals
+and other base metals like copper and Aluminum.
+Trading is conducted through 2 divisions, the NYMEX division, home to energy, platinum and
+palladium markets; and the COMEX division, on which all other metals trade.
+LME, London Metal Exchange
+Trades base metals futures and options. Trade is conducted in lots rather than tones.
+Intercontinental Exchange
+Trades futures and option contracts for energy products, agricultural commodities and indices.
+COMMODITY TYPE
+EXCHANGES
+COMMODITY TYPE
+EXCHANGES
+Crude Oil (WTI)
+NYMEX, ICE
+Corn
+CBOT, DCE, TGE, FFE
+Crude Oil Brent
+NYMEX, ICE
+Wheat
+ZCE, CBOT, KCBT, MGE
+Natural Gas
+NYMEX
+Sugar
+NYBOT, EURONEXT, TGE
+Coal
+NYMEX
+Coffee
+TGE, NYBOT,
+Gasoline
+NYMEX, TOCOM, CJCE
+Orange Juice
+NYBOT
+Gas Oil
+ICE
+Soybeans
+DCE, CBOT, TGE
+Kerosene
+TOCOM, CJCE
+Soy Meal
+DCE, CBOT
+Fuel Oil
+SFE
+Cotton
+ZCE, NYBOT
+Ethanol
+CBOT, CME, NYBOT
+Pulp
+NYBOT, CME
+Electricity
+NYMEX
+Palm Oil
+MDEX
+Cocoa
+EURONEXT, NYBOT
+Gold
+TOCOM, COMEX
+Rubber
+SFE, TCE, OME
+Silver
+TOCOM, COMEX, CBOT
+Platinum
+TOCOM, NYMEX
+Live Cattle
+CME
+Palladium
+TOCOM, NYMEX
+Lean Hogs
+CME
+Rhodium, Iridium, Ruthenium
+Not Applicable
+Carbon Dioxide Emissions
+Powernext, EEX, Nordpool
+Aluminium
+LME, COMEX, TOCOM, OME, SFE
+Plastic Resins (PP and LL)
+LME
+Copper
+LME, SFE, COMEX
+Lead
+LME
+Goldman Sachs Commodity Index (GSCI)
+Not Applicable
+Nickel
+LME, OME
+Dow Jones-AIG (DJ-AIG)
+Not Applicable
+Tin
+LME
+Rogers International Commodity Index (RICI)
+Not Applicable
+Zinc
+LME
+Reuters/Jefferies CRB
+Not Applicable
+LIVESTOCK
+OTHERS
+INDICES
+ENERGY
+PRECIOUS METALS
+BASE METALS
+AGRICULTURE
+Cont'd to page 2
+
+--- Page 4 ---
+Page 2
+COMMODITY SWAP:
+A swap where exchanged cash flows are dependent on the price of one or more commodities.
+Commodity swap is used to hedge against the price of a commodity. If used for a hedging purpose,
+the user of a commodity would secure a prefixed price and agree to pay a financial institution this
+fixed price. Then in return, the user would get payments based on the market price for the commodity
+involved.
+On the other side, through a commodity swap producer wishes to fix his income and would agree to
+pay the market price to a financial institution, in return for receiving fixed payments for the
+commodity. It is to be noted that Swap levels are derived from futures level. The swap is, on a gross
+calculation, an average of the present values of a series of futures prices at evenly spaced time
+intervals (generally monthly). If a user wishes to pay $7,906 to receive a ton of copper for each
+month, he is said to have bought a pay-fixed swap. An average swap would be an average of the
+discounted monthly average futures prices.
+The following example would clarify the hedging through swaps:
+ABC Oil Company purchases 20,000 barrels of oil per month from international suppliers. Their
+pricing formula is as follows:
+Purchase price = Month End price of Brent Oil
+ABC is exposed to movement in Brent Oil price. If Brent oil price go up by 1 Dollar, they have to pay
+additional 20,000 US Dollar per month.
+ABC can hedge the exposure by entering into a swap with an Authorized Dealer where ABC would
+pay fixed and receive floating on Brent Futures.
+On February 2008, ABC enters into a Crude oil Swap, where ABC pays an AD USD 88 and
+receives the closing price of Brent oil price for 20,000 barrel per month.
+Due to supply constraints, average Brent price at February end goes up to USD 95. ABC has
+to pay USD 95 per Barrel to supplier.
+The difference between the Brent price and Swap price is US Dollar 7. ABC would receive
+US Dollar 7 per barrel from the bank in February.
+Brent Price
+USD 95
+Crude Oil
+Supplier
+Brent Price
+USD 95
+Physical
+Crude OIl
+USD 88
+ABC
+Bank
+Bank pays Net USD 7 per barrel
+Brent Price
+USD 95
+Crude Oil
+Supplier
+Brent Price
+USD 95
+Physical
+Crude OIl
+USD 88
+ABC
+Bank
+Bank pays Net USD 7 per barrel
+Physical
+Crude OIl
+USD 88
+ABC
+Bank
+Bank pays Net USD 7 per barrel
+Net price paid by ABC:
+Price paid to Oil Supplier
+USD 95
+Less: Net receipt from bank
+USD 7
+Net price paid per barrel
+USD 88
+ABC saves a total of USD 140,000 in February 2008.
+The next month Brent closes at 85. ABC has to pay USD 85 per Barrel to supplier.
+The difference between the Brent price and Swap price is US Dollar -3. ABC would have to
+pay USD Dollar 3 to the bank in March.
+Net price paid by ABC:
+Price paid to Oil Supplier
+USD 85
+Net payable to bank
+USD 3
+Net price paid per barrel
+USD 88
+cont'd to page 3
+
+--- Page 5 ---
+Page 3
+Bottom line is irrespective of the Brent oil price movements ABC has fixed the Brent oil purchase
+price at US Dollar 88.
+Brent Price
+USD 85
+Physical
+Crude OIl
+USD 88
+Crude Oil
+Supplier
+ABC
+Bank
+Brent Price
+USD 85
+ABC pays Net USD 3 per barrel
+Brent Price
+USD 85
+Physical
+Crude OIl
+USD 88
+Crude Oil
+Supplier
+ABC
+Bank
+Brent Price
+USD 85
+ABC pays Net USD 3 per barrel
+Variations of this structure are possible through:
+Leverage
+Knockout
+Cumulative benefit Knockout
+COMMODITY OPTIONS:
+Option is the right to buy or sell a product at a predetermine price within a specified period of time.
+Two basic elementary options are:
+Call Option: Right to buy a commodity at a predetermined price within a specified date
+Put Option: Right to sell a commodity at a predetermined price within a specified date.
+By using a combination of swaps, calls, puts, extensions, digitals and barriers, a variety of strategy
+can be used for hedging.
+Basic Hedging Strategies
+Swaps
+Zero-cost collars
+Zero-cost Seagull
+Additional Features
+Knock-Out / Extendibility / Leverage
+Swaps in any currency (as the FX risk in relation to the USD can be easily hedged out by
+executing a series of FX forwards)
+USING REUTERS TO FIND INFORMATION:
+Base Metal
+3-month LME
+Futures
+Forwards
+Volatility
+Inventory
+LME
+Aluminum
+MAL3=LX
+0#MAL-CLS
+MAL/VOL01 LME/STX1
+LME Copper
+MCU3=LX
+0#MCU-CLS
+MCU/VOL01 LME/STX1
+LME Zinc
+MZN3=LX
+0#MZN-CLS
+MZN/VOL01 LME/STX1
+LME Lead
+MPB3=LX
+0#MPB-CLS
+MPB/VOL01
+LME/STX1
+LME Nickel
+MNI3=LX
+0#MNI-CLS
+MNI/VOL01
+LME/STX1
+LME Tin
+MSN3=LX
+0#MSN-CLS
+MSN/VOL01
+LME/STX1
+Precious
+Metals
+Spot Price
+Forwards
+Comex Inventory
+Gold
+XAU=EBS
+GOFO
+COMEX/WHSTAT
+Silver
+XAG=EBS
+SIFO
+COMEX/WHSTAT
+Platinum
+XPT=EBS
+COMEX/WHSTAT
+Palladium
+XPD=EBS
+COMEX/WHSTAT
+WTI Generic 1-month futures contract: CLc1
+Brent Crude 1-month futures contract:
+LCOc1
+
+--- Page 6 ---
+ANNEX - 2
+APPROPRIATENESS MEMO
+Customer Name
+__________ (Internal Credit Rating_________)
+Transaction Details:
+Date
+Products
+Commodity Derivatives
+What is the customer’s annual import volume (amount and in USD terms) of the commodity that it
+wants to hedge? Please provide monthly import figures of the last one year.
+Why is the customer doing these transactions? How do the transactions fit the customer's
+business?
+What is the company's
+general view toward derivatives and how does the company use them?
+Does the client have formal/ informal derivatives policies? What are they?
+Does the customer have the legal authority to enter into derivatives transactions? Is the company
+allowed to use derivatives under the terms of its constituent documents? Is there any limitation on
+specific types of derivatives, or caveats over capacity (e.g. "only if hedging")?
+How has the client used derivatives in the past and in what new areas are they applying derivatives?
+Are recent derivatives transactions consistent with the past; if not, why?
+How sophisticated is the company? Do they have their own pricing models? Do they build their own
+spreadsheets? Do they have access to market data (e.g. Reuters, Telerate, and Bloomberg)?
+At what level are derivatives approved at the company? How active is senior management in decision
+making and/ or monitoring derivatives activity?
+Is there evidence of "doubling up" or similar activity to erase earlier losses?
+Is documentation complete? Are we comfortable as a credit matter with incomplete documentation?
+Dealing Officer/Treasury Marketing Officer
+Corporate Banking Officer/
+Relationship Manager
+Head of Corporate Banking/
+Relationship Head
+
+--- Page 7 ---
+ANNEX – 3
+Customer's Suitability and Appropriateness
+[Periodic Review]
+(Preferably annual)
+From:
+[Head of Corporate Banking/Relationship Head]
+Date:
+Re:
+Customer's Suitability and Appropriateness
+I/we have determined the following with regard to the customer identified below:
+Identity of Client - [ ].
+This client has been designated as a [Market Participant (e.g
+banks)/Non-Professional Counterparty (customers)].
+Summary of Client’s past trading history with [authorized dealer] and (to the extent known)
+with other banks and financial institutions –
+Summary of the type and tenor of transactions which we expect the Client to enter into with
+[authorized dealer] in future and why the Client would enter into such transactions –
+Description of the Client’ spersonnel with trading authority and their trading experience –
+Description of the Client’ s risk management and control processes, including senior
+management involvement –
+Any additional notes/remarks as are relevant or necessary -
+Dealer
+Corporate Banking Officer/
+Relationship Manager

@@ -1,0 +1,502 @@
+--- Page 1 ---
+এফ ই সার্কুলার নং-০৭ তারিখ ------------------
+Ov জুন, ২০০৫
+
+সকল অনুমোদিত ডিলার ব্যাংকের প্রধান কার্যালয়।
+
+প্রিয় মহোদয়গণ,
+এক্সচেঞ্জ পজিশন বিবরণী দাখিল প্রসংগে |
+
+গাইডলাইনস্‌ ফর ফরেন এক্সচেঞ্জ ট্রান্জাকশনস্, ১৯৯৬ এর ১ম খন্ডের Be অধ্যায়ের ৪ নং অনুচ্ছেদ ও হয়
+
+খন্ডের ২য় অধ্যায়ের ২২ নং অনুচ্ছেদে বর্ণিত নির্দেশাবলী অনুযায়ী 'এ্যাপেভিক্স-৪০ এ নির্দেশিত ছক মোতাবেক
+
+অনুমোদিত ডিলার ব্যাংকগুলো এক্সচেঞ্জ পজিশন বিবরণী দাখিল করে আসছে। তদ্যতীত, ২০০৪ সালের এপ্রিল মাস
+
+থেকে “গাইডলাইনস্* এ নির্দেশিত উক্ত ছকের পাশাপাশি পরিবর্তিত নতুন ছকেও অনুমোদিত ডিলার ব্যাংকগুলো এক্সচেঞ্জ
+
+পজিশন বিবরণী প্রনয়ণ ও দাখিল করে আসছে।
+
+০২ এখন হতে অনুমোদিত ডিলার ব্যাংকগুলো এক্সচেঞ্জ পজিশন বিবরণী “গাইডলাইনস্* এ উল্লেখিত
+
+ao
+
+“খ্যাপেভিক্স-৪০ এ প্রদত্ত ছকের পরিবর্তে সংযুক্ত ছক মোতাবেক (গ্যাপেনডিজ্স-৪০এ, গ্যাপেন্ডিক্স-৪০বি) দৈনিক ভিত্তিতে
+
+দাখিল করবে। বিবরণী প্রস্তুতির ক্ষেত্রে অনুসরণীয় নিদেশাবলীও (গ্যাপেন্ডিক্স- এ) এতদসাথ প্রেরিত হল | “গাইডলাইনস্‌"
+
+এর ২য় খন্ডের ২য় অধ্যায়ের ২২ নং অনুচ্ছেদে বর্ণিত নির্দেশাবলী ও 'গ্যাপেন্ডি-৪০' এ বর্ণিত ছক এতদ্বারা প্রতিস্থাপিত
+
+হিসেবে গণ্য হবে।
+
+অনুগ্রহপূর্বক AK সকল পক্ষকে এতদমর্মে অবহিত করবেন এবং ইত্যবসরে প্রাপ্তি স্বীকার করবেন।
+আপনাদের বিশ্বস্ত,
+
+( এ,টি,এম,নাসিরউদ্দিন)
+মহাব্যবস্থাপক
+ফোন-৭১২০৬৬৮
+
+--- Page 2 ---
+10
+11
+12
+13
+ib3) Others
+
+iib1) NFCD
+iib2) RFCD
+iib3) ERQ
+iib7) Others
+A) i. Sales to Bangladesh Bank
+ii. Purchases from Bangladesh Bank
+iii. Net position with Bangladesh Bank
+B) i. Sales to other banks
+ii. Purchases from other banks
+iii. Net position with other banks
+C) i. Sales to customers :
+ia) against imports
+ib) others
+ii. Purchases from customers :
+iia) against exports
+iib) others
+iii. Net position with customers
+Balance sheet
+Off-balance sheet
+Overall
+position (in
+equivalent
+taka)
+Particulars
+USD
+EURO
+JPY
+GBP
+Other
+currenc
+ies in
+equival
+ent
+Equival
+ent
+taka
+GBP
+1. Net position at the beginning of the day :
+USD
+EURO
+JPY
+Equival
+ent
+taka
+Other
+currenc
+ies in
+equival
+ent
+A) i. Foreign currency assets
+ia) Debit balances in NOSTRO account as per local book
+ib) Investments
+ib1) BB clearing account
+ib2) Placement abroad
+ic) Cash holding
+id) Outward bills purchased
+ii. Foreign currency liabilities
+iia) Credit balances in Nostro account as per local book
+B) Forward against contract
+C) Contingent liability on account of customer
+c1) Letter of Credit
+c2) Letter of Guarantee
+iib) Balances held on account of customers
+iib5) FDD, TT, MT etc. payable
+iib6) Back to back LC
+iii. Net position of assets/ liabilities
+iib4)FC Accounts
+D) Overall position ( A.iii + B )
+2. Spot/Cash transactions of the day :
+D) Net spot/ cash transactions of the day (A.iii + B.iii + C.iii)
+c3)Others
+Appendix - 40A
+DAILY STATEMENT OF EXCHANGE POSITION
+Name of the Authorised Dealer Bank...................… Open position limit ..............................…Statement for the day ended ...................
+
+--- Page 3 ---
+10
+11
+12
+13
+3. Forward transactions of the day :
+A) i. Sales to other banks
+ii. Purchases from other banks
+iii. Net forward with banks
+B) i. Sales to customers
+ia) against L/C
+ib) others
+ii. Purchases from customers
+iia) export L/C
+iib) others
+E) Net transaction of the day ( C+D )
+4. Total forward position of the day (1B+ 3C)
+5. Total spot position of the day (1A iii +2 D)
+6. Total position of the day (Row 4+ Row 5)
+9. Position overbought/ oversold (USD)
+iii. Net position (ii-i)
+Balance sheet
+Off-balance sheet
+Overall
+position (in
+equivalent
+taka)
+USD
+EUR
+JPY
+Other
+curre
+ncies
+in
+equiv
+Equiv
+alent
+taka
+USD
+GBP
+8. Position overbought/ oversold (Taka)
+C) Net forward position (Aiii+Biii)
+D) Contingent liability on account of customer
+i) Letter of Credit
+iii)Others
+7. Percentage of holding in individual currency out of total holding
+ii) Letter of Guarantee
+GBP
+Other
+curre
+ncies
+in
+equiv
+Equiv
+alent
+taka
+Particulars
+EUR
+JPY
+
+--- Page 4 ---
+10
+11
+12
+13
+ib3) Others
+
+iib1) NFCD
+iib2) RFCD
+iib3) ERQ
+iib7) Others
+A) i. Sales to Bangladesh Bank
+ii. Purchases from Bangladesh Bank
+iii. Net position with Bangladesh Bank
+B) i. Sales to other banks
+ii. Purchases from other banks
+iii. Net position with other banks
+C) i. Sales to customers :
+ia) against imports
+ib) others
+ii. Purchases from customers :
+iia) against exports
+iib) others
+iii. Net position with customers
+Appendix - 40B
+DAILY STATEMENT OF EXCHANGE POSITION
+Name of the Authorised Dealer Bank...................… Open position limit ..............................…Statement for the day ...................
+Balance sheet
+Off-balance sheet
+Overall
+position (in
+equivalent
+taka)
+Particulars
+USD
+EUR
+JPY
+GBP
+Other
+curre
+ncies
+in
+equiv
+Equiv
+alent
+taka
+Other
+curre
+ncies
+in
+equiv
+Equiv
+alent
+taka
+1. Net position at the beginning of the day :
+USD
+EUR
+JPY
+GBP
+A) i. Foreign currency assets
+ia) Debit balances in NOSTRO account as per local book
+ib) Investments
+ib1) BB clearing account
+ib2) Placement abroad
+ic) Cash holding
+id) Outward bills purchased
+ii. Foreign currency liabilities
+iia) Credit balances in Nostro account as per local book
+iib) Balances held on account of customers
+iib4)FC Accounts
+iib5) FDD, TT, MT etc. payable
+iib6) Back to back LC
+iii. Net position of assets/ liabilities
+B) Forward against contract
+C) Contingent liability on account of customer
+2. Spot/Cash transactions of the day :
+D) Net spot/ cash transactions of the day (A.iii + B.iii + C.iii)
+c1) Letter of Credit
+c2) Letter of Guarantee
+c3)Others
+D) Overall position ( A.iii + B )
+
+--- Page 5 ---
+APPENDIX-A
+
+INSTRUCTIONS FOR PREPARATION OF EXCHANGE POSITION STATEMENT
+
+CH 2
+25
+
+"22. (i) Authorised Dealers are required to maintain record of their exchange position
+in each currency in which they maintain an account as at the close of business on each
+working day in the prescribed proforma (See Appendix-40A and Appendix-40B). These
+currency wise daily position statements should be kept ready for daily submission to
+Bangladesh Bank.
+
+
+(ii)
+Authorized Dealer banks shall consider the following concepts for preparation of exchange
+position statement:
+foreign currency exposure of banks is defined as the domestic currency equivalent sum of
+all foreign currency denominated assets and liabilities. All foreign currency denominated
+assets and liabilities shall have to be considered for ascertaining foreign exchange exposure.
+Therefore, any foreign currency denominated assets or liabilities cannot be ignored, unless it
+has been explicitly agreed with the Bangladesh Bank not to include that item. Furthermore,
+the exposure shall include also the net forward and other possible off-balance sheet positions
+in each currency.
+spot position in a currency is the difference between assets and liabilities denominated in
+that currency, as they appear in the balance sheet.
+off-balance sheet items include all foreign currency –denominated assets and liabilities not
+included in the balance sheet. These transactions are recorded in the off-balance sheet
+section of the books of bank. The forward position includes all amounts to be received less
+all amounts to be paid at a future value date as a result of foreign exchange transactions,
+which have already taken place. The spot foreign exchange transactions that have not yet
+been settled will be included in the off-balance sheet items. When the day’s deal is done,
+banks must record the amount to be received of the bought currency and the amount of the
+sold currency to be delivered in specific off-balance sheet accounts. When the deal is
+actually settled (usually two working days later), the off –balance sheet accounts are washed
+out and the relevant accounts of the balance sheet incremented.
+‘open position limit’ shall be the limit of foreign exchange holding at the end of the day for
+a bank sanctioned by the Bangladesh Bank based on total capital (sum of Tier-1 and Tier-2)
+and some other qualitative factors.
+open position shall be worked out on the basis of opening balance and other transactions of
+the day concerned as per the local books of the Authorised Dealer.
+all assets take the form of debit balances and all liabilities the form of credit balances.
+Therefore, if an Authorised Dealer holds a credit balance with his correspondent, his local
+books will show a debit balance, as he is holding an asset. Similarly, an overdrawn position
+with his overseas correspondent will be shown as a credit balance in his local books
+Record of
+exchange
+position
+
+--- Page 6 ---
+no under valuation shall take place; assets are to be marked to market with adherence to the
+'Guidelines for Core Risks Management'.
+balance sheet and off-balance sheet exposures are reported separately but added together to
+arrive at overall exposures.
+the nostro balances as per local book and nostro balances as per book of the overseas
+correspondents should be completely reconciled. The banks shall take utmost measures for
+complete reconciliation.
+banks are required to submit two statements, -
+o statement stating the opening exchange position and transaction during the reporting
+day (Appendix-40A), that is, opening stock and flow data respectively
+o the position for the next day (Appendix-40B), i.e., the opening position for the next
+day (Appendix-40B) as for transfer between different foreign currency accounts do
+not affect in day transaction. For instance, the transfer of the balance in a NFCD after
+maturity to an approved foreign currency account does not constitute buy or sale on
+the part of the bank on the day transaction.
+
+
+(iii) The proforma of exchange position has been drawn up to suit the different types of
+book keeping used in different banks and for some banks some of the items may not be
+required. The main items of the exchange position statement are explained below. In the
+event of any further difficulty being encountered, the Authorised Dealer should refer the
+matter to the Bangladesh Bank.
+(a) COLUMNS:
+
+Item in
+column
+Clarification
+Balance sheet item in USD only
+Balance sheet item in EURO only
+Balance sheet item in JPY only
+Balance sheet item in GBP only
+Summation of all other currencies converted into local currency
+Summation of column 1-5 having all items in column 1- 4 converted into local currency
+Off-balance sheet item in USD only
+Off-balance sheet item in EURO only
+Off-balance sheet item in JPY only
+10
+Off-balance sheet item in GBP only
+11
+Summation of all other currencies converted into local currency
+12
+Summation of column 7-11 having all items in column 7-10 converted into local currency
+13
+Summation of column 6 and column 12
+
+(b) ROWS:
+1(A)(id) Outward bills purchased (temporary account):
+
+Banks have different methods of entering outward bills purchased. If a bank enters any outward bill
+purchased immediately into their currency account, need not to be reported under this head. On the
+other hand, some banks debit their bills purchased to a temporary suspense account and transfer to
+their currency account at tile estimated time when the bill is payable. On the date the exchange
+position is prepared the total in the suspense account must be entered under this heading, that is, the
+amount of total outstanding purchased export bill should be reported under this head. The amount of
+bills sent for collection need not to be reported under this heading.
+Calculation of
+exchange
+position
+
+--- Page 7 ---
+1(A)(iib5) FDDs, MTs and TTs payable:
+
+Banks receive from their correspondents advice of drafts in foreign currency issued on them or
+MTs and TTs to pay foreign currency or its equivalent to the beneficiary of the instrument. This in
+fact will be ultimately a purchase of the currency from the beneficiary of the transaction. If the
+Authorised Dealer does not enter into his currency position the amount of draft or transfer until it is
+actually paid, the amount need not to be reported under this head. If, however, he enters the amount
+in his currency account immediately on receipt of advice with a contra entry to a suspense account,
+the amount outstanding on the suspense account on the date of the Return must be reported under
+this head.
+
+1(A)(iib6) Back to back letters of credit:
+Under back-to-back import system, import bills are usually be paid from export earnings. Bank
+receives export proceeds and retains them to settle import bills accordingly. Balance in these
+accounts (e.g. back to back margin account) should be reported under this head.
+1(A)(iib7) others:
+Balances on account of customer account other than NFCD, RFCD, ERQ etc. (out of exchange
+position) and not covered by any head as mentioned above will have to be reported under this head.
+The particulars of such balances, if reported, should be mentioned in footnote.
+1(A)(iii) Net position of assets/liabilities:
+Difference between the total of items under A.i and total of items under A.ii will be reported under
+this head.
+1(B) Forward against contract:
+Banks offer forward booking to other banks and customers as well. The net outstanding amount of
+forward derived from purchase or sale to banks and customers against firm contract should be
+reported under this head.
+1(C) Contingent liability on account of customer:
+
+Letters of credit may be opened having forward booking or without forward booking. The amount
+of letters of credit outstanding only without having forward booking should be reported under this
+head.
+2. Spot/Cash Transactions of the day:
+Spot transaction is single outright transaction involving the exchange of two currencies at a rate
+agreed on the date of the contract for value or delivery (cash settlement) within two business days.
+The spot legs of swaps are not included among spot transactions, but are treated as swap
+transactions even when they are for settlement within two days (i.e. including “tomorrow/next”
+transactions).
+2(Ai) Sales to Bangladesh Bank
+The total amount of sales (currency-wise) of the reporting day to Bangladesh Bank on spot/cash
+basis should be reported under this head..
+2(Aii) Purchases from Bangladesh Bank
+The total amount of purchases (currency -wise) of the reporting day from Bangladesh Bank on
+spot/cash basis should be reported under this head.
+
+--- Page 8 ---
+2(Aiii) Net position with Bangladesh Bank
+Difference between Sales and Purchases with Bangladesh Bank on spot/cash basis on reporting day
+should be reported under this head.
+2(Bi) Sales to other banks:
+The total amount of sales (currency-wise) of the reporting day to other Authorized Dealer banks
+operating in Bangladesh on spot/cash basis should be reported under this head.
+2(Bii) Purchases from other Banks
+The total amount of purchases (currency -wise) of the reporting day from other Authorized Dealer
+banks operating in Bangladesh on spot/cash basis should be reported under this head.
+2(Biii) Net position with other banks
+Difference between Sales and Purchases with other Authorized Dealer banks operating in
+Bangladesh on spot/cash basis of the reporting day will have to be reported under this head.
+2C(i) Sales to customers:
+2C(ia) Against imports: Total amount of cash/spot sales to customers other than banks against
+imports of which lodgement has taken place accordingly but the amount has not been entered into
+the local books should be reported under this head.
+2C(ib) Others: Total amount of cash/spot sales to customers purposing other than imports but the
+amount has not been entered into the local books should be reported under this head. The particulars
+of such balances, if reported, should be mentioned in footnote.
+2C(ii) Purchases from customers
+2C(iia) Against exports: Total amount of cash/spot purchases of export bills from customers
+against exports should be reported under this head. Documents sent for collection should not be
+reported under this head, as it does not constitute any exposure for the banks.
+2C(iib) Others: Total amount of cash/spot purchases from customers purposing other than exports
+will have to be reported under this head. The particulars of such balances, if reported, should be
+mentioned in footnote.
+2C(iii) Net position with customers: Difference between sales and purchases with customers on
+spot/cash basis on reporting day should be reported under this head.
+2(D) Net Spot / cash transactions of the day:
+Sum of the three items of ‘Net Position with Bangladesh Bank, Net Position with other banks and
+Net Positions with customers’ should be reported under this head.
+
+--- Page 9 ---
+3.Forward transactions of the day: Transaction involving the exchange of two
+currencies at a rate agreed on the date of the contract for value or delivery (cash
+settlement) at some future date (more than two business days).
+3A(i) Sales to other banks
+Total forward sales of foreign currency (currency-wise) to other banks operating in
+Bangladesh on the reporting day as per definition given above should be reported under
+this head.
+3A(ii) Purchases from other banks
+Total forward purchases of foreign currency (currency-wise) from other banks operating
+in Bangladesh on the reporting day as per definition given above should be reported
+under this head.
+3A(iii) Net forward with other banks
+Difference between forward purchase and sale of foreign currency (currency-wise) of the
+reporting day with other banks operating in Bangladesh should be reported under this
+head.
+3(Bi) Sales to customers
+Total forward sales of foreign currency (currency-wise) to customers as per definition
+given above should be reported under this head.
+3B(ia) Against letters of credit:
+Total forward cover made available against letters of credit should be reported under this
+head.
+3B(ib) Others: Total forward cover made available against other than letter of credit
+should be reported under this head. The particulars of such balances, if reported, should
+be mentioned in footnote.
+3B(ii) Purchases from customers
+3B(iia) against export letters of credit: The forward purchase of export bills should be
+reported under this head.
+3B(iib) Others: The items not covered in (3Biia) should be reported under this head. The
+particulars of such balances, if reported, should be mentioned in footnote.
+3(D) Contingent liability on account of customers:
+3D(i) Letter of Credit: The import letters of credit opened during the day without having
+forward cover should be reported under this head.
+3D(ii) Letter of Guarantee: The guarantee issued in foreign currency during the day
+should be reported under this head.
+3D(iii) Others: The items other than letters of credit and guarantee not covered in 3D(i)
+and 3D(ii) should be reported under this head. The particulars of such balances, if
+reported, should be mentioned in footnote.
+4. Total forward position of the day: It is the sum of the opening forward position at the
+beginning and the forward transactions during the day.
+
+--- Page 10 ---
+5. Total spot position of the day: It is the sum of the opening spot position at the
+beginning and the spot transactions during the day as well.
+6. Total position of the day: It is the arithmetic sum of the currency wise opening
+position, spot and forward transactions during the day.
+7. Percentage of holding in individual currency out of total holding: It is simply the
+percentage derived from individual position divided by the total local currency position.
+8. Position overbought/oversold (Taka): It is the overbought or oversold position in
+local currency.
+9. Position overbought/oversold (USD): It is the overbought or oversold position in
+USD equivalent."

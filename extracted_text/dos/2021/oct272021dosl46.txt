@@ -1,0 +1,112 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাংক Ge
+
+(সেন্ট্রাল ব্যাংক অব বাংলাদেশ) উর
+প্রধান কার্যালয় 1 Aika IB
+মতঝিলি,ঢাকা-১০০০ fe ১১]
+বাংলাদশে
+www.bb.org.bd
+ডিপার্টমেন্ট অব অফ-সাইট সুপারভিশন
+১১ কার্তিক ১৪২৮
+ডিওএস সার্কুলার লেটার নং ৪৬ তারিখঃ ------------------
+২৭ অক্টোবর ২০২১
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+
+বাংলাদেশে কার্যরত সকল তফসিলি Ties |
+
+খাতভিত্তিক বকেয়া খণসংক্রান্ত ব্রেমাসিক বিবরণী প্রেরণের ক্ষেত্রে বিদ্যমান ছক ও ফর্মুলা সংশোধন প্রসঙ্গে |
+
+উপর্যুক্ত বিষয়ে এ বিভাগের ৩০ আগস্ট ২০১৬ তারিখের ডিওএস সার্কুলার লেটার নং-১৯ এবং তদসতযুক্ত বিবরণীর প্রতি
+
+দৃষ্টি আকর্ষণ করা যাচ্ছে। উক্ত সার্কুলার লেটারে খাতভিত্তিক খণের বিশ্লেষণকে অধিকতর কার্যকর ও তথ্যবহুল করার লক্ষ্যে
+
+সংশোধিত ছক অনুযায়ী সেপ্টেম্বর ২০১৬ হতে খাতভিত্তিক খণ ও UAT সংক্রান্ত tame বিবরণী (ডিবি-৮) প্রেরণের নির্দেশনা
+
+প্রদান করা হয়।
+
+২। এক্ষণে ব্যাংকসমূহের খাতভিত্তিক খণ ও অগ্রিম সংক্রান্ত তথ্য যথাযথভাবে বিশ্লেষণের উদ্দেশ্যে সংযুক্তি “ক' এ বর্ণিত
+
+ফমুলাসমূহ অনুসরণপূর্বক বকেয়া খণের স্থিতি, খণ আদায় ও বিতরণের পরিমাণ নিরূপণের নির্দেশনা প্রদান করা হলো |
+
+৩। বিদ্যম
+
+ন ছকে প্রদত্ত ৮ (আট) টি খাতের মধ্যে Industrial (Manufacturing) খাতের অন্তর্ভূক্ত Agro-based
+
+Industry উপখাতের পর এবং Other Industries (Large Scale) উপখাতের পূর্বে Pharmaceutical Industry এবং
+
+Leather & Leather-based 1701505-উপখাত সন্নিবেশপূর্বক খাতভিত্তিক খণ ও অগ্থিম সংক্রান্ত বিবরণী (ডিবি-৮) এ বিভাগে
+
+দাখিল করতে হবে।
+
+৪। এইস
+
+কুলার লেটারের নির্দেশনা অবিলম্বে কার্যকর ACT |
+আপনাদের বিশ্বস্ত,
+ee
+
+(মোঃ আনোয়ারুল ইসলাম)
+
+মহাব্যবস্থাপক
+ফোন : ৯৫৩০০৯৩
+
+--- Page 2 ---
+wWcvU©‡g›U Ae Ad-mvBU mycviwfkb
+
+
+mshyw³- K
+
+
+
+
+1. e‡Kqv FY/wewb‡qvM w¯’wZ, †gqvw` I Zjwe FY/wewb‡qvM weZiY I Av`vq msµvšÍ dg©yjv t
+
+Where,
+
+
+
+2. Pjgvb FY weZiY I Av`vq (cÖPwjZ avivi e¨vsK I Bmjvgx kixqvnwfwËK e¨vsK Df‡qi Rb¨ cÖ‡hvR¨) t
+
+
+
+Continuous loan/investment disbursement & recovery= ∑di -∑ri
+
+∑di = Summation of all principal debits during the quarter
+∑ ri = Summation of all principal credits during the quarter
+
+If result of the equation is positive at the end of a particular quarter, then count the amount as
+‘Disbursement’
+If the result is negative at the end of a particular quarter, then add interest/mark up (charged during the
+quarter) and other charges recovery with that figure; the total amount will be reported as ‘Recovery’
+(Negative figure derived from equation should be count as positive)
+If the equation result is ‘0’ at the end of a particular quarter, interest/mark up (charged during the quarter)
+and other charges recovery will be reported as ‘Recovery’
+
+
+
+
+FY/ wewb‡qv‡Mi cÖK…wZ
+e¨vs‡Ki aiY
+cÖPwjZ avivi e¨vsK
+
+Bmjvgx kixqvnwfwËK e¨vsK
+
+e‡Kqv FY/wewb‡qvM w¯’wZ ( Oc)
+Op + Dc – Rc + Ic + OCc- RWc
+Op + Dc – Rc + MRc + OCc + Cc-RWc
+‡gqvw` I Zjwe FY/wewb‡qvM weZiY (Dc )
+Oc - Op + Rc - Ic - OCc +RWc
+Oc - Op + Rc - MRc - OCc - Cc +RWc
+‡gqvw` I Zjwe FY/ wewb‡qvM Av`vq (Rc)
+Op + Dc - Oc + Ic + OCc- RWc
+Op + Dc - Oc + MRc + OCc + Cc -RWc
+Oc= Outstanding balance at the end of the reporting quarter
+Op= Outstanding balance at the end of the preceding quarter
+Dc= Principal amount disbursed during the reporting quarter
+Rc= Recovery of principal amount with interest and other charges during the reporting quarter
+Ic= Charged interest during the reporting quarter
+OCc= Other Charges (including Penalty charge, Excise duty, SMS charge, Clearing charge etc.) during the
+reporting quarter
+RWc= Rebate and Waiver amount during the reporting quarter
+MRc= Mark up/Profit/Rent charged during the reporting quarter
+Cc= Compensation during the reporting quarter

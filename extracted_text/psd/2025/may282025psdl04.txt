@@ -1,0 +1,19 @@
+--- Page 1 ---
+aff, D00-So00
+*) BACPS a High Value Clearing
+Regular Value Clearing
+- Presentment Cut off Time
+- Return Cut off Time
+- Return Cut off Time
+8 ta8 803
+-11:30 AM,
+- Presentment Cut off Time -12:30 PM,
+-01:00 PM
+- 02:30 PM
+T)A ANNA (Pacs.008, Pacs.009, Pacs.004)
+) arBTRS PS QK (Pacs.009) 3 fao (Pacs.004) - 10:00 AM
+S 2:15 PM
+- 10:00 AM A
+2:00 PM
+WIAGRK
+RPA 8 bt-o-o0o-44, >QO0900-¢, PA 8 brb-o-YS, www.bb.org.bd

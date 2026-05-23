@@ -1,0 +1,1207 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাক
+
+(সেন্ট্রীল ব্যাংক অব বাংলাদেশ)
+প্রধান কার্যালয় ডেট ম্যানেজমেন্ট ডিপার্টমেন্ট
+মতিঝিল, ঢাকা-১০০০
+ংলাদেশ।
+সলিল সা ২৬ ফেব্রুয়ারি ২০২৬
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক ও ফাইন্যান্স কোম্পানি |
+
+প্রিয় মহোদয়,
+ব্যাংকিং খাতে সুষম তারল্যাবস্থা বজায় রাখার উদ্দেশ্যে বাংলাদেশ ব্যাংক কর্তৃক
+
+
+Guidelines for Open Market Operations’ জারি প্রসঙ্গে।
+
+দেশের মুদ্রাবাজারে স্থিতিশীলতা বজায় রাখা এবং ব্যাংকিং ব্যবস্থার তারল্য ব্যবস্থাপনাকে অধিকতর কার্যকর করার লক্ষ্যে বাংলাদেশ
+ব্যাংক কর্তৃক ‘Guidelines for Open Market Operations’ প্রণয়ন করা হয়েছে।
+
+২। প্রণীত গাইডলাইনস্রে মূল উদ্দেশ্য বাংলাদেশ ব্যাংক কর্তৃক ব্যাংক ও MIST কোম্পানিসমূহকে স্বল্পমেয়াদি তারল্য সহায়তা প্রদান
+ও অতিরিক্ত তারল্য উত্তোলন প্রক্রিয়া স্পষ্টীকরণ এবং একইসাথে আধুনিক ও সমন্বিত কাঠামোর আওতায় উক্ত কার্যক্রম পরিচালনা
+করার মাধ্যমে সামগ্রিক মুদ্রানীতি বাস্তবায়ন সহজতর ও সুসংহত করা। এক্ষণে, Open Market 009181105-এর আওতায়
+কার্যক্রম সম্পাদনের নিমিত্ত সকল কনভেনশনাল ও শরীয়াহ্‌ ভিত্তিতে পরিচালিত ব্যাংক ও ফাইন্যান্স কোম্পানিকে গাইডলাইনস্টি
+
+৩। এ নির্দেশনা ০৩ মে, ২০২৬ তারিখ হতে কার্যকর AA |
+
+সংযোজনী: বর্ণনা মোতাবেক (৩০ পাতা)। 2 ee
+Vet
+হোসেন)
+
+ফোন: ৯৫৩০১৩১
+ই-মেইল: istequemal.hussain@bb.org.bd
+
+ফোন : ৮৮-০২-৯৫৫০৪৪৮, ৯৫৫৪৮৯৬, আইপি ৪ ৮৮-০২-৫৫৬৬৫০০১-৬, ফ্যাক্স : ৮৮-০২-৯৫৩০৪ ৭৯, Web : www.bb.org.bd
+
+--- Page 2 ---
+Guidelines for Open Market Operations
+
+
+
+
+
+
+
+
+
+
+Debt Management Department
+Bangladesh Bank
+(Central Bank of Bangladesh)
+
+--- Page 3 ---
+Table of Contents
+1. Objectives ................................................................................................................................................. 1
+2. Definition .................................................................................................................................................. 1
+3. Instruments of OMOs for Conventional Banks and Finance Companies ................................................. 3
+3.1 Repurchase Agreement (Repo) ........................................................................................................... 3
+3.2 Standing Lending Facility (SLF) ........................................................................................................ 3
+3.3 Operational and Settlement Procedures of Repo and SLF ............................................................. 3
+3.4 Additional Terms and Conditions for Repo and SLF ..................................................................... 4
+3.5 Standing Deposit Facility (SDF) ........................................................................................................ 6
+3.6 Operational and Settlement Procedures of SDF ............................................................................. 6
+3.7 Bangladesh Bank Bill (BB Bill) ......................................................................................................... 7
+3.8 Operational and Settlement Procedures of BB Bill ........................................................................ 7
+4. Instruments of OMOs for Shari’ah Based Banks and Finance Companies .............................................. 8
+4.1 Islamic Banks Liquidity Facility (IBLF) ............................................................................................ 8
+4.2 Operational and Settlement Procedures of IBLF............................................................................ 9
+4.3 Treatment Regarding Breach of Terms of Contract ..................................................................... 10
+5. Outright Transactions of Government Securities ................................................................................... 11
+6. General Terms and Conditions ............................................................................................................... 12
+7. Dispute Resolution .................................................................................................................................. 13
+8. Modification of Guidelines ..................................................................................................................... 13
+Annexure-1: List of Eligible Securities for OMOs ..................................................................................... 14
+Annexure-2: Rollover Procedures ............................................................................................................... 14
+Annexure-3: Time Schedule of OMOs ....................................................................................................... 15
+Annexure-4: Sample Auction Notice for Outright Sale of Government Securities .................................... 16
+Annexure-5: Sample Auction Notice for Outright Purchase of Government Securities ............................ 17
+Annexure-6: Sample Auction Notice for Bangladesh Bank Bill ................................................................ 18
+Annexure-7: Prescribed Application Form for Manual Submission ........................................................... 19
+1. Central Bank Repo Form ................................................................................................................ 19
+2. Standing Deposit Facility (SDF) Form .......................................................................................... 20
+3. Standing Lending Facility (SLF) Form .......................................................................................... 21
+4. Bangladesh Bank Bill (BB Bill) Bid Form .................................................................................... 22
+5. Islamic Banks Liquidity Facility (IBLF) Form .............................................................................. 23
+Annexure-8: Allotment Process of Liquidity-Absorbing Variable Auction ............................................... 24
+Annexure-9: Allotment Process of Liquidity-Providing Variable Auction ................................................ 24
+Annexure-10: Accounting Treatment for Collateral-Based Transactions................................................... 25
+
+--- Page 4 ---
+List of Acronyms
+Acronym
+Elaboration
+BB
+Bangladesh Bank
+BB Bill
+Bangladesh Bank Bill
+BDT
+Bangladesh Taka
+BGIS
+Bangladesh Government Investment Sukuk
+CRR
+Cash Reserve Ratio
+DMD
+Debt Management Department
+FMI
+Financial Market Infrastructure
+IBLF
+Islamic Banks Liquidity Facility
+MPC
+Monetary Policy Committee
+MTDR
+Mudarabah Term Deposit Receipt
+OMO
+Open Market Operation
+PI
+Participating Institution
+Repo
+Repurchase Agreement
+RMP
+Reserve Maintenance Period
+SDF
+Standing Deposit Facility
+SLF
+Standing Lending Facility
+SLR
+Statutory Liquidity Ratio
+
+--- Page 5 ---
+Page | 1
+
+1. Objectives
+The purpose of these Guidelines is to clarify and streamline the Open Market Operations
+(OMOs) of Bangladesh Bank, encompassing short-term liquidity support and the absorption of
+excess liquidity, with a view to ensuring stability in the domestic money market and managing
+liquidity in the banking system to facilitate the implementation of monetary policy.
+2. Definition
+2.1 The following terms, as used in these Guidelines, shall have the meanings indicated below
+unless the context clearly indicates otherwise:
+a) Bangladesh Bank Bill (BB Bill) refers to the short-term debt instrument issued by
+Bangladesh Bank to mop up excess liquidity from the market;
+b) Electronic System refers to the Financial Market Infrastructure (FMI) System or any
+other platform introduced or maintained by Bangladesh Bank for conducting OMOs;
+c) First Leg Settlement refers to the initial transfer of funds between Bangladesh Bank and
+a bank or finance company, effected upon successful completion of the transaction;
+d) Haircut refers to the difference between the market value of the collateral and the
+amount borrowed or lent against that collateral;
+e) Islamic Banks Liquidity Facility (IBLF) refers to a framework for providing short-term
+liquidity facility by Bangladesh Bank to Participating Institutions under the Mudarabah
+contract where Bangladesh Bank acts as the Investor (Rab-al-Mal) and Participating
+Institutions act as the investment manager (Mudarib) on the basis of an agreed Profit
+Sharing Ratio (PSR);
+f) Open Market Operation (OMO) refers to the liquidity management tools used by
+Bangladesh Bank to implement monetary policy, control money supply, and maintain the
+stability of interest rates. Instruments under OMOs include the Repurchase Agreement
+(Repo), Standing Deposit Facility (SDF), Standing Lending Facility (SLF), Bangladesh
+Bank Bill (BB Bill), Outright Transaction of Government Securities, Islamic Banks
+Liquidity Facility (IBLF), or any other tools introduced by Bangladesh Bank in this
+regard from time to time;
+g) Outright Transaction refers to the purchase or sale of Government Securities in the
+open market by Bangladesh Bank to control the money supply and maintain liquidity in
+the banking system at the desired level;
+
+--- Page 6 ---
+Page | 2
+
+h) Repurchase Agreement (Repo) refers to a short-term liquidity arrangement under which
+Participating Institutions obtain funds from Bangladesh Bank through the sale of eligible
+securities, together with a simultaneous and binding commitment to repurchase the same
+or equivalent securities on a specified future date at a predetermined price or rate, being
+contractually structured as a sale and repurchase transaction and economically treated as
+a collateralized financing arrangement;
+i) Reserve Maintenance Period (RMP) refers to the specific timeframe during which
+banks and finance companies shall maintain a required level of cash reserves with
+Bangladesh Bank to comply with the Cash Reserve Ratio (CRR) requirement;
+j) Second Leg Settlement refers to the final settlement where the original transaction is
+reversed along with the agreed-upon interest or profit on the maturity date;
+k) Standing Deposit Facility (SDF) refers to the temporary placement of surplus liquidity
+by Participating Institutions with Bangladesh Bank without receiving collateral in return,
+at a specified rate and date;
+l) Standing Lending Facility (SLF) refers to a collateralized borrowing arrangement under
+which Participating Institutions obtain overnight liquidity from Bangladesh Bank on a
+demand basis against eligible securities, with a commitment to repay at a specified date
+and rate.
+2.2 All other words and expressions used herein, though not specifically defined, shall have the
+meanings ascribed to them under the Bank Company Act, 1991 (up to date), the Sarkari Rin Ain,
+2022 (Public Debt Act, 2022) (Act No. 17 of 2022), the Bangladesh Bank Order, 1972 (P.O. No.
+127 of 1972) (up to date), the Finance Company Act, 2023, and any other applicable laws,
+regulations, or standards currently in force.
+
+--- Page 7 ---
+Page | 3
+
+3. Instruments of OMOs for Conventional Banks and Finance Companies
+Bangladesh Bank (BB) uses various liquidity management instruments to regulate the flow of
+funds in the banking system and maintain monetary and financial stability. The Repo and SLF
+are employed to inject funds into the system when needed, while the SDF and BB Bill are used
+to mop up surplus liquidity from the market. Conventional banks and finance companies that
+maintain a current account with BB are eligible to participate in these operations.
+3.1 Repurchase Agreement (Repo)
+a) Tenor: Overnight (1 day) and 7 days;
+b) Operation Schedule: The 7 (seven) days Repo shall be the regular Repo operation and
+conducted on each Tuesday. If a Repo operation coincides with a holiday, it shall be
+conducted on the next business day;
+c) Repo for CRR Maintenance: If there is no regular Repo operation on the end day of the
+RMP, an overnight (1 day) Repo operation shall be conducted to facilitate compliance
+with CRR maintenance. Unless otherwise notified, the 14th day and the last day of each
+month shall be considered as the end day of RMP;
+d) Interest Rate: At the policy rate determined from time to time by the Monetary Policy
+Committee (MPC) of BB for fixed-rate, full-allotment Repo operations.
+3.2 Standing Lending Facility (SLF)
+a) Tenor: Overnight (1 day);
+b) Operation Schedule: SLF shall be conducted on each business day;
+c) Interest Rate: As per the rate determined by MPC from time to time.
+3.3 Operational and Settlement Procedures of Repo and SLF
+3.3.1 First Leg Settlement
+a) Application Process: Participating Institutions shall participate in the operations by
+applying within the specified timeframe through the electronic system;
+b) Application Amount: BDT 1.00 (one) crore or above;
+c) Publication of Result: Repo result shall be published in the electronic system within the
+specified timeframe;
+
+--- Page 8 ---
+Page | 4
+
+d) Settlement Value: The first leg settlement value shall be equal to the market value (clean
+price) of the eligible securities after applying haircut;
+First Leg Settlement Value = Market Value of Securities × (1-Haircut %)
+e) Fund and Securities Settlement of Repo: Based on the result, fund settlement shall be
+conducted by crediting the current accounts of the Participating Institutions, while the
+securities shall simultaneously be marked as collateralized in favor of BB for the duration
+of the Repo period;
+f) Automated First Leg Settlement of SLF: Applications for SLF shall be settled
+automatically and immediately upon receipt by the electronic system of BB, with
+concurrent credit of funds to the Participating Institutions and marking of the securities as
+collateralized in favor of BB.
+3.3.2 Second Leg Settlement
+a) Settlement Value: The first leg settlement value plus applicable interest;
+Second Leg Settlement Value=First Leg Settlement Value × (1+
+Interest Rate ×Tenor
+365
+b) Fund and Securities Settlement: On the maturity date, BB shall debit the current
+account of the respective institution to recover the second leg settlement value and shall
+release the collateralized securities to the respective institution. The Participating
+Institution shall ensure that sufficient funds, equivalent to the second leg settlement
+value, are available in its current account at maturity.
+c) Rollover of Repo: Upon maturity of the existing regular Repo, rollover shall be
+permitted, subject to the conditions specified in the annexure.
+3.4 Additional Terms and Conditions for Repo and SLF
+a) Default Clause:
+i) At maturity, if a Participating Institution fails to settle the second leg, BB shall have the
+right to enforce its security interest over the collateralized securities, and the legal title
+thereof shall be automatically transferred to BB without any further consent from the
+Participating Institution;
+ii) BB shall have the immediate right to seize, appropriate, and liquidate (sell) the
+collateral, or to determine its value in good faith by reference to prevailing market
+prices to calculate the close-out amount on the default date. The proceeds shall be
+applied to cover the default and any applicable penalty;
+
+--- Page 9 ---
+Page | 5
+
+Close-out amount = Market value of collateral (dirty price) − (cash borrowed + interest
+amount+ applicable penalties)
+iii) Any surplus from the collateral value shall be returned to the institution. Any shortfall
+shall be recovered by debiting the institution’s current account with BB, or otherwise
+treated as a debt due. The institution shall not be permitted to avail any Repo/SLF
+facility from BB until the dues are fully settled;
+iv) BB’s rights under this clause including enforcement, close-out, netting, seizure, and
+liquidation of collateral under these guidelines shall remain valid, binding and
+enforceable notwithstanding the insolvency, liquidation, restructuring, moratorium, or
+resolution of a Participating Institution.
+b) Penalty for default: In the event of default, the institution shall pay an additional charge
+as a penalty for the entire Repo/SLF period. In the case of Repo, the penalty shall be
+equivalent to the agreed Repo rate, whereas in the case of SLF, the penalty shall be
+equivalent to the agreed SLF rate.
+
+--- Page 10 ---
+Page | 6
+
+3.5 Standing Deposit Facility (SDF)
+a) Tenor: Overnight (1 day);
+b) Operation Schedule: SDF shall be conducted on each business day;
+c) Interest Rate: As per the rate determined by MPC from time to time;
+3.6 Operational and Settlement Procedures of SDF
+3.6.1 First Leg Settlement
+a) Application Process: Participating Institutions shall participate in the operations by
+applying within the specified timeframe through the electronic system;
+b) Applied Amount: BDT 1.00 (one) crore or above. There shall be no upper limit on the
+applied amount;
+c) Automated First Leg Settlement of SDF: Applications for SDF shall be settled
+automatically and immediately upon receipt by the electronic system of BB, with
+concurrent debit of funds from Participating Institutions, in order to ensure efficient and
+faster processing.
+3.6.2 Second Leg Settlement
+a) Settlement Value: The first leg settlement value plus applicable interest;
+b) Formula for Calculating Settlement Value:
+Second Leg Settlement Value=First Leg Settlement Value × (1+
+SDF Rate ×Tenor
+365
+c) Fund Settlement: The second leg settlement of SDF transactions shall be conducted by
+crediting the settlement value to the Participating Institutions’ current account on the
+maturity date.
+
+--- Page 11 ---
+Page | 7
+
+3.7 Bangladesh Bank Bill (BB Bill)
+a) Tenor: Standard Monetary Operations shall have a tenor of 7 days, while Structural
+Liquidity-Absorbing Operations shall have tenors of 14, 30, 90, and 180 days;
+b) Discount/Interest Rate: Auction-determined, but capped at policy rate for Standard
+Monetary Operations;
+c) Eligibility for Liquidity Support: BB Bill shall be eligible as collateral for availing
+liquidity (Repo and SLF) from BB and for conducting Interbank Repo transactions;
+d) Tax Treatment: Income tax shall be deducted from discount/interest as per Government
+applicable rate.
+3.8 Operational and Settlement Procedures of BB Bill
+a) Auction Announcement: BB shall issue a notice of BB Bill auction prior to mop up
+excess liquidity from the market;
+b) Auction Participation: Participating Institutions shall submit bids through the electronic
+system;
+c) Bid Amount: BDT 10.00 (ten) lac or its multiples;
+d) Bidding Procedure: Bids shall reflect the quantity of bills they wish to purchase and the
+discount rate (interest rate) they are willing to accept. Separate bids shall be submitted on
+each auction, and multiple bids may be submitted in any auction;
+e) Publication of Result: The result shall be published in the electronic system within the
+specified timeframe after being finalized by the Auction Committee of BB. Participating
+Institutions shall have sufficient cash reserves to cover the full amount submitted for the
+BB Bill;
+f) Issuance and Settlement Process: BB Bill shall be issued at discount, based on the final
+result, the settlement shall be done by debiting the current accounts of Participating
+Institutions held at BB;
+g) Maturity Settlement: At maturity, BB shall pay the face value to the holders by
+crediting the current account of the Participating Institutions. If the office is closed due to
+a public holiday, the maturity settlement shall occur on the following business day.
+
+--- Page 12 ---
+Page | 8
+
+4. Instruments of OMOs for Shari’ah Based Banks and Finance Companies
+With a view to managing liquidity within the Islamic banking system in Bangladesh, BB uses
+Shari’ah-compliant instruments that strictly adhere to Islamic finance principles, avoiding
+interest (riba) and excessive uncertainty (gharar). The Islamic Banks Liquidity Facility (IBLF) is
+one of the tools used to inject funds into the Islamic banking system. Shari’ah based banks and
+finance companies, as well as Islamic branches or windows of conventional banks and finance
+companies that maintain a current account or an al-wadiah current account with BB, are eligible
+to participate in these operations.
+4.1 Islamic Banks Liquidity Facility (IBLF)
+a) Tenor: 7 days;
+b) Operation Schedule: IBLF operation shall be conducted on each business day;
+c) Provisional Profit Rate:
+The profit under IBLF shall be determined based on a pre-agreed profit-sharing
+ratio between the BB (Rab-al-Mal) and the Participating Institution (Muḍarib);
+ii)
+The provisional profit rate of IBLF shall be indicative only, linked to the one-
+month Mudarabah Term Deposit Receipt (MTDR) profit rate of the respective
+Participating Institution;
+iii)
+If a one-month MTDR profit rate is not available, the profit rate of the next
+higher-tenor MTDR profit rate declared by the respective institution shall be used
+as the indicative provisional profit rate for IBLF;
+iv)
+If an institution declares multiple profit rates for the same tenor product, the
+highest rate of that tenor shall be considered as the provisional profit rate for
+IBLF;
+The final profit shall be adjusted at the end of the calendar year based on actual
+realized profit, reported by the Participating Institution. To facilitate this
+adjustment, Participating Institutions shall submit their final realized Mudarabah
+profit rate to BB at the end of the calendar year;
+
+--- Page 13 ---
+Page | 9
+
+
+4.2 Operational and Settlement Procedures of IBLF
+4.2.1 First Leg Settlement
+a) Application Process: Participating Institutions shall participate in the operations by
+applying within the specified timeframe through the electronic system;
+b) Bid Amount: BDT 1.00 (one) crore or above;
+c) Publication of Result: The result shall be published in the electronic system within the
+specified timeframe;
+d) Settlement Value: The first leg settlement value shall be equal to the market value
+(clean price) of the securities after applying haircut. If securities do not have an available
+market price, then the face value of the securities shall be considered as the market
+value;
+First Leg Settlement Value = Market Value of Securities × (1-Haircut %)
+e) Fund and Securities Settlement: Based on the result, fund settlement shall be
+conducted by crediting the current accounts/al-wadiah current accounts of the
+Participating Institutions, while the securities shall simultaneously be placed with BB as
+collateral for the duration of the IBLF period, to solely secure the Mudarabah capital
+against negligence, misconduct, or breach of contract by the Participating Institution.
+4.2.2 Second Leg/Maturity Settlement of Investment
+a) Settlement Value: The first leg settlement value plus BB’s provisional share of profit, if
+any, subject to final determination based on actual realized profit;
+Second Leg Settlement Value=First Leg Settlement Value × (1+
+IBLF Profit Rate ×Tenor
+365
+b) Fund and Securities Settlement: On the maturity date, BB shall debit the current
+account/al-wadiah current account of the respective institution to recover the investment
+amount and the profit (as per the provisional profit rate), and release the collateralized
+securities to the respective institution. The Participating Institution shall ensure that
+sufficient funds, equivalent to the second leg settlement value, are available in its current
+account/al-wadiah current account at maturity.
+c) Rollover of IBLF: Upon maturity of the existing IBLF, rollover shall be permitted
+subject to the conditions specified in the annexure, provided that the existing Mudarabah
+
+--- Page 14 ---
+Page | 10
+
+is first deemed terminated through settlement of provisional profit (if any) and
+confirmation that no loss has occurred, and a new and independent Mudarabah contract is
+executed thereafter.
+4.3 Treatment Regarding Breach of Terms of Contract
+a) Default Clause:
+i) At maturity, if the institution fails to settle the investment due to negligence,
+misconduct, or contractual breach, BB shall have the right to enforce its security
+interest over the collateralized securities;
+ii) BB shall have the immediate right to seize, and liquidate (sell) the collateral, or to
+determine its value in good faith by reference to prevailing market prices on the
+default date, solely to recover the outstanding investment capital and any profit
+actually realized and distributable as of the date of default, together with actual
+enforcement-related cost;
+iii) Any surplus from the collateral value shall be returned to the institution. Any shortfall
+shall be recovered by debiting the institution’s current account/al-wadiah current
+account with BB. Any remaining deficit after such recovery shall be treated as a
+liability of the institution. The institution shall not be permitted to avail any IBLF from
+BB until such liabilities are fully settled;
+iv) BB’s rights under this clause including enforcement, close-out, netting, seizure, and
+liquidation of collateral under these guidelines shall remain valid, binding and
+enforceable notwithstanding the insolvency, liquidation, restructuring, moratorium, or
+resolution of a Participating Institution.
+b) Penalty for default: In the event of willful default, negligence, or breach of contractual
+obligations, an institution shall pay an additional charge as a penalty for the entire IBLF
+period. BB shall calculate a Shari’ah compliant penalty, using the prevailing Policy Rate
+as a reference. The penalty shall be debited from the Participating Institution’s current
+account/al-wadiah current account, shall not accrue to BB, and shall be transferred in full
+to a charity fund ‘Bangladesh Bank Disaster Management and Social Responsibility
+Fund’ in accordance with Shari’ah principles.
+
+--- Page 15 ---
+Page | 11
+
+5. Outright Transactions of Government Securities
+a) Auction Announcement: BB shall announce the outright sale or purchase of
+Government Securities through a public notice. The announcement shall specify the types
+of securities, the amount to be sold or purchased, and the auction details, including the
+date, time, and rules of the transaction;
+b) Order Amount: BDT 10.00 (ten) lac or its multiples;
+c) Auction Participation: Participating Institutions shall submit orders through the
+electronic system;
+d) Order Procedure: An order shall include the quantity of Government Securities the
+Participating Institution intends to ‘purchase or sell’, and the price (or yield) it is willing
+to offer or accept. A separate order shall be submitted for each auction, and multiple
+orders may be submitted in any auction;
+e) Publication of Result: After finalizing the result by the Auction Committee of BB, it
+shall be published in the electronic system within the specified timeframe;
+f) Fund and Securities Settlement: Based on the final results, the settlement shall be
+executed by appropriately debiting or crediting the Participating Institutions’ current
+accounts with BB and simultaneously transferring the corresponding securities from the
+seller’s account to the buyer’s account, as applicable to Outright Sales or Purchases.
+
+--- Page 16 ---
+Page | 12
+
+6. General Terms and Conditions
+a) Day Count Convention: Actual/365 basis;
+b) Settlement Cycle: T+0;
+c) Treatment of Collateral: While providing the facility, the entire securities shall be
+treated as collateralized securities, even if a haircut is applied to their market value at the
+prescribed rate. All securities used under the OMOs shall be subject to statutory collateral
+marking in favor of BB, with the right of appropriation in the event of default, without
+requiring further consent from the counterparty. These collateral securities shall not
+qualify as eligible assets for the SLR during the transaction period;
+d) Coupon/Profit of Securities in Interim Period: The Participating Institutions shall
+receive interim coupon/profit (if any) from securities used as collateral;
+e) Restricted Securities: Securities maturing within the Repo/SLF/IBLF tenor shall not be
+considered eligible for applications;
+f) Use of Securities for Multiple OMO: Participating Institutions shall be permitted to
+apply for different OMOs facilities using the same securities, subject to the
+unencumbered balance of those securities;
+g) Holiday Settlement Adjustment: If BB is closed due to a public holiday, the second leg
+settlement shall occur on the following business day. Interest/profit shall be paid from the
+day the facility is provided until the settlement date;
+h) Holiday Treatment of RMP: If BB is closed due to a public holiday at the end day of
+RMP, then the fine-tuning operation shall be conducted on the previous working day;
+i) Debit/Credit Authority of BB: BB shall have the authority to debit and credit the
+current account/al-wadiah current account and securities accounts of Participating
+Institutions in respect of OMOs;
+j) Manual Application: In exceptional circumstances, where submission of electronic
+applications is not possible, manual applications for Repo, SDF, SLF, BB Bill, and IBLF
+may be submitted to the BB, Motijheel office in prescribed form (see Annexure) within
+the specified timeframe;
+k) Details of Authorized Officials: Participating Institutions interested in conducting
+OMOs under these guidelines shall provide BB with the necessary information regarding
+authorized officials (e.g., name, telephone number, e-mail address, sample signature,
+etc.);
+
+--- Page 17 ---
+Page | 13
+
+l) Replacement of Existing Circulars and Directives: All previous policies, guidelines,
+circulars, and circular letters issued by the relevant department regarding Central Bank
+Repo, Special Repos/SLF, Reverse Repos/SDF, BB Bill and IBLF shall be deemed
+replaced by the directives of these guidelines.
+7. Dispute Resolution
+Any dispute arising regarding the OMOs shall be resolved by BB in accordance with applicable
+laws and regulations.
+8. Modification of Guidelines
+BB may modify, extend, add, or remove relevant policies and procedures related to OMOs, as
+deemed necessary.
+
+--- Page 18 ---
+Page | 14
+
+Annexure-1: List of Eligible Securities for OMOs
+The following unencumbered marketable securities, including such other securities as may be
+declared eligible by BB from time to time, shall be accepted as collateral for the respective OMO
+facilities, subject to the applicable haircuts:
+Instruments
+Eligible Securities
+Applicable Haircut
+Repo and SLF
+Treasury Bills (T-Bill)
+Bangladesh Government Treasury Bonds (BGTB)
+Bangladesh Bank Bill (BB Bill)
+IBLF
+Bangladesh Government Investment Sukuk (BGIS)
+Annexure-2: Rollover Procedures
+At the maturity of 7 days Repo and IBLF, rollover shall be permitted upon application by the
+Participating Institution, subject to compliance with the following conditions:
+a) Participating Institutions shall submit their request for rollover within the stipulated
+timeframe. Requests received after the stipulated cut-off time shall not be considered;
+b) The Participating Institution shall, on the maturity date, fully settle all accrued
+interest/profit due to BB as Rab-al-Mal on the maturing transaction prior to consideration
+of rollover;
+c) BB shall conduct a new mark-to-market valuation of the collateral securities and apply
+the applicable haircut to determine the revised borrowing/investment limit;
+d) Any shortfall or excess arising from revaluation and haircut adjustments shall be settled
+through the Participating Institution’s current account/al-wadiah current account with BB
+on the same day;
+e) Upon settlement of the interest/agreed-upon profit share and valuation process, the new
+Repo/IBLF shall be initiated as a rollover transaction under the applicable OMO terms,
+reflecting any adjustments to the interest rate/agreed-upon profit share based on actual
+performance;
+f) If the Participating Institution fails to settle accrued interest/agreed-upon profit share,
+valuation differences, or provide eligible collateral within the prescribed timeframe, the
+rollover request shall be rejected and the maturing transaction shall be fully settled;
+
+--- Page 19 ---
+Page | 15
+
+g) For 7 days Repo transactions, if the second leg settlement falls on a holiday and the
+transaction is rolled over, the new Repo transaction shall mature on the next scheduled
+regular Repo operation day (e.g., a rollover Repo initiated on Wednesday shall be settled
+on next Tuesday);
+h) Rollover of 7 days Repo and IBLF transactions shall not exceed two (02) consecutive
+occurrences.
+Annexure-3: Time Schedule of OMOs
+The submission of applications/bids and the announcement of results for OMOs shall be
+conducted as follows, or as specified by BB from time to time:
+
+
+
+
+
+Sl.
+Instruments
+Submission Time
+Result
+Publication
+Time
+Settlement Time
+Central Bank Repo
+10:00 am - 3:00 pm
+3:30 pm
+1st leg: 4:30 pm
+2nd leg: 1:00 pm
+(Rollover/Settlement)
+SLF
+10:00 am- 5:00 pm
+1st leg: Continuous basis
+2nd leg: 1:00 pm
+(Settlement)
+SDF
+10:00 am - 5:00 pm
+1st leg: Continuous basis
+2nd leg: At the start of the day
+BB Bill
+10:00 am - 12:30 pm
+2:30 pm
+4:00 pm
+Outright Buy-Sell
+10:00 am - 12:30 pm
+2:30 pm
+4:00 pm
+IBLF
+10:00 am - 3:00 pm
+3:30 pm
+1st leg: 4:30 pm
+2nd leg: 1:00 pm
+(Rollover/Settlement)
+
+--- Page 20 ---
+Page | 16
+
+Annexure-4: Sample Auction Notice for Outright Sale of Government
+Securities
+To permanently absorb excess liquidity from the banking system, BB proposes an outright sale
+of government securities held in its portfolio. The terms and conditions of the auctions are as
+follows:
+Auction Date
+
+Auction Type
+Multiple Price Auction
+Securities Details
+1) Type: Treasury Bond / Treasury Bill/BGIS
+2) ISIN:
+3) Notified Amount:
+4) Maturity Date(s): As per security details
+5) Coupon / Discount/Profit Rate: As applicable
+Eligibility
+
+For Treasury Bond / Treasury Bill:
+Conventional banks and finance companies maintaining current accounts with
+BB.
+For BGIS:
+Shari’ah based banks and finance companies, and the Islamic branches or
+windows of conventional banks and finance companies maintaining current
+accounts or al-wadiah current accounts with BB.
+Bid Submission
+Time
+Bid shall be submitted electronically through the FMI system between 10:00 am
+and 12:30 pm on the auction day.
+Bid Terms
+1) Participating Institutions shall bid/quote the price (clean price) for every
+BDT 100 face value of the securities.
+2) Bid Size: BDT 10.00 lac or its multiples.
+3) Multiple bids are permitted.
+Payment and
+Settlement
+Fund settlement shall be conducted by debiting the current accounts or al-wadiah
+current accounts of the Participating Institutions held at BB. Simultaneously, the
+sold securities shall be transferred to the Participating Institution.
+Other Terms &
+Conditions
+Successful Participating Institutions shall pay the respective bid price and
+accrued interest/profit on the nominal value of the securities allotted in the
+auction, calculated from the issue date.
+
+Interested participants shall submit their bids through the Bangladesh Bank Financial Market
+Infrastructure (FMI) system within the specified timeframe on the date of auction. Separate bids
+must be submitted for different prices. The results will be announced by 2:30 p.m. on the same
+day. Submission of bids in the auction shall be treated as authorization for Bangladesh Bank to
+debit the Participating Institutions’ current accounts or al-wadiah current accounts and credit the
+securities account. Accordingly, Participating Institutions are advised to ensure that bids are
+submitted by their authorized officials.
+
+Your faithfully,
+
+
+Director (DMD)
+
+--- Page 21 ---
+Page | 17
+
+Annexure-5:
+Sample
+Auction
+Notice
+for
+Outright
+Purchase
+of
+Government Securities
+To permanently provide liquidity in the banking system, BB proposes an outright purchase of
+government securities from the market participants. The terms and conditions of the auctions are
+as follows:
+Auction Date
+
+Auction Type
+Multiple Price Auction
+Securities Details
+1) Type: Treasury Bond / Treasury Bill/BGIS
+2) Notified Amount:
+Eligibility
+
+For Treasury Bond / Treasury Bill:
+Conventional banks and finance companies maintaining current accounts with
+BB.
+For BGIS:
+Shari’ah based banks and finance companies, and the Islamic branches or
+windows of conventional banks and finance companies maintaining current
+accounts or al-wadiah current accounts with BB.
+Offer Submission
+Time
+Offer shall be submitted electronically through the FMI system between 10:00 am
+and 12:30 pm on the auction day.
+Offer Terms
+1) Participating Institutions shall submit offers for the outright sale of
+Government Securities from their holdings:
+a) specifying the quantity they are willing to sell;
+b) the price at which they want to sell the securities.
+2) Offer Size: BDT 10.00 lac or its multiples.
+3) Multiple offers are permitted.
+4) Separate offers must be submitted for different prices.
+Payment and
+Settlement
+Fund settlement shall be conducted by crediting the current accounts or al-wadiah
+current accounts of the Participating Institutions held at BB. Simultaneously, the
+sold securities shall be transferred to the BB.
+Other Terms &
+Conditions
+Successful Participating Institutions shall receive the respective offer price and
+accrued interest/profit on the nominal value of the securities sold in the auction,
+calculated from the issue date.
+
+Interested participants shall submit their offers through the Bangladesh Bank Financial Market
+Infrastructure (FMI) system within the specified timeframe on the date of auction. Separate
+offers must be submitted for different prices. The results will be announced by 2:30 p.m. on the
+same day. Submission of offers in the auction shall be treated as authorization for Bangladesh
+Bank to credit the Participating Institutions’ current accounts or al-wadiah current accounts and
+debit the securities account. Accordingly, Participating Institutions are advised to ensure that
+offers are submitted by their authorized officials.
+
+Your faithfully,
+
+
+Director (DMD)
+
+--- Page 22 ---
+Page | 18
+
+Annexure-6: Sample Auction Notice for Bangladesh Bank Bill
+According to Circular No. ‘Guidelines for Open Market Operations’ by Debt
+Management Department of Bangladesh Bank, the auctions for will be held on .
+The main features of the BB Bill and the auction procedures are as follows.
+Auction Method
+and Type
+Multiple-price auction (competitive bids) will be conducted through the BB’s
+electronic platform (FMI System).
+Bidding Time
+Eligible participants shall submit bids electronically through the FMI system
+between 10:00 am and 12:30 pm on the auction day. Manual (sealed-cover) bids
+may be submitted to the concerned department if technical issues occur.
+Bid Terms
+The face value of each bill is BDT 100.00;
+Bids must specify the offer price per BDT 100 face value;
+Separate bids shall have to be submitted for different prices.
+Eligibility
+All conventional banks and finance companies maintaining current accounts with
+Bangladesh Bank.
+Settlement Time Successful bids will be settled through participants’ accounts maintained with
+Bangladesh Bank on the same day.
+Discount Rate
+The bills will be issued and redeemed at a discount
+Transferability
+Freely tradable and transferable
+In exceptional situations such as system failure, bids can be submitted using the manual system
+(bids in sealed covers) with prior approval from Debt Management Department. The bids will be
+opened at 12.30 pm and the results will be announced by 02.30 pm on same day. The bids
+submitted in the auction will be considered as the letter of authorization of the Participating
+Institutions to debit their current accounts maintained with Bangladesh Bank. Therefore,
+concerned Participating Institutions are advised to submit bids through their responsible officials.
+
+
+Your faithfully,
+
+Director (DMD)
+
+--- Page 23 ---
+Page | 19
+
+Annexure-7: Prescribed Application Form for Manual Submission
+1. Central Bank Repo Form
+Date:
+Executive Director
+Bangladesh Bank
+Motijheel Office
+Dhaka, Bangladesh.
+Dear Sir,
+Subject: Application for Central Bank Repo.
+We, the undersigned, hereby request the BB to conduct a Central Bank Repo transaction on our
+behalf under the terms specified below:
+1. Transaction Date
+
+2. Requested Amount
+
+3. Applicable Interest Rate and Tenor
+
+Details
+of
+Eligible Securities
+used for Repo
+T-Bill
+ISIN:
+
+Total Market Value:
+
+Value after applying haircut:
+
+T-Bond
+
+ISIN:
+
+Total Market Value:
+
+Value after applying haircut:
+
+5. First Leg Settlement Value
+
+6. Second Leg Settlement Value
+
+We certify that the above information is accurate and complete. We agree to comply with all
+applicable regulations and terms regarding this transaction.
+
+
+
+
+
+
+
+Authorized Officer's Name, Designation,
+Signature and Seal
+
+--- Page 24 ---
+Page | 20
+
+2. Standing Deposit Facility (SDF) Form
+Date:
+Executive Director
+Bangladesh Bank
+Motijheel Office
+Dhaka, Bangladesh.
+Dear Sir,
+Subject: Application for Standing Deposit Facility (SDF).
+We, the undersigned, hereby request the BB to conduct a SDF transaction on our behalf under
+the terms specified below:
+
+
+
+
+
+
+
+
+
+
+
+We hereby authorize you to deduct the funds received from our current account as per the
+application. We agree to comply with all applicable regulations and terms regarding this
+transaction.
+
+
+
+
+
+Authorized Officer's Name, Designation,
+Signature and Seal
+
+
+
+
+
+
+
+
+
+
+
+1. Transaction Date
+
+2. Bid Amount
+
+3. Maturity Date
+
+4. Applicable Interest Rate
+
+5. First Leg Settlement Price
+
+6. Second Leg Settlement Price
+
+--- Page 25 ---
+Page | 21
+
+3. Standing Lending Facility (SLF) Form
+Date:
+Executive Director
+Bangladesh Bank
+Motijheel Office
+Dhaka, Bangladesh.
+Dear Sir,
+Subject: Application for Standing Lending Facility (SLF).
+We, the undersigned, hereby request the BB to conduct a Standing Lending Facility (SLF)
+transaction on our behalf under the terms specified below:
+1. Transaction Date
+
+2. Requested Amount
+
+3. Applicable Interest Rate and Tenor
+
+Details
+of
+Eligible Securities
+used for SLF
+T-Bill
+ISIN:
+
+Total Face Value:
+
+Total Market Value:
+
+Value after applying haircut:
+
+T-Bond
+
+ISIN:
+
+Total Face Value:
+
+Total Market Value:
+
+Value after applying haircut:
+
+5. First Leg Settlement Value
+
+6. Second Leg Settlement Value
+
+
+We certify that the above information is accurate and complete. We agree to comply with all
+applicable regulations and terms regarding this transaction.
+
+
+
+
+
+
+
+Authorized Officer's Name, Designation,
+Signature and Seal
+
+--- Page 26 ---
+Page | 22
+
+4. Bangladesh Bank Bill (BB Bill) Bid Form
+Date:
+Executive Director
+Bangladesh Bank
+Motijheel Office
+Dhaka, Bangladesh.
+Dear Sir,
+Subject: Application for Submission of Bid for BB Bill.
+We, the undersigned, hereby request to submit bid for BB Bill on our behalf under the terms
+specified below:
+1. Transaction Date
+
+2. Tenor
+
+3. Bid Amount (in Crore BDT)
+
+4. Offer Price/Rate
+
+On acceptance, we hereby authorize BB to debit our current account maintained with BB for
+settlement. We agree to comply with any decisions taken by the Auction Committee of BB.
+
+
+
+
+
+Authorized Officer's Name, Designation,
+Signature and Seal
+
+--- Page 27 ---
+Page | 23
+
+
+
+5. Islamic Banks Liquidity Facility (IBLF) Form
+Date:
+The Executive Director
+Bangladesh Bank
+Motijheel Office
+Dhaka, Bangladesh.
+
+Dear Sir,
+Subject: Request for IBLF.
+With reference to the DMD Circular No.
+
+Dated
+we, hereby apply for funds
+under IBLF as per details given below:
+Rab-al-Mal (Partner 1): Bangladesh Bank (BB)
+Mudarib (Partner 2): .
+
+A. Details of the eligible collateral
+1.Security Type
+
+2.Security
+Details
+
+
+ISIN:
+
+Total Face Value:
+
+Total Market Value:
+
+Value after applying haircut:
+
+B. Details of fund
+1. Transaction Date
+
+2. Requested/Financing amount
+
+3. Amount in words
+
+4. Tenor of IBLF
+
+5. Fund to be credited to Account No
+
+6. Existing profit sharing ratio applicable for
+current Mudarabah Term Deposit Receipt
+
+7. Expected Profit Rate (attach rate sheet)
+
+8. Expected Profit Amount
+
+9. Total amount payable to BB at maturity
+(Financing amount +Expected Profit amount)
+
+
+a) We hereby authorize BB to mark the securities as collateralized as per the details provided above. We
+further authorize BB to credit our Current Account/Al-Wadiah Current Account with the allotted amount
+and to debit the same account for settlement at maturity.
+b) In the event that we fail to maintain adequate funds in our Current Account/Al-Wadiah Current Account for
+the settlement of IBLF at maturity due to negligence, misconduct, or breach of contractual obligations, BB
+is authorized to adjust the investment capital and any profit actually realized and distributable by disposing
+of the collateralized securities.
+c) We shall be liable to pay any penalty imposed on us by BB in the event of willful default, negligence or
+breach of contract.
+Yours faithfully,
+
+Authorized Name & Signature
+with Seal/Rubber Stamp
+
+--- Page 28 ---
+Page | 24
+
+Annexure-8: Allotment Process of Liquidity-Absorbing Variable Auction
+In a liquidity absorbing variable rate auction (such as BB Bill, Outright Sale), allotment of bids
+submitted by eligible counterparties shall be made in accordance with the following procedures:
+1. Bids shall be arranged in ascending order of offered interest/profit rates or, where
+applicable, in descending order of offered prices;
+2. Bids quoting the lowest interest/profit rates shall be satisfied first, followed by bids at
+successively higher interest/profit rates, until the total amount of liquidity to be absorbed
+is exhausted;
+3. If the aggregate amount of bids at the cut-off interest/profit rate exceeds the remaining
+amount available for allotment, the remaining amount shall be allotted on a pro-rata basis
+among those bids, in proportion to each bid amount relative to the total bids at the cut-off
+rate;
+4. The amount allotted to each Participating Institution shall be rounded to the nearest BDT.
+Annexure-9: Allotment Process of Liquidity-Providing Variable Auction
+In a liquidity-providing variable rate auction (such as Outright Purchase), the bids of
+counterparties shall be allotted in the following manner:
+1. Bids shall be arranged in descending order of offered interest/profit rates or, where
+applicable, in ascending order of offered prices;
+2. Bids quoting the highest interest/profit rates shall be satisfied first, followed by bids at
+successively lower interest/profit rates, until the total amount of liquidity to be provided
+is exhausted;
+3. If the aggregate amount of bids at the cut-off interest/profit rate exceeds the remaining
+amount available for allotment, the remaining amount shall be allotted on a pro-rata basis
+among those bids, in proportion to each bid amount relative to the total bids at the cut-off
+rate;
+4. The amount allotted to each Participating Institution shall be rounded to the nearest BDT.
+
+--- Page 29 ---
+Page | 25
+
+Annexure-10: Accounting Treatment for Collateral-Based Transactions
+Notwithstanding the contractual structure describing the transaction as a sale and subsequent
+repurchase, Central Bank Repo transactions conducted under these guidelines shall, for all
+accounting, prudential, risk management, regulatory, and insolvency-related purposes, be treated
+as collateralized borrowing arrangements, similar to the SLF and IBLF. Under such
+arrangements, the Participating Institution (PI) shall retain the economic ownership of, and
+substantially all risks and rewards associated with, the underlying securities, subject to BB’s
+security interest therein. Accordingly, securities provided as collateral by a PI to obtain liquidity
+shall not be derecognized from the PI’s balance sheet. The cash received shall be recorded as a
+borrowing liability/investment received, adjusted for any applicable haircut, with no separate
+margin receivable recognized. The collateralized securities shall remain on the PI’s balance sheet
+for the tenor of the transaction and shall be derecognized only in the event of default, upon BB
+exercising its right of seizure.
+1. Accounting Instructions for Participating Institutions:
+a) Retention on Books: Collateralized securities shall remain on the borrower’s (PI’s) books
+(HTM at amortized cost, HFT at fair value) and shall be disclosed in the financial
+statement notes as ‘Collateralized Securities under Repo/SLF/IBLF’. Upon entering the
+first leg, the securities shall be reclassified from unencumbered to encumbered securities,
+and therefore shall not qualify for SLR purposes during the encumbrance period;
+b) Cash and Liability Recording: The borrower (PI) shall record cash received as an inflow
+with a corresponding Repo/SLF/IBLF liability, equal to the market value of the
+collateralized security (after haircut) i.e. first leg settlement value;
+c) Maturity Settlement: Upon maturity, the borrower (PI) shall repay the Repo/SLF
+liability/IBLF investment amount along with interest/profit. No re-entry of securities shall
+be required;
+d) Revaluation during Repo/SLF/IBLF Period: The borrower (PI) shall continue normal
+accounting treatment of securities, whereas the lender (BB) shall not record the securities
+and shall have no revaluation;
+e) Coupon/Profit-Bearing Securities: The borrower (PI) shall continue accruing
+coupon/profit, while the lender (BB) shall record only a loan/investment and shall not
+accrue coupon/profit;
+f) Non-Coupon/Profit-Bearing Securities: For non-coupon/profit-bearing securities, the
+borrower (PI) shall maintain normal HFT or HTM treatment, while the lender (BB) shall
+not recognize the securities and shall record no revaluation;
+
+--- Page 30 ---
+Page | 26
+
+g) Default Accounting Treatment: In the event of default upon formal seizure of securities
+by lender (BB) at maturity, the borrower (PI) shall derecognize the collateralized security
+only to the extent of loss realized (including penalty amount in case of Repo and SLF) and
+shall reflect any shortfall recovery or surplus return in their books.
+2. Journal Entries for Participating Institutions
+a) At First Leg (T+0)
+i) Recognition of cash and borrowing liability: Cash received against collateralized securities
+shall be recorded as a liability. The securities shall remain on the balance sheet (with the lien
+disclosed off-balance sheet).
+Debit
+Credit
+Balances with Bangladesh Bank
+Collateralized Borrowing Liability/Investment
+Received
+Securities remain on balance sheet (disclosed in footnotes)
+ii) Reclassification of collateralized securities: Upon entering the first leg, the securities shall
+be reclassified from Unencumbered to Encumbered Securities, and therefore shall not qualify
+for SLR purposes during the encumbrance period.
+Debit
+Credit
+Encumbered Government Securities
+Investment in Government Securities
+b) Interest/Profit Accrual (Reporting day/Maturity)
+At the reporting date and/or at maturity, the PI shall accrue the interest or profit expense arising
+from Repo/SLF/IBLF transactions by recognizing the corresponding payable.
+Debit
+Credit
+Interest/Profit on borrowing
+Interest/Profit Payable on borrowing
+c) At Maturity (Second Leg Settlement)
+i) Second Leg Settlement: At maturity, the PI shall repay the liability along with the interest
+or profit agreed under the collateral arrangement. The collateral securities shall be released
+with no accounting entry, as they shall never have been derecognized.
+Debit
+Credit
+Collateralized Borrowing Liability/ Investment Received
+Balances with Bangladesh Bank
+Interest/Profit Payable on borrowing
+(Footnote disclosure updated)
+
+--- Page 31 ---
+Page | 27
+
+ii) Re-classification of collateralized securities: At maturity, the securities shall be
+reclassified from Encumbered to Unencumbered Securities, and therefore shall be qualified
+for SLR purposes.
+Debit
+Credit
+Investment in Government Securities
+Encumbered Government Securities
+d) In case of Default (Failure to Settle Second Leg)
+If the PI fails to repay the borrowing (second leg), the collateralized securities shall be seized and
+derecognized. The accounting treatment shall depend on the relationship between the market
+value of the securities and the collateralized borrowing liability.
+i) When Government Securities Market Value = Collateralized Borrowing Liability: If the
+collateral value fully covers the liability, no gain or loss shall arise. No additional entry
+shall be required, as the liability shall be exactly offset by the collateral value.
+Debit
+Credit
+Collateralized Borrowing Liability
+(Repo/SLF: including interest and penalty)/
+(IBLF: including profit)
+Government Securities
+(derecognized upon seizure)
+(Footnote disclosure updated)
+ii) When Government Securities Market Value < Collateralized Borrowing Liability: If the
+collateral value is insufficient, a loss equal to the shortfall amount shall be recognized. The
+loss shall represent the portion of the liability that cannot be recovered from the seized
+securities.
+Debit
+Credit
+Collateralized Borrowing Liability
+(Repo/SLF: including interest and penalty)/
+(IBLF: including profit)
+Government Securities (derecognized upon
+seizure)
+Credit Loss/Impairment Loss
+(Loss recognized)
+Balances with Bangladesh Bank (Shortfall
+returned to BB)
+iii) When Government Securities Market Value > Collateralized Borrowing Liability: If the
+collateral exceeds the liability, the surplus cash shall be returned to the PI.
+Debit
+Credit
+Collateralized Borrowing Liability
+(Repo/SLF: including interest and penalty)/
+(IBLF: including profit)
+Government Securities
+(derecognized upon seizure)
+Balances with Bangladesh Bank
+(Surplus cash returned to PI)

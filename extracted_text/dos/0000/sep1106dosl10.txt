@@ -1,0 +1,346 @@
+--- Page 1 ---
+প্রধান কার্যালয়
+নং ৩২৫ ডিপার্টমেন্ট অফ অফসাইট সুপারভিশন
+
+ঢাকা |
+
+২৭-০৫-১৪১৩ বাং
+ডিওএস সার্কুলার লেটার নং-১০ তারিখ £--------+----
+
+১১-০৯-২০০৬ ইং
+
+প্রধান নির্বাহী
+বাংলাদেশে কার্যরত সকল ব্যাংক কোম্পানী |
+
+প্রিয় মহোদয়
+
+ব্যাংক কোম্পানীর ধারণকৃত ট্রেজারী বিল ও বন্ডের Marking to market ভিত্তিক পুন:মূল্যায়ন প্রসংগে |
+(Marking to market based revaluation of Treasury Bills and Bonds held by the banks)
+
+উপর্যুক্ত বিষয়ে ৩১/১০/২০০৫ তারিখে ইস্যুক্ত বিআরপিডি সার্কুলার নং-১৫ এর নির্দেশনার নিম্নোক্ত
+বিষয়গুলো স্পষ্টীকরণ করা হলো --
+
+১। ব্যাংক কোম্পানীর ৩১ ডিসেম্বর ভিত্তিক Held to maturity (HTM) ও Held for trading
+(HFT) অংশে ধারণকৃত সরকারী সিকিউরিটিগুলোর বিবরণী পরবর্তী বছরের জানুয়ারী মাসের ১৫ তারিখের মধ্যে
+নির্ধারিত ছকে (DB-5b এবং 7)73-5০) ডিপার্টমেন্ট অফ অফসাইট সুপারভিশন-এ দাখিল করতে হবে |
+
+২ | Statutory Liquidity Requirement (SLR) সংরক্ষণে অন্যান্য ব্যবহার উপযোগী
+সিকিউরিটিগুলোর ৩১ ডিসেম্বর ভিত্তিক বিবরণীও পরবর্তী বছরের জানুয়ারী মাসের ১৫ তারিখের মধ্যে নির্ধারিত
+ছকে (DB-5d) অত্র বিভাগে দাখিল করতে হবে |
+
+© | Held to maturity (HTM) অংশে ধারণকৃত সরকারী সিকিউরিটিগুলো প্রতিদিন Present
+Value-0S মূল্যায়ন করতে হবে এবং এই মূল্য SLR সংরক্ষণে ব্যবহার উপযোগী অন্যান্য উপাদানের সাথে
+নির্ধারিত ছকে (DB-5) অন্তর্ভক্ত করে প্রতিমাসের বিবরণী পরবর্তী মাসের ১০(দশ) তারিখের মধ্যে অত্র
+বিভাগে দাখিল করতে হবে | HTM অংশে ধারণকৃত সরকারী সিকিউরিটিগুলোর ৩১ ডিসেম্বর ভিত্তিক এ
+ধরণের পুনঃমূল্যায়নজনিত Sra মূলধন পরিবর্তন সংক্রান্ত বিবরণীতে অন্তর্ভৃক্ত করতে হবে |
+
+8 | চলতি বছরে HTM ও HFT অংশে ধারণকৃত সরকারী সিকিউরিটিগুলোর আন্তবদল [স্থানান্তর)-এ
+ARS শর্তাদি প্রযোজ্য হবে ঃ
+
+ক) বিশেষ পরিস্থিতিতে ব্যাংক কোম্পানীর ধারণকৃত সরকারী সিকিউরিটিগুলো ব্যাংকের পরিচালনা
+পর্ষদের (বিদেশী ব্যাংকের ক্ষেত্রে প্রধান নির্বাহী) অনুমোদন সাপেক্ষে Calendar year শুরুর ০২দুই) মাসের
+মধ্যে কেবলমাত্র একবার উভয় শ্রেনীতে (HTM ও HFT) স্থানান্তর করা যাবে | এ ধরণের স্থানান্তরের ক্ষেত্রে
+পর্যদ/প্রধান নির্বাহীর অনুমোদন সংক্রান্ত দলিলাদি এবং স্থানান্তরকৃত সিকিউরিটিগুলোর বিবরণী তাৎক্ষনিকভাবে
+নির্ধারিত ছকে (DB-5Se) অত্র বিভাগে দাখিল করতে হবে |
+
+খ) HTM এবং HFT অংশে ধারণকৃত সরকারী সিকিউরিটিগুলোর সর্বোচ্চ ১০% HTM থেকে HFT
+অথবা HET থেকে HTM অংশে স্থানান্তর করা যাবে এবং স্থানান্তরের উভয় ক্ষেত্রেই সরকারী সিকিউরিটিগুলোর
+মূল Yield ব্যবহারপূর্বক নিণীত Present value বিবেচনা করতে হবে |
+
+গ) স্থানান্তরের সময়ে পুনঃমূল্যায়নজনিত হ্রাস/বৃদ্ধি লাভ-ক্ষতি হিসাবে অন্তর্ভক্ত করতে হবে |
+
+--- Page 2 ---
+অপর পৃষ্ঠা WET
+
+
+৫ | ব্ছরের যেকোন সময় অন্যান্য উপযোগী ও প্রাইমারী সিকিউরিটি ছাড়াও সেকেন্ডারী মাকেট থেকে
+ক্রয়কৃত সরকারী সিকিউরিটি দ্বারা HTM অংশের সিকিউরিটিজের পরিমান বৃদ্ধি করা যাবে তবে এক্ষেত্রে
+সেকেন্ডারী মাকেট থেকে ক্রয়কৃত সরকারী সিকিউরিটির মূল Yield ব্যবহার করে Present value নির্ণয়পূর্বক
+HIM অংশে অন্তর্ভক্ত করতে হবে এবং উক্ত অন্তর্ভুক্তকরণের ফলে সিকিউরিটিগুলোর পুনঃমূল্যায়নজনিত
+হ্রাস/বৃদ্ধি লাভ-ক্ষতি হিসাবে প্রদর্শন করতে হবে |
+
+৬ | ব্যাংক কোম্পানী কর্তৃক সবধরণের সরকারী সিকিউরিটি প্রোইমারী/সেকেন্ডারী) ক্রয়কালে HFT
+অথবা HTM এর কোন্‌ খাতে USES করা হবে তার সুস্পষ্ট ঘোষনা প্রদানপূর্বক নির্ধারিত ছকে (DB-Sf)
+তাৎক্ষনিকভাবে wa বিভাগকে অবহিত করতে হবে |
+
+৭ | HTM অংশে ধারণকৃত সরকারী সিকিউরিটিগুলোর Repo করা যাবে না |
+
+৮ | বছরের যেকোন দিন সংরক্ষিত সহজে বিনিময়যোগ্য সম্পদ (SLR) এর পরিমান সংরক্ষিতব্য হার
+অপেক্ষা ৫% এর বেশী হলে HTM অংশে ধারণকৃত সরকারী সিকিউরিটিগুলো থেকে (SLR এর সংরক্ষিতব্য
+হার + ৫%) এর অতিরিক্ত পরিমানের সমতুল্য সিকিউরিটিজ HFT অংশে স্থানান্তরপূর্বক তাওক্ষনিকভাবে
+নির্ধারিত ছকে (DB-5g) অত্র বিভাগকে অবহিত করতে হবে | এরপ স্থানান্তরের ক্ষেত্রেও মূল Vield ব্যবহার
+করে Present value নির্ণয়পূর্বক স্থানান্তর সম্পন্ন করতে হবে |
+
+৯ | ৩১/১০/২০০৫ তারিখের বিআরপিডি সার্কুলার নং-১৫ এর অন্যান্য সকল নির্দেশনা অপরিবর্তিত
+থাকবে |
+
+ব্যাংক কোম্পানীর অক্টোবর'০৬ মাসের Statutory Liquidity Requirement (SLR) সংরক্ষণ
+সংক্রান্ত তথ্যাদি সংশোধিত বিবরণী ছক DB-5 এবং 197-58 [নভেম্বর০৬ মাসের ১০ দেশ) তারিখের মধ্যে
+দাখিলযোগ্য]-এ অত্র বিভাগে দাখিল করার পরামর্শ দেয়া যাচ্ছে | উপরিল্লিখিত সকল ছকের নমুনা প্রয়োজনীয়
+ব্যবস্থা গ্রহনের জন্য এতদসংগে সংযোজন করা হলো |
+
+অনুগ্রহপূর্বক প্রাপ্তি স্বীকার করবেন |
+
+আপনাদের বিশ্বস্ত
+
+সংযুক্তি £ বর্ণনা মোতাবেক |
+স্বা/
+
+(এস. কে. সুর চৌধুরী)
+মহাব্যবস্থাপক
+ফোন £ ৭১২০৩৭৬
+
+--- Page 3 ---
+G.T.Bills
+G.T.Bonds
+Others
+Inclusion
+T=c+d+e+f+g+h+i+j+l
+m=T-b
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Statement (DB-5) Regarding Maintenance of SLR under section 33(1) of Bank Company Act, 1991
+Name of the bank :
+(TK. In thousand)
+F.C. used
+in BDT
+Total
+Excess of
+SLR
+Maintained
+Cash in
+hand
+(To be submitted monthly within the 10th of the following month)
+Authorized Officer:
+Exclusion of
+T.Bill/T.Bond
+from HTM
+Date
+Balance with
+Bangladesh
+Bank
+Balance with
+Sonali bank as an
+agent of
+TT in
+Transit
+Un-encumbered approved securities
+HTM (Present Value)
+Required
+SLR
+
+--- Page 4 ---
+USD ($)
+GBP (₤)
+EURO (€)
+Yean (¥)
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Statement (DB-5a) Regarding use of foreign currency from F.C.Clg.a/c for the maintenance of SLR
+Remarks
+(To be submitted monthly along with Statement DB-5)
+Name of the Bank :
+Date
+Use of Foreign Currency from F.C. Clg. Account (In unit)
+Total amount in
+BDT (Tk. In '000)
+Authorized Officer:
+
+--- Page 5 ---
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Offer value
+Yield
+Present value
+Serial Number of
+T.Bill/T.Bond
+Date of Issue
+of the
+T.Bill/ T.Bond
+Date of
+maturity of the
+T.Bill/ T.Bond
+Face value
+Statement (DB-5b) Regarding information of HTM Securities as on 31st December
+(To be submitted within 15th of the following January)
+Name of the Bank :
+(Fig. In TK.)
+Authorized Officer:
+
+--- Page 6 ---
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Statement (DB-5c) Regarding information of HFT Securities as on 31st December
+(To be submitted within 15th of the following January)
+Name of the Bank :
+(Fig. In TK.)
+Offer value
+Market
+Yield
+Market value
+Serial Number of
+T.Bill/T.Bond
+Date of
+Issue
+Date of
+maturity
+Face value
+Authorized Officer:
+
+--- Page 7 ---
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Authorized Officer:
+Cost Price
+Name of Bond & Debenture
+Date of Issue
+Date of maturity
+Statement (DB-5d) Regarding information of other eligible Securities as on 31st December
+(To be submitted within 15th of the following January)
+Name of the Bank :
+(Fig. In TK.)
+
+--- Page 8 ---
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+HTM
+HFT
+Statement (DB-5e) Regarding Transfer of T. Bill & T.Bond from HTM ↔ HFT
+Transferred amount to
+Date
+Final
+balance in
+HTM
+Final
+balance in
+HFT
+(To be submitted immediately after any transfer take place within two months of the calendar year)
+Name of the Bank :
+(Fig. In thousand TK.)
+Date of
+maturity of the
+T.Bill/ T.Bond
+Face
+value
+Offer
+value
+Yield
+Present
+value
+Authorized Officer:
+Total holdings
+in HTM
+Total holdings
+in HFT
+Serial Number of
+T.Bill/T.Bond
+under transfer
+Date of Issue
+of the
+T.Bill/ T.Bond
+
+--- Page 9 ---
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Date
+Serial No. of the
+T.Bill/T.Bond
+Authorized Officer:
+Primary
+Yield
+Present value
+Marekt value
+To be held in
+HTM/HFT
+Market
+Yield
+Date of
+Issue
+Date of
+Maturity
+Face value
+Offer value
+Name of the Bank :
+(Fig. In TK.)
+Statement (DB-5f) Regarding Purchase of Gov. T.Bill & T.Bond from Primary and Secondary Markets
+(To be submitted immediately on the date of Purchase)
+
+--- Page 10 ---
+k=>c
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Statement (DB-5g) Regarding Daily Exclusion of HTM securities to HFT due to excess maintenance of SLR
+(To be submitted immediately after any transfer take place)
+Details of transferred Gov. Securities from HTM to HFT (based on information at the primary issuing time)
+Face value
+Offer value
+Yield
+Present value
+Total
+(Fig. In TK.)
+c=a-b
+Authorized Officer:
+Name of the Bank :
+Date
+Total SLR
+maintained
+('T' of DB-5)
+Amount of Required
+SLR+5% excess
+Transferable
+amount from HTM
+to HFT
+Serial number of
+T.Bill/T.Bond
+Date of
+Issue
+Date of
+maturity

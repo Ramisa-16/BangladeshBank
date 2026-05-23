@@ -1,0 +1,228 @@
+--- Page 1 ---
+website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+
+
+Kartick 12, 1417
+BRPD Circular No. 32
+
+
+
+
+Date: -----------------------
+
+
+
+October 27, 2010
+
+General Provision on loan against shares etc.
+
+Please refer to BRPD circular no. 05/2006 on Loan Classification and Provisioning.
+
+
+According to the circul
+ar banks ar
+e required t
+o maintain 1% general provision
+on unclassified
+loans/advances against C ontinuous, D emand and Ter m loans; 2% against Housing Finance (HF) and
+Loans for Professionals to set up business (LP) and 5% ag ainst other loans (other than HF & LP). It is to
+mention in this regard that banks are
+also require d to m aintain 1% genera l provision on unclassifie d
+amount of th e funded loa n disbursed t o stock dealer s enlisted with Stock E xchange, separate subsidiary
+company established by a bank company for dealing business in share brokerage and m erchant banking
+and any other company or institution or individual for dealing such business.
+
+It is m entionable in this context that bank loan/ bank financin g to abo ve mentioned deal ers/subsidiary
+companies/any other company or institution or i ndividual become vulnerable due to volatilit y of market
+prices of shares/debentures. Considering the investment risks in the capital market it has now been decided
+that banks shall maintain 2% general provision instead of 1% against unclassif ied amount of any kind of
+funded loan disbursed to stock dealers enlisted w
+ith Stock Exchange, separate subsidiary com pany
+established by a bank company for dealing business in share brokerage and merchant banking and an y
+other company or institution or individual for dealing such business.
+
+In this context, the existing Cl-1 format has been amended. Banks are advised to submit data in the revised
+Cl-1 format. This instruction shall come into force with immediate effect.
+
+
+Please acknowledge receipt.
+
+
+
+
+
+
+
+
+
+
+Yours sincerely
+
+
+
+
+
+
+
+
+
+
+sd/-
+
+
+
+
+
+(Md. Jahangir Alam)
+General Manager
+
+Phone: 7117825
+Enclosure: Revised CL-1 format
+
+--- Page 2 ---
+CL-1
+(Taka in thousand)
+Standard
+SMA
+SS
+DF
+B/L
+10
+11
+12
+13
+14
+15
+16
+Continuous Loan (CL-2)
+I) Small & Medium Enterprise Financing (SMEF)
+II) Consumer Financing (CF)
+III) Loans to BHs/MBs/SDs against Shares etc
+IV) Other than SMEF, CF, BHs/ MBs,/SDs
+Sub-total of I, II, III & IV
+Demand Loan (CL-3)
+I) Small & Medium Enterprise Financing (SMEF)
+II) Consumer Financing (CF)
+III) Loans to BHs/MBs/SDs against Shares etc.
+IV) Other than SMEF, CF, BHs/ MBs,/SDs
+Sub-total of I, II, III & IV
+Term loan Upto 5 years (CL-4)
+I) Small & Medium Enterprise Financing (SMEF)
+II) Consumer Financing (Other than HF & LP)
+III) Housing Finance (HF)
+IV) Loans for professionals to set up business (LP)
+V) Loans to BHs/MBs/SDs against Shares etc
+VI) Others
+Sub-total of I, II, III, IV, V & VI
+Term loan over 5 years (CL-5)
+I) Small & Medium Enterprise Financing (SMEF)
+II) Consumer Financing (Other than HF & LP)
+III) Housing Finance (HF)
+IV) Loans for professionals to set up business (LP)
+V) Loans to BHs/MBs/SDs against Shares etc
+VI) Others
+Sub-total of I, II, III, IV, V & VI
+Short term Agri. Credit and Microcredit (CL-6)
+I) Short Term Agri. Credit
+II) Microcredit
+Sub-total of I & II
+Sub-total (1+2+3+4+5)
+Staff Loan
+Grand Total
+CHECK LIST
+CL-2
+CL-5
+CL-3
+CL-6
+CL-4
+Standard
+SMA
+SS
+20%
+20%
+20%
+20%
+20%
+20%
+DF
+50%
+50%
+50%
+50%
+50%
+50%
+B/L
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+SMEF
+All
+other
+Credit
+Amount of Actual Provision (Taka in thousand) :
+Consumer financing
+NB: CF=CONSUMER FINANCE, HF=HOUSING FINANCE, LP=LOANS FOR PROFESSIONALS TO SET UP BUSINESS, SMA=SPECIAL MENTION ACCOUNT, SS=SUBSTANDARD, DF=DOUBTFUL,
+B/L=BAD/LOSS, BHs/ MBs,/SDs= LOANS TO BROKERAGE HOUSES/MERCHANT BANKS/STOCK DEALERS AGAISNT SHARES ETC.
+Particulars
+Ref: BRPD Circular No.-5/06,32/10
+Loans
+to
+BHs/MBs/
+SDs
+against
+Shares etc
+Short
+Term
+Agri.
+Credit
+Other
+than
+HF,LP
+HF
+LP
+BRANCH SUMMARY OF LOAN CLASSIFICATION AND PROVISION AS OF ----------
+No. of
+Page
+Form No. No. of
+Page
+UC(standard)
+(if any)
+Interest suspense on
+SMA
+Classified
+A/Cs
+Total
+Balance outstanding
+BRANCH NAME :
+Stamp of Branch Serial No. (As provided by Bangladesh Bank)
+BANK NAME
+Total
+SMA
+SS
+DF
+Amount
+of
+provision
+required
+Base for provision
+B/L
+Categories of Loans
+SL
+No.
+UC
+Classified
+Unclassified(UC)
+Classified
+Form No.
+Rate of Provision :

@@ -1,0 +1,478 @@
+--- Page 1 ---
+©àK½àéÅ ©üàKN
+Ÿý•à˜ Nàºîà½»
+xàN©àW ˜K 325
+àNà |
+áxŸàuîé±™u A© A¥-ÏàBu ÏãŸà¼á®Å˜
+áxIGÏ ÏàNãî½à¼ è½uà¼ ˜K-05
+ˆàá¼XL----------------
+
+Ÿý•à˜ á˜©îàÚâ
+©àK½àéŽéÅ Nàºî¼ˆ ÏN½ ©üàKN èNà³Ÿà˜â |
+
+áŸý» ±éÚàŽ»
+
+©üàKN èNà³Ÿà˜â¼ •à¼ƒNçˆ èuýjà¼â á©½ I ©éš¼ Marking to market á®á‰N Ÿã˜:±å½üà»˜ ŸýÏKéY |
+Marking to market based revaluation of treasury bill and bond held by the banking company
+DŸºãî‰ï á©Èé» 31/10/2005 G©K 07/02/2007 ˆàá¼éX BÏãüNçˆ á©Aà¼áŸáx ÏàNãî½à¼ ˜K-15
+G©K áxIGÏ ÏàNãî½à¼ è½uà¼ ˜K-03 G¼ Ÿýáˆ ŽçáÊ AàNÈîƒ N¼à ºàégh | á©Yˆ áŽ˜Zé½àéˆ á©á®˜ø ŸT
+Úéˆ Ÿýà¢ ˆEü-DŸàé‰¼ á®á‰éˆ Ï¼Nà¼â áÏáNDá¼áuéj¼ BÏãü Ÿ¼©ˆâî Œï» á©Œï» Aàé¼à D‡ÏàáÚˆ N¼à
+G©K GNáu Aá•N NàºîN¼â èÏéNšà¼â ±àéNîu ŸýáˆáËˆ N¼à¼ ½éTü DŸé¼à‰ï ÏàNãî½à¼ I ÏàNãî½à¼ è½uàé¼¼
+á˜éŽîÅ˜à¼ ÏKéÅà•˜/Ÿá¼©ˆîé˜¼ áÏIöà›ò YçÚâˆ Úé»éh L
+
+01 | ©üàKN èNà³Ÿà˜â¼ •à¼ƒNçˆ Ï¼Nà¼â èuýjà¼â á©½ I ©š HTM I HFT èÅýƒâéˆ á©˜üàÏ N¼éˆ
+Úé© | HTM I HFT D®» AKéÅ •à¼ƒNçˆ á©½ I ©š SLR Ÿå¼éƒ¼ j˜ü DMã‰ï á©é©áfˆ Úé© |
+
+02 | HTM AKéÅ •à¼ƒNçˆ áÏáNDá¼áujÏ±åÚ Ïà•à¼ƒ®àé© è±»àŽŸåáˆî Ÿºî›ò •à¼ƒ N¼éˆ Úé© | G ÏN½
+áÏáNDá¼áujÏ±åéÚ¼ Amortization ©‡Ï¼àé›ò Ï³Ÿ˜ø N¼éˆ Úé© G©K Amortization já˜ˆ ÚýàÏ/©çáIö ±å½•˜ Xàéˆ
+(±å½•˜ Ÿá¼©ˆî˜ ÏKŒïà›ò á©©¼ƒâéˆ) áÚÏà©àá»ˆ Úé© G©K á˜•îàá¼ˆ héN (DB-5a)
+á˜éŽîáÅˆ Ï±é»¼ ±é•ü
+áxŸàuîé±™u A© A¥-ÏàBu ÏãŸà¼á®Åé˜ ŽàáX½ N¼éˆ Úé© |
+
+03 | ©üàKNÏ±åÚéN ˆàéŽ¼ B˜é®Òé±™u (HTM) G©K áxá½K (HFT) áÏáNDá¼áuéj á©á˜é»àéY¼ A˜ãŸàˆ
+G¼æŸ®àé© Ï±œ» N¼éˆ Úé© ºàéˆ jà˜ã»à¼â/2009, jà˜ã»à¼â/2010 G©K jà˜ã»à¼â/2011 Úéˆ HTM áÏáNDá¼áuéj
+á©á˜é»àéY¼ Ÿá¼±à˜ (±å½ü±à˜ A˜ãÏàé¼) ÏKáÅþÊ ±àéÏ¼ ¼áTˆ©ü ÏÚéj á©á˜±»éºàYü Ï³ŸéŽ¼ (SLR) ºEàŒïé± Ïé©îàgf
+70%, 50% G©K 25% G¼ è©Åâ ˜à Ú» |
+
+04 | HTM áÏáNDá¼áujÏ±åÚéN Ïà•à¼ƒ®àé© HFT áÏáNDá¼áuéj Ÿã˜LéÅýƒâNçˆ N¼à ºàé© ˜à | ˆé© (3) ˜K
+Œïá±éN ©áƒîˆ á˜éŽîÅ˜à Ÿá¼Ÿà½é˜¼ Dé’éÅü AàŸàˆˆL áxéÏµ¼, 2008 Ÿºî›ò HTM áÏáNDá¼áujÏ±åÚéN HFT
+áÏáNDá¼áuéj Ÿã˜LéÅýƒâNçˆ N¼à ºàé© | G•¼é˜¼ Ÿã˜LéÅýƒâN¼ƒ ©üàKéN¼ Ÿá¼fà½˜à ŸÈîéŽ¼ (á©éŽÅâ ©üàKéN¼ èTéŒ
+Ÿý•à˜ á˜©îàÚâ¼) Ÿå©îà˜ãé±àŽ˜Œïé± Ï³Ÿ˜ø N¼éˆ Úé© G©K Ÿã˜LéÅýƒâN¼éƒ¼ ¥é½ DIúãˆ ½à®/Táˆ ÏKáÅþÊ Ï±é»¼
+½à®/Táˆ áÚÏàé© ŸýŽÅî˜ N¼éˆ Úé© G©K ŸÈîŽ/Ÿý•à˜ á˜©îàÚâ¼ A˜ãé±àŽ˜ ÏKŒïà›ò Žá½½àáŽ G©K Óõà˜à›ò¼Nçˆ
+áÏáNDá¼áuéj¼ á©©¼ƒâ Óõà˜à›ò¼ Ï³Ÿé˜ø¼ 07(Ïàˆ) NàºîáŽ©éÏ¼ ±é•ü á˜•îàá¼ˆ héN (DB-5rc) áxŸàuîé±™u A© A¥-
+ÏàBu ÏãŸà¼á®Åé˜ ŽàáX½ N¼éˆ Úé© |
+
+05 | jà˜ã»à¼â/2009 Úéˆ á©éÅÈ Ÿá¼áÓõáˆéˆ ŸásNà ©‡Ïé¼ èN©½±àŒ 01(GN)©à¼ HTM AKéÅ
+•à¼ƒNçˆ áÏáNDá¼áujÏ±åéÚ¼ Ïé©îàgf 15% (±å½ü±à˜ A˜ãÏàé¼) HFT áÏáNDá¼áuéj Ÿã˜LéÅýƒâNçˆ N¼à ºàé© | GéTéŒ
+(4) ˜K Œïá±éN ©áƒîˆ á˜éŽîÅ˜à A˜ãÏ¼éƒ Ÿã˜LéÅýƒâN¼ƒ G©K áxŸàuîé±™u A© A¥-ÏàBu ÏãŸà¼á®Åé˜ Ÿýé»àj˜â»
+Žá½½àáŽ I á©©¼ƒâ ŽàáX½ á˜áÇfˆ N¼éˆ Úé© |
+
+06 | HTM áÏáNDá¼áujÏ±åÚ Ïà•à¼ƒ®àé© á©Œï»éºàYü ˜» | ˆé© á©éÅÈ Ÿá¼áÓõáˆéˆ ©üàKéN¼ Ÿá¼fà½˜à
+ŸÈîéŽ¼ (á©éŽÅâ ©üàKéN¼ èTéŒ Ÿý•à˜ á˜©îàÚâ¼) Ÿå©îà˜ãé±àŽ˜Œïé± ©h¼ Åã¼ä¼ (Calendar Year) ŸýE± 02(ŽãB)
+±àéÏ¼ ±é•ü HTM AKéÅ •à¼ƒNçˆ áÏáNDá¼áuéj¼ Ïé©îàgf 15% (é±àu ±å½ü±à˜ A˜ãÏàé¼) Ï¼àÏá¼ á©Œï» N¼à ºàé© |
+AŸ¼ ŸçËà» ŽýÊ©ü
+12-02-1415 ©àK
+26-05-2008 BK
+
+--- Page 2 ---
+L 02 L
+Ÿå©î ŸçËà Úéˆ-
+
+á©Œïé»¼ ¥é½ DIúãˆ ½à®/Táˆ ÏKáÅþÊ Ï±é»¼ ½à®/Táˆ áÚÏàé© ŸýŽÅî˜ N¼éˆ Úé© G©K ŸÈîŽ/Ÿý•à˜ á˜©îàÚâ¼
+A˜ãé±àŽ˜ ÏKŒïà›ò Žá½½àáŽ G©K Óõà˜à›ò¼Nçˆ áÏáNDá¼áuéj¼ á©©¼ƒâ (DB-5ms)
+á©Œï» Ï³Ÿé˜ø¼ 07(Ïàˆ)
+NàºîáŽ©éÏ¼ ±é•ü á˜•îàá¼ˆ héN áxŸàuîé±™u A© A¥-ÏàBu ÏãŸà¼á®Åé˜ ŽàáX½ N¼éˆ Úé© |
+
+07 | HFT áÏáNDá¼áujÏ±åéÚ¼ Ÿýáˆ Ï¢àéÚ GN©à¼ f½áˆ ©àjà¼ Žé¼ (Current Market Price/Yield)
+Ÿã˜L±å½üà»˜ (Revalue) N¼éˆ Úé© | Ÿã˜L±å½üà»˜já˜ˆ ÚýàÏ/©çáIö ÏKáÅþÊ Ï±é»¼ ½à®/Táˆ áÚÏàé© áÚÏà©àá»ˆ
+Úé© G©K G ÏKŒïà›ò ˆEüàáŽ á˜•îàá¼ˆ héN (DB-5rv)
+á˜éŽîáÅˆ Ï±é»¼ ±é•ü áxŸàuîé±™u A© A¥-ÏàBu
+ÏãŸà¼á®Åé˜ ŽàáX½ N¼éˆ Úé© | Ÿã˜L±å½üà»é˜¼ éTéŒ Ÿ¼©ˆîâ á˜éŽîÅ ˜à èŽ»à Ÿºî›ò ©àK½àéŽÅ ©üàKN NˆçîN èaàáÈˆ
+Yield curve A˜ãÏ¼ƒ N¼éˆ Úé© |
+
+08 | ˜YéŽ Aájîˆ ˜à ÚI»à Ÿºî›ò HFT áÏáNDá¼áujÏ±åéÚ¼ Ïà¢àáÚN Ÿã˜L±å½üà»˜já˜ˆ ©çáIö¼ (Gain)
+á©Ÿ¼âéˆ èNà˜ Dividend ŸýŽà˜ N¼à ºàé© ˜à | GéTéŒ ½à®/Táˆ áÚÏàé© ŸýŽáÅîˆ HFT áÏáNDá¼áujÏ±åéÚ¼
+Ïà¢àáÚN Ÿã˜L±å½üà»˜já˜ˆ ©çáIö (Gain) Óõà˜à›ò¼Ÿå©îN GNáu Revaluation Reserve Account ÏçáÊ Né¼ D‰ï
+áÚÏàé© j±à ¼àXéˆ Úé© |
+09 | HFT áÏáNDá¼áujÏ±åéÚ¼ á©Œï»já˜ˆ ½à®/Táˆ ÏKáÅþÊ Ï±é»¼ ½à®-Táˆ áÚÏàé© ŸýŽÅî˜ N¼éˆ
+Úé© |
+10 | SLR ÏK¼Téƒ ©ü©Úà¼ DŸéºàYâ áN›òã Non-marketable áÏáNDá¼áujÏ±åÚ HTM èÅýƒâ®å‰ï Né¼
+Ÿýéºàjü èTéŒ èÏZé½à Amortized N¼éˆ Úé© G©K (2) ˜K Œïá±éN ©áƒîˆ á˜éŽîÅ˜à è±àˆàé©N ±å½üà»˜ Ï³Ÿ˜ø
+Né¼ á˜•îàá¼ˆ héN (DB-5nm) á˜éŽîáÅˆ Ï±é»¼ ±é•ü áxŸàuîé±™u A© A¥-ÏàBu ÏãŸà¼á®Åé˜ ŽàáX½ N¼éˆ Úé© |
+
+11 | ©üàKN èNà³Ÿà˜â NˆçîN ŸýàB±à¼â I èÏéNšà¼â áÏáNDá¼áuj Œï»Nàé½ ˆà HTM G©K HFT èNà˜
+AKéÅ •à¼ƒ N¼é© ˆà¼ èaàÈƒà ˆà‡Tá˜N®àé© ŸýŽà˜ N¼éˆ Úé© G©K á˜•îàá¼ˆ héN (DB-5d) á˜éŽîáÅˆ Ï±é»¼
+±é•ü áxŸàuîé±™u A© A¥-ÏàBu ÏãŸà¼á®Å˜éN A©áÚˆ N¼éˆ Úé© |
+
+12 | ŸýàB±à¼â G©K èÏéNšà¼â áÏáNDá¼áuj Œï»±åé½ü HTM AE©à HFT AKéÅ A›ò®îå‰ï N¼éˆ Úé© |
+
+13 | HTM G©K HFT D®» ŸýNà¼ áÏáNDá¼áuj Œï»Nàé½ Œïé»¼ ˆàá¼X Ÿºî›ò Ÿãsâ®åˆ ÏãŽ (Coupon
+interest) Œï»±å½ü èEéN ©àŽ áŽéˆ Úé© G©K D‰ï Ÿá¼±à˜éN Interest expense áÚÏàé© ŸýŽÅî˜ N¼éˆ Úé© |
+
+14 | HFT áÏáNDá¼áujÏ±åÚ á©Œï»Nàé½ Ÿýà¢ Brokerage/Commission BˆüàáŽ Income G©K Œï»Nàé½
+ŸýŽ‰ Brokerage/Commission BˆüàáŽ Expenditure áÚÏàé© ŸýŽÅî˜ N¼éˆ Úé© |
+
+15 | ŸýáˆáŽé˜¼ ÏÚéj á©á˜±»éºàYü Ï³ŸŽ (SLR) ÏK¼Tƒ ÏKŒïà›ò ˆEüàáŽ ÏKéÅàá•ˆ héN (DB-5,
+DB-5f, DB-5p, DB-5rv G©K DB-5rp) Ÿå¼ƒ Né¼ Ÿýáˆ±àéÏ¼ á©©¼ƒâ Ÿ¼©ˆîâ ±àéÏ¼ 10(ŽÅ) ˆàá¼éX¼ ±é•ü
+áxŸàuîé±™u A© A¥-ÏàBu ÏãŸà¼á®Åé˜ ŽàáX½ N¼éˆ Úé© |
+
+16 | HTM I HFT D®» AKéÅ •à¼ƒNçˆ Ï¼Nà¼â áÏáNDá¼áujZé½à A˜á•N 7(Ïàˆ) áŽé˜¼ j˜ü
+Interbank
+Repo
+N¼à ºàé© | ©üàKNÏ±åéÚ¼ Ÿýáˆ±àéÏ¼ Interbank
+Repo
+ÏKŒïà›ò ˆEüàáŽ á˜•îàá¼ˆ
+héN (DB-5rp) Ÿýáˆ±àéÏ¼ DB-5 á©©¼ƒâ¼ ÏàéE áxŸàuîé±™u A© A¥-ÏàBu ÏãŸà¼á®Åé˜ ŽàáX½ N¼éˆ Úé© |
+
+17 | Interbank Repo -G¼ ±à•üé± Aájîˆ áÏáNDá¼áuj HFT AKéÅ •à¼ƒ N¼éˆ Úé© G©K Ÿýéºàjü
+èTéŒ (7) ˜K Œïá±éN ©áƒîˆ á˜éŽîÅ˜à A˜ãÏàé¼ Ÿã˜L±å½üà»˜ (Revalue) N¼éˆ Úé© | Ÿã˜LŒï» fãá‰ï¼ è±»àŽ èÅéÈ
+ÏKáÅþÊ áÏáNDá¼áuj ŸýNçˆ •à¼N NˆîçN Ÿåé©î¼ A©Óõàé˜B (AEîà‡ HTM AE©à HFT AKéÅ) ŸýŽÅî˜ N¼éˆ Úé© |
+
+AŸ¼ ŸçËà» ŽýÊ©ü
+
+--- Page 3 ---
+পূর্ব পৃষ্ঠা হতে-
+
+১৮ | সার্কুলারে বর্ণিত সকল বিবরণী নির্ধারিত সময়ে ডিপার্টমেন্ট অৰ অফ-সাইট সুপারভিশনে দাখিলে ব্যর্থতার
+জন্য বাংলাদেশ ব্যাংক অর্ডার, ১৯৭২ (১০ মার্চ ২০০৩ পর্যন্ত সংশোধিত) এর ৩৬৬) ধারা এবং বিবরণীতে ভূল তথ্য
+প্রদানের জন্য উক্ত অর্ডারের ৩৬৭) ধারা এবং সার্কুলারের অন্যান্য Pe ভংগের জন্য ব্যাংক কোম্পানী আইন,
+১৯৯১ (2009 পর্যন্ত সংশোধিত) এর ১০৯৫৭) ধারা অনুসারে যথাযথ ব্যবস্থা গ্রহণ করা হবে |
+
+ট্রেজারী বিল ও বন্ডের Marking to market ভিত্তিক পুন:মূল্যায়ন সংক্রান্ত পরিবর্তিত নীতিমালা
+
+০১/০৭/২০০৮ তারিখ হতে কার্ষকর হবে | একইসাথে এতদ্বারা ৩১/১০/২০০৫ তারিখে ইস্যুক্ত বিআরপিডি
+
+সার্কুলার নং-১৫ সংশোধিত এবং ০৭/০২/২০০৭ তারিখের ডিওএস সার্কুলার লেটার নং-০৩ বাতিল হিসাবে
+গণ্য করতে হবে | উপরিল্লিখিত সকল ছকের নমুনা প্রয়োজনীয় ব্যবস্থা গ্রহণের জন্য এতদ্সংগে সংযোজন করা
+হলো |
+
+অনুগ্রহপূর্বক প্রাপ্তি স্বীকার করবেন |
+
+আপনাদের বিশ্বস্ত
+সংযুক্তি বর্ণনা মোতাবেক |
+স্বাঃ-
+
+(মোঃ মফিজ উদ্দিন চৌধুরী)
+মহাব্যবস্থাপক
+ফোন 3 ৭১২০৩৭৬
+
+--- Page 4 ---
+Other eligible
+securities
+Reverse-repo
+with BB
+T=c+d+e+f+g+h+i+j+k
+EL=T-b
+Authorized Officer:
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Statement (DB-5) Regarding Maintenance of SLR under section 33(1) of Bank Company Act, 1991
+(To be submitted monthly within the 10th of the following month)
+Name of the bank :
+F.C. used
+in BDT
+Cash in
+hand
+Total
+Date
+Balance with
+Bangladesh
+Bank
+Balance with
+Sonali bank as
+an agent of BB
+TT in
+Transit
+Excess/
+Shortfall
+(TK. In thousand)
+Un-encumbered Approved Securities
+HTM
+HFT
+Required
+SLR
+Others
+
+--- Page 5 ---
+USD ($)
+GBP (₤)
+EURO (€)
+Yean (¥)
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Authorized Officer:
+Statement (DB-5f) Regarding use of foreign currency from F.C.Clg.a/c for the maintenance of SLR
+Remarks
+(To be submitted monthly along with Statement DB-5)
+Name of the Bank :
+Date
+Use of Foreign Currency from F.C. Clg. Account (In unit)
+Total amount in
+BDT (Tk. In '000)
+
+--- Page 6 ---
+T. Bill
+BGTB
+BB Bill
+Other eligible
+securities
+Total
+T. Bill
+BGTB
+BB Bill
+Other eligible
+securities
+Total
+T1=b+c+d+e
+T2=f+g+h+i
+Authorized Officer:
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Held To Maturity (HTM)
+Held For Trading (HFT)
+UN-encumbered Approved Securities
+Statement (DB-5p) Regarding Information of HTM and HFT Portfolios
+(To be submitted monthly along with Statement DB-5)
+Name of the bank :
+Date
+(Fig. in TK.)
+
+--- Page 7 ---
+Previous
+Present
+Previous week
+Present week
+k=j-i
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Statement (DB-5rv) Regarding Revaluation of HFT Securities
+(To be submitted monthly along with Statement DB-5)
+Name of the Bank :
+(Fig. In TK.)
+(Please use separate sheet for each week revaluation)
+Date of
+revaluation
+Serial No. of the
+Security
+Date of
+Issue
+Date of
+Maturity
+Amount To be
+Booked in P/L
+Face value
+Offer value
+Market Value
+Authorized Officer:
+Market Yield in %
+
+--- Page 8 ---
+(Fig. In TK.)
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Authorized Officer:
+Face value
+Offer value
+Primary
+Yield
+Original
+status
+(HTM/HFT)
+Statement (DB-5rp) Regarding Repo of HTM and HFT securities
+(To be submitted monthly along with DB-5)
+Name of the Bank :
+Date
+Serial No.
+Date of
+Issue
+Date of
+Maturity
+Reversal
+date
+Repo amount
+Counter party name
+
+--- Page 9 ---
+(Fig. In TK.)
+Authorized Officer:
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+To be held in
+HTM/HFT
+Market
+Yield
+Date of
+Issue
+Date of
+Maturity
+Face value
+Offer value
+Name of the Bank :
+Statement (DB-5d) Regarding Purchase of Eligible Approved securities from Primary and Secondary Markets
+(To be submitted within three working days from the date of Purchase)
+Cost price
+Primary
+Yield
+Seller
+Date
+Serial No.
+
+--- Page 10 ---
+k=j-i
+Authorized Officer:
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Gain/Loss to be
+booked in P/L
+Details of sold Securities from HTM
+Yield to
+Maturity
+Amortized value
+Sale Price
+Face value
+Offer value
+Date
+Serial number
+Date of
+Issue
+Date of
+maturity
+Buyer
+Name of the bank :
+(Fig. In TK.)
+Statement (DB-5ms) Regarding Sale of HTM securities
+(To be submitted within seven working days after sale of HTM securities)
+
+--- Page 11 ---
+n=m-k
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Authorized Officer:
+Total holdings
+in HTM
+Total holdings
+in HFT
+Serial Number of
+T.Bill/T.Bond
+under transfer
+Date of
+Issue
+Face value
+Offer value
+YTM
+Amortized
+cost
+Profit/Loss due
+to
+Reclassification
+Statement (DB-5rc) Regarding Re-classification of T. Bill & T.Bond from HTM → HFT
+(To be submitted immediately after any Reclassification takes place )
+Name of the Bank :
+(Fig. In TK.)
+Re-classified
+amount
+Date
+Market
+Yield
+Market Value
+Date of
+maturity
+
+--- Page 12 ---
+i=h-g
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Coupon
+Face value
+Authorized Officer:
+Name of the Bank :
+Total
+Date of
+maturity
+Amortized
+value
+(Present)
+Gain/Loss to
+be booked in
+SCE
+(Fig. In TK.)
+Statement (DB-5a) Regarding Amortization information of HTM Securities as on 31st December
+(To be submitted within 15th of the following January)
+Offer value
+Primary
+Yield
+(YTM)
+Amortized
+value
+(Previous)
+Sl. No.of
+T.Bill/T.Bond
+Date of
+Issue
+
+--- Page 13 ---
+i=h-g
+Authorized Officer:
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Name of Bond & Debenture
+Date of
+Issue
+Date of
+maturity
+Cost Price
+Amortized
+value
+(Present)
+Gain/Loss to
+be booked in
+SCE
+Statement (DB-5nm) Regarding information of non-marketable &/ other eligible Securities as on 31st December
+(To be submitted within 15th of the following January)
+(Fig. in TK.)
+Yield
+Coupon
+Amortized
+value
+(Previous)
+Name of the Bank :

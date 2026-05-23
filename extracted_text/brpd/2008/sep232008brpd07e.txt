@@ -1,0 +1,891 @@
+--- Page 1 ---
+Page 1 of 5
+Website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+September 23, 2008
+BRPD Circular No. 07 Date:-------------------------
+Ashwin 08, 1415
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+Guidelines for recognition of eligible
+External Credit Assessment Institutions (ECAIs)
+
+You are aware that Risk Based Capital Adequacy (Basel I) has been introduced in
+Bangladesh since 1996 vide BRPD Circular number 01 dated January 08, 1996. To make the
+capital maintenance more risk sensitive as well as to make the banking industry more shock
+absorbent and stable, Risk Based Capital Adequacy framework (Basel II) will be implemented
+in Bangladesh from January 2009. For this a National Steering Committee headed by Deputy
+Governor of Bangladesh Bank (BB) and the members comprising of CEO/MD of some
+commercial banks and representative from Institute of Chartered Accountants of Bangladesh
+(ICAB) has been working in this regard since July, 2005. In addition, a Coordination
+Committee on Basel II implementation headed by Executive Director and member comprising
+some officials of BB, commercial banks and representative from Bangladesh Institute of Bank
+Management (BIBM) is providing supportive efforts to the National Steering Committee.
+Furthermore, to assess the supervisory and regulatory strength and operational
+independence of BB, a self audit on compliance with Basel Core Principles (BCP) for effective
+banking supervision was made in October 2006. Afterwards, to know the banks' awareness and
+preparedness and their view on the alternative approaches for calculating Minimum Capital
+Requirement (MCR), a Quantitative Impact Study (QIS) was conducted in April-May 2007.
+Both the study showed that banks have favorable environment for Basel II implementation in
+Bangladesh. The QIS findings suggested for initial Basel II implementation with the following
+specific approaches:
+A) Standardized Approach for calculating Risk Weighted Assets (RWA) against Credit
+Risk
+B) Standardized (Rule Based) Approach for calculating RWA against Market Risk
+C) Basic Indicator Approach for calculating RWA against Operational Risk
+
+To this end, an Action Plan/ Roadmap has been issued vide BRPD Circular No. 14 dated
+December 30, 2007.
+Contd. page/2
+
+--- Page 2 ---
+Page 2 of 5
+
+
+
+Under the Standardized Approach of the Risk Based Capital Adequacy framework
+(Basel II), credit rating is to be determined on the basis of risk profile assessed by the External
+Credit Assessment Institutions (ECAIs) duly recognized by BB. All scheduled banks will be
+required to nominate recognized ECAI for their own as well as their counterparty credit rating.
+In this perspective, a set of guidelines on recognition of the eligible ECAI is issued and
+forwarded herewith for information. BB will complete the recognition process soon as and
+when application will be obtained from the interested credit rating agencies.
+
+The guideline is also accessible at the BB website.
+
+Please acknowledge receipt.
+Yours sincerely,
+Sd/-
+
+(Md. Jahangir Alam)
+General Manager
+Phone: 7117825
+Enclosure: A set of guidelines (11 pages).
+
+--- Page 3 ---
+Page 3 of 5
+
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+
+Guidelines for Recognition of
+eligible External Credit Assessment Institutions (ECAIs)
+
+
+External Credit Assessment Institutions (ECAIs) duly recognized by Bangladesh Bank
+(BB) will be engaged in credit risk assessment under the Standardized Approach of the Risk
+Based Capital Adequacy framework (Basel II). On the basis of that assessment, risk weight will
+be mapped with the credit rating category and risk weighted assets (RWA) to be determined for
+calculating the capital requirement of banks against credit risk. The criteria of ECAI
+recognition and mapping process of risk weight (RW) has been developed in line with the
+“International Convergence of Capital Measurement and Capital Standards” (Basel II) issued
+by the Basel Committee on Banking Supervision (BCBS) in June 2006.
+
+1. Recognition criteria
+
+ECAIs that produce credit assessments of sufficiently high quality, uniformity and potency to
+be used by banks shall be eligible for recognition by BB for regulatory capital purpose. The
+following six criteria will be considered in determining the eligibility of an ECAI:
+
+A) Objectivity:
+
+The methodology for assigning credit assessments must be rigorous, systematic, and subject to
+validation based on historical experience. Moreover, assessments must be subject to ongoing
+review and responsive to changes in financial condition of the concerned entity. An assessment
+methodology for each market segment, including rigorous back-testing, must have been
+established for at least one year and preferably three years.
+
+B) Independence:
+
+An ECAI should be independent and free from political, social or economic pressure that may
+influence the rating. The assessment process should also be free from any such constraints that
+could arise in situations where the composition of the board of directors or the shareholder
+structure and the officials of the assessment team of the ECAIs may be seen as creating a
+conflict of interest.
+
+C) International access / Transparency:
+
+The individual assessment should be available to both domestic and foreign institutions with
+legitimate interests, and at equivalent terms. In addition, the rating methodology used by the
+ECAI should be publicly available.
+
+D) Disclosure:
+
+An ECAI should disclose its assessment methodologies, notch/notation to be used, definition of
+default rating category, the meaning of each rating, and its time horizon, actual default rates
+experienced in each assessment category; and the transitions of the assessment, e.g. the
+likelihood of AA ratings becoming A over time.
+
+--- Page 4 ---
+Page 4 of 5
+E) Resources:
+
+An ECAI should have sufficient resources to carry out high quality credit assessments. These
+resources should allow for substantial on going contact with senior and operational level
+executives within the entities assessed in order to add value to the credit assessments. Such
+assessment methodologies should be based on both qualitative and quantitative approaches.
+
+F) Credibility:
+
+In addition to the above criteria, the reliance on an ECAI’s credit assessments by independent
+parties (investors, insurers, trading partners) shall be evidences of the credibility of the
+assessments of an ECAI. The credibility of an ECAI is also underpinned by the existence of
+effective internal control to prevent the misuse of confidential information.
+
+2. Mapping process
+
+2.1 BB will assign risk weight to an eligible ECAI’s rating categories i.e. deciding which rating
+categories correspond to which risk-weights. BB will evaluate each credit rating category of an
+eligible ECAI which will be mapped with the numerals 1 to 6, with 1 being the best and 6 being
+the worst and includes 'Default Rating Category'*. Each "short term credit rating category"**
+will be evaluated and mapped with category S1 to S4, with S1 being the best. BB will assign
+risk weight on the basis of evaluation of variety of qualitative and quantitative factors relate to
+ECAI's rating category.
+
+2.2 BB will consider a variety of qualitative and quantitative factors to differentiate between
+the relative degrees of risk expressed by each rating category. Both quantitative and qualitative
+parameters may help to promote a more consistent mapping of rating categories into the
+assigned risk-weights.
+
+a) Quantitative factors:
+
+i) BB will evaluate the consistency of an ECAI's rating category (Notch/Notation)
+through analysis of Cumulative Default Rate (CDR). CDR is the measure of movement of a
+rating category into 'Default Rating Category '* during a time period.
+The following two measures of CDR may be considered in this regard:
+• Ten-year average of the three-year CDR for evaluating the long-run default
+experience; and
+• Most recent three-year CDR for evaluating the short-run default experience.
+
+ii) The transition of individual notch/notation towards default rating category observed
+in a particular ECAI rating category will be compared to the standards available domestically/
+regionally/ internationally.
+
+* This rating is applicable for those counterparties who are in default position. A default is considered to have
+occurred with regard to a particular obligor when either or both of the two following events have taken place.
+• The bank considers that the obligor is unlikely to pay its credit obligations to the banking company or syndicate
+banking group, without recourse by the bank to actions such as realizing security (if held).
+• The obligor is past due for more than 90 days or more as defined by BB.
+
+** Short-term ratings may only be used for short-term claims against banks and corporate counterparties.
+
+--- Page 5 ---
+Page 5 of 5
+iii) The long-run transition towards default category of the ECAI ratings will be
+compared with the reference values of CDRs available domestically/regionally/internationally.
+In this connection, internationally accepted long-run reference values are stated below for
+information:
+
+
+Long-run “reference” three-year CDRs*
+S&P assessment
+AAA-AA
+BBB
+BB
+Moody’s
+Aaa-Aa
+Baa
+Ba
+20-year average of three year CDR
+0.10%
+0.25%
+1.00%
+7.50%
+20.00%
+
+*Ref. Table-2 Annexure-2 of International Convergence of Capital measurement and Capital standards, published by BCBS (June 2006)
+
+iv) BB will use two benchmark CDRs namely “monitoring” level CDR and a “trigger”
+level CDR in interpreting whether a CDR falls within an acceptable range for a rating category
+to qualify for a particular risk-weight. BB will adopt the two benchmarks of CDR standard in
+line with domestic/regional/international standard. In this connection, Basel Committee
+standards are specified in the following table for information:
+Three-year CDRs benchmark*
+S&P assessment
+AAA-AA
+BBB
+BB
+Moody’s
+Aaa-Aa
+Baa
+Ba
+Monitoring level
+0.8%
+1.0%
+2.4%
+11.0%
+28.6%
+Trigger level
+1.2%
+1.3%
+3.0%
+12.4%
+35.0%
+
+*Ref. Table-3 Annexure-2 of International Convergence of Capital measurement and Capital standards, published by BCBS (June 2006)
+
+v) Exceeding the “monitoring” level CDR benchmark implies that a rating agency’s
+transition to default rating for a particular notch/ notation is markedly higher than
+domestic/regional/international transition experience to default rating. A consultation process
+with a relevant ECAI will commence to understand why the default experience appears to be
+significantly worse. If the BB determines that the higher default experience is attributable to
+weaker standards in assessing credit risk, they would be expected to assign a higher risk
+category to ECAIs credit risk assessments.
+
+vi) Exceeding the “trigger” level benchmark implies that transition of an ECAI's
+notch/notation towards default rating is considerably above the domestic/regional/international
+standards. If the observed three-year CDR exceeds the trigger level in two consecutive years,
+the ECAIs rating category shall be degraded.
+
+vii) ECAIs who have only a short record of transition and default data will be required
+to provide a projection of the ten-year average of the three-year CDR on the basis of two most
+recent CDRs.
+
+viii) Definition of 'Default Rating' has an impact on the assessment of CDR. ECAI will
+declare definition of 'default rating' at their website and submit a copy to BB. Subsequently, if
+any amendment on the same is made must be reported to BB with due justification thereof.
+
+b) Qualitative factors
+
+Criteria under qualitative factors will be set by BB's working group to assess different
+rating methodology and their scoring standard will form the necessary basis of the mapping
+process. Quantitative data may be inconclusive for mapping risk weights, in that situation
+qualitative criteria may be the only basis of mapping risk weight.
+
+--- Page 6 ---
+Page 6 of 5
+
+3. Application process
+
+
+3.1 Credit Rating Companies (Domestic & International) that are registered under Credit
+Rating Companies Rules, 1996 of Securities and Exchange Commission (SEC), Bangladesh
+and meet the eligibility criteria may apply to General Manager, Banking Regulation and Policy
+Department, Bangladesh Bank, Head Office, Dhaka for the recognition as an ECAI
+(Application Form-A along with information stated in Annexure-1 ).
+
+3.2 ECAIs will categorize their ratings into the following broad asset classes or market
+segments:
+
+a) Sovereign (Government, Public Sector Corporations & Autonomous Bodies )
+b) Financial Institutions (Banks, Insurances Co., Security firms and other Financial
+Institutions)
+c) Corporate (other than Government & Financial Institutions)
+d) Others (If any to be mentioned specifically)
+
+3.3 A working group of BB will complete recognition process and follow a uniform minimum
+standard of the components are stated in annexure-1. They will define any required term(s),
+prepare check list and score list where necessary.
+
+4. On-going recognition
+
+Recognition of an ECAI will be reviewed annually until they reach the point where the
+robustness of system is assured to BB’s satisfaction. It is expected that an ECAI will continue
+to meet the eligible criteria for recognition and its methodologies and credit assessments remain
+appropriate over different periods of time and through changes in market conditions:
+
+(a) ECAIs ratings will be reviewed at least annually and may be revised in response to
+changes in financial conditions; and their ratings are subject to back-testing on an annual basis.
+
+(b) If any material changes occur that alter a significant number of ratings, ECAIs will
+inform BB about the changes promptly (e.g. change of ownership or internal structure and
+major deterioration in financial positions etc.). ECAIs will maintain minimum standard of the
+rating methodology set by BB from time to time.
+
+(c) BB will review the eligibility of an ECAI on continuous basis. If it comes to BB's
+attention that there is a noticeable deterioration in the performance and/or market acceptance of
+the ECAI, BB will review the eligibility of the ECAI immediately.
+
+d) BB may withdraw the recognition of an eligible ECAI if it ceases to comply with any
+of the recognition criteria. Before taking such decision of derecognizing, BB will first notify
+the concerned ECAI mentioning the eligibility criteria which is found as non-compliant. The
+ECAI will also be allowed to clarify their position within a reasonable time. After which
+appropriate decision in this regard shall be taken.
+
+e) If an ECAI is suspended or their registration is cancelled by SEC under Credit Rating
+Companies rules 1996, BB will treat the particular ECAI as derecognized.
+
+--- Page 7 ---
+Page 7 of 5
+5. Guidelines applicable to Banks regarding nomination of ECAIs
+
+5.1. For the purpose of applying ECAI ratings to derive risk-weights for exposures under the
+portfolio of claims on sovereigns, claims on banks, claims on securities firms and claims on
+corporate, a bank should satisfy the following steps:
+
+(i) Banks will nominate recognized ECAI for determining credit rating of banking book
+exposures and notify BB about the nominated ECAI.
+
+(ii) Banks will use the ratings of the nominated ECAI for each of banking book
+portfolio constantly for a reasonable period. If they want to change the ECAI(s) must seek the
+consent from BB stating valid ground; and
+
+iii) A client may be counter party of many banks or may change his bank in a particular
+year. In such cases, credit rating assigned by any recognized ECAI will be considered as valid
+for that year by the bank.
+
+5.2 Banks will require maintaining track record of their counterparty ratings over the years.
+
+5.3 If any bank or a client has reasonable ground sufficient to raise question about ECAIs
+assessment of the credit rating, they may inform BB in writing with valid explanation. BB shall
+look into the matter and take necessary step(s) as it deem fit.
+
+5.4 Bangladeshi banks, having exposures abroad, may use the ratings assigned by ECAIs
+recognized through indirect recognition. Indirect recognition process is that where BB is
+satisfied that host country supervisor has recognized an ECAI on the basis of recognition
+criteria which are well matched with this guidelines.
+
+5.5 Banks will follow Credit Risk Grading Manual (CRGM) for assessing a borrower and
+making decisions of disbursing loans and advances/ investments. CRG may be customized for
+internal rating in such a way that can help to derive parameters like probability of default (PD),
+exposure at default (EAD) and loss given to default (LGD) which will be required for
+determining risk weight under Internal Rating Based (IRB) approach of Basel II.
+
+6. General Instructions:
+
+
+6.1 The ECAI(s) will disclose credit ratings of related parties quarterly to BB after the
+assessment is finalized. All the rating will be supported by declaration (duly signed by CEO)
+that the rating is independent and free from conflict of interest. Such statement will be based
+upon the declaration made by each member/official related to rating activities.
+
+6.2 The ECAIs should have a unique pricing system for credit rating. They should disclose
+their schedule of credit rating fees annually.
+
+6.3 The ECAIs will follow the IOSCO/SEC Code of Conduct Fundamentals published for
+Credit Rating Agencies.
+
+--- Page 8 ---
+Page 1 of 1
+Form – A
+
+FORM OF APPLICATION FOR RECOGNITION
+AS AN EXTERNAL CREDIT ASSESSMENT INTITUTION
+
+
+
+To
+General Manager
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+12th Floor (2nd annex building)
+Motijheel,
+Dhaka-1000.
+
+
+Dear Sir,
+
+We hereby apply for recognition as an External Credit Assessment Institution (ECAI). It
+is to mention that:
+
+1. We are eligible for assessing credit standing of the Sovereign, Financial Institutions,
+Corporate and other clients.
+
+2. We confirm that the credit assessments will be used for risk-weighting purposes
+under the Risk Based Capital Adequacy framework (Basel II).
+
+3. Necessary information required for recognition listed as per annexure-1 (enclosed) is
+furnished herewith
+
+4. We confirm that all the information outlined in this letter and the enclosed annexure
+are true and correct.
+
+
+
+
+Yours Faithfully,
+
+Signature of the Chairman/Managing Director/
+Chief Executive Officer/ Executive Director/Director
+
+--- Page 9 ---
+Page 1 of 4
+List of information to be supported by document(s)
+
+A) Regarding Objectivity
+Supported Documents/
+Statements required
+
+1. Manuscript of Methodology
+
+- Risk area coverage
+
+- Importance/ Weightage on each risk area
+Manuscript of Methodology
+will cover at least those
+information as mentioned in
+the annexure - 1(a) along with
+weightage score.
+
+
+2. Internal Process
+
+
+- Analysis Team
+List of Executives with
+qualification and experience
+
+- Rating Committee
+
+List of Members with
+qualification and experience
+
+- Internal Verification system
+Internally practiced Manual
+
+
+3. Rating Scale and their sensitivity
+
+
+- Number of Notches/ Notations to be used for
+ratings
+
+- Scoring System for achieving the Notches/
+Notation
+
+Demonstration of Alignment with international
+ratings of Standard & Poor (S&P)
+
+Statement of Notches/
+Notations to be used for each
+rating and Scoring system.
+Demonstration of
+methodology: how it is
+aligned with international
+ratings of S&P.
+
+
+4. Validation system
+
+- Off-site analysis
+
+- On-site examination
+Brief description on supported
+rules, regulation, techniques
+of the validation system used
+by an ECAI. (Minimum 150
+words).
+
+
+
+
+
+5. Ongoing Review
+
+- Client wise yearly track record of rating
+
+- Solicited Review
+
+- Unsolicited Review
+Brief description on Database
+Management system which
+includes all these components.
+(Minimum 100 words).
+
+
+6. Database Management
+
+- Assessment/disclosure of the depth of default data
+available/held by the ECAI
+
+- Transition matrices (Notch/Notation wise)
+Brief description on this issue
+included in Database
+Management system.
+(Minimum 100 words).
+
+
+7. System Back Testing
+
+- Comparative Analysis (three year's comparison)
+Brief description on this issue
+included in Database
+Management system.
+(Minimum 75 words).
+
+B) Regarding Independence
+
+
+1. Registration status with SEC
+
+- Registration No.
+
+- Date of Registration
+Copy of Certificate of
+Registration
+
+
+2. Ownership Quality
+
+- Nature of ownership
+Memorandum of Association,
+Articles of Association and
+
+--- Page 10 ---
+Page 2 of 4
+
+- List of major share holders (holding shares over
+
+- Voting power of each share holder
+Certificate of Commencement
+along with up to date
+information.
+
+
+3. Procedure to ensure Independence
+
+- Executives of analyst team is independent i.e. free
+from any political, social or economic pressure that
+may influence assessment/rating.
+
+- Rating Committee is independent and free from
+any political, social or economic pressure that may
+influence assessment/rating.
+Letter of undertaking for
+providing declaration of team
+members regarding activity
+which will be independent
+and free from conflict of
+interest.
+
+- The names, profiles and backgrounds of each
+executive within the analyst teams.
+Details C.V of each executive
+and members of the rating
+committee.
+
+
+4. Board Members are free from influencing rating
+activities.
+
+- Board Members careful about influencing rating
+function.
+Letter of undertakings of
+Board Members
+
+
+5. Solvency of the Company
+
+- Audited Balance Sheet and Income Statement
+
+- Cash flow statement
+
+- Net- worth
+
+- Bank Solvency Certificate
+Audited Balance Sheet and
+Income Statement, Cash flow
+statement for 3 years and
+Bank turnover statements for
+last 1 year.
+
+
+6. Schedule of credit assessment fees
+
+- Published/Disclosed list of fees
+Published/Disclosed List of
+fees to be charged for making
+assessment.
+
+C) International Access/Transparency
+
+
+1. International Exposure
+
+- Accreditation or membership of international/
+regional credit rating association
+
+- Evidence of overseas experience
+Accreditation or membership
+Certificate.
+Evidence
+of
+overseas experience.
+
+
+
+2. Accessibility of the ECAI's rating
+
+
+- Easy availability of credit rating to the public
+Published Document
+
+- Website containing track record & transition
+matrices of credit rating
+Statement
+of
+Web-site
+Address
+
+
+3. Availability of Assessment Methodology
+
+
+- Disclosure of assessment methodology to public
+Published Document
+
+- Website containing updated assessment
+methodology
+Description on how to find
+out and consult with
+methodology placed in Web-
+site.
+
+
+4. Nature of rating
+
+- Disclose whether the rating was Solicited or
+Unsolicited
+Database Management system
+should have these sorts of
+declaration.
+
+--- Page 11 ---
+Page 3 of 4
+
+
+D) Disclosure
+
+
+
+1. Definition of Default Rating Category
+
+- The rating agency's definition regarding default
+rating category and specific definition of 'Default'
+Published
+Methodology
+should include this definition.
+
+The meanings of each rating and how they may be
+compared to standards of Moody's and S&P rating
+category.
+Comparison statement with
+the standards of Moody's and
+S&P rating category.
+
+
+2. Actual transition rate towards default rating
+(business category wise and notch wise)
+
+- Publish the transition of notches towards default
+rating periodically in the websites
+
+3. Disclosure of transition matrices
+
+- Publish the transition matrices regarding notches
+in the website
+Brief description on this issue
+(Minimum 75 words).
+
+
+4. Code of Conduct
+
+
+- Declaration of compliance with IOSCO/SEC Code
+of Conducts
+Declaration of Compliance
+
+
+E) Resources
+
+1. Capital Structure and Net Worth
+
+- Audited financial statements
+
+- Significant change in net-worth (if any)
+Audited financial statements
+of last 3 years.
+
+
+2. Hard and Soft Infrastructure
+
+
+- Office set up, support system and software system
+for rating
+Brief description on these
+issues (Minimum 150 words).
+
+
+3. Number of professional staffs
+
+- List of professional staffs along with details of
+qualification and experience
+List of professional Staffs
+along with details of
+qualification and experience
+
+
+4. Personnel Policy
+
+
+- Recruitment and training policy, Service Rules,
+Pay structure , staff regulations
+Brief description and
+Supported by documents
+(Minimum 150 words).
+
+- Employee Turnover Rate
+Statement on this issue
+
+
+5. Internal Work Relationship
+
+- Work flow chart and organogram
+Work flow chart and
+organogram
+
+
+6. Data ware housing
+
+- Data storing of rated entities
+
+- “Data Warehousing” could disclosures regarding
+the security system installed by the ECAI to protect
+confidential customer information.
+Brief description (Minimum
+100 words).
+
+--- Page 12 ---
+Page 4 of 4
+
+
+
+F) Credibility
+
+
+
+1. Degree of acceptance by the client
+
+- Evidence of dependability of rating by the client
+Study Report (If any)
+
+- Study report on “ Degree of acceptance by the
+client” (if any)
+Copy of the report
+
+- Policy of maintaining secrecy of information
+Policy paper
+
+
+2. Market Share of the ECAI
+
+- Record of the borrower's credit rating
+Brief description and Study
+Report (If any)
+
+
+3. Handling Conflict of Interest
+
+- Existence of Policy and procedures for handling
+conflict of interest
+Brief
+description
+on
+this
+Policy issue (Minimum 150
+words).
+
+
+4. Market Penetration Approach
+
+- Business expansion strategy
+Strategic Plan along with
+vision and mission of the
+ECAI.
+
+--- Page 13 ---
+Annexure-1(a)
+
+Methodology requires minimum
+information on following parameters
+
+A. Corporate (other than Bank and Non-bank Financial Institution)
+i) Financial Risk
+
+Leverage
+
+Liquidity
+
+Profitability
+
+Coverage ratio
+ii) Business/Industry Risk
+
+Size of Business
+
+Age of Business
+
+Business Outlook
+
+Industry Growth
+
+Competition
+
+Entry/Exit Barriers to Business
+iii) Management Risk
+
+Experience
+
+Succession
+
+Team Work
+iv) Security Risk
+
+Security Coverage
+
+Collateral coverage
+
+Support/Guarantee
+
+legal intervention (If any)
+v) Relationship Risk
+
+Account Conduct
+
+Utilization of Limit –If any loan from bank
+
+Compliance of covenants/conditions with banks & other counterparty
+
+Deposit with bank or others
+B. Bank and Non-bank Financial Institution
+i) Quantitative Factors
+
+Capital Adequacy
+
+Asset Quality
+
+Earning quality
+
+Liquidity and Capacity of External Fund Mobilization
+
+Size of the Bank and Market Presence
+
+ii) Qualitative Factors
+
+Management
+
+Regulatory Environment & Compliance
+
+Risk Management
+
+Sensitivity to Market Risk
+
+Ownership (Share holding pattern) and Corporate Governance
+
+Accounting Quality
+
+Franchise Value
+
+C. Quantitative and Qualitative risk factors for other business segments i.e. Securitization exposure,
+Insurance Company, Autonomous Bodies etc. have to be enclosed.

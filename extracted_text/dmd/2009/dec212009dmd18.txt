@@ -1,0 +1,527 @@
+--- Page 1 ---
+বাং eM ব্যাংক ডেট ম্যানেজমেন্ট ডিপার্টমেন্ট
+প্রধান কার্যালয়
+
+মতিঝিল, ঢাকা-১০০০
+বাংলাদেশ
+
+পরিপত্র নং ডিএমডি-১৮/২০০৯ তারিখ 3 ২১/১২/২০০৯
+
+বাংলাদেশে কার্যরত সকল তফসিলী ব্যাংক ও আর্থিক প্রতিষ্ঠান
+
+সরকারি সিকিউরিটিজের সেকেন্ডারী ক্রয়-বিক্রয় ও আন্তব্যাংক রিপোর
+ক্ষেত্রে 1)০]1৮০7"৮ Vs Payment (DvP) System চালুকরণ প্রসংগে ।
+
+সরকারি সিকিউরিটিজ ক্রয়-বিক্রয়জনিত Settlement Risk পরিহারের লক্ষ্যে প্রবর্তিত DvP ব্যবস্থায় দুটো ব্যাংক
+
+অথবা ব্যাংক গ্রাহকের মধ্যে সিকিউরিটিজ ক্রয়-বিক্রয় (Outright Sale/Purchase, Inter-bank Repo etc.) এর ক্ষেত্রে
+
+নিন্নবর্ণিত নিয়মাবলী অনুসরণীয় হবে 3
+
+১. সিকিউরিটিজের সেকেন্ডারী ক্রয়-বিক্রয় (Outright Sale & Purchase) এর ক্ষেত্রে 3
+
+
+
+
+
+
+
+Outright Sale এর ক্ষেত্রে t+ 0 পদ্ধতি অনুসরণপূর্বক সিকিউরিটিজ বিক্রেতা ও ক্রেতা ব্যাংক যথাক্রমে
+
+Securities Transfer Confirmation Form ও Securities Purchase Confirmation Form (কপি সংযুক্ত)
+
+পূরণকরত সংশ্লিষ্ট কার্যদিবসের we 200 ঘটিকার মধ্যে বাংলাদেশ ব্যাংক, মতিঝিল অফিসের
+
+সিকিউরিটিজ শাখায় দাখিল করবে |
+
+সিকিউরিটিজ বিক্রেতা ব্যাংক একই সময়ের মধ্যে সংশ্লিষ্ট সিকিউরিটিজ CDBL System এ রক্ষিত
+Bangladesh Bank’s Clearing Account - Inter bank Outright Sale এ ট্রাফার করবে এবং ট্রা্সফার
+
+সংক্রান্ত জ্ঞাপনপত্র (CDBL System হতে ্বয়ংক্রিয়ভাবে প্রাপ্ত) স্বাক্ষরপূর্বক মতিঝিল অফিসের সিকিউরিটিজ
+
+laa
+
+শাখায় দাখিল করবে | সিকিউরিটিজ ক্রেতা ব্যাংক পূর্বেই বাংলাদেশ ব্যাংক মতিঝিল অফিসের DAB তে
+
+রক্ষিত তাদের চলতি হিসাবে সিকিউরিটিজের মূল্য বাবদ প্রয়োজনীয় অর্থের সংস্থান নিশ্চিত করবে |
+
+মতিঝিল অফিসের সিকিউরিটিজ শাখা অপরাহ্ণ ¢.00 ঘটিকার মধ্যে বাংলাদেশ ব্যাংকের Clearing A/c হতে
+
+সংশ্লিষ্ট সিকিউরিটিজ ক্রেতার 9.0. Alc এ স্থানান্তর করবে এবং একই সাথে ক্রেতার চলতি হিসাব
+
+co
+
+বিকলনের দাখিলকৃত ক্ষমতাপত্রের সূত্রে বিক্রেতার হিসাবে প্রয়োজনীয় ফান্ড ট্রা্সফারের জন্য এতদসংশ্িষ্ট
+
+উচার DAB তে প্রেরণ করবে | সিকিউরিটিজ ক্রেতা CDBL Terminal এর মাধ্যমে সংশ্লিষ্ট সিকিউরিটিজ
+
+
+তার 3.0. Alc এ জমাকৃত হওয়ার বিষয়টি অবহিত হবে | সিকিউরিটিজের মুল্য বাবদ অর্থ বিক্রেতার চলতি
+হিসাবে আকলিত হওয়ার বিষয়টি DAB একই দিনে গ্যাডভাইসের মাধ্যমে তাদেরকে অবহিত করবে |
+
+বাংলাদেশ ব্যাংক ও কোনো তফসিলী ব্যাংক/আর্থিক প্রতিষ্ঠানের মধ্যে, we ভিন্ন ব্যাংকের গ্রাহকের মধ্যে এবং
+
+laa
+
+একটি ব্যাংক ও অপর ব্যাংকের গ্রাহকের মধ্যে সিকিউরিটিজ ক্রয়-বিক্রয়ের ক্ষেত্রেও উল্লিখিত পদ্ধতি অনুসৃত
+
+হবে | উল্লেখ্য, কোনো ব্যাংকের গ্রাহক কর্তৃক সিকিউরিটিজ ক্রয়কৃত হলে AE ব্যাংক বাংলাদেশ ব্যাংকের
+
+Clearing Account এর মাধ্যমে প্রাপ্ত সিকিউরিটিজ যথারীতি তার গ্রাহকের 7.0. A/c এ স্থানান্তর করবে |
+
+কোনো ব্যাংক ও তার নিজ গ্রাহকের মধ্যে অথবা একই ব্যাংকের Wa গ্রাহকের মধ্যে সেকেন্ডারী
+
+ক্রয়-বিক্রয়ের ক্ষেত্রে বিক্রেতা কর্তৃক সংশ্লিষ্ট সিকিউরিটিজ বাংলাদেশ ব্যাংকের Clearing A/c এ ট্রান্সফার করার
+
+প্রয়োজন পড়বে না | সেক্ষেত্রে সংশ্লিষ্ট কার্যদিবসের মধ্যেই এতদসংক্রান্ত Sale ও Buy Form যথারীতি
+
+ence
+
+পুরণকরত বাংলাদেশ ব্যাংক, মতিঝিল অফিসের সিকিউরিটিজ শাখায় দাখিল করতে হবে | উল্লেখ্য, সকল
+
+ক্ষেত্রে সংশ্লিষ্ট ব্যাংক তাদের গ্রাহকের পক্ষে Sale/Buy Form পূরণ করবে |
+
+চলমান পাতা/২
+
+--- Page 2 ---
+8 ২
+
+সিকিউরিটিজের সেকেন্ডারী ক্রয়-বিক্রয়সহ আন্তব্যাংক রিপোর ক্ষেত্রে অনিবার্ধ কারণে ক্রেতা ও বিক্রেতা
+ব্যাংক/আর্থিক প্রতিষ্ঠান প্রথম বারের মত ফান্ড ও সিকিউরিটিজ Roem ব্যর্থ হলে তা অনতিবিলম্বে
+টেলিফোনের মাধ্যমে মতিঝিল অফিসের সিকিউরিটিজ শাখাকে অবহিত করবে | তবে স্বল্প সময়ের ব্যবধানে
+(পরবর্তী এক মাসের মধ্যে) একই ব্যর্থতার পুনরাবৃত্তি ঘটলে সংশ্লিষ্ট ক্রেতা ও বিক্রেতা ব্যাংক/আর্থিক
+প্রতিষ্ঠান পরবর্তী ৭(সাত) দিনের সেকেন্ডারী ট্রেডিং ও আন্তব্যাংক রিপো কার্যক্রমে অংশগ্রহণের অনুপযুক্ত
+বিবেচিত হবে | অধিকন্তু, ব্যর্থ ক্রেতা/বিক্রেতা ব্যাংক/আর্থিক প্রতিষ্ঠান মোট লেনদেন মূল্যের উপর সংশ্লিষ্ট
+কার্যদিবসের গড় ভারিত Inter bank repo rate + 2% হারে প্রতিপক্ষকে প্রতিদিনের জন্য জরিমানা দিতে
+বাধ্য থাকবে |
+
+২ সিকিউরিটিজের আন্তব্যাংক রিপো (Inter bank Repo) এর ক্ষেত্রে ঃ
+
+
+
+
+
+
+আন্তব্যাংক রিপোর ক্ষেত্রে t+ O Aas অনুসৃত হবে | এ ক্ষেত্রে Repo seller ও Repo buyer ব্যাংক/আর্থিক
+প্রতিষ্ঠান যথাক্রমে Securities Transfer Confirmation Form (Repo) Securities Purchase
+Confirmation Form (Repo) (#f সংযুক্ত) পুরণকরত সংশ্লিষ্ট কার্যদিবস (Settlement/ Value Date) এর
+WE 2.00 ঘটিকার মধ্যে বাংলাদেশ ব্যাংক, মতিঝিল অফিসের সিকিউরিটিজ শাখায় দাখিল করবে |
+
+Repo 5০16. ব্যাংক/আর্থিক প্রতিষ্ঠান একই সময়ের মধ্যে সংশ্লিষ্ট সিকিউরিটিজ CDBL System এ রক্ষিত
+Bangladesh Bank’s Clearing Account - Inter bank Repo এ ট্রাসফার করবে এবং ট্রাসসফার সংক্রান্ত
+জ্ঞাপনপত্র স্বাক্ষরপূর্বক মতিঝিল অফিসের সিকিউরিটিজ শাখায় দাখিল করবে |
+
+মতিঝিল অফিসের সিকিউরিটিজ শাখা সংশ্লিষ্ট কার্যদিবসের অপরাহ্ন ৫.০০ ঘটিকার মধ্যে বাংলাদেশ ব্যাংকের
+Clearing A/c হতে সংশ্লিষ্ট সিকিউরিটিজ Repo buyer ব্যাংক/আর্থিক প্রতিষ্ঠানের 8.0. Alc এ স্থানান্তর
+করবে এবং সিকিউরিটিজের মূল্য পরিশোধ সংক্রান্ত ভাউচার DAB তে প্রেরণ করবে | একই কার্যদিবসের
+মধ্যে DAB AE পরিমাণ অর্থ Repo buyer ব্যাংক/আর্থিক প্রতিষ্ঠানের চলতি হিসাব বিকলনপূর্বক Repo
+36110. ব্যাংক/আর্থিক প্রতিষ্ঠানের চলতি হিসাবে আকলন করবে |
+
+Repo এর মেয়াদপূর্তিতে বিপরীত পদ্ধতি অনুসৃত হবে | সেক্ষেত্রে মেয়াদপূর্তির পরবতী কার্যদিবসে (reversal
+date) সকাল ১১.০০ ঘটিকার মধ্যে Repo buyer ব্যাংক/আর্থিক প্রতিষ্ঠান সংশ্লিষ্ট সিকিউরিটিজ Bangladesh
+Bank’s Clearing A/c - Inter bank Repo 7২০0) এ ট্রান্সফার করবে | মতিঝিল অফিসের সিকিউরিটিজ
+শাখা সংশ্লিষ্ট সিকিউরিটিজ বেলা 5.00 ঘটিকার মধ্যে Repo seller এর B.O. A/c এ স্থানান্তর করবে এবং
+একই সাথে Repo buyer এর চলতি হিসাবে প্রয়োজনীয় ফান্ড ট্রান্সফারের জন্য এতদসংশ্লিষ্ট ভাউচার DAB
+তে প্রেরণ করবে | ভাউচার প্রাপ্তির অব্যবহিত পরেই DAB এ বিষয়ে প্রয়োজনীয় ব্যবস্থা গ্রহণ করবে |
+
+Repo চুক্তি নবায়ন/মেয়াদ বর্ধিতকরণ (Rollover) এর ক্ষেত্রে reversal date এ সকাল ১১.০০ ঘটিকার
+মধ্যে Repo seller ও Repo buyer ব্যাংক/আর্থিক প্রতিষ্ঠান তাদের ইতঃপূর্বে দাখিলকৃত Securities
+Transfer Confirmation Form (Repo) ও Securities Purchase Confirmation Form (Repo) এর সুত্রে
+নতুনভাবে ফরম পূরণপূর্বক মতিঝিল অফিসের সিকিউরিটিজ শাখায় দাখিল করবে | নতুনভাবে দাখিলকৃত
+ফরমে বর্ধিত সময়সহ Repo এর মেয়াদপূর্তির তারিখ, সুদের হার, মেয়াদান্তে Repo 5০116 কর্তৃক Repo
+buyer কে পরিশোধ্য সুদাসলের পরিমাণ ইত্যাদি সুস্পষ্টভাবে উল্লেখ করতে হবে |
+
+উল্লিখিত পদ্ধতিতে আন্তব্যাংক রিপো ake সিকিউরিটিজের ট্রান্সফার সম্পাদিত হলেও বাংলাদেশ ব্যাংকের সাথে অন্যান্য
+
+ব্যাংকের রিপোকৃত সিকিউরিটিজ ট্রান্সফারের বিদ্যমান প্রক্রিয়া অপরিবর্তিত থাকবে |
+
+উপর্যুক্ত নিয়মাবলী ০১ জানুয়ারি ২০১০ থেকে কার্যকর হবে | অনুগ্রহপূর্বক প্রাপ্তি স্বীকার করবেন |
+
+আপনাদের বিশ্বস্ত,
+
+সংযোজন ৪ বর্ণনা মোতাবেক |
+
+(মোঃ মিজানুর রহমান জোদ্দার)
+মহাব্যবস্থাপক
+ফোন £ ৭১২০৯৩৭
+
+--- Page 3 ---
+Government Securities Purchase Confirmation Form (Buy)
+
+The General Manager
+Bangladesh Bank Date:
+Motijheel, Dhaka
+D D M M Y Y Y Y
+
+
+Dear Sir,
+
+For our own/customer we confirm the purchase of Government Securities particulars of which are as furnished
+below:
+
+Transferee/Buyer Details
+
+
+DP ID
+
+
+Bank Name
+
+
+BO A/c No.
+
+Transferor/Seller Details
+
+
+DP ID
+
+
+Bank Name
+
+
+BO A/c No.
+
+Details of Government Securities
+
+Issue Date
+Issue No.
+ISIN
+Face Value
+Purchase
+price per Tk.
+100
+Total cost of
+securities
+(Purchase price/100 *
+Face Value)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Settlement Date
+
+D D M M Y Y Y Y
+
+Amount to be paid in Taka
+
+Amount in words …………………………………………………………………………………………………………………………………………..
+
+
+
+Authorization
+
+We hereby authorize Bangladesh Bank to debit our Current Account --------------------------------------------------------
+against delivery of the above securities to our B.O. Account .
+
+
+
+
+Authorized Signature Authorized Signature
+
+1. Name : 2. Name :
+
+Designation : Designation :
+
+--- Page 4 ---
+Government Securities Transfer Confirmation Form (Sale)
+
+The General Manager
+Bangladesh Bank Date:
+Motijheel, Dhaka
+D D M M Y Y Y Y
+
+
+Dear Sir,
+
+On behalf of our own/customer we confirm the sale of Government Securities particulars of which are as furnished
+below:
+
+Transferor/Seller Details
+
+
+
+DP ID
+
+
+Bank Name
+
+
+BO A/c No.
+
+Transferee/Buyer Details
+
+
+DP ID
+
+
+Bank Name
+
+
+BO A/c No.
+
+Details of Government Securities
+
+Issue Date
+Issue No.
+ISIN
+Face Value
+Sale price per
+Tk. 100
+Total cost of
+securities
+(Sale price/100 *
+Face Value)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Internal Reference Number (Int. Ref. No)
+Example: ‘S-DPID-130509-1’ for transaction # 1
+‘S-DPID-130509-2’ for transaction # 2
+
+Settlement Date
+
+D D M M Y Y Y Y
+
+Amount to be received in Taka
+
+Amount in words …………………………………………………………………………………………………………………………………………..
+
+
+
+Undertaking
+
+We hereby undertake to transfer the above mentioned securities to Bangladesh Bank’s Clearing Account-Inter
+bank Outright Sale No. ---------------------------------------by 2.00 p.m. on ……………………........ for sale against
+settlement date
+payment to be credited to our Current Account ………………………………. with Bangladesh Bank.
+
+
+
+Authorized Signature Authorized Signature
+
+1. Name : 2. Name :
+
+Designation : Designation :
+
+--- Page 5 ---
+Government Securities Purchase Confirmation Form (Repo)
+
+
+The General Manager
+Bangladesh Bank Date:
+Motijheel, Dhaka
+D D M M Y Y Y Y
+
+
+Dear Sir,
+
+We confirm the repo of Government Securities particulars of which are as furnished below:
+
+Transferee/Repo buyer Details
+
+
+DP ID
+
+
+Bank Name
+
+
+BO A/c No.
+
+Transferor/Repo seller Details
+
+
+DP ID
+
+
+Bank Name
+
+
+BO A/c No.
+
+Details of Government Securities
+
+Issue Date
+Issue No.
+ISIN
+Face Value
+Repo Amount
+
+
+
+
+
+
+
+
+
+
+
+
+
+Settlement Date
+
+D D M M Y Y Y Y
+
+Amount to be paid to Repo seller in Taka
+
+Amount in words ……………………………………………………………………………………………………………………..................
+
+
+Reversal Date
+
+D D M M Y Y Y Y
+
+Repurchase Agreement Rate ( in per cent) :
+
+Consideration amount to be received from Repo seller for repurchase
+
+Amount in words ..............................................................................................................................................
+
+
+Authorization
+
+We hereby authorize Bangladesh Bank to debit our Current Account --------------------------------------------------------
+against delivery of the above securities to our B.O. Account . For the purpose of repurchase by the Repo seller
+we hereby undertake to transfer the same securities to Bangladesh Bank’s Clearing Account–Inter bank Repo
+Return No. --------------------------------- by 11.00 a.m. on the reversal date.
+
+
+
+
+Authorized Signature Authorized Signature
+
+1. Name : 2. Name :
+
+Designation : Designation :
+
+--- Page 6 ---
+Government Securities Transfer Confirmation Form (Repo)
+
+
+The General Manager
+Bangladesh Bank Date:
+Motijheel, Dhaka
+D D M M Y Y Y Y
+
+
+Dear Sir,
+
+We confirm the repo of Government Securities particulars of which are as furnished below:
+
+Transferor/Repo seller Details
+
+
+DP ID
+
+
+Bank Name
+
+
+BO A/c No.
+
+Transferee/Repo buyer Details
+
+
+
+DP ID
+
+
+Bank Name
+
+
+BO A/c No.
+
+Details of Government Securities
+
+Issue Date
+Issue No.
+ISIN
+Face Value
+Repo Amount
+
+
+
+
+
+
+
+
+
+
+
+
+
+Internal Reference Number (Int. Ref. No)
+Example: ‘R-DPID-130509-1’ for transaction # 1
+‘R-DPID-130509-2’ for transaction # 2
+
+Settlement Date
+
+D D M M Y Y Y Y
+
+Amount to be received from Repo buyer in Taka
+
+Amount in words ……………………………………………………………………………………………………………………..................
+
+
+Reversal Date
+
+D D M M Y Y Y Y
+
+Repurchase Agreement Rate ( in per cent) :
+
+Consideration amount to be paid to Repo buyer during repurchase
+
+Amount in words ..............................................................................................................................................
+
+
+Undertaking
+
+
+We hereby undertake to transfer the above mentioned securities to Bangladesh Bank’s Clearing Account-Inter bank
+Repo No.--------------------------------- by 2.00 p.m. on ……………………........ against payment to be credited to our
+settlement date
+
+Current Account ………………………………. with Bangladesh Bank. For the purpose of repurchase we also hereby
+authorize Bangladesh Bank to debit our Current Account by consideration amount (principal plus interest) on the
+reversal date.
+
+
+
+
+Authorized Signature Authorized Signature
+
+1. Name : 2. Name :
+
+Designation : Designation :

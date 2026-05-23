@@ -1,0 +1,211 @@
+--- Page 1 ---
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka.
+
+October 14, 2009
+BRPD Circular No. 13 Date: ----------------------
+Ashwin 29, 1416
+
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+
+Dear Sir,
+
+
+Guidelines on Subordinated Debt for inclusion in Regulatory Capital
+
+
+
+Please refer to BRPD Circular No. 10 dated November 25, 2002 regarding ‘Capital
+Adequacy of Banks’ and BRPD Circular No. 09 dated December 31, 2008 regarding Guidelines
+on ‘Risk Based Capital Adequacy for Banks’ (Revised regulatory capital framework in line with
+Basel II). In partial modification of the aforesaid circulars, it is advised that henceforth
+‘Subordinated Debt’ will replace ‘Perpetual Subordinated Debt’ as a component of Regulatory
+Capital (Tier 2 or Tier 3).
+To ensure transparency and uniformity in raising subordinated debt as well as for
+inclusion in Regulatory Capital, Banks are advised to follow the guidelines enclosed herewith.
+
+Please acknowledge receipt.
+
+
+Yours sincerely,
+
+
+
+(Abu Hena Mohd. Razee Hassan)
+General Manager
+Phone: 7117825
+Encl: As above.
+
+--- Page 2 ---
+Banking Regulation and Policy Department October14, 2009
+
+Guidelines on Subordinated Debt
+
+
+Guidelines on Subordinated Debt
+
+1. Introduction
+
+The scheduled banks should have capital plan approved by their Board of Directors. To attain the
+capital plan, the banks may issue subordinated debt to qualify as regulatory capital (Tier 2 or
+Tier 3). However, prior approval of Bangladesh Bank (BB) is needed to issue and repay
+subordinated debt.
+
+2. Criteria to Qualify as Regulatory Capital
+a) Subordinated debt eligible to be considered as Tier 2 capital must -
+• have maturity of more than five years ;
+• state on the instrument that it is not a deposit and is not insured by the Deposit
+Insurance Scheme;
+• may be convertible into equity subject to approval of BB and Securities and
+Exchange Commission (SEC) where necessary;
+• be subordinated to the claims of depositors and other creditors;
+• be unsecured;
+• the instrument should be rated and it would be BB rating grade at least 2 (two) ;
+• be ineligible as collateral for a loan made by the issuing bank;
+• provide that once any scheduled payments of principal begin, all payments shall be
+made at least annually and the amount repaid each year shall be no less than in the
+prior year;
+subordinated debt shall be limited to a maximum of 30% of the amount of Tier 1
+capital.
+b) The total of Tier 2 (supplementary capital) elements will be limited to a maximum of 100%
+of the total of Tier 1 elements;
+c) The amount of subordinated debt eligible for inclusion as Tier 2 capital will be reduced by
+20 percent from the original amount of the instrument (net of any redemption) at the
+beginning of each of the last five years of the instrument’s life. In other words, during the
+last five years to maturity, a discount (or amortization) factor of 20 % per year must be
+applied to reflect the diminishing value of this instrument as a continuing source of strength.
+Thus, subordinated debt with less than one year to maturity will not be included in Tier 2
+capital.
+
+--- Page 3 ---
+Banking Regulation and Policy Department October14, 2009
+
+Guidelines on Subordinated Debt
+
+
+d) In addition to Tier 2 capital, certain subordinated debt may qualify as Tier 3 capital. Tier 3
+capital will be limited to 250% of a bank’s Tier 1 capital that is available after meeting credit
+risk capital requirement to support market risk. This means that a minimum of about 28.5%
+of market risk to be supported by Tier-1 capital.
+To be considered as Tier 3 capital, subordinated debt must:
+• be unsecured and fully paid up;
+• have an original maturity of at least two years;
+• include a provision that the subordinated debt is not redeemable before maturity
+without prior BB approval.
+• include a lock-in clause precludes payment of either interest or principal (even at
+maturity), if the payment would cause the issuing bank’s risk-based capital ratio to
+fall or remain below the minimum as required under Risk Based Capital Adequacy
+for bank (RBCA).
+• neither contains nor is covered by any covenant, terms, or restrictions that are
+inconsistent with safe and sound banking practices.
+3. Application Process
+
+The application for issuing subordinated debt shall include:
+• A copy of the subordinated note format and agreement;
+• The amount and date on which the reduction will be occurred;
+• A statement that the change in the bank’s capital structure complies with applicable laws
+and regulations;
+• Statement on trustee or warranty and
+• Application should be enclosed with the SEC clearance certificate to issue the instrument.
+
+4. Reciprocal Holdings
+In case of reciprocal holding/issue of subordinated debt by banks the amount of such
+holding/issuance will not be eligible for capital treatment.
+5. Restriction on Holdings:
+Sponsor shareholders of the issuing bank shall not be allowed to participate in or hold the
+subordinated debt instruments of the issuing bank directly or through their affiliates. The same
+restriction will also apply to the employees’ retirement benefit funds of the issuing bank.
+6. Mandatory Provisions of the Instrument:
+The following language, which has been drafted to comply with the requirements of applicable
+rules, regulations, and policies, must appear in every note, debenture, or note agreement.
+
+--- Page 4 ---
+Banking Regulation and Policy Department October14, 2009
+
+Guidelines on Subordinated Debt
+
+
+A. On the face of the note: “THIS OBLIGATION IS NOT A DEPOSIT AND IS NOT INSURED BY
+ANY DEPOSIT INSURANCE SCHEME.”
+
+B. On the face of the note: “THIS OBLIGATION IS SUBORDINATED TO CLAIMS OF
+DEPOSITORS AND OTHER CREDITORS, IS UNSECURED, AND IS INELIGIBLE AS
+COLLATERAL FOR A LOAN BY THE (NAME OF ISSUING BANK).”
+(Note: This clause may be combined with the required language set forth in (A), above.)
+
+C. A general subordination clause must be added that specifies the subordination of the note.
+The clause must be in substantially the following form:
+”The indebtedness of the bank evidenced by this note, including the principal and premium, if
+any, and interest shall be subordinate and junior in right of payment to its obligations to its
+depositors, its obligations under bankers’ acceptances and letters of credit, and its obligations to
+its other creditors, including its obligations to the Bangladesh Bank, Deposit Insurance Trust
+Fund (DITF). In the event of any insolvency, receivership, conservatorship, reorganization,
+readjustment of debt or similar proceedings or any liquidation or winding up of or relating to the
+bank, whether voluntary or involuntary, all such obligations shall be entitled to be paid in full
+before any payment shall be made on account of the principal of, or premium, if any, or interest,
+on the note. In the event of any such proceedings, after payment in full of all sums owing on
+such prior obligations, the holder, of the note, together with any obligations of the bank ranking
+on a parity with the note, shall be entitled to be paid from the remaining assets of the bank the
+unpaid principal thereof and any unpaid premium, if any, and interest before any payment or
+other distribution, whether in cash, property, or otherwise, shall be made on account of any
+capital stock or any obligations of the bank ranking junior to the notes. Nothing herein shall
+impair the obligation of the bank, which is absolute and unconditional, to pay the principal of
+and any premium and interest on the note according to its terms.”
+
+7. Provision of Protection and Covenants:
+
+Subordinate debt will be supported by agreement of trust or warranties stating that the bank is a
+duly organized banking company, that there has been no material adverse change in its condition
+since the date of the agreement and is not in default on any agreement or in violation of its
+charter or by laws. The agreement will assure repayment of the benefit of the instrument holders.
+By their nature, subordinated debt must be subordinate to all but equity holders.
+8. Reserve Requirements:
+The total amount of subordinated debt is to be reckoned as liability for the calculation of net
+demand and time liabilities for the purpose of reserve requirements and, as such, will attract
+CRR/SLR requirements.
+
+--- Page 5 ---
+Banking Regulation and Policy Department October14, 2009
+
+Guidelines on Subordinated Debt
+
+
+9. Disclosure
+The total amount of subordinated debt shall be disclosed in the balance sheet under the head
+‘subordinated debt’ in the nature of long term borrowings.
+
+10. Head Office borrowings in foreign currency by Foreign Banks operating
+in Bangladesh
+Foreign banks operating in Bangladesh may raise subordinated debt with prior approval of BB in
+the form of (i) subordinated debt in foreign currency and (ii) subordinated debt in the form of
+foreign currency borrowings from Head office for inclusion in Tier-2 capital.
+a) Amount of borrowing: The total amount of HO borrowing in foreign currency will be at the
+discretion of the foreign bank. However, the amount eligible for inclusion in Tier-2 capital as
+subordinated debt will be subject to a maximum ceiling as stated above.
+b) Maturity period: Head Office borrowings should have a minimum initial maturity of 5(five)
+years. If the borrowing is in tranches, each tranche will have to be retained in Bangladesh for a
+minimum period of five years.
+c) Features: The HO borrowings should be fully paid up, i.e. the entire borrowing or each
+tranche of the borrowing should be available in full to the branch in Bangladesh. It should be
+unsecured, subordinated to the claims of other creditors of the foreign bank in Bangladesh, free
+of restrictive clauses and should not redeemable at the instance of the HO.
+d) Rate of interest: The rate of interest on HO borrowings should not exceed the on-going
+market rate. Interest should be paid at yearly rests.
+e) Withholding tax: The interest payments to the HO will be subject to applicable withholding
+tax.
+f) Repayment: All repayments of the principal amount will be subject to prior approval of BB
+g) Documentation: The bank should obtain a letter from its HO agreeing to give the loan for
+supplementing the capital base for the Bangladesh operations of the foreign bank. The loan
+documentation should confirm that the loan given by Head Office would be subordinated to the
+claims of all other creditors of the foreign bank in Bangladesh. The loan agreement will be
+governed by, and construed in accordance with the Bangladesh law. Prior approval of the BB
+should be obtained in case of any material changes in the original terms of issue.
+
+11. Other Eligibility Criteria:
+a) A bank would be eligible to issue subordinated debt which has composite CAMELS rating at
+least 2 (two) and BB Rating Grade at least 2 (two) as mentioned in the guidelines on RBCA.

@@ -1,0 +1,1106 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাক
+
+(সেন্ট্রাল ব্যাংক অব বাংলাদেশ)
+প্রধান কার্যালয় ডেট ম্যানেজমেন্ট ডিপার্টমেন্ট
+মতিঝিল, ঢাকা-১০০০
+বাংলাদেশ ।
+ডিএমডি সার্কুলার নং: ০৩ তারিখ: _ ২৩ 8B ১৪৩০ বঙ্গাব্দ
+০৬ জুন ২০২৩ Rory
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে কার্যরত সকল ব্যাংক ও আর্থিক প্রতিষ্ঠান
+(শরীয়াহ্ভিত্তিক ব্যাংক ও আর্থিক প্রতিষ্ঠান ব্যতীত)।
+
+“Guidelines on the Secondary Trading of Government Securities, 2023” প্রসঙ্গে |
+
+সরকারি সিকিউরিটিজের সেকেন্ডারি মার্কেট সম্প্রসারণ এবং অধিকতর সক্রিয় করার লক্ষ্যে বাংলাদেশ ব্যাংকের Market
+Infrastructure (MI) Module এর পাশাপাশি দেশের স্টক এক্সচেঞ্জ (ঢাকা এবং DUATT স্টক এক্সচেঞ্জ) এর ট্রেডিং
+প্লাটফর্মের মাধ্যমে সরকারি সিকিউরিটিজের লেনদেন কার্যক্রম সুষ্ঠুভাবে সম্পাদনের ব্যবস্থা গ্রহণ করা হয়েছে।
+
+০২। উল্লিখিত প্লাটফর্মসমূহে সরকারি সিকিউরিটিজের ক্রয়-বিক্রয়ের বিধি, নীতি, পদ্ধতি, সিকিউরিটিজ ও ফাল্ড
+সেটেলমেন্ট প্রক্রিয়া, লেনদেনের পক্ষসমূহের দায়িত্ব-কর্তব্য এবং লেনদেন সংশ্লিষ্ট যে কোনো বিবাদ (dispute) নিষ্পত্তি প্রক্রিয়ার
+বিষয়ে সংশ্লিষ্ট অংশগ্রহণকারীদের/পক্ষসমূহের জন্য অনুসৃতব্য নির্দেশনাবলী সম্বলিত “Guidelines on the Secondary
+Trading of Government Securities, 2023” প্রণয়ন করা হয়েছে যা পরিপালনের জন্য আপনাদেরকে নির্দেশনা প্রদান
+করা হলো।
+
+০৩ | এ নির্দেশনা অবিলষে কার্যকর হবে |
+
+আপনাদের বিশ্বস্ত,
+
+সংযোজনী: বর্ণনা মোতাবেক। ৫৯4
+
+(খোন্দকার সিদ্দীকুর রহমান)
+পরিচালক (ডিএমডি)
+ফোনঃ ৯৫৩০১৩১
+ই-মেইল: khondaker.rahman@ bb.org.bd
+
+--- Page 2 ---
+Guidelines on the Secondary
+Trading of Government Securities
+
+
+June 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Debt Management Department
+Bangladesh Bank
+www.bb.org.bd
+
+--- Page 3 ---
+Page 2 of 13
+
+List of Acronyms
+Acronym
+Elaboration
+BB
+Bangladesh Bank
+BGTB
+Bangladesh Government Treasury Bonds
+BOID
+Beneficiary Owner Identification
+BPID
+Business Partner ID
+BSEC
+Bangladesh Securities and Exchange Commission
+CDBL
+Central Depository Bangladesh Limited
+CSE
+Chittagong Stock Exchange
+DMD
+Debt Management Department
+DP
+Depository Participant
+DSE
+Dhaka Stock Exchange
+DvP
+Delivery versus Payment
+DfP
+Delivery free of Payment
+FD
+Finance Division
+FMI
+Financial Market Infrastructure
+FI
+Financial Institution
+GSOM
+Government Securities Order-Matching Trading Platform
+G-Sec
+Government Securities
+IB Repo
+Interbank Repo
+IPS
+Investment Portfolio Securities
+ISIN
+International Securities Identification Numbers
+LSF
+Liquidity Support Facilities
+MD
+Member Dealer
+MI Module
+Market Infrastructure Module
+OTC
+Over-the-Counter
+PD
+Primary Dealer
+SGL
+Subsidiary General Ledger
+T-Bill
+Treasury Bill
+T-Bond
+Treasury Bond
+TWS
+Trader Work Station
+
+--- Page 4 ---
+Page 3 of 13
+
+Table of Contents
+Chapter No.
+Title
+Page No.
+Chapter 1
+Introduction
+4-6
+
+1. Short Title
+
+2. Definitions
+
+3. Eligible Securities
+
+4. Eligible Trading Platforms
+
+a) Bangladesh Bank‟s Electronic Trading Platforms
+
+b) DSE and CSE Trading Platforms
+
+5. Government Securities Depository
+Chapter 2
+G-Sec Trading through Bangladesh Bank’s Electronic System
+6-10
+
+6. Secondary Trading of G-Sec through BB‟s Electronic System
+
+7. Trading Rules for Over-the-Counter (OTC)
+
+8. Trading Rules for GSOM
+
+a) Trading Day
+
+b) Trading Period
+
+c) Types of Transactions
+
+d) Matching of Orders
+
+e) Queue Priority
+
+f) Order Modification
+
+g) Order Withdrawal
+
+h) Trade Confirmation
+
+i) Market Control Parameters
+
+9. Settlement Process of the Fund and Securities Traded in
+Bangladesh Bank‟s Electronic System
+
+a) Settlement of G-Sec with fund involvement in the System
+
+b) Settlement of G-Sec without any fund involvement with
+Bangladesh Bank through DfP
+
+c) Settlement Cycle
+
+d) Assurance of Payment in Case of a Change in Security
+Ownership
+
+e) Other Instructions
+
+10. Default Management by Bangladesh Bank
+Chapter 3
+G-Sec Trading through DSE and CSE
+10-12
+
+11. Government Securities trading through the DSE and the CSE
+10
+
+a) Trading process
+10
+
+b) Clearing and Settlement Process
+11
+
+c) Other Instructions
+11
+
+d) Default Management by DSE and CSE
+12
+
+e) Dispute Management by Bangladesh Bank & BSEC
+12
+Chapter 4
+Fees and Others
+12-13
+
+12. Separate Window for Cliental Services
+12
+
+13. Coupon Payment/Proceed Settlement Procedure
+12
+
+14. Miscellaneous
+13
+
+a) Fees and charges for secondary trading
+13
+
+b) Reporting
+13
+
+c) Responsibilities and Issuance of Relevant Instructions
+13
+
+--- Page 5 ---
+Page 4 of 13
+
+Debt Management Department
+Bangladesh Bank
+Guidelines on the Secondary Trading of Government Securities, 2023
+Dated 06 June, 2023
+
+In exercising the powers conferred by paragraph 5(vi) of the “Issuance and Re-issuance of
+Bangladesh Government Treasury Bonds” notification issued on 24 June, 2007 (amended on 08
+January, 2023), Bangladesh Bank hereby issues the “Guidelines on the Secondary Trading of
+Government Securities, 2023” for the smooth functioning of the secondary trading of
+Government Securities on its own Electronic System (MI/FMI) as well as on stock exchange
+(DSE and CSE) platforms.
+
+CHAPTER 1: INTRODUCTION
+1. Short Title: These guidelines shall be called the “Guidelines on the Secondary Trading of
+Government Securities, 2023”.
+2. Definitions
+a) In these guidelines, unless there is anything repugnant in the subject or context:
+i. “Issuer” means the Government of Bangladesh;
+ii. “Government Securities (hereinafter mentioned as „G-Sec‟)” shall have the same
+meaning as assigned to it by section 2(20) of the Sorkari Rin Ain, 2022 (Act No. 17 of
+2022);
+iii. “Bangladesh Government Treasury Bond (BGTB)/Treasury Bonds” shall have the same
+meaning as assigned to it by section 2(2) of the Sorkari Rin Ain, 2022;
+iv. “Treasury Bill (T-bill)” shall have the same meaning as assigned to it by section 2(3) of
+the Sorkari Rin Ain, 2022;
+v. "Primary Dealer (PD)” shall have the same meaning as assigned to it by paragraph 1 (e)
+of the “Issuance and Re-issuance of Bangladesh Government Treasury Bonds”
+notification issued on 24 June, 2007;
+vi. “Member Dealer (MD)” means a bank, financial institution or any other institutions
+maintaining a current account with BB, who has access to the Electronic System for
+proprietary dealing or for dealing on behalf of their clients;
+vii. “Proprietary Dealing” means Government Securities dealing by the MDs with the
+Electronic System in relation to their own portfolios;
+viii. “Client” means investors (other than MDs), who can participate in the investment and
+trading of Government Securities through the concerned MD;
+ix. "Electronic System" means a system or any other platform introduced or maintained by
+Bangladesh Bank for recording and management of Government Securities or any other
+
+--- Page 6 ---
+Page 5 of 13
+
+securities, which will act as a secondary trading platform as well as a Government
+Securities Depository;
+x. “Government Securities Depository” shall have the same meaning as assigned to it by
+section 2(21) of the Sorkari Rin Ain, 2022;
+xi. “SGL” means “Subsidiary General Ledger”, which is a unique account where the MDs‟
+Government Securities are preserved;
+xii. “IPS” means “Investment Portfolio Securities”, which is a unique account where the
+Clients‟ Government Securities are preserved;
+xiii. “Business Partner Identification (BPID)” means a unique code assigned to each
+SGL/IPS account, maintained with Bangladesh Bank for the investment of Government
+Securities;
+xiv. “BOID” means Beneficiary Owner Identification, which is maintained with the
+depository registered under the Depository Act, 1999 (Act No. 6 of 1999);
+xv. “OTC trade” means „Over-the-Counter trades‟ that occur between the investors by
+direct negotiation;
+xvi. “Government Securities Order Matching (GSOM)” means an electronic anonymous
+order-matching trading platform of government securities operated by Bangladesh Bank;
+xvii. “Hours of Operation” means the trading hours available in a particular business day to
+the users for trading in the Electronic System;
+xviii. “Order” means purchase or sale order placed through the Electronic System or on the
+exchange platforms;
+xix. “TREC” means Trading Right Entitlement Certificate as defined in the Exchanges
+Demutualization Act, 2013 (15th act of 2013);
+xx. “TREC Holder” means a person who holds a TREC issued by the exchanges;
+xxi. “Delivery versus Payment (DvP)” means a settlement model which implies that the
+movement of securities occurs only after the successful transfer of funds from the buyer
+to the seller; and
+xxii. “Delivery free of Payment (DfP)” means a settlement mechanism/method in which the
+transfer of securities occurs free of payment;
+b) Words and expressions, which are not defined in section 2.a), shall have the same
+meaning as mentioned in the Sorkari Rin Ain, 2022, Public Debt Rules, 1946, “Issuance
+and Re-issuance of Bangladesh Government Treasury Bonds” notification issued on 24
+June, 2007 (amended on 08 January, 2023) and any other rules and regulations issued
+thereunder.
+3. Eligible Securities: Bangladesh Bank shall determine the securities that are eligible to be
+listed for trading in the market from time to time. Eligible Securities shall be of following
+types:
+
+--- Page 7 ---
+Page 6 of 13
+
+a) Bangladesh Government Treasury Bonds;
+b) Treasury Bills; and
+c) Any other Government Securities.
+4. Eligible Trading Platforms: G-Sec shall be traded simultaneously in the following trading
+platforms:
+a) Bangladesh Bank‟s Electronic Trading Platforms; and
+b) DSE and CSE Trading Platforms.
+5. Government Securities Depository: Bangladesh Bank shall maintain records of all
+SGL/IPS accounts through the Electronic System, which will act as a depository of
+Government Securities. Bangladesh Bank‟s Electronic System shall be used as a depository
+and trading platform of Government Securities. It will maintain the details of security
+balances in various beneficial owner accounts. These balances arise due to the issuance of
+Government Securities in the primary market and trading of the same in the secondary
+market. The ownership type of these Government Securities should either be Proprietary or
+Client.
+
+CHAPTER 2: G-SEC TRADING THROUGH
+BANGLADESH BANK’S ELECTRONIC SYSTEM
+
+6. Secondary Trading of Government Securities through Bangladesh Bank’s Electronic
+system: Government Securities issued through the auctions, or privately placed can be traded
+through the following ways:
+a) Over-the-Counter (OTC); and
+b) Government Securities Order Matching (GSOM).
+7. Trading Rules for Over-the-Counter (OTC): In OTC, the trade shall be executed by
+negotiation between MDs (for its own trade and on behalf of its clients) outside the trading
+platform. OTC trade shall be reported in the Electronic System of Bangladesh Bank for
+settlement of securities and fund. Either the buyer or the seller Member shall input the
+transaction details and is referred to as the instructing party. The other Member shall
+confirm/accept the trade and is referred to as a confirming party. On confirmation, the trade
+shall be taken up for settlement (fund and securities).
+8. Trading Rules for GSOM: GSOM of Bangladesh Bank shall provide users access to trade
+in the secondary market in real-time.
+a) Trading Day: The trading shall be open on all business days as declared by Bangladesh
+Bank.
+b) Trading Period: The trading period shall be determined by Bangladesh Bank on time to
+time. Provided that, in consideration of any particular circumstance or situation,
+Bangladesh Bank may extend, curtail, or change the trading period. During the trading
+period, members shall be allowed to submit, delete and modify orders. Orders will be
+executed during the trading period; and after the end of the trading period, the Electronic
+
+--- Page 8 ---
+Page 7 of 13
+
+System will stop receiving orders.
+c) Types of Transactions: Orders in GSOM can be categorized on the basis of Price,
+Time/Validity and Quantity/Volume.
+i. Price-Based Orders: Based on the price, investors can order under the following
+categories,
+A. Limit Order (LMT): Limit order must have a price limit which ensures that the
+order shall be traded at a price equal to or better than the limit price.
+B. Market Order (MKT): An order to buy or sell securities immediately at the best
+available current price.
+C. Stop-Loss Limit Order (SLL): An order to buy a security at no more (or sell at no
+less) than a specified limit price.
+D. Stop-Loss Market Order (SLM): An order to buy (or sell) a security once the price
+of the security climbs above (or drops below) a specified stop price.
+ii. Time/Validity-Based Orders: Based on time/validity, investors can order under the
+following categories,
+A. Good-Till-Session-End-Time (Day): The deal will be lived till session end time
+(Day).
+B. Good-Till-Cancellation (GTC): The deal will be lived till Cancellation or Matched.
+C. Immediate or Cancel (IOC): The deal will be matched immediately or canceled.
+D. Good-Till-Date (GTDt): The trader can specify the date till which the order should
+remain active in the market.
+E. Good-Till-Day (GTD): The trader can specify the day (number of days) till which
+the order should remain active in the market.
+iii. Quantity/Volume-Based Orders: Based on quantity/volume, investors can order under
+the following categories,
+A. Minimum Fill (MF): This signifies the minimum amount order quantity shall be
+executed as soon as the order is submitted to the trading engine. If the order is not
+fully executed, the remaining order quantity shall be stored, which shall be visible to
+the market for trading.
+B. Disclosed Amount (DA): An order may specify the total or lesser volume of
+securities for disclosure to the market. The disclosed volume shall not exceed the
+total volume. The total and disclosed volume of an order must be of a market lot. An
+increase in disclosed volume shall change in the queue priority, but a decrease in
+disclosed volume shall not change in queue priority.
+C. All or None (AON): This signifies that either all of the orders quantity shall be
+executed as soon as the order is submitted to the trading engine or the entire order
+shall be rejected and returned to the trader.
+
+--- Page 9 ---
+Page 8 of 13
+
+d) Matching of Orders
+i. All orders with price equal to or better than the opening price will match automatically.
+ii. Orders which are at the most favorable price, that is, at the lowest selling or highest
+buying price, shall be executed first. If two or more orders are listed in the order book at
+the same price, the oldest order shall be executed first.
+e) Queue Priority
+i. Orders that cannot immediately be executed shall be queued for future execution in a
+specific order of priority, mainly based on price and time of entry.
+ii. In case an order is executed partly, the remaining part of such order shall not lose its
+priority.
+iii. The queue priority shall be determined by the Electronic System through an interactive
+process and the order of priority displayed by the Electronic System.
+f) Order Modification: Orders submitted to the Electronic System can be modified at any
+time before execution. Only the price, quantity, and validity date of order active in the
+Electronic System can be modified. Modification of price and quantity results in re-
+queuing the order. If only the validity date is modified, then the order‟s position in the
+queue shall not be changed.
+g) Order Withdrawal: The trader can withdraw or cancel his orders anytime before
+matching.
+h) Trade Confirmation: For every successful match, a trade with a unique reference
+number shall be created, and the counterparties to the trade shall be notified by means of
+trade confirmation. The security, the trade quantity, and price at which the trade occurred
+shall be broadcasted to all trading workstations, which can be seen on the market ticker.
+The trade confirmation shall be seen on the trading ticker on the trading workstations of
+both counterparties to the trade.
+i) Market Control Parameters: Bangladesh Bank shall regulate the market-control
+parameters, including the type of orders allowed, trading period, matching basis, and
+other parameters in the market from time to time.
+9. Settlement Process of the Fund and Securities Traded in Bangladesh Bank’s Electronic
+System
+a) Settlement of G-Sec with fund involvement in the System
+i. Securities Transfer between Two MDs or MD to Other MDs’ Client or Clients of
+Different MDs: Transactions (both in OTC and GSOM) shall be done following the
+Delivery versus Payment (DvP) process for settlement. DvP settlement model implies
+that the movement of securities occurs only after the successful transfer of funds from
+the buyer to the seller. Fund settlement shall occur between MDs who maintain current
+accounts with Bangladesh Bank. Security settlement shall occur between beneficial
+owners of securities.
+
+--- Page 10 ---
+Page 9 of 13
+
+b) Settlement of G-Sec without any fund involvement with Bangladesh Bank through
+DfP
+i. Securities Transfer from Own Client to the MD or Two Clients of an MD:
+Securities shall be transferred between Clients to MD or two clients‟ security accounts
+operated by an MD through account transfers. Such transfers will not have a fund
+consideration on the current account maintained at Bangladesh Bank for the MD as the
+clients belong to the same Member. Fund settlement between clients of the MD will be
+handled and ensured by the MD within their own procedure.
+ii. Securities Transfer between Two Clients due to dissolution or decease of client
+etc.: Securities transfer to the partners/directors due to dissolution of a company or
+transfer to the successor due to death of a securities holder, the MD can transfer
+securities upon getting an application from the successor as per Sorkari Rin Ain, 2022.
+Such transfer shall not be considered as secondary trade.
+iii. Securities Transfer due to Change in MD: Client can change their securities account
+from one MD to another MD. In this case, BPID holder has to open a new BPID with
+another MD and then apply to former MD to take necessary actions for transferring
+securities to the newly opened BPID. After getting application, MD shall follow the
+Delivery Free of Payment (DfP) model for securities transfer. Such transfer shall not be
+considered as secondary trade.
+c) Settlement Cycle: Settlement date shall be a valid business date. Settlement cycle shall
+be T+0 for any transaction among the investors in OTC and GSOM.
+d) Assurance of Payment in Case of a Change in Security Ownership: The depository
+shall ensure that security ownership will be transferred only after receipt of confirmation
+of payment in the case of DvP.
+e) Other Instructions
+i. MD shall not transfer Government Securities without the written instruction of their
+clients.
+ii. Transfer of Government Securities shall follow the Delivery versus Payment (DvP) or
+Delivery free of Payment (DfP) process of settlement.
+iii. When the instructions of transferor and transferee for security transfer and transmission
+match, then the Government Securities shall be automatically transferred without
+delay from one account to another.
+10. Default Management by Bangladesh Bank: In case of a failure of the settlement (deliver
+securities and/or make payment within the settlement day) by an MD, it shall be settled as
+per the process described below:
+a) If a Member Dealer fails to deliver securities and/or make payment within the settlement
+day, the Defaulting Party shall try to settle the unsettled transaction by buying-in from
+the market or managing fund from the market within the transaction period.
+b) If bought-in securities or managing fund is not possible within the transaction period, the
+
+--- Page 11 ---
+Page 10 of 13
+
+penalty will be imposed on the defaulting parties. The defaulting party shall not be
+allowed to participate in secondary trading and interbank repo activities for the next 07
+working days as a penalty.
+c) In addition, the defaulting party shall have to pay the other parties a penalty at a rate
+twice the weighted average overnight interbank repo rate+2% on the total trade amount
+for one day.
+d) If any MD fails to pay interest, and/or penalty described in paragraph 9(c), Bangladesh
+Bank shall have the right to adjust the amount from the current account maintained with
+Bangladesh Bank of the defaulting participants.
+e) Bangladesh Bank may suspend or cancel dealership for breaching any provision of this
+guideline or any directive issued thereunder or may take further disciplinary measures
+against any MD if found guilty in an investigation by the Bangladesh Bank.
+
+CHAPTER 3: G-SEC TRADING THROUGH DSE AND CSE
+11. Government Securities trading through the Dhaka Stock Exchange (DSE) and the
+Chittagong Stock Exchange (CSE): Government securities can be traded in the trading
+platforms of DSE and CSE.
+a) Trading process: Trading process of Government Securities is as below:
+i. The existing holders of BPID in the MI module shall require opening a BO account
+with TREC holders/DPs of the exchanges, if not have any, at least previous day of
+trading if they intend to trade on the DSE or CSE trading platform. In this case, the
+linked bank account of BPID shall be used as the linked bank account of BOID
+(applicable only for the clients).
+ii. The BPID holders who intend to trade on the DSE or CSE platform, will require to fill
+in the relevant transfer forms (Annexure-1) and submit it to the MD along with BOID
+acknowledgement copy to block/earmark partial or entire portion of their holding of G-
+Sec in the MI module through the Financial Market Infrastructure (FMI) system.
+iii. The corresponding MD will send the relevant transfer information on the same day
+during banking hour to Bangladesh Bank for blocking the securities.
+iv. Bangladesh Bank will block the intended holdings in the MI module according to the
+BPID holder‟s intimation and transfer the relevant information of that holding to
+exchanges for trading.
+v. The investors will be able to trade the G-Sec in the exchange platforms using BOID
+from the next trading day.
+vi. The settlement of the trades will be done as per the settlement cycle of the exchanges.
+vii. Settlement of fund will take place as per existing process of exchange clearing.
+viii. An investor, who is willing to purchase G-Sec through BOID, will require to own a
+BPID either prior to the purchase or Bangladesh Bank will create BPID account on the
+
+--- Page 12 ---
+Page 11 of 13
+
+basis of BOID information after execution of the trade for the investors who have no
+BPID.
+ix. The said BPID mentioned in paragraph viii above will be opened based on the Bank
+account (to be linked as MD) that has been used for opening BOID account. After
+opening the BPID account, the respective MD will get the information regarding the
+newly opened BPID along with trade data of its clients in the system. Concerned MD
+will ensure whether BPIDs of their clients have been opened.
+x. All the purchases through BOID will be reflected on the investors‟ BPID in the MI
+module at the end of the settlement cycle for ensuring the ownership of G-sec.
+xi. Settlement of securities will take place in the MI module on settlement day as per the
+settlement cycle of the exchange for the transfer of ownership from Seller BPID to
+Buyer BPID.
+xii. At the end of the settlement date, MD will get the settlement information of its clients in
+the system. Concerned MD will reconcile buy/sell positions of its clients with the
+before and after trade holding.
+xiii. If a BOID account holder who holds G-Sec intends to trade in the MI module then the
+BOID holder will fill in the relevant transfer form (Annexure-1) and submit to
+TREC/Brokers/DPs. After receiving relevant information from TREC/Brokers/DPs,
+CDBL will send the relevant transfer information to Bangladesh Bank.
+xiv. Bangladesh Bank will subsequently unblock the previously blocked holding, which will
+then become again eligible for trading on the MI module instead of DSE or CSE trading
+platform.
+xv. The Clients/BPID holders can check their Government Securities portfolio balance in
+the Bangladesh Bank‟s Electronic System through the MDs/TREC/Brokers/DPs.
+b) Clearing and Settlement Process: Settlement of fund of G-Sec trading will take place
+as per existing process of exchange clearing. Therefore, Bangladesh Bank will not be
+responsible for the settlement of fund related to the trading in DSE and CSE platforms.
+Settlement of exchange traded securities will take place through the CDBL which will be
+updated finally in the MI module for the transfer of ownership from Seller BPID to
+Buyer BPID.
+c) Other Instructions: Any BPID holder may continue to trade in the Bangladesh Bank‟s
+Electronic System (MI Module) as well as on the DSE and CSE platform by opening a
+BOID with a TREC Holder.
+i. All eligible investors, including MDs, are allowed to trade on DSE & CSE trading
+platform according to the guideline.
+ii. In case a BPID holder opts to trade G-Sec in DSE & CSE trading platform and already
+has a BOID (with a linked bank account other than that of the BPID), the bank account
+of BPID has to be used as the bank account of BOID.
+iii. A conventional bank account has to be used instead of a Shariah based bank account
+
+--- Page 13 ---
+Page 12 of 13
+
+with any BOID for the trading of G-Sec in exchange platform.
+iv. Coupon payments and the redemption at maturities will be done by Bangladesh Bank.
+v. Shut period on trading of G-Sec shall commence 02 working days before each due date
+of coupon payment and maturity date for trading of G-Sec in exchange platform.
+d) Default Management by DSE and CSE: In case of a failure of the settlement of G-Sec
+and/or fund by any concerned party related to the stock exchanges, the default
+management process shall be conducted as per the existing rules, guidelines, norms and
+practice of BSEC. On the other hand, in case of any default related to the Bangladesh
+Bank‟s electronic system, the default management process shall be conducted as per the
+existing rules, guidelines, norms and practice of Bangladesh Bank.
+e) Dispute Management by Bangladesh Bank & BSEC
+i. A joint committee on dispute management shall be formed by Bangladesh Bank
+comprising representatives from FD, Bangladesh Bank, BSEC, DSE, CSE, and CDBL
+to solve the common disputes among the parties.
+ii. The committee shall report their observation/recommendation to both Bangladesh Bank
+and BSEC to do the needful at their end.
+iii. The issues shall be resolved upon recommendation from the committee and that
+decision made by the committee shall be final.
+
+CHAPTER 4: FEES AND OTHERS
+12. Separate Window for Cliental Services: Government Securities Investment Windows of
+MDs shall provide Cliental Services as follows:
+a) Opening of a Client‟s Government Securities account (BPID);
+b) Participating in primary auction and taking initiatives to purchase and sell Government
+Securities as per Client‟s requisition;
+c) Processing the coupon payments and sale/redemption proceeds through concerned
+clients‟ Bank accounts;
+d) Maintaining correspondence and handling settlement activities related to trading of G-
+Sec that took place in other trading platforms/exchanges;
+e) Reconciliation of Client‟s securities account; and
+f) Corresponding with own treasury divisions accordingly.
+13. Coupon Payment/Proceed Settlement Procedure: As per the existing practice, the
+purchased amount, the coupon payments and the sale/redemption amount (at maturity) will
+be settled through the holders‟ corresponding banks‟ current accounts maintained with
+Bangladesh Bank and MDs will settle the funds with the clients‟ bank accounts accordingly.
+
+--- Page 14 ---
+Page 13 of 13
+
+14. Miscellaneous
+a) Fees and charges for secondary trading
+Transactions through Bangladesh Bank’s Electronic System: MDs shall collect
+transaction fee of BDT 100 [as per the “Issuance and Re-issuance of Bangladesh
+Government Treasury Bonds” notification issued on 24 June, 2007 (amended on 08
+January, 2023)] per transaction for the transactions occurring through Bangladesh
+Bank‟s Electronic System (including the transactions occurring between the Clients
+of MDs). The fees collected by MDs shall be distributed on the basis of calendar year
+as per the following schedule:
+Beneficiary
+Percentage of Fees
+MD
+85%
+Electronic System (Bangladesh Bank)
+15%
+ii.
+Transactions through DSE/CSE Platform: Bangladesh Bank shall collect its share
+of transaction fees from the Exchanges for the transactions occurring through the
+DSE/CSE platform and distribute on the basis of calendar year as per the following
+schedule:
+Beneficiary
+Percentage of Fees
+MD
+85%
+Electronic System (Bangladesh Bank)
+15%
+
+b) Reporting: The MDs shall report their secondary market trades according to the
+following methods:
+Daily trade positions (Proprietary and Clients‟ trading) are to be reported through
+email to Securities Section, Motijheel Office, Bangladesh Bank, within banking hour
+on a daily basis in the process/form specified in the attached schedule (Annexure-2)
+mentioning both GSOM and OTC trade.
+ii.
+Secondary market trading information, including the trades between their own
+clients, has to be reported by the MDs to DMD, Bangladesh Bank on a monthly basis
+in the process/form specified in the attached schedule (Annexure-3).
+c) Responsibilities and Issuance of Relevant Instructions
+MDs shall be responsible for all orders entered from their trading workstation in the
+Bangladesh Bank‟s Electronic System.
+ii.
+Bangladesh Bank may issue circulars, circular letters, or any such instruction from
+time to time, for clarifications, modifications of these guidelines, or removal of any
+complication in the execution or operation.
+iii.
+Any determination made by the System through an interactive process shall be
+conclusive.
+
+-----------------------------------End-----------------------------------
+
+--- Page 15 ---
+ISIN
+
+Name of Securities
+Name of MD/DP
+MD (BPID)/DP ID
+
+Name of Account Holder
+BP/BO ID
+G- Sec Amount (BDT)
+to be transferred
+*G-Sec Quantity to be transferred
+*G-Sec Quantity = G-Sec Amount / Face value
+Name of MD/DP
+MD (BPID) / DP ID
+BP/BO ID
+
+Government Securities Transfer Request Form
+Please fill in all the details in
+CAPITAL letters
+Application No.
+Date
+Annexure-2
+
+
+
+Transfer Mode:
+BPID to BOID
+BOID to BPID
+D D M
+M Y Y Y Y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transferor Details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transferee Details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name of Account Holder (s)
+Signature (s)
+
+
+
+
+
+For MD/DP Office Use Only:
+
+
+
+
+Name
+Designation
+Signature
+MD/DP seal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annexure-1
+
+--- Page 16 ---
+Annexure-2
+
+The Director
+Date :
+Bangladesh Bank
+Motijheel Office,Dhaka
+Dear Sir,
+On behalf of our own/customer we confirm the Buy/Sell of Government Securities particulars of which are as furnished below :
+BP ID
+Bank Name :
+Buy Details Of Government Securities:
+Counter
+Party Name*
+Face value
+Purchase Price
+per TK.100
+Amount in words:
+Sell Details of Government Securities:
+Counter
+Party Name*
+Face value
+Purchase Price
+per TK.100
+Amount in words:
+Comments:
+* Mention Counter party name in case of OTC transaction
+Authorized Signature
+Authorized Signature
+ISIN
+BPID
+(in case of
+Client's trade)
+SL No.
+BPID
+(in case of
+Client's trade)
+Total
+Total Settlement Value
+Daily G-Sec Trading (Buy/Sale) Report
+SL No.
+ISIN
+Total Settlement Value
+Settlement
+Date
+Transaction
+Platform
+(OTC/GSOM)
+Total
+Transaction
+Platform
+(OTC/GSOM)
+Settlement
+Date
+
+--- Page 17 ---
+Annexure-3
+Tk. In Crore
+Proprietary
+Clients
+Total
+Proprietary
+Clients
+Total
+Proprietary
+Clients
+Total
+Proprietary Clients
+Total
+3=(1+2)
+6=(4+5)
+7=(3+6)
+10=(8+9)
+11
+12
+13=(11+12) 14=(10+13)
+15
+16
+17=(15+16)
+* OTC trade including the transactions occurring among the clients and between MD and Clients within the depository.
+Sell
+Monthly Secondary Trading Information of Government Securities
+Name of the MD:
+Month & Year:
+OTC*
+Grand total
+GSOM
+OTC*
+Total
+Buy
+GSOM
+MD's BPID
+Grand total
+Sell
+DSE and CSE
+Buy

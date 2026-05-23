@@ -1,0 +1,377 @@
+--- Page 1 ---
+Foreign Exchange Investment Department
+Bangladesh Bank
+Head Office
+Dhaka.
+Website : www.bb.org.bd
+
+
+
+FEID Circular Letter No. 05/2013 Date: 03 April, 2013
+
+Head Offices/Principal Offices of
+All Authorized Dealers (ADs) in Bangladesh
+
+
+Dear Sirs,
+
+Submission of application along with other documents through online for
+having permission under Section 18A of Foreign Exchange Regulation (FER) Act, 1947.
+Pursuant to Section 18A of the FER Act, 1947, every Bangladeshi individual or
+organization needs to take general or special permission from Bangladesh Bank to act as a local
+agent in the trading or commercial transactions or as a technical or management adviser on
+behalf of any person or organization not registered in Bangladesh. In order to obtain permission
+under the aforesaid Section, necessary steps have been taken for the submission of application
+along with other documents in Bangladesh Bank through online. Hence, the following decisions
+shall come into force with immediate effect:
+
+(1) In conformity with the instructions given in App. 6/3 of Guidelines for Foreign
+Exchange Transactions (Vol.-1), 2009; FEID Circular Letter No. 02/2010 and 02/2013 dated
+23/11/2010 and 14/02/2013 respectively, the applicant has to submit his application along with
+relevant documents to AD bank.
+
+(2) After submitting above-mentioned documents by the applicant, AD bank shall have to
+scan all relevant documents including their own application in accordance with the format as
+stated in Annexure-1 of FEID Circular Letter No. 01/2013 dated 28/01/2013, and save those
+scanned copies in PDF format in a specific folder. Thereafter, browsing the Bangladesh Bank's
+website (www.bb.org.bd) the AD bank has to go into ‘E-service’ menu under ‘Service’ menu,
+then clicking Online Agent Information Management System they will have to provide their user
+ID and password to enter into the system. After log in, they need to input the required
+information and send those to Bangladesh Bank by following specific method. To get a complete
+idea and necessary help, a user manual (Executive User Manual v0.1) is attached herewith in
+Annexure-1. Furthermore, user ID and password for every AD bank will be supplied by IT
+Operation and Communication Department of Bangladesh Bank; so necessary contacts to be
+made with them.
+(3) Internet Explorer (version 8 or upgrade) or Mozilla Firefox (version 12 or upgrade)
+could be used as internet browsing software.
+(4) If any inconsistency/discrepancy is found in the submitted documents to Bangladesh
+Bank through online, the respective application will be rejected by mentioning specific reason(s).
+After receiving the rejected application, the AD bank will take necessary steps to rectify the
+mentioned inconsistency/discrepancy, and resubmit the corrected one to Bangladesh Bank.
+
+(5) If the application submitted through online is found perfect, it shall be accepted by
+Bangladesh Bank. When an application is accepted by Bangladesh Bank; permission number,
+file number and other necessary information given in favor of local agent (applicant) will be
+conveyed to the AD bank immediately, which will be considered as Bangladesh Bank
+permission. After that, all foreign exchanges repatriated from foreign principal(s) can be
+encashed to local agent’s bank account and other activities can also be accomplished. Besides, if
+the submitted application is found perfect, a formal permission letter will be issued and sent to
+AD bank through conventional postal service.
+P.T.O.
+
+--- Page 2 ---
+- 02 -
+
+(6) Besides the aforesaid online submission of application and other documents for
+obtaining permission to work as local agent, the conventional system of submitting necessary
+documents in hardcopy to Bangladesh Bank, shall remain effective up to 1 (one) year from the
+date of this circular, i.e. up to 02/04/2014. During this 1 (one) year period, application along with
+other documents submitted only in hardcopy will not be accepted. After the expiry of this 1 (one)
+year period, no application in hardcopy will be accepted; all applications along with other
+documents have to be sent exclusively through online.
+
+(7) For obtaining permission to act as local agent, the provisions mentioned in articles
+(kha) & (gha) of FEID Circular Letter No. 01/2013 dated 28/01/2013 about transmitting
+electronic copy of AD bank’s forwarding letter only; providing ad-hoc permission through online
+and repelling that ad-hoc permission will remain unchanged.
+
+
+(8) All the above-mentioned provisions shall also be applicable for other area offices of
+Bangladesh Bank.
+
+(9) The following email address may be contacted to get clarification on any point of this
+circular or for any information:
+gm.feid@bb.org.bd
+Furthermore, in case of emergence of any problem related to IT and software; to get
+clarification on any point or for any information, the ADs may contact to the following email
+addresses:
+imtiaz.kabir@bb.org.bd
+amirul.islam2203@bb.org.bd
+
+
+ADs are advised to play active role in implementing the decisions stated above and bring
+those to the notice of all concerned. In this context, concerned ADs shall be brought under
+punitive/disciplinary action if any kind of business function including export-import is hampered
+or if any complaint regarding customer harassment is proved due to their negligence/slackness.
+
+
+Please acknowledge receipt.
+
+Yours faithfully,
+Sd/-
+(Nurun Nahar)
+Deputy General Manager
+Phone: 951260
+
+--- Page 3 ---
+FEID ʹ Online Agent Information Management System
+Executive User Manual v0.1
+
+--- Page 4 ---
+Table of Contents
+1. Introduction..............................................................................................................................................3
+2. Agent Information Manager....................................................................................................................5
+3. Principal Information Manager..............................................................................................................10
+4. Principal Permission Manager ...............................................................................................................13
+5. Frequently Asked Questions..................................................................................................................24
+
+--- Page 5 ---
+1. Introduction
+1.1. FEID-Online Agent Information Management System (OAIMS) is developed to manage the
+online application of various agents along with their principles and to automate the internal
+application processing system of FEID. The business process of this software system is depicted
+below:
+Agent
+Company
+Bank
+Branch
+Permission
+File/Order
+Principle 2
+Principle 1
+Principle N
+Documents
+The picture above shows the fundamental relationship among strong entities. The creation of
+permission depends on some data of agent and its associated documents. To submit a
+
+--- Page 6 ---
+permission one have to create an ĂŐĞŶƚĨŝƌƐƚ;ŝĨŝƚ͛ƐĂŶĞǁĐŽŵƉĂŶǇͿƚŚĞŶƚŚĞƉƌŝŶĐŝƉĂůƐŝƚǁĂŶƚ
+to be associated with (if the principals are also new) and finally some documents to validate the
+business.
+1.2. The link of FEID-OAIMS is hosted on Bangladesh Bank web site www.bb.org.bd. To go to
+FEID-OAIMS browse Bangladesh Bank web site then click on to Services menu item and click E-
+Services next click Online Agent Information Management System
+After click Online Agent Information Management System you will find the following web page
+
+--- Page 7 ---
+2. Agent Information Manager
+2.1. An agent could be created in the system through agent information manager.
+ƵƚďĞĨŽƌĞĐƌĞĂƚŝŽŶŝƚ͛ƐĂŐŽŽĚƉƌĂĐƚŝĐĞƚŽǀŝĞǁǁŚĞƚŚĞƌƐŽŵĞŽŶĞĞůƐĞŚĂǀĞĂůƌĞĂĚǇĐƌĞĂƚĞĚŝƚ͘
+List of agents could be seen from the search screen.
+
+--- Page 8 ---
+2.2. If the desired agent is not present in the list you can forward towards the creation process
+by clicking the add new (
+) button.
+In the creation screens fields preceded with (*) marks are mandatory. At any time you can
+move backward of your action sequence by using back sequence links.
+
+--- Page 9 ---
+2.3. You can also view details of an agent from view (
+) link of the list.
+
+--- Page 10 ---
+2.4. From view of screen information of an agent could be printed in pdf format using print (
+) link.
+Listed information can also be printed in pdf format or exported in excel file using respective
+ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+
+--- Page 11 ---
+ůƐŽǇŽƵĐĂŶĐƵƐƚŽŵŝǌĞƚŚĞŚĞĂĚĞƌƐŽĨĞǆĐĞůĨŝůĞƵƐŝŶŐƌĞƐƉĞĐƚŝǀĞƉĂŐĞ͛ƐĐƵƐƚŽŵŝǌĞ;
+) link.
+
+--- Page 12 ---
+10
+3. Principal Information Manager
+3.1. A principal information could be added in the system using principal information manager.
+ƵƚďĞĨŽƌĞĐƌĞĂƚŝŽŶŝƚ͛ƐĂŐŽŽĚƉƌĂĐƚŝĐĞƚŽǀŝĞǁǁŚĞƚŚĞƌƐŽŵĞŽŶĞĞůƐĞŚĂǀĞĂůƌĞĂĚǇĐƌĞĂƚĞĚŝƚ͘
+List of principals could be seen from the search screen.
+
+--- Page 13 ---
+11
+3.2. If the desired principal is not present in the list you can forward toward the creation
+process by clicking the add new (
+) button.
+In the creation screens fields preceded with (*) marks are mandatory. At any time you can
+move backward of your action sequence by using back sequence links.
+3.3. You can also view details of a principal from view (
+) link of the list.
+
+--- Page 14 ---
+12
+3.4. From view of screen information of a principal could be printed in pdf format using print (
+) link.
+Listed information can also be printed in pdf format or exported in excel file using respective
+ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+
+--- Page 15 ---
+13
+4. Principal Permission Manager
+4.1. The association of an agent with its principals could be created in the system through
+principal permission manager.
+4.2. The association process begins from the add new (
+) button.
+
+--- Page 16 ---
+14
+There are different mandatory document requirements for different types of permission based
+on permission act (18A / 18B), permission type (new / inclusion / renewal etc), agent type
+(buying / indenting etc). The type of agent is usually associated with agent name as during the
+time of creation, agent type is declared within.
+After selection of necessary information you can proceed towards creation of permission.
+According to permission act, permission type, company type and ownership type there will be a
+list of mandatory documents that should be uploaded.
+
+--- Page 17 ---
+15
+Principal names could be selected from the dropdown list. Please note only principals those
+exist / created under principal permission manager will be available here. The unavailability of a
+ƚĂƌŐĞƚ ƉƌŝŶĐŝƉĂů ŵĞĂŶƐ ŝƚ ĚŽĞƐŶ͛ƚ ĞǆŝƐƚ ƵŶĚĞƌ ƉƌŝŶĐŝƉĂů ƉĞƌŵŝƐƐŝŽŶ ŵĂŶĂŐĞƌ͘ /Ŷ ƚŚĞ ĐƌĞĂƚŝŽŶ
+screens fields preceded with (*) marks are mandatory.
+
+--- Page 18 ---
+16
+By clicking the create button at the bottom of the form the form could be saved.
+Please note the application will not be submitted to Bangladesh Bank until someone submits it
+using the submit button. The saved applications should show a comment at the top of the form
+with the date of creation.
+
+--- Page 19 ---
+17
+The submitted application should show relevant comment at the top of form and there will be
+no further process button on the page for submitted applications
+
+--- Page 20 ---
+18
+4.3. From the initial page one can search for different permissions using various criteria or a mix
+of them. In the result list there will be a summary of existing record with their status. You can
+delete the rejected and saved applications only.
+
+--- Page 21 ---
+19
+4.4. You can also view details of an agent from view (
+) link of the list. The active applications
+are applications that are approved and hence will show file number, permission number,
+permission start and end date etc.
+
+--- Page 22 ---
+A Company (BGD)
+(Buying Agent)
+
+A Company (BGD)
+(Buying Agent)
+
+Permission Type: New Permission
+Principal Name: Test Principal 1 (AUT)
+Create Date: 24th March, 2013
+
+Status: Active
+
+Ownership Type: Sole proprietorship Firm
+Ownership Nature: Local
+
+Permission Act Type: 184
+
+Permission Type: New Permission
+
+Principal Name: AS Company (AFG)
+
+Permission Start Date: 27th February, 2013
+Permission End Date: ist February, 2099 Create
+Date: 27th February, 2013
+
+Status: Rejected RA
+Ownership Type: Sole proprietorship Firm
+
+Ownership Nature: Local
+
+Permission Act Type: 184
+
+20
+
+--- Page 23 ---
+Home Page Principal Permission Manager > [ Viewing Details ]
+
+Agent Name
+Agent Address
+Phone
+
+Fax
+
+Email
+Permission Act
+Permission Type
+Company Type
+Ownership Type
+
+Principals
+
+A Company
+
+Mirpur, Dhaka
+
+9815925
+
+n/a
+
+n/a
+
+18A
+
+New Permission
+
+Buying Agent
+
+Sole proprietorship Firm
+
+Name (Country Code)
+
+File Number
+Permission Number
+Permission Date
+Permission Details
+Permission Start Date
+
+Permission End Date
+
+ok
+
+27th February, 2013
+
+123456
+
+1233456
+
+27th February, 2013
+
+ist February, 2099
+
+Document Name
+
+1 Agreement with the Foreign Principal(s)
+Mandatory 1.pdf {80 KB}
+
+2 Application of the Client
+Mandatory 2.pdf | পুত KB)
+
+4 Dal হইত শতশত পিল লাকি
+
+21
+
+--- Page 24 ---
+22
+The rejected applications will show the rejection details.
+
+--- Page 25 ---
+23
+4.5 Listed information could be printed in pdf format or exported in excel file using respective
+ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+ůƐŽǇŽƵĐĂŶĐƵƐƚŽŵŝǌĞƚŚĞŚĞĂĚĞƌƐŽĨĞǆĐĞůĨŝůĞƵƐŝŶŐƌĞƐƉĞĐƚŝǀĞƉĂŐĞ͛ƐĐƵƐƚŽŵŝǌĞ;
+) link.
+
+--- Page 26 ---
+24
+5. Frequently Asked Questions
+5.1. I have saved my applications to submit them later. How can I retrieve them and submit?
+From the search pane of Principal Permission Manager you can find the saved application by
+ƐĞĂƌĐŚŝŶŐǁŝƚŚ^ƚĂƚƵƐс͚^ĂǀĞĚ͛͘
+5.2. How can I view / list the approved and rejected applications?
+From the search pane of Principal Permission Manager you can find the approved and rejected
+ĂƉƉůŝĐĂƚŝŽŶƐďǇƐĞĂƌĐŚŝŶŐǁŝƚŚ^ƚĂƚƵƐс͚ĐƚŝǀĞ͛ĂŶĚ^ƚĂƚƵƐс͚ZĞũĞĐƚĞĚZĞƐƉĞĐƚĨƵůůǇ͛͘
+5.3. How can I list approved applications for Buying Agent?
+ǇĐŚŽŽƐŝŶŐĐŽŵďŝŶĂƚŝŽŶŽĨĚŝĨĨĞƌĞŶƚƐĞĂƌĐŚĐƌŝƚĞƌŝĂ͛ƐǇŽƵĐĂŶĨŝŶĚĂůŝƐƚŽĨĚĞƐŝƌĞĚƉĞƌŵŝƐƐŝŽŶƐ͘
+&ŽƌĞǆĂŵƉůĞƚŽĨŝŶĚĂƉƉƌŽǀĞĚĂƉƉůŝĐĂƚŝŽŶƐĨŽƌƵǇŝŶŐŐĞŶƚƐƐĞĂƌĐŚǁŝƚŚŐĞŶƚdǇƉĞс͚ƵǇŝŶŐ
+ŐĞŶƚ͛ĂŶĚ^ƚĂƚƵƐс͚ĐƚŝǀĞ͛͘

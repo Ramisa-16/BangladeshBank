@@ -1,0 +1,302 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+FE Circular No. 17
+
+
+
+
+
+
+
+Date: 23 April 2019
+
+All Authorized Dealers in
+Foreign Exchange in Bangladesh
+
+Dear Sirs,
+
+Introduction of electronic option of EXP Form submission for export of goods from Bangladesh
+Attention of Authorized Dealers (ADs) is invited to chapter 8 of the Guidelines for
+Foreign Exchange Transactions-2018 (GFET), Vol-1 in terms of which exports of goods from
+Bangladesh are subject to repatriation of full proceeds, if otherwise not exempted, within
+specified period from the date of shipment. A declaration procedure to this effect on paper based
+EXP Form is in place for submission by exporters, on being certified from ADs, to the customs
+authority for onward formalities.
+
+02. To bring ease in declaration procedure, it has been decided to introduce electronic
+option to submit EXP Form, with flexibility of necessary amendments by exporters through
+Bangladesh Bank online reporting portal for export of goods prior to customs formalities.
+Accordingly ADs shall accept EXP Form submitted electronically by their exporter-customers,
+information of which will subsequently be available in customs electronic system for onward
+formalities. The operational procedures for electronic option to submit EXP Form by exporters
+are as follows:
+
+(a) Exporters shall execute export formalities with the customs authority for issuance of
+Bill of Export based on information of EXP Form available in customs electronic
+system. Immediately on completion of shipment of goods from Bangladesh, exporters
+shall report/submit transport/shipping information in Bangladesh Bank online
+reporting portal to close the procedure.
+(b) Bill of Export issued by the customs authority to permit the shipment will suffice the
+requirement of existing customs assessment as necessary on paper based EXP Form.
+Hence, certification by the customs authority shall not be required on EXP Form
+submitted electronically by exporters.
+Cont’d to page -2
+
+--- Page 2 ---
+(c) Within 14 days from the date of shipment of goods from Bangladesh, exporters shall
+submit a signed hardcopy of the electronically submitted EXP Form (as per
+Annexure-A) together with Bill of Export duly certified by the customs authority and
+relevant shipping documents covering export of goods to ADs for compliance in
+accordance with paragraph 10, chapter 8 of GFET.
+(d) Signed hardcopy of EXP Form submitted by exporters to ADs as per 2(c) above shall
+be treated as original. ADs shall post-facto certify the same and observe subsequent
+formalities including passing documents abroad for collection and disposal thereof
+with routine reports.
+
+
+
+03. Submission of EXP Form electronically by exporters shall come into effect from July
+01, 2019 and be applicable only for export through customs houses having electronic system of
+Bill of Export issuance. The current paper based EXP Form submission shall continue for the
+time being for exports through customs houses without having electronic arrangement and for
+exporters to get accustomed with the electronic submission.
+
+
+04. Bangladesh Bank will assign User IDs and Passwords to exporters upon requests
+through their ADs. In this regard, ADs will upload the requests containing authenticated
+information of exporters (business name, business address, authorized signatories, ERC No. with
+date and BIN No. with date) to ‘Online Export Monitoring System’ under menu ‘Tickets’.
+Acceptance of such requests will commence from May 15, 2019.
+
+
+Other relevant instructions on export trade including compliance required for customers’
+KYC and cross border transactions shall remain unchanged. Please bring the above instructions
+to the notice of all your concerned clientele.
+
+Yours faithfully,
+
+Encl. As stated
+(Mohammad Khurshid Wahab)
+General Manager
+Phone: 9530123
+
+--- Page 3 ---
+EXP Form
+(Submitted electronically by exporters)
+
+Statutory declaration to be furnished by exporters under the Foreign Exchange Regulation Act, 1947
+before shipment of goods. An incorrect declaration constitutes offence under the said Act.
+
+Electronic Declaration No. and date ______________________________________________________________
+Name and address of Authorized Dealer ___________________________________________________________
+
+Details of export
+
+Sl.
+No.
+Items
+Particulars (to be filled in
+by Exporter)
+Code No. (to be filled in by
+Authorized Dealer)
+
+Commodity to be exported
+
+
+
+
+
+
+Country of destination
+
+
+
+
+
+
+Port of destination
+
+
+
+
+
+
+Quantity
+Unit (bales/tons/lbs. etc.)
+
+
+
+
+
+
+Volume (Weight/number etc.)
+
+
+
+
+
+
+Value
+Currency
+
+
+
+
+
+
+Incoterm Used
+
+
+
+
+
+
+Invoice Value
+
+FOB
+Insurance
+Freight
+
+
+
+CMT Value (if applicable)
+
+
+
+
+
+
+Terms of sale (Firm Contract/LC or Consignment
+sale)
+
+
+
+
+
+
+Name & address of importer/consignee
+
+
+
+
+
+
+Name of carrying vessel
+
+
+
+
+
+
+Bill of Lading/Railway Receipt/Airway
+Bill/Truck Receipt/Post Parcel Receipt
+No.:
+Date:
+
+
+
+
+
+10.
+Port of shipment/Post Office of despatch
+
+
+
+
+
+
+11.
+Land Custom Post
+
+
+
+
+
+
+12.
+Shipment date
+
+
+
+
+
+
+13.
+Name of the Exporter (in block letter) with
+address
+
+
+
+
+
+
+
+14.
+CCI&E’s Registration Number of the exporter
+and date
+
+
+
+
+
+
+15.
+Sector (Public or Private) under which the
+exporter falls
+
+
+
+
+
+
+
+Declaration and undertaking by exporter
+
+I/We, the undersigned hereby declare that I/we am/are the sellers/consignors of the goods described above in respect of which
+this electronic declaration is made out through Bangladesh Bank online reporting portal and that the particulars given in this
+electronic form are true and that the invoice value declared in the form in case of firm contract is full value as contracted with
+the buyers; and in case of consignment sale, is a fair value of the goods which are being shipped on consignment sale.
+
+I/We do hereby undertake to repatriate full proceeds of the export within the period specified by Bangladesh Bank in terms of
+FER Act.
+
+
+Date _________________
+Authorized Signature and
+Stamp of Exporter
+
+Certificate of Authorized Dealer
+
+Certified that the above exporter(s) is/are known to us, that he/they is/are bonafide business person(s) in Bangladesh and that
+he/they has/have made arrangements with us for the realization of the export proceeds of the goods shipped from Bangladesh as
+per their electronic declaration within the stipulated period and that we are satisfied with the said arrangements. We have also
+satisfied ourselves about the bonafides of the importers/consignees abroad and their credentials etc.
+
+*We undertake that for export shipments on consignment sale, we shall obtain from the exporter(s) and furnish to the Bangladesh
+Bank a fully documented account sale certified by the consignees/Chamber of Commerce of the country of import.
+
+*We further undertake that in the event of non-realization or short realization of export proceeds against shipment within the
+stipulated period, we shall obtain from the exporter(s) and furnish to the Bangladesh Bank full explanation as to the
+circumstances resulting in non-realization/short realization.
+
+*(Strike out the portion not applicable and authenticate with initials).
+
+
+Date _________________
+Stamp and Signature of
+Authorized Dealer
+
+Ref. FE Circular No. 17/2019
+
+
+
+
+
+
+
+
+Annexure-A

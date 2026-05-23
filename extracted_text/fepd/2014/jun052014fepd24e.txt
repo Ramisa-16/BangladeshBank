@@ -1,0 +1,874 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka.
+www.bb.org.bd
+F.E. Circular No. 24
+
+
+
+
+Date: 5th June, 2014
+
+All Authorized Dealers in Foreign Exchange
+and licensed Money Changers in Bangladesh
+
+
+Dear Sirs,
+
+Reporting of foreign exchange transactions of licensed Money Changers.
+
+Attention of the Authorized Dealers (ADs) is invited to paragraph 25, Chapter 2 of
+Guidelines for Foreign Exchange Transactions, Vol-2 (GFET-2010) in terms of which licensed
+Money Changers report their foreign exchange transactions to Bangladesh Bank in Summary
+Statement S-12 along with Schedules MCR-1 and MCP-1 through their nominated Authorized
+Dealer (AD) banks on monthly basis.
+
+02. To ensure effective reporting Schedules MCR-1 and MCP-1 have been amended as
+per enclosures. Hence, licensed Money Changers are requested to report their foreign exchange
+transactions through their nominated AD banks on amended schedules on monthly basis with
+effect from June 05, 2014. For appropriate use against relevant transactions, a list of country
+code is enclosed herewith.
+
+03. Other instructions of the aforementioned paragraph shall remain unchanged.
+
+Please bring the content of this circular to the notice of all concerned.
+
+Yours faithfully,
+
+(Jagannath Chandra Ghosh)
+Deputy General Manager
+Phone: 9530092
+
+--- Page 2 ---
+See chapter 2 Para 25
+
+APP. 11
+
+
+STATEMENT-12
+SUMMARY STATEMENT OF MONEY CHANGERS FOREIGN EXCHANGE TRANSACTIONS (TO BE SUBMITTED
+THROUGH ADs)
+
+For month……….Year………
+Name of the Authorized Money Changer …………
+Currency: USD/GBP/EURO/JPY
+
+Month code
+
+
+Money changer code
+
+
+
+
+Currency code
+
+
+
+Submitted Through ( Name of the AD Bank)…………………………………….
+
+Sl no.
+PURCHASE
+Code
+use for BB
+Amount
+01
+Opening balance (a+b)
+
+Cash FC in hand
+FC A/C balance with scheduled bank
+1201
+
+1202
+
+1203
+
+02
+Amount purchased from non-resident (Cash/TC) (Schedule MCR-1)
+1204
+
+03
+Amount purchased from resident (Cash/TC)
+1205
+
+
+Exchanges, Transfers and Adjustments.
+
+
+04
+Total credit on account of interest earned from FC A/C
+1208
+
+05
+Transfer from FC A/C of other money changers ( on account of purchase)
+1209
+
+
+GRAND TOTAL:
+
+
+01
+Sales to Bangladeshi travelers or re-conversion allowed to foreign travelers
+(Cash/TC) (Schedule MCR-1)
+1210
+
+
+Exchanges, Transfers and Adjustments.
+
+
+02
+Amount encashed to taka (a+b)
+
+Encashed from FC A/C transferred to S-1.
+
+Encashed from Note/coin, etc transferred to S-6.
+1214
+
+
+
+1215
+
+
+1216
+
+
+03
+Transfer to FC A/C of other money changers (on account of sale)
+1217
+
+04
+Closing balance (a+b)
+
+Cash FC in hand
+
+F FC A/C balance with scheduled bank.
+
+1218
+
+
+1219
+
+
+1220
+
+
+GRAND TOTAL
+
+
+
+Note:
+Non‐resident:
+Bangladesh national residing abroad
+Foreign travelers
+Resident:
+Bangladeshi travelers Signature (Bank official):
+Resident foreign nationals. Stamp with name, designation & phone no.
+
+
+Date:………
+
+Official Seal
+
+
+Signature (Money Changer):
+Bank Money changer Stamp with name, designation & phone no.
+
+--- Page 3 ---
+See chapter 2
+Para 25
+
+APP 11-I
+
+
+SCHEDULE MCR‐1
+PURCHASE FOREIGN CURRENCY FROM NON‐RESIDENT PERSON (TC/CASH)
+For month…….Year……
+Name of the Authorized Money changer code……
+Currency: USD/Pound/Euro/JPY…..
+Month code
+
+
+Money changer code
+
+
+
+
+Currency code
+
+
+
+
+Sl.
+no
+Name of the country
+Country Code
+Amount
+Purpose Code
+
+
+
+Total
+
+
+
+
+
+
+
+Date:……………. Signature (Bank official):
+
+Stamp with name, designation & phone no.
+
+
+Official Seal
+
+
+Signature (Money Changer):
+
+Bank Money changer Stamp with name, designation & phone no.
+
+Note:
+a) Use purpose code for Bangladeshi national working abroad 5111
+b) Use purpose code for foreign traveler’s 1130
+Note:
+Non‐resident
+a) Bangladeshi national residing abroad
+b) Foreign travelers.
+
+--- Page 4 ---
+See chapter 2
+Para 25
+
+APP 11-11
+
+
+SCHEDULE MCP‐1
+Sales to Bangladeshi Travelers or Re-conversion allowed to Foreign Tourists.
+For month…….Year……
+Name of the Authorized Money changer code……
+Currency: USD/Pound/Euro/JPY…..
+Month code
+
+
+Money changer code
+
+
+Currency code
+
+
+
+Sl.
+no
+Name of the country
+Country Code
+Amount
+Purpose
+Code
+Category
+
+
+
+
+
+
+Total
+
+
+
+Date:……………. Signature (Bank official):
+
+Stamp with name, designation & phone no.
+
+
+Official Seal
+
+
+Signature (Money Changer):
+
+Bank Money changer with name, designation & phone no.
+
+Note:1)
+a) Use purpose code for Bangladeshi travelers 1130
+b) Use purpose code for re‐conversion to foreign travelers 1132
+c) Use purpose code for Hajj 1134
+d) Use purpose code for Omra Hajj/other religious travel 1135
+e) Category: Private‐ 42, Govt‐ 41.
+
+--- Page 5 ---
+CODE‐3
+REGION AND COUNTRY/TERRITORY
+(Alphabetically Arranged)
+
+COUNTRY NAME
+
+COUNTRY CODE
+AFGHANISTAN
+1220
+ALAND ISLANDS
+2601
+ALBANIA
+2100
+ALGERIA
+2501
+AMERICAN SAMOA
+1221
+ANDORRA
+2024
+ANGOLA
+2554
+ANGUILLA
+0148
+ANTARCTICA
+2602
+ANTIGUA AND BARBUDA
+0122
+ARGENTINA
+0116
+ARMENIA
+1314
+ARUBA
+0149
+AUSTRALIA
+1222
+AUSTRIA
+2001
+AZERBAIJAN
+1312
+BAHAMAS
+0124
+BAHRAIN
+1214
+BANGLADESH
+9999
+BARBADOS
+0125
+BELARUS
+2114
+BELGIUM
+2002
+BELIZE
+0126
+BENIN
+2512
+BERMUDA
+0127
+BHUTAN
+1260
+BOLIVIA, PLURINATIONAL STATE OF
+0101
+BOSNIA AND HERZEGOVINA
+2123
+BOTSWANA
+2502
+BOUVET ISLAND
+2603
+BRAZIL
+0117
+BRITISH INDIAN OCEAN TERRITORY
+2604
+BRUNEI DARUSSALAM
+1203
+BULGARIA
+2101
+
+--- Page 6 ---
+CODE‐3
+REGION AND COUNTRY/TERRITORY
+(Alphabetically Arranged)
+
+COUNTRY NAME
+
+COUNTRY CODE
+BURKINA FASO (UPPER VOLTA)
+2104
+BURUNDI
+2506
+CAMBODIA
+1302
+CAMEROON
+2507
+CANADA
+0200
+CAPE VERDE
+2503
+CAYMAN ISLANDS
+1224
+CENTRAL AFRICAN REPUBLIC
+2535
+CHAD
+2508
+CHILE
+0118
+CHINA
+1301
+CHRISTMAS ISLAND
+1270
+COCOS (KEELING) ISLANDS
+1271
+COLOMBIA
+0102
+COMOROS
+2509
+CONGO
+2529
+COOK ISLANDS
+1268
+COSTA RICA
+0103
+COTE D'IVOIRE
+2518
+CROATIA
+2121
+CUBA
+0300
+CYPRUS
+2017
+CZECH REPUBLIC
+2102
+DENMARK
+2003
+DJIBOUTI
+2504
+DOMINICA
+0129
+DOMINICAN REPUBLIC
+0105
+ECUADOR
+0106
+EGYPT
+2505
+EL SALVADOR
+0114
+EPZ
+2998
+EQUATORIAL GUINEA
+2520
+ERITREA
+3001
+ESTONIA
+2120
+
+--- Page 7 ---
+CODE‐3
+REGION AND COUNTRY/TERRITORY
+(Alphabetically Arranged)
+
+COUNTRY NAME
+
+COUNTRY CODE
+ETHIOPIA
+2521
+FALKLAND ISLANDS (MALVINAS)
+0138
+FAROE ISLANDS
+2023
+FIJI
+1263
+FINLAND
+2105
+FRANCE
+2005
+FRENCH GUIANA
+0133
+FRENCH POLYNESIA
+1253
+FRENCH SOUTHERN TERRITORIES
+2605
+GABON
+2514
+GAMBIA
+2522
+GEORGIA
+2115
+GERMANY
+2004
+GHANA
+2523
+GIBRALTAR
+2018
+GILBERT
+1254
+GREECE
+2007
+GREENLAND
+0130
+GRENADA
+0131
+GUADELOUPE
+0132
+GUAM
+1255
+GUATEMALA
+0107
+GUERNSEY
+2031
+GUINEA
+2517
+GUINEA‐BISSAU
+2536
+GUYANA
+0134
+HAITI
+0108
+HEARD ISLAND AND MCDONALD ISLANDS
+1272
+HONDURAS
+0109
+HONG KONG
+1204
+HUNGARY
+2106
+ICELAND
+2019
+INDIA
+1100
+INDONESIA
+1226
+
+--- Page 8 ---
+CODE‐3
+REGION AND COUNTRY/TERRITORY
+(Alphabetically Arranged)
+
+COUNTRY NAME
+
+COUNTRY CODE
+(Use for ADs)
+IRAN, ISLAMIC REPUBLIC OF
+1227
+IRAQ
+1228
+IRELAND
+2020
+ISLE OF MAN
+2032
+ITALY
+2008
+JAMAICA
+0135
+JAPAN
+1229
+JERSEY
+2033
+JORDAN
+1211
+KAZAKHSTAN
+1309
+KENYA
+2537
+KIRIBATI
+1230
+KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
+1303
+KOREA, REPUBLIC OF
+1232
+KOSOVO
+2125
+KUWAIT
+1215
+KYRGYZSTAN
+1313
+LAO PEOPLE'S DEMOCRATIC REPUBLIC
+1304
+LATVIA
+2119
+LEBANON
+1234
+LESOTHO
+2538
+LIBERIA
+2531
+LIBYAN ARAB JAMAHIRIYA
+2539
+LIECHTENSTEIN
+2029
+LITHUANIA
+2117
+LUXEMBOURG
+2009
+MACAO
+1235
+MACEDONIA
+2026
+MADAGASCAR
+2540
+MALAWI
+2541
+MALAYSIA
+1205
+MALDIVES
+1265
+MALI
+2519
+MALTA
+2021
+
+--- Page 9 ---
+CODE‐3
+REGION AND COUNTRY/TERRITORY
+(Alphabetically Arranged)
+
+COUNTRY NAME
+
+COUNTRY CODE
+MARSHALL ISLANDS
+1225
+MARTINIQUE
+0150
+MAURITANIA
+2524
+MAURITIUS
+2542
+MAYOTTE
+2606
+MEXICO
+0110
+MICRONESIA, FEDERATED STATES OF
+1266
+MOLDOVA, REPUBLIC OF
+2116
+MONACO
+2030
+MONGOLIA
+1305
+MONTENEGRO
+2027
+MONTSERRAT
+0137
+MOROCCO
+2543
+MOZAMBIQUE
+2555
+MYANMAR
+1261
+NAMIBIA
+2560
+NAURU
+1237
+NEPAL
+1238
+NETHERLANDS
+2010
+NETHERLANDS ANTILLES
+0123
+NEW CALEDONIA
+1239
+NEW ZEALAND
+1223
+NICARAGUA
+0111
+NIGER
+2525
+NIGERIA
+2544
+NIUE
+1273
+NORFOLK ISLAND
+1244
+NORTHERN MARIANA ISLANDS
+1267
+NORWAY
+2011
+OMAN
+1218
+OTHERS
+2999
+PAKISTAN
+1201
+PALAU
+1269
+PALESTINIAN TERRITORY, OCCUPIED
+1212
+
+--- Page 10 ---
+CODE‐3
+REGION AND COUNTRY/TERRITORY
+(Alphabetically Arranged)
+
+COUNTRY NAME
+
+COUNTRY CODE
+PANAMA
+0112
+PAPUA NEW GUINEA
+1245
+PARAGUAY
+0119
+PERU
+0120
+PHILIPPINES
+1240
+PITCAIRN
+2607
+POLAND
+2109
+PORTUGAL
+2012
+PUERTO RICO
+0151
+QATAR
+1216
+REUNION
+2526
+ROMANIA
+2110
+RUSSIAN FEDERATION
+2112
+RWANDA
+2561
+SAINT BARTH‚LEMY
+2608
+SAINT HELENA
+2545
+SAINT KITTS AND NEVIS
+0139
+SAINT LUCIA
+0140
+SAINT MARTIN (FRENCH PART)
+0152
+SAINT PIERRE AND MIQUELON
+0141
+SAINT VINCENT AND THE GRENADINES
+0142
+SAMOA
+2609
+SAN MARINO
+2028
+SAO TOME AND PRINCIPE
+2559
+SAUDI ARABIA
+1241
+SCOTLAND
+2034
+SENEGAL
+2527
+SERBIA
+2111
+SEYCHELLES
+2546
+SIERRA LEONE
+2547
+SINGAPORE
+1206
+SLOVAKIA
+2124
+SLOVENIA
+2122
+SOLOMON ISLANDS
+1256
+
+--- Page 11 ---
+CODE‐3
+REGION AND COUNTRY/TERRITORY
+(Alphabetically Arranged)
+
+COUNTRY NAME
+
+COUNTRY CODE
+SOMALIA
+2548
+SOUTH AFRICA
+2570
+SOUTH GEORGIA
+2610
+SPAIN
+2016
+SRI LANKA
+1202
+SUDAN
+2549
+SURINAME
+0143
+SVALBARD AND JAN MAYEN
+2611
+SWAZILAND
+2550
+SWEDEN
+2013
+SWITZERLAND
+2014
+SYRIAN ARAB REPUBLIC
+1242
+TAIWAN, PROVINCE OF CHINA
+2565
+TAJIKISTAN
+1310
+TANZANIA, UNITED REPUBLIC OF
+2551
+THAILAND
+1247
+TIMOR‐LESTE (EAST TIMOR)
+2126
+TOGO
+2528
+TOKELAU
+2612
+TONGA
+1250
+TRINIDAD AND TOBAGO
+0144
+TUNISIA
+2552
+TURKEY
+2015
+TURKMENISTAN
+1311
+TURKS AND CAICOS ISLANDS
+0153
+TUVALU
+1251
+UGANDA
+2553
+UKRAINE
+2113
+UNITED ARAB EMIRATES (UAE)
+1219
+UNITED KINGDOM (UK)
+2000
+UNITED STATES (USA)
+0000
+UNITED STATES MINOR OUTLYING ISLANDS
+2613
+URUGUAY
+0121
+UZBEKISTAN
+1308
+
+--- Page 12 ---
+CODE‐3
+REGION AND COUNTRY/TERRITORY
+(Alphabetically Arranged)
+
+COUNTRY NAME
+
+COUNTRY CODE
+VANUATU
+1252
+VATICAN CITY
+2006
+VENEZUELA, BOLIVARIAN REPUBLIC OF
+0115
+VIET NAM
+1306
+VIRGIN ISLANDS, BRITISH
+2025
+VIRGIN ISLANDS, U.S.
+0145
+WALLIS AND FUTUNA
+2614
+WEST INDIES N.I.E.
+0146
+WESTERN HAMP SHIRE
+2127
+WESTERN SAHARA
+2571
+WINDWARD ISLANDS
+0147
+YEMEN
+1213
+ZAMBIA
+2557
+ZIMBABWE
+2558

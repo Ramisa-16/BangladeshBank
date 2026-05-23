@@ -1,0 +1,2204 @@
+--- Page 1 ---
+website: www.bb.org.bd
+
+ব্যাংকিং প্রবিধি ও নীতি বিভাগ
+বাংলাদেশ ব্যাক
+প্রধান কার্যালয়
+UIST |
+০৭ ফাল্গুন, ১৪২২
+বিআরপিডি সার্কুলার নং-০২ তারিখ 8 ---------------
+০৭ মার্চ, ২০১৬
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে কার্ধরত সকল তফসিলি ব্যাংক।
+
+Asset- Liability Management (ALM) Guidelines পরিপালন প্রসঙ্গে।
+
+উপরোক্ত বিষয়ে oa বিভাগের বিআরপিডি সার্কুলার নং-১৭, তারিখ অক্টোবর ০৭, ২০০৩ এর প্রতি দৃষ্টি আকর্ষণ
+করা যাচ্ছে।
+
+ক ব্যবসার সাথে সম্পৃক্ত ঝুঁকিসমূহ আরও কার্ষকর ও ফলপ্রসৃভাবে মোকাবেলা করার লক্ষ্যে ২০০৩ সালে প্রণীত
+Asset Liability Management (ALM) Guidelines এ বাংলাদেশ ব্যাংক এবং বাংলাদেশে কার্যরত কতিপয়
+তফসিলি ব্যাংকের প্রতিনিধিদের সমন্বয়ে গঠিত কমিটির পর্যবেক্ষন ও স্টেকহোল্ডারদের মতামতের ভিত্তিতে সংশোধনী আনয়ন
+করা হয়েছে। সংশোধিত গাইডলাইন্সটি বাংলাদেশ ব্যাংকের ওয়েবসাইট (www.bb.org.bd) এ পাওয়া যাবে |
+
+সংশোধিত গাইডলাইন্সটি যথাযথভাবে অনুসরণ/পরিপালন করার জন্য সংশ্লিষ্ট সকলকে নির্দেশনা প্রদান করা হলো |
+
+আপনাদের বিশ্বস্ত,
+
+Bae —
+
+(আবু ফরাহ মোঃ নাছের)
+মহাব্যবস্থাপক
+ফোন ৪ ৯৫৩০২৫২।
+
+--- Page 2 ---
+MANAGING CORE RISKS IN BANKING:
+ASSET-LIABILITY MANAGEMENT (ALM)
+GUIDELINES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BANGLADESH BANK
+
+--- Page 3 ---
+Table of Contents
+
+Executive Summary
+iii
+List of Abbreviations
+PART A: POLICY STATEMENT
+1.1 Basel III Liquidity Ratios
+1.1.1 Liquidity Coverage Ratio (LCR)
+1.1.1.1 Definition for the LCR
+1.1.1.2 The Equation
+1.1.2 Net Stable Funding Ratio (NSFR)
+1.1.2.1 Definition of the NSFR
+1.1.2.2 The Equation
+1.2 Leverage Ratio
+1.3 Other significant policy statements
+1.3.1 Advance to Deposit Ratio (ADR)
+1.3.1.1 The Equation
+1.3.1.2 ADR for Islamic banking operation of conventional banks
+1.3.1.3 Adjustment of the AD ratio limit
+1.3.2 Wholesale Borrowing Guidelines (WBG)
+1.3.2.1 WB Limit
+1.3.2.2 Scope of WB Limit
+1.3.3 Commitment
+1.3.3.1 Commitment Limit
+1.3.3.2 Scope of Commitment Limit
+1.3.4 Structural Liquidity Profile (SLP)
+1.3.4.1 Maximum Cumulative Outflow (MCO)
+1.3.4.2 The Equation
+1.3.4.3 Scope of MCO
+1.3.5 Interest Rate Risk Limit
+1.3.6 Swap Funds Limit
+1.3.7 Liquidity Contingency Plan (CFP)
+1.3.7.1 Essential characteristics of a CFP
+1.3.7.2 Preparation and review/update of CFP
+1.3.7.3 Elements of a typical CFP
+1.3.7.3.1 Trigger Events
+1.3.7.3.2 Contingency Management Team (CMT)
+1.3.7.3.3 Purpose of the Contingency Management Team
+1.3.7.3.4 Details of Action Plan
+1.3.7.3.5 Critical Contact Information
+10
+1.3.7.3.6 Brief Summary of Regulations, and Contingency Liquidity Sources
+10
+1.3.8 Regulatory Compliance
+10
+
+--- Page 4 ---
+ii
+
+PART B: ORGANIZATION OF THE ALCO
+11
+2.1 Responsibilities of ALCO
+11
+2.1.1 Organizational structure of ALCO
+12
+2.1.1.1 Key Roles and Responsibilities of the Treasury Department
+12
+2.1.1.2 Clearance regarding availability of funds from the Treasury
+Department
+12
+2.1.1.3 Key Roles and Responsibilities of the ALM Desk
+13
+2.1.1.4 Head of Treasury : Experience, responsibilities and reporting line
+13
+PART C: THE ALCO PROCESS
+14
+3.1. Constitution of the ALCO
+14
+3.1.1 Meeting of the committee
+14
+3.1.2 Key Agenda
+14
+3.1.3 ALCO Paper
+16
+3.1.3.1 Contents of the ALCO Paper
+16
+3.1.3.1.1 Confirmation of Minutes of last meeting
+16
+3.1.3.1.2 Review of the action items of the previous meetings
+16
+3.1.3.1.3 Review of Economy and Markets
+16
+3.1.3.1.4 Review of Balance Sheet and Liquidity Limits
+17
+3.1.3.1.5 Review of the Status of Regulatory Compliance
+17
+3.1.3.1.6 Top 10 Depositors List
+17
+3.1.3.1.7 Top 10 Borrowers List
+17
+3.1.3.1.8 Capital Maintenance
+18
+3.1.3.1.9 Details of Loans and Deposits Movement
+18
+3.1.3.1.10 Loans and Deposit Projections
+18
+3.1.3.1.11 Trend of Lending Rates and Deposit Rates
+18
+3.1.4 Responsibility of related departments
+19
+3.2 Major Issues
+19
+3.2.1 Market Risk
+19
+3.2.2 Liquidity Risk
+19
+Appendix-1
+21
+Appendix-2
+46-60
+
+--- Page 5 ---
+iii
+
+EXECUTIVE SUMMARY
+
+Managing Assets and Liabilities to foster a sustainable growth is one of the key issues of
+banking industry. After the GFC, managing the Liquidity and Market risk of banks attracts much
+more attention of the regulators and supervisors globally. The outcome of this concern was
+well reflected in the activities of the Basel Committee for Banking Supervision while formulating
+the Basel 2.5 and finally in Basel III documents. The Liquidity (LCR and NSFR) and leverage ratios
+are primarily meant to address the above risks. Bangladesh Bank has already declared the
+Roadmap for the implementation of Basel III in the banking sector. The Liquidity Ratios are
+already implemented as a prudential requirement since September 2015. On the other hand,
+after final adjustment by BB in 2017, Leverage Ratio requirements will become a separate
+supplementary pillar-1 capital standard for banks from January 2018. Asset and Liability
+Management (ALM) of banks will be centered on the above three ratios after implementation
+of Basel III.
+Asset and Liability management is an essential process for banks and when not well managed, it
+creates a threat to the existence of the bank itself. Banks must have their own ALM policy,
+essentially approved by the BODs (ALCO, in case of foreign banks). In order to formulate the
+policy, the management and the BODs must understand the risks around each and every asset
+and liability of the bank. BB has issued a comprehensive Risk Management Guidelines for Banks
+in 2012 elaborating the determination and mitigation of various risks in this regard.
+The Asset and Liability Management Committee (ALCO), comprising of the senior management
+of a bank, is primarily responsible for managing assets and liabilities under the set ALM policy.
+While settiŶg aŶy staŶdard uŶder the ďaŶk’s ALM poliĐy, the ŵaŶageŵeŶt aŶd the BODs shall
+take necessary care, so that the minimum or maximum limits (where applicable) stated by BB in
+this ALM Guidelines upholds. In other cases, international best practices suitably customized for
+local banks depending on their capacity and needs may be used.
+This ALM Guideline is a snapshot of what to do and how to do things regarding proper
+management of assets and liabilities of a bank. This should be considered as a basic framework
+for further development in this area with evolving situation in the banking industry. The ALM
+policy, set out by the BODs, incorporating the limits and essence of this ALM Guidelines should
+be reviewed periodically and as and when necessary.
+
+--- Page 6 ---
+iv
+
+MANAGING CORE RISKS IN BANKING:
+
+ASSET-LIABILITY MANAGEMENT (ALM)
+GUIDELINES
+
+
+Working committee
+Chairman
+S.M.Rabiul Hassan, General Manager, Department of Off-site Supervision, Bangladesh Bank
+Member Secretary
+Aminur Rahman Chowdhury, Joint Director, Department of Off-site Supervision, Bangladesh
+Bank
+Members
+Md. Saiful Islam, Deputy General Manager, Banking Regulation and Policy Department,
+Bangladesh Bank
+Md. Sirajul Haque, Deputy General Manager, Department of Banking Inspection-4, Bangladesh
+Bank
+Munir Ahmed Chowdhury, Joint Director, Department of Banking Inspection-1, Bangladesh
+Bank
+Hasan Tareq Khan, Joint Director, Integrated Supervision Management Cell, Bangladesh Bank
+Biswanath Paul, Deputy General Manager, Sonali Bank Limited
+M Tawfiq Faizur Rahman, Executive Director and head of ALM, Standard Chartered Bank
+Mohammad Masud, Vice President, Islami Bank Bangladesh Limited
+
+--- Page 7 ---
+List of Abbreviations
+ADR- Advance to Deposit Ratio
+OBU- Off-shore Banking Unit
+ALCO- Asset and Liability Management Committee OTC-Over-the-counter
+ALM- Asset and Liability Management
+PD-Primary Dealer
+ATDTL-Average Total Demand and Time Liabilities
+SLP- Structural Liquidity Profile
+BB-Bangladesh Bank
+SLR-Statutory Liquidity Ratio
+BCBS-Basel Committee for Banking Supervision
+SND-Short Notice Deposit
+CFP- Contingency Funding Plan
+VaR-Value at Risk
+CMT- Contingency Management Team
+WBG- Wholesale Borrowing Guidelines
+CRAR- Capital to risk weighted Asset Ratio
+YTM-Yield To Maturity
+CRO-Chief Risk Officer
+
+CRR-Cash Reserve Ratio
+
+FCY-Foreign Currency
+
+FX-Foreign Exchange
+
+GDP-Gross Domestic Product
+
+GFC- Global Financial Crisis
+
+HQLA- High Quality Liquid Assets
+
+ISA-Interest Rate Sensitive Assets
+
+ISL-Interest Rate Sensitive Liabilities
+
+LCR- Liquidity Coverage Ratio
+
+LCY-Local Currency
+
+L/C-Letter of Credit
+
+MCO- Maximum Cumulative Outflow
+
+MIS-Management Information System
+
+MVE-Market Value of Equity
+
+NII-Net Interest Income
+
+NIM-Net Interest margin
+
+NPL-Non Performing Loan
+
+NSFR- Net Stable Funding Ratio
+
+--- Page 8 ---
+Page 1 of 60
+
+PART A: POLICY STATEMENT
+
+Asset and liability management is a process which is managed by the Asset and Liability
+Management Committee (ALCO) of the bank. In order to run the process smoothly, it should be
+guided by specific policy (ALM policy), essentially approved by the BODs of local banks and CEO
+of the foreign banks. The policy must be tailored depending on the size and nature of business
+of the bank. Although there is no specific model, the following are the best practices for an ALM
+Policy:
+ Have substance, structure and focus.
+ Ties-in other policy parameters, e.g., Investment Policy Guidelines and the impact on
+liquidity.
+ Includes description of how key assumptions are determined, and the source
+documents used to make the assumptions.
+ Includes risk limits for maintaining liquid, unencumbered assets.
+ Outlines expectations for independent review.
+ Includes funding risk limits by maturity (e.g. limits on short-term, wholesale
+funding).
+The following policies are set by BB for compliance by the commercial banks:
+1.1 Basel III Liquidity Ratios:
+BB has issued separate Guidance note on LCR and NSFR under Basel III. These ratios represent
+the way forward in ALM through liquidity measurement and management. These ratios along
+with the liquidity gap should be central to liquidity measurement and management.
+1.1.1 Liquidity Coverage Ratio (LCR):
+LCR or Liquidity Coverage Ratio is a new liquidity standard introduced by the BCBS. This
+standard is built on the methodologies of traditional liquidity coverage ratio used by banks to
+assess exposure to contingent liquidity events. The minimum acceptable value of this ratio is
+100 percent.
+
+--- Page 9 ---
+Page 2 of 60
+
+1.1.1.1 Definition for the LCR:
+The calculation of the LCR requires three important quantities to be defined:
+A. Total value of stock of high quality liquid assets
+B. Total cash outflows, next 30 days (stressed scenario)
+C. Total cash inflows, next 30 days (stressed scenario)
+LCR requirement is met if A is greater than B – C; i.e. if high quality liquid assets exceed net cash
+outflows under the stressed scenario. (To make the metric even more conservative, C is capped
+at 75 percent of B.)
+1.1.1.2 The Equation:
+Stock of high quality liquid assets
+Total net cash outflows over the next 3Ͳ calendar days ≥ͳͲͲ%
+Here, Stock of high quality assets = A and
+Total net cash outflow over the next 30 calendar days = B – C, where C is
+maximum 75% of B.
+1.1.2 Net Stable Funding Ratio (NSFR):
+NSFR or Net Stable Funding Ratio is another new standard introduced by the BCBS. The NSFR
+aims to limit over-reliance on short-term wholesale funding during times of abundant market
+liquidity and encourage better assessment of liquidity risk across all on- and off-balance sheet
+items. The minimum acceptable value of this ratio is 100 percent, indicating that available
+stable funding (ASF) should be at least equal to required stable funding (RSF).
+1.1.2.1 Definitions of the NSFR:
+The calculation of the NSFR requires two quantities to be defined:
+A. available stable funding (ASF) and
+B. required stable funding (RSF).
+NSFR is met if ASF exceeds RSF, i.e. if ASF/RSF > 1 or 100%.
+
+--- Page 10 ---
+Page 3 of 60
+
+1.1.2.2 The Equation:
+�܁�܀= Available amount of stable funding ሺASFሻ
+Required amount of stable funding ሺRSFሻ> ͳͲͲ%
+
+1.2 Leverage Ratio:
+
+A minimum Tier 1 leverage ratio of 3% is being prescribed by BB both at solo and consolidated
+level. Banks have to maintain leverage ratio on quarterly basis. The ratio is defined as-
+�݁ݒ݁ݎܽ݃݁ ܴܽݐ�݋= ܶ�݁ݎ ͳ ܥܽ݌�ݐ݈ܽ∗
+ܶ݋ݐ݈ܽ ܧݔ݌݋ݏݑݎ݁∗
+[*after related deductions]
+(For more information see "Guidelines on Risk Based Capital Adequacy: Revised Regulatory
+Capital Framework for banks in line with Basel III" issued by BB in December 2014.)
+1.3 Other significant policy statements:
+To facilitate the ALM process, the Board of the Bank should set out other policy statements
+(keeping in mind the minimum requirements of LCR, NSFR and Leverage ratio) for the
+followings and an annual review (at least) should be done taking into consideration the changes
+in the balance sheet and market dynamics.
+1.3.1 Advance to Deposit Ratio (ADR):
+Although commonly known as Advance to Deposit Ratio, actually the ratio is determined by
+putting Advance in numerator and Liabilities (excluding capital) in denominator. The ratio
+should be fixed in such a manner so that there will be no unnecessary liquidity pressure on the
+bank in any point of time. Considering the regulatory liquidity requirements (CRR and SLR), the
+maximum value of the ratio shall be derived using the formula [100%-CRR*-SLR*]. Depending
+upon the capital base, liquidity condition, NPL status etc. and above all the maintenance of LCR
+& NSFR, the board may decide adding highest 4.5% and 2%** (for conventional banks and
+Shariah based banks respectively) with the result of the above formula to fix a suitable AD
+ratio.
+
+--- Page 11 ---
+Page 4 of 60
+
+1.3.1.1 The Equation:
+The formula for calculating AD ratio is as follows-
+ADR = Total Loans and Advances or Investment (for Shariah based banks)/ (Total Time and
+
+
+Demand Liabilities + Interbank deposit surplus)
+Interbank deposit surplus = Deposit from other banks -Deposit with other banks (if -ve then 0)
+Bank should follow the instruction of BB regarding deduction of some items to calculate total
+loans and advances or Investment while calculating ADR. Total Demand and Time liabilities will
+be calculated according to DOS Circular No.01/2014.
+1.3.1.2 ADR for Islamic banking operation of conventional banks:
+Conventional banks having Islamic banking business have to calculate and maintain ADR
+separately for conventional banking and islamic banking operation. ADR for islamic banking
+operation is same as that of Islamic Shariah based banks.
+1.3.1.3 Adjustment of the AD ratio limit:
+It is important to adjust AD ratio limit with changing condition of banks' assets and liabilities.
+The Management of the bank should inform the board regarding AD ratio in every meeting so
+that the board may take quick decision necessary to adjust the ratio.
+[Note: 1. ** depends on SLR fixed by BB from time to time
+2.* CRR = bi-weekly rate as decided by BB from time to time.
+3.* SLR = as decided by BB from time to time.]
+1.3.2 Wholesale Borrowing Guidelines (WBG):
+The aim of wholesale borrowing (WB) guidelines is to set a limit for borrowed fund. The limit
+should be set in absolute amount based on bank's eligible capital (Tier-1 plus Tier-2) capital and
+considering liquidity needs due to maturity mismatch, borrowing capacity of the bank and
+historic market liquidity.
+
+--- Page 12 ---
+Page 5 of 60
+
+1.3.2.1 WB Limit:
+WB covers call borrowing, Short Notice Deposit from banks and financial institutions,
+placement received with maturity less than 12 months, commercial papers/similar instruments
+and overdrawn Nostro-accounts. The WB Limit should be capped at 80% (for Non PD banks)
+and 100% (for PD banks) of bank's eligible capital on fortnightly average basis with maximum
+two deviations (not more than 90% and 110% of the eligible capital for Non PD and PD banks
+respectively) in a particular fortnight. The eligible capital determined under Basel III for any
+quarter will be applicable as eligible capital until it is determined for the next quarter.
+1.3.2.2 Scope of WB Limit:
+The above limit shall be considered as an aggregate limit for banks having dual businesses (i.e.
+both conventional and islamic banking operation).
+1.3.3 Commitments:
+Total Commitments include undrawn portions of continuous loan including interest thereon
+and undrawn portions of term loans, outstanding irrevocable letters of credit and similar
+instruments, letters of guarantee, acceptances and similar instruments. Counter guarantee
+provided by foreign banks with BB rating grade 1 or similar, awarded by recognized (by BB)
+international Credit rating agencies against any guarantee, FC held against Back to Back LC and
+Margin on LC or guarantee shall be deducted from the total commitment amount.
+1.3.3.1 Commitment Limit:
+The commitment limit should be fixed considering three important ratios. These are: i) Total
+commitments to total Assets, ii) Total commitments to Total Eligible Capital and iii) Total
+commitments to total High Quality Liquid Assets (HQLA). The highest acceptable limits of these
+ratios are less than 50%, less than 500% and less than 250% respectively. The commitment limit
+should be the lowest amount of the three ratios mentioned above.
+1.3.3.2 Scope of Commitment Limit:
+The above limit shall be considered as an aggregate limit for banks having dual businesses (i.e.
+for both conventional and islamic banking operation).
+
+--- Page 13 ---
+Page 6 of 60
+
+1.3.4 Structural Liquidity Profile (SLP):
+The structural liquidity profile of a bank provides information regarding maturity
+transformation of assets and liabilities in a simple manner. The negative liquidity GAP (if exist),
+derived by considering assets and liabilities both in local and foreign currencies, may be taken
+as a preliminary signal for the need of maturity adjustment of assets and liabilities in different
+time buckets. The Maximum Cumulative Outflow ratio may be considered as an important
+benchmark in this regard.
+1.3.4.1 Maximum Cumulative Outflow (MCO):
+MCO reflects the maximum cumulative outflow against total assets in a maturity bucket. MCO
+upto one month bucket should not be greater than the sum of daily minimum CRR plus SLR. For
+example, at the present rate of CRR and SLR, the MCO should be 19% (6% CRR+ 13% SLR) for
+conventional banks. The Shariah based banks, due to higher ADR and Short nature of their
+investment are also allowed MCO at the same level. MCO in the other maturity buckets should
+be prudently fixed by the BODs (ALCO in case of foreign banks) depending on bank's business
+strategy. The board should take utmost care in setting these ratios as they have significant
+impact on bank's business strategy.
+1.3.4.2 The Equation:
+The formula for determining maximum cumulative outflow in one month bucket is-
+ܶ݋ݐ݈ܽ ݋ݑݐ݂݈݋ݓ ݑ݌ݐ݋ ݋݊݁ ݉݋݊ݐℎ+ ܶ݋ݐ݈ܽ ܱܤܵ ݑ݌ݐ݋ ݋݊݁ ݉݋݊ݐℎ
+ܶ݋ݐ݈ܽ �݂݈݊݋ݓݏ+ ܰ݁ݐ ݊݋ݏݐݎ݋ ܽܿܿ݋ݑ݊ݐ ܾ݈ܽܽ݊ܿ݁+ ܣݒܽ�݈ܾ݈ܽ݁ ݂݋ݎ݁�݃݊ ܿݑݎݎ݁݊ܿݕ ܾ݈ܽܽ݊ܿ݁ ݓ�ݐℎ ܤܤ
+
+Banks should follow the instruction of BB (Dos circular no-02, dated: 29/03/2011) regarding
+preparation of Structural Liquidity Profile (SLP). Using the above equation bank should calculate
+MCO in other time buckets.
+1.3.4.3 Scope of MCO:
+Conventional banks having islamic banking operation should prepare combined SLP and MCO
+for better understanding of the overall position of the bank.
+
+--- Page 14 ---
+Page 7 of 60
+
+1.3.5 Interest Rate Risk Limit:
+The BODs should set a limit on the interest rate risk in the banking book. The limit should be set
+according to the risk appetite of the bank. The BODs should also set the management action
+plan to reduce interest rate risk if the situation warrants. Both NII (Net Interest Income) and
+MVE (Market Value of Equity) limits and action plan should be set so that management can act
+promptly. Bank should follow the instruction of Risk Management Guidelines for Banks issued
+by Bangladesh Bank in 2012.
+1.3.6 Swapped Funds Limit:
+Swapped fund is the difference between assets and liabilities including capital denominated in
+the same currency.
+Assets and liabilities will not always be in the same currencies. A bank might be exposed to the
+risk that it may not meet by its currency-wise obligations as they fall due. Swapped funds
+position results from reliance on foreign exchange markets and therefore needs to be
+controlled.
+Swapped funds limits are established on the maximum amount that may be swapped out of
+foreign currency into local currency and swapped out of local currency into foreign currency.
+
+1.3.7 Contingency Funding Plan (CFP):
+A contingency funding plan needs to be approved by the BODs (ALCO in case of foreign banks).
+A contingency funding plan needs to be prepared keeping in mind that enough liquidity is
+available to meet the funding requirements in a liquidity crisis situation.
+1.3.7.1 Essential characteristics of a CFP:
+An acceptable CFP should have some essential characteristics:
+ The CFP should identify and assess the adequacy of financial resources (source of funds)
+for contingent needs. The plan should identify all back-up facilities, the conditions
+related to their use, and the circumstances under which the bank might use them.
+Periodically, management should test all sources of its contingency funding plan with
+
+--- Page 15 ---
+Page 8 of 60
+
+the goal of ensuring that there are no unexpected impediments or complications in case
+the bank needs to use its contingency lines. Management should understand the various
+conditions, such as notice periods, that could affect access to back-up funding sources.
+ The CFP should distinguish between bank-specific and general market liquidity
+situations, and have appropriate responses to each situation.
+ The CFP should define responsibilities and decision-making authority so that all
+personnel understand their role during a problem situation.
+ The CFP should identify the sequence that the bank will mobilize and commit key
+sources of funds for contingent needs. The degree of uncertainty as to the magnitude,
+timing, and availability of recourses may call for different priorities in different
+situations.
+ The CFP should address implementation issues such as procedures the bank should use
+to obtain emergency funds or release funds from one use to transfer to another. It
+must ensure that there are no constraints, such as blanket liens on all collateral, which
+may limit availability of other liquidity sources.
+ The CFP should identify other actions necessary in the event of an unexpected
+contingency.
+ The CFP should assess the potential for funding erosion (magnitude and rate of outflow)
+by source of funds under different scenarios.
+ The CFP should assess the potential liquidity risk posed by other activities, such as asset
+sales and securitization programs.
+1.3.7.2 Preparation and review/update of CFP:
+The contingency funding plan needs to be prepared by the Treasury Department. The Plan
+needs to be reviewed/ updated by ALCO and approved by the BODs (ALCO for foreign banks) of
+the bank at least annually or more frequently.
+
+--- Page 16 ---
+Page 9 of 60
+
+1.3.7.3 Elements of a typical CFP:
+Every bank should have an up-to-date contingency funding plan. The plan should contain
+measures to ensure that the bank is able to respond to a crisis/ specific problem in the local
+market. The contingency funding plan identifies the trigger events that could cause a liquidity
+crisis and describes actions to be taken to manage the situation. A typical CFP includes the
+following elements:
+1.3.7.3.1 Trigger Events:
+Trigger events could include breach in liquidity guidelines/ ratios for certain consecutive
+reporting dates, not being able to meet stress cash flows, unsubstantiated rumors, difficulty in
+either capital or funding, market-wise stress, etc. as appropriate.
+1.3.7.3.2 Contingency Management Team (CMT):
+Bank should have a specific contingency management team consisting of ALCO members. The
+MD/CEO may include any other relevant personnel as deemed appropriate.
+1.3.7.3.3 Purpose of the Contingency Management team
+The purpose of the CMT is to investigate cause and magnitude of the crisis, assess steps to
+prevent occurrence/ escalation, understand expected duration of the crisis, assess market
+sentiment, and decide on remedial action to mitigate effects of the crisis.
+1.3.7.3.4 Details of Action Plan
+This would include information and sources of information/ reports, review of funding sources
+and liabilities, plan for asset disposal/ liquidation, plan for communication, liquidity
+management plan, etc.
+It is important to clearly specify the responsible persons for each of the action items identified.
+This will ensure that the tasks/ activities during a crisis situation are undertaken smoothly.
+
+--- Page 17 ---
+Page 10 of 60
+
+1.3.7.3.5 Critical Contact Information
+Contact numbers of critical internal persons as well as central bank/ interbank contacts need to
+be included in the Contingency Management Plan. This will ensure that in times of a crisis, the
+numbers should be handy.
+1.3.7.3.6 Brief Summary of Regulations, and Contingency Liquidity Sources
+This will include information on CRR/ SLR and other regulatory liquidity requirements, liquidity
+facilities offered by central bank, and a quantification of the liquidity that may be assumed to
+be available from different sources.
+1.3.8 Regulatory Compliance:
+There should be a firm policy on compliance with Bangladesh Bank requirements relevant to
+ALM, such as CRR and SLR, CRAR, Single Borrower Exposure Limit, etc.
+
+--- Page 18 ---
+Page 11 of 60
+
+PART B: ORGANIZATION OF THE ALCO
+
+The Asset and Liability Management Committee (ALCO) is responsible for balance sheet
+risk management. Managing the assets and liabilities to ensure maximum level of
+structural balance sheet stability and optimum profitability is an important responsibility
+of the ALCO.
+2.1 Responsibilities of ALCO:
+According to the Risk Management Guidelines issued in February 2012 by Bangladesh
+Bank, the major responsibilities of ALCO are defined as follows:
+ EŶsuƌe that ďaŶk’s ŵeasuƌeŵeŶt aŶd ƌepoƌtiŶg sǇsteŵs aĐĐuƌatelǇ convey the
+degrees of liquidity and market risk
+ MoŶitoƌ the stƌuĐtuƌe aŶd ĐoŵpositioŶ of ďaŶk’s assets aŶd liaďilities aŶd ideŶtifǇ
+balance sheet management issues that are leading to underperformance
+ Decide on the major aspects of balance sheet structure, such as maturity and
+currency mix of assets and liabilities, mix of wholesale versus retail funding,
+deposit mix , etc
+ Decide on how to respond to significant, actual and expected increases and
+decreases in required funding
+ Review maturity profile and mix of assets and liabilities
+ Articulate interest rate view of the bank and decide on balance sheet strategy
+ Approve and periodically review the transfer pricing policy of the bank
+ Evaluate market risk involved in launching of new products
+ Review deposit-pricing strategy, and
+ Review contingency funding plan for the bank
+Balance sheet risk management is not limited to collection of data only. ALCO is required
+to understand the implications of the numbers generated from analyses and formulate
+appropriate responses and strategies for the bank.
+
+--- Page 19 ---
+Page 12 of 60
+
+2.1.1 Organizational structure of ALCO:
+
+The organizational structure enumerated below is not mandatory for foreign banks
+working in Bangladesh. Foreign banks may follow their own ALCO structure, approved by
+their Head office/Group, as long as it is compensating with the spirit of this guidelines. The
+same shall apply regarding the issues described in 2.1.1.1, 2.1.1.2 , 2.1.1.3 , 2.1.1.4 and
+3.1. It shall be noted that this structural liberty does not extend to the limits set in or
+other contents of this guidelines.
+
+The structure of ALCO would typically be as follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. Organizational Structure of ALCO
+
+
+2.1.1.1 Key Roles and Responsibilities of the Treasury Department:
+͞Treasury Department͟ unless otherwise stated, essentially means the "Treasury Front
+Office" and "Head of Treasury" refers the head of this department of a bank for the purpose
+of this guideline. The prime responsibility of Asset and liability Management (ALM) is on this
+Department, specifically its ALM desk. Moreover, Treasury Front Office, Back Office and Mid
+Office shall be established with separate reporting lines within the bank.
+
+Head of ALM desk
+Head of
+Treasury
+Head of
+Corporate
+Banking
+Head of
+Finance/
+CFO/ CAD/
+FAD
+Head of
+SME/ID/
+Commercial
+Customers
+Head of RMD
+
+Head of Retail
+Banking and/or
+General Banking
+CEO / MANAGING
+DIRECTOR (Chairperson)
+
+--- Page 20 ---
+Page 13 of 60
+
+2.1.1.2 Clearance regarding availability of funds from the Treasury Department:
+The Treasury Department is solely responsible for maintaining the liquidity position of the
+bank. There should be a specific policy (approved by the BODs of local banks) requiring
+other departments to take necessary clearance (documented) from the Treasury
+Department regarding availability of fund before sanctioning of any new facility (above a
+minimum amount of funded and non-funded) to a customer. For other loan facilities (below
+the minimum amount mentioned before) clearance for the bulk amount (may be based on
+projection) is also necessary from the treasury department.
+
+2.1.1.3 Key Roles and Responsibilities of the ALM Desk:
+The ALM desk is responsible for day to day management of the market risk and liquidity risk
+of the bank. The broad responsibilities of the ALM desk are as follows:
+1. To oversee the growth and sustainability of assets and the liabilities.
+2. To manage and oversee the overall activities of Money Market.
+3. To manage liquidity and market risk of the bank.
+4. To understand the market dynamics i.e. competition, potential target markets etc. for
+expansion of the business.
+5. To Provide inputs regarding market views and to suggest proper balance sheet
+movement (expand or shrink) to cope with the changing situation in the market or in
+the economy.
+6. To keep records of ALCO meetings, to monitor the implementation status of the action
+taken in ALCO meetings etc.
+2.1.1.4 Head of Treasury: Experience, responsibilities and reporting line:
+The Head of Treasury shall have at least 10(ten) years of working experience in bank and/or
+FIs with minimum 5 years in different levels of Treasury related departments (Front office,
+Mid office or Back office) or FAD or Finance department of banks/Financial Institutions. The
+Head of Treasury will act as the member secretary of ALCO. The results of balance sheet
+analysis, along with recommendations, are to be placed in the ALCO meeting by the Head of
+Treasury Department. To avoid conflict of interest , The Head of Treasury will directly
+report to the Managing director or CEO of the bank. The Head of Treasury shall not be in
+charge of any credit related major departments (e.g. corporate/retail/consumer/general) or
+Risk Management Department.
+
+--- Page 21 ---
+Page 14 of 60
+
+PART C: THE ALCO PROCESS
+
+3.1. Constitution of the ALCO:
+The CEO/Managing Director of the bank shall be the chairman of ALCO. Head of Treasury shall
+work as the member secretary of ALCO. The committee shall be constituted as follows:
+Chief Executive Officer / Managing Director
+Head of Retail banking and/or General banking
+Head of Treasury
+Head of Corporate Banking
+Head of Finance/Chief Financial Officer/Head of Central accounts / Head of FAD
+Head of SME/International Division/Commercial Customers
+Head of Risk Management Department (RMD)
+Conventional banks having Islamic banking business shall include the Head of islamic banking as
+a member of the ALCO committee. Banks having Off-shore Banking shall also include
+representative (as a member) from the Off-shore Banking Unit (OBU). The head of ALM desk
+should be a permanent invitee of the ALCO meeting. The Chairperson of ALCO may invite any
+other related person (maximum 2) in any meeting.
+3.1.1 Meeting of the committee:
+The committee shall sit at least once in a month to discuss various aspects of ALM. The
+presence of all the members or his/her representative (in case of the absence of the member)
+is mandatory in every meeting.
+3.1.2 Key Agenda
+The key agenda (includes islamic banking operation of conventional banks and also the
+operation of OBU) of ALCO meetings should be at least, but not limited to, the following:
+Review of actions taken in previous ALCO and the status of implementation
+(ii)
+Review of monthly changes in various key parameters
+(iii)
+Overall fund position including loanable funds, maintenance of CRR and SLR, LCR
+and NSFR position, Structural Liquidity Profile, etc.
+(iv)
+Asset position:
+
+--- Page 22 ---
+Page 15 of 60
+
+-concentration
+-quality
+Liability position:
+-deposit mix
+-market situation
+-concentration
+-cost of fund
+(vi)
+Foreign exchange related asset and liability position:
+-forward agreement
+-net Foreign exchange liability
+-OBU position: assets and liabilities
+-SWAP position
+-Sight L/C
+(vii)
+Economic and Market Status and Outlook
+(viii)
+Liquidity Risk related to the Balance Sheet
+(ix)
+Review of the price / interest rate structure:
+-interest rate risk in banking book
+-interest rate risk in trading book
+-equity price risk
+Off-balance sheet position:
+-Unused portion of lines of credit (undrawn commitments)
+-Acceptances
+-Guarantees
+-Maturity profile of other L/Cs
+(xi)
+Capital Market Investment position: Solo and Consolidated basis.
+(xii)
+Investment in associates
+(xiii)
+Leverage Ratio
+(xiv)
+Stress Test, VaR (Value at Risk) analysis, Gap Analysis and others with proper
+interpretation.
+(xv)
+Actions to be taken by whom and by when
+
+--- Page 23 ---
+Page 16 of 60
+
+3.1.3 ALCO Paper:
+An ALCO paper, covering all the above issues must be presented in every meeting of ALCO. The
+Treasury Department will be responsible to present the paper incorporating all necessary
+information, analysis and suggestions from the related Departments including its own opinion,
+if necessary, on the related issues. A separate observation from RMD regarding market and
+liquidity risk shall also be included in the ALCO paper. The decision taken against each issue
+should be carefully noted and preserved for a reasonable time (not less than 3 years).
+3.1.3.1 Contents of the ALCO Paper
+The folloǁiŶg aƌe the keǇ eleŵeŶts that aŶ ALCO papeƌ should ĐoŶtaiŶ aŶd Ŷeed ALCO’s
+oversight on.
+3.1.3.1.1 Confirmation of Minutes of last meeting:
+This section contains formal confirmation of the last ALCO meeting minutes.
+3.1.3.1.2 Review of the action items of the previous meetings:
+This section contains detailed discussion on the progress on the action item and review
+deadline if appropriate.
+3.1.3.1.3 Review of Economy and Markets:
+This section may start with the review of key global economic developments. Specific
+ƌefeƌeŶĐe to ĐouŶtƌies ǁhose eĐoŶoŵies haǀe diƌeĐt ďeaƌiŶg oŶ BaŶgladesh’s eĐoŶoŵǇ
+(exports, imports, remittances, etc.) is important.
+The section may go on with an update of the local economy and interbank market. On the
+economy items that may be included are: GDP growth, inflation, credit growth, govt.
+borrowing, export, import, remittance, FX Reserve and current account balance. On
+markets, items that may be included are: movement of interbank market liquidity, call
+money rates, term money rates, govt. securities yield. Also a comparison of interest rate
+offered by comparable banks can be important.
+The idea of this section is to identify the key elements in the context of global and local
+
+--- Page 24 ---
+Page 17 of 60
+
+economy and the impact they might/ would likely to have on the business of the bank in
+BaŶgladesh. ALCO uses this iŶfoƌŵatioŶ foƌ ŵakiŶg deĐisioŶ ƌegaƌdiŶg the ďaŶk’s ďusiŶess.
+3.1.3.1.4 Review of Balance Sheet and Liquidity Limits:
+This section presents the structural balance sheet limits and their utilization - AD ratio,
+Commitments, LCR, NSFR, Loan and Deposit Concentrations (if applicable), etc. It is
+iŵpoƌtaŶt to oďseƌǀe the last feǁ ŵoŶths’ tƌeŶds to get a ďetter perspective. Items which
+are not at acceptable levels are reviewed further in details and corrective actions proposed.
+The section also presents the short term liquidity management limits and their utilization –
+Wholesale Borrowing Limits, VaR, etc. Observation of the last few months trend is
+important to get a better perspective.
+This section would also present the other limits (as appropriate) required in section 2
+above.
+3.1.3.1.5 Review of the Status of Regulatory Compliance:
+This section lists the various regulatory liquidity requirements (CRR, SLR, Capital Adequacy,
+etc.) and compliance with those.
+3.1.3.1.6 Top 10 Depositors List:
+This section lists the top 10 depositors of the bank and their share of the total deposits. The
+data can be looked at currency wise, tenor-wise, and the share of each of the depositors as
+percentage of total deposits. The trend of the past few months will give important
+perspective. Maturity bucketing for each of the depositors (call, 1 week, 1 month, etc.) may
+be helpful. This helps the bank to have a greater visibility on where the deposit
+concentrations are coming from. It is important to track the behavior of these deposits and
+take measures so as to avoid any untoward liquidity issues.
+3.1.3.1.7 Top 10 Borrowers List:
+This section lists the top 10 borrowers and looks using the same set of parameters as for
+the top 10 depositors.
+
+--- Page 25 ---
+Page 18 of 60
+
+3.1.3.1.8 Capital Maintenance:
+This section includes details and composition of the capital maintained by the bank in
+relation to the minimum capital requirement. This can be compared to future expected
+capital requirement (e.g. due to asset growth forecasted, dividend payout, etc). It is also
+important to look at the Return on Risk Weighted Assets of the bank – again the trend of
+the past few months give good perspective – so as to understand how efficiently the bank is
+deploying its capital.
+3.1.3.1.9 Details of Loans and Deposits Movement:
+Segment-wise (retail, corporate, etc.), product-wise (current account, savings, SND, etc.)
+and currency wise (if of significance) AD ratio movements for the last few periods can be
+included in this section.
+3.1.3.1.10 Loans and Deposit Projections:
+It is important that monthly projections of loans and deposits for the year/ for the next 3-6
+months are presented to ALCO by the respective businesses. The information is used by
+ALCO to understand future liquidity requirements and strategies accordingly.
+In this respect, it is also important to review the historical projection accuracy to
+understand the level of adjustments that can be qualitatively applied to the current
+projections.
+The projections should be given both for FCY and LCY as this is more meaningful. If deemed
+important, ALCO can also seek segment-wise projections (e.g. retail, corporate, etc.) in
+addition to total loans deposit projections from the respective department/division/
+business.
+3.1.3.1.11 Trend of Lending Rates and Deposit Rates:
+This section includes the trend of the lending and deposit rates. Product-wise, segment-
+wise, and currency-wise breakdown of the rates is important.
+
+--- Page 26 ---
+Page 19 of 60
+
+3.1.4 Responsibility of related departments:
+All the departments should be liable to provide necessary information, analysis and
+suggestions regarding the issues related with them which are stated in Section 3.1.2 above
+within a stipulated time to the Treasury Department. The Treasury Department ensures
+that these are incorporated in the ALCO Paper.
+3.2 Major Issues:
+Following are the major issues regarding asset and liability management within the scope of
+these guidelines-
+3.2.1 Market Risk:
+The risk arising from market risk factors such as interest rates, foreign exchange rates, and
+equity prices and the roles and responsibilities of board and senior management of the bank
+have been discussed in the Risk Management Guidelines issued on February 2012 by
+Bangladesh Bank (see Appendix-1).
+The ALCO should work out on various limits [explicitly, maximum allowable funding gap to
+achieve desired level of NIM (Net interest margin) and NII (Net interest income) maximum
+trading loss limit by a dealer, daily loss limit in a portfolio (securities and equities), Stop Loss
+Limit, interbank transaction limit] which must be approved by the board and ensure proper and
+effective implementation of the same.
+[For Foreign Exchange Risk management, see the Risk Management Guidelines issued on
+February 2012 and Foreign Exchange Risk management Guidelines issued by BB.]
+3.2.2 Liquidity Risk:
+Liquidity risk arises from either the bank's inability to meet its obligations as they fall due or to
+fund increases in assets without incurring unacceptable cost or losses. The Risk Management
+Guidelines issued on February 2012 by Bangladesh Bank provided a detailed view regarding the
+roles and responsibilities of board and senior management of the bank as well as liquidity risk
+detection and mitigation techniques (see Appendix-2). Moreover, LCR and NSFR introduced
+
+--- Page 27 ---
+Page 20 of 60
+
+recently cover a wider aspect of liquidity risk detection and monitoring by the banks under
+stress situation.
+The ALCO should closely monitor the developments around various liquidity issues in each and
+every meeting. The effectiveness of the CFP should also be verified in the meetings. It is also
+mandatory for the Treasury Department to inform the board (ALCO in case of foreign banks)
+regarding various liquidity issues (e.g. CRR/SLR, SLP, LCR, NSFR, ADR and IDR) in every
+board/ALCO meeting of the bank.
+
+--- Page 28 ---
+Page 21 of 60
+
+Appendix-1
+(Extracted from the Risk Management Guidelines for banks, issued in February 2012 by BB)
+
+Market risk management
+5.1 Defining market risk
+It is the risk of potential losses in the on-balance sheet and off-balance sheet positions of a bank, steams
+from adverse movements in market rates or prices such as interest rates, foreign exchange rates, equity
+prices, credit spreads and/or commodity prices.
+Banks may be exposed to market risk in a variety of ways. Market risk exposure-
+a) may be explicit in portfolios of securities/equities and instruments that are actively traded;
+b) may be implicit such as interest rate risk due to mismatch of assets and liabilities; and
+c) may arise from activities categorized as off-balance sheet items
+The risk arising from market risk factors such as interest rates, foreign exchange rates, and equity prices
+have been discussed below.
+5.2 Interest rate risk
+Interest rate risk is the poteŶtial iŵpaĐt oŶ a ďaŶk’s eaƌŶiŶgs aŶd Ŷet asset ǀalues due to ĐhaŶges iŶ
+ŵaƌket iŶteƌest ƌates. IŶteƌest ƌate ƌisk aƌises ǁheŶ a ďaŶk’s pƌiŶĐipal aŶd iŶteƌest Đash floǁs ;iŶĐludiŶg
+final maturities), both on- and off-balance sheet, have mismatched re-pricing dates. The amount at risk
+is a function of the magnitude and direction of interest rate changes and the size and maturity structure
+of the mismatch position. BaŶk’s leŶdiŶg, fuŶdiŶg aŶd iŶǀestŵeŶt aĐtiǀities giǀe ƌise to iŶteƌest ƌate ƌisk.
+Interest rate risk management must be conducted within the context of a comprehensive business plan.
+5.2.1 Effects of interest rate risk
+The iŵŵediate iŵpaĐt of a ǀaƌiatioŶ iŶ iŶteƌest ƌates is oŶ the ďaŶk’s Ŷet iŶteƌest iŶĐoŵe, ǁhile a loŶg
+term impact is oŶ the ďaŶk’s Ŷet ǁoƌth siŶĐe the eĐoŶoŵiĐ ǀalue of ďaŶk’s assets, liaďilities aŶd off-
+balance sheet exposures are affected. Consequently, there are two common perspectives for the
+assessment of interest rate risk.
+a) Earning perspective: In the earning perspective, the focus of analysis is the impact of variation in
+interest rates on accrual or reported earnings. This is a traditional approach to interest rate risk
+assessment and obtained by measuring the changes in the net interest income (NII), the
+
+--- Page 29 ---
+Page 22 of 60
+
+difference between the total interest income and the total interest expense or net interest margin
+(NIM) i.e. net interest income to gross interest-earning assets. Variation in earnings is an
+important focal point for interest rate risk analysis because reduced earnings or outright losses
+can threaten the financial stability of a bank by undermining its capital adequacy and by reducing
+market confidence.
+b) Economic value perspective: Variations in market interest rates can also affect the economic
+value of a bank's assets, liabilities, and OBS positions. The economic value of a bank can be viewed
+as the present value of the bank's expected net cash flows, defined as the expected cash flows on
+assets minus the expected cash flows on liabilities plus the expected net cash flows on OBS
+positions. In this sense, the economic value perspective reflects one view of the sensitivity of the
+net worth of the bank to fluctuations in interest rates. Since the economic value perspective
+considers the potential impact of interest rate changes on the present value of all future cash
+flows, it provides a more comprehensive view of the potential long-term effects of changes in
+interest rates than is offered by the earnings perspective.
+c) Embedded losses: A bank should also consider that past interest rates may have some impact on
+future performance. In particular, instruments that are not marked to market may already contain
+embedded gains or losses due to past rate movements. These gains or losses may be reflected
+over time in the bank's earnings.
+5.2.2 Sources of interest rate risks
+The sources of interest risk are:
+a. Re-pricing risk: This risk arises from the timing differences in the maturity (for fixed-rate) and re-
+pricing (for floating-rate) of bank assets, liabilities, and OBS positions. For instance, a bank that
+funded a long-term fixed-rate credit with a short-term deposit could face a decline in both the
+future income arising from the position and its underlying value if interest rates increase. These
+declines arise because the cash flows on the credit are fixed over its lifetime, while the interest
+paid on the funding is variable, and increases after the short-term deposit matures.
+b. Yield curve risk: Yield curve risk arises when unanticipated shifts of the yield curve have adverse
+effects on a bank's income or underlying economic value. For instance, the underlying economic
+value of a long position in 10-year treasury bond hedged by a short position in 5-year treasury
+
+--- Page 30 ---
+Page 23 of 60
+
+bond could decline sharply if the yield curve steepens, even if the position is hedged against
+parallel movements in the yield curve.
+c. Basis risk: Basis risk arises from the changing rate relationships among different yield curves
+effecting bank activities. It arises from imperfect correlation in the adjustment of the rates
+earned and paid on different instruments with otherwise similar re-pricing characteristics. When
+interest rates change, these differences can give rise to unexpected changes in the cash flows
+and earnings spread between assets, liabilities and OBS instruments of similar maturities or re-
+pricing frequencies.
+d. Optionality: An additional and increasingly important source of interest rate risk arises from the
+options embedded in many bank assets, liabilities, and OBS portfolios. Formally, an option
+provides the holder the right, but not the obligation, to buy, sell, or in some manner alter the
+cash flow of an instrument or financial contract. Options may be stand-alone instruments such
+as exchange-traded options and over-the-counter (OTC) contracts, or they may be embedded
+within otherwise standard instruments. While banks use exchange-traded and OTC options in
+both trading and non-trading accounts, instruments with embedded options are generally more
+important in non-trading activities. Examples of instruments with embedded options include
+various types of bonds and notes with call or put provisions, credits which give borrowers the
+right to prepay balances, and various types of non-maturity deposit instruments which give
+depositors the right to withdraw funds at any time, often without any penalties. If not
+adequately managed, the asymmetrical payoff characteristics of instruments with optional
+features can pose significant risk particularly to those who sell them, since the options held,
+both explicit and embedded, are generally exercised to the advantage of the holder and the
+disadvantage of the seller. Moreover, an increasing array of options can involve significant
+leverage which can magnify the influences (both negative and positive) of option positions on
+the financial condition of the firm.
+5.2.3 Sound interest rate risk management practices
+Sound interest rate risk management involves the application of following basic elements in the
+management of assets, liabilities, and OBS instruments:
+a) Appropriate board and senior management oversight;
+b) Adequate risk management policies and procedures;
+
+--- Page 31 ---
+Page 24 of 60
+
+c) Appropriate risk measurement, monitoring, and control functions; and
+d) Comprehensive internal controls and independent audits.
+As with other risk factor categories, interest rate risk should be monitored on a consolidated,
+comprehensive basis, to include interest rate exposures in subsidiaries. At the same time, banks should
+fully recognize any legal distinctions and possible obstacles to cash flow movements among affiliates
+and adjust their risk management process accordingly. While consolidation may provide a
+comprehensive measure in respect of interest rate risk, it may also underestimate risk when positions in
+one affiliate are used to offset positions in another affiliate. This is because a conventional accounting
+consolidation may allow theoretical offsets between such positions from which a bank may not in
+practice be able to benefit because of legal or operational constraints. Management should recognize
+the potential for consolidated measures to understate risks in such circumstances.
+5.2.4 Measurement of interest rate risk
+
+Managing interest rate risk requires a clear understanding of the amount at risk and the impact of
+changes in interest rates on this risk position. To make these determinations, sufficient information
+must be readily available to permit appropriate action to be taken within acceptable, often very short,
+time periods. The longer it takes a bank to eliminate or reverse an unwanted exposure, the greater the
+possibility of loss.
+Each bank needs to use risk measurement techniques that accurately and frequently measure the
+impact of potential interest rate changes on the bank. In choosing appropriate rate scenarios to
+measure the effect of rate changes, the bank should consider the potential volatility of rates and the
+time period within which the bank could realistically react to close the position.
+Ideally, a bank's interest rate risk measurement system would take into account the specific
+characteristics of each individual interest sensitive position, and would capture in detail the full range of
+potential movements in interest rates.
+Re-pricing schedules and simulation approaches are the commonly used interest rate risk measurement
+techniques. Each bank should use a combination of these techniques in managing its interest rate risk
+exposure. Each technique provides a different perspective on interest rate risk, has distinct strengths
+and weaknesses, and is more effective when used in combination with another.
+
+--- Page 32 ---
+Page 25 of 60
+
+5.2.4.1 Maturity/re-pricing schedules
+
+The simplest techniques for measuring a bank's interest rate risk exposure begin with a maturity/re-
+pricing schedule that distributes interest-sensitive assets, liabilities, and OBS positions into a certain
+number of predefined time bands according to their maturity (if fixed-rate) or time remaining to their
+next re-pricing (if floating-rate). Those liabilities lacking definitive re-pricing intervals (e.g. sight deposits
+or savings accounts) are assigned to re-pricing time bands according to the judgment and past
+experience of the bank.
+i) Gap analysis
+Simple maturity/re-pricing schedules can be used to generate simple indicators of the interest rate risk
+sensitivity of both earnings and economic value to changing interest rates. When this approach is used
+to assess the interest rate risk of current earnings, it is typically referred to as gap analysis.
+To evaluate earnings exposure, interest rate-sensitive liabilities (ISL) in each time band are subtracted
+from the corresponding interest rate-sensitive assets (ISA) to produce a re-pricing ͞gap͟ for that time
+band.
+A negative or liability-sensitive gap occurs when interest-bearing liabilities exceed interest-earning
+assets (including OBS positions) in a given time band, that is more interest-bearing liabilities re-price
+than interest-earning assets. This gap implies that an increase in market interest rates could cause a
+decline in net interest income. In this situation, a decrease in interest rates should improve the net
+interest rate spread in the short term, as deposits are rolled over at lower rates before the
+corresponding assets. An increase in interest rates lowers earnings by narrowing or eliminating the
+interest spread. Conversely, a positive or asset-sensitive gap occurs when interest-earning assets
+exceed interest-bearing liabilities (including OBS positions) in a given time band, that is, more interest-
+earning assets re-prices than interest-bearing liabilities. This gap implies that a decrease in market
+interest rates could cause a decline in net interest income. In this situation, a decline in interest rates
+should lower or eliminate the net interest rate spread in the short term, as assets are rolled over at
+lower rates before the corresponding liabilities. An increase in interest rates should increase the net
+interest spread.
+
+--- Page 33 ---
+Page 26 of 60
+
+An interest sensitive gap ƌatio is also a good iŶdiĐatoƌ of ďaŶk’s iŶteƌest ƌate ƌisk eǆposuƌe.
+Relative IS GAP = IS GAP/Bank’s Total Asset
+Also aŶ I“A to I“L ƌatio of ďaŶk foƌ paƌtiĐulaƌ tiŵe ďaŶd Đould ďe a useful estiŵatioŶ of a ďaŶk’s positioŶ.
+Interest Sensitive Ratio = ISA/ISL
+ii) Measuring risk to net interest income (NII)
+Gap sĐhedules ĐaŶ pƌoǀide aŶ estiŵate of ĐhaŶges iŶ ďaŶk’s Ŷet iŶteƌest iŶĐoŵe giǀeŶ ĐhaŶges iŶ
+interest rates. The gap for particular time band can be multiplied by a hypothetical change in interest
+rate to obtain an approximate change in net interest income. The formula to translate gaps into the
+amount of net interest income at risk, measuring exposure over several periods, is:
+ NII = i X Periodic Gap X Maturity Bucket
+Where,
+
+ NII = Change in net interest income
+
+i = Change in interest rate
+
+Periodic Gap = (RSA-RSL)
+
+Maturity Buckets = 1 day, 2-7 days, 8 days to 1 month, 1-3 months, 3-12 months, 1-5 years, and
+5+ years.
+The size of the interest rate movement used in the analysis can be based on a variety of factors,
+including historical experience, simulation of potential future interest rate movements, and the
+judgment of bank management.
+While such gap measurements apparently seem perfect, practically there are some problems such as
+interest paid on liabilities of a bank which are generally short term tend to move quickly compared with
+that being earned on assets many of which are relatively longer term. This problem can be minimized by
+assigning weights to various ISA and ISL that take into account the tendency of the bank interest rates to
+vary in speed and magnitude relative to each other and with the up and down business cycle.
+The gap reports are important to an interest rate risk management program because they indicate how
+much net interest income is at risk, and, to some extent, the timing of the risk. However, gap analysis
+has a number of shortcomings.
+
+--- Page 34 ---
+Page 27 of 60
+
+gap analysis provides an objective measure of risk associated with current positions only; it
+does not incorporate future growth or changes in the mix of business;
+gap analysis does not capture basis risk or investment risk, is generally based on parallel shifts
+in the yield curve;
+gap analysis does not take account of variation in the characteristics of different positions
+within a time band;
+gap analysis does not account for the time value of money;
+gap does not take into account any changes in the timing of payments that might occur as a
+result of changes in the interest rate environment; and
+most gap analyses fail to capture variability in non-interest revenue and expenses, which is
+potentially an important source of risk to current income.
+Accordingly, the use of gap reports should be complemented with present-value sensitivity systems,
+such as duration analysis or simulation models.
+iii) Duration analysis
+Duration is the time-weighted average maturity of the present value of the cash flows from assets,
+liabilities and off-balance sheet items. It measures the relative sensitivity of the value of these
+instruments to changing interest rates (the average term to re-pricing), and therefore reflects how
+ĐhaŶges iŶ iŶteƌest ƌates ǁill affeĐt the ďaŶk’s eĐoŶoŵiĐ ǀalue, that is, the pƌeseŶt ǀalue of eƋuitǇ. IŶ
+this context, the maturity of an investment is used to provide an indication of interest rate risk.
+Generally, the longer the term to maturity (next re-pricing date) of an investment and the smaller the
+payments that occur before maturity (e.g. coupon payments), the higher the duration (in absolute
+value). Higher duration implies that a given change in the level of interest rates will have a larger impact
+on economic value.
+Duration-based weights can be used in combination with a maturity/re-pricing schedule to provide a
+rough approximation of the change in a bank's economic value that could occur given a particular set of
+changes in market interest rates.
+Specifically, an ͞average͟ duration is assumed for the positions that fall into each time band. The
+average durations are then multiplied by an assumed change in interest rates to construct a weight for
+each time band. In some cases, different weights are used for different positions that fall within a time
+
+--- Page 35 ---
+Page 28 of 60
+
+band, reflecting broad differences in the coupon rates and maturities (for instance, one weight for
+assets, and another for liabilities). In addition, different interest rate changes are sometimes used for
+different time bands, generally to reflect differences in the volatility of interest rates along the yield
+curve. The weighted gaps are aggregated across time bands to produce an estimate of the change in
+economic value of the bank that would result from the assumed changes in interest rates.
+Alternatively, a bank could estimate the effect of changing market rates by calculating the precise
+duration of each asset, liability, and OBS position and then deriving the net position for the bank based
+on these more accurate measures, rather than by applying an estimated average duration weight to all
+positions in a given time band. This would eliminate potential errors occurring when aggregating
+positions/cash flows. As another variation, risk weights could also be designed for each time band on
+the basis of actual percentage changes in market values of hypothetical instruments that would result
+from a specific scenario of changing market rates. That approach - which is sometimes referred to as
+effective duration- would better capture the non-linearity of price movements arising from significant
+changes in market interest rates and, thereby, would avoid an important limitation of duration.
+DuƌatioŶ iŶĐoƌpoƌates aŶ iŶstƌuŵeŶt’s ƌeŵaiŶiŶg tiŵe to ŵatuƌitǇ, the leǀel of iŶteƌest ƌates, aŶd
+intermediate cash flows. If a fixed income instrument has only one cash flow, as a zero coupon bond
+does, duration will equal the maturity of the instrument: a zero coupon bond with five years remaining
+to maturity has duration of five years. If coupon payments are received before maturity, the duration of
+the bond declines, reflecting the fact that some cash is received before final maturity.
+Properties of duration
+In general, duration exhibits the following characteristics:
+a) As ŵatuƌitǇ iŶĐƌeases, duƌatioŶ iŶĐƌeases aŶd the ďoŶd’s pƌiĐe ďeĐoŵes ŵoƌe seŶsitiǀe to iŶteƌest
+rate changes;
+b) For two instruments with the same maturity, a high-coupon instrument will have a lower duration
+than a low-coupon instrument and will also be less price-sensitive. A larger proportion of a high
+ĐoupoŶ’s Đash floǁs ǁill ďe ƌeĐeiǀed sooŶeƌ aŶd thus the aǀeƌage tiŵe to ƌeĐeipt of the cash flows
+will be less;
+c) A given fixed income instrument will have a higher duration in a low interest rate environment
+than in a high interest rate environment;
+
+--- Page 36 ---
+Page 29 of 60
+
+d) Duration may be positive or negative. A fixed rate instrument would have a positive duration, and
+an increase in interest rates would generally decrease the market value of the instrument.
+Mortgage servicing rights and interest only (IO) mortgage-backed securities generally have a
+negative duration, since an increase in interest rates would decrease the prepayment speed of the
+underlying mortgages, increasing the market value of the instruments; and
+e) Durations are additive when weighted by the amount of the contract. For example, if a portfolio
+consists of two bonds of equal market value, one with duration of six and the other with duration
+of two, the duration of the portfolio would be four.
+
+Duration of equity
+The duration of equity is derived from the duration of all assets, liabilities, and off-balance-sheet
+contracts.
+To understand how the duration of equity measures risk, the economic value of portfolio equity may be
+viewed as a net bond position. Assets are analogous to long bond positions with positive durations, and
+liabilities are analogous to short bond positions with negative durations. Duration indicates whether the
+economic value of the net bond position or portfolio equity will increase or decrease with a change in
+rates.
+A bank with long-term assets funded by short-term liabilities will generally have duration of equity that
+is positive. The economic value of portfolio equity of this bank will decline as interest rates rise. A bank
+with short-term assets funded with long-term liabilities will generally have a negative duration of equity.
+The economic value of this bank will increase as iŶteƌest ƌates ƌise. The higheƌ the duƌatioŶ of a ďaŶk’s
+equity (whether the number is positive or negative), the more sensitive is its economic value to changes
+in rates.
+Modified duration
+Modified duration is standard duration divided by 1 + r, where r is the level of current market interest
+rates. It reflects the percentage change in the economic value of the instrument for a given percentage
+change in 1 + r. As with simple duration, it assumes a linear relationship between percentage changes in
+value and percentage changes in interest rates.
+
+--- Page 37 ---
+Page 30 of 60
+
+Effective duration
+Effective duration (sometimes called option-adjusted duration) further refines the modified duration
+calculation and is particularly useful when a portfolio contains callable securities. Effective duration is
+derived by using simulation techniques to calculate the change in price of an instrument for a given
+change in interest rates. EffeĐtiǀe duƌatioŶ iŶĐoƌpoƌates a ďoŶd’s Ǉield, ĐoupoŶ, fiŶal ŵatuƌitǇ aŶd Đall
+features into one number that indicates how price-sensitive a bond or portfolio is to change in interest
+rates. For assets with variable cash flows, it is appropriate to calculate the effective duration rather than
+the modified duration.
+Duration of single instrument
+To measure the duration of a single instrument, a bank has to calculate the weighted average of each
+cash flow at time t by the following formula:
+��= ܥܨ�/ሺͳ + ݕሻ�
+ܤ݋݊݀ ܲݎ�ܿ݁
+These weighted averages are then summed to get duration by using the following formula:
+ܦݑݎܽݐ�݋݊= ∑ݐ× ��
+
+Here,
+Wt = Weighted average of cash flow at time t
+CFt= Cash flow at time t
+y= Yield to maturity
+T=Number of cash flow periods
+Duration of a portfolio of instruments
+The duration of a portfolio of assets or liabilities is the market value of weighted average of the
+individual duration of each asset or liability on the bank's balance sheet.
+The calculation of duration depends on three factors:
+a) The final maturity of the financial instruments
+b) The size and timing of cash flows (coupon payments)
+
+--- Page 38 ---
+Page 31 of 60
+
+c) The yield to maturity (YTM)
+The duration of a portfolio of assets can be calculated by computing the weighted average maturity of
+all the cash flows in the portfolio individually. Banks can estimate the duration of a portfolio of contracts
+by weighting the durations of the individual contracts and summing them.
+Measuring duration gap
+To measure duration gap and the impact of net changes in the market value of equity, a bank should:
+a) Estimate the market value of each on-balance sheet rate sensitive assets and liabilities of the
+bank to arrive at market value of equity;
+b) Calculate the durations of each asset and liability of the on-balance sheet portfolio arrive at the
+aggregate weighted average duration of assets and liabilities;
+c) Calculate the duration GAP by subtracting aggregate duration of liabilities from that of assets;
+d) Estimate the changes in the economic value of equity due to change in interest rates on on-
+balance sheet positions based on the three interest rate changes i.e. 1%, 2%, and 3%;
+e) Calculate surplus/(deficit) on off-balance sheet items under the assumption of three different
+interest rate changes i.e. 1%, 2%, and 3%; and
+f) Estimate the impact of net change (both for on-balance sheet and off-balance sheet) in the
+market value of equity.
+Formulae:
+Weighted average duration of assets, (DA) =∑
+W୅ X D୅
+
+Weighted average duration of liabilities, (DL) = ∑
+W୐ X D୐
+
+Duration gap: DGAP = ܦܣ−[
+ெ��] DL
+ MVE = (−DGAP) X [
+ሺ1+yሻ] X Total Assets
+Where,
+
+y = YTM
+
+Total Assets = Market value of total assets
+
+--- Page 39 ---
+Page 32 of 60
+
+iv) Simulation models
+Banks having complex financial instruments or otherwise having complex risk profiles may employ more
+sophisticated interest rate risk measurement systems.
+Simulation models are sophisticated models and a valuable complement to gap and duration analysis. In
+static simulations, the cash flows arising solely from the bank's current on-balance sheet and off-balance
+sheet positions are assessed. In a dynamic simulation approach, the simulation builds in more detailed
+assumptions about the future course of interest rates and expected changes in a bank's business activity
+over that time.
+Simulation models are useful tools for strategic planning; they permit banks to effectively integrate risk
+management and control into the planning process. Their forecasts are based on a number of
+assumptions including:
+a) future levels and directional changes of interest rates;
+b) the slope of the yield curve and the relationship between the various indices that the bank uses
+to price credits and deposit;
+c) pricing strategies for assets and liabilities as they mature; and
+d) the growth, volume and mix of future business.
+Simulation is usually used to measure interest rate risk by estimating what effect changes in interest
+rates, business strategies, and other factors will have on net interest income, net income and interest
+rate risk positions. Simulation models can also be used to calculate the present value and durations of
+assets and liabilities.
+Regardless of the measurement system, the usefulness of each technique depends on the validity of the
+underlying assumptions and the accuracy of the basic methodologies used to model risk exposure.
+Further the integrity and timeliness of data relating to current positions is the key element of risk
+measurement system.
+While measuring risk in traded portfolios banks should use a valuation approach. They should develop
+risk measurement models that relate market risk factors to the value of the traded portfolios or the
+estimated value of non-traded portfolios. The underlying liquidity of markets for traded portfolios and
+the potential impact of changes in market liquidity should be specifically addressed by market risk
+measures. There should be separate risk factors corresponding to each of the equity markets in which
+
+--- Page 40 ---
+Page 33 of 60
+
+the bank has positions. The banks measurement of equities risk should include both price movements in
+the overall equity market (e.g. a market index) and specific sectors of the equity market (for instance,
+industry sectors or cyclical and non-cyclical sectors), and individual equity issues.
+5.2.5 Interest risk management program
+Significant factors in managing interest rate risk include the frequency, volatility and direction of rate
+changes, the slope of the interest rate yield curve, the size of the interest-sensitive position and the
+basis for re-pricing at rollover dates.
+A comprehensive interest rate risk management program requires:
+a) establishing and implementing sound and prudent interest rate risk policies;
+b) developing and implementing appropriate interest rate risk measurement techniques; and
+c) developing and implementing effective interest rate risk management and control procedures.
+5.2.6 Interest rate risk management policies
+Sound and prudent interest rate risk management requires clear policies. These policies need to include:
+a) an interest rate risk philosophy governing the extent to which the bank is willing to assume
+interest rate risk; and
+b) eǆpliĐit aŶd pƌudeŶt liŵits oŶ the ďaŶk’s ƌate ƌisk eǆposuƌe.
+a) Interest rate risk philosophy
+The capacity of each bank to assume rate risk will vary with the extent of other risks (e.g., liquidity,
+credit risk, foreign exchange risk, investment risk) and its ability to absorb potential losses. The objective
+of interest rate risk management need not necessarily be the complete elimination of exposure to
+changes in interest rates. Rather, it should be to manage the impact of interest rate changes within self-
+imposed limits set after careful consideration of a range of possible interest rate environments.
+b) Interest rate risk limits
+Each bank needs to establish explicit and prudent interest rate risk limits, and ensure that the level of
+interest rate risk exposure does not exceed these limits.
+
+--- Page 41 ---
+Page 34 of 60
+
+IŶteƌest ƌate ƌisk liŵits Ŷeed to ďe set ǁithiŶ a ďaŶk’s oǀeƌall ƌisk pƌofile, ǁhiĐh ƌefleĐts factors such as
+its capital adequacy, liquidity, credit quality, investment risk and foreign exchange risk. Interest rate
+positioŶs should ďe ŵaŶaged ǁithiŶ a ďaŶk’s aďilitǇ to offset suĐh positioŶs if ŶeĐessaƌǇ.
+Interest rate risk limits need to be reassessed on a regular basis to reflect potential changes in interest
+ƌate ǀolatilitǇ, the iŶstitutioŶ’s oǀeƌall ƌisk philosophǇ aŶd ƌisk pƌofile.
+Risk limits are usually defined in terms of earnings or in terms of the present value of equity at risk and
+are normally expressed in terms of the allowable amounts of mismatched positions for specified or
+cumulative maturity periods.
+Earnings are the reported net income before taxes. Changes in interest rates may affect earnings by:
+a) affecting the interest income or expenses relating to assets, liabilities and off-balance sheet
+items; and
+b) affecting the value of fixed-rate assets, liabilities and off-balance sheet items that are carried on
+a market valuation basis.
+Present value of equity is the present value of assets and off-balance sheet items generating cash
+inflows, less the present value of liabilities and off-balance sheet items generating cash outflows.
+Changes in interest rates affect the present value of the cash flows from, and the value of these items,
+aŶd theƌefoƌe the eĐoŶoŵiĐ ǀalue of shaƌeholdeƌs’ eƋuitǇ.
+Liŵits ŵaǇ also appƌopƌiatelǇ ďe defiŶed iŶ teƌŵs of ƌegulatoƌǇ Đapital, shaƌeholdeƌs’ eƋuitǇ aŶd eaƌŶiŶg
+assets.
+5.2.7 Interest rate risk management and control procedures
+Each bank needs to develop and implement effective and comprehensive procedures and information
+systems to manage and control interest rate risk in accordance with its interest rate risk policies. These
+procedures should be appropriate to the size and complexity of the bank’s iŶteƌest ƌate ƌisk-taking
+activities.
+IŶteƌŶal iŶspeĐtioŶs/audits aƌe a keǇ eleŵeŶt iŶ ŵaŶagiŶg aŶd ĐoŶtƌolliŶg a ďaŶk’s iŶteƌest ƌate ƌisk
+management program. Each bank should use them to ensure compliance with, and the integrity of, the
+interest rate risk policies and procedures. Internal inspections/audits should, at a minimum, randomly
+test all aspects of interest rate risk management activities in order to:
+
+--- Page 42 ---
+Page 35 of 60
+
+a) ensure interest rate risk management policies and procedures are being adhere to;
+b) ensure effective management controls over interest rate risk positions;
+c) verify the adequacy and accuracy of management information reports; and
+d) eŶsuƌe that peƌsoŶŶel iŶǀolǀed iŶ iŶteƌest ƌate ƌisk ŵaŶageŵeŶt fullǇ uŶdeƌstaŶd the ďaŶk’s
+interest rate risk policies and risk limits and have the expertise required to make effective
+decisions consistent with the interest rate risk policies.
+Assessments of the interest rate risk operations should be presented to the board on regular basis for
+review.
+5.4 Equity price risk
+Equity price risk is the risk of losses caused by changes in equity prices. These losses could arise because
+of changes in the value of listed shares held directly by the bank; changes in the value of listed shares
+held by a bank subsidiary; changes in the value of listed shares used as collateral for loans from a bank
+or a bank subsidiary, whether or not the loan was made for the purpose of buying the shares; and
+changes in the value of unlisted shares.
+Equity price risk associated with equities could be systematic or unsystematic. The former refers to
+seŶsitiǀitǇ of poƌtfolio’s ǀalue to ĐhaŶges iŶ oǀeƌall leǀel of eƋuitǇ pƌiĐes, ǁhile the lateƌ is assoĐiated
+with price volatility that is determined by firm specific characteristics.
+From an accounting perspective (although not an economic perspective) in Bangladesh, equity risk is
+͞one-sided͟ – equity securities must be held at the lower of cost or market value. If market value drops
+below cost, banks are required to form loss allowances or ͞provisions͟ on the liability side of the balance
+sheet, by means of an expense on the profit and loss statement. However, if market values rise above
+cost, there is no corresponding income recorded unless the security is sold. Even though the one-sided
+risk is purely in an accounting sense, it will have a real implication for banks that fall below required
+levels of regulatory capital because of declines in the market value of securities they hold. Accordingly,
+it is vitally important for banks to measure, monitor, and control their equity market risk.
+5.4.1 Effective equity price risk management
+An effective equity risk management system should have the following criteria:
+a) PoliĐies foƌ eƋuitǇ iŶǀestŵeŶts should ƌefleĐt the ďoaƌd’s ƌisk appetite, aŶd should provide clear
+authorities, conservative limits, and assigned responsibilities;
+
+--- Page 43 ---
+Page 36 of 60
+
+
+b) Policies should permit risk-taking authority consistent with the expertise of bank personnel;
+c) Management should have broad capital markets experience and should establish strong policy
+controls and risk limits;
+d) Policy exceptions should be properly approved. There should be formal procedures to report how
+and why exceptions have occurred, and how they have been resolved;
+e) Trading and sales personnel should have broad experience in the products traded, technically
+ĐoŵpeteŶt, aŶd Đoŵfoƌtaďle ǁith the ďaŶk’s Đultuƌe;
+f) Risk management personnel should have an in-depth understanding of equity market risk and risk
+management principles, including VaR;
+g) Equity investments in companies that the bank has never before invested in are subject to a
+formal review program, with all relevant bank units participating in risk assessment and control
+procedures;
+h) The firms in whose shares the bank or its subsidiary is considering investing is should be analyzed
+rigorously, and by reviewing as much or even more financial information, as would be reviewed in
+a credit decision;
+Management reports should be prepared independently of the investing and trading function and
+should provide a comprehensive and accurate summary of investing and trading activity. Reports
+should assess compliance with policy limits, measure loss potential in both normal and stressed
+markets and produced in time. Management at all levels should understand and monitor equity
+market risk;
+Incompatible duties should be properly segregated. Risk monitoring, valuation, and control
+functions should be independent of the trading and investing functions;
+k) The bank should have to conducts stress tests regularly and has a precise understanding and
+measurement of how much and why profitability, balance sheet capital, and regulatory capital will
+be affected by major declines in the equity market overall, or in the value of individual shares;
+If the bank has a subsidiary that invests in shares directly or lends to customers for the purchase
+of shares, the bank should closely monitor the financial condition and performance of the
+subsidiary, and calculate its risk-adjusted return on the invested capital in that subsidiary. The
+bank should redeploy that capital away from its subsidiary if the risk-adjusted returns are low;
+
+--- Page 44 ---
+Page 37 of 60
+
+m) If the bank has shares in unlisted companies, the bank should consider these investments as
+extremely high-risk, and devote significant staff resources to obtain, verify, and analyze financial
+information on these companies; and
+n) Given the illiquidity of investments in unlisted companies, the bank should have a detailed exit
+stƌategǇ foƌ disposiŶg of these iŶǀestŵeŶts iŶ the eǀeŶt that theǇ Ŷo loŶgeƌ fit iŶto the ďaŶk’s
+desired business strategy, are prohibited by regulatory requirements, or suffer significant losses in
+value.
+5.4.2 Securities portfolio management program
+Sound securities portfolio management involves prudently managing the risk/reward relationship and
+controlling and minimizing securities portfolio risks across a variety of dimensions, such as quality,
+portfolio concentration/diversification, maturity, volatility, marketability, type of security, and the need
+to maintain adequate liquidity.
+A comprehensive securities portfolio management program requires:
+a) establishing and implementing sound and prudent policies to effectively manage the securities
+portfolio, securities activities and position risk;
+b) developing and implementing effective securities portfolio management processes governing
+securities investment decision making and authority; and
+c) developing and implementing comprehensive procedures to effectively monitor and control the
+nature, characteristics, and quality of the securities portfolio and the extent of position risk
+assumed.
+a) Securities portfolio management policies
+The foundation of an effective securities portfolio management program is the development and
+implementation of clearly defined policies, formally established in writing that set out the securities
+portfolio management objectives of the bank and the parameters under which securities activities are to
+be undertaken and controlled.
+Each bank needs to establish explicit and prudent securities portfolio management objectives governing:
+the extent to which a bank is willing to assume position risk;
+
+--- Page 45 ---
+Page 38 of 60
+
+ii. general areas of securities activities in which a bank is prepared to engage or is restricted from
+eŶgagiŶg, iŶĐludiŶg the ďaŶk’s poliĐǇ ǁith ƌespeĐt to aĐƋuiƌiŶg seĐuƌities of ƌelated paƌties;
+iii. minimum quality and rate of return expectations for the securities portfolio; and
+iv. securities portfolio concentration and exposure limits.
+“eĐuƌities poƌtfolio ŵaŶageŵeŶt oďjeĐtiǀes ƌefleĐt a ďaŶk’s ƌisk philosophǇ, ĐodifǇ iŶǀestŵeŶt Đƌiteƌia,
+establish the foundation for the development of securities portfolio management strategies, and
+provide the basis for monitoring portfolio characteristics and measuring portfolio performance.
+Securities portfolio objectives provide overall parameters governing securities investment decisions by
+describing the broad purpose and goals of securities investments as a means for profitability. Securities
+portfolio objectives assist in ensuring that securities investments are sound and prudent, and that the
+securities portfolio risk is acceptable given the expected return.
+In establishing securities portfolio management objectives, each bank needs to give consideration to a
+Ŷuŵďeƌ of faĐtoƌs, iŶĐludiŶg the ďaŶk’s Ŷatuƌe of liaďilities, its liƋuiditǇ Ŷeeds, ŵaƌket ǀolatility, the
+eǆteŶt of otheƌ ƌisks assuŵed ;e.g. Đƌedit ƌisk, iŶteƌest ƌate ƌisk, foƌeigŶ eǆĐhaŶge ƌiskͿ, the ďaŶk’s aďilitǇ
+to absorb potential losses and its overall strategic business objectives.
+To be effective, securities portfolio management objectives must be communicated in a timely fashion,
+be implemented through all levels of the organization by appropriate procedures and revised
+periodically in light of changing circumstances.
+b) Securities portfolio management process
+To develop and maintain a sound securities portfolio, each bank must have:
+an effective formal evaluation process that provides for an objective analysis and assessment of
+securities investment proposals; and
+ii. clearly defined, prudent and appropriate levels of delegation of securities transaction approval
+authority, formally established in writing.
+c) Securities portfolio monitoring and control procedures
+Each bank needs to develop and implement effective and comprehensive procedures, accounting
+policies and information systems to monitor and manage the characteristics and quality of its securities
+poƌtfolio. These pƌoĐeduƌes should ďe appƌopƌiate to the size aŶd ĐoŵpleǆitǇ of the ďaŶk’s seĐuƌities
+activities and, at a minimum, need to include:
+
+--- Page 46 ---
+Page 39 of 60
+
+i. Systems to measure and monitor securities positions;
+ii. Controls governing the management of the securities portfolio; and
+iii. Independent inspections or audits.
+i) Systems to measure and monitor
+Managing securities activities requires a clear understanding of the nature and characteristics of the
+securities portfolio and securities positions. To make these determinations, each bank needs to ensure
+that:
+a) effective information systems are developed and used to appropriately record, regularly
+monitor and evaluate the securities portfolio;
+b) effective and appropriate quality and performance criteria are developed and implemented, and
+that the portfolio is regularly assessed against these criteria; and
+c) appropriate and conservative accounting policies and procedures are developed, documented
+and implemented to properly classify and carry securities on the books of account of the bank
+and recognize income related to such securities.
+Regular evaluations of the securities portfolio should be carried out so as to provide an effective means
+of eŶsuƌiŶg that poƌtfolio peƌfoƌŵaŶĐe aŶd ƋualitǇ is ŵeetiŶg the ďaŶk’s seĐuƌities poƌtfolio
+management policies and objectives, and that the portfolio is not unduly concentrated by types of
+security, and by single and associated groups of issuers, particularly issuers connected to the bank.
+ii) Securities portfolio management controls
+Effective procedures and controls ensure that securities activities are in compliance ǁith the ďaŶk’s
+securities portfolio management policies and provide safeguards to protect a bank from potential losses
+by ensuring that unauthorized exposure does not occur from improper or uncontrolled securities
+activities.
+Although the controls over securities activities will vary among banks depending upon the nature and
+extent of their activities, the key elements of any securities portfolio management control program are
+well-defined guidelines governing:
+a) organizational controls to ensure that there exists a clear and effective segregation of duties
+between those persons who authorize, initiate or supervise securities activities and those
+
+--- Page 47 ---
+Page 40 of 60
+
+persons who are responsible for operational functions such as the physical custody of securities,
+or arranging prompt and accurate settlement of securities transactions, or account for securities
+activities;
+b) procedural controls to ensure that securities are properly recorded and accounted for by the
+bank, transactions are settled in a timely and accurate manner and unauthorized securities
+activities are quickly identified and reported to the management; and
+c) ĐoŶtƌols to eŶsuƌe that seĐuƌities aĐtiǀities aƌe ŵoŶitoƌed fƌeƋueŶtlǇ agaiŶst the ďaŶk’s
+securities portfolio management policies and risk limits, and excesses reported.
+Moreover, each bank needs to ensure that employees conducting securities trading activities on behalf
+of the bank do so with a written code of conduct or guideline governing securities dealing. Such a
+guideline or code of conduct should provide guidance respecting trading with related parties and
+transactions in which potential conflicts of interest exist. These should include trading with affiliated
+entities, personal trading and investment activities of securities portfolio management personnel,
+iŶĐludiŶg tƌadiŶg oŶ iŶsideƌ iŶfoƌŵatioŶ aŶd takiŶg peƌsoŶal gaiŶ fƌoŵ oŶe’s positioŶ, aŶd tƌadiŶg
+relationships with securities dealers with whom the bank deals.
+iii) Independent inspection/audit
+Independent inspections/audits provide an objective assessŵeŶt of the seĐuƌities poƌtfolios’ eǆisteŶĐe,
+quality and value, the integrity of the securities portfolio management process, and they promote the
+detection of problems relating thereto. Each bank should use them to ensure compliance with, and the
+integrity of, the securities portfolio management policies and procedures. Independent
+iŶspeĐtioŶs/audits should, at a ŵiŶiŵuŵ, aŶd oǀeƌ a ƌeasoŶaďle peƌiod of tiŵe, test the ďaŶk’s
+securities portfolio management activities in order to:
+a) eŶsuƌe that seĐuƌities aĐtiǀities aƌe iŶ ĐoŵpliaŶĐe ǁith the ďaŶk’s seĐuƌities poƌtfolio
+management policies and procedures, and with the laws and regulations to which these
+activities are subject;
+b) ensure that securities transactions are duly authorized and accurately and completely recorded
+on the books of the bank;
+c) ensure that recorded securities are conservatively valued on the books of the bank;
+
+--- Page 48 ---
+Page 41 of 60
+
+d) confirm that securities held by depositories to the order of the bank conform with the records of
+the bank;
+e) ensure that management has established suitably designed controls over securities positions
+and that such controls operate effectively;
+f) eŶsuƌe the adeƋuaĐǇ aŶd aĐĐuƌaĐǇ of ŵaŶageŵeŶt iŶfoƌŵatioŶ ƌepoƌts ƌegaƌdiŶg the ďaŶk’s
+securities portfolio management activities; and
+g) ensure that personnel involved in securities portfolio management are provided with accurate
+aŶd Đoŵplete iŶfoƌŵatioŶ oŶ the ďaŶk’s seĐuƌities poƌtfolio ŵaŶageŵeŶt poliĐies aŶd ƌisk liŵits
+and have the expertise required to make effective decisions consistent with these policies.
+5.4.3 Securities portfolio concentration limits
+Clearly defined and documented securities portfolio concentration limits ensure that the nature and
+leǀel of a ďaŶk’s eǆposuƌe iŶ the foƌŵ of seĐuƌities positioŶ is appropriately diversified and does not
+exceed sound and prudent limits.
+“eĐuƌities poƌtfolio ĐoŶĐeŶtƌatioŶ oĐĐuƌs ǁheŶ a ďaŶk’s seĐuƌities poƌtfolio ĐoŶtaiŶs aŶ eǆĐessiǀe leǀel
+of exposure to one type or class of security or a single or group of associated issuers of securities.
+At a minimum, securities portfolio diversification policies must place sound and prudent aggregate and
+individual exposure limits for each type or class of security, and for single issuers and groups of
+associated issuers in which the bank is permitted to invest. Usually, limits by class of security include
+limits for how much of the portfolio should be made up of specific types of securities such as equities
+and the portfolio concentration by industrial sector. Such limits need to be established in the context of
+the ďaŶk’s aggƌegate eǆposuƌe to a siŶgle issueƌ oƌ gƌoup of assoĐiated issueƌs iŶ teƌŵs of ďoth
+securities and credit exposures. The management of such aggregate exposures is usually done at a level
+senior to securities traders and lending personnel so as to ensure that appropriate ͞firewalls͟ are
+maintained between the securities portfolio and credit risk management areas of the bank. Securities
+concentrations by single or associated issuer need to be reviewed regularly.
+5.4.4 Securities analysis and assessment
+Securities investment decisions should be made only after careful examination and consideration of
+several areas including:
+
+--- Page 49 ---
+Page 42 of 60
+
+a) the ďaŶk’s seĐuƌities poƌtfolio ŵaŶageŵeŶt poliĐies, aŶd otheƌ Đoƌpoƌate oďjeĐtiǀes and
+poliĐies, suĐh as the Ŷatuƌe of the ďaŶk’s liaďilities aŶd the Ŷeed to ŵaiŶtaiŶ adeƋuate liƋuiditǇ;
+b) potential risks and returns related to a particular security within the overall context of the
+ďaŶk’s seĐuƌities poƌtfolio ŵaŶageŵeŶt poliĐies, the Đomposition of the securities portfolio and
+the reasonable expectation of a fair return or appreciation given the nature of the security, and
+the risk of loss or impairment;
+c) current and projected regulatory and economic/financial environment under which securities
+transactions are made; and
+d) investment alternatives.
+5.4.5 Securities transaction approval authorities
+
+Clearly defined and appropriate levels of securities transaĐtioŶ authoƌitǇ help eŶsuƌe that a ďaŶk’s
+securities activities are appropriately undertaken and that securities positions do not exceed the limits
+established under its securities portfolio management policies.
+Approval limits may relate to type of security, size, maturity, or other criteria, such as the retention or
+delegation of voting rights acquired through securities. Authorities may be absolute, incremental or a
+combination thereof, and may also be individual, pooled, or shared within a committee.
+The delegation of authority needs to be clearly documented, and should include as a minimum:
+a) the absolute and/or incremental securities transaction approval being delegated;
+b) the units, individuals, positions or committees to whom securities transaction authority is being
+delegated;
+c) the ability of recipients to further delegate approval authority; and
+d) the restrictions, if any, placed on the use of delegated authority.
+The degree of delegation of securities transaction authority will depend on a number of variables
+including:
+the ďaŶk’s seĐuƌities poƌtfolio ŵaŶageŵeŶt oďjeĐtiǀes aŶd oǀeƌall ƌisk philosophǇ;
+ii. the quality of the securities portfolio;
+iii. the ability of the bank to absorb losses;
+
+--- Page 50 ---
+Page 43 of 60
+
+iv. the size and types of securities and the complexities of risks being assessed; and
+v. the experience and ability of the individuals responsible for carrying out the securities portfolio
+management activities.
+AssessŵeŶts of the seĐuƌities poƌtfolio ŵaŶageŵeŶt aĐtiǀities should ďe pƌeseŶted to the ďaŶk’s ďoaƌd
+on a timely basis for review.
+5.4.6 Measuring equity price risk
+Value at risk
+Value at Risk (VaR) is generally accepted and widely used tool for measuring market risk inherent in
+trading portfolios. VaR summarizes the predicted maximum loss (or worst loss) over a target horizon
+within a given confidence level.
+It is a statistical estimate of expected potential loss that is derived by translating the riskiness of any
+financial instrument into a common standard. Banks may use a 99% or a 95% confidence level, and each
+day return on its trading portfolios. That means about once (with 99% confidence) or five (with 95%
+confidence) in every one hundred days the trading position are expected to lose more than the VaR
+estimate.
+An inherent limitation of VaR is that it gives no information about how much losses could exceed their
+expected levels.
+Generally there are three methods of computing VaR:
+a) Parametric or variance-covariance method
+b) Historical simulation method
+c) Monte Carlo simulation method
+Among these methods, the historical simulation method is simple to apply and fairly straightforward to
+explain. Data sets used for this method are easily available. Therefore, banks are encouraged to
+calculate VaR for secondary market shares that are held for trading using historical simulation method.
+However, to calculate the VaR for overall investment portfolio (except credits), banks may use the
+variance covariance method.
+
+--- Page 51 ---
+Page 44 of 60
+
+Variance-covariance method
+The following formula can be used to assess the VaR of a portfolio consisting more than two stocks:
+Portfolio VaR= Total Portfolio X SD of Portfolio
+Where,
+Standard Deviation, SD = [S1
+2 + S2
+2 + S3
+2 + 2S1S2P(1,2) + 2S1S3P(1,3)+2S2S3P(2,3)] 1/2
+Here,
+S1
+= the standard deviation or volatility of the first asset
+S2
+= the standard deviation or volatility of the second asset
+S3
+= the standard deviation or volatility of the third asset
+= Correlation
+Historical simulation method
+Let us assume a bank has a portfolio of three stocks of one unit each. To calculate VaR of that portfolio
+the bank needs to collect the historical market price of each of the stocks in the portfolio for last 100
+days. Then, the following formulae are to be applied:
+a) Weight A=
+େ୪୭ୱ୧୬୥ ୑ୟ୰୩ୣ୲ ୔୰୧ୡୣ ୭୤ ୗ୲୭ୡ୩ ୅
+େ୪୭ୱ୧୬୥ ୑ୟ୰୩ୣ୲ ୔୰୧ୡୣ ୭୤ ୗ୲୭ୡ୩ ሺ୅+୆+େሻ
+b) Total weighted return to portfolio market price (%) =
+୘୭୲ୟ୪ ୵ୣ୧୥୦୲ୣୢ ୰ୣ୲୳୰୬
+େ୪୭ୱ୧୬୥ ୑ୟ୰୩ୣ୲ ୔୰୧ୡୣ ୭୤ ୗ୲୭ୡ୩ ሺ୅+୆+େሻ100
+Then, the 99th percentile will be the VaR at 99% confidence level.
+5.5 Managing market risk
+Each bank should put in place a set of systems and procedures appropriate to its size and complexity of
+its operations for identifying, measuring monitoring and controlling market risk. The risk appetite in
+relation to market risk should be assessed keeping in view the capital of the bank as well as exposure to
+other risks. Once the market risk appetite is determined, the bank should develop a strategy for market
+risk-taking in order to maximize returns while keeping exposure to market risk at or below the pre-
+determined level.
+
+--- Page 52 ---
+Page 45 of 60
+
+5.6 Stress testing
+Bank's risk measurement system should support a meaningful evaluation of the effect of stressful
+market conditions on the bank. Stress testing should be designed to provide information on the kinds of
+conditions under which strategies or positions would be most vulnerable, and thus may be tailored to
+the risk characteristics of the bank. Possible stress scenarios might include:
+a) abrupt changes in the general level of market rates;
+b) changes in the relationships among key market rates (i.e. basis risk);
+c) changes in the slope and the shape of the yield curve (i.e. yield curve risk);
+d) changes in the liquidity of key financial markets or changes in the volatility of market rates; or
+e) conditions under which key business assumptions and parameters break down.
+In conducting stress tests, special consideration should be given to instruments or markets where
+concentrations exist as such positions may be more difficult to liquidate or offset in stressful situations.
+Banks should consider "worst case" scenarios in addition to more probable events. Management and
+the board of directors should periodically review both the design and the results of such stress tests, and
+ensure that appropriate contingency plans are in place.
+
+--- Page 53 ---
+Page 46 of 60
+
+Appendix-2
+(Extracted from the Risk Management Guidelines for banks, issued in February 2012 by BB)
+
+6.2 Liquidity risk indicators
+Given below are some early warning indicators that have potential to ignite liquidity problem for a bank.
+Bank management needs to monitor carefully such indicators and exercise careful scrutiny wherever it
+deems appropriate. Examples of such internal indicators are:
+a) A negative trend or significantly increased risk in any area or product line;
+b) Concentrations in either assets or liabilities;
+c) Deterioration in quality of credit portfolio;
+d) A decline in earnings performance or projections;
+e) Rapid asset growth funded by volatile large deposit;
+f) A large size of off-balance sheet exposure;
+g) Deteriorating third party evaluation (negative rating) about the bank and negative publicity; and
+h) Unwarranted competitive pricing that potentially stresses the banks.
+Liquidity risk management involves not only analyzing banks on- and off-balance sheet positions to
+forecast future cash flows, but also how the funding requirement would be met. The latter involves
+identifying the funding market the bank has access to, understanding the nature of those markets,
+evaluating banks current and future use of the market and monitor signs of confidence erosion.
+6.3 Managing liquidity risk
+The formality and sophistication of risk management processes established to manage liquidity risk
+should ƌefleĐt the Ŷatuƌe, size aŶd ĐoŵpleǆitǇ of a ďaŶk’s aĐtiǀities. “ouŶd liƋuiditǇ ƌisk ŵaŶageŵeŶt
+employed in measuring, monitoring and controlling liquidity risk is critical to the viability of any bank.
+Banks should have a thorough understanding of the factors that could give rise to liquidity risk and put
+in place mitigating controls.
+A liquidity risk management involves not only analyzing banks on and off-balance sheet positions to
+forecast future cash flows but also how the funding requirement would be met. The later involves
+identifying the funding market the bank has access, understanding the nature of those markets,
+evaluating banks current and future use of the market and monitor signs of confidence erosion.
+
+--- Page 54 ---
+Page 47 of 60
+
+Bank's liquidity risk management procedures should be comprehensive and holistic. At the minimum,
+they should cover formulation of overall liquidity strategy, risk identification, measurement, and
+monitoring and control process.
+6.4 Board oversight
+The prerequisites of an effective liquidity risk management include an informed board, capable
+management, staff having relevant expertise and efficient systems and procedures. It is primarily the
+duty of board of directors to understand the liquidity risk profile of the bank and the tools used to
+manage liquidity risk. The board has to ensure that the bank has necessary liquidity risk management
+framework and the bank is capable of dealing with uneven liquidity scenarios. The board should approve
+the strategy and significant policies related to the management of liquidity. Generally, the
+responsibilities of the board include:
+a) providing guidance on the level of appetite for liquidity risk;
+b) appointing senior managers who have ability to manage liquidity risk and delegate to them the
+required authority to accomplish the job;
+c) continuously monitoring the bank's performance and overall liquidity risk profile through
+reviewing various reports; and
+d) ensuring that senior management takes the steps necessary to identify, measure, monitor and
+control liquidity risk.
+6.5 Senior management oversight
+Senior management is responsible for the implementation of sound policies and procedures keeping in
+view the strategic direction and risk appetite specified by the board. To effectively oversee the daily and
+long-term management of liquidity risk, senior management should at least:
+a) develop and implement procedures and practices that translate the board's goals, objectives,
+and risk appetite into operating standards that are well understood by bank personnel and
+consistent with the board's intent;
+b) adhere to the lines of authority and responsibility that the board has approved for managing
+liquidity risk;
+c) oversee the implementation and maintenance of management information and other systems
+that identify, measure, monitor, and control the bank's liquidity risk; and
+
+--- Page 55 ---
+Page 48 of 60
+
+d) develop and recommend liquidity and funding policies for approval by the board and implement
+the liquidity and funding policies;
+e) develop lines of communication to ensure the timely, dissemination of the liquidity and funding
+policies and procedures to all individuals involved in the liquidity management and funding risk
+management process;
+f) ensure that liquidity is managed and controlled within the liquidity management and funding
+management programs;
+g) ensure the development and implementation of appropriate reporting systems with respect to
+the ĐoŶteŶt, foƌŵat aŶd fƌeƋueŶĐǇ of iŶfoƌŵatioŶ ĐoŶĐeƌŶiŶg the ďaŶk’s liƋuiditǇ positioŶ, iŶ
+order to permit the effective analysis and the sound and prudent management and control of
+existing and potential liquidity needs;
+h) projected future liquidity;
+monitor economic and other operating conditions to forecast potential liquidity needs;
+ensure that an internal inspection/audit function reviews and assesses the liquidity
+management program; and
+k) report comprehensively on the liquidity management program to the board at least once a year.
+6.6 Liquidity risk strategy
+
+Each bank should have an agreed liquidity strategy for the day-to-day management of liquidity. This
+stƌategǇ should addƌess the ďaŶk’s goal of pƌoteĐtiŶg fiŶaŶĐial stƌeŶgth aŶd the aďilitǇ to ǁithstaŶd
+stressful events in the market place.
+The liquidity risk strategy defined by board should enunciate specific policies on particular aspects of
+liquidity risk management, such as:
+Composition of assets and liabilities: The strategy should outline the mix of assets and liabilities
+to maintain liquidity. Liquidity risk management and asset/liability management should be
+integrated to avoid high costs associated with having to rapidly reconfigure the asset liability
+profile from maximum profitability to increased liquidity.
+Diversification and stability of liabilities: A funding concentration exists when a single decision or
+a single factor has the potential to result in a significant and sudden withdrawal of funds. Since
+
+--- Page 56 ---
+Page 49 of 60
+
+such a situation could lead to an increased risk, the board and senior management should specify
+guidance relating to funding sources and ensure that the bank has diversified sources of funding
+day-to-day liquidity requirements. A bank would be more resilient to tight market liquidity
+conditions if its liabilities were derived from more stable sources. To comprehensively analyze the
+stability of liabilities/funding sources a bank needs to identify:
+liabilities that would stay with the bank under any circumstances;
+ii. liabilities that run-off gradually if problems arise; and
+iii. liabilities that run-off immediately at the first sign of problems.
+Each bank needs to have explicit and prudent policies that ensure funding is not unduly concentrated
+with respect to:
+individual depositor;
+ii. type of deposit instrument;
+iii. market source of deposit;
+iv. term to maturity; and
+v. currency of deposit, if the bank has liabilities (both on- and off-balance sheet) in foreign
+currencies.
+Managing liquidity in different currencies: The bank should have a strategy on how to manage
+liquidity in different currencies.
+Dealing with liquidity disruptions: The bank should put in place a strategy on how to deal with the
+potential for both temporary and long-term liquidity disruptions. The interbank market can be
+important source of liquidity. However, the strategy should take into account the fact that in crisis
+situations access to interbank market could be difficult as well as costly.
+The liquidity strategy must be documented in the liquidity policies, and communicated throughout the
+bank. The strategy should be evaluated periodically to ensure that it remains valid.
+6.7 Liquidity policies
+Sound and prudent liquidity policies set out the sources and amount of liquidity required to ensure it is
+adequate for the continuation of operations and to meet all applicable regulatory requirements. These
+policies must be supported by effective procedures to measure, achieve and maintain liquidity.
+
+--- Page 57 ---
+Page 50 of 60
+
+OpeƌatiŶg liƋuiditǇ is the leǀel of liƋuiditǇ ƌeƋuiƌed to ŵeet a ďaŶk’s daǇ-to-day cash outflow
+commitments. FaĐtoƌs iŶflueŶĐiŶg a ďaŶk’s opeƌatiŶg liquidity include:
+cash flows and the extent to which expected cash flows from maturing assets and liabilities
+match; and
+ii. the diversity, reliability and stability of funding sources, the ability to renew or replace deposits
+and the capacity to borrow.
+For regulatory purposes a bank is required to hold a specific amount of assets classed as ͞liquid͟, based
+on its deposit liabilities. Generally, undue reliance should not be placed on these assets, or those
+formally pledged, for operating purposes other than as a temporary measure, as legally they may not be
+available for encashment if needed.
+In assessing the adequacy of liquidity, each bank needs to accurately and frequently measure:
+a) the term profile of current and approaching cash flows generated by assets and liabilities, both
+on- and off-balance sheet;
+b) the extent to which potential cash outflows are supported by cash inflows over a specified
+period of time, maturing or liquefiable assets, and cash on hand;
+c) the eǆteŶt to ǁhiĐh poteŶtial Đash outfloǁs ŵaǇ ďe suppoƌted ďǇ the ďaŶk’s aďilitǇ to ďoƌƌoǁ oƌ
+to access discretionary funding sources; and
+d) the level of statutory liquidity and reserves required and to be maintained.
+The banks should formulate liquidity policies, which are recommended by senior management/ALCO
+and approved by the board. Board should ensure that there are adequate policies to govern liquidity risk
+management process. While specific details vary across banks according to the nature of their business,
+the key elements of any liquidity policy include:
+a statement of liquidity risk appetite;
+ii. general liquidity strategy (short- and long-term), specific goals and objectives in relation to
+liquidity risk management, process for strategy formulation and the level within the bank it is
+approved;
+iii. roles and responsibilities of individuals performing liquidity risk management functions,
+including structural balance sheet management, pricing, marketing, contingency planning,
+management reporting, lines of authority and responsibility for liquidity decisions;
+
+--- Page 58 ---
+Page 51 of 60
+
+iv. Liquidity risk management structure for monitoring, reporting and reviewing liquidity;
+v. liquidity risk management tools for identifying, measuring, monitoring and controlling liquidity
+risk (including the types of liquidity limits and ratios in place and rationale for establishing limits
+and ratios);
+vi. Mechanisms for dealing with deviations from the policy and the restrictions it imposes; and
+vii. contingency plan for handling liquidity crises.
+To be effective the liquidity policy must be communicated down the line throughout the bank. It is
+important that the board and senior management ensure that policies are reviewed on a regular basis
+(at least annually) and when there are any material changes in the ďaŶk’s ĐuƌƌeŶt aŶd pƌospeĐtiǀe
+liquidity risk profile. Such changes could stem from internal circumstances (e.g. changes in business
+focus) or external circumstances (e.g. changes in economic conditions).
+Reviews provide the opportunity to fine-tune the ďaŶk’s liƋuiditǇ poliĐies iŶ light of the ďaŶk’s liƋuiditǇ
+management experience and development of its business. Any significant or frequent exception to the
+poliĐǇ is aŶ iŵpoƌtaŶt ďaƌoŵeteƌ to gauge its effeĐtiǀeŶess aŶd aŶǇ poteŶtial iŵpaĐt oŶ ďaŶk’s liquidity
+risk profile.
+6.8 Procedures and limits
+Banks should establish appropriate procedures, processes and limits to implement their liquidity
+policies. The procedural manual should explicitly narrate the necessary operational steps and processes
+to execute the relevant liquidity risk controls. The manual should be periodically reviewed and updated
+to take into account new activities, changes in risk management approaches and systems.
+6.9 Liquidity management structure
+The responsibility for managing the overall liquidity of the bank should be delegated to a specific,
+identified group within the bank. This may be in the form of an Asset Liability Committee (ALCO).
+Since liquidity management is a technical job requiring specialized knowledge and expertise, it is
+important that responsible officers not only have relevant expertise but also have a good understanding
+of the nature and level of liquidity risk assumed by the bank and the means to manage that risk.
+It is critical that there can be close links between those individuals responsible for liquidity and those
+monitoring market conditions, as well as other individuals with access to critical information. This is
+particularly important in developing and analyzing stress scenarios.
+
+--- Page 59 ---
+Page 52 of 60
+
+6.10 Liquidity risk management process
+An effective liquidity risk management process should include systems to identify, measure, monitor
+and control its liquidity exposures. Management should be able to accurately identify and quantify the
+pƌiŵaƌǇ souƌĐes of a ďaŶk’s liquidity risk in a timely manner. To properly identify the sources,
+management should understand both existing as well as future risk that the bank can be exposed to.
+Management should always be alert for new sources of liquidity risk at both the transaction and
+portfolio levels.
+Key elements of an effective risk management process include an efficient MIS to measure, monitor and
+control existing as well as future liquidity risks and reporting them to senior management and the board
+of directors.
+6.11 Management information system
+An effective management information system (MIS) is essential for sound liquidity management
+decisions. Information should be readily available for day-to-day liquidity management and risk control,
+as well as during times of stress. Data should be appropriately consolidated, comprehensive yet
+succinct, focused, and available in a timely manner. Ideally, the regular reports a bank generates will
+enable it to monitor liquidity during a crisis; managers would simply have to prepare the reports more
+frequently. Managers should keep crisis monitoring in mind when developing liquidity MIS. There is
+usually a trade-off between managing liquidity risk accuracy and timeliness. Liquidity problems can arise
+very quickly, and effective liquidity management may require daily internal reporting. Since bank
+liquidity is primarily affected by large, aggregate principal cash flows, detailed information on every
+transaction may not improve analysis.
+Management should develop systems that can capture significant information. The content and format
+of reports depend on a bank's liquidity management practices, risks, and other characteristics. However,
+certain information can be effectively presented through standard reports such as "Funds Flow
+Analysis," and "Contingency Funding Plan Summary". These reports should be tailored to the bank's
+needs. Other routine reports may include a list of large funds providers, a cash flow or funding gap
+report, a funding maturity schedule, and a limit monitoring and exception report. Day-to-day
+management may require more detailed information, depending on the complexity of the bank and the
+risks it undertakes. Management should regularly consider how best to summarize complex or detailed
+
+--- Page 60 ---
+Page 53 of 60
+
+issues for senior management or the board. Besides other types of information important for managing
+day-to-day activities and for understanding the bank's inherent liquidity risk profile should include:
+a) Asset quality and its trends;
+b) Earnings projections;
+c) Bank's general reputation in the market and the condition of the market itself;
+d) The type and composition of the overall balance sheet structure; and
+e) The type of new deposits being obtained, as well as its source, maturity, and price.
+As far as information system is concerned, various units related to treasury activities, the dealing, the
+treasury operation and risk management department should be integrated. Furthermore, management
+should ensure proper and timely flow of information among front office, back office and middle office in
+an integrated manner; however, their reporting lines should be kept separate to ensure independence
+of these functions.
+6.12 Periodic reviews
+Periodic reviews should be conducted to determine whether the bank complies with its liquidity risk
+policies and procedures. Positions that exceed established limits should receive prompt attention of
+appropriate management and should be resolved according to the process described in approved
+policies. Periodic reviews of the liquidity management process should also address any significant
+changes in the nature of instruments acquired, limits, and internal controls that have occurred since the
+last review.
+6.13 Measurement of liquidity risk
+An effective liquidity risk measurement system not only helps in managing liquidity in times of crisis but
+also optimizes return through efficient utilization of available funds.
+Banks should institute systems that enable them to capture liquidity risk ahead of time, so that
+appropriate remedial measures could be prompted to avoid any significant losses.
+Liquidity risk of a bank varies depending upon its size and complexity of business and thus requires
+liquidity risk measurement techniques accordingly. For instance, banks having large networks may have
+access to low cost stable deposit, while small banks may only have significant reliance on large size
+corporate deposits. However, abundant liquidity does not obviate the need for a mechanism to measure
+and monitor liquidity profile of a bank.
+
+--- Page 61 ---
+Page 54 of 60
+
+At a very basic level, liquidity measureŵeŶt iŶǀolǀes assessiŶg all of a ďaŶk’s Đash iŶfloǁs agaiŶst its
+outflows to identify the potential for any net shortfalls going forward. This includes funding
+requirements for off-balance sheet commitments. A number of techniques can be used for measuring
+liquidity risk, ranging from simple calculations and static simulations based on current holdings to highly
+sophisticated modeling techniques.
+An important aspect of measuring liquidity is making assumptions about future funding needs. While
+certain cash inflows and outflows can be easily calculated or predicted, banks must also make
+assumptions about future liquidity needs, both in the very short-term and for longer time periods. One
+iŵpoƌtaŶt faĐtoƌ to ĐoŶsideƌ is the ĐƌitiĐal ƌole a ďaŶk’s ƌeputatioŶ plays in its ability to access funds
+ƌeadilǇ aŶd at ƌeasoŶaďle teƌŵs. Foƌ that ƌeasoŶ, ďaŶk’s staff ƌespoŶsiďle foƌ ŵaŶagiŶg oǀeƌall liƋuiditǇ
+should be aware of any information (such as an announcement of a decline in earnings or a
+downgrading by a rating agency) that could have an impact on market and public perceptions about the
+soundness of the bank.
+Some commonly used liquidity measurement and monitoring techniques that may be adopted by the
+banks are:
+6.14 Contingency funding plans
+In order to develop comprehensive liquidity risk management framework, banks should have in place
+plans to address stress scenarios. Such a plan commonly known as Contingency Funding Plan (CFP), is a
+set of policies and procedures that serves as a blueprint for a bank to meet its funding needs in a timely
+manner and at a reasonable cost.
+A CFP is a projection of future cash flows and funding sources of a bank under market scenarios
+including aggressive asset growth or rapid liability erosion. To be effective it is important that a CFP
+should ƌepƌeseŶt ŵaŶageŵeŶt’s ďest estiŵate of ďalaŶĐe sheet ĐhaŶges that ŵaǇ ƌesult fƌoŵ a liƋuiditǇ
+or credit event. A CFP can provide a useful framework for managing liquidity risk both short term and in
+the long term. Further it helps ensure that a bank can prudently and efficiently manage routine and
+extraordinary fluctuations in liquidity.
+6.14.1 Use of CFP for routine liquidity management
+For day-to-day liquidity risk management integration of liquidity scenario will ensure that the bank is
+best prepared to respond to an unexpected problem. In this sense, a CFP is an extension of ongoing
+liquidity management and formalizes the objectives of liquidity management by ensuring:
+
+--- Page 62 ---
+Page 55 of 60
+
+
+a) A reasonable amount of liquid assets are maintained;
+b) Measurement and projection of funding requirements during various scenarios; and
+c) Management of access to funding sources.
+6.14.2 Use of CFP for emergency and distress environments
+It is not always that a liquidity crisis shows up gradually. In case of a sudden liquidity stress, it is
+important for a bank to seem organized, candid, and efficient to meet its obligations to the
+stakeholders. Since such a situation requires a spontaneous action, banks that already have plans to deal
+with such situation could address the liquidity problem more efficiently and effectively. A CFP can help
+ensure that bank management and key staffs are ready to respond to such situations. Bank liquidity is
+very sensitive to negative trends in credit, capital, or reputation. Deterioration in the bank's financial
+condition (reflected in items such as asset quality indicators, earnings, or capital), management
+composition, or other relevant issues may result in reduced access to funding.
+6.14.3 Scope of CFP
+The sophistication of a CFP depends upon the size, nature, and complexity of business, risk exposure,
+and organizational structure. To begin, the CFP should anticipate all of the bank's funding and liquidity
+needs by:
+a) Analyzing and making quantitative projections of all significant on- and off balance- sheet;
+b) Funds flows and their related effects;
+c) Matching potential cash flow sources and uses of funds; and
+d) Establishing indicators that alert management to a predetermined level of potential risks.
+The CFP should project on the bank's funding position during both temporary and long-term liquidity
+changes, including those caused by liability erosion. The CFP should explicitly identify, quantify, and rank
+all sources of funding by preference, such as:
+Reducing assets;
+ii. Modification or increasing liability structure;
+iii. Using other alternatives for controlling balance sheet changes.
+
+--- Page 63 ---
+Page 56 of 60
+
+The CFP should include asset side as well as liability side strategies to deal with liquidity crises. The asset
+side strategy may include; whether to liquidate surplus money market assets, when to sell liquid or
+longer-term assets, etc. While liability side strategies specify policies such as pricing policy for funding,
+the dealer who could assist at the time of liquidity crisis, policy for early redemption request by retail
+customers, use of BB discount window etc. A CFP also chalks out roles and responsibilities of various
+individuals at the time of liquidity crises and the management information system between
+management, ALCO, traders, and others.
+6.15 Maturity ladder
+Banks may utilize flow measures to determine their cash position. A ŵatuƌitǇ laddeƌ estiŵates a ďaŶk’s
+cash inflows and outflows and thus net deficit or surplus (GAP) both on a day-to-day basis and over a
+series of specified time periods.
+Banks need to focus on the maturity of its assets and liabilities in different tenors. Mismatch is
+accompanied by liquidity risk and excessive longer tenor lending against shorter-term borrowing can put
+a ďaŶk’s ďalaŶĐe sheet iŶ a ǀeƌǇ ĐƌitiĐal aŶd ƌiskǇ position. To address this risk and to make sure a bank
+does not expose itself in excessive mismatch, a bucket-wise (e.g. call, 2-7 days, 8 days-1 month, 1-3
+months, 3-12 months, 1-5 years, over 5 years) maturity profile of the assets and liabilities to be prepared
+to understand mismatch in every bucket. A structural maturity ladder has been furnished in the DOS
+circular no. 02 dated 29 March 2011.
+The number of time frames in a maturity ladder is of significant importance and up to some extent
+depends upon the natuƌe of ďaŶk’s liaďilities oƌ souƌĐes of fuŶds. BaŶks, ǁhiĐh ƌelǇ oŶ shoƌt teƌŵ
+funding, will concentrate primarily on managing liquidity on very short term. However, other banks
+might actively manage their net funding requirement over a slightly longer period. In the short term, a
+ďaŶk’s floǁ of fuŶds Đould ďe estiŵated ŵoƌe aĐĐuƌatelǇ aŶd also suĐh estiŵates aƌe of ŵoƌe
+importance as these provide an indication of actions to be taken immediately. Further, such an analysis
+for distant periods will maximize the opportunity for the bank to manage the gap well in advance before
+it crystallizes. Consequently, banks should use short time frames to measure near term exposures and
+longer time frames thereafter.
+
+--- Page 64 ---
+Page 57 of 60
+
+Banks need to calculate daily gap for the next one or two weeks, monthly gap for next six months or a
+year and quarterly thereafter. While making an estimate of cash flows, the following aspects need to be
+considered:
+a) The funding requirement arising out of off- balance sheet commitments also need to be
+accounted for;
+b) Many cash flows associated with various products are influenced by interest rates or customer
+behavior. Banks need to take into account behavioral aspects along with contractual maturity. In
+this respect past experiences could give important guidance to make any assumption;
+c) Some cash flows may be seasonal or cyclical; and
+d) Management should also consider increases or decreases in liquidity that typically occur during
+various phases of an economic cycle.
+Banks should have liquidity sufficient to meet fluctuations in loans and deposits. As a safety measure
+banks should maintain a margin of excess liquidity. To ensure that this level of liquidity is maintained,
+management should estimate liquidity needs in a variety of scenarios.
+6.16 Liquidity ratios and limits
+Banks may use a variety of ratios to quantify liquidity. These ratios can also be used to create limits for
+liquidity management. However, such ratios would be meaningless unless used regularly and
+interpreted taking into account qualitative factors. Ratios should always be used in conjunction with
+more qualitative information about borrowing capacity, such as the likelihood of increased requests for
+early withdrawals, decreases in credit lines, decreases in transaction size, or shortening of term funds
+available to the bank. To the extent that any asset-liability management decisions are based on financial
+ƌatios, a ďaŶk’s asset-liability managers should understand how a ratio is constructed, the range of
+alternative information that can be placed in the numerator or denominator, and the scope of
+conclusions that can be drawn from ratios. Because ratio components as calculated by banks are
+sometimes inconsistent, ratio-based comparisons of banks or even comparisons of periods at a single
+bank can be misleading.
+Examples of ratios and limits that can be used are:
+Cash flow ratios and limits: One of the most serious sources of liquidity risk comes from a
+bank's failure to "roll over" a maturing liability. Cash flow ratios and limits attempt to measure
+and control the volume of liabilities maturing during a specified period of time.
+
+--- Page 65 ---
+Page 58 of 60
+
+Maximum cumulative outflow (MCO) guidelines control the net outflow (inflow from
+asset maturity minus outflow from liability maturity) over the period overnight, one
+week and one month. However, as per DOS circular no. 02 dated 29 March 2011, the
+following formula is to be used by the banks:
+MCO =
+୘୭୲ୟ୪ ୭୳୲୤୪୭୵ୱ ୳୮୲୭ ୭୬ୣ ୫୭୬୲୦ + ୘୭୲ୟ୪ ୓୆ୗ ୳୮୲୭ ୭୬ୣ ୫୭୬୲୦
+୘୭୲ୟ୪ I୬୤୪୭୵ୱ + ୒ୣ୲ ୬୭ୱ୲୰୭ ୟୡୡ୭୳୬୲ ୠୟ୪ୟ୬ୡୣ + ୅୴ୟ୧୪ୟୠ୪ୣ Fୡy ୠୟ୪ୟ୬ୡୣ ୵୧୲୦ ୆୆
+
+Liability concentration ratios and limits: Liability concentration ratios and limits help to prevent
+a bank from relying on too few providers or funding sources. Limits are usually expressed either
+as a percentage of liquid assets or absolute amount. Sometimes they are more indirectly
+expressed as a percentage of deposits, purchased funds, or total liabilities.
+Other balance sheet ratios: Examples of common ratios used by banks to monitor current and
+potential funding levels are:
+i. Total credit to total deposits;
+ii. Liquid assets to total deposits;
+iii. Liquid assets to short-term liabilities ; and
+iv. Borrowed funds to total assets; etc.
+In addition to the statutory liquidity requirement and cash reserve requirement, the board and senior
+management should establish limits on the nature and amount of liquidity risk they are willing to
+assume. The limits should be periodically reviewed and adjusted when conditions or risk tolerances
+change. When limiting risk exposure, senior management should consider the nature of the bank's
+strategies and activities, its past performance, the level of earnings, capital available to absorb potential
+losses, and the board's risk appetite. Balance sheet complexity will determine how much and what types
+of limits a bank should establish over daily and long term horizons. While limits will not prevent a
+liquidity crisis, limit exceptions can be early indicators of excessive risk or inadequate liquidity risk
+management.
+
+--- Page 66 ---
+Page 59 of 60
+
+
+6.17 Foreign currency liquidity management
+Each bank should have a measurement, monitoring and control system for its liquidity positions in the
+major currencies in which it is active. In addition to assessing its aggregate foreign currency liquidity
+needs and the acceptable mismatch in combination with its domestic currency commitments, a bank
+should also undertake separate analysis of its strategy for each currency individually.
+6.18 Internal controls
+Banks should have adequate internal controls to ensure the integrity of their liquidity risk management
+process. These internal controls should be an integral part of the ďaŶk’s oǀeƌall sǇsteŵ of iŶteƌŶal
+control. They should promote effective and efficient operations, reliable financial and regulatory
+reporting, and compliance with relevant laws, regulations and internal policies. An effective system of
+internal control for liquidity risk includes:
+a) a strong control environment;
+b) an adequate process for identifying and evaluating liquidity risk;
+c) the establishment of control activities such as policies and procedures;
+d) adequate information systems; and
+e) continual review of adherence to established policies and procedures.
+With regard to control policies and procedures, attention should be given to appropriate approval
+processes, limits, reviews and other mechanisms designed to provide a reasonable assurance that the
+bank's liquidity risk management objectives are achieved. Many attributes of a sound risk management
+process, including risk measurement, monitoring and control functions, are key aspects of an effective
+system of internal control. Banks should ensure that all aspects of the internal control system are
+effective, including those aspects that are not directly part of the risk management process.
+In addition, an important element of a bank's internal control system over its liquidity risk management
+process is regular evaluation and review. This includes ensuring that personnel are following established
+policies and procedures, as well as ensuring that the procedures that were established actually
+accomplish the intended objectives. Such reviews and evaluations should also address any significant
+change that may impact on the effectiveness of controls. In particular, the review should identify if and
+when limits were breached, and, if so, what the consequences were for the staff that initiated and
+approved the breach. The board should ensure that all such reviews and evaluations are conducted
+
+--- Page 67 ---
+Page 60 of 60
+
+regularly by individuals who are independent of the function being reviewed. When revisions or
+enhancements to internal controls are warranted, there should be a mechanism in place to ensure that
+these are implemented in a timely manner.
+6.19 Monitoring and reporting risk exposures
+Senior management and the board, or a committee thereof, should receive reports on the level and
+trend of the bank's liquidity risk at least quarterly. From these reports, senior management and the
+board should learn how much liquidity risk the bank is assuming, whether management is complying
+ǁith ƌisk liŵits, aŶd ǁhetheƌ ŵaŶageŵeŶt’s stƌategies aƌe ĐoŶsisteŶt ǁith the ďoaƌd's eǆpƌessed ƌisk
+appetite. The sophistication or detail of the reports should be commensurate with the complexity of the
+bank.

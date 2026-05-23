@@ -1,0 +1,370 @@
+--- Page 1 ---
+www.bangladeshbank.org.bd
+www.bb.org.bd
+
+পেমেন্ট সিস্টেমস্‌ ডিপার্টমেন্ট
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+
+তারিখঃ ২২ পৌষ ১৪২৭
+
+পিএসডি সার্কুলার নং £ ০১/২০২১
+৬ জানুয়ারী ২০২১
+
+ব্যবস্থাপনা পরিচালক/ প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে STS সকল তফসিলী ব্যাংক/পেমেন্ট সার্ভিস প্রোভাইভর/পেমেন্ট সিস্টেমস্‌ অপারেটর/
+মোবাইল ফিন্যান্সিয়াল সার্ভিস প্রদানকারী প্রতিষ্ঠান
+
+Guidelines for ‘Bangla QR’ Code Based Payments প্রণয়ন প্রসঙ্গে |
+
+সম্প্রতি দেশে Quick response (QR) code ভিত্তিক পরিশোধ সেবার ব্যবহার পরিলক্ষিত হচ্ছে। QR code ভিত্তিক
+লেনদেন সহজ ও সাশ্রয়ী বিধায় এর বহুল ব্যবহার দেশের আর্থিক অন্তর্ভূক্তিমূলক কার্যক্রমকে আরো গতিশীল করবে । এ প্রেক্ষিতে, QR
+code ভিত্তিক লেনদেন Interoperable করার লক্ষ্যে বাংলাদেশ ব্যাংক ‘National QR Code Standard for Retail
+Payments in Bangladesh’ শিরোনামে ‘Bangla QR’ এর FIT ABS করেছে। এক্ষণে, দেশের অভ্যন্তরে পরিচালিত
+‘Bangla QR’ এর ব্যবহারবিধি, লেনদেন নিষ্পত্তি, ফি ও চার্জ নির্ধরিণ ইত্যাদি বিষয়ের বিস্তারিত ব্যাখ্যা সম্বলিত Guidelines for
+‘Bangla QR’ Code Based Payments প্রণয়ন করা হয়েছে (এতদৃসংযুক্ত), যা সকল Bangla QR code ভিত্তিক লেনদেনের
+ক্ষেত্রে অনুসরণীয় হবে। এতদৃপ্রেক্ষিতে, QR code ভিত্তিক লেনদেনের সাথে সম্পৃক্ত প্রতিষ্ঠানসমূহকে (Issuing/Acquiring)
+নিম্নবর্ণিত নির্দেশনা প্রদান করা হলোঃ
+
+>. বাংলাদেশে QR code ভিত্তিক লেনদেনের ক্ষেত্রে Issuing/Acquiring প্রতিষ্ঠান নির্বিশেষে সকলকে ‘Bangla QR’
+গাইডলাইন অনুসরণ করতে হবে। তবে ইতোমধ্যে যেসকল প্রতিষ্ঠান Non EMVCO/ Proprietary standard
+অনুসরণ করে QR code ভিত্তিক পরিশোধ সেবা চালু করেছে তারা ৩১ ডিসেম্বর, ২০২১ এর মধ্যে বিদ্যমান
+Proprietary QR-t# ‘Bangla QR’ ছারা প্রতিস্থাপন করবে |
+
+2. ‘Bangla QR’ ভিত্তিক আন্তঃপ্রাতিষ্ঠানিক লেনদেন দেশে কার্যরত সকল Network এর মাধ্যমে পরিচালনা/সম্পনন করা
+যাবে।
+
+©. Static ‘Bangla QR’ ভিত্তিক লেনদেনের জন্য একক ব্যক্তিক হিসাবে দৈনিক লেনদেনের সীমা সর্বোচ্চ ২০,০০০ টাকা |
+
+8. ‘Bangla QR’ ভিত্তিক লেনদেনের ক্ষেত্রে বাংলাদেশ ব্যাংক কর্তৃক MGS ফি ও চার্জসমূহ প্রযোজ্য হবে |
+
+¢. ‘Bangla QR’ প্রচার ও প্রসারের লক্ষ্যে ব্যাংক/পেমেন্ট সার্ভিস প্রোভাইডর/পেমেন্ট সিস্টেমস্‌ অপারেটর/মোবাইল
+ফিন্যান্সিয়াল সার্ভিস প্রোভাইডর প্রতিষ্ঠানগুলো প্রয়োজনীয় গ্রাহক/মার্চেন্ট সচেতনতা বৃদ্ধির উদ্যোগ গ্রহণ করবে।
+
+উপর্যুক্ত নির্দেশাবলী অবিলম্বে SISA হবে |
+
+আপনাদের বিশ্বস্ত,
+হক
+
+(মোঃ মেজবাউল হক)
+মহাব্যবস্থাপক
+
+ফোন £ ৯৫৩০১৭৪
+
+--- Page 2 ---
+Guidelines for ‘Bangla QR’ Code Based Payments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payment Systems Department
+Bangladesh Bank
+January 2021
+
+--- Page 3 ---
+Version 1
+
+Page 2 of 11
+
+Revision History
+
+Date
+Version
+Amendment / Change Description
+January 2021
+1.0
+Initial publication
+
+--- Page 4 ---
+Version 1
+
+Page 3 of 11
+
+TABLE OF CONTENTS
+
+1.0 Introduction ............................................................................................................................... 4
+2.0 Purposes of the Guideline ......................................................................................................... 4
+3.0 Scope/Applicability................................................................................................................... 4
+4.0 Participants in a QR Code based Transaction ........................................................................... 5
+5.0 Bangla QR Logo ....................................................................................................................... 5
+6.0 Transaction Flow of a QR Payment .......................................................................................... 5
+7.0 Merchant on boarding for QR Payments .................................................................................. 7
+8.0 Clearing and settlement............................................................................................................. 7
+9.0 Security ..................................................................................................................................... 7
+10.0 Transaction Limits .................................................................................................................. 8
+11.0 Transaction Notifications ........................................................................................................ 8
+12.0 Fees and Charges .................................................................................................................... 8
+13.0 Dispute Management .............................................................................................................. 8
+
+--- Page 5 ---
+Version 1
+
+Page 4 of 11
+1.0 Introduction
+
+Building a safe, secured and efficient payment and settlement system in the country requires
+continuous efforts from all related stakeholders i.e. Regulators, Banks, Mobile Financial Service
+(MFS) providers, Payment System Operator (PSO), Payment Service Providers (PSP), Payment
+Schemes etc. These organizations play a pivotal role in encouraging and adopting new
+technologies such as Quick Response (QR) code which is a low cost retail payment solution. QR
+code is a two dimensional bar code initially invented for the auto industry eventually became
+popular in processing payments worldwide as a contactless payment method. Acquisition of
+small merchants will now be possible using QR codes instead of currently practiced expensive
+acquisition process using Point of Sales (POS) devices. This low cost technology will enable all
+merchants including small and micro merchants to be a part of the digital payment ecosystem.
+
+Some Banks, Payment Schemes, MFSs, PSPs and PSOs have already prepared their own
+standards and infrastructures for facilitating closed loop/Proprietary QR code based payments,
+this however would increase inefficiency in the overall payment systems. In this backdrop,
+Bangladesh Bank in consultation with the stakeholders has developed a National QR Code
+Standard for Retail Payment named ‘Bangla QR’ for open loop interoperable QR code based
+payments. Here, we have adopted EMV® Merchant-Presented QR Code Specification (EMV®
+QRCPS), where merchant will display its QR code and customer will scan the QR code using
+his/her financial institution’s solution.
+
+2.0 Purposes of these Guidelines
+
+To promote the use of low cost QR code based payments throughout the country.
+ii.
+To provide regulatory framework about branding, merchant on-boarding, fees & charges
+and dispute Management etc. for the participants.
+
+3.0 Scope/Applicability
+
+These guidelines are applicable for all members (Issuers, Acquirers, Transaction Processors,
+Third Party Payment Aggregators, Customers and Merchants) who will take part in Merchant
+Presented Mode of QR code based payments.
+
+--- Page 6 ---
+Version 1
+
+Page 5 of 11
+4.0 Participants in a QR Code based Transaction
+
+The QR code based Payment System consists of the following members:
+a. Acquirer – the Banks/MFSs/PSPs/PSOs that enrolls merchants, assigning merchant ID,
+maintaining merchant record/account and settling funds for merchants. Acquirer also
+facilitates QR code payments by providing application solution for merchants as well as
+for customers.
+b. Issuer – Institutions that facilitates QR payments from its customer’s account (i.e.
+current savings account, debit/credit/prepaid card, MFS account, e-wallet account etc.).
+Issuer usually on boards the customers (individuals and merchant) and provides QR code
+base transaction processing solution.
+c. Transaction processor – A payment infrastructure provider which processes all off-us
+transactions by routing them to the appropriate participant and provides net settlement
+position to its participants and arrange to send the same to the settlement bank for
+posting.
+d. Third Party Payment Aggregator - An entity that provides support to the merchants to
+facilitate electronic payments, these support include onboarding merchants directly, or
+on behalf of the acquirer. In case of direct onboarding, the entity needs to obtain license
+from the Bangladesh Bank as PSO (WLAMA).
+e. Customer - An entity who maintains account (current/savings account, debit/credit/
+prepaid card, MFS account, e-wallet account etc.) with the issuer.
+f. Merchant - An entity engaged in the business of selling of goods and services enrolled
+with an acquirer for receiving electronic payments.
+
+5.0 Bangla QR Logo
+
+To ensure the uniformity of National QR Code Standard, Bangladesh Bank has developed a logo
+termed as ‘Bangla QR’. This logo represents the interoperable QR Code based retail payments
+and should be displayed in each merchant point to facilitate ‘Bangla QR’ payments. The logo of
+‘Bangla QR’ must be developed according to the format given in Annexure-1. The acquirer shall
+also comply with the template as per Annxure-2. The ‘Bangla QR’ template should be clearly
+visible and readable to the customers. Apart from paper or sticker, ‘Bangla QR’ may be
+displayed in virtual form on any device screen.
+
+6.0 Transaction Flow of a QR Payment
+
+To encourage seamless Bangla QR payments, the applications provided by the issuer should be
+uniform. Bangladesh Bank suggests to customize the steps for QR code based payments as
+follows:
+
+--- Page 7 ---
+Version 1
+
+Page 6 of 11
+
+Figure: Steps of QR code based payments
+
+The following image depicts a generic mobile application user interfaces and process flow:
+
+Figure: QR code based user interfaces (Static)
+
+In this instance, the merchant will display a generic QR code which contains merchant’s
+payment information without amount. Customer will scan the QR code and enter the payable
+amount in his/her mobile application and process the payment.
+
+
+
+Figure: QR code based user interfaces (Dynamic)
+
+In this instance, the merchant will generate specific QR code which contains merchant
+information including amount for each payment. Customer will scan the QR code and pay
+without entering the amount in his/her mobile application.
+
+--- Page 8 ---
+Version 1
+
+Page 7 of 11
+7.0 Merchant on boarding for QR Payments
+
+QR code based payments opened the opportunity for the acquirers as well as for the merchants
+by enabling them to accept digital payments cheaply and easily. Bangla QR code will increase
+customers’ financial service accessibility and interoperability in payment ecosystem. For the
+rapid expansion of QR code based payments, acquirers should prepare their strategy considering
+the following issues:
+
+Acquisition of merchants for Bangla QR payments will be decided by existing risk
+analysis and mitigation method (for example acquirer can segregate the merchants based
+on their sales volume, business nature, services offered etc).
+ii.
+Acquirers shall adopt the merchant acquisition policy in compliance with the regulations
+provided by Bangladesh Bank and BFIU.
+
+8.0 Clearing and settlement
+
+All successful Bangla QR transactions must be authorized by the issuer and transaction
+completion information will be notified to related customer and merchant instantly. Transactions
+which are processed through Bangladesh Bank’s network will be settled on the next business
+day. Participants will receive all the Clearing and Settlement reports including detail information
+at the end of each clearing cycle as usual.
+
+9.0 Security
+
+The Bangla QR code is prepared according to the EMVCo standard. So, the acquirers
+and issuers shall adopt related security features instructed by EMVCo.
+ii.
+Acquirers and issuers shall follow card and other relevant controls mentioned in
+guidelines on ‘ICT Security for Banks and Non-Bank Financial Institutions’ issued by
+Bangladesh Bank.
+iii.
+Acquirers and issuers shall comply with relevant circulars issued by Bangladesh Bank
+regarding Card Present and Card Not Present (CNP) transactions from time to time.
+iv.
+Acquirers shall provide merchant awareness to ensure presentation of legitimate QR
+code.
+Issuers shall aware their customers to verify merchant’s name and details while paying
+through Bangla QR.
+vi.
+For security purposes, issuers shall adopt transaction limits in line with clause 11 of these
+guidelines for QR code based transactions.
+
+--- Page 9 ---
+Version 1
+
+Page 8 of 11
+10.0 Transaction Limits
+
+Merchants will be able to accept funds by using Bangla QR from various payment instruments
+including bank account, debit card, credit card, pre-paid card, MFS account and e-wallet
+account. Therefore, the number and amount for daily transaction for each category of account
+will be determined by the issuers as per their existing policy. However, Bangladesh Bank shall
+determine any transaction limit deemed necessary and will provide notification to the
+participants regarding such limits from time to time.
+
+11.0 Transaction Notifications
+
+Issuers shall notify customers the transaction status in real-time via SMS/email.
+ii.
+Acquirers shall notify the merchants the transaction status in real-time via SMS/email.
+
+12.0 Fees and Charges
+
+Acquirers are strictly advised to make sure that the cost of Merchant Discount Rate
+(MDR) shall not be passed on to the customer.
+ii.
+Fees and charges for transactions processed through Bangladesh Bank’s network will be
+as per Bangladesh Bank directives while the fees for other processors will be based on
+their policy. However, processors are encouraged to reshuffle their fee structure in line
+with the fees of Bangladesh Bank’s network as much as possible.
+
+13.0 Dispute Management
+
+In case of on-us transactions, there should be a clearly defined and disclosed Dispute
+Management Procedure for merchant and customer by respective service provider. While for not
+on-us transaction, acquirers and issuers should follow transaction processor’s dispute
+management guideline. The transaction processor(s) are encouraged to adopt shorter dispute
+management timeframe for Bangla QR payments.
+
+--- Page 10 ---
+Version 1
+
+Page 9 of 11
+
+Annexure-1: Bangla QR Logo Details
+
+--- Page 11 ---
+Version 1
+
+Page 10 of 11
+
+--- Page 12 ---
+Version 1
+
+Page 11 of 11
+
+Annexure-2: Template
+
+
+
+
+
+
+
+Merchant Information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acquirer Information
+
+Scan and Pay
+Scheme Logo
+Logo(s) of one or
+more participating
+scheme(s)
+to be placed here.
+The size of each
+logo should be
+same.

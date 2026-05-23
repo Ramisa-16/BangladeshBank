@@ -1,0 +1,159 @@
+--- Page 1 ---
+Foreign Exchange Operation Department
+Bangladesh Bank
+Head Office
+Dhaka.
+www.bb.org.bd.
+
+
+FEOD Circular Letter No-1 Date: November 28, 2018
+
+All Authorized Dealers of
+Foreign Exchange in Bangladesh.
+
+Dear Sir,
+
+Generating of "Information of freight brought by freight forwarder against FOB (or similar
+term) export" by using Bangladesh Bank Online Inward Remittance Monitoring System.
+
+Please refer to Paragraph-2A (iii) of Chapter-10, Paragraph- 4A(a) of Chapter-17 and Appendix-
+5/96 of the Guidelines for Foreign Exchange Transactions(GFET), 2018 (Volume-1) regarding issuance
+of certificate of inward remittance against FOB(or similar term) export.
+
+02. Now it has been decided that ADs shall generate "Information of freight brought by freight
+forwarders against FOB (or similar term) export (to be termed as Form FF)" using Bangladesh Bank
+Online Inward Remittance Monitoring System (as per attached manual) instead of issuing encashment
+certificate in favor of concerned freight forwarder.
+03.Freight forwarders shall provide 'Form FF' to the concerned airlines/shipping companies in
+support of freight charges recovered from the overseas importer through their counterpart freight
+forwarders abroad.
+
+04. In this regard, Airlines/Shipping Companies shall collect 'Form FF' from the concerned freight
+forwarders in support of freight charges and submit the same to the designated AD while remitting their
+surplus earnings to their Head Office/ Principal abroad.
+
+05. Other instructions contained in Paragraph-2A (iii) of Chapter-10, Paragraph-4A of Chapter-17
+of the Guidelines for Foreign Exchange Transactions (GFET), 2018 (Volume-1) shall remain unchanged.
+ADs are advised to bring the above instructions effective immediately, to the notice of all
+concerned constituents.
+
+Yours Faithfully
+
+
+(Md. Shakhawat Hossain)
+Deputy General Manager
+Phone: 9530478
+
+--- Page 2 ---
+User Manual
+for
+Inward Remittance Monitoring System
+Disbursement Acknowledgement
+
+
+
+Prepared by
+IT Operation and Communication Department
+Bangladesh Bank
+
+--- Page 3 ---
+User Manual for Inward Remittance Monitoring System
+Page 1
+
+Introduction
+This manual contains instructions about how to give input to Encashment and Disbursement Detail Form using Inward Remittance
+Monitoring System.
+Prerequisite
+You will need to follow the below mentioned things to use Online Inward Remittance Monitoring System:
+1. Must be expert in fundamental usage of computer (Typing, OS, MS Word, Email, Browsing Internet etc.)
+2. A laptop or desktop computer. Laptop will be better for places where power failure occurs frequently.
+3. A good Internet connection. Multiple internet modems must be purchased from different mobile operators.
+4. Operating System (OS): Windows 7 or more/ Linux/Mac OS. Desktop or Laptop OS can only be used. Mobile OS like Android,
+iphone/ipad OS etc cannot be used.
+5. An internet browsing software e.g. Mozilla Firefox, Internet Explorer, Google Chrome etc. Two years older version of said
+browser software may cause unexpected result.
+6. Login ID or User ID provided from Bangladesh Bank for Inward Remittance Monitoring System.
+
+--- Page 4 ---
+User Manual for Inward Remittance Monitoring System
+Page 2
+
+At First Login to “Inward Remittance Monitoring System”
+
+Now Click on “Non Wage Entry” Tab
+
+--- Page 5 ---
+User Manual for Inward Remittance Monitoring System
+Page 3
+
+
+
+Now click on “Encashment” Menu
+
+--- Page 6 ---
+User Manual for Inward Remittance Monitoring System
+Page 4
+
+
+Now click on link “Create Encashment”
+
+--- Page 7 ---
+User Manual for Inward Remittance Monitoring System
+Page 5
+
+
+
+After clicking on the link “Create Encashment”, the Encashment Form will be shown:
+
+--- Page 8 ---
+User Manual for Inward Remittance Monitoring System
+Page 6
+
+Now fill up with the desired CformId in the “Encashment” Form. After typing CformId,
+corresponding Received Date, Payment Date, Currency, FC Amount, Country, Remitter Name
+will be shown automatically like below:
+
+--- Page 9 ---
+User Manual for Inward Remittance Monitoring System
+Page 7
+
+
+
+After typing all the field values, click “Create” button.
+
+--- Page 10 ---
+User Manual for Inward Remittance Monitoring System
+Page 8
+
+After clicking “Create” button, value will be inserted.
+
+--- Page 11 ---
+User Manual for Inward Remittance Monitoring System
+Page 9
+
+Now, to give input in “Disbursement Detail” Form, click “Create” button
+
+--- Page 12 ---
+User Manual for Inward Remittance Monitoring System
+Page 10
+
+Now, Fill up the field in the “Disbursement Detail” Form, then click “Create” button
+
+--- Page 13 ---
+User Manual for Inward Remittance Monitoring System
+Page 11
+
+After Clicking “Create” button, Data will be saved and shown like below:
+
+--- Page 14 ---
+User Manual for Inward Remittance Monitoring System
+Page 12
+
+To insert more data, again Click “Create” button, then fill up all the fields in “Disbursement
+Detail” Form and finally Click “Create” button as previous one to save that data.
+
+--- Page 15 ---
+User Manual for Inward Remittance Monitoring System
+Page 13
+
+To print data, Click “Print PDF” button:

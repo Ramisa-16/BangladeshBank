@@ -1,0 +1,42 @@
+--- Page 1 ---
+Foreign Exchange Operation Department
+BANGLADESH BANK
+Head Office
+Dhaka
+website: www.bb.org.bd
+
+
+
+
+FEOD Circular Letter No.: 01 Date: December 26, 2021
+All Authorized Dealers of
+Foreign Exchange in Bangladesh.
+
+Dear Sir,
+Reporting of Shipping Information in Online Export Monitoring System (OEMS) and
+Online Import Monitoring System (OIMS)
+Bangladesh Bank introduced Online Foreign Exchange Transaction Monitoring and
+Management System (FX Dashboard) including two separate modules, namely Online Export
+Monitoring System (OEMS) and Online Import Monitoring System (OIMS) for proper
+management and monitoring of export and import related information and transaction. Both
+Systems have been integrated with the ASYCUDA World System of Bangladesh Customs
+over time and relevant data exchange automatically.
+
+02. To bring conformity of online systems of both organizations, it has been decided
+that shipping information which are available in online system of Bangladesh Customs shall be
+treated as final for reporting in OEMS and OIMS. ADs shall check authenticity of the shipping
+information from online system of Bangladesh Customs before sending any correction request,
+if necessary, to Bangladesh Bank.
+03. The system as noted at para. 02 shall be applicable for export and import
+transactions executed through Customs Houses having online system.
+04. Paragraph 17 and 18 under Chapter 8 of the Guidelines for Foreign Exchange
+Transactions, 2018, Volume- 1 containing instructions regarding short shipment and shipment
+shut out shall be treated as replaced by the para. 02 and 03 above.
+Please bring the contents of this circular to the notice of your concerned customers.
+
+Yours faithfully,
+
+
+(Madhusudan Banik)
+General Manager
+Phone: 9530127

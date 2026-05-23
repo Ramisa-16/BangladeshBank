@@ -1,0 +1,60 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org.bd
+
+www.bangladeshbank.org.bd
+
+
+www.bb.org.bd
+
+
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka.
+
+March 29, 2010
+BRPD Circular No. 12 Date: -----------------------
+Chaitra 15, 1416
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+
+Dear Sir,
+
+Consolidation for investment in subsidiaries and implication of other
+Capital Market Exposures for the purpose of computing eligible Regulatory Capital
+
+
+Please refer to Section 3(c) of guidelines on ‘Risk Based Capital Adequacy for Banks
+(RBCA)’ adopted from January 01, 2010 vide BRPD Circular No. 20, dated: December 29, 2009. In
+addition to the Section 3(c) of RBCA guidelines banks are advised to pursue the following
+instructions when computing eligible Regulatory Capital and Capital Adequacy Ratio (CAR).
+
+In line with the recommendations of Basel II and with a view to the recent changes in the
+banking industry, banks having subsidiary company (ies) are advised to consolidate the subsidiary
+(ies) in line with the prevailing national accounting standards for the purpose of assessing Capital
+Adequacy. If consolidation is not done, investments in subsidiary (ies) will be deducted at 50% from
+Tier 1 and 50% from Tier 2 capital. The assets representing the investments in subsidiary companies
+whose capital had been deducted from that of the parent would not be included in total assets for the
+purposes of computing CAR.
+
+
+2. As per consolidated accounting Capital Market Exposures [Claims against investor account
+(Merchant banking)/margin account (Brokerage house) holder] will be assigned 125% risk weight for
+the purpose of computing CAR and these sort of claims will not be considered for Credit Risk
+Mitigation (CRM).
+
+3. Banks investments according to Section 26(2) of Bank Company Act, 1991 will not exceed
+the approved limit. If any breach of instruction under this Section found, additional amount of
+investment will be deducted at 50% from Tier 1 and 50% from Tier 2 capital.
+
+
+
+Please acknowledge receipt.
+Yours sincerely,
+
+
+(Md. Sohrawardy)
+General Manager
+Phone: 7117825

@@ -1,0 +1,683 @@
+--- Page 1 ---
+SFD Circular No: 06 Date:
+Managing Director/Chief Executive Officer
+All Scheduled Banks and Finance Companies operating in Bangladesh
+
+Dear Sir,
+Guideline on Sustainability and Climate-related Financial Disclosure.
+1. Your attention is drawn to BRPD Circular No. 02/2011, GBCSRD Circular No. 04/2013,
+SFD Circular No. 05/2020 and SFD Circular No. 03/2023 issued by Bangladesh Bank.
+
+2. Financial markets need clear, comprehensive, high-quality information on the impacts of climate
+change. This includes the risks and opportunities presented by rising temperatures, climate-related
+policy, and emerging technologies in our changing world. Sustainability reporting is becoming
+increasingly important for stakeholders, with many larger companies already adopting some form
+of sustainability reporting to accommodate the demands of their key stakeholders. Banks and
+finance companies were instructed to publish sustainability reporting following internationally
+accepted format like Global Reporting Initiatives (GRI) targeting their stakeholders through Green
+Banking Guideline in 2011. In 2020, Bangladesh Bank issued Sustainable Finance Policy (later
+updated in 2023) instructing banks and finance companies for publishing independent
+Sustainability Report as per the standard set by Bangladesh Bank.
+
+3. Evaluating the impact of environment friendly banking, green finance, climate finance, carbon
+finance, green bond and sustainable finance as a result of the activities of international standard
+setting bodies in the financial sector and to achieve the global targets set through the Paris
+Agreement and Sustainable Development Goals (SDGs); various action plans have been
+announced by the Government of Bangladesh namely Perspective Plan of Bangladesh 2021-2041,
+Eighth Five Year Plan, Intended Nationally Determined Contributions (INDCs), Bangladesh Delta
+Plan 2100, Mujib Climate Prosperity Plan 2022-2041 and National Adaptation Plan (2023-2050),
+etc. Considering the need for implementation of the aforementioned action plans and strategies,
+Government of Bangladesh made a commitment to reduce GHG emissions by 6.73% within 2030.
+Sustainability and Climate-related Financial Disclosure is indispensable to help facilitate the
+transition to a more sustainable, low-carbon economy.
+
+4. Guideline on Sustainability and Climate-related Financial Disclosure has been formulated on the
+basis of IFRS Sustainability Disclosure Standards incorporating TCFD Recommendations which is
+positioned as a set of requirements and accompanying guidance. This Guideline includes
+Objectives, Standards Used, Scope, Method of Disclosure, Disclosure requirements,
+Implementation pathway, Regulatory Reporting, Assurance, and Awareness and Capacity
+Building.
+
+5. Appendices to this circular shall be deemed to be an integral part of the circular. Reporting as per
+the attached template should be submitted to Sustainable Finance Department on semi-annual basis
+by the last working day of the following month.
+
+6. This Guideline is being issued in exercise of its power conferred on it under Section 45 of the Bank
+Companies Act, 1991 (amended up to 2023) and Section 41(2) of the Finance Company Act, 2023.
+
+7. This circular will come into force with immediate effect.
+Yours Faithfully,
+
+Attachment: As stated. (Chowdhury Liakat Ali)
+Director (SFD)
+Phone: 9530320
+
+Bangladesh Bank
+
+Website: www.bb.org.bd
+Head Office
+
+Dhaka
+Sustainable Finance Department
+
+
+26 December 2023
+11 ‡cŠl 1430
+
+--- Page 2 ---
+GUIDELINE ON SUSTAINABILITY AND
+CLIMATE-RELATED FINANCIAL DISCLOSURE
+for
+Banks and Finance Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bangladesh Bank
+Sustainable Finance Department
+
+
+
+
+December 2023
+
+--- Page 3 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+ii
+
+
+
+Team leader
+
+Chowdhury Liakat Ali
+Director (SFD), Bangladesh Bank
+
+Team Members
+
+Rabeya Khandaker
+Additional Director, Bangladesh Bank
+
+Ahmed Zubaer Mahbub
+Joint Director, Bangladesh Bank
+
+Shakhawat Hossan
+Joint Director, Bangladesh Bank
+
+Md. Abu Rayhan
+Joint Director, Bangladesh Bank
+
+Md. Kamrul Hasan
+Joint Director, Bangladesh Bank
+
+Aysha Sharmin Islam Asha
+Deputy Director, Bangladesh Bank
+
+--- Page 4 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+iii
+
+Preamble
+
+Climate change is one of the emerging issues and challenges for the mankind and Bangladesh
+has taken it with importance through its Government’s growth plan, its global commitment to
+sustainability and Bangladesh Bank’s strategic objectives. Bangladesh Bank has launched a
+comprehensive green banking initiative since 2011 to support and promote environmentally
+responsible financing; issuing guidance inter alia for environmental risk assessment of lending
+proposals and for greening of internal processes and practices within banks and finance
+companies and also instructed banks to publish sustainability reporting following
+internationally accepted format like Global Reporting Initiatives (GRI) targeting their
+stakeholders by December 2013.
+Bangladesh Bank has emerged as a leading central bank in promoting Green & Sustainable
+finance, actively addressing climate and sustainability risks, and seizing opportunities within
+the financial sector through strategic policy measures. Recognizing the significance of
+Sustainability reporting among stakeholders, investors and development partners, Bangladesh
+Bank has made the decision to introduce a policy for the financial sector, aligning with Task
+Force on Climate-related Financial Disclosures (TCFD) recommendations. The policy
+intends to guide Sustainability and Climate-related Financial Disclosures. TCFD, established
+by the Financial Stability Board (FSB) in 2015, aims to enhance and encourage the disclosure
+of financial information related to climate matters. The International Financial Reporting
+Standards (IFRS) Foundation has established International Sustainability Standards Board
+(ISSB) to address the urgent need for a single set of globally accepted sustainability reporting
+standards that are integrated, consistent and comparable with financial reporting standards.
+IFRS S1 and IFRS S2 are the first two IFRS Sustainability Disclosure Standards developed
+by the ISSB. The main objective of IFRS S1 is to disclose all information about
+sustainability-related risks and opportunities and IFRS S2 sets out disclosure requirements for
+climate-related financial risks and opportunities which fully incorporate the recommendations
+of the TCFD that could reasonably be expected to affect a company’s prospects.
+In line with the above, Bangladesh Bank is issuing guideline for banks and finance companies
+on disclosures for the sustainability and climate-related risks based on IFRS S1 and IFRS S2
+in phases starting from 2024. The Standards issued by the ISSB will help stakeholders to
+make better decisions with confidence. Bangladesh Bank has decided to implement IFRS S1
+and IFRS S2 in collaboration with Financial Reporting Council (FRC) of Bangladesh.
+It is also anticipated that, banks and finance companies will be passionate, proactive, and will
+focus on reporting and disclosure for the sustainability and climate-related risks with due
+consideration in a coordinated and collaborative manner in order to transform any
+potential challenges into opportunities.
+
+--- Page 5 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+iv
+
+
+Acknowledgment
+
+The formulation process of Guideline on Sustainability and Climate-related Financial
+Disclosure for Banks and Finance Companies is highly indebted to Sheikh Hasina,
+Honorable Prime Minister of the Government of the People’s Republic of Bangladesh
+for her vision and guidance towards sustainability. Honorable Governor of Bangladesh
+Bank has strong leadership over the financial sector sustainability which inspired the
+team for hunting the scopes for the participation of banks and finance companies on
+Sustainability and Climate-related Financial Disclosures. Bangladesh Bank is grateful
+to International Finance Corporation (IFC) for the technical assistance in formulating
+the guideline.
+
+The Guideline on Sustainability and Climate-related Financial Disclosure for Banks
+and Finance Companies has come into light with prudent reviews and guidance of
+respected Deputy Governor in charge of Sustainable Finance Department, Executive
+Director in charge of Sustainable Finance Department, Financial Reporting Council,
+and IFRS.
+
+--- Page 6 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+
+
+
+
+
+Table of Contents
+
+
+1.0 Introduction....................................................................................
+2.0 Objective......................................................................................... 2
+3.0 Standards used................................................................................ 2
+4.0 Scope..............................................................................................
+5.0 Method of Disclosure.....................................................................
+6.0 Disclosure requirements................................................................. 4
+6.1 Sustainability-related disclosures (IFRS S1).................................
+6.2 Climate-related disclosures (IFRS S2)........................................... 5
+7.0 Implementation pathway..................................................... ........... 7
+8.0 Regulatory Reporting.....................................................................
+9.0 Assurance........................................................................................ 8
+10.0 Awareness and Capacity Building................................................ 8
+11.0 Conclusion.................................................................................... 9
+
+--- Page 7 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+vi
+
+
+List of Abbreviations
+
+BB
+Bangladesh Bank
+BoD
+Board of Directors
+CDSB
+Climate Disclosure Standards Board
+COSO
+Committee of Sponsoring Organizations
+FERMA
+Federation of European Risk Management Associations
+FRC
+Financial Reporting Council
+FSB
+Financial Stability Board
+GHG
+Green House Gas
+GICS
+Global Industry Classification Standard
+GRI
+Global Reporting Initiatives
+IFRS
+International Financial Reporting Standards
+IOSCO
+International Organization of Securities Commissions
+ISSB
+International Sustainability Standards Board
+MANCOM
+Management Committee
+NDC
+Nationally Determined Contributions
+SASB
+Sustainability Accounting Standards Board
+SFU
+Sustainable Finance Unit
+TCFD
+Task Force on Climate-related Financial Disclosures
+VRF
+Value Reporting Foundation
+WBCSD
+World Business Council for Sustainable Development
+
+--- Page 8 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+1.0 Introduction
+Sustainability reporting is gaining importance among stakeholders, and numerous major
+companies have already embraced various forms of sustainability reporting to meet the
+expectations of their crucial stakeholders. One of the major challenges faced by investors and
+other stakeholders is the lack of access to high-quality and globally comparable sustainability
+information, in contrast to the readily available financial data. Recognizing the necessity of
+Sustainability Reporting, Bangladesh Bank (BB) as a pioneer financial regulatory body,
+instructed banks to publish sustainability reporting in 2011 through Green Banking Guideline
+following internationally accepted format like Global Reporting Initiatives (GRI) targeting
+their stakeholders by December 2013. Finance Companies were instructed similarly in 2013.
+Financial markets need clear, comprehensive, quality information on the impacts of climate
+change. These impacts include the risks and opportunities presented by rising temperatures,
+climate-related policy, and emerging technologies in our changing world. The Financial
+Stability Board (FSB) created the Task Force on Climate-related Financial Disclosures
+(TCFD) in 2015 to improve and increase reporting of climate-related financial information.
+BB is one of the front line leaders in implementing Green & Sustainable finance and
+addressing sustainability and climate-related risks and opportunities involving the financial
+sector of Bangladesh through policy measures. There is also the desires and expectations
+from the global investors and the development partners for sustainability and climate-related
+financial disclosures. Considering all the factors, BB decided to issue a guideline for the
+banking sector for their sustainability and climate-related Financial Disclosures following
+IFRS S1 & IFRS S2 which incorporates TCFD recommendations.
+The International Sustainability Standards Board (ISSB) was established by the International
+Financial Reporting Standards (IFRS) Foundation at COP26 with the aim of improving the
+consistency and quality of sustainability reporting across the globe, by matching the
+importance of sustainability reporting with the current regulations around financial reporting.
+The ISSB brings together the Climate Disclosure Standards Board (CDSB) and the Value
+Reporting Foundation (VRF), which comes from the Integrated Reporting Framework and
+the Sustainability Accounting Standards Board (SASB) Standards. This is recognized by the
+international community. The ISSB has international support and is backed by the G7,
+G20, the International Organization of Securities Commissions (IOSCO) and FSB, amongst
+others. The Standards issued by the ISSB will help combat the challenges of entity’s 'green
+washing' that assists stakeholders for taking decisions with confidence.
+Following the ISSB Standards—IFRS S1 and IFRS S2—the FSB has asked the IFRS
+Foundation to take over the monitoring of the progress on entity’s climate-related disclosures
+from TCFD. IFRS S2 fully incorporates the recommendations of the TCFD. Thereby the FSB
+noted that the Standards mark "the culmination of the work of the TCFD", which was
+established in 2017 at the request of the FSB. From 2024—as the ISSB Standards start being
+applied around the world—the IFRS Foundation will take over these responsibilities from the
+TCFD, which has been monitoring progress towards climate-related disclosures against the
+
+--- Page 9 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+recommendations since they were published. The ISSB is working to support effective
+implementation of IFRS S1 and IFRS S2, which provide for a global baseline of
+sustainability and climate-related disclosures worldwide, including capacity building and
+monitoring progress towards the broad use of high-quality disclosures. The two Standards are
+designed to be applied together.
+To attain both the objectives of the disclosures on Sustainability and Climate-related risks
+and opportunities, BB decided to implement IFRS S1 and IFRS S2 in coordination with
+Financial Reporting Council (FRC) of Bangladesh.
+
+2.0 Objective
+The Guideline is intended to encourage banks and finance companies to incorporate sound
+governance and risk management frameworks for sustainability and climate-related financial
+risks and opportunities within their existing risk management frameworks. This will enable
+them to better understand, identify, assess, monitor and mitigate these risks and provide
+guidance for sustainability and climate-related financial disclosures. The guideline is to
+solicit decision-useful, forward-looking information on financial impacts of the entity.
+
+The intended stakeholders for the reports are the primary users of general-purpose financial
+reports (annual report), i.e. existing and potential investors, lenders and other creditors
+including development partners.
+
+
+3.0 Standards used
+a) The Standards used in this guideline are IFRS S1 General Requirements for
+Disclosure of Sustainability-related Financial Information and IFRS S2 Climate-
+related Disclosures.
+b) The ISSB Sustainability Standards, notably IFRS S1, aim to capture the
+environmental and social dimensions of business practices. A social consideration
+includes, but is not limited to, diversity and inclusion, worker safety, occupational
+health and safety issues and product safety.
+c) IFRS S1adopts a four-pillar core content framework which requires a bank or finance
+company to provide disclosures about its approach to sustainability-related
+considerations through its governance, strategy, risk management and use of metrics
+and targets.
+d) IFRS S1 deals with general requirements for the disclosure of material information
+about significant sustainability-related risks and opportunities across a bank or finance
+company’s value chain.
+e) IFRS S2 deals with climate-related disclosures and builds on the four content areas.
+
+--- Page 10 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+f) IFRS S2 sets out disclosure requirements about climate-related risks and
+opportunities, transition plans and scenario analysis that will facilitate users assessing
+the impact of these risks and opportunities on the bank or finance company’s financial
+position, performance and cash flows and, strategy and business model.
+g) IFRS S1 is designed to be applied alongside future industry or topic specific standards
+with IFRS S2 that deals with climate, being the first such topic.
+h) These standards fully incorporate the TCFD Recommendations. By adopting IFRS S1
+and IFRS S2, Bangladesh Bank fully incorporates the TCFD Recommendations for
+the financial sector and goes beyond to implement the state-of-the-art reporting
+framework in sustainability-related financial disclosures.
+i) The Basel Committee on Banking Supervision has also coordinated with the IFRS
+Foundation to ensure alignment of its work. Implementing IFRS S1 and IFRS S2 also
+offers the additional benefit of aligning with Basel III.
+j) In line with these standards, the disclosures will be made in the banks and finance
+companies’ annual reports. The IFRS Sustainability Disclosure Standards will be
+referred as “Sustainability and Climate-related Financial Disclosures”.
+
+4.0 Scope
+a) The disclosure requirements will be for scheduled banks and finance companies of
+Bangladesh.
+b) Bangladesh Bank is keen to implement leading best practice and has indicated its
+preference to cover all sustainability topics in the reporting requirements. The need to
+avoid excessive burden on reporting entities, the guideline will be implemented in a
+phased approach. This approach will enable the eventual reporting on all
+sustainability-related financial risks and opportunities but will begin with a stronger
+focus on climate.
+c) The requirements set out a general requirement to consider all sustainability-related
+financial risks and opportunities, as well as the disclosure of climate-related financial
+risks and opportunities.
+
+
+5.0 Method of Disclosure
+a) The requirements directly refer to IFRS S1 General Requirements for Disclosure
+of Sustainability-related Financial Information and IFRS S2 Climate-related
+Disclosures.
+b) A regulatory template has been developed for the banks and finance companies
+based on the IFRS S1 and IFRS S2 standards for submitting the required
+information in a structured way.
+
+--- Page 11 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+c) A bank or finance company shall disclose information about sustainability-
+related financial risks and opportunities in its annual report that are useful to
+primary users of their general-purpose financial reports [annual reports] in
+making decisions relating to providing resources to the bank or finance company.
+d) A bank or finance company shall disclose information about climate-related
+financial risks and opportunities in its annual reports that are useful to primary
+users of their general-purpose financial reports [annual reports] in making
+decisions relating to providing resources to the bank or finance company.
+e) The first disclosure outlined above shall be reported in the bank or finance
+company’s annual report, for the financial year starting from January 2024.
+f) The disclosures shall be included as part of the management discussion and
+analysis in the front part or in a separate chapter of the annual report.
+g) Banks and finance companies may be exempted from disclosing any information
+in annual reports if it seems to be business sensitive and the information satisfies
+the criteria for sensitive information within IFRS S1 & IFRS S2 and shall inform
+Sustainable Finance Department, Bangladesh Bank before finalizing the annual
+reports.
+
+
+6.0 Disclosure requirements
+
+6.1 Sustainability-related disclosures (IFRS S1)
+Sustainability frames decisions regarding financial, environmental (including climate,
+biodiversity), social, and human effects ensuring resilience and long-term value creation1.
+Environmental, social, and governance risks and/or opportunities that may impact an entity
+are called sustainability, non-financial, or extra-financial risks2. Consequently, sustainability
+risk is an uncertain social or environmental event or condition that, if it occurs, can cause a
+significant negative impact on the entity. It also includes the opportunity that may be
+available to an entity because of changing social or environmental factors.3
+The Standard requires a bank or finance company to disclose information about all
+sustainability-related risks and opportunities that could reasonably be expected to affect the
+bank or finance company’s cash flows, its access to finance or cost of capital over the short,
+medium or long term. For the purposes of this Standard, these risks and opportunities are
+collectively referred to as ‘sustainability-related risks and opportunities that could reasonably
+be expected to affect the bank or finance company’s prospects.
+
+
+1 Federation of European Risk Management Associations (FERMA)
+2 WBC SD and COSO
+3 WBC SD and COSO
+
+--- Page 12 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+The reporting bank or finance company is required to disclose material information about all
+sustainability-related risks and opportunities to which it is exposed. The General
+Requirements Standard adopts a four-pillar core content framework which requires a bank or
+finance company to disclose governance, strategy, risk management as well as metrics and
+targets as follows:
+Content Pillar
+Description
+(a) Governance
+The governance processes, controls and procedures the bank or
+finance company uses to monitor and manage sustainability-
+related risks and opportunities.
+(b) Strategy
+The approach for addressing sustainability-related risks and
+opportunities that could affect the bank or finance company’s
+business model and strategy over the short, medium and long term.
+(c) Risk
+Management
+The processes, the bank or finance company uses to identify
+assess, priorities and monitor sustainability-related risks.
+(d) Metrics and
+targets
+Metrics and targets disclose a bank or a finance company’s
+performance in relation to its sustainability-related risks and
+opportunities, including progress towards any targets the entity has
+set, and any targets it is required to meet by law or regulation.
+
+Banks and finance companies are required to report all material information about
+“sustainability-related risks and opportunities”, which arise from a bank or finance company's
+dependencies on resources and its impacts on resources. Moreover, the disclosures are
+required to describe significant sustainability-related risks and opportunities that are
+concentrated in their “value chain.” i.e., the whole lifecycle of its products or services.
+
+6.2 Climate-related disclosures (IFRS S2)
+The climate-related risks and opportunities that could reasonably be expected to affect the
+bank or finance company’s cash flows, cost of capital and its prospects over the short,
+medium or long term are collectively referred to as ‘climate-related risks and opportunities’.
+The climate-related risks the bank or finance company is exposed to include, but are not
+restricted to, the physical risks from climate change and transition risks associated with
+moving to a lower-carbon economy. The climate-related opportunities available to the bank
+or finance company are also in scope. The Climate Standard is structured around the four
+content pillars of governance, strategy, risk management, and metrics and targets specified in
+the General Requirement Standard.
+A bank or finance company shall disclose information about its exposure to significant
+climate-related risks and opportunities, facilitating users to assess the impacts of these risks
+and opportunities on the bank or finance company’s financial position, performance and cash
+flows, enterprise value and strategy and business model.
+
+--- Page 13 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+An overview of the key disclosures required under four pillars is as follows:
+Content Pillar
+Description
+(a) Governance
+Bank or finance company is required to disclose information
+regarding:
+i) the responsibility of the board and a committee (consisting of board
+members) charged with oversight of climate-related risks and
+opportunities;
+ii) how the board and a committee (consisting of board members)
+ensures that the appropriate skills and competencies are available
+to oversee the strategies designed to respond to climate-related
+risks and opportunities; and
+iii) how the dedicated controls and procedures are applied to the
+management of climate-related risks and opportunities and
+integration with other internal functions.
+(b) Strategy
+Bank or finance company is required to disclose information
+regarding:
+i) the climate-related risks and opportunities that it could reasonably
+expect to affect its flows, its access to finance and its cost of capital
+(also referred to as the bank or finance company’s prospects), over
+the short, medium or long term;
+ii) the current and anticipated effects of climate-related risks and
+opportunities on its business model and value chain;
+iii) the effects of climate-related risks and opportunities on the Bank or
+finance company’s strategy and decision making including its
+climate-related transition plan;
+iv) The effects of climate-related risks and opportunities on the bank
+or finance company’s financial position, financial performance and
+cash flows; and
+v) the climate resilience of its strategy and its business model to
+significant physical and transition risks. This includes using
+climate-related scenario analysis to assess its climate resilience.
+The standard provides for Bank or finance company’s approach to
+scenario analysis to be determined in terms of its own skills,
+capabilities and resource availability.
+(c) Risk
+Management
+Bank or finance company shall disclose the processes it uses regarding:
+i) how to identify, assess and manage climate-related risks, and how
+the processes are integrated into the bank or finance company’s
+risk management framework;
+ii) how it assesses the likelihood and effects associated with such risks
+(such as the qualitative factors, quantitative thresholds and other
+criteria used);
+
+--- Page 14 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+Content Pillar
+Description
+iii) how it prioritises climate-related risks relative to other types of
+risks, including its use of risk assessment tools;
+iv) to identify, assess and prioritise climate-related opportunities; and
+v) to monitor and manage the climate-related risks and opportunities,
+including related policies.
+(d) Metrics and
+targets
+Bank or Finance Company shall disclose:
+i) metrics, including Scope 1, 2 and 3 emissions, and targets used to
+assess and manage climate-related risks and opportunities;
+ii) information relevant to cross-industry metric categories, industry
+base metrics and other metrics used by the board or management to
+measure progress towards targets;
+iii) targets set by the bank or finance company to mitigate or adapt to
+climate-related risks or maximize climate-related opportunities;
+iv) how the targets the bank or finance company has set to manage
+climate-related risks and opportunities compared with those created
+in the latest international agreement on climate change and whether
+it has been validated by a third party; and
+v) whether the bank or finance company intends to use carbon offsets4
+to achieve those targets.
+
+7.0 Implementation pathway
+
+
+
+The first year(s) of reporting will likely prove to be challenging for banks and finance
+companies, as they scale up their expertise and implement the right processes within their
+
+4 Scope 1 emissions are direct greenhouse gas emissions that occur from sources that are owned or controlled by a bank or finance
+company. Scope 2 emissions are indirect greenhouse gas emissions that occur from the generation of purchased electricity, heat or steam
+consumed by an entity. Scope 3 emissions are indirect emissions, outside of Scope 2 emissions, that occur in the value chain of the reporting
+bank or finance company, including both upstream and downstream emissions.
+
+--- Page 15 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+organisations. To accommodate the challenge and avoid excessive burden, the
+implementation pathway is designed in different phases. This implementation pathway would
+phase in the requirements gradually, over a period of 3 years.
+
+
+8.0 Regulatory Reporting
+
+a) Bank or finance company shall disclose sustainability-related financial risks and
+opportunities of its business using the template attached in Annexure 1.
+b) Bank or finance company shall disclose information regarding climate-related
+financial risks and opportunities of its business using the template attached in
+Annexure 1.
+c) Disclosures outlined in 9(a) and 9(b) shall be submitted to Bangladesh Bank on
+the semi-annual basis, no later than 31 January and 31 July, respectively.
+
+
+Banks and finance companies shall disclose information outlined above using IFRS S1-
+General Requirements for Disclosure of Sustainability-related Financial Information and
+IFRS S2- Climate-related Disclosures, as published by the ISSB of the IFRS Foundation and
+the Global GHG Accounting and Reporting Standard for the Financial Industry. Global
+Industry Classification Standard (GICS) or international best practices shall be followed for
+industry classification.
+
+
+9.0 Assurance
+Limited assurance of the reported information is required in the annual Report.
+
+
+10.0 Awareness and Capacity Building
+Awareness and Capacity Building for the disclosure of Sustainability and climate related
+financial risks and opportunities is a must for all concerns and needs to be ensured by the
+Sustainable Finance Unit (SFU) with the support from the competent authority
+(BoD/Regional Office or MANCOM of Foreign Commercial Bank). Banks and Finance
+Companies will arrange events/programs for BoD members, senior, mid and all management
+level executives/officials (head office, zonal/regional office, branches, units, Sustainable
+Finance Dedicated Help desks) separately. The banks and finance companies may arrange
+awareness raising events for the customers, entrepreneurs’ associations, suppliers and service
+providers. They will be encouraged for developing time bound action plan that addresses the
+implementation pathways.
+
+--- Page 16 ---
+Guideline on Sustainability and
+Climate-related Financial Disclosure
+for Banks and Finance Companies
+
+
+11.0 Conclusion
+
+The guideline is to require a bank or finance company to disclose information about its
+sustainability and climate-related risks and opportunities that is useful to the primary users of
+general-purpose financial reporting when they make decisions about providing resources to
+the bank or finance company. This will play a vital role in mobilizing private sector funds in
+the field of sustainability and climate financing. The guideline reiterates that sustainability
+and climate-related disclosures are an important element in the transition to a net-zero
+economy. Sectoral information of financed Green House Gases (GHGs) and the target for
+reduction will help government to achieve the Nationally Determined Contribution (NDC).
+Disclosure of sustainability and climate-related risks and opportunities are instrumental to
+ensure a better management of these forces and to scale up green and climate finance. The
+disclosure will enable market participants to identify and capitalise on sustainability and
+climate-related opportunities. Moreover, the disclosures require banks and finance companies
+to establish the necessary procedures, and build the necessary skills, to identify and manage
+sustainability and climate-related risks as internationally consistent disclosure is a key
+component in the collective efforts to improve the resilience of the financial system.

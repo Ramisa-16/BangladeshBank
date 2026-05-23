@@ -1,0 +1,1979 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাংক
+মতিঝিল, ঢাকা-১০০০
+বাংলাদেশ
+
+এসএমইএসপিডি সার্কুলার নং-০২
+
+ব্যবস্থাপনা পরিচালক/ প্রধান নির্বাহী কর্মকা
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক ও আর্থিক প্রতিষ্ঠান
+
+www.bb.org.bd
+
+এসএমই এন্ড স্পেশাল প্রোগ্রামস্‌ ডিপার্টমেন্ট
+ক্রেডিট গ্যারান্টি স্বীম ইউনিট
+
+১৭ মাঘ, ১৪২৭
+৩১ রী, ২০২১
+
+Manual of Credit Guarantee Scheme সংশোধন প্রসঙ্গে |
+
+শিরোনামোক্ত বিষয়ে ৩ নভেম্বর, ২০২০ তারিখের এসএমইএসপিডি সার্কুলার নং-০৪ এর প্রতি আপনাদের দৃষ্টি আকর্ষণ করা যাচ্ছে।
+
+২. উক্ত সার্ুুলরের মাধ্যমে ব্যাংক ও আর্থিক প্রতিষ্ঠানসমূহের অনুসরণের নিমিত্তে “Manual of Credit Guarantee Scheme”
+
+জারি করা হয়। ক্রেডিট গ্যারান্টি রেজিস্ট্রেশন আবেদন সহজীকরণের লক্ষ্যে এ পর্যায়ে “Manual of Credit Guarantee
+
+Scheme” এর 2.1.2. অনুচ্ছেদের প্রথম প্যারা নিম্নরূপভাবে প্রতিস্থাপন করা হলো:
+
+2.1.2. অনুচ্ছেদের বিদ্যমান প্রথম প্যারা
+
+2.1.2. অনুচ্ছেদের প্রতিস্থাপিত প্রথম প্যারা
+
+2.1.2. Guarantee Portfolio Cap
+
+The CGS Unit will bear loss up to 30% of the
+portfolio guarantee limit of any PFI in the event of
+default, which will
+Portfolio Cap’. The maximum claim amount of a
+PFI will be accepted by the CGS Unit within the
+guarantee portfolio cap of the concerned PFI. The
+Guarantee Portfolio Cap will be considered for the
+year of guarantee registration, not for the year of
+claim of that guarantee.
+
+be termed as ‘Guarantee
+
+2.1.2. Guarantee Portfolio Cap
+
+The CGS Unit will bear loss up to 30% of the
+portfolio guarantee limit of any PFI in the event
+of default, which will be termed as ‘Guarantee
+Portfolio Cap’. The maximum claim amount of a
+PFI will be accepted by the CGS Unit within the
+guarantee portfolio cap of the concerned PFI.
+The Guarantee Portfolio Cap will be considered
+for the year of Portfolio Guarantee Limit of a PFI.
+
+©. Manual of Credit Guarantee Scheme এর অন্যান্য নির্দেশনা অপরিবর্তিত থাকবে |
+
+৪. বর্ণিত সংশোধনী ০৩-১১-২০২০ তারিখ হতে কার্যকর বলে গণ্য ACT |
+
+আপনাদের বিশ্বস্ত,
+
+(এসএম মোহসীন হোসেন)
+মহাব্যবস্থাপক
+ফোনঃ ৯৫৩০২২১
+
+--- Page 2 ---
+Manual of Credit Guarantee Scheme
+[For Cottage, Micro and Small Enterprises (CMSE)]
+
+(Amended up to January 31, 2021)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit Guarantee Scheme Unit
+SME and Special Programmes Department
+Bangladesh Bank
+
+--- Page 3 ---
+Contents
+
+Definitions and Acronyms ………………………………………………………………... ii
+Chapter 1. Introduction ........................................................................................................ 1
+Chapter 2. Design of the Credit Guarantee Scheme .......................................................... 2
+2.1
+Portfolio Guarantee (PG) ............................................................................................ 2
+2.2
+Portfolio Coverage Duration ....................................................................................... 3
+Chapter 3. CGS Collateral Policy ........................................................................................ 4
+Chapter 4. Guarantee Fees and Interest/Profit Rate ......................................................... 5
+4.1
+General ........................................................................................................................ 5
+4.2
+Administration of Guarantee Fees............................................................................... 5
+Chapter 5. Eligibility Criteria .............................................................................................. 6
+5.1
+Loan/Investment Products to be Covered under the CGS........................................... 6
+5.2
+Ineligible Business Activities ...................................................................................... 6
+5.3
+Eligibility of CMSEs for CGS .................................................................................... 6
+5.4
+Ineligibility of CMSEs for CGS .................................................................................. 7
+5.5
+Eligibility Criteria for Enlisting PFI ........................................................................... 8
+Chapter 6. Guarantee Application ...................................................................................... 9
+6.1
+Application Procedure ................................................................................................. 9
+6.2
+Appraisal and Approval .............................................................................................. 9
+Chapter 7. Invocation of Guarantee .................................................................................. 11
+7.1
+Monitoring, Delinquency, Default and Renewal/Rescheduling/Restructuring ......... 11
+7.2
+Claims under Guarantee ............................................................................................ 12
+7.3
+Claims Validation ...................................................................................................... 13
+7.4
+Settlement of Claims under Guarantee...................................................................... 13
+7.5
+Debt Collection Procedure ........................................................................................ 14
+7.6
+Proceeds of Recovery ................................................................................................ 14
+7.7
+Final Settlement......................................................................................................... 15
+Chapter 8. Reporting Requirements ................................................................................. 16
+Annexure (1-9).……...………………………………………………………………...…17-35
+
+--- Page 4 ---
+ii
+
+Definitions and Acronyms
+Annual Guarantee Fee
+The fee that a PFI has to pay to CGS Unit on total outstanding
+principal of guaranteed credit for each year.
+Bank
+Bank means the banking company as defined in section 31 of Bank
+company Act, 1991.
+BDT
+Bangladeshi Taka.
+BRPD
+Banking Regulation and Policy Department of Bangladesh Bank.
+Capital
+The fund or commitment of Government of Bangladesh and/or
+Bangladesh Bank available to secure credit guarantees.
+CGS
+The Credit Guarantee Scheme.
+CGS Unit
+Credit Guarantee Scheme Unit of Bangladesh Bank.
+Cheque
+‘Cheque’ is a bill of exchange as defined in Negotiable Instrument Act
+1881.
+CIB
+Credit Information Bureau of Bangladesh Bank.
+CMSE
+Cottage, Micro and Small Enterprise.
+Collateral
+Fixed assets, assignment of insurance policy, patent, trademark, other
+right or property of the CMSE that is/are deposited with PFI against
+CMSE’s credit obligations.
+DFIM
+Department of Financial Institutions and Markets of Bangladesh Bank.
+Due Diligence
+A process of the careful and persistent effort carried out to collect
+relevant information by PFI in respect of CMSE.
+Event of Default
+As per the circular issued by BRPD and DFIM of Bangladesh Bank on
+the classification of loan/investment and provisioning and any of the
+subsequent amendments of those circulars.
+FI
+A Non-Bank Financial Institution that has a license under the Financial
+Institutions Act-1993 from Bangladesh Bank.
+Grace Period or
+Moratorium
+Time period allowed for making the borrower affordable to repay the
+due installment(s).
+Guarantee Coverage
+The proportion of the principal amount of any individual
+loan/investment, which is guaranteed by the CGS Unit.
+Guarantee Portfolio
+Cap
+The maximum amount of the Portfolio Guarantee Limit that can be
+claimed by a PFI in the event of default.
+Investment
+Financing by the PFI as per Islamic Shariah.
+Loan/Investment
+Portfolio
+The total amount of CMSE loans/investments of a PFI in a calendar
+year.
+Participation
+Agreement
+A legal agreement between the CGS Unit and the PFI for availing
+guarantee facilities.
+PFI
+Participating Financial Institution (Bank/FI).
+Portfolio Guarantee
+Limit
+The total amount of loans/investments approved by the CGS Unit.
+Pay Order
+‘Pay Order’ is a bill of exchange as defined in Negotiable Instrument
+Act 1881.
+SMESPD
+SME & Special Programmes Department of Bangladesh Bank.
+
+--- Page 5 ---
+Chapter 1.
+Introduction
+
+Cottage, Micro & Small Enterprises (CMSEs) can play a significant role in the inclusive
+and sustainable growth of the economy. It is essential to reveal the full potential of the CMSEs
+in the country through effective financing. A lot of CMSEs are deprived of institutional
+financing due to lack of collateral. Even though banks and FIs ensure that the business cash flow
+is sufficient to serve the loan/investment, they prefer to have additional security to mitigate the
+risk of default. There is a strong demand from both sides of the lenders and borrowers for a risk-
+sharing facility, which can be used as collateral. Credit guarantee can be an important tool to
+encourage lending to the potential CMSEs with no/insufficient collateral. The Government of
+Bangladesh has taken the initiative to provide a portfolio guarantee through the Credit Guarantee
+Scheme (CGS) Unit of Bangladesh Bank to encourage banks and FIs to lend those CMSEs. The
+main objective of the scheme is to assist CMSEs with no/insufficient collateral to obtain credit
+facilities from banks and FIs through guarantee. The CGS aims to extend the sustainable growth
+of the economy by sharing the risk of the potential CMSEs that are otherwise creditworthy but
+do not have collateral for access to finance.
+The CGS has been designed as a partial guarantee of credit portfolio on CMSE. In this
+process, the CGS Unit and Participating Financial Institutions (PFIs) will share risks on
+loan/investment as an agreed ratio. There is also a safety feature limiting the CGS’ contingent
+liability, reducing the moral hazard and enabling more efficient use of the CGS Capital. Banks
+and FIs may participate in this program by fulfilling some predetermined criteria. The PFI will
+have to sign a Participation Agreement with the CGS Unit before submitting loan/investment
+applications for guarantee coverage. There will be no interaction between the CMSE(s) and the
+CGS Unit other than through the PFI(s).
+
+
+
+
+CGS Unit
+
+PFI
+
+
+CMSE
+
+
+Portfolio
+Guarantee
+
+
+
+Fees
+Loans/Investment
+
+
+
+Repayments
+
+--- Page 6 ---
+Chapter 2.
+Design of the Credit Guarantee Scheme
+
+2.1 Portfolio Guarantee (PG)
+To leverage the funds available and to reduce the
+potential moral hazard, three limits will be set on the
+portfolio of loans/investments of a PFI on CMSEs. The three
+limits are Portfolio Guarantee Limit, Guarantee Portfolio
+Cap, and Loan/Investment Guarantee Coverage Ratio. These
+limits will encourage lending to special priority groups.
+Although the CGS covers most of the risk, these limits will
+ensure careful assessment and adequate monitoring of the
+loans/investments by the PFIs since they have enough stakes
+in those loans/investments. PFIs will also conduct sufficient
+due diligence in assessing every loan/investment before
+approval.
+2.1.1. Portfolio Guarantee Limit (PGL)
+The Portfolio Guarantee Limit is the amount of loans/investments approved by the CGS
+Unit. The portfolio guarantee limit will be determined each year with each PFI. This guarantee
+limit may be changed/varied due to availability of funds, the performance of the PFI, and overall
+level of guarantee outstanding and demand from other PFIs.
+The CGS Unit preserve discretionary authority to set the Portfolio Guarantee Limit based
+on the review of PFIs’ financial condition, track record, and desire in expanding the CMSE
+lending operations, outreach capacity, including branches, units, mobile & agent banking
+platforms, and other considerations.
+If the PFI is not able to disburse the full amount of money approved by the CGS Unit
+within the targeted period, then this unutilized amount of the limit i.e. this unused limit will be
+repealed and the guarantee fee already paid against this unused portion will also be forfeited.
+Therefore, the PFIs might be realistic in determining their Portfolio Guarantee Limits.
+The CGS Unit of Bangladesh Bank holds the right to issue instructions on revision of
+portfolio guarantee limit and it’s fee based on special circumstances (if any).
+2.1.2. Guarantee Portfolio Cap
+The CGS Unit will bear loss up to 30% of the portfolio guarantee limit of any PFI in the
+event of default, which will be termed as ‘Guarantee Portfolio Cap’. The maximum claim
+amount of a PFI will be accepted by the CGS Unit within the guarantee portfolio cap of the
+concerned PFI. The Guarantee Portfolio Cap will be considered for the year of Portfolio
+Guarantee Limit of a PFI.
+
+--- Page 7 ---
+If a PFI fails to utilize the whole Portfolio Guarantee Limit of a calendar year, then the
+Guarantee Portfolio Cap will also be adjusted with the utilized portion of that particular
+Portfolio Guarantee Limit.
+An example of the Portfolio Cap is as follows:
+If a PFI has a Portfolio Guarantee Limit of BDT 1,00,00,000, in the event of default the
+maximum amount of claim of that PFI will be (BDT 1,00,00,000 x 30%) = BDT 30,00,000, only
+which is the guarantee portfolio cap. If at the end of the year, the PFI utilizes BDT 80,00,000 of
+the limit, then the adjusted guarantee portfolio cap will be BDT 80,00,000 x 30%= BDT
+24,00,000.
+2.1.3. Loan/Investment Guarantee Coverage Ratio
+The CGS is intended to be a risk-sharing facility. Therefore, it covers a portion of the
+uncovered risk on the loan/investment principal rather than the entire loan/investment principal.
+A Guarantee Coverage Ratio will be maximum 80% of the loan principal, which means, in a
+single loan case within the Portfolio Guarantee Limit will be covered up to 80% of the principal
+outstanding; provided that total claims of a PFI must not exceed the guarantee portfolio cap or
+adjusted guarantee portfolio cap.
+The guarantee will cover only the outstanding of principal amount of the
+loans/investments. For example, if the principal outstanding of a loan/investment is BDT
+5,00,000 at the time of default, the PFI can recover (through the guarantee) a maximum of BDT
+4,00,000 against that loan/investment if coverage ratio is 80%. The remaining risk of BDT
+1,00,000 (20% of the outstanding loan/investment amount) will be borne by the PFI.
+The loan/investment guarantee coverage ratio may be increased or decreased based on
+the dimension of focus on the type of business, segment or sector by the CGS Unit as part of
+regulatory authority.
+2.2 Portfolio Coverage Duration
+Every year there will be a new Portfolio Guarantee Limit for each PFI that will protect
+loans/investments for its’ entire duration. For example, if a five-year loan/investment and its’
+corresponding guarantee is approved on the last day of the particular year, i.e., 31 December
+2020, it will essentially be covered until it is fully paid off. Therefore, the Guarantee Portfolio
+may remain valid up to the last day of the fifth year from the date of approval of that particular
+year. If a loan/investment is for one year, then the guarantee will not remain valid after one year
+from the date of approval. If a grace period or moratorium is given, then that will also be
+considered. If a loan/investment is repaid, the guarantee coverage on that loan/investment will
+be terminated. The fund allocated for that loan/investment will be treated as released.
+The duration of the guarantee for a continuous loan will be one year. For term
+loan/investment, the duration of the guarantee will be same as the tenure of the initial investment
+but not exceed five years. In case of renewal/rescheduling/restructuring of a loan/investment, the
+duration of the guarantee will be enhanced accordingly, subject to the prior approval of the CGS
+Unit. In this case, the PFI must pay guarantee fee for the extended period.
+
+--- Page 8 ---
+Chapter 3.
+CGS Collateral Policy
+
+Collateral shortfall refers to the case where the potential borrower has lack of property
+for mortgage against loan/investment. The collateral shortfall will be justified by the PFI as per
+their loan/investment policy. The CGS Unit will step in to support CMSE through bridging the
+gap.
+The valuation of collateral will be determined in line with the credit policy of the
+concerned PFIs. In preparing credit policy, the concerned PFIs must follow the guidelines issued
+by the Bangladesh Bank from time to time. The PFIs have to follow BRPD Circular No. 14 of
+23 September 2012 and SMESPD Circular No. 2 of 05 September 2019 (including any
+subsequent amendments of these Circulars).
+Once security (ies) has accepted/considered against any loan/investment approval
+process, then the PFI will have not the right to release such security/securities without prior
+approval of the CGS Unit.
+
+--- Page 9 ---
+Chapter 4.
+Guarantee Fees and Interest/Profit Rate
+
+4.1 General
+4.1.1. The PFIs will have to pay guarantee fees under the participation agreement with the CGS
+Unit on annual basis. The guarantee fees may be recovered from the borrowers. The
+CGS Unit of Bangladesh Bank will provide necessary instructions through circular about
+the rate of guarantee fees and calculation mechanism.
+4.1.2. The Guarantee Fees will be paid by the PFIs within Fifteen (15) working days from the
+date of signing of the participation agreement but in the case of special circumstances
+like COVID-19 the Guarantee Fee can be paid at the date of registration of the guarantee.
+For the subsequent years, guarantee fees will have to be paid within 30 (thirty) days after
+the preceding year immediately passed.
+4.1.3. The interest/profit rate of the guaranteed loan/investment must not exceed the approved
+limit by the competent authority from time to time. Existing instruction regarding the
+determination of interest/profit rate and any future instruction to be circulated by the
+concerned department(s) of Bangladesh Bank will also be applicable in this regard.
+4.1.4. Any interest/profit rate cap under refinancing scheme offered by Bangladesh Bank will
+be applicable for CGS guaranteed loan/investment.
+4.2 Administration of Guarantee Fees
+4.2.1. The PFIs have to submit a statement (as per Annexure: 5) within 7 (seven) working days
+at the outset of each calendar year.
+4.2.2. The CGS Unit will review and examine the correctness of information with the earlier
+statements.
+4.2.3. The CGS Unit will verify the calculation of the guarantee fees.
+4.2.4. The PFI will make payment of guarantee fees by Account Payee Cheque/Pay
+Order/Demand Draft in favour of the “CGS Unit” within the stipulated period/time
+determined by the CGS Unit.
+4.2.5. If any PFI fails to pay guarantee fees within the stipulated period/time, the CGS Unit of
+Bangladesh Bank can recover it by debiting the respective PFI’s current account
+maintained with Bangladesh Bank.
+
+--- Page 10 ---
+Chapter 5.
+Eligibility Criteria
+
+5.1 Loan/Investment Products to be Covered under the CGS
+5.1.1. Term loan/investment for acquiring fixed assets and working capital loan/investment for
+operation of the industries/business will be considered under CGS. However, the purpose
+of loan/investment may be restricted/redefined by the CGS Unit of Bangladesh Bank
+through circular/circular letter.
+5.1.2. Instruction regarding the minimum and maximum size of the loan/investment in CMSE
+sector will be informed in due course by the CGS Unit if and when necessary.
+5.1.3. The tenure of loan/investment will be fixed as per loan/investment category mentioned in
+para 2.2 of this Manual.
+5.1.4. The approval of the grace period for repayment of loan/investment may be allowed at the
+discretion of the PFIs. Any enhanced loan/investment to existing borrower for expanding
+business operations will be qualified for CGS support. The PFIs will need to submit
+necessary certificates to CGS Unit for ensuring settlement of earlier obligation by the
+borrower. Guarantee against enhanced loan/investment may be allowed under CGS if it
+is really required for the business. The CGS facility will be used for supporting existing
+entrepreneur for enhanced requirements and also for supporting the new entrepreneur.
+Guarantee fee will be charged on the whole principal amount of loan/investment
+(collateral free) of the borrower.
+5.2 Ineligible Business Activities
+5.2.1. Manufacturing and/or selling of ammunition articles or services.
+5.2.2. Illegal business as per declaration by any Government Agency/Authority.
+5.2.3. Socially and ethically damaging projects, like
+Gambling
+Drugs
+Tobacco
+Alcoholic drinks
+5.2.4. Business which have already been declared as ineligible from any other scheme of the
+government /Bangladesh Bank
+5.2.5. Any other product/service/business declared/to be declared as illegal by any Government
+Agency/Authority from time to time.
+5.3 Eligibility of CMSEs for CGS
+5.3.1. This guarantee scheme will cover potential CMSEs with viable business expansion plans
+which is suffering from lack of collateral. Women-owned CMSEs will get priorities to
+obtain such facility.
+5.3.2. Existing cottage, micro, and small businesses in the manufacturing, service, and trading
+business (which is defined by Bangladesh Bank through SMESPD Circular No. 2 dated
+05 September 2019, and any subsequent amendments) can avail guarantee facilities if
+
+--- Page 11 ---
+they have no collateral or insufficient collateral for their required bank finance. In case of
+insufficient collateral, CGS Unit will provide guarantee for uncovered portion at
+coverage ratio.
+5.3.3. A business that has been operating without making any losses for last one year.
+5.3.4. In case of term loan/investment, the borrower must contribute at least 20% of the total
+project cost as equity capital (without the value of land), which is to be determined at the
+time of processing of the loan/investment, i.e., if the CMSE wants to borrow BDT
+500,000 from the PFI, their project cost must be at least BDT 625,000 out of which BDT
+125,000 must be borne by the owner of the CMSE. Before making disbursement of
+loan/investment, the PFI has to ensure that 20% of the equity of the CMSE has been
+invested in the project by the owner.
+5.3.5. CMSE will have a business plan and cash flow statement with a view to showing a
+repayment capacity.
+5.3.6. For any loan/investment exceeding BDT 10,00,000, the company/enterprise must have
+financial statements (Balance sheet/Income statement, Cash flow statement). Financial
+statements must be prepared based on documentary evidence such as bank statements
+and/or ledgers/sales and purchase records, etc. If financial statements are not available
+for any loan/investment proposals, PFIs can process that loan/investment proposal on the
+basis of Bank statements and other surrogate parameters as per PFIs’ credit policy. PFI
+may undertake capacity building programs for such borrowers in the area of business
+management, book-keeping, and financial management. Existing borrower who has
+already loan outstanding of more than BDT 50,00,000, audited financial statement is
+must for getting new loan.
+5.3.7. The enterprise must be owned by Bangladeshi nationals.
+5.3.8. Borrower must be regulars per CIB report.
+5.3.9. The business of the enterprise/borrower must be compliant with the Environmental Risk
+Management Guidelines issued by Bangladesh Bank from time to time.
+5.4 Ineligibility of CMSEs for CGS
+5.4.1. Defaulted borrower/enterprise as per CIB report;
+5.4.2. Any loan/investment under existing portfolio where adequate collateral are exists as per
+PFIs’ policies.
+5.4.3. Any loan/investment is disbursed which is not in compliance with the prudential
+regulations/guidelines of Bangladesh Bank.
+5.4.4. Real-estate development companies and projects.
+5.4.5. Currency or securities trading.
+5.4.6. Consumer lending.
+5.4.7. A CMSE which is already enrolled under the CGS through any PFI.
+5.4.8. The borrower who failed to repay outstanding loan/Investment once and PFI submitted
+claim against that loan/investment, will not be eligible for further CGS support.
+
+--- Page 12 ---
+5.5 Eligibility Criteria for Enlisting PFI
+5.5.1. Bank and FI duly established under the Bank Company Act, 1991 and Financial
+Institutions Act, 1993 respectively.
+5.5.2. Bank/FI that can undertake capacity building programs for borrowers in business
+management, book-keeping, and financial management will be given priority.
+5.5.3. PFI must be compliant with the prudential regulations issued by Bangladesh Bank from
+time to time.
+5.5.4. The percentage of classification of loan/investment must be within 10% as on 31
+December of any particular year. The classification rate may be relaxed or stringent, if
+BB deems fit.
+5.5.5. Minimum three years experience of CMSE loan/investment is required.
+
+--- Page 13 ---
+Chapter 6.
+Guarantee Application
+
+6.1 Application Procedure
+6.1.1. It is the sole responsibility of the PFI to estimate a portfolio limit for the subsequent year
+based on their previous experience and demand for collateral-free loan/investment of the
+preceding year.
+6.1.2. The PFIs must inform the CGS Unit about their estimated target of the portfolio limit.
+The CGS Unit reserves the right to set the portfolio guarantee limit upon discussions
+with the PFIs and considering the anticipated volumes and amount of CMSE
+loans/investments for the upcoming year. After setting the portfolio guarantee limit, a
+participation agreement between the CGS Unit and PFI will be signed as per Annexure:
+9 of this Manual. Each PFI’s Portfolio Guarantee Limit will be set for every year.
+6.1.3. After getting a loan/investment proposal from CMSE along with a declaration from the
+CMSE owner(s), partner(s) and shareholder(s) that they are not enjoying/did not apply
+for CGS facilities through any other PFI, the PFI will have to review the proposal
+meticulously as per their credit policy and ensure due diligence and documentation
+(minimum requirements as per Annexure: 2). If found eligible in line with CGS criteria,
+the PFI will apply to CGS Unit through Annexure: 1 of this Manual.
+6.1.4. The involvement of the CGS unit with the CMSE will be limited to confirm that the
+loan/investment application submitted by the CMSE meets all the relevant eligibility
+criteria of CGS and ensuring that the loan/investment is within the agreed portfolio
+guarantee limit.
+6.1.5. The CMSEs cannot apply for a guarantee directly to the CGS Unit. All loans/investments
+will be originated at the end of the PFI. The PFI is solely authorized for assessing the
+loan/investment application. Approval or declining decision has to be taken based on
+their loan/investment policies formulated based on prudential regulations of Bangladesh
+Bank. To avoid possible moral hazard about this facility, PFI should take necessary
+precautionary measures.
+6.2 Appraisal and Approval
+6.2.1. The PFI has to appraise the loan/investment with a view to determining the viability of
+the project in all aspects in accordance with the PFIs’ loan/investment policies and
+internal loan/investment assessment procedures.
+6.2.2. The PFI may apply for registration with CGS Unit if it (the PFI) confirms that the
+loan/investment proposal is sound and worthy of financing.
+6.2.3. Upon acceptance of the credit guarantee application by the CGS Unit, it will be
+registered in the guarantee book, and the concerned PFI will be informed at the earliest.
+6.2.4. After confirming CGS registration, the PFI will complete documentation with due
+diligence and give final approval of loan/investment to borrower CMSE within 15
+
+--- Page 14 ---
+10
+
+(fifteen) working days. As per approval, PFI will issue sanction letter and disburse
+accordingly.
+6.2.5. After CGS registration, any terms and conditions of the loan/investment cannot be
+changed without prior concurrence of the CGS Unit.
+6.2.6. For any special circumstances, the CGS Unit of Bangladesh Bank may issue instructions
+to PFI.
+6.2.7. In case of any dispute arises, the decision of the CGS Unit of Bangladesh Bank will
+stand final.
+
+--- Page 15 ---
+11
+
+Chapter 7.
+
+Invocation of Guarantee
+
+
+The CGS Unit reserves the right to inspect the transactions under this guarantee, at any
+time, and conduct further investigation if required. All claims of PFIs under CGS must be
+submitted in writing. Claims under CGS will be settled upon confirming that all terms and
+conditions laid down in registration documents have been complied.
+7.1 Monitoring, Delinquency, Default and Renewal/Rescheduling/ Restructuring
+7.1.1. The PFIs must monitor all loans/investments under the CGS facility as per their
+monitoring policies. All documents in relation to monitoring must be kept as evidence.
+Efforts exerted to recovering loan/investment will be treated as proof.
+7.1.2. Loans/investments under the CGS facility will be classified as per the existing
+classification policy of Bangladesh Bank (i.e., policies issued by Banking Regulations
+and Policy Department and Department of Financial Institutions and Markets,
+respectively).
+7.1.3. PFI will not require keeping any specific provisions against classified loan/investment up
+to the amount of guarantee cap of the corresponding portfolio guarantee limit for the
+guarantee period of the loan.
+7.1.4. The CMSEs will be given the opportunity for renewal/rescheduling/ restructuring of the
+loan/investment as per the existing policy of Bangladesh Bank.
+
+--- Page 16 ---
+12
+
+7.2 Claims under Guarantee
+7.2.1. The PFI will apply for guarantee claim only when any loan/investment will be classified
+as Bad & Loss (B/L date has to be mentioned in the claim application) after giving
+facilities to the borrower mentioned in para 7.1.2 and 7.1.4.
+7.2.2. Before submitting guarantee claim, it must be ensured that the borrower has been given
+the opportunity of renewal/rescheduling/restructuring as per the existing policy.
+7.2.3. The PFI must inform the borrower in writing about legal steps to be taken for being
+defaulted.
+7.2.4. If an asset is pledged/mortgaged to secure the loan, the PFI must begin legal proceedings
+to liquidate the asset to recover the debt. Proceeding must be taken in accordance with
+the relevant Act1 before claiming guarantee payment.
+7.2.5. If any amount of loan/investment is realized from selling of security then the amount
+must be adjusted with the principal outstanding first.
+7.2.6. The PFI will compute the overdue principal amount of loan/investment as on date of
+default as Bad & Loss after rescheduling as per the guideline based on the following
+criteria:
+a. The principal amount recovered from installments before default of the
+loan/investment will be subtracted from the approved and/or disbursed
+loan/investment amount;
+b. Any principal amount recovered after defaulting the loan/investment will be
+subtracted from the guarantee coverage of CGS;
+c. The amount recovered under serial no. 7.2.6(a) & 7.2.6(b) will be deducted from the
+Guarantee Coverage amount.
+7.2.7. The claim amount must not exceed the guaranteed portion of the principal amount.
+7.2.8. The summation of all valid claims must not exceed the guarantee cap of each PFI in the
+respective year.
+7.2.9. The PFI will prepare each guarantee claim individually. Any interest and other expenses
+will not be included in the guarantee claim.
+7.2.10. All loan/investment documents including guarantee application, checklists, credit
+agreement and pledge documents (if applicable), any outside guarantees (personal and
+third party), CIB report, financial statements, credit analysis documents, DP Notes, and
+other credit assessment documents, documents in relation to suit (if any), any repayment
+correspondence with the borrower and other relevant documents (if any) must be
+preserved with them up to the period as per the concerned laws and/or credit policy of
+the respective PFI.
+
+1 The Money Loan Court Act 2003 and any subsequent amendments or an updated version of the act that may be issued by the
+respective authority.
+
+--- Page 17 ---
+13
+
+7.3 Claims Validation
+7.3.1. Along with the claim application as per Annexure: 4, the PFI must submit the following
+documents for the verification of the CGS Unit:
+A detailed explanation of due diligence of loan recovery attempts with a list of
+concerned documents.
+The sanction letter along with a copy of loan/investment contract (if any) between
+the PFI and the borrower.
+Copy of the account statement of the borrower.
+Copy of the guarantee application, including all undertakings and checklists as per
+Annexure: 1 & 2.
+Documents related with renewal/reschedule/restructure of the loan/investment or
+certification by the PFI in respect of non-willingness of the borrower
+Any other documents deemed appropriate by the PFI to justify the claim.
+7.3.2. The CGS Unit will verify that no terms & conditions of the guarantee agreement has
+been violated.
+7.3.3. The CGS Unit will have to ensure that the PFI has paid all the relevant guarantee fees.
+7.3.4. The CGS Unit will have to ensure that the loan has not been disbursed before approval of
+the guarantee. For any specific circumstances/scheme, Bangladesh Bank may issue
+special instruction in this regard.
+7.3.5. The CGS Unit will have to ensure that the PFI has allowed the borrower to
+renewal/reschedule/restructure the loan/investment as per the policy of Bangladesh
+Bank.
+7.3.6. The CGS Unit will verify the date on which the loan/investment is treated/fall on as Bad
+& Loss.
+7.3.7. All claims will have to be checked with a view to ensuring that PFI has adhered to all
+procedures and criteria.
+7.3.8. The CGS Unit will have to ensure whether the claim is submitted legally as per the
+Money Loan Court Act 2003 or other related Act. If submission of any court case is not
+viable due to cost effective analysis, PFI will have to justify the causes in writing. In
+such a situation, the CGS Unit will take the necessary steps as per the direction of the
+competent authority.
+7.4 Settlement of Claims under Guarantee
+7.4.1. The PFI must take actions under Money Loan Court Act 2003 or other related Act and
+must complete the process of legal proceedings for selling securities to recover the debt
+before the payment of guarantee. If it is not feasible, the PFI must justify why it is not
+possible to recover the loan in writing to the CGS Unit along with the claim. To write-off
+any guaranteed loan/investment, the PFI must follow the respective policy of Bangladesh
+
+--- Page 18 ---
+14
+
+Bank and inform the CGS Unit accordingly. Besides, the CGS Unit will take necessary
+steps as per the direction of the competent authority.
+7.4.2. The CGS Unit will examine and confirm the claim’s amount of outstanding guaranteed
+principal.
+7.4.3. The PFI will be provided with written notification (approved or declined) of the claim. In
+the approval letter, the PFI will be notified that they are required to take all necessary
+steps to recover the defaulted loan/investment. Any amount recovered must be informed
+to the CGS Unit and will be distributed as per conditions mentioned in para 7.6 of this
+chapter. It is the contractual responsibility of the PFI to follow up the recovery of
+defaulted loan/investment and to report to the CGS Unit on quarterly basis about
+recovery updates. The quarterly report contains the status of defaulted loan against which
+guarantee claims have been settled. In the approval or declination letter, further relevant
+instructions and advice may be stated.
+7.4.4. Decision on claims will be made within 30 (thirty) days after receiving of complete
+claim application.
+7.5 Debt Collection Procedure
+7.5.1. The CMSE borrower is responsible for full repayment of the loan/investment along with
+interest and other cost. The loan/investment facilities which are guaranteed by the CGS
+Unit must be monitored for repayment based on the policies and regulations of the PFIs
+and Bangladesh Bank. This implies that the PFI must endeavour to recover unpaid
+amounts by liquidating collateral (if any) and calling personal as well as other securities
+/guarantors that the PFI obtained before sanctioning the loan/investment.
+7.5.2 The PFIs must exercise due diligence to recover the amount of the outstanding loan and
+exhaust all legal remedies in pursuit of full recovery.
+7.5.3 The PFIs must report to the CGS Unit quarterly about the status of the debt recovery.
+Until full recovery of outstanding of loans/investments, the borrower will be reported to
+the CIB as defaulted by the PFIs.
+7.6 Proceeds of Recovery
+7.6.1. After the payment against claim is made, the PFIs have to continue the follow-up on the
+CMSE to collect the full amount. The PFI will continue to report to the CGS Unit on the
+status of the collection efforts.
+7.6.2. The PFIs will have to provide detailed information on the recovery costs.
+7.6.3. After adjusting the recovery cost, the rest recovered amount will be distributed on the
+basis of agreed guarantee coverage ratio/risk-sharing ratio in the respective
+loan/investment case between the CGS Unit and the PFI according to the guarantee
+agreement.
+7.6.4. From the date of default, interest/profit on the loan/investment will have to be applied
+according to the existing policies of Bangladesh Bank.
+
+--- Page 19 ---
+15
+
+7.6.5. When a collection is received from any defaulted (B/L) borrower after making payment
+of the guarantee amount, the PFI must distribute it properly without delay. Failing to take
+all necessary steps to recover and regular reporting of the defaulted loan in question, the
+PFI may be imposed with a penalty.
+7.7 Final Settlement
+7.7.1. The applicable Guarantee Coverage Ratio is to be applied on overdue principal amount
+calculated as per para 7.2.6 of this chapter to determine the final settlement.
+7.7.2. The CGS Unit and PFI will keep records of every settlement as long as required.
+7.7.3. Any mistake in due diligence, sanction, monitoring and declaration to the CGS Unit
+based on which decision of payment is made, the respective PFI will be held responsible.
+7.7.4. In case of non-recovery where no legal procedures is taken and/or partial recovery is
+made, in such cases unrealized overdue of the loan/investment under CGS will be settled
+by the competent authority.
+
+--- Page 20 ---
+16
+
+Chapter 8.
+Reporting Requirements
+
+It is the sole responsibility of the PFIs to monitor the loan/investment guaranteed under the
+CGS as per their Credit Policy. The PFIs have to submit the following periodic reports to the
+CGS Unit of Bangladesh Bank:
+a) Report on Guaranteed Loan/Investment and Guarantee Fees under CGS (as per
+Annexure: 5);
+b) Quarterly Performance Report (as per Annexure: 6);
+c) Quarterly Debt Recovery Report (as per Annexure: 7) and
+d) Quarterly Recovery Report on Defaulted Loans/Investments (as per Annexure: 8)
+
+--- Page 21 ---
+17
+
+Annexure 1: Guarantee Application Form
+A loan/investment facility has been approved subject to the issuance of a credit guarantee
+under the participation agreement between PFI Name and the Credit Guarantee Scheme
+Unit of Bangladesh Bank, subject to the Terms and Conditions outlined in the Agreement dated
+dd/mm/yyyy.
+
+Section-1: General Information
+Loan identification number
+Branch Name and Code:
+Name of the Enterprise (Borrower): ____________________________________________________
+Business Address & Contact Number: _________________________________________________
+Trade License Number of the Enterprise ______________________________________________
+Tax Identification Number (TIN) of the Enterprise: __________________________________
+Business Identification Number (BIN) of the Enterprise (if available): ________________________
+Name of the Owner(s): ______________________________________________________________
+Owners’ TIN ________________________________________________________________
+10.
+Owners’ NID ______________________________________________________________
+11. Gender of Owner:  Male  Female
+12.
+Residence Address & Contact Number of Owner (s): ____________________________________
+13.
+Category of the Enterprise:  Cottage  Micro  Small
+14.
+Nature of the Business:  Manufacturing  Service  Trading
+15.
+Establishment Date of the Enterprise: ________________ 16. Years in Operation: ______________
+17.
+Ownership Type:
+ Sole Proprietorship
+ Partnership
+ Limited Liability Company
+18.
+Borrower Type:
+ First Time Borrower
+ Repeat Borrower
+
+
+19.
+Purpose of the
+Loan:
+ Working Capital
+ Business Expansion
+ Others
+20.
+No. of Existing Employees of the Enterprise:
+
+
+a. Total ________
+b. Male: _____
+c. Female: ____
+21.
+a. Total Liability:
+b. Total Assets:
+
+c. Owners’ Equity:
+d. Outside liabilities:
+
+e. Annual Sales:
+f. Annual Income:
+22.
+a. Amount of the Loan:
+b. Expected Guarantee Amount:
+23.
+Interest Rate:
+
+24.
+Final Repayment Date:
+25.
+Personal Guarantee of the Owner(s):  Yes  No
+26.
+Third-Party Guarantee:  Yes  No
+27.
+Other collateral (if any):
+28.
+Forced Sale Value of other collateral:
+
+--- Page 22 ---
+18
+
+Section-2: Undertaking
+We, on behalf of the PFI Name , hereby, confirm that this application falls within the
+terms and conditions of the participation agreement. Proper due diligence and documentation
+have been made by following our CMSME Credit Policy as well as annexure:2 of the CGS
+Manual. We will pay the guarantee fees against this application's registration as per the
+provision of SMESPD circular no. ____, dated ____________ and its’ subsequent amendments.
+We also understand that in the event of any claim under the participation agreement,
+failure to provide documents and/or certifications as per the CGS Manual and relevant circulars
+of Bangladesh Bank, the claim against the guarantee may be rejected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Focal Point officer
+(for further correspondence):
+Signature:
+Name and Designation:
+Name and Designation of Authorized
+Signatory:
+Contact Number and Email:
+Contact Number and Email:
+
+Seal:
+
+--- Page 23 ---
+19
+
+Annexure 2:
+a. Due Diligence Checklist
+The following are the minimum requirements for due diligence of a CGS facilitated
+loan/investment and documents attesting to the same need to be on file and shall be made
+available to the CGS Unit upon request:
+1. Loan Application according to the Manual of Credit Guarantee Scheme;
+2. Application submitted solely for working capital under the stimulus package of CMSEs;
+3. The document that certifies the enterprise falls under CMS Category;
+4. On-site visit report;
+5. Financial statements (Balance Sheet/Income Statement, Cash Flow Statement) or any
+written statement(s) based on production/sales/turnover of the previous year (one/more)
+of CMSE;
+6. Credit analysis report including-
+a) Overall credit rating,
+b) Discussion on industry/competitive environment,
+c) Projected income or cash flow statement,
+d) Assessment of management capacity/competency,
+e) Evaluation of previous business performance,
+f) Supplier checks as to borrower’s adherence to payment arrangements,
+g) Comments on capital adequacy and composition of balance sheet including changes
+in inventory, account receivable and accounts payable,
+h) Trends in sales, operating income, and net income
+i) Summary and recommendation/approval by authorized bank officers including all
+exposure to proposed borrower and group, if any
+7. The borrower is regular on all credit facilities from Bank/FI;
+8. Satisfactory CIB report of the Borrower;
+9. Proposed facilities are not a rescheduling of existing facilities;
+10. Verification that borrower’s premises or address are in place, and machinery (if any) are
+working in orderly;
+11. The borrower is not subject to any court proceedings, and is not the subject of any legal
+actions either in process or pending; and
+12. The borrower’s fixed assets are free from any liens or encumbrances.
+
+--- Page 24 ---
+20
+
+b. Documentary Checklist:
+In addition to the minimum requirements for due diligence stated above for each loan, the
+PFI needs to certify the following documents available in the concerned file, which may be
+verified by the CGS Unit or Representative of the CGS Unit at any time:
+1. Loan Application Form;
+2. Trade License;
+3. Partnership Deed (For Partnership business only);
+4. Board Resolution (For Partnership business /Limited Company only);
+5. Certificate of Incorporation (For Limited Company only);
+6. Memorandum & Articles of Association (For Limited Company only);
+7. Form XII/Schedule X (if applicable) (For Limited Company only);
+8. T & T phone number of the residence/office;
+9. Latest 12 months Business Account Statement;
+10. Photograph of Proprietor/Key Partner/Managing Director;
+11. TIN Certificate/Tax Return Receipt;
+12. Utility Bill of business address;
+13. Attested photocopy of Possession/Rental Deed/consecutive three months’ rent paid
+receipt;
+14. Photocopy of Nationality Certificate/Passport/Certificate of SSC/Voter ID Card/ID Card
+of the loan/investment applicant;
+15. Environment Policy Compliance;
+16. CIB report;
+17. Acknowledgment of BB CGS Guarantee application by the borrower;
+18. Personal guarantee form (Joint/Several Guarantee);
+19. A declaration of the CMSE owner(s), partner(s) and shareholder(s) on their non-
+involvement of ineligible business activities and non-duplication of loan/investment
+under CGS facilities; and
+20. Other (specify): ________________________________
+
+--- Page 25 ---
+21
+
+Annexure 3: Guarantee Letter
+
+Ref.:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date:
+To:
+(PFI Name)
+Dear Sir,
+
+
+
+
+With reference to your application dated_________, the following loans/investments have been registered under your agreed
+Portfolio Guarantee Limit:
+
+N.B. : The terms and conditions laid down in the Manual of Credit Guarantee Scheme, Participation Agreement, Circualar(s)
+issued by Bangladesh Bank and their subsequent amendments are applicable in the above loan cases.
+For and on behalf of the CGS Unit,
+
+Signature:
+(Name and Designation of the Authorized Signatory)
+
+Sl.
+No.
+Name of Borrower/
+Enterprise
+Loan
+Identification
+Number
+Loan amount
+(BDT)
+Final
+Repayment
+Date
+Maximum Credit
+Guarantee Coverage
+limit (%)
+CGS Guarantee
+registration
+Number
+CGS
+Approval
+Date
+Guarantee
+Validity
+date
+
+--- Page 26 ---
+22
+
+Annexure 4: Claims Application Form
+
+Ref.:
+
+
+
+
+
+
+
+
+
+Date:
+
+
+
+
+
+
+General Manager
+Credit Guarantee Scheme (CGS) Unit
+SME & Special Programmes Department
+Bangladesh Bank
+Head Office, Dhaka-1000
+
+Subject: Claims against guarantee registration No. ______, dated ______.
+
+
+
+
+Dear Sir,
+We confirm that the Loan ID # ________ under the above guarantee registration number has
+been classified as Bad & Loss on dd/mm/yyyy. Therefore, it has become due for release of the
+guarantee amount on the outstanding principal as per Manual of Credit Guarantee Scheme.
+According to the Participation Agreement between
+
+PFI Name
+and the CGS
+Unit, dated ___________ we can make available all of the documents listed in the Guarantee
+Application Form dated _______ at any time for your inspection.
+Furthermore, the following information is given for your kind consideration:
+1. Guarantee registration number and date: ___________________________________________
+2. Name of the Enterprise and Owner: _______________________________________________
+3. Address of the Enterprise:_______________________________________________________
+4. Loan amount granted: __________________ 5. Rate of interest (%) ___________________
+6. Date of approval: ______________________ 7. Guarantee coverage ratio (%): ___________
+8. Guarantee fee paid(BDT): ____________
+9. Guarantee fee outstanding(BDT):_________
+10. Installment amount: _______________
+11. Number of installments: _______________
+12. Date of first installment: ______________________________________________________
+13. Collateral (if any): ___________________________________________________________
+14. Forced Sale value of the collateral: ______________________________________________
+15. Total recovery against the loan/investment:
+a) Principal: __________________________ b) Interest & Other Charges: _____________
+
+--- Page 27 ---
+23
+
+16. Date of last payment of installment: _____________________________________________
+17. Recovery other than installment: ________________________________________________
+18. Numbers of unpaid installment(s): _______________________________________________
+19. Reasons for non-performance: _________________________________________________
+20. Outstanding principal of loan/investment on the B&L date: ___________________________
+21. Claimed amount under the guarantee: ____________________________________________
+22. Procedures taken for follow up and collection: _____________________________________
+23. Legal procedures taken: _______________________________________________________
+24. Other comments: ____________________________________________________________
+
+We, hereby, assert that the information mentioned above is correct. According to the
+Participation Agreement, we undertake to follow up on the borrower by taking all legal and judicial
+measures to collect the outstanding amount of loan/investment. We also affirm to provide all
+information or data that you deem necessary to facilitate this claim's procedures.
+
+
+
+
+
+
+
+
+
+
+Focal Point officer
+(for further correspondence):
+Signature:
+Name and Designation:
+Name
+and
+Designation
+of
+the
+Authorized
+Signatory:
+Contact Number and Email:
+Contact Number and Email:
+
+Seal:
+
+--- Page 28 ---
+24
+
+Annexure 5: Report on Guaranteed Loans/Investments and Guarantee Fees under CGS
+
+Ref.:
+
+
+
+
+
+
+
+
+
+
+Date:
+
+General Manager
+Credit Guarantee Scheme (CGS) Unit
+SME & Special Programmes Department
+Bangladesh Bank
+Head Office, Dhaka-1000
+
+Subject: Report on Guaranteed Loans/Investments and Guarantee Fees under CGS as of 31
+December yyyy for the portfolio guarantee year yyyy.
+
+
+
+
+
+Dear Sir,
+As per para 4.2.1. of the Manual of Credit Guarantee Scheme, the following information is
+submitted for your necessary actions.
+
+
+
+
+
+
+(BDT in Full)
+Sl.
+No.
+CGS
+Registration
+No.
+CGS
+Registration
+Date
+Loan/Investment
+ID Number
+Sanctioned
+Amount
+Total
+Recovered
+Principal
+Outstanding
+of principal
+on 31
+December
+yyyy
+Guarantee
+Fee Paid
+Remarks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+Focal Point officer (for further
+correspondence):
+Signature:
+Name and Designation:
+Name and Designation of the Authorized
+Signatory:
+Contact Number and Email:
+Contact Number and Email:
+
+Seal:
+
+--- Page 29 ---
+25
+
+Annexure 6: Quarterly Performance Report
+Ref. :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date:
+
+
+
+
+
+
+
+General Manager
+Credit Guarantee Scheme (CGS) Unit
+SME & Special Programmes Department
+Bangladesh Bank
+Head Office, Dhaka-1000
+
+Subject: Quarterly Performance Report for the quarter ended on dd/mm/yyyy.
+
+
+
+
+Dear Sir,
+Please find quarterly data on the performance of
+PFI Name for the quarter ending on __, yyyy under the agreed CGS portfolio guarantee
+herewith.
+(BDT in crore)
+1. Loan Exposure
+Cottage
+Micro
+Small
+Total
+Number
+Amount
+Number
+Amount
+Number
+Amount
+Number
+Amount
+Disbursed
+Outstanding
+Disbursed
+Outstanding
+Disbursed
+Outstanding
+Disbursed
+Outstanding
+Manufacturing
+Male
+
+
+
+
+
+
+
+
+
+
+
+
+Female
+
+
+
+
+
+
+
+
+
+
+
+
+Service
+Male
+
+
+
+
+
+
+
+
+
+
+
+
+Female
+
+
+
+
+
+
+
+
+
+
+
+
+Trade
+Male
+
+
+
+
+
+
+
+
+
+
+
+
+Female
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+Male
+
+
+
+
+
+
+
+
+
+
+
+
+Female
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Total
+(Male + Female)
+
+
+
+
+
+
+
+
+
+
+
+
+Urban
+Male
+
+
+
+
+
+
+
+
+
+
+
+
+
+Female
+
+
+
+
+
+
+
+
+
+
+
+
+Rural
+Male
+
+
+
+
+
+
+
+
+
+
+
+
+Female
+
+--- Page 30 ---
+26
+
+
+(During the Quarter)
+2. Number of Loans approved by the CGS Unit
+
+
+Amount of Loans approved by the CGS Unit
+
+3. Number of Loans Rejected by the CGS Unit
+
+Amount of Loans Rejected by the CGS Unit
+
+4. Number of Loans Repaid
+
+Amount of Loans Repaid
+
+5. Number of Loans Projected in the Forthcoming Quarter
+
+Amount of Loans Projected in the Forthcoming Quarter
+
+6. CMSE Classified Loan
+
+
+
+7. CMSME Classified Loan
+
+
+
+8. Overall Classified Loan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Focal Point officer (for further correspondence):
+Signature:
+Name and Designation:
+Name and Designation of the Authorized Signatory:
+Contact Number and Email:
+Contact Number and Email:
+Seal:
+
+--- Page 31 ---
+27
+
+Annexure 7: Debt Recovery Report for the Quarter ended ____
+Ref.:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date:
+
+General Manager
+Credit Guarantee Scheme (CGS) Unit
+SME & Special Programmes Department
+Bangladesh Bank
+Head Office, Dhaka-1000
+
+Subject: Debt Recovery Report for the Quarter ended on dd/mm/yyyy.
+
+
+
+
+
+Dear Sir,
+As per para-7.5.3 of the Manual of Credit Guarantee Scheme, the following information is being submitted for your kind perusal.
+
+Sl.
+No.
+CGS Guarantee
+Number
+Name of
+the
+Borrower
+Amount of
+the
+Granted
+Credit
+Outstanding
+Principal
+Principal
+Collected
+During
+the
+Quarter
+Classification
+Status of the
+Loan/Investment
+Reasons
+for Non-
+Repayment
+Endeavours for
+Collection **
+Remark
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+* Reasons for Non-Repayment
+1. Delay in payment
+2. Financial Difficulties
+3. No contact has yet been made with the client
+4. No response from the client
+5. Others (Provide details)
+** Collection Endeavours’
+a. Contact over telephone
+b. Reminder Notification
+c. Field visits
+d. Requests for repayment
+e. Legal Warning
+
+f. Seizure for security
+g. Recourses to guarantors
+h. Filling of lawsuits
+i. Others (Provide details)
+
+For and on behalf of the PFI Name
+
+
+
+
+
+Signature:
+Name and Designation of the Authorized Signatory
+Seal:
+
+--- Page 32 ---
+28
+
+Annexure 8: Quarterly Recovery Report on Defaulted Loans/Investments
+Ref. :
+
+
+
+
+
+
+
+
+
+
+
+
+Date:
+
+General Manager
+Credit Guarantee Scheme (CGS) Unit
+SME & Special Programmes Department
+Bangladesh Bank
+Head Office, Dhaka-1000
+
+Subject: Recovery Report on Defaulted Loans/Investments for the Quarter Ended on dd/mm/yyyy.
+
+
+
+Dear Sir,
+As per para-7.6.1. of the Manual of Credit Guarantee Scheme, the following information is being submitted for your kind information and
+necessary action.
+Sl
+No.
+Guarantee
+Registration
+Number
+Claim Paid
+on
+dd/mm/yyyy
+Amount
+of the
+Claim
+Paid
+Amount
+Recovered
+During
+the
+Quarter
+Recovery
+Cost
+Payment
+to the
+CGS
+Unit
+During
+the
+Quarter
+Unrealized
+amount of
+the claim
+paid
+Reasons for
+Non-
+Repayment *
+Endeavours for
+collection **
+Remarks
+(Collection
+efforts made
+during the
+month)
+10
+11
+
+
+
+
+
+
+
+
+
+
+
+Total:
+
+
+
+
+
+
+
+
+
+
+
+* Reasons for Non-Repayment
+Delay in payment
+Financial Difficulties
+No contact has yet been made with the client
+No response from the client
+Others (Provide details)
+** Collection Endeavours
+Contact over telephone
+Reminder Notification
+Field visits
+Requests for repayment
+Legal Warning
+
+Seizure for security
+Recourses to guarantors
+Filling of lawsuits
+Others (Provide details)
+
+For and on behalf of
+
+PFI Name
+
+
+
+Signature:
+Name and Designation of Authorized Signatory
+Seal:
+
+--- Page 33 ---
+29
+
+Annexure 9: Draft Participation Agreement
+
+
+
+
+
+
+
+PARTICIPATION AGREEMENT
+
+BETWEEN
+
+BANGLADESH BANK, AS THE ADMINISTRATOR
+OF THE CREDIT GUARANTEE SCHEME
+(hereinafter referred to as "CGS Unit")
+
+AND
+
+[........................PFI NAME.................], AS PARTICIPANT
+IN THE CREDIT GUARANTEE SCHEME
+
+--- Page 34 ---
+30
+
+PARTICIPATION AGREEMENT
+
+This Participation Agreement (hereinafter also referred to as ‘Participation Agreement’ or
+‘Agreement’) is made on the ........day of ......... 2020
+Between
+Bangladesh Bank, Head Office, Motijheel, Dhaka-1000 (the “Bangladesh Bank”),
+represented by the General Manager, Credit Guarantee Scheme Unit, SME and Special
+Programmes Department as the administrator of the CREDIT GUARANTEE SCHEME
+(hereinafter referred to as "CGS Unit").
+And
+[Name of PFI], duly established under Companies Act of 1913/1994 and carrying on its
+business under Bangladesh Banks License No…… dated …… having its registered office at -----
+-----------, Dhaka-…, Bangladesh [hereinafter referred to as ‘Participating Financial Institution
+(PFI)’].
+
+In this Agreement, the CGS Unit and the PFI may be collectively referred to as the “Parties” or
+individually as a “Party”.
+
+PREAMBLE
+Whereas:
+(a) The CGS Unit has been established to administer the ÔKzwUi, gvB‡µv I ÿz`ª (CMS) D‡`¨vM Lv‡Z
+†µwWU M¨vivw›U ¯‹xgÕ (hereafter referred to as the “Scheme”). The scheme aims to assist the
+eligible Cottage, Micro and Small Sized Enterprises (CMSEs) to avail loan/investment
+facility from the PFI without any collateral security. The scheme will follow the terms and
+conditions set down in the Manual of Credit Guarantee Scheme, relevant circulars and their
+subsequent amendments (collectively the ‘‘CGS Guidelines’’ ).
+(b) As per SMESPD Circular No._____, dated dd.mm.yyyy, Credit Guarantee facility shall be
+granted in favor of the PFI against its working capital/term loan financing in CMS enterprises
+under the SMESPD Circular No. ____, dated dd.mm.yyyy.
+(c) Against the financing of the PFI to the eligible CMSEs, the CGS Unit shall provide Credit
+Guarantees in favor of the PFI securing a certain part of the loan/investment facility granted
+to the CMSEs in accordance with the relevant terms and conditions; and
+(d) The PFI has agreed to take part in the Scheme and cooperate with the CGS Unit in providing
+loan/investment to CMSE that does not have sufficient collateral but meets the CGS’s criteria
+for offering guarantees to cover such shortfalls.
+
+--- Page 35 ---
+31
+
+Subject Matter of Agreement
+1.1. The purpose of this Agreement is to define the terms and conditions under which
+participating financial institutions can apply to the credit guarantee scheme to overcome
+collateral shortfalls.
+1.2. This Agreement aims to encourage participating financial institutions to increase the
+number and overall volume of loans/investments to CMSEs.
+1.3. Through this Agreement, the CGS Unit approves the PFI as an eligible financial institution
+for risk mitigation purposes in lending to CMSEs.
+1.4. The PFI agrees to adhere to the terms and conditions under which the guarantees will be
+issued by the CGS Unit.
+General Provisions
+2.1. CGS Guidelines and all circulars/guidelines/documents referred therein and their
+subsequent amendments shall form an integral part of this Agreement.
+2.2. All documents forming part of the Agreement (and all parts thereof) are intended to be
+correlative, complementary, and mutually explanatory. The Agreement shall be read as a
+whole.
+2.3. This Agreement contains the entire understanding of the parties concerning the matters
+herein, and there are no other terms, oral or written, expressed or implied, then those
+provided herein. Any previous representations, agreements or arrangements between the
+Parties are superseded by this Agreement. This Agreement shall not be modified except in
+mutual written consent by both parties.
+2.4. If any provision or condition of the Agreement is prohibited or rendered invalid or
+unenforceable, such prohibition, invalidity or unenforceability shall not affect the validity
+or enforceability of any other provisions and conditions of the Agreement.
+Rights and Duties of the Parties
+3.1. The Parties agree to honor their obligations under the terms of this Agreement.
+3.2. The Parties shall carry out all their duties and exercise their rights described in the Scheme,
+in good faith, and with the utmost professional diligence and care.
+3.3. The Parties shall undertake to assist each other in the carrying out of their duties under this
+Agreement.
+3.4. The Parties shall carry out their duties under this Agreement with due regard to the laws of
+Bangladesh and shall not take part in or be influenced by criminal or illegal activities.
+
+--- Page 36 ---
+32
+
+General Lending Terms
+4.1. The CGS Unit shall provide the Credit Guarantees to the PFI in accordance with the terms
+and conditions of the CGS Guidelines.
+4.2. The PFI shall sanction loans/investments to CMSEs in accordance with the credit norms
+and practice of the PFI.
+4.3. The PFI shall pay guarantee fees to the CGS Unit based on the provision of SMESPD
+Circular No. _______ of dated _______.
+4.4. The maximum Portfolio Base Lending Limit under this agreement is set at BDT_______.
+4.5. The maximum sums guaranteed under the above limit cannot exceed the following
+parameters:
+4.5.1. The maximum portfolio guarantee cap is 30%. Risk coverage for a single loan is a
+maximum of 80% within the portfolio cap.
+4.5.2. The revised portfolio cap will be determined based on the actual loan disbursed under
+the portfolio guarantee limit as per the ratio mentioned in para 4.5.1.
+4.6. Loans/investments under the CGS facility will be classified as per the existing
+classification policy of Bangladesh Bank (i.e., policies issued by Banking Regulations and
+Policy Department and Department of Financial Institutions and Markets, respectively).
+4.7. If the status of a guaranteed loan/investment becomes Bad & Loss then any amount
+realized from the borrower or security or personal guarantee or third-party guarantee or
+instruments under lien against that loan/investment, that amount must be adjusted against
+the principal outstanding first.
+Commencement, Completion, Modification, and Termination of Agreement
+5.1. This Agreement shall become effective on_________ 2020 and will endure normally for
+five years except in the event of lawsuit. In case of renewal/rescheduling/restructuring of a
+loan/investment, this agreement will remain valid until full settlement of liabilities under
+this agreement.
+5.2. This Agreement cannot be terminated before settlement of all loans/investments which
+were given under this agreement but can be suspended for processing new loan/investment
+under this agreement by either party giving three months’ written notice to the other party.
+Liabilities of the Parties
+6.1. Each Party acknowledges to be liable for the consequences of any failure on its part or on
+the part of its personnel to fulfill this Agreement.
+6.2. Each Party shall be responsible for providing all necessary facilities and services for the
+proper performance of this agreement at their own expense.
+
+--- Page 37 ---
+33
+
+6.3. The Parties shall be liable for non-performance or improper performance of this Agreement
+in line with the laws of Bangladesh.
+Force Majeure
+7.1. “Force Majeure” shall mean any event beyond the reasonable control of either Party, as the
+case may be, and which is unavoidable notwithstanding the reasonable care of the party
+affected, and shall include, without limitation, the following:
+war, hostilities or warlike operations (whether a state of war be declared or not),
+invasion, the act of foreign enemy and civil war;
+rebellion, revolution, insurrection, mutiny, usurpation of the civil or military
+government, conspiracy, riot, civil commotion, and terrorist acts;
+confiscation, nationalization, mobilization, commandeering or requisition by or under
+the order of any government or de jure or de facto authority or ruler or any other act
+or failure to act of any local state or national government authority;
+strike, sabotage, lockout, embargo, import restriction, port congestion, lack of usual
+means of public transportation and communication, industrial dispute, shipwreck,
+shortage or restriction of power supply, epidemics, quarantine, and plague;
+earthquake, landslide, volcanic activity, fire, flood or inundation, tidal wave, typhoon
+or cyclone, hurricane, storm, lightning, or other inclement weather condition, nuclear
+and pressure waves, or other natural or physical disasters;
+shortage of labor, materials, or utilities where caused by circumstances that are
+themselves Force Majeure.
+7.2. If either Party is prevented, hindered or delayed from or in performing any of its
+obligations under the Agreement by an event of Force Majeure, then it shall notify the
+other in writing of the occurrence of such event and the circumstances thereof within 14
+(fourteen) working days after the occurrence of such event.
+7.3. The Party who has given such notice shall be excused from the performance or punctual
+performance of its obligations under the Agreement for so long as the relevant event of
+Force Majeure continues and to the extent that such Party’s performance is prevented,
+hindered, or delayed.
+7.4. The Party or Parties affected by the event of Force Majeure shall use reasonable efforts to
+mitigate the effect thereof upon its or their performance of the Agreement and to fulfill its
+or their obligations under the Agreement.
+7.5. If the performance of the Agreement is substantially prevented, hindered, or delayed for a
+single period of more than 60 (sixty) days or an aggregate period of more than 120 (one
+hundred and twenty) days on account of one or more events of Force Majeure during the
+validity of the Agreement, the Parties will attempt to develop a mutually satisfactory
+
+--- Page 38 ---
+34
+
+solution, failing which either Party may suspended the Agreement for the expansion of
+further activities by giving notice to the other Party.
+Settlement of Disputes
+8.1. The Parties agree to use best efforts to resolve disputes informally.
+8.2. Any dispute or claim arising from this Agreement shall be notified to the other Party in
+writing.
+8.3. The Party to have received from the other Party its disagreement or claims shall respond in
+writing within 10 (ten) business days upon the receipt of such disagreement or claim.
+8.4. In the event the dispute cannot be resolved amicably, then the same shall be resolved
+through arbitration in accordance with the provisions of Arbitration Act, 2001.
+Confidential Information
+9.1. The Parties shall keep confidential and shall not, without the written consent of the other
+party hereto, divulge to any third party any documents, data, or other information furnished
+directly or indirectly by the other party hereto in connection with the Agreement, whether
+such information has been furnished before, during or following termination of the
+Agreement.
+9.2. The obligation of a Party under item 9.1 above, however, shall not apply to that
+information which
+now or hereafter enters the public domain through no fault of that Party;
+can be proven to have been possessed by that Party at the time of disclosure and
+which was not previously obtained, directly or indirectly, from the other Party hereto;
+otherwise lawfully becomes available to that Party from a third party that has no
+obligation of confidentiality;
+must be disclosed to the state authorities when required under the laws of
+Bangladesh.
+9.3. The provisions of this Clause 9 shall survive termination, for whatever reason, of the
+Agreement.
+10. Final Provisions
+10.1. This Agreement is made in Bangladesh and shall be governed by the laws of Bangladesh.
+The Governing language of the Agreement shall be English.
+10.2. In the event of any dispute arising between the parties in respect of this Agreement, the
+Courts in Bangladesh will have jurisdiction.
+
+--- Page 39 ---
+35
+
+10.3. If one party waives a default or breach of this Agreement by the other party, that waiver
+will not be considered as a waiver of any subsequent default or breach.
+10.4. Should any provision of this Agreement be or become invalid in whole or in part, this shall
+not affect the validity of the rest of this Agreement. In such an event, the Parties shall
+replace the invalid provision by a valid provision that corresponds to the greatest possible
+extent to the purpose of the invalid provision.
+10.5. Each party shall bear its costs concerning this Agreement.
+10.6. Notice shall be served at the address of the parties as given at the beginning of this
+Agreement until otherwise notified in writing of any alternative address.
+11. Signatures of the parties
+In witness whereof, the parties hereto have set and subscribed their respective hands and seal the
+day and year first above written.
+
+
+Name and Designation of Authorized
+Representative of the PFI (Seal)
+General Manager
+CGS Unit
+SME and Special Programmes Department
+Bangladesh Bank
+Head Office, Dhaka
+Witness (PFI)
+Witness (CGS Unit, Bangladesh Bank)

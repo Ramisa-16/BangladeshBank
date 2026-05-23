@@ -1,0 +1,46 @@
+--- Page 1 ---
+Statistics Department
+
+
+Bangladesh Bank
+
+
+Head Office, Dhaka
+Website:
+www.bb.org.bd
+
+StD Circular letter no.-02/2015 Dated: August 2, 2015
+
+
+Managing Director/CEO
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+Submission of Portfolio Investment return related RIT (T_ME_Q_PORT_INV &
+
+T_ME_Q_PORT_SURVEY) on monthly basis instead of quarterly.
+According to Statistics Department’s circular (StD Circular No-03/2014, Date: 12 May,
+2014), banks are submitting Portfolio Investment (PI) return related RIT’s (T_ME_Q_PORT_INV &
+T_ME_Q_PORT_SURVEY) to this department on quarterly basis . On the other hand, according to
+guidelines indicated in Foreign Exchange Vol-1(Chapter 14 para 24(x), page no 135), banks are
+submitting return (Appendix 5, page no 74) regarding NITA A/C transactions to Foreign Exchange
+Investment Department (FEID) on monthly basis. The decision has been taken to collect PI data on
+monthly basis by newly designed RIT (T_ME_M_PORT_INV & T_ME_M_PORT_SURVEY) due
+to similarities of return between quarterly PI of Statistics Department and monthly NITA based
+statement of FEID. In this connection, newly prepared RIT’s (T_ME_M_PORT_INV &
+T_ME_M_PORT_SURVEY) will have to upload to the Bangladesh Bank’s web portal within 15
+days following the reference month instead of timeline indicated in previous Statistics Department’s
+circular (StD circular no.-03/2014, dated May 12, 2014) and enclose the copy of uploading
+confirmation page with the relevant month’s forwarding.
+
+The instructions shall come into force immediately. Please acknowledge receipt and bring
+the contents of this circular to the notice of all concerned.
+
+
+Yours faithfully
+Sd/-
+
+(Saiful Arefeen)
+Joint Director
+Phone: 9530010-75/3083

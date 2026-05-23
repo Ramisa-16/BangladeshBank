@@ -1,0 +1,94 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+
+
+
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+April 29, 2009
+BRPD Circular No. 05 Date:----------------------------
+Baishakh 16, 1416
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+Mapping of External Credit Assessment Institutions (ECAIs)
+rating with Bangladesh Bank Rating Grade
+
+Please refer to BRPD Circular Number 09 dated December 31, 2008 wherein detailed
+guideline and reporting formats for the implementation of Basel II in Bangladesh were issued. As it
+has been decided to use Standardized Approach for calculating Risk Weighted Assets (RWA) against
+Credit Risk, credit rating is to be determined on the basis of risk profile assessed by the External
+Credit Assessment Institutions (ECAIs) duly recognized by Bangladesh Bank (BB).
+
+2) From this point of view, Credit Rating Information and Services Ltd. (CRISL) and Credit
+Rating Agency of Bangladesh Ltd. (CRAB) have been recognized as eligible ECAIs. All the
+scheduled banks operating in Bangladesh may nominate any or both the rating agency (ies) for their
+own and counterparty credit rating for the purpose of calculating RWA against credit risk under
+Standardized Approach of Risk Based Capital Adequacy for Banks.
+
+3) The mapping of CRISL and CRAB rating with BB Rating Grade will be as follows:
+BB Rating Grade
+Equivalent Rating of
+CRISL
+Equivalent Rating of
+CRAB
+AAA
+AAA
+AA+, AA
+AA1, AA2
+AA-, A+, A, A-
+AA3, A1, A2, A3
+BBB+, BBB, BBB-
+BBB1, BBB2, BBB3
+BB+, BB, BB-, B+, B, B-, CCC+, CCC, CCC-
+BB1, BB2, BB3, B1, B2, B3, CCC1, CCC2,
+CC+, CC, CC-, C+, C, C-, D
+CCC3, CC, C, D
+Short-Term Rating Category Mapping
+S1
+ST-1
+ST-1
+S2
+ST-2
+ST-2
+S3
+ST-3
+ST-3
+S4
+ST-4
+ST-4
+S5
+ST-5
+ST-5
+S6
+ST-6
+ST-6
+
+
+4) Banks may use the ratings of these two rating agencies and corresponding risk weight as
+mentioned in the guideline for calculating RWA for Credit Risk under Standardized Approach of
+Risk Based Capital Adequacy for Banks.
+
+Please acknowledge receipt.
+
+
+
+
+
+
+
+
+Yours sincerely,
+
+
+
+(Abu Hena Mohd. Razee Hassan)
+General Manager
+Phone: 7117825

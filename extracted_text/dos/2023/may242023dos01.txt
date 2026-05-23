@@ -1,0 +1,561 @@
+--- Page 1 ---
+ডিপার্টমেন্ট অব অফ-সাইট সুপারভিশন
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা।
+website: www.bb.org.bd
+
+ডিওএস সার্কুলার নং- ০১
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক |
+
+তালিকাভুক্ত এবং অ-তালিকাভুক্ত শেয়ার, বন্ড/ডিবেধ্তার ও মিউচ্যুয়াল ফান-এ
+বিনিয়োগের বিপরীতে প্রভিশন সংরক্ষণ প্রসঙ্গে |
+
+বাংলাদেশ ব্যাংক কর্তৃক ১২ এপ্রিল ২০২২ তারিখে জারিকৃত বিআরপিডি সার্কুলার নং-০৪ এর মাধ্যমে অন্যান্য
+সম্পদের শ্রেণিকরণ এবং প্রভিশন সংরক্ষণের বিষয়ে নির্দেশনা প্রদান করা হয়েছে। এছাড়া ২৪ নভেম্বর ২০১১ তারিখে জারিকৃত
+ডিওএস সার্কুলার নং-০৪, ২৬ মে ২০১৯ তারিখে জারিকৃত ডিওএস সার্কুলার নং-০৪, ১২ মার্চ ২০১৫ তারিখে জারিকৃত
+ডিওএস সার্কুলার লেটার নং-০৩ এবং ২৮ জুন ২০১৫ তারিখে জারিকৃত ডিওএস সার্কুলার লেটার নং ১০ এর মাধ্যমে বিভিন্ন
+সময়ে পুঁজিবাজারে তালিকাভুক্ত ও অ-তালিকাভুক্ত কোম্পানীতে বিনিয়োগ এবং উক্ত বিনিয়োগের বিপরীতে প্রভিশন সংরক্ষণ
+ংক্রান্ত নির্দেশনা প্রদান করা হয়েছে। এক্ষণে, তালিকাভুক্ত এবং অ-তালিকাভুক্ত শেয়ার, বন্ড/ডিবেধ্র ও মিউচ্যুয়াল ফান্ড-এ
+বিনিয়োগের বিপরীতে প্রভিশন সংরক্ষণ বিষয়ে উপরোক্ত সার্কুলার ও সার্কুলার লেটারসমূহের নির্দেশনাবলীর কিছু কিছু ক্ষেত্রে
+সংযোজন, বিয়োজন এবং পরিমার্জন করা হয়েছে। এখন হতে তালিকাভুক্ত এবং অ-তালিকাভুক্ত শেয়ার, বন্ড/ডিবেধ্তার ও
+মিউচ্যুয়াল ফান্ড-এ বিনিয়োগের বিপরীতে প্রভিশন সংরক্ষণ বিষয়ে নিম্নবর্ণিত নীতিমালা অনুসরণীয় হবেঃ-
+
+১। তালিকাভুক্ত কোম্পানীতে বিনিয়োগের ক্ষেত্রে-
+
+ক) বিনিয়োগ হিসাবে স্থিতিপত্রে প্রদর্শিত বিভিন্ন দফাসমূহের মধ্যে সরকারি সিকিউরিটিজ বাদে অন্যান্য সিকিউরিটিজ যেমনঃ
+তালিকাভুক্ত শেয়ার, বন্ড, ডিবেধ্ঞার, Perpetual Instrument, এবং মিউচ্যুয়াল ফান্ড/তালিকাভুক্ত কোন তহবিল ইত্যাদির
+সর্বশেষ বাজারমূল্য (Last Traded 77106) ক্রয়মূল্য অপেক্ষা কম হলে ক্রয়মূল্য ও সর্বশেষ বাজারমূল্যের পার্থক্যকে
+বিনিয়োগের মূল্য হাসজনিত ক্ষতি হিসেবে চিহ্নিত করে তার সমপরিমাণ প্রভিশন সংরক্ষণ করতে AC |
+
+খ) ইক্যুইটি শেয়ার, বন্ড, ডভিবেধ্জার, Perpetual Instrument ও মিউচ্যুয়াল ফান্ড/তালিকাভুক্ত কোন তহবিল এর প্রতি
+ক্ষেত্রে পৃথকভাবে gain/loss net off করে প্রভিশন সংরক্ষণ করা যাবে |
+
+২। অ-তালিকাভুক্ত কোম্পানীতে বিনিয়োগের ক্ষেত্রে-
+
+ক) ইক্যুইটি শেয়ারে বিনিয়োগের ক্ষেত্রে বিনিয়োগকৃত কোম্পানীটির Net worth (Net worth =Assets-Liabilities)
+ত্রাস পেলে ব্যাংক কর্তৃক উক্ত প্রতিষ্ঠানে বিনিয়োগের আনুপাতিক হারে SHS মূল্যের সমপরিমাণ প্রভিশন সংরক্ষণ করতে
+হবে। বিনিয়োগকৃত কোম্পানীটির অস্তিত্ব (Existence) না থাকলে বা কোম্পানীটির কার্যক্রম বন্ধ হয়ে গেলে বা দৃশ্যমান
+কার্যক্রম পরিলক্ষিত না হলে, বিনিয়োগের সমপরিমাণ প্রভিশন সংরক্ষণ করতে হবে।
+
+2) Non-Convertible Cumulative Preference Share এর ক্ষেত্রে চুক্তি অনুযায়ী ব্যাংক কর্তৃক এর প্রাপ্য নির্ধারিত
+সুদ/মুনাফা/নগদ ডিভিডেন্ড পাওয়া না গেলে প্রথম বছর শেষে আসল পরিমাণের উপর ২৫ (পঁচিশ) শতাংশ হারে প্রভিশন
+
+ত্রক্ষণ করতে হবে। অনুরূপ ক্ষেত্রে দ্বিতীয় বছরের জন্য অতিরিক্ত ২৫ পঁচিশ) শতাংশ এবং একাদিক্রমে তিন বছর
+সুদ/মুনাফা/নগদ ডিভিডেন্ড অপরিশোধিত থাকলে ১০০ (একশত) শতাংশ প্রভিশন সংরক্ষণ করতে হবে। তবে অনাদায়ী
+সুদ/যুনাফা/নগদ ডিভিডেন্ড এর ক্ষেত্রে ১২ এপ্রিল ২০২২ তারিখে জারিকৃত বিআরপিডি সার্কুলার নং-০৪ এর ৩(চ)() নং
+ক্রমিকে বর্ণিত নির্দেশনা অনুসরণীয় হবে ।
+
+চলমান পাতা/০২
+
+--- Page 2 ---
+-০২-
+
+গ) Non-Convertible Bond/Debenture এর ক্ষেত্রে চুক্তি অনুযায়ী ব্যাংক কর্তৃক এর প্রাপ্য নির্ধারিত
+
+সুদ/মুনাফা/০০৪011 payment পাওয়া না গেলে প্রথম বছর শেষে আসল পরিমাণের উপর ২৫ (পঁচিশ) শতাংশ হারে প্রভিশন
+
+রক্ষণ করতে হবে। অনুরূপ ক্ষেত্রে দ্বিতীয় বছরের জন্য অতিরিক্ত ২৫ (পঁচিশ) শতাংশ এবং একাদিক্রমে তিন বছর
+
+সুদ/মুনাফা/০০৪011 payment অপরিশোধিত থাকলে ১০০ (একশত) শতাংশ প্রভিশন সংরক্ষণ করতে AEF | তবে অনাদায়ী
+
+সুদ/যুনাফা/০০০7901) payment এর ক্ষেত্রে ১২ এপ্রিল ২০২২ তারিখে জারিকৃত বিআরপিডি সার্কুলার নং-০৪ এর ৩(৮)৫1)
+
+নং ক্রমিকে বর্ণিত নির্দেশনা অনুসরণীয় হবে।
+
+ঘ) বেমেয়াদি (Open-end) মিউচ্যুয়াল ফান্ড এর ক্ষেত্রে বিবেচ্য মিউচ্যুয়াল ফান্ড ইউনিটের Surrender Price গড় ক্রয়
+মূল্য অপেক্ষা কম হলে, গড় ক্রয় মূল্য ও Surrender Price এর পার্থক্যের সমপরিমাণ প্রভিশন সংরক্ষণ করতে হবে |
+
+৩। উল্লিখিত নির্দেশনা মোতাবেক ব্যাংকসমূহকে প্রযোজ্য ক্ষেত্রে ব্রেমাসিক ভিত্তিতে প্রভিশন সংরক্ষণ করতে হবে এবং প্রভিশন
+
+রক্ষণ সংক্রান্ত তথ্যাদি উক্ত ব্রেমাসিকের অব্যবহিত পরবর্তী মাসের ১৫ তারিখের মধ্যে সংযুক্ত ছক (Annexure-A এবং
+
+Annexure-B) মোতাবেক বাংলাদেশ ব্যাংকের ডিপার্টমেন্ট অব অফ-সাইট সুপারভিশনে দাখিল করতে হবে ।
+
+৪। ব্যাংক কোম্পানী আইন, ১৯৯১ এর ৪৫ ধারায় প্রদত্ত ক্ষমতাবলে এ নির্দেশনা জারি করা হলো |
+
+এ নির্দেশনা ৩০ জুন ২০২৩ হতে কার্যকর হবে। একইসাথে, ১২ মার্চ ২০১৫ তারিখে জারিকৃত ডিওএস সার্কুলার
+লেটার নং-০৩ এবং ২৮ জুন ২০১৫ তারিখে জারিকৃত ডিওএস সার্কুলার লেটার নং-১০ বাতিল মর্মে গণ্য হবে।
+
+আপনাদের বিশ্বস্ত
+
+oe
+
+(মোঃ জবদুল ইসলাম)
+পরিচালক (ডিওএস)
+ফোনঃ ৯৫৩০৩১৪
+
+--- Page 3 ---
+Statement regarding provision maintenance against investment in
+listed securities
+
+Name of the Bank:
+
+Reporting date:
+
+
+Equity Share:
+SL.
+Name of
+Company
+Total no. of shares held under own
+portfolio
+Average cost
+price
+Cost price of
+investment
+Market price (last
+Traded Price)
+Market price of
+investment
+Required
+Provision
+Maintained
+Provision
+Provision
+shortfall/excess
+
+4=2*3
+6=2*5
+7=6-4
+9=8-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total:
+
+0.00
+0.00
+
+
+Mutual Fund:
+SL.
+Name of Mutual
+Fund/Fund
+Total no. of unit held under
+own portfolio
+Average cost
+price
+Cost price of
+investment
+Market price (last
+Traded Price)
+Market price of
+investment
+Required
+Provision
+Maintained
+Provision
+Provision
+shortfall/excess
+
+4=2*3
+6=2*5
+7=6-4
+9=8-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total:
+
+0.00
+0.00
+
+Bond/Debenture:
+SL.
+Name of
+Bond/Debenture
+Total no. of bond/debenture
+held under own portfolio
+Average cost
+price
+Cost price of
+investment
+Market price (last
+Traded Price)
+Market price of
+investment
+Required
+Provision
+Maintained
+Provision
+Provision
+shortfall/excess
+
+4=2*3
+6=2*5
+7=6-4
+9=8-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total:
+
+
+
+
+
+
+
+
+
+
+Annexure-A
+
+--- Page 4 ---
+Statement regarding provision maintenance against investment in
+Non- listed securities
+
+Name of the Bank:
+
+Reporting date:
+
+Equity Share:
+SL.
+Name of Company
+Total Investment
+Net worth(according to
+investment)
+Required Provision
+Maintained Provision
+Provision shortfall/excess
+
+4=2-3
+9=8-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total:
+
+
+
+
+Non-Convertible Cumulative Preference Share:
+SL.
+Name of
+Company
+Invested
+Amount
+Dividend/Interest (%)
+Cumulative
+Dividend/Interest (if
+any)
+Last date of
+Dividend/Interest paid
+(DD/MM/YY)
+Amount of
+Dividend/Interest
+received at the last
+Payment Date
+Provision
+required
+Provision
+maintained (if
+required)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total:
+
+
+
+Non-Convertible Bond/Debenture:
+SL.
+Name of
+the Issuer
+Name of
+Bond/Debentur
+Invested amount
+Coupon payment (Semi-
+annual/Annual)
+Date of last coupon
+payment
+Duration of non-
+payment (from last
+coupon payment date)
+Provision
+required
+Provision
+maintained (if
+required)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total:
+
+
+
+Open-end Mutual Fund:
+SL.
+Name of
+the Issuer
+Name of
+Mutual Fund
+No. unit
+purchased
+Average cost
+price
+Invested
+Amount
+Last Surrender
+Price/unit
+Invested amount
+(as per surrender
+price)
+Provision
+required
+Provision
+maintained (if
+required)
+
+5=3*4
+7=3*6
+8=5-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total:
+
+
+
+
+Annexure-B

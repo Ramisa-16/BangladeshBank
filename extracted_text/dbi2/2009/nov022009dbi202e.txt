@@ -1,0 +1,57 @@
+--- Page 1 ---
+Website: www.bangladesh‐bank.org
+www.bangladeshbank.org.bd
+
+
+Department of Banking Inspection‐2
+Bangladesh Bank
+Head Office
+Dhaka‐1000
+
+
+November 02, 2009
+DBI‐2/Div‐1/Circular No‐ 02
+
+Date: ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+
+Kartik 18, 1416
+
+Chief Executive/ Managing Director
+All Scheduled Banks in Bangladesh/
+Financial Institutions/ Karmashangosthan Bank/
+Grameen Bank/ Ansar VDP Unnayan Bank/
+Investment Corporation of Bangladesh
+
+
+Dear Sir,
+Putting in place Business Continuity Plan (BCP) and Disaster Recovery Plan (DRP)
+in banks and financial institutions
+
+In order to ensure Information and Communication Technology (ICT) related security of the
+scheduled banks and financial institutions, directives for putting in place Business Continuity Plan
+(BCP) and Disaster Recovery Plan (DRP) were inter alia issued through Guidelines on ICT security
+vide BRPD Circular No‐ 14 on 23 October, 2005. Compliance with the BCP‐ and DRP‐related
+instructions of Chapter 6 of the Guidelines in banks and financial institutions has as yet remarked
+unsatisfactory.
+
+Newspaper and electronic media reports on dreadful natural disasters like earthquakes are
+quite frequent, and the BCP‐ and DRP‐related issues in banks and financial institutions are being
+accorded high priority worldwide in the Basel II Accord. High‐level principles for business continuity
+have been published in August, 2006 by the Joint Forum under the Basel Committee on Bank
+Supervision. In that publication, seven high‐level principles for business continuity were outlined in
+order to ensure ICT security in banks and financial institutions with BCP and DRP identified as
+uniquely risky areas.
+
+In view of the abovementioned circumstances, you are hereby directed to ensure
+compliance with BCP‐ and DRP‐related directives of Chapter‐6 in the Guideline on Information and
+Communication Technology for Scheduled Banks and Financial Institutions on an urgent basis.
+
+Please acknowledge receipt.
+
+Yours sincerely,
+
+Sd/‐
+(Nirmal Chandra Bhakta)
+General Manager
+Phone‐7124243

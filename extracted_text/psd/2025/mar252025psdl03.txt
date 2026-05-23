@@ -1,0 +1,38 @@
+--- Page 1 ---
+BACH 4
+A3D8
+Date
+28 March 2025
+29 March 2025
+RTGS 4T A3-6:
+Date
+28 March 2025
+29 March 2025
+afsf, 0-So00
+High Value Clearing
+Presentment Cut
+off Time
+10:45 AM
+11:30 AM
+Return Cut off
+Time
+11:30 AM
+12:30 PM
+All kinds of Transactions (BDT & FC)
+10:00 AM-11:45 AM
+10:00 AM-12:45 PM
+Regular Value Clearing
+Presentment
+Cut off Time
+11:30 AM
+12:00 PM
+Return Cut
+off Time
+01:00 PM
+01:00 PM
+Interbank Fund Transfer & Return (BDT
+& FC)
+10:00 AM -12:00 PM
+10:00 AM -01:00 PM
+GAR: tt-02-sQC088b, b¢8b, Ta
+8bb-o-¢UUtoO-b, 0: bb-o-9O846, Web: www.bb.org.bd

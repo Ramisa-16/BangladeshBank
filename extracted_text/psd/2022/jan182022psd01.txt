@@ -1,0 +1,350 @@
+--- Page 1 ---
+www.bb.org.bd
+
+পেমেন্ট সিস্টেমস্‌ ডিপার্টমেন্ট
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা
+
+পিএসডি সার্কুলার নং 8 ৪ মাঘ ১৪২৮
+
+তারিখ & -------------------
+
+১৮ জানুয়ারী ২০২২
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা,
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক ও সকল আর্থিক প্রতিষ্ঠান।
+প্রিয় মহোদয়,
+মাইক্রো এবং ক্ষুদ্র ও মাঝারি শিল্পোদ্যোগ (MSME) খাতে Local Factoring/Receivable Financing প্রক্রিয়ার প্ল্যাটফর্ম স্থাপন
+
+বিষয়ক গাইডলাইন অনুসরণ প্রসঙ্গে |
+
+আপনারা অবহিত রয়েছেন যে, দারিদ্র্য দূরীকরণ, কর্মসংস্থান সৃষ্টি এবং অর্থনৈতিক প্রবৃদ্ধি অর্জনে মাইক্রো, ক্ষুত্র ও মাঝারি
+শিল্পোদ্যোগ (MSME) একটি গুরুত্বপূর্ণ খাত। এ খাতের গুরুত্ব অনুধাবন করে জাতীয়ভাবে বিভিন্ন ধরণের খণ সহায়তা কার্যক্রম চলমান
+থাকলেও বিভিন্ন প্রতিবন্ধকতার কারণে সংশ্লিষ্ট উদ্যোক্তাগণের প্রয়োজন অনুযায়ী আর্থিক সহায়তা গ্রহণের প্রক্রিয়াটি সহজতর নয়। এমনকি
+খণ প্রাপ্তির পর পণ্য তৈরী করে ক্রেতা প্রতিষ্ঠানকে সরবরাহের মাধ্যমে প্রাপ্ত “ট্রেড রিসিভেবল্‌” (Trade Receivable) সমূহের বিপরীতে
+তাৎক্ষণিকভাবে অর্থ প্রাপ্তির প্রক্রিয়াটি সহজ ও স্বয়ংক্রিয় না হওয়ায় এবং বাজার ভিত্তিক মূল্য নির্ধারণ পদ্ধতি অনুসরণ না করায় ওয়ার্কিং
+ক্যাপিটাল নিয়েও MSME সমূহ বিভিন্ন সমস্যার সম্মুখীন হচ্ছে।
+MSME খাতের প্রতিষ্ঠানসমূহের উপরোক্ত সমস্যার বিষয়টি সামগ্রিকভাবে বিবেচনায় নিয়ে উক্ত প্রতিষ্ঠানসমূহের অভ্যন্তরীণ “ট্রেড
+রিসিভেবল্স” এর বিপরীতে স্বয়ংক্রিয় পদ্ধতিতে অর্থায়ন/সাপ্লাই চেইন ফাইনান্সিং এর জন্য Digital Platform এর প্রয়োজনীয়তা অনুধাবন
+করতঃ এতদৃসংক্রান্ত পাইলট কার্যক্রম পরিচালনার জন্য অত্র বিভাগ কর্তৃক “Guidelines for Local Factoring/Receivable
+Financing through Digital Platform-Pilot Phase” 48S করা হয়েছে যা অনুসরণের জন্য ব্যাংক ও আর্থিক প্রতিষ্ঠানসমূহকে পরামর্শ
+প্রদান করা হলো।
+
+MSME সমূহ এ প্ল্যাটফর্মে ইলেক্ট্রনিক পদ্ধতিতে ট্রেড রিসিভেবল্স আপলোড করতে পারবেন এবং আগ্রহী বিনিয়োগকারীগণ অর্থাৎ
+দেশে কার্যরত ব্যাংক ও আর্থিক প্রতিষ্ঠানসমূহ এই “ট্রেড রিসিভেবল্স” এর বিপরীতে বিনিয়োগ করতে পারবেন। ফলে, 1191,
+প্রতিষ্ঠানসমূহ তাদের ট্রেড রিসিভেবল্স এর বিপরীতে দ্রুত ও সহজে অর্থ পাবেন এবং তাদের ব্যবসা পরিচালনা করা সহজতর হবে।
+অন্যদিকে, বিনিয়োগকারীগণ ট্রেড রিসিভেবল এর মেয়াদপূর্তিতে ক্রেতা প্রতিষ্ঠান হতে ট্রেড রিসিভেবল এর পূর্ণ মুল্য পেয়ে লাভবান হতে
+পারবেন।
+
+এক্ষেত্রে Guidelines for Local Factoring/Receivable Financing through Digital Platform-Pilot Phase অনুযায়ী
+পাইলট আকারে ThinkBig Solutions Ltd.-c® Local Factoring/Receivable 17111210118 প্ল্যাটফর্ম পরিচালনা করার অনুমোদন
+(অনুমতি পত্র নং পিএসডি(আরএফএফও)/১/২০২২-১৮৮, তারিখ: ১৮ জানুয়ারী, ২০২২) প্রদান করা হয়েছে।
+
+বাংলাদেশ ব্যাংক অর্ডার ১৯৭২ এর ৭(এ)(ই) ধারার আওতায় জারিকৃত “Bangladesh Payment and Settlement Systems
+Regulation-2014”-4 AHS ক্ষমতা অনুসারে উপর্যুক্ত নির্দেশনা জারী করা হল।
+
+এ নির্দেশ অবিলম্বে কার্যকর হবে |
+
+আপনাদের বিশ্বস্ত,
+
+(৩৯৮
+
+(মোঃ মেজবাউল হক)
+মহাব্যবস্থাপক
+ফোনঃ ৯৫৩০১৭৪
+
+সংযুক্ত
+
+>. Guidelines for Local Factoring/Receivable Financing through Digital Platform-Pilot Phase
+
+--- Page 2 ---
+Guidelines for Local Factoring/Receivable
+Financing through Digital Platform - Pilot Phase
+
+
+
+
+
+
+
+
+
+
+
+Payment Systems Department
+Bangladesh Bank
+2022
+
+--- Page 3 ---
+1 | P a g e
+
+Introduction
+
+1. Micro, small and medium enterprises (MSME) are key drivers of economic growth and
+poverty alleviation in Bangladesh. Contributing 25 percent to the country’s GDP, MSMEs
+play a crucial role in employment generation and resource utilization. According to the
+Economic Census, 2013 conducted by World Bank and Enterprise Survey, 2013 conducted by
+Bangladesh Bureau of Statistics (BBS), some 99 percent of all non-farm enterprises fall into
+the micro and small enterprises categories providing employment to 20.3 million
+Bangladeshi workers.
+2. However, the exclusion of majority of the MSMEs from the formal lending ecosystems
+inhibits their growth. A majority of these MSMEs do not have access to sufficient credit and
+liquidity required for their daily working capital needs. One of the pressing issues has been
+the reluctance of formal sector to lend to MSMEs due to high perceived risks and higher
+operational cost since the loan size is very small and requires intensive monitoring and
+supervision. Also, MSMEs are highly unlikely to comply with the collateral requirements as
+typically they do not have immovable properties. MSMEs also lack in providing necessary
+documentation in terms of required legal and formal agreements. On the other hand, terms
+and conditions for receiving loan by MSMEs from micro finance institutions is not favorable
+and often the interest rate is too high. Thus, MSMEs mostly depend on informal sources of
+funds which results in higher borrowing cost. In this way, MSMEs have struggled to raise
+funds from formal sources resulting in a significant credit gap for the sector.
+Scope of Local Factoring/Receivable Financing
+
+3. Local factoring/Receivable Financing can fill the credit gap for MSMEs in a cost-effective and
+efficient way. It can provide new option that aims to finance MSMEs by using accepted
+invoices and receivables as intermittent collaterals. Broadly, receivables financing is a term
+that describes several different techniques a business can use to raise funds against the
+amounts owed to it by its customers in outstanding invoices, also known as its trade
+receivables or accounts receivable. In short, as a process:
+a) A corporate firm purchases products from MSME;
+b) MSME receives an accepted invoice (which has a maturity date) from the large firm
+after delivery of products;
+c) MSME sells the accepted invoice to a Financier [Bank/NBFI(Non Banking Financial
+Institution)] at a discount and receives cash immediately;
+d) Financier receives the total amount from the corporate firm at invoice maturity.
+4. Bangladesh Bank (BB) with a view to developing the MSMEs in Bangladesh has taken
+noteworthy initiatives including improving existing environment in the formal sector through
+regulatory and policy interventions as well as different refinance schemes. Following these
+initiatives, banks and NBFIs have given emphasis on financing to MSMEs. Even after the
+emphasis given by the formal sector, still there is scope to improve the scenario. Hence, a
+guideline by BB on local factoring/receivable financing through digital platform can
+encourage the financial institutions to invest in MSMEs which will open an avenue of short-
+term financing opportunities for these entrepreneurs. Besides, a technology based platform
+will improve efficiency, ensure transparency and reduce cost. At the pilot phase, along with
+
+--- Page 4 ---
+2 | P a g e
+
+other interventions, Bangladesh Bank has decided to allow setting up digital/electronic
+platform on pilot basis to automate local factoring/receivable financing.
+Current Scenario
+
+5. Current scenario consists of some stand-alone systems provided by some of the banks and
+NBFIs. These platforms are only available to the A/C holders of the specific banks and NBFIs.
+Besides, these platforms still require manual process to complete the full cycle of factoring.
+Expected Solution
+
+6. A technology based online platform may be set up to facilitate trading among MSMEs,
+corporate and banks/NBFIs. MSMEs, corporate and banks/NBFIs will be the users of the
+platform and will be able to participate in the trading of various invoices. Invoices will be
+uploaded and verified for trading between respective parties. Bank/NBFI as a financier will
+be able to compare invoices and their issuers and endorsers based on information available
+in the platform.
+Eligibility Criteria for the participants to join into the platform during the Pilot Phase
+
+7. MSMEs, Corporate and Banks/NBFIs with the following criteria will be eligible to participate
+in the platforms:
+a) MSMEs: Any MSME entity (direct supplier of the participant corporate), holding
+accepted invoices;
+b) Corporate: Any corporate incorporated or operating in Bangladesh;
+c) Banks/NBFIs: Any bank or NBFI licensed by BB.
+8. MSME and Corporate with the following criteria will not be eligible to participate in the
+platforms:
+a) MSME and corporate having pending bankruptcy litigation against them;
+b) MSME and corporate who are loan defaulter of any Bank/NBFI as per the law of
+land;
+c) Banks/NBFIs will not discount any invoices where any of their director and director’s
+family members (as defined in Bank Company Act’ 1991 & Non Bank Financial
+Institution Act’ 1993) have majority shareholdings (as defined in Bank Company Act’
+1991 & Non-Bank Financial Institution Act’ 1993) or is a director of either the
+concern corporate or the concern MSME.
+Document Requirement, Preservation& Confidentiality
+
+9. Proper KYC (Know Your Customer) document, audited balance sheet, company profile of the
+participants (MSMEs and corporate firms) will be collected and maintained (if applicable)by
+the platform operator. Each participant will have a system generated unique identifier.
+10. Approved invoices will only be eligible for financing from one single source and hence to be
+uploaded and traded in a single platform. Once approved invoices are uploaded in a
+platform, the releavant MSME must ensure that no other financing facility is being opted
+against the same invoice elsewhere.
+
+--- Page 5 ---
+3 | P a g e
+
+11. Platform will have sole custody of the documents (agreement/KYC/invoice) during business
+operation.
+12. All the data in the platform like bidding and transaction data, KYC documents and any other
+document that is required during the operation have to be preserved for up to 12 (twelve)
+years. In case of liquidation, cessation of business or end of NOC period without further
+approval of business continuity of the platform, documents will be handed over to
+respective participants or to entities as directed by BB.
+Other Operating Conditions
+
+13. MSME sellers, corporate buyers and financiers (Banks and NBFIs) will be participants of the
+platform. A Memorandum of Understanding (MoU) and necessary participating agreements
+have to be signed between each participant and the platform. The MoU and the
+participating agreement will sufficiently detail the roles and responsibilities of each party of
+the platform.
+14. Steps or procedures to be followed:
+a) MSME will submit an accepted invoice in the platform;
+b) Platform administrator will check the eligibility of the invoice and then upload the
+same in the platform;
+c) Notification will be sent to the approving corporate for necessary approval of the
+submitted invoice;
+d) Corporate will approve the invoice within a specified time frame and the approved
+invoice will become available for bidding by the financiers;
+e) Financiers will bid for available invoices;
+f) After a successful bid, the particular invoice will be locked and will not be available
+for further trading;
+g) The winning bidder will do a verification of loan default for both the issuer and the
+approver and will initiate payment and settlement process;
+h) On settlement confirmation, the ownership of the invoice will be transferred to the
+financier;
+Information about all the discounted invoices will be made public (through website)
+by the platform;
+At the maturity of the invoice, corporate will settle the fund against the invoice
+through its nominated bank and inform the platform accordingly. The platform will
+send prior notice to the corporate about the upcoming maturity of the invoice;
+k) The platform will record all the information of such settlement and update the
+status of each outstanding invoice.
+15. In case of a failure or default in maturity payment, the platform will provide reminders to
+the corporate for immediate payment and otherwise, will provide necessary support to the
+financier to recover the investment.
+16. The pilot phase will be for 1 year. Platform owners will be given 4-month period prior to the
+pilot phase to prepare for the infrastructure and complete all initial agreements with the
+participants. In case of failure or postponement of the pilot phase, 6-month period will be
+allowed to settle all the outstanding invoices. No new invoice shall be uploaded or approved
+in the system during this 6-month period.
+
+--- Page 6 ---
+4 | P a g e
+
+17. During the pilot phase, BB will have the right to stop such operation by providing a 7-day
+notice to the platform provider. The platform provider shall get 120 days more to settle all
+the existing outstanding dues with all the parties. No new transactions are allowed during
+this period.
+18. The piloting of the proposed system will be conducted with at least Ten(10) banks, Five (5)
+corporate firms and at least Two (2) MSME suppliers of each corporate. There will be no
+restrictions on the number of corporate and MSMEs during the pilot phase.
+19. Platform should have the capability of interoperable transactions. All such future platforms
+should be interconnected.
+20. Secondary trade of 10% of a financier’s portfolio has to be encouraged during the pilot
+phase.
+21. In case of default, the recourse will be on the approving corporate.
+Limit of Investment and Transaction
+
+22. Following transaction limit will be followed during the piloting phase:
+
+Serial
+No.
+Type
+Limit (In BDT)
+Number
+Word
+Maximum amount of investment by a single
+investor/financier to a single corporate buyer at any point
+of time
+5,00,00,000 Five Crore
+Maximum amount of investment by a single
+investor/financier at any point of time
+20,00,00,000 Twenty
+Crore
+Maximum value of a single factoring transaction
+25,00,000 Twenty
+Five Lac
+Maximum amount of investment a single MSME seller can
+obtain at any point of time
+1,00,00,000 One Crore
+
+Bank Guarantee and Capital Requirement
+
+23. The platform provider needs to provide a bank guarantee of BDT 1,00,00,000 (One Crore) in
+favor of General Manager, Payment Systems Department, Bangladesh Bank for the whole
+duration of the piloting phase in order to cover any unforeseen losses that may arise from
+the operation of the platform to its participants. The format of the bank guarantee has to be
+approved by BB before issuance of the same.
+24. The paid up capital of the platform will be determined by BB at the licensing phase
+depending on the risk specification of such operation.
+Settlement Procedure
+
+25. Platform will have a policy to ensure timely settlement of funds in case of accepted bids and
+matured invoice. Funds need to be transferred between respective banks (financier bank to
+MSMEs bank in case of accepted bids and buyer’s bank to financier bank in case of invoice
+maturity) at T+1 basis. To ensure transparency and integrity, financier bank (in case of
+
+--- Page 7 ---
+5 | P a g e
+
+accepted invoice) and corporate (in case of invoice maturity) will have to confirm about the
+initiation of agreed amount of payment in the system. The mentioned procedure has to be
+incorporated in the agreement among platform, financier and corporate buyer. Platform will
+have to put a separate recourse mechanism in case of settlement failure.
+26. Invoices which were not discounted by any financier may be settled by the respective
+corporate and MSME at the maturity date. This action will be outside the scope of the
+platform. Platform will remove these invoices from further bidding after maturity date.
+27. In case of any transaction related problem, platform should have a dispute resolution
+process where each participant will be able to raise issues.
+Audits, credentials and continuity of the platforms
+
+28. Platform will provide username, password to all the direct participants and also ensure
+multifactor authentication procedure and maker checker concept at the transaction level.
+29. Platform owners will perform regular and random audits regarding the authenticity of the
+uploaded document (KYC and invoice).
+30. Technology infrastructure of the platform should comply with the latest version of
+“Guideline on ICT Security For Banks and Non-Bank Financial Institutions” by Bangladesh
+Bank.
+31. Platform should have a proper business continuity plan (BCP)/backup IT infrastructure in
+place.
+Evaluation and Monitoring of Pilot Results
+
+32. The performance of the platform will be evaluated and monitored in respect of the following
+Key Performance Indicators (KPI) for 12 (Twelve) months of the pilot operation:
+
+Subject
+Target
+Number of Financier on boarded
+10
+Number of Corporate on boarded
+Number of Supplier on boarded
+100
+Total value of invoices discounted
+110 Cr
+
+33. Based on the KPI report and overall assessment of the desired goals, a final report will be
+prepared for the management of BB with recommendation about the future course of action
+in this regard. A comprehensive guideline for such operation will be formulated and issued if
+the management of BB decides to introduce such platform based business modality for
+MSME financing.
+Oversight
+
+34. Regular and ad-hoc onsite and offsite oversight will be performed by Bangladesh Bank on
+the platform. Based on oversight, up gradation/alteration of the system/business procedure
+may be suggested during pilot phase.
+
+--- Page 8 ---
+6 | P a g e
+
+Exit Policy
+
+35. There should be a proper policy for all participants to exit the platform. In case of
+completion of provisional period, failure to achieve key performance indicators, cessation of
+business or any other reason deemed satisfactory to the regulator, there might be an early
+end of given NOC of pilot. In that case, platform will have to inform the participants at least
+2 months ahead. The exit policy for all related parties may be as follows:
+a) MSMEs: MSMEs can leave the system at any time. As soon as the resignation is
+accepted, their account in the system will have to be suspended and all of their
+uploaded invoices which are yet to be financed should be removed from the
+platform.
+b) Corporate: Before leaving, a corporate has to inform the platform, MSME and the
+financier. All the due payments to the financier have to be cleared before the
+resignation. All the approved invoices of the corporate which are yet to be financed
+will have to be removed from the platform immediately after the receipt of release
+request.
+c) Financiers: A financier can leave at any time. However, if any due payment is there
+to be received from any corporate after the resignation date, it can settle the matter
+outside of the platform afterwards.
+d) Platform Providers: A platform provider may leave at any time giving a notice period
+of 3 months or the largest maturity date of invoices of that particular moment,
+whichever is higher. From the notice period, no new invoices shall be uploaded in
+the system.

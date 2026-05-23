@@ -1,0 +1,284 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+www.bb.org.bd
+
+
+
+Department of Off-site Supervision
+Bangladesh bank
+Head Office
+Dhaka.
+
+
+November 21, 2011
+DOS Circular Letter No: 21
+
+
+Date: -------------------------
+Agrahayan 7, 1418
+
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+
+Dear Sir,
+
+
+Revised Format for Submission of Weekly Statement of Position for Banks.
+
+
+Please refer to DOS Circular No. 05 dated July 13, 2010.
+
+In the circular mentioned above all the scheduled banks were instructed to
+submit Weekly Statement of Position as per format DOS WR–01.
+
+Considering the necessity of incorporating some new items/item codes the
+said format has been redesigned and named as DOS WR-02.
+
+
+Banks are advised to submit the Weekly Statement of Position as per revised
+format (copy enclosed). This will have an effect from December, 2011. The revised
+Reporting Format 'DOS WR-02' is also available in the BB’s website.
+
+Please acknowledge receipt.
+
+
+
+
+
+
+
+Enclosure: As above
+
+--- Page 2 ---
+Effective from 1st December 2011
+NAME OF THE BANK
+DATE
+BANK CODE
+000
+Item
+Code
+TOTAL Govt. Sector
+Other Public
+Sector
+Private Sector
+TOTAL
+(Islami
+shariah based)
+Govt. Sector
+Other Public
+Sector
+Private Sector
+1=2+3+4
+5=6+7+8
+DEMAND LIABILITIES IN BANGLADESH
+Deposits (General)
+001
+ii)
+Deposits from Banks
+002
+iv)
+Borrowing from Banks (Overnight)
+003
+Borrowing from NBFIs (Overnight)
+004
+vi)
+Other Demand Liabilities
+005
+TIME LIABILITIES IN BANGLADESH
+Deposits (General)
+011
+ii)
+Deposits from Banks
+012
+iii)
+Borrowing from Banks
+013
+iv)
+Other Time Liabilities
+014
+Against usance Bill
+021
+ii)
+Against Promissory Notes
+022
+iii)
+Against Approved Securities
+023
+iv)
+Other Borrowings (a+b+c+d+e)
+024
+Re-finance
+025
+Re-discount
+026
+Repo of Treasury Bill
+027
+Rural Housing
+028
+Others Borrowing
+029
+LIABILITIES
+DOS WR-02
+WEEKLY STATEMENT OF POSITION (i.e. THURSDAY POSITION)
+OF SCHEDULED BANKS IN BANGLADESH
+(Figure in Thousand BDT)
+Conventional Banking
+Islamic Banking
+ITEM DESCRIPTION
+BORROWING FROM THE BANGLADESH BANK (IN LOCAL
+CURRENCY)
+(Need not to report. vide DOS Circular#06/2010 )
+(Need not to report. vide DOS Circular#06/2010 )
+BORROWING FROM THE BANGLADESH BANK
+(IN FOREIGN
+Against Counter Finance
+161
+ii)
+Against FC Loan (EDF)
+162
+iii)
+Against ADB/IDB Loan
+163
+SUBORDINATED DEBT
+181
+ii)
+182
+SPECIFIC PROVISION
+191
+ii)
+192
+TOTAL LIABILITITS
+Item
+Code
+Total Amount
+Govt. Sector
+Other Public
+Sector
+Private Sector
+TOTAL
+(Islami
+shariah based)
+Govt. Sector
+Other Public
+Sector
+Private Sector
+1=2+3+4
+5=6+7+8
+CASH IN HAND
+Bangladesh Bank Notes (a+b+c+d+e+f+g)
+101
+Taka 5 Notes/Coins
+Taka 10 Notes
+Taka 20 Notes
+Taka 50 Notes
+Taka 100 Notes
+Taka 500 Notes
+Taka 1000 Notes
+ii)
+Bangladesh One Taka+Two Taka Notes/Coins
+102
+iii)
+103
+iv)
+Foreign Currency in hand eqv. BDT
+104
+BALANCE WITH BANGLADESH BANK
+Principal Office
+111
+ii)
+Other Offices and Branches
+112
+iii)
+Foreign Currency Clearing A/C
+113
+Sonali Bank (as agent of BB)
+121
+ii)
+Other Banks (including Sonali Bank ltd.)
+122
+iii)
+NBFIs
+123
+130
+APPROVED SECURITIES
+In Bangladesh Govt.Treasury Bill, Bangladesh Bank
+Bill,Treasury Bond, Islamic Bond, Prize Bond,
+Income Tax bond etc.
+141
+d S
+iti
+l d
+142
+BORROWING FROM THE BANGLADESH BANK (IN FOREIGN
+CURRENCY)
+DEBT AND EQUITY
+EQUITY (Excluding Subordinated Debt and non Funded
+OTHERS LIABILITIES
+NET NOSTRO A/C BALANCE
+ITEM DESCRIPTION
+ASSETS
+Bangladesh Subsidiary Coins
+BALANCES WITH OTHER FIs IN BANGLADESH
+MONEY AT CALL IN BANGLADESH
+INVESTMENT IN SECURITIES (In Book Value)
+Govt. Sector
+Other Public
+Sector
+Private Sector
+TOTAL
+(Islami
+shariah based)
+Govt. Sector
+Other Public
+Sector
+Private Sector
+In Approved Securities in Bangladesh
+142
+ii)
+IN OTHERS
+143
+iii)
+171
+CREDIT PROVIDED IN BANGLADESH
+Advances except those to other Banks
+151
+ii)
+Advances to other Banks (Except Call and Short Notice)
+152
+iii)
+Inland Bill purchased and discounted in Bangladesh
+153
+iv)
+Foreign Bill purchased and discounted in Bangladesh
+154
+OTHERS
+FIXED ASSETS (Book Value)
+201
+ii)
+202
+TOTAL ASSETS
+Total Number of Reported Branches
+00
+Number of Islami banking branches Reported
+00
+Signature
+Signature
+Name
+Name
+Designation
+Designation
+Telephone (D)
+Telephone (D)
+Mobile No.
+Mobile No.
+Fax
+Fax
+e-mail
+e-mail
+website
+website
+LIEN AGAINST APPROVED SECURITIES
+NET NOSTRO A/C BALANCE

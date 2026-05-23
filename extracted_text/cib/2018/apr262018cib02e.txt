@@ -1,0 +1,66 @@
+--- Page 1 ---
+Credit Information Bureau
+Bangladesh Bank
+Head Office
+Dhaka
+
+CIB Circular No. 02/2018
+
+Date: April 26 , 2018
+Baishakh 13, 1425
+
+Managing Director/Chief Executives
+All Scheduled Banks/FIs in Bangladesh
+
+Dear Sir,
+
+Regarding Submission of Collateral Information to the Collateral Database
+in the Process of Developing Collateral Information System
+
+With a view to having well organized banking sector, Credit Information Bureau, through
+developing CIB Online System, is already working for strengthening credit discipline and easing
+loan sanctioning process of banks and financial institutions. Within existing legal framework
+(Bangladesh Bank Order, 1972 Chapter-IV, 42(c)) Credit Information Bureau, Bangladesh Bank
+has taken initiatives to establish a collateral database in order to prevent treachery and corruption
+related to collateral as a part of strengthening credit discipline. Development of collateral
+database will prevent fraud-forgery and related treachery and corruption arising from mortgaging
+unlawfully same property against more than one loans sanctioned by banks/FIs. Primarily, only
+information on immovable collaterals such as Land, Flat, Building and Capital Machineries will
+be included in collateral database. Without incorporating in the existing CIB Online System, this
+database will be managed with a new system named as Collateral Information System. Following
+instructions are issued hereunder for submission of collateral information according to the input
+structure of collateral database finalized by the bureau:
+1. All information on the aforementioned collaterals has to be uploaded to the system
+through two Text Files named as Security data file and Subject data file.
+2. Data pertaining to Land, Flat, Building and Capital Machineries have to be reported in
+Security Information Table, mortgage information related to Land, Flat or Building has to be
+reported in Mortgage Information Table and hypothecation information related to Capital
+Machineries has to be reported in Hypothecation Information Table of Security Data File. Apart
+from this, when a security (Land, Flat, Building and Capital Machineries) is mortgaged or
+hypothecated its related link information has to be reported in Security-Link table.
+3. In addition to subjective information of borrower, owner's and mortgagor's subjective
+information of the security has also to be reported in Subject Information Table of Subject Data
+
+--- Page 2 ---
+File. Furthermore, in order to link the owner with his/her security, Subject-Security Link
+information has to be reported in Subject-Link Table. In case of mortgage, borrower and
+mortgagor have to be linked with mortgage information through Subject-Mortgage Link and in
+case of hypothecation, borrower has to be linked with hypothecation information through
+Subject-Hypothecation Link in Subject-Link Table.
+4. Collateral information has to be uploaded to the Collateral information system on
+quarterly basis.
+5. March' 2018 Collateral Batch Contribution has to be uploaded to the system on or
+before 31 May' 2018.
+6. From June' 2018 Collateral Batch Contribution and onwards, every Quarterly
+Collateral Batch Contribution has to be uploaded to the system on or before 20th of the quarter
+ending following month.
+7. During sanctioning a loan, from Collateral Information System it is mandatory for all
+banks/FIs to collect collateral report of the security which is supposed to be mortgaged.
+This circular will be effective with immediate effect.
+
+
+Yours faithfully
+
+(Monsura Khatun)
+General Manager
+Phone: 9530133

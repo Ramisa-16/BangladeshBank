@@ -1,0 +1,46 @@
+--- Page 1 ---
+Department of Currency Management and Payment Systems
+Bangladesh Bank
+Head Office
+Dhaka-1000
+Website: http://www.bb.org.bd
+
+DCMPS (PSD) Circular No. 02/2012
+
+
+
+
+
+Date: March 20, 2012
+
+Managing Director/CEO
+All Scheduled Banks in Bangladesh
+Dear Sir,
+Implementation of National Payment Switch
+Bangladesh Bank has started to implement National Payment Switch (NPS) under the Central Bank
+Strengthening Project. National Payment Switch will act as a mother switch and will gradually connect all the child
+switches owned or shared (owned and operated either by bank or a non bank entity) by the scheduled banks in the
+country. Each child switch will have a single interface with the NPS through which child switches will send inter-bank
+transactions originating from their alternate delivery channels, namely ATM, KIOSKS, POS, E-Commerce, Internet
+Banking, Mobile Banking etc. as offered by the banks. NPS will support transactions made through cards or account
+number (direct debit/credit), clear and settle these electronic transactions through the settlement accounts of all the
+scheduled banks maintained with Bangladesh Bank.
+Furthermore, NPS will have interfaces with all the major international payment schemes e.g., VISA,
+MasterCard, AMEX etc so that the banks will be able to send the transactions originating from those international
+branded cards through National Payment Switch.
+Bangladesh Bank strongly believes that National Payment Switch will help grow electronic payment
+infrastructure in Bangladesh, facilitate electronic commerce and thereby reduce dependency on cash transactions
+substantially.
+Banks those have their own transaction switching system or share others’ system or planning to install their
+own system are advised to take necessary preparation to build up a single interface with the National Payment
+Switch so that they can send all inter-bank transactions originating from ATM, POS, KIOSKS, E-Commerce, Internet
+Banking, Mobile Banking etc. channels through this interface. Banks are also advised to consult with Bangladesh
+Bank before taking any new initiatives in this regard to ensure conformity with the NPS.
+Further information/guidelines in this regard will be communicated from Bangladesh Bank in due course.
+Please acknowledge receipt.
+Sincerely,
+
+-Signed
+(A K M Fazlur Rahman)
+Deputy General Manager
+Phone: 7123443

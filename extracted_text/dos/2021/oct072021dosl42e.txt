@@ -1,0 +1,409 @@
+--- Page 1 ---
+DOS Circular Letter No. 42
+
+Chief Executives
+All Scheduled banks in Bangl
+
+
+
+Mark-to-Market based R
+Please refer to DOS C
+DOS Circular Letter No. 02/2
+Based on the assessme
+banking sector following deci
+1. The maximum lim
+portfolio were set in DOS Circ
+For all Non-pr
+For all Primar
+It has been decided tha
+permitted to exceed the maxi
+period, the maximum HTM lim
+For all Non-pr
+For all Primar
+The enhanced HTM li
+bank needs to progressively re
+limit shall not exceed:
+
+As on 31 December 2023
+As on 31 December 2024
+2. Transfer of approv
+category is generally not perm
+BANGLADESH BANK
+(Central Bank of Bangladesh)
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+www.bb.org.bd
+
+
+
+
+
+
+
+adesh
+Revaluation of Treasury Bills and Bonds he
+Circular Letter No. 05/2008, DOS Circular L
+012, and DOS Circular No. 01/2014 on the ca
+ent of current liquidity condition and level of
+sions have been made:
+mit of holding approved Securities in Held-t
+cular No. 01/2014 as follow:
+rimary dealer banks: 110% of SLR;
+ry dealer banks: 125% of SLR.
+at all banks (both the primary and non-prima
+imum HTM limit by 10 percentage points.
+mit is re-set as under:
+rimary dealer banks: 120% of SLR;
+ry dealer banks: 135% of SLR.
+imit shall be restored to its present state in a
+educe the holding approved Securities in HTM
+Non-primary dealer banks
+Primar
+115% of SLR
+13
+110% of SLR
+12
+ved securities from the Held-for-Trading (H
+mitted. However, Primary Dealers (PDs) of g
+Date: 07/10/2021
+ld by the Banks
+Letter No. 05/2009,
+aptioned subject.
+f market risk in the
+to-Maturity (HTM)
+ary dealer bank) are
+For a limited time
+a phased manner. A
+M so that the HTM
+ry dealer banks
+0% of SLR
+5% of SLR
+HFT) to the HTM
+overnment treasury
+
+--- Page 2 ---
+securities are allowed to remeasure treasury bonds that match certain criteria. In this regard,
+following decisions have been made:
+Treasury bonds have been categorized as HFT and have remained unsold for at
+least two years from the date of purchase may be remeasured. All PDs are eligible
+to carry out such remeasurement.
+ii.
+Treasury bonds have been categorized as HFT and have remained unsold for at
+least one year from the date of purchase may also be remeasured by a PD that
+holds approved securities in the HFT category not less than 50% of its required
+SLR of that period. In this instance, a PD may remeasure bonds to the extent where
+the holding of approved securities in the HFT portfolio does not fall below 50% of
+its required SLR at the time of remeasurement.
+iii.
+Treasury bonds that have already been selected as Benchmark Securities (by DMD
+Circular No. 6/2020 or its subsequent circular letter) or will be selected as
+Benchmark Securities in future are not allowed to remeasure in any situation.
+2a. Other instructions:
+Although the remeasured securities are categorized as HTM, for the time being,
+they will be excluded from the maximum limit of holding approved securities in
+the HTM category.
+ii.
+The remeasured securities will be eligible for SLR, Repo, and ALS operation.
+iii.
+All other existing regulations regarding HTM securities will be applicable for the
+remeasured securities.
+2b. Accounting Procedure:
+A bond should be remeasured at the purchase price (clean) or fair value, whichever
+is lower.
+ii.
+In cases where the market value of the bond at the time of remeasurement is higher
+than the purchase price, the bond should be remeasured at the purchase price and
+the appreciation (market value - purchase price) should be adjusted with
+revaluation reserve for the bond under consideration. If there is any excess in
+revaluation reserve for the bond under consideration after such adjustment, it may
+be taken into the P/L account. (see Annexure-I)
+iii.
+On the other hand, in cases where the market value of the bond is less than the
+purchase price, it should be remeasured at the market value. In this case, the
+existing revaluation reserve for the bond under consideration may be taken into the
+P/L account. (see Annexure-I)
+iv.
+Any difference between new book value and maturity amount should be amortized
+over the remaining life of the bond as usual.
+
+--- Page 3 ---
+2c. Reporting:
+Any remeasuremen
+remeasurement in th
+ii.
+The remeasured b
+monthly reporting in
+3. This circular letter
+Circular Letter No. 02/2012, w
+within the purview of DOS
+expiration. Other instructions
+05/2009, and DOS Circular N
+
+
+
+nt shall be reported to DOS within the nex
+he prescribed format (Annexure-II)
+ond should be shown under HTM portfo
+n DB-5p (DOS Circular Letter No. 05/2008)
+r shall come into force with an immediate
+will be substituted by this one. All remeasur
+Circular Letter No. 02/2012 will continue
+of DOS Circular Letter No. 05/2008, DOS C
+No. 01/2014 shall remain unchanged.
+Sincerely yo
+(Md. Anwarul
+General Man
+Phone: 9530
+
+xt 10 days of such
+olio during regular
+e effect and DOS
+rements carried out
+e until their usual
+Circular Letter No.
+ours,
+
+l Islam)
+nager
+0093
+
+--- Page 4 ---
+Annexure-I
+Example:01 [MTM> Purchase price]
+
+
+
+
+(amount in BDT)
+Face value: 30,00,00,000
+Purchase price (clean): 31,00,00,000
+Mark to market value: 34,00,00,000
+Revaluation reserve: 5,00,00,000
+At the time of remeasurement:
+T-bond -HTM (remeasured)
+Dr.
+31,00,00,000
+RRA (Revaluation reserve)
+Dr.
+5,00,00,000
+T-bond - HFT
+Cr.
+34,00,00,000
+P/L a/c
+Cr.
+2,00,00,000
+
+Example:02 [MTM<Purchase price]
+Face value: 30,00,00,000
+Purchase price (clean): 31,00,00,000
+Mark to market value: 28,00,00,000
+Revaluation reserve: 1,00,00,000
+At the time of remeasurement:
+T-bond – HTM (remeasured)
+Dr.
+28,00,00,000
+RRA (Revaluation reserve)
+Dr.
+1,00,00,000
+T-bond - HFT
+Cr.
+28,00,00,000
+P/L a/c
+Cr.
+1,00,00,000
+
+--- Page 5 ---
+Annexure-II
+Information Regarding Remeasured Treasury Bonds from Fair Value to Amortized Cost
+(To be submitted within the next 10 days of Remeasurement)
+
+Date
+ISIN
+Date of
+Purchase
+Date of
+Issue
+Date of
+Maturity
+Holding
+period
+(no of
+days)
+Face
+Value
+Purchase
+Price
+(Clean
+price)
+M2M Value at
+the time of
+Remeasurement
+Revaluation
+Reserve A/c
+Balance
+Remeasured
+Value
+Amount
+Transferred
+to P/L A/c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HTM to required SLR (%):
+HFT to required SLR - before remeasurement (%):
+HFT to required SLR - after remeasurement (%):

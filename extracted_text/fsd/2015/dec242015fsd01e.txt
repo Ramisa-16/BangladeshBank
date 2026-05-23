@@ -1,0 +1,187 @@
+--- Page 1 ---
+Financial Stability Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+Website: www.bb.org.bd
+
+
+
+
+
+FSD Circular No. 01
+
+Date:
+10 Poush, 1422
+24 December 2015
+
+Chief Executives
+All Scheduled Banks and Financial Institutions in Bangladesh
+
+
+Dear Sir,
+
+Setting up of Central Database for Large Credit (CDLC)
+
+
+Bangladesh Bank has adopted a series of reform measures to strengthen its supervisory and prudential
+framework for enhancing financial discipline and establishing a robust financial system in line with the
+international best practices. As a result, a considerable progress has been made in credit discipline and
+recovery initiatives. A portion of loans may, however, turn into bad/loss that making stress on financial
+soundness, e.g., earnings, and capital adequacy of an individual bank or Financial Institution (FI),
+thereby leading to financial system instability. Indeed, a large exposure could appear as burdensome
+for an individual bank or FI and create instability in the whole financial system. Though the low
+quality credit portfolio is not that significant yet, it may create stress on the individual bank or FI in
+particular and the financial system in general if left unaddressed.
+
+Bangladesh Bank, in this context, has decided to introduce a new oversight framework for large
+exposures to identify and manage the low quality assets well ahead of time before they appear as a
+cause to financial distress. The framework will involve all concerned banks and FIs to initiate joint or
+individual, as the case may be, prompt corrective efforts for managing those assets. At this onset,
+Bangladesh Bank has decided to establish a Central Database for Large Credit (CDLC) to monitor the
+large exposures in a more structured way. The procedures of setting up of the CDLC and reporting
+process are as follows:
+
+1. Setting up of CDLC for Early Recognition of Low Quality Assets
+
+1.1 A CDLC shall be created to collect, store and share credit data among the concerned banks and
+FIs. The data shall include banks’ and FIs’ all types of exposures to person(s), counter party(s) or
+group(s) including investments in bonds/debentures/commercial papers issued by those
+borrowers/obligors.
+
+1.2 Banks and FIs are instructed to report all of their exposures (funded and non-funded) to
+person(s), counter party(s) or group(s) and investments in bonds, debentures or commercial
+papers having an aggregate exposure of BDT 50 (Fifty) Crore and above. Banks and FIs are
+advised to follow the definition of person(s), counter party(s) or group(s) as specified in the
+BRPD Circular No. 02 of 16 January 2014 and other concerned circulars of Bangladesh Bank.
+
+1.3 Banks and FIs are also instructed to identify the budding stress in their exposures by splitting the
+Standard category into following four sub-categories for the purpose of reporting under this
+circular before turning those to Special Mention Accounts (SMA) in accordance with BRPD
+Circular No. 14 of 23 September 2014, FID Circular No. 08 of 03 August 2002 and all
+subsequent amendments:
+
+--- Page 2 ---
+Sub-category
+Basis of Category
+Standard-0
+Regular/Renewed/Rescheduled/Restructured
+Standard-1
+Overdue between 01-29 days
+Standard-2
+Signals of budding:
+Overdue between 30-59 days
+Standard-LQ*
+As described in paragraph 1.4
+
+
+*LQ=Low Quality
+
+1.4 Categorizing Standard-LQ through Qualitative Measures:
+
+i. Delay of 30 days or more in (a) submission of stock report and other stipulated operating
+control statements or (b) credit monitoring or financial statements or (c) non-renewal of
+facilities based on audited financial statements.
+
+ii. Actual sales or operating profits falling short of projections accepted for loan sanctioned by
+40% or more; or a single event of non-cooperation/prevention from conduct of stock audits by
+banks/FIs; or reduction of Drawing Power (DP) by 20% or more after a stock audit; or
+evidence of diversion of funds for unapproved purpose(s); or drop in internal risk rating by 2 or
+more notches in a single review.
+
+iii. Return of 3 or more cheques/debit instructions/electronic debit instructions issued by
+borrowers in 30 days on ground of non-availability of balance/DP in the account or return of 3
+or more bills/cheques discounted or sent under collection by the borrower.
+
+iv. Devolvement of Deferred Payment Guarantee (DPG)/ its installments or Letter of Credit (LC)
+or invocation of Bank Guarantee (BG) and its non-payment within 15 days.
+
+v. Third request for extension of time for creation of charges/mortgage of securities beyond the
+time specified in original sanction terms or non-compliance with any other terms and
+conditions of sanction.
+
+vi. Frequent overdrawing in loan accounts.
+
+1.5 Banks and FIs should identify these early warning signs of weaknesses in the borrower’s
+accounts with a view to rectifying those deficiencies at the earliest. They must put in place a
+proper management information and reporting system so that any account having principal or
+interest overdue for 30 days or more gets reported as Standard-2 on the 30th day itself.
+
+1.6 As soon as an account of a borrower is reported to CDLC as Standard-2 or Standard-
+LQ, concerned banks and FIs should form a Lenders’ Committee with a signed agreement called
+Joint Lenders Forum (JLF) with a Convener and formulate a Corrective Action Plan (CAP) for
+that account.
+
+1.7 The existing consortium arrangement may serve as the JLF where the lead bank or FI shall act as
+the Convener. For accounts with multiple banks or FIs, the bank or FI with the highest exposure
+(funded and non-funded) shall convene the JLF meeting at the earliest and facilitates exchange
+of information on that account.
+
+2. Credit Risk Management
+
+2.1 Banks and FIs shall carry out their independent credit appraisal in all cases and must not depend
+on the credit appraisal report(s) prepared by outside consultants, especially the in-house
+consultants of the borrower.
+
+2.2 Banks and FIs may carry out sensitivity tests/scenario analyses, especially for large projects,
+which could, inter alia, include project delays and cost overruns. This will aid in taking a view
+on viability of the project at the time of deciding the CAP.
+
+--- Page 3 ---
+2.3 Banks and FIs should ascertain the source of equity capital brought in by the
+promoters/shareholders to avoid multiple leveraging as it may effectively camouflage the
+financial ratios, leading to adverse selection of the borrowers.
+
+2.4 Banks and FIs shall verify whether the name of individual, proprietor, partner, director,
+guarantor or trustee of the organization or company appear in the list of defaulters with reference
+to the National Identification Number (NID), Electronic Taxpayer’s Identification Number (e-
+TIN), etc. while carrying out the credit appraisal. Furthermore, in case of any doubt arising on
+account of identical names, concerned bank or FI shall verify the identity of the individual,
+proprietor, partner, director, guarantor or trustee of the organization or company.
+
+2.5 With a view to ensuring proper end-use of funds and preventing diversion of funds by the
+borrowers, banks and FIs shall engage auditors for specific certification purpose without relying
+on the certification given by borrowers’ auditors. However, this does not, in any way, substitute
+bank’s or FI’s basic due diligence in this regard.
+
+3. Board Oversight
+
+3.1 The Board of Directors of banks and FIs should proactively use the CDLC for early recognition
+of deterioration in asset quality and taking necessary steps to halt it and focus on improving the
+credit risk management system.
+
+3.2 The Board should put in place a policy for timely submission of credit data to the CDLC, prompt
+formation of the JLF, monitoring the progress of the JLF and review the status of exposure
+reported to the CDLC on quarterly basis.
+
+4. Reporting
+
+Financial Stability Department (FSD) of Bangladesh Bank shall make the required reporting formats
+available to the banks and FIs in due course. Banks and FIs are advised to submit their returns as per
+specified MS Excel format (soft copy only) to FSD until further order. The reports shall have to be
+submitted in the following way:
+
+4.1 The first reporting month will be December 2015 and the first report to be submitted by 29
+February 2016.
+
+4.2 The second report (i.e., report of January 2016) to be submitted by 15 March 2016.
+
+4.3 Subsequent reports to be submitted, based on the balance of the last day of the reporting month,
+within the last working day of the following month (i.e., report of February 2016 to be submitted
+by 31 March 2016).
+
+4.4 All banks and FIs should take utmost care about the data accuracy and integrity while submitting
+the data on large credit to Bangladesh Bank.
+
+Above instructions are issued in accordance with Section 45 of the Banking Companies Act, 1991,
+Section 12 of the Financial Institutions Act, 1993 and Article 43(a) of the Bangladesh Bank Order,
+1972.
+
+
+
+Yours sincerely,
+
+(Debashish Chakrabortty)
+General Manager
+Phone: +88-02-9530279

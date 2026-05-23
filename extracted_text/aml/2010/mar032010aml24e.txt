@@ -1,0 +1,402 @@
+--- Page 1 ---
+Anti-Money Laundering Department
+Bangladesh Bank
+Head Office
+Dhaka.
+
+AML Circular No. 24
+
+
+Date : 03 March, 2010
+
+Managing Director/Chief Executive
+All banks and financial institutions
+
+Instructions to be followed for compliance of the provisions of Money
+Laundering Prevention Act, 2009 and Anti Terrorism Act, 2009.
+
+
+For compliance of the provisions of Money Laundering Prevention Act, 2009 and
+Anti Terrorism Act, 2009 by banks and financial institutions the following instructions
+are issued as per power conferred in section 23(1)(Gha) of Money Laundering Prevention
+Act, 2009 and in section 15(1) (chha) of Anti Terrorism Act, 2009 :
+01. Policies for Prevention of Money Laundering and Terrorist Financing
+
+In pursuance of section 16(2) of Anti Terrorism Act, 2009 and Anti Money
+Laundering Department’s letter dated 04.07.2006, all banks and financial institutions
+must have their own policy manual approved by their Board of Directors/topmost
+committee to prevent money laundering and terrorist financing. This policy manual must
+be in conformity with international standard and laws and regulations in force in
+Bangladesh. Banks and the financial institutions shall from time to time review and
+confirm the meticulous compliance of the circulars issued by Bangladesh Bank.
+02. Customer Identification;
+
+It is mandatory to collect and verify the correct and complete identification
+information of customers to prevent money laundering and terrorist financing and to keep
+the financial sector free from risks. KYC (Know Your Customer) procedure shall apply
+to both individuals and institutions where customer is defined as under:
+Ø any person or institution maintaining an account of any type with a bank or
+financial institution or having banking related business;
+Ø the person or institution as true beneficial owner in whose favour the account is
+operated;
+Ø the trustee, intermediary or true beneficial owner of the transaction of the accounts
+operated by the trust and professional intermediaries (such as lawyer/law firm,
+chartered accountant, etc)under the existing legal infrastructure;
+Ø high value single transaction conducted in a single Demand Draft, Pay Order,
+Telegraphic Transfer by any person or institution or any person/institution
+involved in a financial transaction that may pose reputational and other risks to the
+institution. In this case if a transaction appears abnormal in relation to the usual
+transaction of the concerned person or institution that transaction will be treated as
+“high value”;
+03. To protect banks and financial institutions from risks of money laundering or/and
+terrorist financing by customers willful or unwilling activities, the Money Laundering
+Prevention policy Manual as described in part one of this circular shall clearly state how
+to conduct Customer Due Diligence at different stages such as:
+Ø while establishing relationship with the customer;
+Ø while conducting financial transaction with the existing customer;
+Ø while remitting money and providing other services at the request of non account
+holders; and
+
+--- Page 2 ---
+Ø while there is reasonable ground to suspect about the adequacy or veracity of
+previously obtained customer identification data.
+3.1 To be sure about the customer’s identity and underlying purpose of establishing
+relationship with the institution, each institution shall collect adequate information up to
+its satisfaction.
+Explanation: “Satisfaction of the institution” means satisfaction of the appropriate
+authority that necessary due diligence has been conducted considering the risks of the
+customers in the light of existing directions.
+3.2 If a person operates an account on behalf of the customer, the concerned
+bank/financial institution must satisfy itself that the person has due authorization to
+operate. Correct and complete information of the person, operating the account, are to be
+collected.
+3.3 Legal status and accuracy of information of the operators are to be ascertained in case
+of the accounts operated by trustee and professional intermediaries (such as lawyers/law
+firm, chartered accountants, etc).
+3.4 While establishing and maintaining business relationship and conducting transaction
+with a person (including legal representative, financial institution or any other institution)
+of the countries and territories that do not meet international standard in combating
+money laundering (such as the countries and territories enlisted in Financial Action Task
+Force’s Non-cooperating Countries and Territories list) enhanced due diligence shall
+have to be ensured.
+3.5 The identity of the beneficial owner of the account shall have to be confirmed on the
+basis of the information obtained from reliable sources up to the satisfaction of the
+institution:
+Ø Complete and correct information of identity of the persons besides the
+customer, shall have to be collected and preserved if a customer operate an
+account on behalf of another person in his/her own name.
+Ø The controller or the owner of the customer shall have to be identified.
+Ø Complete and correct information of identity of the beneficial owners shall
+have to be collected and preserved. For the purpose of this subsection a person
+will be treated as a beneficial owner if:
+a) he has controlling share of a company or/and
+b) hold 20% or more shares of a company.
+4. Politically exposed Persons (PEPs)
+
+The instructions in relation to Politically Exposed Persons as contained in AML
+circular no. 14 dated 25 September 2007 stand substituted as follows:
+
+While opening and/or operating account of Politically Exposed Persons (PEPs)
+enhanced due diligence shall have to be exercised. PEPs means “Individuals who are or
+have been entrusted with prominent public functions in a foreign country, for example
+Heads of State or of government, senior politicians, senior government, judicial or
+military officials, senior executives of state owned corporations, important political party
+officials”. All instructions as detailed for PEPs shall equally apply if business
+relationship is established with the family members and close associates of these persons
+who may pose reputational risk to the bank.
+
+Following instructions shall have to be followed to ensure Enhanced Due
+Diligence, while opening and operating the account of Politically Exposed Persons
+(PEPs):
+ka) a risk management system shall have to be introduced to identify risks associated
+with the opening and operating accounts of PEPs;
+
+--- Page 3 ---
+kha) obtain senior management approval for establishing business relationships with
+such customers;
+ga) take reasonable measures to establish the source of wealth and source of funds;
+gha) ongoing monitoring of the transactions have to be conducted; and
+uma) the banks/financial institutions should observe all formalities as detailed in
+Guidelines for Foreign Exchange Transactions while opening accounts of non-residents;
+
+The above instructions shall also be applicable to customers or beneficial owners
+who become PEPs after business relationship have been established.
+5. Correspondent Banking
+
+The instructions in relation to correspondent banking as contained in the AML
+circular no 7 dated 14 august, 2005 and in the section 3(ka) of AML circular no 19 dated
+14 august, 2008 shall be substituted by the instructions as follows:
+5.1 For the purpose of this circular correspondent banking shall mean providing services
+which are approved by Bangladesh Bank like credit, deposit, collection, clearing,
+payment or other similar services by one bank (correspondent) to another bank
+(respondent).
+5.2 While establishing and continuing correspondent banking relationship following drill
+should be observed so that banking system can not be abused for the purpose of
+money laundering :
+Ø Before providing correspondent banking service senior management approval
+must be obtained on being satisfied about the nature of the business of the
+respondent bank through collection of information as per annexure-1
+Ø Banks should establish or continue a correspondent relationship with a foreign
+bank only if it is satisfied that the bank is effectively supervised by the relevant
+authority.
+Ø Banks should not establish or continue a correspondent banking relationship
+with any shell bank. [Here shell bank refers to such banks as are incorporated
+in a jurisdiction where it has no branches or activities and which is unaffiliated
+with a regulated financial group.]
+Ø Correspondent banking relationship shall not be established or continued with
+those respondent banks that established correspondent banking relationship or
+maintain account with a shell bank.
+Ø Banks should pay particular attention when maintaining a correspondent
+banking relationship with banks incorporated in a jurisdiction that do not meet
+international standards for the prevention of money laundering (such as the
+countries and territories enlisted in Financial Action Task Force’s Non-
+cooperating Countries and Territories list). Enhanced due diligence shall be
+required in such cases. Detailed information on the beneficial ownership of
+such banks and extensive information about their policies and procedures to
+prevent money laundering shall have to be obtained.
+Ø Enhanced Due Diligence shall have to be exercised in case of the respondent
+banks that allow direct use of the correspondent account by their customers to
+transact business on their behalf(i.e. payable through account)
+Ø The instructions described in this circular shall be applicable to the entire
+existing correspondent banking relationship.
+6. Branches and subsidiaries situated/located in foreign jurisdiction
+
+The instructions contained in section 2(gha) of AML circular no. 19 dated 14
+august, 2008 shall be substituted by the following instructions:
+6.1 Reporting organizations (in applicable cases) under Money Laundering Prevention
+Act, 2009 and Anti Terrorism Act, 2009 having branches and subsidiaries abroad shall
+
+--- Page 4 ---
+also comply with the provisions of Money Laundering Prevention Act, 2009 and Anti
+Terrorism Act, 2009.
+6.2 If branch or a subsidiary located abroad, for any reason fails to comply with the
+instructions of Money Laundering Prevention Act, 2009 and Anti Terrorism Act, 2009 it
+shall without any delay report to such cases to Anti Money Laundering Department
+mentioning the reason of the failure.
+7. Appointment and Training
+7.1 Appointment: One of the major purposes of combating money laundering and
+terrorist financing activities is to protect the banks and financial institutions from risks
+arising out of money laundering and terrorist financing. To meet this objective, banks and
+Financial Institutions shall have to undertake proper screening mechanism in their
+different appointment procedures so that they do not face money laundering and terrorist
+financing risks by any of their staff.
+7.2 Training for the officials: To ensure proper compliance of anti money laundering
+and anti terrorism activities each bank and financial institutions shall arrange suitable
+training for their officials. To deter siphoning of legally or illegally earned money abroad,
+banks and financial institutions shall also arrange trade based money laundering training
+along with anti money laundering and anti terrorism financing related training for their
+officials dealing in foreign exchange transactions.
+7.3 Education and training for customers: Banks and financial institution shall respond
+to customers on different matters including KYC and TP attached to the account opening
+form with proper rationale. Banks and financial institutions shall time to time distribute
+leaflets among customers to make them aware about money laundering and terrorist
+financing and also arrange to stick posters in every branch at a visible place.
+
+You are requested to ensure compliance of the instructions of this circular and
+bring the content of this circular to the notice of all concerned.
+
+Meanwhile please acknowledge receipt.
+
+
+Yours faithfully,
+
+Enclosure: 02(two) pages.
+(Debaprosad Debnath)
+General Manager
+Tel: 7125765
+
+--- Page 5 ---
+cwiwkó-Ô1Õ
+ANTI-MONEY LAUNDERING & TERRORIST FINANCING
+QUESTIONNAIRE FOR CORESPONDENT RELATIONSHIP
+
+BASIC INFORMATION
+
+Name of the Institution: ____________________________________________
+
+Registered Address:
+
+
+
+
+
+
+
+Website Address:
+
+Principal Business Activities: ______________________________________
+Regulatory Authority:
+Operational Status:
+Does your Bank maintain a physical presence in the licensing country? Yes No
+
+OWNERSHIP / MANAGEMENT
+Is your institution listed in any stock exchange?
+If so, which stock exchange?
+
+Yes No
+If ‘’No’’ to Q7, please provide a list of the major shareholders holding more
+than 10% shares in your institution.
+
+ANTI-MONEY LAUNDERING AND TERRORIST FINANCING CONTROLS
+Additional information to be incorporated at the end of the questionnaire if your answer is “no” to any of the
+following questions
+I. General AML&CFT Policies, Practices and Procedures:
+Does your institution have policies and procedures approved by your
+institution’s board or senior management to prevent money laundering and
+combating terrorist financing?
+Yes No
+Does your institution have a legal and regulatory compliance program that
+includes a designated officer that is responsible for coordinating and
+overseeing the AML/CFT framework?
+Yes No
+Has your institution developed written policies documenting the processes
+to prevent, detect and report suspicious transactions?
+Yes No
+Does your institution have a policy prohibiting accounts/relationships with
+shell banks? (A shell bank is defined as a bank incorporated in a
+jurisdiction in which it has no physical presence and which is unaffiliated
+with a regulated financial group.)
+Yes No
+Does your institution permit the opening of anonymous or numbered
+accounts by customers?
+Yes No
+Does your institution have policies to reasonably ensure that they will not
+conduct transactions with or on behalf of shell banks through any of its
+accounts or products?
+Yes No
+Does your institution have policies covering relationships with Politically
+Exposed Persons (PEP’s), their family and close associates?
+Yes No
+Does your institution have policies and procedures that require keeping all
+the records related to customer identification and their transactions?
+If ‘’Yes’’, for how long?____________________________________
+Yes No
+
+
+II. Risk Assessment
+Does your institution have a risk-based assessment of its customer base and
+their transactions?
+Yes No
+Does your institution determine the appropriate level of enhanced due
+diligence necessary for those categories of customers and transactions for
+those that have reason(s) to pose a heightened risk of illicit activities at or
+through the FI?
+Yes No
+
+III. Know Your Customer, Due Diligence and Enhanced Due Diligence
+
+Has your institution implemented processes for the identification of
+Beneficial Ownership (those customers on whose behalf it maintains or
+operates accounts or conducts transactions)?
+Yes No
+Does your institution have a requirement to collect information regarding its
+customers’ business activities?
+Yes No
+Does your institution have a process to review and, where appropriate,
+update customer information relating to high risk client information?
+
+
+Yes No
+Does your institution have procedures to establish a record for each new
+customer noting their respective identification documents and ‘Know Your
+Yes No
+
+--- Page 6 ---
+Customer’ information?
+Does your institution complete a risk-based assessment to understand the
+normal and expected transactions of its customers?
+Yes No
+
+IV. Reportable Transactions for Prevention and Detection of ML/TF
+Does your institution have policies or practices for the identification and
+reporting of transactions that are required to be reported to the authorities?
+Yes No
+Where cash transaction reporting is mandatory, does your institution have
+procedures to identify transactions structured to avoid such obligations?
+Yes No
+Does your institution screen customers and transactions against lists of
+persons, entities or countries issued by government/competent authorities?
+Yes No
+Does your institution have policies to reasonably ensure that it only operates
+with correspondent banks that possess licenses to operate in their countries
+of origin?
+Yes No
+
+IV. Transaction Monitoring
+Does your institution have a monitoring program for unusual and potentially
+suspicious activity that covers funds transfers and monetary instruments
+such as travelers checks, money orders, etc?
+Yes No
+
+V. AML Training
+Does your institution provide AML& CFT training to relevant employees of
+your organisation?
+Yes No
+Does your institution communicate new AML related laws or changes to
+existing AML related policies or practices to relevant employees?
+Yes No
+Does your institution provide AML training to relevant third parties if they
+are employed to carry out some of the functions of your organisation?
+Yes No
+
+Space for additional information:
+(Please indicate which question the information is referring to.)
+
+D. GENERAL
+
+Does the responses provided in this Declaration applies to the following
+entities:
+Head Office and all domestic branches
+
+
+
+Overseas branches
+
+
+
+
+Domestic subsidiaries
+
+
+
+
+
+Overseas subsidiaries
+
+Yes No
+
+
+
+
+
+
+If the response to any of the above is ‘’No’’, please provide a list of the branches and /or subsidiaries that are
+excluded, including the name of the institution, location and contact details.
+
+I, the undersigned, confirm to the best of my knowledge that the information provided in this questionnaire is
+current, accurate and representative of the anti-money laundering and anti-terrorist financing policies and procedures
+that are established in my institution.
+I also confirm that I am authorized to complete this questionnaire on behalf of my institution.
+Signature:
+
+
+
+Name:
+
+
+
+
+Designation:
+
+
+
+Date:
+
+
+
+
+Contact No:
+
+
+
+Email:

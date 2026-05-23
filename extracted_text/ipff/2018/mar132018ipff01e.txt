@@ -1,0 +1,3964 @@
+--- Page 1 ---
+IPFF II Project Cell
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+
+IPFF II Circular No. 01 Date: March 13, 2018
+
+Chief Executive Officers (CEOs)/Managing Directors (MDs)
+All Banks and Financial Institutions in Bangladesh
+
+Head Office
+
+Dhaka
+
+Dear Sirs,
+Financing Facility under the Investment Promotion
+
+and Financing Facility Il (IPFF I) Project
+
+A Financing Agreement was signed by the Government of People’s Republic of
+Bangladesh (GoB) with the International Development Association (IDA) on November 05,
+2017 to carry out IPFF II Project with a view to increase long term financing for
+infrastructure and to build capacity of the local financial institutions for promoting private
+sector-led infrastructure financing in Bangladesh. In pursuance of section I.C, Schedule 2 of
+the Financing Agreement, Finance Division, Ministry of Finance (MoF) on behalf of the
+GoB, in turn, signed an Administration Agreement with Bangladesh Bank on January 17,
+2018 assigning responsibility to the latter to carry out IPFF II Project on behalf of them.
+
+02. IPFF II Project Cell of Bangladesh Bank as Project Implementation Unit (PIU) will
+provide long-term Financing Facility to Participating Financial Institutions (PFIs) against
+government approved/endorsed investment projects for onward financing (Infrastructure
+Financing) in the eligible infrastructure sectors to be carried out by private sector
+investors/sponsors. The terms and conditions including operational procedures for availing
+Financing Facility are detailed in the Operations Manual (OM), which is attached herewith.
+Bangladesh Bank shall enter into a Master Facility Agreement with each PFI that meets the
+eligibility criteria set out in the OM.
+
+03. Scheduled commercial banks in private sector and Financial Institutions that meet the
+eligibility criteria and intends to avail financing facility may apply to the Project Director of
+IPFF II Project preferably by April 19, 2018.
+
+04. Application must include all required information and documents stated in Annexure | of
+the OM. Incomplete application will not be entertained.
+
+Please bring the contents of this circular to the notice of all your constituents concerned.
+The circular will be effective immediately.
+
+Sincerely yours,
+
+Attachment: As mentioned চি Qa"
+
+(Md. Zulkar Nayn )
+Deputy General Manager, Bangladesh Bank
+
+Deputy Project Director, IPFF II Project
+Phone: 9530230
+
+--- Page 2 ---
+OPERATIONS MANUAL
+of
+INVESTMENT PROMOTION AND FINANCING
+FACILITY II (IPFF II) PROJECT
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT IMPLEMENTATION UNIT
+IPFF II PROJECT CELL
+BANGLADESH BANK
+
+
+MARCH 2018
+
+--- Page 3 ---
+ii
+
+Table of Contents
+
+Sl
+Contents
+Page
+Introduction
+Objectives of IPFF II Project
+Background
+Implementation Arrangement
+Selection of PFIs
+Responsibilities of PFIs
+Eligible Sectors for IPFF II Financing
+Requirements of Investment Sponsor
+10
+Terms and Conditions for Sanctioning Infrastructure Financing
+10
+10
+Operational Procedure for Availing Facility Loan
+13
+11
+Repayment Mechanism
+14
+12
+Restructuring of Facility Loan
+15
+13
+Master Facility Agreement
+15
+14
+Facility Access Agreement
+17
+15
+Infrastructure Financing Agreement
+18
+16
+Procurement
+19
+17
+Financial Management
+27
+18
+Monitoring and Reporting
+29
+19
+Environmental and Social Risk Management
+30
+
+Appendix : Definitions
+32
+
+Annexure 1: Eligibility Criteria for Enlistment as PFI
+36
+
+Annexure 2: Exclusion List
+40
+
+Annexure 3: List of Environmentally and Socially Sensitive Activities
+41
+
+Annexure 4: Loan Application for Availing Facility Loan
+42
+
+Annexure 5: Document Checklist
+53
+
+Annexure 6: Summary Details of Investment Project
+56
+
+Annexure 7: Undertaking by the PFI
+58
+
+Annexure 8: Quarterly Report of PFI on Infrastructure Financing
+59
+
+Annexure 9: Figure Showing IPFF II Project Implementation Arrangements
+60
+
+Annexure 10: Grievance Redress Mechanism
+61
+
+--- Page 4 ---
+iii
+
+ABBREVIATIONS AND ACRONYMS
+A&BD
+Accounts and Budgeting Department
+BB
+Bangladesh Bank
+BDT
+Bangladeshi Taka
+BIFFL
+Bangladesh Infrastructure Finance Fund Limited
+CAO
+Chief Accountant’s Office
+CIB
+Credit Information Bureau
+COD
+Commercial Operation Date
+CPTU
+Central Procurement Technical Unit
+DFI
+Development Finance Institution
+DoE
+Department of Environment
+DOSA
+Dollar Special Account
+ECAI
+External Credit Assessment Institutions
+ECC
+Environmental Clearance
+EFT
+Electronic Fund Transfer
+e-GP
+Electronic Government Procurement
+EHS
+Environment, Health and Safety
+EPC
+Engineering, Procurement and Construction
+ERD
+Economic Relations Division
+E & S
+Environmental and Social
+ESA
+Environmental and Social Audit
+ESAP
+Environmental and Social Action Plan
+ESIA
+Environmental and Social Impact Assessment
+ESMP
+Environmental and Social Management Plan
+ESMS
+Environmental and Social Management System
+ESPP
+Environmental and Social Policy and Procedures
+ESRM
+Environmental and Social Risk Management
+FAA
+Facility Access Agreement
+FAPAD
+Foreign Aided Project Audit Directorate
+FC
+Foreign Currency
+FD
+Finance Division
+FEPD
+Foreign Exchange Policy Department
+FID
+Financial Institutions Division
+FIDP
+Financial Institutions Development Project
+FM
+Financial Management
+FRTMD Forex Reserve and Treasury Management Department
+GED
+General Economic Division
+GoB
+Government of the People’s Republic of Bangladesh
+GPN
+General Procurement Notice
+ICB
+International Competitive Bidding
+ICT
+Information and Communication Technology
+IDA
+International Development Association
+IDCOL
+Infrastructure Development Company Limited
+IEE
+Initial Environmental Examination
+
+--- Page 5 ---
+iv
+
+IFC
+International Finance Corporation
+IM
+Information Memorandum
+IMED
+Implementation Monitoring and Evaluation Division
+IPDP
+Indigenous People’s Development Plan
+IPFF
+Investment Promotion and Financing Facility
+IUFR
+Interim Unaudited Financial Report
+L/C
+Letter of Credit
+LLCR
+Loan Life Coverage Ratio
+LoI
+Letter of Intent
+M&E
+Monitoring and Evaluation
+MFA
+Master Facility Agreement
+MoF
+Ministry of Finance
+MoU
+Memorandum of Understanding
+MRR
+Materials Receipt Report
+MTD
+Model Tender Document
+NBFI
+Non-Bank Financial Institution
+NCT
+National Competitive Tender
+NPL
+Non-Performing Loan
+OM
+Operations Manual
+OTM
+Open Tendering Method
+PA
+Procuring Agency
+PAC
+Project Audit Committee
+PD
+Project Director
+PE
+Procuring Entity
+PFI
+Participating Financial Institution
+PFP
+Procurement Focal Person
+PIC
+Project Implementation Committee
+PIU
+Project Implementation Unit
+PMO
+Prime Minister’s Office
+PO
+Purchase Order
+PPA
+Public Procurement Act
+PPP
+Public Private Partnership
+PPPA
+Public Private Partnership Authority
+PPR
+Public Procurement Rules
+PPSD
+Project Procurement Strategy for Development
+PR
+Performance Rating
+PSC
+Project Steering Committee
+RAP
+Resettlement Action Plan
+SCC
+Site Clearance Certificate
+SEID
+Socio-Economic Infrastructure Division
+SFD
+Sustainable Finance Department
+STEP
+Systematic Tracking of Exchanges in Procurement
+TA
+Technical Assistance
+TAPP
+Technical Assistance Project Proposal
+
+--- Page 6 ---
+ToR
+Terms of Reference
+TSA
+Technical Services Agreement
+UNDB
+United Nations Development Business
+USD
+United States Dollar
+
+--- Page 7 ---
+INVESTMENT PROMOTION AND FINANCING FACILITY II PROJECT
+
+OPERATIONS MANUAL
+
+1. Introduction
+
+A ‘Financing Agreement’ was signed by the Government of the People’s Republic of Bangladesh (GoB)
+with the International Development Association (IDA) on November 05, 2017 for Euro 94.40 million
+(approximately United States Dollar (USD) 100.00 million equivalent) and Special Drawing Right (SDR)
+189.70 million (approximately USD 256.70 million equivalent) under IDA Credit Number 6004
+(Portion A)-BD & IDA Credit Number 6005 (Portion B)-BD respectively along with USD 60.00 million
+equivalent Bangladeshi Taka (BDT) counterpart fund from GoB to carry out Investment Promotion and
+Financing Facility II (IPFF II) Project with a view to increase long term financing for infrastructure and
+to build capacity of the local financial institutions for promoting private sector-led infrastructure
+financing in Bangladesh. In pursuance of Section I.C, Schedule 2 of the Financing Agreement, Finance
+Division (FD), Ministry of Finance (MoF) on behalf of the GoB, in turn, signed an Administration
+Agreement with Bangladesh Bank (BB) on January 17, 2018 assigning responsibility to the latter to carry
+out IPFF II Project on behalf of them. The total cost of the IPFF II Project is USD 416.70 million (BDT
+327942.90 Lac equivalent). Out of this amount, USD 13.00 million (BDT 10231.00 Lac equivalent) will
+be used for Technical Assistance Component and the rest USD 403.70 million (BDT 317711.90 Lac
+equivalent) will be used for Long-Term Infrastructure Financing Component. The tenure of the Project is
+five (5) years i.e. from July 2017 to June 2022.
+
+This Operations Manual (OM) delineates the procedures and other relevant issues for effective
+implementation of the IPFF II Project. BB, with endorsement from IDA, may amend/revise the manual
+from time to time. As per Section 1.B, Schedule 2 of the Financing Agreement, BB has prepared this OM
+setting out the operational and administrative procedures for Project. The scope of this OM includes:
+(i) procurement and financial management procedures; (ii) eligibility criteria for selection of the
+Participating Financial Institutions (PFIs) and selection of Subprojects; (iii) terms and conditions for
+Investment Financing; (iv) implementation of Subprojects; (v) the staffing, management and
+responsibilities of the Project Implementation Unit (PIU) to be called as IPFF II Project Cell; (vi) key
+Environmental and Social Risk Management (ESRM) arrangements and obligations of the PIU, PFIs and
+Investment Sponsors; (vii) grievance redress mechanism and enforcement of the same under IPFF II
+Project.
+
+
+2. Objectives of IPFF II Project
+
+The main objective of the project is to increase long-term financing for infrastructure and to build
+capacity of the local financial institutions for promoting private sector-led infrastructure financing in
+Bangladesh.
+
+--- Page 8 ---
+IPFF II is designed to achieve the above objective by way of following two broad components:
+Component 1 (Long-Term Infrastructure Financing Component):
+Long-term financing will be provided under the IPFF II Facility (the Facility) to PFIs for further on-
+lending and investment support of long-term infrastructure investments by private sector
+investors/Investment Sponsor (hereinafter called Sponsor).
+In addition to conventional debt, the long-term financing component will support leveraging the market
+through innovative and diverse financial instruments. The instruments will include innovative debt
+instruments such as promoter/sponsor loans, mezzanine financing, takeout financing facilities,
+specialized project/infrastructure bonds etc. Moreover, equity and credit guarantees/credit enhancement1
+will also be piloted. Bangladesh Infrastructure Finance Fund Limited (BIFFL) will take the lead in
+developing innovative instruments and piloting the same based on market response and the design will be
+agreed with BB and IDA. Regardless of the type of instrument and nature of claim (debt/equity)
+associated with the transaction, the financing to PFIs will be in the form of on-lending (debt).2 As such, at
+the BB to PFI level, treatment of financing parameters will be the same across regular debt financing and
+other financial instruments, including equity and guarantees. Tentatively USD 30 (Thirty) million is
+primarily earmarked for the innovative financing instruments; in case less than a full indicative amount is
+used for this purpose, the funds will be utilized for traditional on-lending and vice versa.
+As regards administration of equity, guarantees, and other eligible infrastructure finance instruments to
+be introduced in the project, the project funds will be disbursed to the PFIs as debt, on terms and
+conditions agreed for these instruments during project implementation.
+Component 2 (Technical Assistance Component):
+This component will provide
+i) Technical assistance to Public Private Partnership Authority (PPPA) for the development of the
+infrastructure project pipeline, including PPPs.
+ii) Technical assistance for strengthening capacity of project stakeholders such as: government
+agencies, PFIs and Investment Sponsors in the area of environmental and social risk
+management in infrastructure project financing.
+iii) Technical assistance to BIFFL for the development of new long-term infrastructure finance
+instruments.
+iv) Support to BB for Project implementation activities.
+
+
+
+1Utilizing the project funds for guarantee reserves to be created.
+2 Such instruments could expand financing options to the borrowing companies and also allow traditional lenders—banks and
+nonbank financial institutions, institutional investors—to expand their provision of finance to the infrastructure projects on
+improved terms (lower interest rates, longer maturities, better currency, and structuring choices) and with more options for risk
+management.
+
+--- Page 9 ---
+3. Background
+
+BB implemented a project named Investment Promotion Financing Facility (IPFF) Project with a view to
+provide long-term loan for infrastructure projects and to promote the role of private sector entrepreneurs
+in the development of infrastructure. IPFF started its journey back in 2007 with IDA Credit Number
+4169-BD amounting USD 50.00 million. GoB contributed 20% of IDA money (USD 10.00 million
+equivalent BDT) as counterpart fund. In the backdrop of utilizing the entire amount to finance some
+small power plants much ahead of credit closure and having demand for long-term fund in the financial
+market, the IDA extended additional financing of USD 257.00 million through IDA Credit Number
+4693-BD and GoB contributed USD 50.00 million equivalent BDT as counterpart fund which was
+successfully closed on December 31, 2016. Under IPFF, twelve power plants having capacity of 589
+Megawatt, three water treatment plants, one inland container depot & cargo freight station, one dry-dock,
+one jetty construction, two nationwide telecommunication transmission network projects, and one
+hospital infrastructure project have been financed through the PFIs. However, due to huge demand for
+Infrastructure Financing, GoB and IDA agreed to continue its support by way of a follow-on project IPFF
+II Project to enhance long-term financing and provide Technical Assistance (TA).
+
+4. Implementation Arrangement
+
+4.1 Management:
+i. IPFF II Project Cell of BB will act as the PIU and be responsible for overall implementation,
+coordination and supervision of project activities as per Administration Agreement signed
+between GoB and BB. Technical Advisors/Consultants will be appointed/hired to provide
+technical support to IPFF II Project Cell in reviewing financing facility loan proposal and other
+activities relating to project under Technical Services Agreements (TSA)/Contracts. Technical
+Advisors/ Consultants will execute certain activities relating to IPFF II, PPPA and BIFFL as per
+the TSA/contract under direct supervision of respective organizations. IPFF II Project Cell will
+oversee the Technical Advisor's/Consultant’s activities under the project.
+ii. Executive Director or any other official of BB nominated by Governor of BB will be the Project
+Director (PD) of IPFF II Project. He/She will implement the project components with the
+cooperation of FD, Economic Relations Division (ERD), PPPA and BIFFL. The PD will be the
+approval authority for all Facility Loan proposals under the Project after getting concurrence from
+IDA. He/She will also be the approval authority for payment of all expenses including goods,
+services and consulting services under TA Component of the Project complying regulations of
+GoB and/or IDA. He/She may refer cases to the Governor of BB by his own judgment during the
+approval process.
+iii. A Project Implementation Committee (PIC) headed by the Governor, BB and representatives3
+from FD, Financial Institution Division (FID) and ERD of MoF, Socio-Economic Infrastructure
+Division (SEID), General Economic Division (GED) and Implementation Monitoring and
+Evaluation Division (IMED) of Ministry of Planning and Prime Minister’s Office (PMO) will
+
+3 Finance Division with consultation of IPFF II Project Cell may increase or decrease the member/ number of representative of
+the PIC.
+
+--- Page 10 ---
+meet periodically to decide on implementation aspects of the project. The PD will act as the
+Member Secretary of the PIC.
+iv. A Project Steering Committee (PSC) headed by the Senior Secretary/Secretary, FD and
+representatives4 from FD, FID and ERD of MoF, IMED and SEID of Ministry of Planning and
+PMO will meet periodically to decide on policy and major implementation aspects of the project.
+The PD will act as the Member Secretary of the PSC.
+
+4.2 IPFF II Project Management Set-up:
+Following diagram summarizes the project management set-up:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 Finance Division may increase or decrease the member/number of representative of the PSC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project
+Steering
+Committee
+Project Audit
+Committee
+Project Implementation Unit
+(IPFF II Project Cell)
+Project Director
+
+Project
+Implementation
+Committee
+Deputy Project Director
+Project Managers
+Deputy Project Managers
+Assistant Project Managers
+Support Staffs
+
+PFIs
+
+
+Technical Advisors
+and/or Consultants
+
+--- Page 11 ---
+4.3 Roles and Responsibilities of IPFF II Project Cell:
+IPFF II Project Cell of BB will act as the PIU for IPFF II Project and be responsible for overseeing
+and management of IPFF II fund. This cell will coordinate with concerned ministries, IDA, PPPA,
+BIFFL, different departments and units of BB to ensure effective implementation of the Facility.
+Responsibilities of IPFF II Project Cell will be as follows:
+
+i. Identifying and selecting eligible PFIs following the criteria delineated in this manual, and signing
+separate Master Facility Agreement (MFA) with the selected PFIs. PFIs’ compliance with these
+eligibility criteria will be closely monitored and tracked on an on-going basis.
+
+ii. Receiving loan applications for IPFF II facility loan from PFIs.
+
+iii. Reviewing the loan applications to ensure that the loans are provided to the target group, and follow
+proper procurement process and safeguard including environmental and social procedures.
+
+iv. Processing withdrawal requests with IDA and GoB to make the fund available for onward
+disbursement to PFIs and meeting expenses under TA.
+
+v. Approving facility and disbursement of funds according to the policy guidelines and OM.
+
+vi. Maintaining all disbursement records and accounts of each PFI along with supporting documents.
+
+vii. Recovering installments (Principal and Interest) and other applicable charges from PFIs as per the
+amortization schedule and OM.
+
+viii. Conducting off-site monitoring supported by on-site inspection, if needed both, at the PFIs and the
+ultimate borrower entities/Sponsors in order to ensure the effective utilization of the facility.
+
+ix. Collecting periodic progress reports of implementation of the Subprojects from the PFIs and
+forwarding the consolidated reports to the IDA.
+
+x. Preparing and posting all transaction vouchers as per the procedures given in OM.
+
+xi. Arranging workshops, seminars and training programs on different aspects of the project.
+
+xii. Monitoring environmental and social safeguards compliance of the investment sponsor in line with
+Environmental and Social Policy and Procedures (ESPP) of IPFF II Project.
+
+xiii. Ensuring PFIs’ compliance with the Project’s safeguards and fiduciary framework.
+
+xiv. Procuring goods and services as per procurement plan of IPFF II following Project Procurement
+Strategy for Development (PPSD) of IPFF II Project.
+
+xv. Performing other tasks and functions as are necessary to achieve the objective of the Project.
+
+--- Page 12 ---
+4.4 Organogram:
+ORGANOGRAM OF IPFF II PROJECT CELL
+PROJECT
+DIRECTOR
+DEPUTY PROJECT
+DIRECTOR
+PROJECT
+MANAGER-1
+DEPUTY PROJECT
+MANAGER-1
+ASSISTANT
+PROJECT
+MANAGER-1
+DEPUTY PROJECT
+MANAGER-2
+ASSISTANT
+PROJECT
+MANAGER-2
+PROJECT
+MANAGER-2
+DEPUTY PROJECT
+MANAGER-3
+ASSISTANT
+PROJECT
+MANAGER-3
+PROJECT
+MANAGER-4
+DEPUTY PROJECT
+MANAGER-5
+ASSISTANT
+PROJECT
+MANAGER -5
+PROJECT
+MANAGER-3
+DEPUTY PROJECT
+MANAGER-4
+ASSISTANT
+PROJECT
+MANAGER-4
+
+
+4.5 Roles and Responsibilities of BIFFL and PPPA:
+i. BIFFL and the PPPA will maintain organizational arrangements overseen by the respective heads
+of the organizations to absorb TA successfully which will include monitoring and evaluation of
+internal performance and results that will feed into the overall project Monitoring and Evaluation
+(M&E) structure.
+
+ii. Managing the steps in relevant consultancy services as per the approved procurement plan of IPFF
+II, as shared by BB PIU.
+
+iii. Provide monitoring reports to the BB PIU and the IDA in an agreed format and periodicity.
+
+iv. Maintain financial accounts so as to ensure smooth financial reviews/audits of their TA allocations
+as part of the overall Financial Management (FM) of the project.
+
+v. Also embed appropriate Environmental and Social (E & S) considerations into their project related
+activities, in line with the overall project E & S design.
+
+--- Page 13 ---
+5. Selection of PFIs
+
+For being a PFI of IPFF II, private sector scheduled commercial banks (including foreign banks duly
+licensed in Bangladesh) and non-bank financial institutions (NBFIs) operating in Bangladesh can apply.
+IPFF II Project Cell will have the responsibility for selecting and enlisting banks and NBFIs as the PFIs
+subject to their compliance with the eligibility criteria as mentioned in the Annexure 1.
+
+MFAs (format available in https://www.bb.org.bd) will be signed between IPFF II Project Cell and the
+selected financial institutions that meet the eligibility criteria. The PFIs, thereafter, need to maintain the
+required standard level of operations, to be reviewed annually during IPFF II tenure. IPFF II Project Cell
+may delist any PFI failing to comply with the eligibility criteria or breaching any clause in the MFA.
+IPFF II Project Cell will share eligibility review summary with IDA for concurrence before signing
+MFA.
+
+The two state-owned development finance institutions (DFIs), BIFFL and Infrastructure Development
+Company Limited (IDCOL), which are licensed as NBFIs, will also be eligible to participate as PFIs.
+Separate MFA will be signed between IPFF II Project Cell and the two DFIs.
+
+Once MFA is signed, the PFIs can start submitting the loan applications and proposals to IPFF II Project
+Cell for availing the fund.
+
+6. Responsibilities of PFIs
+
+The PFIs will undertake credit/investment risks of the infrastructure projects and be responsible for the
+detailed assessments of the projects’ soundness, financial and economic feasibility, and ESRM aspects.
+The PFIs will also monitor implementation of the financed infrastructure projects and will maintain
+accounts and records which will allow smooth review/monitoring and assessment of the individual
+projects and the entire infrastructure project portfolio of IPFF II. The details are as follows:
+
+i. Financing facility shall be provided for the sectors mentioned in Section Seven (7) of this manual.
+
+ii. Intending private entrepreneur/investment sponsor of a Subproject can approach any selected PFIs
+for availing Facility Loan.
+
+iii. Respective PFIs will conduct due diligence on the Subproject proposed by the Sponsor.
+
+iv. PFIs will be responsible for reviewing individual Subproject for eligibility under the facility against
+eligibility criteria, including the List of Excluded Activities (Exclusion List) as mentioned in
+Annexure 2 and BB ESRM guidelines list issued by Sustainable Finance Department (SFD) of BB;
+
+v. ESRM screening, identification of risks and impact process as conducted by the Sponsor, and
+performance monitoring of the respective Subproject will be conducted as per the procedure
+described in the IPFF II E & S Policy and Procedures prepared and disclosed by BB. The PFIs will
+keep track, in collaboration with the respective Sponsor, of the Subproject’s ESRM compliance
+issues.
+
+--- Page 14 ---
+vi. PFIs shall be permitted to finance Subprojects associated with high risk activities listed in the List
+of Environmentally and Socially Sensitive Activities as mentioned in Annexure 3 provided IDA
+and IPFF II Project Cell are of the view that they have sufficient capacity to manage these risks.
+
+vii. After necessary approval at their end, PFIs will send the loan application (Annexure 4) along with
+document checklist (Annexure 5) and related documents (Annexure 6 & 7) to IPFF II Project Cell.
+
+viii. Syndication amongst the PFIs and non-PFIs will be permitted. However, IPFF II Facility will be
+provided to PFIs only. The lead PFI will be the focal point for operation of the financing facility
+and its repayment to BB. All the PFIs will be responsible for credit administration and recovery
+from the Sponsors.
+
+ix. Before financial closure, the PFIs will have to arrange financial/credit syndication with other PFIs
+and non-PFI partners in the market. Quality of the PFIs’ risk management process will have an
+impact on their selection of non-PFI syndication partners.
+
+x. PFIs must ensure that standard commercial practices of the Subproject acceptable to the IDA and
+BB, have been followed by the Sponsor in procuring the goods, services or works.
+
+xi. PFIs must ensure proper utilization of the fund for the intended purpose.
+
+xii. PFIs will coordinate with BB and IDA in off-site and on-site quality check of such financing.
+
+xiii. PFIs will submit reports (as per Annexure 8) on disbursement of IPFF II facility quarterly and
+utilization of fund to IPFF II Project Cell as required.
+
+xiv. PFIs may seek necessary guidance from IPFF II Project Cell for capacity building regarding proper
+implementation of Environmental and Social Management System (ESMS) and appraisal of
+Subproject.
+
+xv. PFIs must ensure compliance with all regulatory and supervisory requirements of BB.
+
+xvi. PFIs will co-invest (either alone or by syndication) assuming all credit risk and shall exercise its
+rights in relation to each Investment Project in such manner as to (a) protect the interests of BB, the
+GoB, the IDA, and of the PFI; (b) comply with its obligations under the MFA; and (c) achieve the
+purposes of the credit as per terms mentioned in OM.
+
+xvii. PFIs will not be associated with corrupt and unethical business activities or practices inconsistent
+with the Investment Project pursuant to the OM.
+
+xviii. After receiving approval to participate in the Facility, the PFIs must continue to satisfy the
+eligibility criteria as per MFA.
+
+--- Page 15 ---
+xix. If the PFI is not in compliance with any of the eligibility criteria, IPFF II Project Cell will promptly
+notify the PFI regarding the specific eligibility criteria which the PFI is not in compliance and seek
+appropriate response from the PFI to remedy the violation within a stated agreed upon time period.
+
+xx. If the PFI fails to maintain its eligibility status under the Facility or fails to repay the outstanding
+facility loan by a specific date with up to date interest, the IPFF II Project Cell with intimation to
+IDA, will have the right to suspend all infrastructure financing amortizations under the facility and
+recover the outstanding facility loan with up to date interest by debiting current account (local
+currency) and/or foreign currency (FC) clearing Account of the PFI with BB.
+
+xxi. IPFF II may re-establish the eligibility status of the PFI upon demonstrated compliance by the PFI
+that the specific eligibility violations have been removed, mitigated or no longer exists.
+
+xxii. PFI will ensure that, within three days of occurrence, Sponsors notify the PFI, and the PFI in turn,
+notifies IPFF II Project Cell, of any social, labor, health and safety, security or environmental
+incident, accident or circumstance having, or which could reasonably be expected to have, any
+material impact on compliance of the Subproject with the agreed Environmental and Social
+Management Plan (ESMP).
+
+xxiii. PFI will follow all the instructions issued/given by IPFF II Project Cell regarding investment
+facilities.
+
+7. Eligible Sectors for IPFF II Financing
+
+Long-Term Infrastructure Financing facility will be extended through the PFIs against government
+approved/endorsed (by appropriate authority/licensed by competent authority in applicable case)
+infrastructure projects in eligible sectors mentioned as follows:
+Power generation, transmission, distribution, renewable energy and services;
+ii.
+Port development (sea, river and land) including inland container terminals, inland container
+depot and other services;
+iii.
+Environmental, industrial and solid waste management projects;
+iv.
+Highways and expressways including mass-transit, bridges, tunnels, flyovers, interchanges, city
+roads, bus terminals, commercial car parking, etc;
+Airports, terminals and related aviation facilities;
+vi.
+Water supply and distribution, sewerage and drainage;
+vii.
+Industrial estates, economic zones, eco parks, theme parks and parks development;
+viii.
+Social sector including infrastructure in health and education;
+ix.
+Information and communication technology (ICT, including wi-max, internet backbone and e-
+learning facilities);
+
+--- Page 16 ---
+10
+
+8. Requirements of Investment Sponsor
+
+The Sponsors willing to avail the IPFF II Fund through the PFIs under this Facility shall follow the
+following procedures:
+i. The Sponsor shall have received a Letter of Intent (LoI) legally and systematically from the
+concerned government agency for the government-sponsored infrastructure investment project
+Or
+The Sponsor shall have prepared a proposal for a private infrastructure project of a type identified
+by the government as eligible for financing under the facility.
+ii. The Sponsors shall have the capability in terms of financial, management and industry working to
+carry out the Subproject.
+iii. The Sponsor shall provide evidence of ability to inject/provide required equity contribution to the
+development of the proposed investment project.
+iv. The Sponsor shall have received the credit approval from the PFIs for the investment project.
+v. The Sponsor shall have obtained appropriate environmental clearance from the Department of
+Environment (DoE) and other clearance from the related government agencies. If the clearance is
+under process of examination/issuance, the Sponsor must submit the clearance to the PFI before
+the fund disbursement.
+vi. The Sponsor shall carry out the process of identification of E & S risks and impacts of Subproject,
+as well as prepare required management plans, ensure adequate stakeholder engagement process
+and disclosure, conduct monitoring and reporting (to BB and other stakeholders, as needed), on
+the implementation of E & S risk management measures, in accordance with the requirements of
+the World Bank Performance Standards. The Sponsor will follow the process described in IPFF II
+E & S Policy and Procedures.
+vii. The Sponsor shall abide by all the prevailing rules and regulation of GoB, IDA and BB.
+
+
+9. Terms and Conditions for Sanctioning Infrastructure Financing
+
+IPFF II Financing Facility will be provided to PFIs as the partial debt financing to the
+infrastructure investment proposal. The Sponsor will typically bring 25 (Twenty Five) percent or
+more of the total Subproject cost as equity.
+ii.
+IPFF II Project will finance no more than 50 (Fifty) percent of the total project cost of a
+Subproject and maximum financing to a single infrastructure Subproject shall not exceed 20
+(Twenty) percent of the total IDA allocation under long-term infrastructure financing/on-lending
+component.
+iii.
+The rest of the total financing will require to be financed by the PFI alone or, in syndication, with
+other financial institutions. The PFIs and other financial institution will provide their shares of
+the financing to the Subproject in local currency or foreign currency or both.
+
+--- Page 17 ---
+11
+
+iv.
+Financing facility will be extended either in USD or in BDT, or in a combination of both USD
+and BDT, at fixed or variable rates, depending on request by the PFIs and business need of the
+Subproject.
+Facility Loan in USD financing will be provided only to the PFIs who are authorized by BB to
+deal in foreign exchange. PFIs will have to obtain permission/approval from Foreign Exchange
+Policy Department (FEPD) of BB for such financing, if necessary.
+vi.
+The interest rate of facility loans for PFIs shall be as follows:
+Currency
+Fixed
+Variable
+USD
+USD 10-year swap rate + 50 Basis
+Point (bp)
+USD 12-month Libor
+(Potentially
+also
+USD
+6-month
+Libor + 30 bp and USD 3-month
+Libor + 60 bp)
+BDT
+GoB T-Bill 364-day yield + 100 bp
+GoB T-Bill 364-day yield
+vii.
+The interest rate on the Facility Loans shall be standardized across PFIs. The grace period and
+amortization schedule shall match that of infrastructure financing extended by PFIs, subject to
+the maximum terms indicated below. It may be noted that the grace period offered to the Sponsor
+by a PFI can be longer but cannot be shorter than the grace period the PFI receives from IPFF II.
+Maturity of loans to the PFIs will aim to mirror maturity of financing from the PFIs to project
+Sponsors. Financing for the private sector Sponsors may be made for working capital and
+investment purposes. The list of applicable reference interest rates of facility loans will be
+continuously maintained by IPFF II Project Cell.
+viii.
+Facility Loans to the PFIs will have at least 8 (Eight) years (or 96 months) of maturity and can be
+provided up to 20 (Twenty) years (or 240 months), including grace period of maximum 3 (Three)
+years. Grace period may be extended in exceptional cases, subject to concurrence of IDA.
+ix.
+Facility Loans shall be disbursed to PFIs against Infrastructure Financing made or to be made by
+PFIs to finance Subprojects and shall be completed before the closing date of the IPFF II Project.
+PFIs shall disburse Infrastructure Financing to Sponsors immediately after getting funds from
+IPFF II Project.
+xi.
+The interest rate on facility loans to the investment Sponsor shall be determined by the respective
+PFI in accordance with its usual lending practices. The cost of financing by PFIs to investment
+sponsor will include, at a minimum, the cost of the project fund plus an on-lending margin
+reflecting: (i) the PFI’s administrative costs and (ii) a credit risk margin.
+xii.
+When presenting the infrastructure financing proposal (submitted by the PFI & reviewed by the
+technical advisor/consultant) to the IDA for approval, IPFF II Project Cell will include:
+a. a description of the Investment Sponsor and an appraisal of the Investment Project,
+including a description of the expenditures proposed to be financed out of the proceeds of
+the credit; Environmental and Social Impact Assessment (ESIA) or Environmental and
+Social Audit (ESA), as applicable, and any environmental and social risk management
+
+--- Page 18 ---
+12
+
+plans, such as Resettlement Action Plan (RAP) that might have been prepared by sponsor
+by that time as well as Environmental and Social Action Plan (ESAP) that will list actions
+to be taken by sponsor to ensure compliance with Bangladesh regulations and World Bank
+Performance Standards.
+b. the proposed terms and conditions of the Infrastructure Financing, including the schedule
+of amortization of the Infrastructure Financing; and such other information as the IDA
+shall reasonably request.
+xiii.
+All Infrastructure Financing by a PFI shall be subject to prior concurrence by the IDA. Selection
+of Subprojects shall be based on the principles of value for money, economy, integrity, fit-for-
+purpose, efficiency, transparency, fairness, and innovativeness.
+xiv.
+The Infrastructure Financing shall be made on terms whereby the PFI shall obtain, by written
+contract with the Investment Sponsor or by other appropriate legal means, rights adequate to
+protect the interests of the GoB, the IDA and the PFI, including right to
+a) require the investment sponsor to (i) carry out and operate the Investment Project with due
+diligence and efficiency, in accordance with the provisions of Anti-Corruption Guidelines,
+and in accordance with sound technical, financial, managerial, social and environmental
+standards and practices acceptable to the IDA; (ii) maintain adequate records and (iii)
+provide, promptly as needed, the resources and labor required for carrying out the
+Investment Project.
+b) require that: (i) the goods and services to be financed out of the proceeds of the credit shall
+be procured in accordance with established commercial practices and procedures
+satisfactory to the BB and IDA; and (ii) such goods and services shall be used exclusively
+in the carrying out of the Investment Project;
+c) require the Investment Sponsor to carry out the ESMPs and ESMS in a manner
+satisfactory to the PFI, IPFF II Project Cell, GoB and the IDA
+d) require the Sponsor to annually carry out the audit of the Investment Project under terms
+of reference satisfactory to the PFI;
+e) inspect, by the PFI itself or jointly with representatives of the BB/IDA if the BB/IDA shall
+so request, such goods and the sites, works, plants and construction included in the
+Investment Project, the operation thereof, and any relevant records and documents;
+f) require that: (i) the Investment Sponsor shall take out and maintain with responsible
+insurers such insurance, against such risks and in such amounts, as shall be consistent with
+sound business practice; and (ii) without any limitation upon the foregoing, such insurance
+shall cover hazards incident to the acquisition, transportation and delivery of goods
+financed out of the proceeds of the Credit to the place of use or installation, any indemnity
+there under to be made payable in a currency freely usable by the Investment Sponsor to
+replace or repair such goods.
+g) obtain all such information as the GoB, BB, IDA or the PFI shall reasonably request
+relating to the foregoing and to the administration, operation and financial condition of the
+Sponsor and to the benefits to be derived from the Investment Project; and
+
+--- Page 19 ---
+13
+
+h) suspend or terminate the right of the Sponsor to the use of the proceeds of the Credit upon
+failure by such Sponsor to perform its obligations under its contract with the PFI
+xv.
+The PFI shall enter into an Infrastructure Financing Agreement with each Sponsor to finance the
+implementation of Investment Projects/Subprojects.
+
+10. Operational Procedure for Availing Facility Loan
+
+The Sponsors, after being selected to undertake a government approved/endorsed (by
+appropriate authority/licensed (by competent authority in applicable case) infrastructure
+projects in eligible sectors mentioned in Section Seven (7) of this OM, will approach to a PFI.
+ii.
+The Sponsor will request PFIs for financing the subproject along with a project profile
+completed with financial appraisal and technical studies, documents and papers required by the
+PFI, IPFF II Project Cell and IDA. Investment Projects will also be required to submit their
+procurement plan along with the proposal. A checklist (not exhaustive) for the documents
+required by IPFF II Project Cell and the IDA is given in Annexure 5.
+iii.
+The PFI, having received the proposal, if agreeable to invest in the Subproject, conducts due
+diligence to assess the credit worthiness of the investment sponsors and viability, credit risks
+and environmental and social risks of the investment project.
+iv.
+A PFI intending to finance a Subproject may approach IPFF II Project Cell with request for
+getting facility from IPFF II.
+IPFF II Project Cell will do the initial scrutiny as per the checklist and will forward the
+proposal to the Technical Advisors/Consultants.
+vi.
+The Technical Advisors, Environment & Social Consultants/Technical Committee and other
+consultants (if any) appointed by IPFF II Project Cell will review the proposed investment
+project and provide their advice/recommendation.
+vii.
+IPFF II Project Cell will not take commercial/credit decisions when reviewing the proposals;
+rather IPFF II Project Cell, with support from Technical Consultants and E & S qualified
+consultants as needed, reviews whether the investment projects to be financed meet predefined
+criteria e.g., acceptable procurement, sufficient equity participation, Subprojects conform with
+E & S applicable requirements including adequate E & S impact assessment and management
+plans prepared or under preparation etc.
+viii.
+Based on the assessment and recommendation, if the Subproject is found to adhere to IPFF II
+objectives, OM, and GoB policies, IPFF II Project Cell will request IDA to accord concurrence
+for funding the Subproject.
+ix.
+IDA will review the proposal and, if considers acceptable, provides its concurrence for funding
+the Subproject. IDA review will be based on the following
+ Review of technical specifications of investment project
+ Review of adequacy of procurement process and compliance of procurement process with
+commercial practices acceptable to the IDA
+
+--- Page 20 ---
+14
+
+ Review of compliance of investment project to environmental and social management
+policy and procedure
+If required, IPFF II Project Cell/PFIs will send the Subproject proposal to FEPD of BB for
+their concurrence/permission for financing in USD from IPFF II Project Cell.
+xi.
+Upon receiving concurrence for financing the Subproject proposal from IDA, facility loans will
+be extended against that Subproject through the PFIs.
+xii.
+Repayment by PFIs will be made in BDT and/or USD as per Facility Access Agreement
+(FAA). In case of USD financing, repayment will have to be made in USD and for BDT
+financing the repayment will have to be made in BDT.
+xiii.
+Repayment of the loan will start after a certain grace period and to be repaid on quarterly/half
+yearly instalments. The grace period will be determined by the PFIs based on the projected
+timing of the cash inflows of Subproject. However, the grace period will not be more than 3
+(three) years.
+xiv.
+An indicative amortization schedule for the repayment will be prepared by the PFIs in
+consultation with IPFF II Project Cell during the signing of FAA. However, final amortization
+schedule will have to be submitted to IPFF II Project Cell in due course. In case of multiple
+instalments of disbursements, this amortization schedule may be revised at the closing of the
+financing to reflect the actual disbursement.
+xv.
+Eligible investment projects are considered for financing by IPFF II Project Cell on a first-
+come-first-served basis. Applications incomplete in any respect will fall back in the queue and
+will be overtaken by other complete applications in the disbursement process.
+xvi.
+Other terms and conditions related to facility loans described in OM are also applicable for
+Subproject financing.
+The above implementation arrangement is shown in a diagram in Annexure 9.
+
+11. Repayment Mechanism
+
+As per amortization schedule, each PFI is required to pay the full amount by Cheque/Demand
+Draft/Electronic Fund Transfer (EFT) or any other means instructed by IPFF II Project Cell on
+due date.
+ii.
+IPFF II Project Cell and PFI will monitor the total repayment system.
+iii.
+Value date for repayment received is the date (before noon) the cheque or demand draft is handed
+over to IPFF II Project Cell. In case of EFT, the date provided by the debit authority will be the
+value date.
+iv.
+At the close of repayment day, if there are any non-payments, the PFI will contact and
+communicate with IPFF II Project Cell that the repayment has been missed out. IPFF II Project
+Cell may also contact and remind them.
+Late payments are subject to penalties at the prevailing interest rate applicable for the Subproject.
+vi.
+If the repayment date happens to be a holiday, the repayment will then be payable on the next
+working day without penalties.
+
+--- Page 21 ---
+15
+
+vii.
+Each PFI should maintain a database regarding their repayment due dates and monitor properly.
+viii.
+Pre-payments are allowed without penal interest. But commitment charge @ ½ (Half) of 1.00%
+(One Percent) is payable for premature adjustment of the entire amount of loan outstanding.
+ix.
+In case of partial pre-payment, repayment schedules are redrawn, and the new repayment
+schedule is entered into the system.
+
+12. Restructuring of Facility Loan
+
+Restructuring of facility extended to PFIs may be allowed in very exceptional cases, subject to
+concurrence of IDA.
+
+
+13. Master Facility Agreement
+
+Private Sector Scheduled Commercial Banks and NBFIs that meet the eligibility criteria for enlistment
+and continuity as PFI will be enlisted with the IPFF II as PFIs. A PFI, to be eligible for IPFF II credits,
+shall enter into a MFA with BB, the terms and conditions of which, inter alia, provide that:
+The PFI shall conduct its operations and affairs in accordance with sound financial standards and
+accounting and auditing practices, compliance with BB prudential norms as minimum capital
+adequacy ratio, maximum foreign currency exposure limits, positive return on equity in the last
+three years; adequate organization, management, staff and other resources, application of
+appropriate procedures for appraisal, supervision, and monitoring (including procurement, E & S
+risk management), satisfactory to the IDA.
+ii.
+The PFI shall establish and maintain procedures and operational policies, satisfactory to BB, for
+the appraisal, supervision and monitoring of infrastructure financing.
+iii.
+The PFI shall ensure that infrastructure financing will be made in accordance with the procedures
+and on the terms and conditions set forth in the OM of IPFF II Project.
+iv.
+The PFI shall exercise its rights in relation to each Subproject in such manner as to: (i) protect the
+interests of BB, the GoB, IDA, and the PFI; (ii) comply with its obligations under the MFA; and
+(iii) achieve the purpose of the Credit.
+The PFI shall duly perform all its obligations under the MFA, including those referred to in
+Section 1. H, of Schedule 2 of Financing Agreement of IPFF II Project signed between GoB and
+IDA (Environmental and Social (E & S) Risk Management). Except as the BB, GoB and IDA
+shall otherwise agree, the PFI shall not take or concur in any action which would have the effect
+of assigning, amending, abrogating or waiving the MFA or any provision thereof.
+vi.
+The PFI shall, at the request of BB, exchange views with BB with regard to the performance of its
+obligations under the MFA and other matters relating to the purposes of the Credit.
+vii.
+The PFI shall promptly inform the GoB, BB and IDA of any condition which interferes or
+threatens to interfere with the accomplishment of the purposes of the Credit or the performance by
+the PFI of its obligations under the MFA.
+
+--- Page 22 ---
+16
+
+viii.
+The PFI shall maintain procedures and records adequate to monitor and record the progress of
+each Subproject (including its cost and the benefits to be derived from it) and to reflect in
+accordance with consistently maintained sound accounting and auditing practices the operations
+and financial condition of the PFI.
+ix.
+The PFI shall enter into FAA with BB for receiving Facility Loans.
+The PFI shall carry out the Project in accordance with the provision of the Anti-Corruption
+Guidelines.
+xi.
+Facility Loans shall be disbursed to PFIs against Infrastructure Financing made or to be made by
+PFIs to finance Subprojects and shall be completed before the closing date of the IPFF II Project.
+xii.
+BB shall make available Facility Loans in accordance with; inter alia, the provisions of the FAA.
+xiii.
+The terms and conditions of Facility Loans shall be as set out in this OM and Part C of Schedule 4
+of Financing Agreement of IPFF II Project signed between GoB and IDA.
+xiv.
+The right of PFIs to use the proceeds of Facility Loans shall be suspended or terminated upon the
+suspension or termination of the related Infrastructure Financing for the relevant Subproject.
+xv.
+The PFIs to ensure their due diligence with respect to ESRM, including, inter alia:
+internalizing Applicable E & S Requirements, as well as due diligence and monitoring
+processes for IPFF II and making them an integral part of the PFI’s institutional ESMS;
+ensuring adequate implementation of the ESMS at the PFI’s level to enable design,
+construction, and operation of Subprojects in compliance with relevant GoB’s regulations
+and requirements and the IDA’s applicable E & S Requirements, including, inter-alia:
+developing and maintaining adequate organizational structure, budget, and capacity for
+identifying, managing, monitoring, and reporting on risks and impacts of Subprojects;
+ensuring fulfilment by Investment Sponsors of their respective obligations with regard to
+environmental and social due diligence and monitoring for Subprojects, including formal
+clearances and timely disclosure of environmental and social instruments for Subprojects
+(such as ESIAs, ESMPs, ESAPs are completed in accordance with the ESMS and
+applicable GoB’s regulations and requirements;
+inclusion of adequate provisions in Subproject contract documentation between PFIs and
+Sponsors to ensure compliance of Subprojects with Applicable E & S Requirements;
+Disclosure of elements of the PFIs’ ESMS and, after review by BB, summaries of the
+ESIA that is required for any Subproject considered high risk in accordance with the
+ESMS; and
+Providing BB, GoB and IDA with annual reporting of environmental and social
+performance of all Subprojects in accordance with any environmental or social
+commitments included in ESMPs and ESAPs that have been incorporated in investment
+contracts with Sponsors.
+
+--- Page 23 ---
+17
+
+14. Facility Access Agreement
+
+IPFF II Project Cell of BB shall enter into a FAA with each PFI for each Facility Loan. Except as
+the GoB, BB and the IDA shall otherwise agree, the terms and conditions of the FAA shall, inter
+alia, provide that:
+ii.
+The Facility Loan shall be utilized by the PFI to provide Infrastructure Financing for the purpose
+of assisting with the financing of a Subproject.
+iii.
+The PFI shall, unless the GoB, BB and the IDA shall otherwise agree, ensure that Infrastructure
+Financing will be made in accordance with procedures and on the terms and conditions set forth
+in this OM.
+iv.
+In respect of the Facility Loan, the PFI shall comply with all its relevant obligations set out in the
+MFA.
+The PFI shall duly perform all its obligations under the FAA including those referred to in
+Section 1. H, of Schedule 2 of Financing Agreement of IPFF II Project signed between GoB and
+IDA (Environmental and Social (E & S) Risk Management). Except as BB, GoB and IDA shall
+otherwise agree, the PFI shall not take or concur in any action which would have the effect of
+assigning, amending, abrogating or waiving the FAA or any provision thereof.
+vi.
+The PFI shall, at the request of BB, exchange views with BB with regard to the performance of its
+obligations under the FAA and other matters relating to the purposes of the Credit.
+vii.
+The PFI shall promptly inform BB, the GoB and the IDA of any condition which interferes or
+threatens to interfere with the accomplishment of the purposes of the Credit or the performance by
+the PFI of its obligations under the FAA.
+viii.
+The PFI shall maintain procedures and records adequate to monitor and record the progress of
+each Subproject (including its cost and the benefits to be derived from it) and to reflect in
+accordance with consistently maintained sound accounting practices the operations and financial
+condition of the PFI.
+ix.
+The PFI shall annually carry out the audit of the Facility Loan under terms of reference
+satisfactory to the BB.
+The Facility Loan shall be disbursed to the PFI against Infrastructure Financing made or to be
+made by the PFI to help with the financing of a Subproject.
+xi.
+The terms and conditions of the Facility Loan shall be as set out in this OM.
+xii.
+The right of the PFI to use the proceeds of the Facility shall be suspended or terminated upon the
+suspension or termination of the related Infrastructure Financing for the relevant Subproject.
+
+Besides, the following clauses shall also include in the FAA under the section of Special Conditions:
+I. The IDA and IPFF II Project Cell requires that the PFI, as well as the sponsor, suppliers, contractors
+and their agents (whether declared or not), personnel, sub-contractors, sub-consultants, service
+providers and suppliers, under the World Bank financed contracts, observe the highest standard of
+ethics during the procurement and execution of such contracts. In pursuit of this policy, the World Bank
+(a) defines, for the purpose of this provision, the terms set forth below as follows:
+
+--- Page 24 ---
+18
+
+(i) “corrupt practice” is the offering, giving, receiving or soliciting, directly or indirectly, of anything
+of value to influence improperly the actions of another party;
+(ii) “fraudulent practice” is any act or omission, including a misrepresentation, that knowingly or
+recklessly misleads, or attempts to mislead, a party to obtain a financial or other benefit or to
+avoid an obligation;
+(iii)“collusive practice” is an arrangement between two or more parties designed to achieve an
+improper purpose, including to influence improperly the actions of another party;
+(iv) “coercive practice” is impairing or harming, or threatening to impair or harm, directly or
+indirectly, any party or the property of the party to influence improperly the actions of a party;
+(v) “obstructive practice” is (aa) deliberately destroying, falsifying, altering or concealing of
+evidence material to the investigation or making false statements to investigators in order to
+materially impede a Bank investigation into allegations of a corrupt, fraudulent, coercive or
+collusive practice; and /or threatening, harassing or intimidating any party to prevent it from
+disclosing its knowledge of matters relevant to the investigation or from pursuing the
+investigation, or (bb) acts intended to materially impede the exercise of the World Bank’s
+inspection and audit rights.
+(b) The IDA and IPFF II Project Cell will reject a proposal for award if it determines that the investor
+has, directly or through an agent, engaged in corrupt, fraudulent, collusive, coercive or obstructive
+practices in competing for the contract in question;
+
+(c) The IDA and IPFF II Project Cell will cancel the portion of the loan allocated to a contract if it
+determines at any time that the sponsors, as beneficiary of the facility engaged in corrupt, fraudulent,
+collusive, or coercive practices during the procurement or the execution of the contract, the World
+Bank will take appropriate action to remedy the situation;
+
+(d) The IDA will sanction a firm or an individual, at any time, in accordance with prevailing World
+Bank’s sanction procedure, including by publicly declaring such firm or individual ineligible, either
+indefinitely or for a stated period of time: (i) to be awarded a World Bank financed contract; and (ii) to
+be nominated sub-contractor, consultant, manufacturer or supplier, or service provider of an otherwise
+eligible firm being awarded a World Bank financed contract.
+
+II. The PFI and the sponsor shall permit the IDA and IPFF II Project Cell to inspect sponsors accounts
+and records pertaining to debt financing of the plant and to have them audited by auditors appointed by
+the World Bank, if so required by the World Bank
+
+
+15. Infrastructure Financing Agreement
+
+The PFI shall enter into an Infrastructure Financing Agreement with each Sponsor to finance the
+implementation of Investment Projects/Subprojects, under specific terms and conditions corresponding to
+each type of debt instrument or guarantees, or equity and/or any other financing instrument appropriately
+developed, assessed and approved; all in accordance with criteria, requirements, and procedures set out in
+the FAA and OM.
+
+--- Page 25 ---
+19
+
+16. Procurement
+
+All goods, works, non-consulting services, and consulting services required for activities under TA of the
+IPFF II Project shall be procured in accordance with the requirements set forth or referred to in the World
+Bank’s ‘Procurement Regulations for Borrowers under Investment Project Financing’, dated July 1, 2016
+(Procurement Regulations) and the provisions of the Procurement Plan of IPFF II Project. Whereas
+procurement required for activities related to Subprojects to be funded under IPFF II shall be subject to
+acceptable commercial practices in accordance with this OM.
+
+16.1 Procurement under Long-Term Infrastructure Financing:
+
+In procuring goods, works and services, public sector entities follow Public Procurement Act (PPA) 2006
+and Public Procurement Rules (PPR) 2008. In private sector, there is no such standard guideline that is to
+be followed in general. Private Sponsors generally procure required items (goods, works, services etc.)
+through collecting offers/bids based on their necessity. However, in case of IPFF II funding private sector
+sponsors are expected to have their own procurement policy that is in compliance with the standard
+commercial practice in the industry. In IPFF II Project a wide variety of sectors are considered for
+funding under IPFF II facility loan. Therefore, the items required to be procured and the nature of
+procurement in those sectors will be varied widely. Hence, it would not possible to provide a generalized
+guideline of standard commercial practices for all the eligible sectors of IPFF II Project. However, a
+sample standard commercial practice for the procurement of equipment is given below as an example:
+
+
+Figure: procurement Process of the Potential Subprojects to be funded under IPFF II Project.
+
+Needs
+Identification
+• Identify equipment required for the project
+• Collect information on equipment from similar project
+• Recognize the proven equipment and estimate cost
+• Create requisition and obtain approval
+Request for
+Quotation
+• Search available suppliers of the equipment
+• Prepare request for quotation with details on quality, quantity and delivery time
+• Send request for quotation to prospective suppliers
+• Form procurement committee
+Quotations
+Evaluation
+• Receive quotations from suppliers
+• Examine and evaluate the quotations through the procurement committee
+• Prepare a comparative analysis of supplier’s offers and recommend the best
+• Receive approval and prepare the purchase order
+Contract
+Management
+• Send purchase order to supplier
+• Suppliers confirm purchase order in writing
+• Receive the procured object
+• Maintain record of procurement
+
+--- Page 26 ---
+20
+
+i. Needs Identification: The respective department of an investment sponsor requiring something/a
+particular object will identify the requirement of it and a purchase requisition is placed accordingly to
+the head of the respective department. The department in need of the items has to undertake an initial
+search for availability of the goods and make a price estimate that will be reflected in the standard
+requisition form. The purchase requisition should incorporate specifications and other information of
+the required goods along with the estimated price, as collected from the technical experts. After all
+necessary judgment, the head of the department has to approve the requisition and will forward it to the
+purchase department within a stipulated time. Before, submitting the requisition, estimated cost of the
+goods should be checked against the available budget. Afterwards, the purchase department will
+conduct purchase activities based on purchase requisition submitted by the concerned department. The
+department will be liable for identifying the items required and preparing the requisition. Whereas, the
+purchase department will be responsible for preparing request for quotation, placing purchase order,
+opening of Letter of Credit (L/C), release of goods, customs clearance and conducting other
+procurement aspects of the company. Besides, purchase department has to keep a master list of the
+approved suppliers, profile of the suppliers, purchase requisition, material receipt reports and quality
+check records etc.
+
+ii. Preparation of Request for Quotation and Distribution among Suppliers: After receiving a
+requisition, the purchase department would determine the procedure and available sources of
+procurement. The department will have to perform an initial search for existing stocks within the
+company, call off from existing supply agreements or order from other sources on approval. Based on
+the outcomes/performance, a list of suppliers needs to be developed to whom the request for quotation
+of the goods will be provided.
+
+Sources of Suppliers
+
+
+The purchase department will prepare a request for quotation for the items to be procured that will
+include among other things technical specification, required quantities, delivery schedule and place,
+payment procedures etc. The request for quotation has to distribute among the selected suppliers by letter,
+Master list of Approved suppliers
+Suppliers of the Proven market players
+in the Industry
+Expert Reviews as Provided in Internet
+Suppliers Recommended by the in-
+house Purchase Department
+Suppliers Recommended by Technical
+Consultant of the Project if hired
+
+--- Page 27 ---
+21
+
+fax or electronic mail, indicating the last date by which the quotations will be submitted. At this stage the
+purchase department will also form a procurement committee incorporating members from different
+departments or other/external sources as required for the procurement.
+
+iii. Collection and Evaluation of Quotations: Whenever a company receives responses against the
+request for quotation, an assessment of offers has to be conducted for identifying the best evaluated
+quotation/supplier. The evaluation can be performed depending on several criteria such as proximity to
+the specification, offered price, delivery time, previous exposure in the field, supplier’s performance
+record etc.
+
+
+Evaluation Criteria
+
+
+The procurement committee will prepare a comparative analysis statement of the offers and recommend
+the most appropriate supplier. However, the final selection of the supplier will be determined subject to
+the approval of head of the company. After receiving approval, purchase department starts to negotiate
+with the selected supplier on offered price, quality and other different components.
+
+iv. Contract Management: Purchase department is responsible for overall contract management with
+assistance of finance department. After settling the issues and mutual consent from both sides, purchase
+department would issue a Purchase Order (PO) in favor of the company/best evaluated supplier providing
+final price, delivery schedule and place, and standard specification. Thereafter, the supplier would
+confirm the order issuing an invoice in favor of the company. Purchase department will be responsible
+for collecting all necessary documents against dispatched goods. The quality check of the received goods
+also needs to be conducted by the appropriate technical persons. Purchase department will be responsible
+for collecting all necessary documents against dispatched goods.
+
+
+
+
+Offered Price
+Proximity to Specification
+Delivery Time
+Reputation in Market
+Previous Performance Record
+
+--- Page 28 ---
+22
+
+Issues in Contract Management:
+
+
+
+After receiving the goods, store department would issue Materials Receipt Report (MRR). The weight
+and quantity check of the goods needs to be performed by the store. In case of any damage, loss or
+unsuitability, an immediate report has to be sent to the purchase department providing the details.
+Purchase department will submit MRR along with other necessary documents to head of finance
+department for releasing the payment.
+
+16.2 Procurement under Technical Assistance:
+
+The procurement activities under IPFF II project would mostly concentrate on hiring consultancy
+services and procuring some goods including computer hardware and accessories, office equipment, and
+stationary under its TA Component. The consultancy service procurement would include hiring few firms
+and some individual consultants.
+
+I. Procurement Objectives:
+
+i. Ensure that purchased goods, works, non-consultancy services and consultancy services are fit for
+purpose.
+ii. Keep implementation delays low through appropriately planned and monitored procurement.
+iii. Procure products at competitive market prices.
+iv. Ensure that right quantities of required products, conforming to specified quality levels, are
+delivered to intended locations in a timely manner.
+v. Protect legitimate business interests of suppliers, contractors, and consultants with a view to
+creating and maintaining confidence of the market in the purchaser which is necessary in the long-
+term interests of the purchaser.
+
+II. Procurement Responsibility:
+
+For procurement responsibility, the PIU will be responsible for all procurements under TA component.
+For the consultancy packages necessary for PPPA and BIFFL, IPFF II Project Cell will delegate
+Issuance and Confirmation of PO
+Confirmed Receipt Document against Dispatched
+Goods
+Issuance of Material Receipt Report (MRR)
+Ensure Records of Goods
+Ensure Approval of Record
+
+--- Page 29 ---
+23
+
+procurement and contract management responsibility to PPPA and BIFFL. However, all such contracts
+shall be signed by PIU and payment will also be made by PIU. PPPA and BIFFL will provide all
+necessary technical supports to IPFF II Project Cell through signing Memoranda of Understanding
+(MoU). They have to ensure the procurement in compliance with applicable regulations and guidelines.
+For effective procurement management, these two organizations have to carry out the following roles:
+
+i. Maintain organizational arrangements overseen by the heads of the organizations.
+ii. Provide monitoring reports in connection with procurement to the PIU and IDA in an agreed
+format.
+iii. Maintain documentation for audit and other purposes as needed by the PIU and IDA.
+
+In all applicable cases, PPPA and BIFFL will seek necessary concurrence from the appropriate authority
+(BB /IDA/FD/Cabinet Committee on Government Purchase (CCGP etc.) through IPFF II Project Cell.
+Upon confirmation of receipt of service/goods from PPPA and BIFFL with recommendation to pay bill,
+the PD will be responsible for payment from the project account.
+
+III.
+Procurement Risks:
+
+The main drivers to the risks are associated to capacity constraint of the agencies and delay in performing
+procurement contract management related activities.
+
+IV. Managing Procurement Risks:
+
+In order to minimize the procurement associated risks, the following measures have been agreed upon
+with IDA (as referred in the PPSD of IPFF II Project).
+PPSD and Procurement Plan: A PPSD has been developed by the IPFF II Project Cell, in
+agreement with the IDA, taking into account the volume of items to be procured, prevailing
+market conditions, activity level risks etc. The PPSD spells out the appropriate procurement
+strategy for this project. PPSD is a live document and it is to be updated at least annually. As an
+output of the PPSD exercise, initial Procurement Plan has been prepared. For each contract to
+be financed under the project, the different selection methods for procurement, market
+approach, contracting arrangement, estimated costs, prior review requirements and time frame
+were also agreed between IPFF II Project Cell and IDA in the Procurement Plan;
+
+(ii) Introducing Systematic Tracking of Exchanges in Procurement (STEP) System: STEP is
+introduced to prepare and manage procurement plan and procurement transactions under the
+project. The procurement plan will be updated semi-annually (or as required) using STEP
+system;
+
+(iii) Bid/Proposal Evaluation Committee: All procuring agencies shall ensure that the bid/proposal
+evaluation committees are formed in a manner acceptable to the IDA, and IDA’s no objection
+shall be required on the formation, as well as alteration in the composition or membership, of
+
+--- Page 30 ---
+24
+
+the bid/proposal evaluation committees. Procurement consultant(s) of the project will be
+mandatory member(s) of the bid/proposal evaluation committee;
+
+(iv) Electronic Government Procurement (e-GP): Request for Bids (Open-National) contracts under
+the project will incrementally use the e-GP system of the country. National e-Government
+Procurement (e-GP) portal (i.e. http://eprocure.gov.bd ) of the GoB is developed, owned and
+being operated by the Central Procurement Technical Unit (CPTU), IMED of Ministry of
+Planning. The e-GP system provides an on-line platform to carry out the procurement activities
+by the Public Agencies - Procuring Agencies (PAs) and Procuring Entities (PEs). The e-GP
+system is a single web portal from where and through which PAs and PEs will be able to
+perform their procurement related activities using a dedicated secured web based dashboard.
+The e-GP system is hosted in e-GP Data Center at CPTU, and the e-GP web portal is accessible
+by the PAs and PEs through internet for their use. This online platform also helps them ensuring
+equal access to the Bidders/Tenderers and also ensuring efficiency, transparency and
+accountability in the public procurement process in Bangladesh;
+
+(v) Procurement Focal Person (PFP): BB shall nominate a procurement focal person. The appointed
+focal person will take necessary training in procurement, if required. The PFP will help BB in
+day-to-day procurement follow-up and preparation of periodic procurement reports;
+(vi)
+Local Procurement Consultant: BB will hire local procurement consultant. The consultant will
+lead and support all procurement related activities that need to be carried out as part of the
+preparation and implementation of the Project. The consultant will be a core member of the
+BB PIU and work closely with the focal persons of procuring agencies, especially BB PIU
+and all members of the PIU team;
+
+(vii)
+Other Due-diligence Measures: The following measures will be adopted as part of
+procurement and implementation arrangements: (i) all bid evaluation reports will include
+verification of recommended bidders’ post-qualification information; (ii) make bidders
+generally aware about fraud and corruption issues; (iii) preserve records and all documents
+regarding procurement (including correspondences with the potential bidders as well as
+complaints/clarification requests etc.), in accordance with the World Bank’s Procurement
+Regulations and Public Procurement Rules, to facilitate smooth procurement audit or post-
+review; and (e) publish contract award information on Central CPTU and BB’s website (and
+in United Nations Development Business (UNDB) online for international contracts).
+
+Procurement Plan:
+
+For each contract to be financed under the project, the different procurement methods or consultant
+selection methods, the need for pre-qualification, estimated costs, prior review requirements and time
+frame were agreed between the implementing agencies and the IDA in the Procurement Plan through
+
+--- Page 31 ---
+25
+
+STEP system. All expected major procurements will be announced in the General Procurement Notice
+(GPN), published in the World Bank external website and UNDB. The procurement plan will be updated
+at least semi-annually (or as required) using STEP system of the World Bank. The procurement Plan,
+including its updates, shall include:
+A brief description of the activities/contracts;
+ii.
+The selection methods to be applied;
+iii.
+Cost estimates;
+iv.
+Time schedules;
+The World Bank’s review requirements; and
+vi.
+Any other relevant procurement information.
+
+
+VI. Particular Methods of Procurement of Goods, Works and Non-consultancy Services:
+
+Except as otherwise agreed in the Procurement Plan, goods and non-consulting services may be procured
+on the basis of Request for Bids (Open-International) procurement method. As allowed under the World
+Bank’s ‘Procurement Regulations’, July 1, 2016, other selection methods, market approach, and contract
+arrangement as agreed in the Procurement Plan on a case-by-case basis can also be used. Request for
+Bids (Open-National) [i.e. National Competitive Tender (NCT)], if allowed in the procurement plan will
+be carried out under the Bank’s Procurement Regulations following procedures for Open Tendering
+Method (OTM) of GoB (PPA, 2006) using standard/model bidding documents satisfactory to the Bank.
+For the purpose of Request for Bids (Open-National) the following shall apply:
+Post bidding negotiations shall not be allowed with the lowest evaluated or any other bidder;
+ii.
+Bids should be submitted and opened in public in one location immediately after the deadline
+for submission;
+iii.
+Lottery in award of contracts shall not be allowed;
+iv.
+Bidders’ qualification/experience requirement shall be mandatory;
+Bids shall not be invited or rejected on the basis of percentage above or below the estimated
+cost.
+
+VI. Methods of Procurement of Consultants’ Services:
+
+The Procurement Plan will specify the selection method, market approach (International/National,
+Open/Limited/Direct) and contract modality for each of the selection of consultant following the World
+Bank’s “Procurement Regulations – July 1, 2016” or any other method, market approach agreed with the
+World Bank through the STEP system of the Bank.
+
+VII. Use of Standard Procurement Documents:
+
+For all procurements under the project, the Bank’s Standard Procurement Documents shall be used. In
+case of unavailability of a particular procurement document, the procuring agencies will use Model
+Tender Documents (MTD) agreed with IDA.
+
+--- Page 32 ---
+26
+
+VIII. Prior Review:
+
+The Procurement Plan shall set forth those contracts which shall be subject to IDA’s prior review. All
+other contracts shall be subject to Post Review by the IDA. Initial Procurement plan on prior review
+thresholds will be updated annually based on the review of the capacity and performance of the procuring
+entities and will be reflected in the updated procurement plan as appropriate. The prior review thresholds
+for different types of procurements under the project as per the Procurement Framework are as follows:
+
+Procurement Prior Review Thresholds (USD millions)
+Type of
+procurement
+High risk
+Substantial risk
+Moderate risk
+Low risk
+Works
+(including turnkey,
+supply &
+installation of plant
+and equipment, and
+PPP)
+10
+15
+20
+Goods, information
+technology and
+non-consulting
+services
+1.5
+Consultants:
+firms
+0.5
+Consultants:
+individual
+0.2
+0.3
+0.4
+0.5
+
+Notes:
+Irrespective of the contract value, the following procurement activities are subject to the World Bank’s
+procurement prior review:
+ Procurement processes involving contract negotiations as, described in paragraphs 6.34-6.36 of
+section VI of the Procurement Regulation for Borrowers;
+ Competitive dialogue;
+ Sustainable procurement; and
+ Best and final offer.
+
+
+IX. Post Review/Integrated Fiduciary Review:
+
+For compliance with the IDA’s procurement procedures, IDA will carry out sample post review of
+contracts that are below the prior review threshold. Procurement post-reviews will be done on annual
+basis depending on the number of post-review contracts.
+
+--- Page 33 ---
+27
+
+
+IDA may use a third-party consultant to carry out post reviews. Any such third party shall carryout the
+reviews in accordance with the Terms of References (ToRs) provided to it by the IDA. Whether
+procurement is subject to prior or post review is determined on the basis of the project and contract-
+specific procurement risks. These risks are assessed by the IDA during project preparation. The
+requirement for a prior or post review shall be specified in the Procurement Plan.
+
+X. Handling Procurement Complaints:
+
+Complaints related to procurement under the TA component will be handled in accordance with
+Procurement Regulations of the World Bank.
+
+Complaints associated with procurement under on-lending components/ to sub-projects will be handled
+by the concerned private sponsor.
+
+
+17. Financial Management
+17.1 Accounting Policies and Procedures:
+The accounting policies and procedures of IPFF II Project will be governed by the existing Project
+Accounting Manual of the MoF. All project-related transactions from all sources (IDA and GoB) will be
+accounted for separately on cash basis following double-entry bookkeeping principles.
+
+17.2 Maintenance of Books of Accounts and Records:
+BB will consolidate financial information and enter them into appropriate books of accounts/register and
+maintain supporting papers. BB and PFIs will preserve all procurement records and documents in
+accordance with provisions of the PPA 2006, PPR 2008 and the OM of IPFF II Project as applicable.
+These records will be available on request for audit/investigation/review by the Government and IDA.
+Furthermore, BB, PPPA, BIFFL and PFIs will retain their respective records of all project-related
+transactions for 5 years after completion of IPFF II Project or until the audit objections are resolved
+whichever comes later.
+
+17.3 Accounting and Reporting:
+i. Interim Un-audited Financial Report (IUFR):
+BB will prepare IUFR and submit it to the IDA no later than 45 days after the end of each calendar
+quarter. The IUFR will include: (i) sources and uses of funds, (ii) uses of funds by project activity,
+(iii) designated account reconciliation statement, and (iv)other statements as advised by IDA.
+Reporting of expenditure under long- term infrastructure financing component in the IUFR will be
+based on PFIs’ disbursement of loans and other financing instruments (e.g. equity or guarantees) to
+project sponsors. As such BB will accumulate information of utilization towards funding private
+developers from the PFIs quarterly
+
+--- Page 34 ---
+28
+
+ii. Annual Financial Statements:
+BB will prepare the project’s annual financial statements after the end of a fiscal year as per the
+prescribed format of Foreign Aided Project Audit Directorate (FAPAD) or Project Accounting
+Manual and furnish to FAPAD. The annual financial statements include (i) Project Financial
+Statement; (ii) Designated Account Reconciliation Statement; (iii) Bank Account Information; (iv)
+Summary of Withdrawal Application (Special Account Replenishment) (v) Summary GoB
+Contribution and other statements as requested.
+
+17.4 Audit and Financial Control System:
+Internal Audit: Internal Audit Department of BB may carry out audit of IPFF II Project.
+Moreover, independent audit firm may be appointed to conduct internal audit of IPFF II
+Project, if necessary. The observations and recommendations of internal audit will be
+reviewed and followed up upon receiving the internal audit report.
+ii.
+External Audit: FAPAD will conduct external audit of IPFF II Project within six months
+after the end of a fiscal year. IPFF II Project Cell will keep in touch with FAPAD to resolve
+audit observations/objections upon receipt of the external audit report. PD will be responsible
+for audit follow-up and for taking remedial actions.
+iii.
+Project Audit Committee: To ensure that the observations and recommendations from
+internal and external audits are reviewed and adequately followed up, a Project Audit
+Committee (PAC) will be constituted, if necessary. The PSC of IPFF II Project may decide
+on formation and Terms of Reference (ToR) of the PAC.
+
+17.5 Bank Accounts Management:
+For receiving and utilizing IDA fund, a Dollar Special Account (DOSA) will be opened with Forex
+Reserve & Treasury Management Department (FRTMD) of BB and for receiving and utilizing GoB
+counterpart fund, a local currency account will be opened with Accounts and Budgeting Department
+(A&BD) of BB. Furthermore, an operating account (non-interest generating) may be opened with a
+schedule commercial bank selected by IPFF II Project Cell, if deemed necessary. On the other hand, for
+receiving the repayment of Facility Loan made by the PFIs and depositing momentarily, two repayment
+accounts (one in USD and the other in BDT) will be opened and maintained with the FRTMD of BB. The
+designated PD and in his/her absence an alternative official will be the authorized for operating these
+accounts. The operation of DOSA will be governed by the directives of FD. On the other hand, the
+operation of TAKA Account and Operating Account will be governed by applicable rules and
+procedures. However, policy for transferring the balance with the repayment accounts to government
+treasury will be formulated by PSC of IPFF II Project or FD of MoF.
+The operating account, DOSA & TAKA account, so maintained for the fund management will be closed
+as per rules with the approval of competent authority at the end of IPFF II Project. On the other hand,
+repayment accounts will be closed with the approval of competent authority after all Facility Loans are
+fully repaid by PFIs and repayments are transferred to Government Treasury.
+
+--- Page 35 ---
+29
+
+17.6 Fund Management:
+Report based disbursement procedures are applicable for withdrawal of IDA funds. As such for eligible
+expenditures to be financed by IDA, IPFF II Project Cell will submit withdrawal application, in
+accordance with World Bank’s Disbursement Guidelines, to the World Bank based on the forecast for
+two quarters. IPFF II Project Cell will ensure that project funds routed through the Designated Account is
+reflected in the GoB accounts as well as in the consolidated FM Report. As for GoB’s share of eligible
+expenditure, IPFF II Project Cell will make necessary arrangements for withdrawal of fund from Chief
+Accountant’s Office (CAO) of FD subject to necessary budget allocation following prevailing
+procedures. IPFF II Project Cell will apprise FD and Office of CAO regarding the use of IDA and GoB
+funds complying with the Project Accounting Manual.
+The contribution to the Subproject to be made under IPFF II Project (out of IDA and GoB fund) will
+solely be used in line with the Project Development Objectives. IPFF II Project Cell will ensure that the
+on-lending fund is routed to the approved private investors through eligible PFIs. The TA fund will be
+used by IPFF II Project Cell for hiring consultants, procuring goods, arranging training and workshops,
+and conducting day to day operations as per Technical Assistance Project Proposal (TAPP). All expenses
+including advance for travel and operating expenses will be paid through banking system. Government’s
+existing rules and procedures outlined in the Project Accounting Manual with respect to authority and
+payment responsibility as well as prevailing delegation of financial powers will be applicable for using
+TA fund. However, delegation of financial power will not be applicable during extending any facility to
+the PFIs against specific Subproject. Rather the rules and procedures outlined in this manual will be
+applicable for disbursement of on-lending fund.
+
+Upon closure of IPFF II Project, IPFF II Project Cell will refund unspent funds, if any, lying with the
+DOSA and TAKA Accounts to the IDA and the GoB respectively after documenting all eligible
+expenditures. In doing so, IPFF II Project Cell will have to get concurrence/approval of MoF and IDA.
+
+18. Monitoring and Reporting
+
+IPFF II Project Cell will monitor the outcomes from the utilization of fund under the facility periodically
+through the quarterly reports submitted by the PFIs. In addition to the off-site supervision, the IPFF II
+Project Cell, may conduct surprise onsite inspection of the PFIs and the Subproject to ensure the effective
+end-use of the fund. Necessary formats of reports will be given to the PFIs for Subproject report. A
+format of the quarterly reports to be submitted by the PFIs to BB is attached in Annexure 8
+
+IPFF II Project Cell will be required to ensure that the PFIs will:
+i. Comply with the reporting and monitoring requirements as prescribed by BB/IPFF II Project
+Cell/IDA
+ii. Verify the status of investment projects supported under the IPFF by on-site inspection, as
+required for effective use of resources during and after construction.
+iii. Prepare investment loan portfolio management and progress reports covering outstanding loans
+under the Credit to be submitted to IPFF II Project Cell and IDA as and when required.
+
+--- Page 36 ---
+30
+
+iv. PFIs will submit annual audit reports to IPFF II Project Cell and IDA within four months of the
+end of the year.
+v. Each PFI will maintain a separate database system with adequate backups regarding IPFF II
+facility loans.
+
+19. Environmental and Social Risk Management
+
+Environmental and Social Management System: Environmental and social risk management
+approach for IPFF II is described in IPFF II E & S Policy and Procedures that have been prepared
+by BB and are expected to evolve over time based on the principle of continuous improvement.
+BB will work with PFIs to assist them with establishing sound ESMS, to ensure PFIs meet
+minimum eligibility criteria for accessing IPFF II funding and continue to improve their systems
+thereafter.
+
+ii.
+Stakeholder Engagement and Grievance Redress Mechanisms: Grievance redress
+mechanisms are an integral part of stakeholder engagement process. IPFF II Project will have a
+multi-level process for addressing grievances from project-affected communities. IPFF II Project
+Cell and the PFIs will ensure that information about accessing available grievance redress
+mechanisms at IPFF II Project Cell and PFI levels (as part of the PFIs’ ESMS) is made available
+by project sponsors as part of the overall stakeholder engagement process. These mechanisms are
+complementary to the Subproject-level grievance mechanisms to be established by project
+sponsors as part of Performance Standards requirements. Grievance redress mechanism of IPFF II
+Project has been prepared and attached as Annexure 10.
+
+iii.
+E&S Capacity Building: Following the positive experience of Financial Institutions
+Development Project (FIDP) and IPFF, capacity building will also be provided under IPFF II
+Project. The Project’s TA component will have allocations for retaining qualified technical,
+financial, and E & S risk assessment and management expertise to support the build up of
+capacity and skills across the ecosystem, including the Government authorities responsible for
+preparation and approval of infrastructure projects, including PPPs; financial institutions involved
+in financing the projects; and private sector sponsors investing in the projects. IPFF II Project
+Cell, jointly with other public sector agencies, will organize workshops (with inputs/participation
+of local and international consultants) on pertinent issues related to infrastructure project finance
+and implementation. IPFF II Project Cell will also provide opportunities for training abroad or in-
+country to the PFIs. Detailed E&S capacity building plan is incused in IPFF II E&S Policy and
+Procedures.
+
+--- Page 37 ---
+31
+
+iv. IPFF II Environmental and Social Due Diligence and Supervision Process:
+
+Implementation support, incl.
+post-review (WB)
+Feedback
+and
+DoE clearance and
+Obtaining ECC
+IPFF II E&S Eligibility Criteria
+Subproject approval by IPFF II is communicated to the PFI and
+Project Sponsor
+PFI includes E&S conditions in
+subproject documentation with
+private sponsor (including
+ESAP)
+Subproject implementation (monitoring by project sponsors, PFIs, IPFF II Project
+Cell with assistance of E & S performance monitoring implementation partner)
+Annual renewal of ECC
+(project sponsors)
+* Note: Low risk rating for IPFF II sub-projects is not allowed per IPFF II E&S Policy
+Subproject Proposal Submission to IPFF II (PFI)
+Task 1: Initial E&S
+Screening of Subproject
+(Project sponsor or other agency,
+in coordination with PFI and
+with support from IPFF II quality
+assurance implementation
+partner for E&S risk assessment
+and management process and
+instruments)
+Initial E & S screening report review in conjunction with PFI E & S performance
+rating and private sponsor eligibility criteria (IPFF II Project Cell)
+Task 3: PFI E&S
+Performance
+Rating
+(once involved)
+Bangladesh Bank
+IPFF II Project Cell
+Task 2: Private
+Sponsor E&S
+Screening
+(once involved)
+Bangladesh Bank
+IPFF II Project Cell
+
+IPFF II’s E&S
+Eligibility Criteria
+not met
+Subproject
+Rejected
+
+PFI E&S capacity building
+activities (with support of
+the FI capacity building
+implementation partner(s)
+Preparation of ESIA, ESMP, ESAP
+(Project sponsor or other agency, in coordination with PFI, where involved)
+ToRs to be reviewed by IPFF II and cleared by PFI (for High risk sub-projects)
+Disclosure, consultation,
+stakeholder engagement
+(project sponsor/ other
+agency/ government/
+PFI/BB)
+Final Subproject E & S Risk Rating (High or Medium*) per BB ESRM Guidelines
+High Risk Rating
+(Subproject)
+Medium Risk Rating
+(Subproject)
+Review and clearance of subproject E&S instruments and ESAP
+(IPFF II E&S Technical Committee)
+No objection from the World
+Bank in high risk situations
+defined in IPFF II E&S Policy
+Final recommendation from
+IPFF II E&S Technical
+Committee
+
+--- Page 38 ---
+32
+
+APPENDIX
+Definitions
+
+1. “Administration Agreement” means an agreement to be entered into between the GoB and BB
+meeting the requirements of Section I.C, of Schedule 2 and Part A of Schedule 4 to the Financing
+Agreement, as the same may be amended from time to time, and such term includes any schedules to
+such Administration Agreement.
+2. “Anti-Corruption Guidelines” means the “Guidelines on Preventing and Combating Fraud and
+Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants”, dated October 15,
+2006.
+3. “Applicable Environmental and Social Requirements” means the technical requirements applied to
+Subprojects and which are comprised of: (i) relevant environmental and social national and local
+laws and regulations of the People’s Republic of Bangladesh; (ii) List of Excluded Activities, based
+on the Exclusion List (Annexure 2), (iii) List of Environmentally and Socially Sensitive Activities
+(Annexure 3), and (iv) the World Bank Performance Standards.
+4. “Bangladesh Bank” means the bank called the Bangladesh Bank established by the GoB’s
+Bangladesh Bank Order, 1972 (President’s Order No. 127 of 1972), including the amendments made
+thereto with Bangladesh Bank (Amendment) Act, 2003, for the purpose of carrying out the business
+of central banking.
+5. “Bangladesh Infrastructure Finance Fund Limited” and “BIFFL” means the GoB’s Bangladesh
+Infrastructure Finance Fund Limited, a fund established as a government-owned non-banking
+financial institution on March 21, 2011 with the purpose of making investments in infrastructure
+projects across different infrastructure sectors.
+6. “DoE” means the GoB’s Department of Environment or any successor thereto.
+7. “Environmental and Social Management System” and “ESMS” means the systematic process for
+identifying, assessing and managing environmental and social risks and impacts associated with
+activities under the Project and managing exposure to such risks and impacts by BB and PFIs in a
+manner that enables the Subprojects to meet Applicable Environmental and Social Requirements;
+which systematic process contains the following core elements: (i) IPFF II Environmental and Social
+Policy and Procedures prepared and amended by BB from time to time; (ii) a customized ESMS
+prepared and implemented at the PFI’s level; and (iii) Environmental and Social Assessment and
+Management Systems implemented by Investment Sponsors in accordance with the relevant
+regulations of BB and Applicable Environmental and Social Requirements for IPFF II. Adequate
+implementation of the ESMS means that BB, PFIs, and Sponsors develop and maintain adequate
+policies, procedures, organizational structure, budget, and capacity for identifying, managing,
+monitoring, and reporting on risks and impacts of Subprojects.
+
+8. “ESIA” means the Environmental and Social Impact Assessment to be prepared in accordance with
+the provisions of the ESMS and pursuant to the GoB’s requirements and World Bank Performance
+Standards. The Sponsors assume the responsibility for carrying out the ESIA for the Subproject for
+
+--- Page 39 ---
+33
+
+which financing will be sought from the PFI from the proceeds of the Credit; such ESIA must
+include ESMPs as commensurate with the outcomes of the environmental and social risks and
+impacts identification process for the Subproject, and an ESAP as needed.
+9. “ESMPs” means, collectively, the Environmental and Social Management Plans, prepared and to be
+prepared in accordance with the ESMS and pursuant to the requirements of the World Bank
+Performance Standards, providing for detailed measures to mitigate adverse environmental and
+social risks and impact of Investment Projects/Subprojects.
+10. “ESAP” means, collectively, the Environmental and Social Action Plan (or, Action Plan) to be
+prepared by Investment Sponsors included in the contract documentation between such Investment
+Sponsor and the PFI in relation to a Subproject, which said Action Plan shall include, inter-alia: (i)
+description of the necessary actions to implement mitigation measures or corrective actions to be
+undertaken; (ii) prioritization of said actions; (iii) timeline for actions’ implementation; (iv)
+disclosure to the affected communities; and (v) schedule and mechanism for external reporting on
+the Action Plan’s implementation.
+11. “Facility” or “Investment Promotion and Financing Facility II” or ‘`IPFF II’’ means the facility to be
+created within BB following approval of IPFF II Project for the purposes of providing Facility Loans
+to PFIs to be utilized for financing infrastructure Investment Projects/Subprojects through the
+provision of Infrastructure Financing.
+12. “Facility Access Agreement” or “FAA” means each agreement to be entered into between BB and
+each PFI setting out the terms and conditions of the Facility Loan to be made to such PFI in
+accordance with the requirements of the Operations Manual and Part C of Schedule 4 to the FA of
+IPFF II Project.
+13. “Facility Loan” means any loan provided by BB to PFIs under FAA for the purpose of providing
+Infrastructure Financing.
+14. “Fiscal Year” means the GoB’s Fiscal Year commencing on July 1 and ending on June 30 of the
+following year.
+15. “General Conditions” means the “International Development Association General Conditions for
+Credits and Grants”, dated July 31, 2010, with the modifications set forth in Section II of the
+Appendix of FA of IPFF II Project
+16. “Investment Sponsor” means a private enterprise or an enterprise in which private shareholders have
+majority ownership, and to which a PFI proposes to make or has made an Infrastructure Financing.
+17. “Infrastructure Financing” means either: loans, or guarantees, or equity and/or any other financing
+instrument appropriately developed, assessed and approved and made available by a PFI out of the
+proceeds of the Facility for financing Subprojects, each in accordance with criteria, requirements,
+and procedures set out in the OM.
+
+--- Page 40 ---
+34
+
+18. “Infrastructure Financing Agreement” means each agreement entered into between a PFI and an
+Investment Sponsor setting out the terms and conditions of the Infrastructure Financing and meeting
+the requirements of Part D of Schedule 4 of the FA of IPFF II Project
+19. “Investment Project” or “Subproject” means a specific Investment Project in the infrastructure sector
+to be carried out by an Investment Sponsor utilizing the proceeds of an Infrastructure Financing.
+20. “Master Facility Agreement” means each agreement entered into between BB and a PFI setting out
+the terms and conditions of the Facility Loans and meeting the requirements of Part B of Schedule 4
+to the FA.
+21. “Operating Costs” means the reasonable costs required for the day-to-day coordination,
+administration and supervision of Project activities, including leasing and/or routine repair and
+maintenance of vehicles, equipment, facilities and office premises, office supplies, utilities,
+consumables, communication expenses, translation, printing, photocopying and postal expenses,
+bank charges, advertising expenses, insurance, costs of clearing, forwarding, inspection, survey and
+transportation of goods, Project-related meeting expenses, and Project-related travel, providing that
+payment is made using the banking system; excluding salaries, allowances and honorarium of
+officials of the GoB’s civil service and/or other honorarium of any other nature, per diem, and fuel.
+22. “Operations Manual” means the manual, , acceptable to the IDA and referred to in paragraph B(a) of
+Section I of Schedule 2 to the Financing Agreement, setting forth implementation, organizational,
+administrative, monitoring and evaluation, financial management, disbursement, and procurement
+arrangements for purposes of implementation of the Project, and the criteria and requirements for
+Subprojects and PFIs, and the terms and conditions for Facility Loans and Infrastructure Financing,
+as said manual may be revised from time to time with the prior written agreement of the World
+Bank, and such term includes any annexes or schedules to such manual.
+23. “PFI” and “Participating Financial Institution” mean a Non-Bank Financial Institution and/or a
+private sector scheduled Commercial Bank that meets the eligibility criteria for participating in the
+Project as set out in the Operations Manual.
+24. “PPP” means public-private partnerships.
+25. “PPPA” means the GoB’s Public-Private Partnership Authority or any successor thereto.
+26. “Procurement Plan” means the GoB’s procurement plan for the Project, dated March 4, 2017 and
+provided for under Section IV of the Procurement Regulations, as the same may be updated from
+time to time in agreement with IDA.
+27. “Procurement Regulations” means the “World Bank Procurement Regulations for Borrowers under
+Investment Project Financing”, dated July 1, 2016.
+28. “Training” means the reasonable costs required for the participation of personnel involved in
+training activities, workshops and study tours under the Project which have been approved by the
+IDA in writing , including: (a) travel, hotel, and subsistence costs for training, workshop and study
+tour participants provided that such allowances are paid directly to the eligible recipient using the
+
+--- Page 41 ---
+35
+
+banking system; (b) costs associated with rental of training and workshop facilities, preparation and
+reproduction of training and workshop materials, costs of academic degree studies, and other costs
+directly related to training course, workshop or study tour preparation and implementation, but
+excluding salaries of civil servants and honorarium of any other nature.
+29. “World Bank Performance Standards” mean the eight IFC Performance Standards that have been
+adopted by the World Bank as the World Bank Performance Standards for Projects Supported by the
+Private Sector for application to World Bank support for projects (or components thereof) that are
+designed, owned, constructed and/or operated by a private entity, in lieu of the World Bank’s
+safeguard policies.
+
+--- Page 42 ---
+36
+
+Annexure 1
+
+Eligibility Criteria for Enlistment as PFI
+Notes:
+1. An application for joining IPFF II Project should include the following documents:
+ Full set of worked-out criteria based on the latest year-end / half-yearly audited accounts
+ Detail workings in support of the results such as calculations, schedules, etc.
+ Other documents as specified below.
+2. The workings have to be certified by the auditors.
+3. Accounts should be completed using acceptable accounting standards (IFRS).
+4. To determine eligibility of PFIs under IPFF II, IPFF II Project Cell will consider the totality of the
+eligibility criteria in a manner that will establish acceptable quality of
+a) Management, b) Profitable and Sustainable Operations, c) Appropriate Capacity (including
+Staffing for carrying out Subproject Appraisal with Environmental Assessment and for Supervising
+Subproject Implementation). Under special circumstances post-funding monitoring may be done, d)
+Capacity to Mobilize Domestic Resources, e) Appropriate Prudential Policies, Administrative
+Structure and Business Procedures, and g) Sound Financial Position.
+5. Temporary non-compliance of any of the eligibility criteria by a PFI shall be reviewed by IPFF II
+Project Cell and time-bound waivers may be considered in consultation with IDA, in exceptional
+cases only.
+
+Criterion 1: Compliance with licensing requirements of Bangladesh Bank and other relevant
+regulators
+
+PFIs must hold a valid license from BB to operate as a private sector scheduled commercial bank or
+NBFI. In case of institutions also operating as a merchant bank, must have a valid license from Security
+Exchange Commission (SEC).
+
+Please include company details such as -
+ Date of incorporation
+ Date of receiving License from BB / other regulatory bodies
+ Date of commencement of business
+ Legal status (Private / Public)
+ Date of Initial Public Offering (IPO) (if issued)
+ Date of listing on stock exchanges (Dhaka Stock exchange and Chittagong Stock Exchange)
+ List of directors along with shareholdings
+
+Criterion 2: Adequacy of provisions
+
+PFIs must meet the provisions requirement as instructed by BB.
+
+Noted Points:
+ The PFI has to compare the amount of provision required by BB regulations and the amount of
+provision made by the PFI.
+ The PFI has to show the breakdown of the above two amounts, that is, how they were calculated.
+
+--- Page 43 ---
+37
+
+ The portfolio amount, on which the provision calculations are based, should be consistent with the
+portfolio amount used elsewhere. If there is a difference among the portfolio figures used in another
+criterion, explanation and supporting calculations should be provided.
+
+Portfolio Calculation:
+The total portfolio amount should include the following (if applicable) –
+ Lease receivables (including the current portion and not net of provision amount)
+ Term finance (including the current portion and not net of provision amount)
+ Short-term finances
+ Equity investments
+ Receivables against bill discounting
+ Advances against lease finance and term finance
+ Others
+
+Criterion 3: Positive rate of real return
+
+PFIs must have a positive rate of real return which will be calculated as following:
+
+
+
+(net earnings after tax for the period / average stockholders’ equity) x 100
+
+
+1 + the inflation rate [in decimal form]
+Noted Points:
+ The average stockholders’ equity calculation should exclude any dividend amount paid or
+proposed to be paid within 6 months of year-end.
+ This criterion needs to show the real rate of return. The year-end inflation rate to be used is
+provided in BB publications, such as Economic Trend.
+
+Criterion 4: Capital adequacy ratio
+
+PFIs must meet the minimum regulatory capital adequacy requirement as instructed by BB. PFIs must
+show the detailed calculation of risk-weighted assets and breakdown of total capital.
+
+Criterion 5: Leverage ratio
+
+PFIs must meet the minimum leverage ratio as instructed by BB. Leverage ratio will be calculated as
+
+Tier 1 Capital (after related deduction)
+Total Exposure (after related deduction)
+
+
+Criterion 6: Foreign currency net open position
+
+PFIs dealing in foreign currency must meet regulatory requirement on foreign currency net open position
+as instructed by BB.
+
+--- Page 44 ---
+38
+
+Criterion 7: Non-performing loan (NPL) ratio
+
+PFIs must have an acceptable level of non-performing loan not more than 10 % (ten percent).
+
+Criterion 8: Single or Business group borrower exposure
+
+PFIs must meet single or business group borrower exposure limit as per BB regulation.
+
+Noted Points:
+ The PFI would have to provide the top-ten list of exposures.
+ Exposure is defined to include both on and off-balance sheet exposure.
+ The definition of Single or Business Group shall be consistent with BB regulations
+
+Criterion 9: Insider lending ratio
+
+PFIs must meet minimum insider lending ratio as instructed by BB.
+
+Noted Points:
+ The auditors will have to certify that BB definition of ‘insider lending’ has been followed.
+ The PFI will provide the list of clients under ‘insider lending’.
+ The PFI would have to confirm that the loans / leases are on a standard commercial basis. This
+means they are not on concessionary terms e.g. in relation to interest rates, fees, tenors,
+amortization & repayment, collateral requirements, etc. If the loans / leases are not on a standard
+commercial basis, the FI would have to specify the concessionary terms and explain the reason.
+
+Criterion 10: External credit rating
+
+PFIs must have minimum external credit rating of BB Rating Grade 3 or equivalent rating by external
+credit assessment institutions (ECAIs) recognized by BB
+
+Criterion 11: Three years’ financial accounts with clean auditor’s opinion without implied / hidden
+qualifications
+
+“Hidden or implicit” qualifications are comments in the notes to the financial statements, which are
+material and would have a significantly adverse impact on the financial performance and or financial
+position, if fully considered, but are not explicitly mentioned in the official opinion of the auditors.
+
+Criterion 12: Policy documents to establish professional and sound management
+
+i. PFIs must have adequate policies and procedures related to core risk management as prescribed
+by BB. They must ensure the compliance and submit the documents as asked by IPFF II.
+ii. PFIs must have qualified and experienced management, adequate organization and institutional
+capacity for its specific risk profile. They must comment on appropriate capacity, including
+
+--- Page 45 ---
+39
+
+staffing, for carrying out appraisal (including environmental and social assessment) of
+infrastructure financing/loans to sponsors and for supervising implementation thereof.
+iii. PFIs must inform an incident of misconduct or reputational crisis, if any, in written form.
+
+Criterion 13: Environmental and social risk management (ESRM) requirement
+
+PFIs shall have adequate systems and capacity for environmental and social risk management in
+accordance with Bangladesh regulations and World Bank5 Performance Standards. Based on the E&S
+systems and capacity assessment, as conducted by BB, PFIs shall meet the following minimum eligibility
+criteria in order to be considered for financing under IPFF II (these shall be in place before disbursement
+of financing by BB): PFIs must meet the following requirements:
+Written E& S policy and procedures are in place and approved by the PFI’s senior management.
+ii.
+PFI designates staff with clearly defined responsibilities for E&S risk management.
+iii.
+PFI expresses commitment to taking part in E&S training and capacity building activities of BB.
+iv.
+PFI has read and understood the ESPP document for IPFF II and demonstrates willingness to
+comply with it.
+
+Criterion 14: Annual external auditors’ certification as to compliance with quantitative eligibility
+criteria
+
+PFIs must submit their eligibility assessment based on the current year-end accounts every year within
+the period specified by IPFF II Project Cell.
+
+
+
+
+
+
+
+5 Environmental and Social Performance Standards refer to the “World Bank Performance Standards”, which are IFC
+Performance Standards on Environmental and Social Sustainability adopted as the “World Bank Performance Standards” in
+2013 pursuant WB Operational Policy 4.03. IFC Performance Standards were first introduced in 2006 and updated in 2012.
+
+--- Page 46 ---
+40
+
+Annexure 2
+
+Exclusion List
+
+The Project shall not fund any of the following activities:
+
+ Production or trade in any product or activity deemed illegal under host country laws or
+regulations or international conventions and agreements, or subject to international bans, such as
+pharmaceuticals, pesticides/herbicides, ozone depleting substances, PCBs, wildlife or products
+regulated under CITES.
+ Production or trade in weapons and munitions.1
+ Production or trade in alcoholic beverages (excluding beer and wine).1
+ Production or trade in tobacco.1
+ Gambling, casinos and equivalent enterprises.1
+ Production or trade in radioactive materials. This does not apply to the purchase of medical
+equipment, quality control (measurement) equipment and any equipment where the Association
+considers the radioactive source to be trivial and/or adequately shielded.
+ Production or trade in un-bonded asbestos fibers. This does not apply to purchase and use of
+bonded asbestos cement sheeting where the asbestos content is less than 20%.
+ Drift net fishing in the marine environment using nets in excess of 2.5 km. in length.
+ Any activities involving international waterway (as defined in the Association’s Operational
+Policy 7.50), or disputed territories (as defined in the Association’s Operational Policy 7.60)
+
+A reasonableness test will be applied when the activities of the project company would have a significant
+development impact but circumstances of the country require adjustment to the Exclusion List.
+
+All PFIs, except those engaged in activities specified below, must apply the following exclusions, in
+addition to the above described Exclusion List:
+Production or activities involving harmful or exploitative forms of forced labor2/harmful child
+labor.3
+ Commercial logging operations for use in primary tropical moist forest.
+ Production or trade in wood or other forestry products other than from sustainably managed
+forests.
+
+Footnotes:
+1This does not apply to Investment Sponsors who are not substantially involved in these activities. "Not substantially
+involved" means that the activity concerned is ancillary to an Investment Sponsor's primary operations.
+2Forced labor means all work or service, not voluntarily performed, that is extracted from an individual under threat of force or
+penalty.
+3Harmful child labor means the employment of children that is economically exploitive, or is likely to be hazardous to, or to
+interfere with, the child's education, or to be harmful to the child's health, or physical, mental, spiritual, moral, or social
+development.
+
+--- Page 47 ---
+41
+
+
+Annexure 3
+
+List of Environmentally and Socially Sensitive Activities
+
+PFIs will not be permitted to finance Subprojects associated with activities listed in (a)-(d) below where
+they, following an assessment process of the PFI’s systems and capacity for environmental and social
+risk management conducted by Bangladesh Bank, have been found to lack adequate capacity to assess,
+manage, and monitor environmental and social risks associated with Subprojects for which financing will
+be sought from the PFI from the proceeds of the Credit.
+Activities involving large-scale physical and/ or economic displacement1 resulting from land-
+related transactions2
+Activities in or near critical habitats3 and /or legally protected areas.
+Activities involving adverse impacts on tribes minor races, ethnic sects and communities.4
+Activities involving significant adverse impacts on critical cultural heritage5 areas.
+
+Footnotes:
+1 In the context of this project, activities involving large-scale physical and/or economic displacement are those that are
+expected to affect 200 people or more.
+2 As defined in the Performance Standard 5 (paragraph 5).
+3 Critical habitat is a subset of both natural and modified habitat that deserves particular attention. Critical habitat includes
+areas with high biodiversity value that meet the criteria of the World Conservation Union (IUCN) classification, including
+habitats of significant importance for required for critically endangered or endangered species as defined by the IUCN Red
+List of Threatened Species; habitats of significant importance for endemic or restricted-range species; habitats supporting
+globally significant concentrations of migratory species and /or congregatory species; areas with unique assemblages of
+species or which are associated with key evolutionary processes. Primary Forests or forests of High Conservation Value shall
+be considered Critical Habitats.
+4 The term “tribes minor races, ethnic sects and communities” is used in a generic sense to refer to a distinct social and cultural
+group possessing the following characteristics in varying degrees:
+Self-identification as members of a distinct cultural group and recognition of this identity by others;
+Collective attachment to geographically distinct habitats or ancestral territories in the project area and to the
+natural resources in these habitats and territories;
+Customary cultural, economic, social, or political institutions that are separate from those of the mainstream
+society or culture; or
+A distinct language or dialect, often different from the official language or languages of the country or region in
+which they reside.
+5Critical cultural heritage consists of (i) the internationally recognized heritage of communities who use, or have used within
+living memory the cultural heritage for long-standing cultural purposes; and (ii) legally protected cultural heritage areas,
+including those proposed by host governments for such designation.
+
+--- Page 48 ---
+42
+
+Annexure 4
+Loan Application for Availing Facility Loan
+
+
+Name and address of the lead/lone PFI with contact person: -----------------------------------------
+Name of the contact person with phone number: --------------------------------------------------------
+Name and address of other syndication members:
+ii. -----------------------------------------------------------------------------------------------------------------
+iii. -----------------------------------------------------------------------------------------------------------------
+
+Section A: Particulars of the Infrastructure Project
+Name of the infrastructure project:
+Sector: ----------------------------------------------------------------------------------------------------------
+Location of plant/ site of the project: -------------------------------------------------------------------
+Name of the ministry/division/ executive agency of GoB/regulator: ------------------------------
+Letter of intent/ license issue date: -------------------------------------------------------------------------
+Concession and other relevant agreements signing date: ------------------------------------------------
+10. Description of the project:
+i. Rated capacity of the plant or maximum capacity of the project: ----------------------------------
+ii. Budgeted (expected utilization) capacity (in percent): ------------------------------------------------
+iii. Break even capacity (in percent): ----------------------------------------------------------------------
+iv. Expected economic life of the project: -------------------------------------------------------------------
+v. Purpose of the loan: ----------------------------------------------------------------------------------------
+vi. Provide a brief description of the project and its development history: ----------------------------
+11. Attached a copy of the agreement, if any, between the PFI and the investment sponsor: -----------
+12. If the loan already sanctioned to the investment enterprise/Subproject, please provide a copy of
+sanction letter of the PFI. Approved the loan by i) MD/CEO, ii) Board iii) Credit Committee or
+iv) others: ------------------------------------------------------------------------------------------------------
+
+--- Page 49 ---
+43
+
+13. Required financial closure deadline: ---------------------------------------------------------------------
+14. Required commercial operations date: -----------------------------------------------------------
+15. Provide a breakdown of the project cost:
+
+Cost Components
+Amount in Million (in BDT or USD )
+In Percent
+
+
+
+
+
+
+Total fixed cost of the project
+
+
+Initial working capital
+
+
+Total cost of the project
+
+
+
+Assessment of working capital required should be attached.
+16. Description of land of the subproject
+i. Where applicable, if land of the project is owned or leased or rented or held otherwise by the
+Investment enterprise and provide evidence: ---------------------------------------------------------------
+ii. Where the project/ the investment enterprise owns the land and building: Valuation of land and
+building assessed by: Credit risk manager / Credit officer of PFI/ Enlisted surveyor of PFI: --------
+Please mention and attach copy of the assessment report.
+iii. Where land and building, if any, of the project is leased or rented, is there any covenant in the
+lease agreement for premature or short notice termination of the agreement: Yes/ No ------------
+If Yes, please mention the condition(s) below: ----------------------------------------------------------
+17. If any security/ collateral taken from the Investment Sponsor or the promoters: Yes/ No---------
+If Yes, i. Description of the collateral: ---------------------------------------------------------------------
+ii. Realizable market value: BDT (in million) --------------------------------------------------------
+iii. Value assessed by PFI’s Credit Risk Manager/ Officer/ Enlisted surveyor: BDT (in million) -
+
+Section B: Particulars of the Investment Sponsor6
+18.
+Name of the investment sponsor: ---------------------------------------------------------------------
+
+6 Investment Sponsor means a private enterprise or an enterprise in which private shareholders have majority ownership, and
+to which a PFI proposes to make or has made an Infrastructure Financing.
+
+--- Page 50 ---
+44
+
+Description of investment sponsor’s business-----------------------------------------------------
+
+Address, telephone, fax and e-mail of the main office: -----------------------------------------
+19.
+Address, telephone, fax and e-mail of registered office
+20.
+Mailing address: --------------------------------------------------------------------------------------------
+21.
+Name and address of company secretary: ------------------------------------------------------------
+22.
+Date of incorporation: -------------------------------------------------------------------------------------
+
+23.
+Please enter the shareholding and management structure of the investment sponsor in the table
+below:
+(a) Board of Directors/Partners/Sole proprietor
+Name & address
+Age
+Nationality
+% Ownership
+Position in the
+Company
+Personal net worth
+(million BDT/USD)
+
+
+
+
+
+
+
+
+
+
+
+
+(b) Management
+Name
+Position
+Numbers of years
+with the company
+Year started in
+position
+Previous employers & with years (if
+present position is less than 3 years)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24.
+Please provide the names and specimen signatures of two representatives (one authorized and one
+alternate) authorized to deal on behalf of the investment sponsor with IPFF II Project with respect
+to this facility:
+Name
+Position
+Signature
+
+
+
+
+
+Section C: Particulars of the Promoters7
+25. Name of the promoters : -----------------------------------------------------------------------------------
+
+Please provide a brief description of the nature of the promoters’ business: -----------------------
+
+7The Promoter may be a proprietor, partnership or a company or a joint venture, who applied to the government for award of
+the project and to whom the LOI has been awarded.
+
+--- Page 51 ---
+45
+
+26. Please provide name and address including telephone and e-mail of auditors appointed/to be
+appointed by the promoters: ----------------------------------------------------------------------------------
+
+Is there any legal action pending for or against any of the promoters/directors, officers or directors
+of any of affiliates of the investment promoters: Yes / No ---------------------------------------------
+a. If yes, please describe below in detail: ------------------------------------------------------------------
+b. Please provide opinion of PFI’s lawyer/legal advisor on any possible legal risk that may arise
+out of the pending legal proceedings and the likely bearing on the business of the promoters:
+
+27.
+Particulars of all affiliated companies: BDT (in million)
+
+Company
+Name
+Year
+Established
+Nature
+of
+Business
+Nature of
+Affiliation
+Sales
+
+Net
+Worth
+
+Return
+on
+Investment
+(percent)
+Banker(s)
+Total
+outstanding
+Loans and
+Advances
+Total
+Classified
+Loan
+Classified
+Loan in
+percent
+10
+11=10/9x100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28. Is credit information bureau (CIB) report of the investment sponsor and its group members clean:
+Yes/ No ----------
+If Yes, please enter print date and provide a copy of the CIB Report: ----------------------------------
+
+Section D: Financing Plan
+29.
+Equity participation by all the sponsors:
+Name of the sponsors
+Amount in million (BDT or USD)
+
+
+Total
+
+
+30. List the amount to be financed by the PFI and other lenders:
+
+Name of the PFI or
+other Lenders
+Loan Type
+Interest
+Rate
+Tenure
+Grace
+Period
+Amount in million
+(BDT or USD)
+Status (approved
+/ under process)
+IPFF II Facility
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub Total
+
+
+
+
+
+
+Non-IPFF part
+
+--- Page 52 ---
+46
+
+
+31.
+Amount of facility loan (loan requested from IPFF II) : ----------------------------------------------
+32.
+Particulars of facility loan (loan from IPFF II):
+a. Indicative schedule of loan disbursements required from IPFF II and PFIs:
+Milestone
+Date
+Amount
+Source
+
+
+
+
+
+
+
+
+
+b. Indicative schedule of loan repayment dates (IPFF II to PFI and PFI to Sponsors):
+Date
+Amount
+
+
+
+
+
+
+
+Section E: Feasibility of the Project:
+33. Ratio analysis: Provide a copy of financial modelling of the investment project:
+( The ratios should be calculated taking into account total loans including IPFF II loan facility requested for)
+
+
+Industry
+Average*
+YR-2
+YR-4
+YR-6
+YR-8
+YR-10
+YR-12
+YR-15
+Liquidity
+Ratios
+
+
+
+
+
+
+
+
+
+
+Current ratio
+2:1
+
+
+
+
+
+
+
+
+Quick ratio
+1:1
+
+
+
+
+
+
+
+Leverage
+Ratios
+
+
+
+
+
+
+
+
+
+
+Debt Equity Ratio
+75:25
+
+
+
+
+
+
+
+
+Debt
+Service
+Coverage
+Ratio(DSCR)
+1.2~1.6
+
+
+
+
+
+
+
+
+Interest Coverage Ratio
+Greater
+than 1
+
+
+
+
+
+
+
+Profitability
+Ratios
+
+
+
+
+
+
+
+
+
+
+Gross Profit Margin
+
+
+
+
+
+
+
+
+
+Net Profit Margin
+
+
+
+
+
+
+
+
+
+Operating ratio
+
+
+
+
+
+
+
+
+
+Return on Asset Ratio
+Greater
+than
+cost
+of fund**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub Total
+
+
+
+
+
+
+Grand total
+
+--- Page 53 ---
+47
+
+
+Return on equity Ratio
+Greater
+than
+cost
+of
+Equity***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Activity
+Ratios
+
+
+
+
+
+
+
+
+
+
+Total Asset Turnover Ratio
+
+
+
+
+
+
+
+
+
+Fixed Asset Turnover Ratio
+
+
+
+
+
+
+
+
+*Averages mentioned are usual and indicative and vary from Industry to Industry.
+**Cost of fund= Weighted cost of equity and borrowed fund.
+***Cost of Equity= Opportunity cost of equity.
+
+34. Cost of fund:
+Year 2
+Year 4
+Year 6
+Year 8
+Year 10
+Year 12
+Year 15
+
+
+
+
+
+
+
+
+Please also furnish the following activity ratios, if the condition stated there against holds good:
+Condition
+
+Industry
+average
+YR-2
+YR-4
+YR-6
+YR-8
+YR-10
+YR-12
+YR-15
+When sales not captive and/
+or payment not guaranteed
+Average
+Collection
+Period (days)
+
+
+
+
+
+
+
+
+
+When supply of fuel, raw
+material etc not captive and/
+or payment not guaranteed
+Average
+payment
+Period (days)
+
+
+
+
+
+
+
+
+
+35. Loan life coverage ratio (LLCR):
+
+(NPV of available cash
+for debt service up to the
+maturity of the loan
+divided by principal
+outstanding)
+Year-2 Year-4 Year-6 Year-8 Year-10
+Year-12
+Year-15
+
+
+
+
+
+
+
+
+36. Cash flow analysis:
+Pay Back Period of the project (number of years)
+
+Internal Rate of Return(IRR)
+
+37. Risk factors:
+Please tick if YES or NO for the followings:
+YES
+NO
+N/A (Please mention Why
+Not Applicable)
+a. If spare parts guaranteed
+
+
+
+b. If technical know how provided or guaranteed
+
+
+
+c. If uninterrupted supply of raw material guaranteed
+
+
+
+d. If uninterrupted supply of fuel and power guaranteed
+
+
+
+e. If sales captive or guaranteed
+
+
+
+f. Is the management experienced in similar business
+
+--- Page 54 ---
+48
+
+
+38. Technical viability of site of the plant/ project:
+Please tick Yes or No if site of the project is viable in respect of the
+followings:
+Yes
+No
+N/A (Please mention Why
+Not Applicable)
+a. Proximity of supplies (raw material, fuel, power, spare parts,
+technical know how etc)
+
+
+
+b. Proximity of customers/market
+
+
+
+c. Availability of local and associated infrastructure, including
+utilities, transportation, communication and off take capabilities.
+
+
+
+d. Availability of access rights, local consent, license etc
+
+
+
+e. Suitability of ground and local climate conditions
+
+
+
+f. Availability of local technical and suitable management staff and
+skilled labor for operation.
+
+
+
+g. Availability of local equipment, material, spare parts and sub
+contractors for construction.
+
+
+
+h. Minimizing cost of land, construction and operations
+
+
+
+i. Scope for setting out of the works and expansion
+
+
+
+j. If located above flood level
+
+
+
+
+If site of the project is not viable in respect of any of the above factors, please mention below how the problem will be
+mitigated ------------------------------------------------------------------------------------------------------------------------------
+39. Provide the project appraisal report and/or information memorandum(IM) prepared by the PFI: ----
+40. Provide a copy of feasibility study report by ministry/division/investment sponsor: ---------------------
+
+Section F: Procurement Aspects
+41. Provide a copy of best/standard commercial practices for procurement activities undertaken by the
+subprojects as per OM of IPFF II Project
+42. Tick the method of selection of the promoter : Whether:
+
+The executing agency selected the promoter competitively following international competitive
+bidding (ICB)
+
+
+
+The executing agency selected the promoter through competitive bidding other than ICB
+
+
+Selection of the promoter through competition is not possible, e.g. expansion by an existing
+concessionaire or captive power plants
+
+
+Selection of the promoter, not through public tender (no concession), but through an open
+licensing process
+
+For projects awarded on the basis of competition, please provide:
+1. A copy of the advertisement for expressions of interest in the project
+2. A copy of the request for proposal (RFP)
+
+--- Page 55 ---
+49
+
+3. A copy of the proposal submitted by the Company which was the basis for selection and
+issuance of the Letter of Intent
+4. Other relevant information
+
+43.
+Please provide the plan of procurement of major plant and equipment by the promoter8 . In case of
+existing plant, please provide the name and process of major equipments procurement including
+documents:
+
+Name of the
+machine
+Country of Origin
+Model
+Number of
+Machines
+Total Rated
+Capacity
+Value in Million BDT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Section G: Environmental and Social Compliance
+
+44. IPFF II requires that the project:
+be screened for potential environmental and social impacts
+ii.
+meet national environmental, labor, and social requirements
+iii.
+avoid any excluded activities
+iv.
+comply with World Bank Performance Standards9
+
+45.
+Please enter the current phase and progress of development of the project in the table:
+
+Phase
+Percentage
+Accomplished
+Preconstruction
+
+Construction
+
+Operation
+
+
+46. Environmental and Social Risk Rating
+a. Please indicate the environmental category of the project as per Department of Environment
+(DoE): Green/Orange A/Orange B/ Red:__________________________________________
+b. Date DoE category was assigned : ________________________________________________
+c. Please indicate E&S risk rating as per Bangladesh Bank ESRM Guidelines and IPFF II E&S
+Policy (on the basis of E&S risk screening or ESIA, as available):
+High Risk 
+Medium Risk 
+
+
+
+8including L/Cs, if any
+9 Environmental and Social Performance Standards refer to the “World Bank Performance Standards”, which are IFC
+Performance Standards on Environmental and Social Sustainability adopted as the “World Bank Performance Standards” in
+2013 pursuant WB Operational Policy 4.03. IFC Performance Standards were first introduced in 2006 and updated in 2012.
+
+--- Page 56 ---
+50
+
+47. Excluded and restricted activities
+a. Please indicate whether any activities on the List of Excluded Activities are present: Yes/ No
+b. Please indicate if any activities on the Bangladesh Bank ESRM Guidelines Exclusion List are
+present: Yes/ No
+c. Please indicate if any activities on the List of Environmentally and Socially Sensitive activities
+are present.
+
+48.
+Core E&S risk management requirements
+Please mention below key requirements placed on the project by the executing agency/regulator
+for compliance with requirements of DoE
+
+If ESIA/EIA is prepared, it is in compliance with the requirements of both the DoE and the
+World Bank’s Performance Standards: YES /NO
+
+If resettlement/ economic displacement is involved, please describe current/ past process
+(responsible agency, plans prepared, number of affected persons, timeline etc.)
+
+If there are impacts on tribes minor races, ethnic sects and communities,10 please describe any
+government process to date ______________________________________________________
+
+If impacts on critical habitats11 are expected, please describe any measures already taken by the
+Sponsor to avoid or minimize them (e.g. though adjusting project design)__________________
+If there are impacts on critical cultural heritage,12 please describe their nature and any measures
+already undertaken to avoid or minimize them______________________________________
+
+10 The term “tribes minor races, ethnic sects and communities” is used in a generic sense to refer to a distinct social and
+cultural group possessing the following characteristics in varying degrees:
+Self-identification as members of a distinct cultural group and recognition of this identity by others;
+Collective attachment to geographically distinct habitats or ancestral territories in the project area and to the
+natural resources in these habitats and territories;
+Customary cultural, economic, social, or political institutions that are separate from those of the mainstream
+society or culture; or
+A distinct language or dialect, often different from the official language or languages of the country or region in
+which they reside.
+11 Critical habitat is a subset of both natural and modified habitat that deserves particular attention. Critical habitat includes
+areas with high biodiversity value that meet the criteria of the World Conservation Union (IUCN) classification, including
+habitats of significant importance for required for critically endangered or endangered species as defined by the IUCN Red
+List of Threatened Species; habitats of significant importance for endemic or restricted-range species; habitats supporting
+globally significant concentrations of migratory species and /or congregatory species; areas with unique assemblages of
+species or which are associated with key evolutionary processes. Primary Forests or forests of High Conservation Value shall
+be considered Critical Habitats.
+
+--- Page 57 ---
+51
+
+Documents to be submitted:
+ Date of Environmental and Social Impact Assessment or Environmental and Social Audit,
+as available (please attach) ___________________________________________________
+ Please furnish a copy of SCC/ESIA/ECC, if obtained from DOE
+ List E&S risk management plans available from Investment Sponsor__________________
+ Resettlement Action Plan (if applicable) ________________________________________
+ Please furnish Environmental and Social Action Plan (ESAP) prepared by the financial
+institution and agreed with the Investment Sponsor to ensure compliance with World Bank
+Performance Standards
+49. Environmental and Social Management System (ESMS)
+
+IPFF II requires that PFIs shall meet the following minimum eligibility criteria in order to be
+considered for financing under IPFF II (these shall be in place before disbursement of financing
+by BB):
+
+Minimum ESRM Eligibility Criteria
+Remarks
+(Yes/No)
+1 Written E&S policy and procedures are in place
+and approved by the PFI’s CEO/MD/ Board of Directors
+
+2 PFI designates staff with clearly defined responsibilities for E&S
+risk management senior management are in place
+
+3 PFI expression commitment to taking part in E&S training and
+capacity building activities of BB
+
+Please state if the financial institution has an E&S policy approved by senior management (is
+yes, attach a copy)
+Please indicate if there is staff formally responsible for E&S risk management
+Please describe E&S monitoring arrangements for the investment
+Current E&S performance rating as per IPFF II E&S Policy (if one is assigned) ____________
+50. DoE Clearance to be obtained depending on the category of the project is given below:
+Please tick YES or NO and, if NO, enter the expected date of delivery for the applicable category
+only
+Category
+of
+the Project
+DoE Certificate Obtained or Not
+YES
+NO
+If ‘NO’, expected
+date of receiving
+Certificate
+Green
+Environmental Clearance Certificate
+(ECC)
+
+
+
+Orange-A/
+Orange-B
+Site Clearance Certificate (SCC)
+
+
+
+ECC
+
+
+
+
+Red
+
+
+SCC
+
+
+
+Approval of TOR for EIA/ESIA
+
+
+
+Approval of EIA/ESIA
+
+
+
+ECC
+
+
+
+
+12 5Critical cultural heritage consists of (i) the internationally recognized heritage of communities who use, or have used within
+living memory the cultural heritage for long-standing cultural purposes; and (ii) legally protected cultural heritage areas,
+including those proposed by host governments for such designation.
+
+--- Page 58 ---
+52
+
+
+51.
+If the project, as per ECR ’97, belongs to RED, ORANGE-B or ORANGE-A category and as per
+WB SGP belongs to Category-A or Category-B, does the list of machinery and equipment to be
+imported or under import include equipment for ETP, incinerator, waste recycling plant, noise
+and heat control devices and other applicable equipment as prescribed by DoE and as per
+IEE/EIA and EMP: YES/NO ---------------------------------------------------------------
+
+Section H: Miscellaneous
+52.
+Provide a copy of document checklist as per Annexure 5 of OM
+53.
+Undertakings and Representations:
+The PFI agrees to give the following undertakings and makes the following representations:
+i. that the Promoter has provided/ensured/committed to provide equity as mentioned in OM; and
+ii. the PFI has committed to finance rest of the debt amount excluding IPFF II facility and
+Sponsor’s equity
+iii. the PFI will follow the terms and conditions mentioned in the OM of IPFF II Project
+Name of Authorized
+Representatives (PFI)
+Signature
+Date
+
+--- Page 59 ---
+53
+
+Annexure 5
+Document Checklist
+(Please tick (√), if Yes. If No, write the appropriate Status /reason in the Remarks column)
+
+
+Documents
+Check
+Comment
+
+General Aspects
+
+
+1. Loan Application (Annexure 4) from PFI requesting the amount of fund
+along with the duly filled in loan application form.
+
+
+2. A copy of the summary details of Investment Project as per Annexure 6 of
+Operations Manual (OM)
+
+
+3. Confirmation that PFI has agreed with Sponsor in writing as per Annexure
+7 of OM (providing the PFI the right to inspect and access to project
+information)
+
+
+Copy of Investment Project/Request from Sponsor to PFI
+
+
+Copy of PFI’s draft Sanction Letter, which includes the proposed terms
+and conditions of the Investment Project
+
+
+Conformation that the proposed infrastructure financing does not include
+under the list of Excluded Activities (Annexure 2)
+
+
+Whether the proposed infrastructure project are listed in the list of
+Environmentally and Socially Sensitive Activities (Annexure 3)
+
+
+
+Investment Project
+
+
+Copy of Investment Project Appraisal report by PFI and detailed study
+report by Investment Sponsor including
+
+
+
+a) Project Location and Site Map
+
+
+
+b) Shareholding Structure of Project Company
+
+
+c) Management Team and proposed organizational structure of Sponsors
+and management competency
+
+
+d) Memorandum and Article of Association and Certificate of
+incorporation of Project Company
+
+
+e) Profiles/experience of Parties involved in project development and
+operation and maintenance
+
+
+f) Proposed Security package/ security related all supporting paper
+
+
+g) Project Implementation Schedule depicting Current Status of the
+project
+
+
+h) Description of Major Equipment to be installed in the Project
+
+
+i) Technical details along with Process Flow Diagram
+
+
+j) Proven Performance of Major Equipment
+
+
+9. Confirmation that Investment Project is not located inside a protected area
+
+
+10. Land entitlement evidence in case of Investment Enterprise owns the land
+
+
+11. Valuation report on land and building made by credit risk manager/ credit
+officer/ enlisted surveyor of PFI if available.
+
+--- Page 60 ---
+54
+
+
+Documents
+Check
+Comment
+
+Sponsors/ Promotors
+
+
+12. Experience of Sponsors in implementing similar Project
+
+
+13. Sponsor Details:
+
+
+a) Profile/ Corporate Background and Experience
+
+
+b) Last three years audited balance sheet and income statement
+
+
+c) Clean, current Credit Information Bureau Report (no more than 90
+days old from submission of the proposal), all local shareholder
+directors and associated companies.
+
+
+
+Lender's/ Financial Aspects
+
+
+14. Proposed Financing Arrangement of the project confirms IPFF II
+requirement
+
+
+15. Arrangement of utilization of equity (amount and in percentage) by the
+sponsors
+
+
+16. Arrangement of sharing the rest of the financing (excluding IPFF II and
+sponsor’s equity)by PFI’s own resources and/or other institutions
+
+
+17. Investment Project Payment/Amortization Schedule along with terms and
+condition (indicative)
+a) Repayment from PFI to BB
+b) Repayment from Investment Project to PFI
+
+
+18. Financial Model including debt service coverage ratio and other financial
+ratios / statements
+
+
+19. Independent Engineer’s Report, if any
+
+
+
+Procurement Aspects
+
+
+20. Details of Sponsor’s Procurement Process with evidence including
+submitted tender documents, RFQ, RFP, newspaper clippings etc.
+
+
+21. Procurement Plan of the Sponsor’s for major machineries and equipment
+with current status.
+
+
+22. Standard commercial practices followed in procurement
+
+
+23. Undertaking of PFI and Sponsor that the assets will be procured as per
+procedures described in the OM under the proposed financing.
+
+
+
+Commercial Aspects
+
+
+24. Copy of Concession Agreement(s)
+
+
+25. License from relevant Regulatory Authority
+
+
+26. Consent/permit from Local Administrative Authority.
+
+
+27. Arrangement of Insurance policy for usual risks
+
+
+28. Copy(ies) of EPC contract / Turnkey contract / Spare parts supply contract
+/ O &M contract / Equipment supply contract / Civil construction contract
+/ Land development contract / any other relevant contracts
+
+--- Page 61 ---
+55
+
+
+Documents
+Check
+Comment
+
+Environmental and Social Aspects
+
+
+29. Compliance with environmental and social aspects as per DoE
+requirements, and ESPP requirements of IPFF II Project.
+
+
+30. Initial Environmental Examination (IEE) report
+
+
+31. Environmental and Social Impact Assessment (ESIA) report
+
+
+32. Feedback from Consultation with Stakeholders (if not included in ESIA
+report)
+
+
+33. PFI’s own Environmental and Social Assessment report (if any)
+
+
+34. Resettlement Action Plan(RAP) (in case of Involuntary Resettlement), if
+required
+
+
+35. Indigenous peoples development plan (IPDP) if required
+
+
+36. Clearance certificate of DoE enclosed (SCC, ECC etc.)
+
+--- Page 62 ---
+56
+
+Annexure 6
+Summary Details of Investment Project
+
+Name of the PFI:
+
+i) Profile and Appraisal of the Infrastructure Investment Project
+01
+Name of Investment Sponsor
+
+02
+Legal Status
+
+03
+Nature of business
+
+04
+Sub-sector
+
+05
+Location of the plant/project
+
+06
+Group Name
+
+07
+Cost of the project
+
+08
+Expected life of the project
+
+09
+Objective of the project.
+
+10
+Scope and strategy of the project.
+
+11
+Projected financials (BDT in milllion)
+: Average Revenue:
+: Average Net Income:
+: Average cash flow
+: Average Equity
+: Average Repayment
+Yr 1-3
+Yr 4-6
+Yr 7-9
+Yr 10-12
+Yr-13-15
+
+12
+Technical feasibility of site of the project
+
+13
+Loan or Lease
+
+14
+Loan/Lease amount
+
+15
+Total group exposure of the Sponsor
+
+
+16
+If the Project was not awarded on the basis of
+Competition, description of the best commercial
+procurement practice used or will be used
+
+17
+Main Machinery and equipment to be procured,
+with value and country of origin (Attach detail list)
+Mach & Eqpt. Origin (BDT Value)
+18
+Sponsors repayment record
+
+19
+i) PFI’s appraisal report on the Investment project
+(enclose).
+ii)If the project already started operation, PFI’s
+appraisal report on viability and feasibility of the
+project on the basis of the latest audited/ unaudited
+Financial Statements, performance reports and
+compliance status of ESMP.
+
+20
+Financial plan (Equity and debt)
+
+21
+Description of assets to be financed
+
+22
+Sponsor-PFI relationship
+(new or existing)
+23
+Insurance status
+
+24
+Environmental Category of the project
+DoE:______ WB:_______
+
+--- Page 63 ---
+57
+
+
+ii) Terms and conditions of the Infrastructure Financing
+Purpose of the loan
+
+Amount of the loan in BDT/USD
+
+Period of Loan/Lease( max. 20 years as required)
+Grace period
+
+Maturity date
+
+Interest rate( as per PFI’s lending practice)
+
+Disbursement Schedule ( and amount disbursed,
+if any)
+Milestone, Date, Amount(Sch).
+Amount(Disb)
+8 i) Repayment /Amortisation schedule
+ii) Does the Repayment /Amortisation schedule conform to
+amortisation schedule for Facility loan (Essentially, it must
+conform):
+Enter/
+Enclose
+Yes/No
+
+09 Description of Security
+
+
+
+
+
+(Authorised signature of the PFI)
+
+--- Page 64 ---
+58
+
+Annexure 7
+
+Undertaking by the PFI
+
+1. The PFI will confirm that the Investment Project, for which the financing is sought, will be carried
+out with due diligence and efficiency and in accordance with sound technical, financial and
+managerial standards; that the Investment Project will maintain adequate project records; and that
+PFI/IPFF II Project Cell/IDA will have the right of inspection.
+
+2. The PFI shall obtain the right to inspect, by itself or jointly with representatives of the IDA and
+IPFF II Project Cell, such assets and sites, works, plants and construction included in the
+Investment Project, the operation thereof, and any relevant records and documents.
+
+3. The PFI shall obtain the right to obtain all such information as IPFF II Project Cell, the IDA or the
+PFI reasonably request relating to the foregoing and to the administration, operation and financial
+condition of the Investment Sponsor and to the benefits to be derived from the Investment project.
+
+4. The PFI shall obtain the right to suspend or terminate the right of the Sponsor to the use of IDA
+funding upon failure by the Sponsor to perform its obligations under contract with the PFI.
+
+
+
+(Authorised signature of the PFI)
+
+--- Page 65 ---
+59
+
+
+Annexure 8
+
+Quarterly Report of PFI on Infrastructure Financing
+
+As on---------------
+
+
+SL.
+Name of the
+Investment
+Sponsor
+Sector
+Loan
+No
+Sanction
+Date
+Sanction
+amount
+Disbursed
+amount as
+of---
+Outstanding
+amount as of-
+Overdue
+Instalment
+amount
+Recovery
+during the
+quarter
+Cumulative
+recovery as of
+Remarks
+
+--- Page 66 ---
+60
+
+Annexure 9
+Figure showing IPFF II Project Implementation Arrangements
+
+
+
+IDA
+
+GoB
+BB PIU
+(IPFF II Project Cell)
+
+PFIs
+TA Component
+Advisory Services to
+PPPA and BIFFL
+PPPA
+BIFFL
+IDA Credit:
+USD 100 million Scale Up Facility
+(SUF) + USD 256.70 million IDA
+GoB Credit:
+USD 60 00 million equivalent BDT
+Project implementation services
+under the Administration Agreement
+with the GoB.
+Covered by the TA component
+BIFFL also a
+PFI and will
+deploy
+innovative
+infrastructure
+finance
+instruments
+Financing Component - BB loans to
+PFIs - under the Master Facility
+Agreement. Lending in USD and
+BDT, at fixed and variable rates for
+8-20 years maturities.
+
+Private Infrastructure Projects
+Implemented by private sponsors.
+Government approved/endorsed (by
+appropriate authority/licensed by competent
+authority in applicable case).
+Complaint with all applicable country
+legislation, especially on E&S as confirmed
+by a relevant authority
+Key agreements governing IPFF II
+ Between the GoB and IDA: Financing Agreement
+ Between the GoB and BB: Administration Agreement
+ Between BB and advisors: Technical Service Agreement
+ Between BB and the PFIs: Master Facility Agreement
+(MFA, umbrella agreement for the PFIs’ participation in
+the project) and Facility Access Agreements (FAA, for
+individual loans to PFIs)
+PFI loans to infra projects.
+Lending at PFI rates for 8-20
+years maturities.
+Max 20% of total Component
+1 allocation per infrastructure
+project. Up to 50% of project
+cost can be financed by
+IPFF II
+Technical Advisors/
+Consultants
+The TA component
+- advisory services
+to all project
+stakeholders
+arranged by PIU
+
+--- Page 67 ---
+61
+
+Annexure 10
+Grievance Redress Mechanism
+
+Introduction:
+
+The purpose of this document is to define the procedure for managing Subproject affected community’s
+concerns and complaints (referred to as “grievances”) in a planned, timely, and respectful manner.
+
+This grievance redress mechanisms has been prepared to fulfill the obligation of IDA for funding IPFF II
+project.
+
+The main purpose of this grievance redress mechanism is to effectively and proactively manage a
+community’s feedback, grievances or concerns with a Subproject about its operations. By facilitating a
+two way communication, a grievance mechanism can enhance outcomes by giving people satisfaction
+that their voices are being heard and that the authority of the Subproject would take necessary steps to
+resolve the issues.
+
+Objectives:
+
+The objectives of the grievance redress mechanisms are to:
+ Provide accessible avenues for the project affected communities for those infrastructure projects
+that have been financed under IPFF, or are in the process of seeking financing, to contact IPFF II
+Project in order to lodge complaints;
+ Provide a mechanism for addressing grievances of project affected communities in a timely and
+effective manner.
+
+Scope:
+
+The grievance redress mechanism will manage grievances from project affected communities where IPFF
+II Project finance will be involved. It applies to all grievances that arise as a consequence of any related
+activity for projects financed through IPFF II (this includes any concerns or complaints about actions or
+impacts of any project contractors). This grievance redress mechanisms does not impede access to other
+judicial or administrative remedies that might be available under domestic law or through existing
+arbitration procedures.
+It should also be noted that each infrastructure project financed through IPFF II Project Cell will be
+requested to have in place a project-level grievance redress mechanisms that affected communities may
+use to raise their concerns with project developers. Sponsors will also be requested to make communities
+aware of the IPFF II grievance redress mechanisms.
+All complaints received under this procedure shall be tracked until close out. IPFF II will provide a
+timely response to every concern or complaint submitted, however reserves the right not to engage in a
+resolution process for a complaint which it reasonably considers no more than general, unspecified, and
+therefore un-actionable or concerns a matter for which IPFF II has no formal responsibility (for example,
+a matter that the government controls).
+
+--- Page 68 ---
+62
+
+
+
+Submission of a Complaint to IPFF II Project Cell:
+
+A complaint can be submitted by one or more individuals or groups who believe they are directly and
+adversely affected by an active IPFF II financed Subproject.
+
+The complainant can request to keep their identity confidential. In that case the personal details of
+complainants would only be made available to those involved in the resolution of the grievance in
+question.
+
+Unfortunately, anonymous complaints cannot be responded to by the IPFF II Project. However, if an
+anonymous complaint contains relevant information about specific IPFF II financed project related
+issues, IPFF II Project Cell will also forward it to the concerned Participating Financial Institution that
+financed that project for information and follow-up, where appropriate.
+
+Complaint(s) to IPFF II could be submitted directly by affected people in one of the ways outlinedbelow:
+
+ Via email: bb.ipff@bb.org.bd
+ Via fax: +88-02-9530193
+ Via mail:
+Project Director
+IPFF II Project Cell (24th Floor)
+Bangladesh Bank, Head Office
+Motijheel, Dhaka-1000
+
+Grievance redress mechanisms process:
+
+The grievance redress mechanisms process could be outlined as below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Receive and Register
+Grievance
+Acknowledge
+Screen
+Investigate
+Respond
+Resolved Successfully
+Appeal
+Follow up and close out
+
+--- Page 69 ---
+63
+
+Registering Grievances:
+
+Grievances will be logged in the Grievance Register within two days of receiving the grievance. Project
+Director of IPFF II Project will assign an IPFF II Project Cell official (grievance officer) to deal with the
+grievances. The concerned official will be responsible for:
+• Defining and implementing resolution actions.
+• Investigating the grievance.
+• Making sure resolution actions are completed.
+• Tracking progress of individual grievances.
+• Responding: Aggregating and forwarding feedback to Complainants.
+• Documenting resolution actions.
+• Gaining necessary approvals from, and reporting to the management.
+
+Acknowledge grievance:
+
+The Grievance Officer will formally acknowledge grievance within 5 working days of the submission of
+the grievance, informing the complainant that IPFF II intends to respond within 20 working days.
+
+Screen:
+Each grievance will be screened as either “routine” or “potentially significant” in order to determine the
+appropriate response.
+
+Investigate:
+The grievance officer will lead grievance investigation, when needed, which could include collecting
+relevant documents, making site visits, consulting appropriate internal staff, contacting external
+stakeholders, and other activities. Investigation findings will be used to document decision making
+process and inform proposed remedy.
+
+Respond:
+If the grievance is classified as routine, grievance officer will define plan for grievance response and craft
+the draft response for approval from Project Director. In case of “potentially significant” type grievance,
+the grievance officer will work collaboratively with the concerned PFI and the entrepreneur to take
+remedial action. The responses have to be cleared by the Project Director.
+
+Follow up and closed out:
+If the complainant accepts the proposed resolution, the agreed actions will be implemented. The
+grievance officer will be responsible for assigning action parties, actions, and deadlines to implement the
+resolution. After resolution, the grievance should be formally closed out.
+
+Appeal:
+In cases where a complainant is unsatisfied with and/or unwilling to accept the resolution actions
+proposed, the complainant can appeal to revisit the grievance. In that case, the complainant has to
+produce sufficient reasoning behind the unacceptance of the resolution. Where complainant(s) are not
+satisfied with the resolution provided by IPFF II Project, they can be advised of other avenues that may
+be available to them to address the issues.

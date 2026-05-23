@@ -1,0 +1,840 @@
+--- Page 1 ---
+Bangladesh Bank
+Head Office
+Dhaka
+Website: www.bb.org.bd
+
+
+
+Banking Regulation and Policy Department
+BRPD Circular No. 03
+
+08 May 2025
+Date:-----------------------
+25 Baishakh1432
+
+Managing Director/Chief Executive Officer
+All Scheduled Banks in Bangladesh.
+
+Dear Sir,
+Transactions with Bank-Related Persons or Institutions
+
+In order to ensure proper utilization of bank-company’s funds and to acquire and maintain the
+depositors’ confidence, transactions with bank-related persons or institutions need to be
+conducted transparently under explicit policies. In this respect certain provisions regarding
+transactions with bank-related persons or institutions are incorporated in Sections 17, 18, 26Ga,
+27, and 28 of the Bank-Company Act, 1991. Necessary amendments have been made to Sections
+17, 26Ga, 27, and 28 of this said Act, through the Bank-Company (Amendment) Act, 2023.
+Furthermore, to ensure proper compliance of the stated amendments and the regulations related to
+transactions with bank-related persons or institutions, banks are hereby instructed to adhere to the
+following instructions.
+
+1. Definition: For the purpose of this circular-
+
+(a) ‘Bank-related Persons or Institutions’ shall refer to the following individuals, institutions,
+entities or companies:
+Any director, Managing Director/Chief Executive Officer, and any other official or
+person, who, in accordance with the regulations issued by Bangladesh Bank from time to
+time, is deemed by Bangladesh Bank to exert significant influence on the governance or
+operations of the bank-company;
+(ii) A significant shareholder of a bank-company, director/partner of the significant
+shareholder company/institution/organization/trust, representative director of shareholder
+company/institution/organization/trust, ultimate beneficial owner of a bank-company or
+any individual, institution, or company who or which exerts, or is deemed by Bangladesh
+Bank to exert control, joint control, or significant influence over the bank-company;
+(iii) Family members of the individuals mentioned in paragraphs 1(a) (i) and 1(a) (ii);
+(iv) A company in which a bank-company or the bank-related persons mentioned in paragraph
+1(a) (i) to 1(a) (iii) have control, joint control, or significant influence;
+Any subsidiary company of a bank;
+
+--- Page 2 ---
+(vi) Individuals, institutions, or companies who or which are related to the persons mentioned
+in paragraphs 1(a)(i) to 1(a) (iv) in the same manner described above;
+(vii) Any natural person, legal person or legal arrangement through whom/which a transaction
+is carried out on behalf of, or for the benefit of, the persons mentioned in paragraphs 1(a)
+(i) to 1(a) (vi);
+(viii) Any other individual, institution, or company deemed by Bangladesh Bank to be related to
+the bank-company, based on the nature of the relationship or the transactions between
+them, as per the regulations issued by Bangladesh Bank from time to time;
+
+(b) ‘Financial transaction’ shall refer to the on-balance sheet and off-balance sheet credit
+exposures, including loans, secured loans and advances, overdrafts, investments in
+securities, claims arising from prepayments, deferred payments, derivatives, commitments,
+letters of credit, guarantees, and other credit risk bearing facilities, as well as dealings,
+including but not limited to service contracts, asset purchases and sales, construction
+contracts, lease agreements, borrowings, and write-offs;
+(c) ‘Credit facilities’ shall refer to the on-balance sheet and off-balance sheet credit exposures,
+comprising, inter alia, loans, secured loans and advances, overdrafts, investments in
+securities, claims arising from prepayments, deferred payments, derivative exposures,
+commitments, letters of credit, guarantees, and any other facilities that give rise to credit
+risk;
+(d) ‘Significant shareholder’ shall refer to any individual, institution, company, or family
+member who, directly or indirectly, solely or jointly with others, holds more than 5 percent
+of the ownership shares of a bank-company;
+(e) ‘Controlled institution’ or ‘controlled company’ shall refer to an institution or company of
+an individual, institution, or company -
+(i) where that individual, institution, or company holds a significant share or exercises
+control in any other means; or
+(ii) where that individual or his family members or that institution or company or any of
+their subsidiary companies are directors; or
+(iii) which is the sole proprietorship business or partnership firm of that individual or
+his/her family members; or
+(iv) where that individual, institution, or company retains the right to appoint or remove
+directors or retain the ability to control its management or operations through a
+contract or any other means.
+(f) ‘Related Person or Institution’: If an individual or institution or company holds the position
+of a director in the board of any other institution or holds 20 percent or more shares of that
+institution or becomes guarantor for any loan of that institution, the person or institution
+shall be considered as the related person or institution of the stated individual or institution
+or company;
+(g) ‘Representative Director’ shall refer to an individual authorized under Section 86 of the
+Companies Act, 1994;
+
+--- Page 3 ---
+(h) ‘Loan’ shall refer to the loan as defined under Clause (Ga) of Section 2 of the Artha Rin
+Adalat Ain, 2003;
+(i) ‘Secured loan or advance’ shall refer to those loans or advances which are provided against
+the pledge of assets and where the market value of the pledged assets, as determined by the
+method prescribed by Bangladesh Bank, is never less than the amount of the loan at any
+time;
+(j) ‘Collateral’ shall refer to the eligible collateral as specified by Bangladesh Bank in its
+directives issued from time to time;
+(k) ‘Family’ or ‘family member’ shall refer to the wife, husband, father, mother, son, daughter,
+brother, or sister of an individual and any dependent person on that individual;
+(l) ‘Bank-company’ shall refer to any company licensed under Section 31 of the Bank-
+Company Act, 1991, to operate banking business in Bangladesh, including any specialized
+bank; and
+(m) ‘Finance company’ shall refer to any finance company defined in Section 2, Clause 17 of
+the Finance Company Act, 2023.
+2. General Provisions for Transactions with Bank-related Persons or Institutions:
+(a) The aggregate amount of credit facilities extended by a bank-company to its bank-related
+persons or institutions and their related persons or institutions shall not exceed 10 percent of
+the bank-company’s Tier-1 capital. In calculating Tier-1 capital, the capital preservation
+policies issued by Bangladesh Bank from time to time under the provisions of Sub-Section
+(1) of Section 13 of the Bank-Company Act, 1991, will be applicable.
+(b) Any breach or violation of the credit facility limit stated in 2(a) shall be immediately
+reported by the bank-company to Bangladesh Bank. In such cases, the bank-company shall
+also prepare and submit an action plan, satisfactory to Bangladesh Bank, for bringing the
+credit facilities to bank-related persons or institutions into compliance with the prescribed
+limit within a defined timeframe set by Bangladesh Bank.
+(c) If a person or institution becomes related to the bank-company after the conclusion of a
+transaction with them, the bank-company shall ensure that the Board is immediately notified
+of the change in relationship and all relevant existing transactions. The Board shall take
+appropriate measures, within a reasonable timeframe, to ensure compliance with the
+applicable provisions of this circular.
+(d) Financial transactions by a bank-company with its related persons or institutions or with any
+person or institution in which its directors have a connection (as guarantor or otherwise)
+shall be subject to the following conditions:
+(i) The financial transactions shall reflect the bank-company’s interests, and the terms of the
+financial transactions must not be more favorable than those with non-related persons.
+These terms include, but are not limited to, rate of interest, rate of commission, fees,
+charges, margin, tenure, amortization schedules, acceptable types, quality and amount of
+collateral, and other aspects of financial transactions;
+(ii) The bank-company shall not engage in financial transactions that involve acquiring or
+disposing of goods/assets and other services at inflated or depreciated prices relative to fair
+
+--- Page 4 ---
+market value; or conducting financial transactions that the bank-company would not
+undertake with unrelated persons under comparable circumstances;
+(iii) Prior approval of the majority of the bank’s Board of directors must be obtained for the
+execution or renewal or any change in the terms or conditions of financial transactions and
+for the modification/release/return of the primary security, collateral security, personal
+guarantees, etc. Decisions of the bank-company’s Board regarding the termination or
+modification of transactions with related persons or institutions shall explicitly document
+the terms and conditions of such transactions and must include a formal confirmation that
+the transaction is conducted solely in the interest of the bank and on terms and conditions
+not more favorable than those offered in comparable transactions with non-related persons
+or institutions; and
+(iv) If any memorandum regarding the financial transaction with a director or his/her related
+persons or institutions is submitted to the Board, the Board shall ensure that the concerned
+director and his family member(s) serving as director(s) on the bank’s board refrain from
+participating in the discussion, voting on the matter, or otherwise influencing the decision
+in any manner. The bank-company’s Board shall establish internal procedures to ensure
+that individuals who are actual or potential beneficiaries of a financial transaction with any
+bank-related person or institution are not involved in the processing, approval, or oversight
+of such transactions.
+(e) Financial transactions conducted with any bank-related person or institution must be
+approved by the shareholders at the subsequent Annual General Meeting (AGM) of the bank
+and must be disclosed in the bank’s audited financial statements;
+(f) In determining/identifying the ultimate beneficial owners, the instructions of the Banking
+Regulation and Policy Department issued by Circular No. 16, dated 01 December 2024, and
+any subsequent circulars/circular letters to be issued in this regard must be followed;
+(g) In determining/identifying the group of companies/institutions, the instructions of Banking
+Regulation and Policy Department issued by Circular No. 1, dated 16 January 2022, and any
+other circulars/circular letters already issued or to be issued in this regard must be followed;
+(h) Bank-related persons or institutions must be identified by bank-companies in accordance
+with the provisions of Bank-Company Act, 1991, and this circular. The bank-company shall
+maintain an up-to-date list (register) of bank-related persons or institutions, along with the
+supporting information and documentation used for their identification, as well as a register
+of transactions with bank-related persons and institutions. If deemed necessary, Bangladesh
+Bank may conduct regular or special inspection/supervision in this regard;
+(i) No bank-company shall accept its own shares as collateral security for any financial
+transaction;
+(j) In conducting financial transactions with any bank-related person or institution, the bank-
+company shall strictly apply the same banking procedures, including loan risk analysis,
+credit risk assessment, and due diligence, as are applied to transactions with non-related
+persons or institutions;
+(k) The updated information of the transactions with bank-related persons or institutions must
+be submitted through Rationalised Input Template (RIT) to Bangladesh Bank Enterprise
+
+--- Page 5 ---
+Data Warehouse (EDW) portal within 10 (ten) days after the end of each quarter. Banks
+have to submit such information from September, 2025 quarter manually, and from
+December, 2025 quarter through RIT; and
+(l) In addition to the above instruction, any bank-company must also adhere to the established/
+existing rules and regulations for conducting financial transactions with the individuals or
+institutions related to the bank, in the same manner as they would for financial transactions
+with regular customers.
+3. Provisions for Director and Representative Director Related Credit Facilities:
+In addition to complying with the relevant provisions of the Bank-Company Act, 1991 and other
+instructions in this circular, a bank-company must comply with the following instructions while
+conducting any credit facility with its director/representative director and his/her family members,
+their related institutions, their controlled institution or company, and any person or institution with
+whom the director has a relationship as guarantor, and or the shareholding company/institution/
+organization/trust which has nominated representative director or its directors or partners:
+(a) Limit to Credit Facilities:
+(i) The aggregate amount of credit facilities provided or to be provided to a director and
+his/her family members, their related institutions, their controlled institution or company,
+and any person or institution with whom the director has a relationship as guarantor shall
+not exceed 50 percent of the face value of shares of that bank-company held in director’s
+own name. If there is more than one director from a family, any member of the family can
+avail credit facility against the total value of shares of that bank-company held by the
+director/directors provided that the guarantee from the relevant director has been taken. In
+the case of a public limited company, the proportion of shares held by the director or
+his/her family members in that company shall be used to determine the portion of the
+credit facilities to be considered with that director;
+(ii) In cases where the total amount of prevailing credit facilities exceeds 50 percent of the
+paid-up capital against the shares held by the director/shareholder company/institution/
+organization/trust in the bank on the effective date of this circular, the matter must be
+immediately presented at the meeting of the Board of Directors and must be brought to the
+notice of Bangladesh Bank. Similarly, if any individual is appointed as a
+director/representative director of a bank-company, and the aggregate amount of
+prevailing credit facilities exceeds 50 percent of the paid-up capital against the shares held
+by the director/shareholder company/institution/organization/trust in the bank, the matter
+must be immediately presented at the meeting of the Board of Directors and must be
+brought to the notice of Bangladesh Bank. In this case, the additional credit facilities owed
+to the director/representative director/shareholder institution or company must be repaid
+within the time frame specified by Bangladesh Bank. Under any circumstances neither can
+the 50 percent limit for credit facilities be exceeded, nor can previously conducted
+transactions be renewed, extended, or have their terms altered;
+
+--- Page 6 ---
+(b) Provisions Regarding Prior Approval of Bangladesh Bank:
+(i) In cases of cumulative direct credit facilities amounting to BDT 50.00 lakh (5 million) or
+more, or cumulative direct and indirect aggregate credit facilities amounting to BDT 1.00
+crore (10 million) or more, with the director/representative director and their family
+members, their related institutions, their controlled institutions or companies, and
+individuals or institutions with whom they have a guarantee relationship, as well as
+shareholder companies /institutions/organizations/trusts or their directors or partners who
+have nominated the representative director, prior approval from Bangladesh Bank must be
+obtained;
+(ii) When any existing credit facility to a director/representative director/former director and
+his/her family members, their related institutions, their controlled institutions or companies,
+and individuals or institutions with whom they have a guarantee relationship, as well as
+shareholder companies/institutions/organizations/trusts or their directors or partners who
+have nominated the representative director is to be renewed, or when the terms and
+conditions of such facility are to be changed, and when initial guarantees, supplementary
+guarantees, personal guarantees, etc., provided against that are to be modified, canceled, or
+refunded, bank must obtain prior approval from Bangladesh Bank. In the case of renewal of
+any existing credit facility, an application signed by the Managing Director/Chief Executive
+Officer must be submitted to the Banking Regulation and Policy Department (Division-2) of
+Bangladesh Bank at least 07 (seven) working days before the expiration of the relevant
+credit facility, along with prior approval from the Board; and
+(iii) For prior approval, banks should apply to Bangladesh Bank using the attached form
+(Annexure-A) duly signed by the Managing Director enclosing the following documents
+and information:
+1. Attested copy of the meeting minutes of the Board of Directors and the memorandum
+related to the transaction;
+2. The updated CIB (Credit Information Bureau) report of the concerned director and the
+borrowing person or institutions;
+3. Attested copy of the loan/investment sanction letters issued to at least three non-bank-
+related customers (engaged in the same type of business) during the same period,
+along with the ledger statements as proof of disbursement;
+4. Attested copy of the original loan/investment sanction letter (containing the terms and
+conditions of the financial transaction);
+5. A testimonial by the bank as a certificate of the proper utilization of the existing
+facilities to the person or institution mentioned in clause 3 (b) (ii);
+6. Collateral valuation report by the valuation firm (where applicable); and
+7. CIB Enquiry Form 1 (Annexure-B), 2 (Annexure-D) and Undertaking (Annexure-C).
+(c) Provisions Regarding Acceptance of Collateral:
+(i) No bank-company shall sanction any loan or advance, except for secured loans or
+advances, to its director/representative director, family members, their related institutions,
+their controlled institutions or companies, and any individuals or institutions associated as
+
+--- Page 7 ---
+guarantors and the respective bank’s shareholder company/institution/organization/trust.
+Any such credit facility must be backed by collateral mortgaged in favour of the bank.
+Additionally, personal guarantee of the director/representative director must be obtained in
+all such cases;
+(ii) Such credit facilities must be adequately secured with sufficient collateral. Priority should
+be given to collateral such as bank deposits, gold or gold ornaments, land, buildings, and
+shares of companies listed on the stock exchange;
+(iii) In the case of credit facilities involving the representative director and their family
+members, their related institutions, their controlled institutions or companies, and the
+shareholder company/institution/organization/trust that nominated the representative
+director, as well as its directors or partners, the approval and guarantee of the shareholder
+company/institution/organization/trustee board/Board of Directors/partners, as applicable,
+must be obtained. The relevant documents must be attached to the application submitted for
+approval from Bangladesh Bank. Furthermore, in such credit facilities with the bank’s
+shareholder company/institution/organization/trust, personal guarantees from all directors
+or partners of the concerned company or institution must be obtained; and
+(iv) In such cases, before executing any credit facility, the concerned bank must ensure that the
+shares of the bank held by the respective director or shareholder company/institution/
+organization/trust have not been used as collateral for credit facilities with any other bank-
+company or finance company. Similarly, after executing such credit facilities, those shares
+of the bank cannot be used as collateral for credit facilities with any other bank-company or
+finance company.
+
+(d) Provisions Regarding Waiver of Interest/Profit:
+Before waiving any imposed or unimposed interest or profit on loans/investment facilities
+granted to individuals or institutions mentioned in clause 1(a), prior approval from
+Bangladesh Bank must be obtained;
+(ii) Under no circumstances shall the principal amount of the loan or investment be waived;
+(iii) Interest or profit on loans/investments transferred to bank’s income shall not be waived;
+(iv) In the case of investment facilities granted to individuals or institutions mentioned in
+clause 1(a), the investment recipient cannot be exempted from bearing any losses; and
+(v) In the case of a former director who currently does not hold any shares in the bank,
+interest or profit may be waived on loans or investment facilities granted to them before
+they assumed the position of director or after their regular resignation from the position,
+with the approval of the Board of Directors and without prior approval from Bangladesh
+Bank. However, if the director was removed from his/her post by Bangladesh Bank or any
+other regulatory authority, he/she will not be eligible for this benefit as described in this
+clause.
+4. Provisions Regarding Credit Facilities to Independent Directors:
+No credit facilities can be provided to an independent director and his/her family members, their
+related institutions, their controlled institution or company, and any person or institution with
+which the director has a relationship as guarantor. However, if an independent director of a bank-
+
+--- Page 8 ---
+company also serves as an independent director of its subsidiary company to comply with any
+regulatory requirement, the aforementioned restrictions shall not be applicable for the credit
+facilities to that subsidiary company.
+5. Provisions to be followed for Credit Facilities to Alternate Directors:
+While serving as an alternate director, no credit facilities shall be provided to the alternate
+director, his/her family members, their related institution, their controlled institution or company,
+and any person or institution with which the director has a relationship as guarantor. Additionally,
+no interest/profit waivers or exemptions from interest imposition shall be granted in such cases.
+6. Provisions to be followed for Credit Facilities to Government-Nominated Bank Directors:
+(a) No credit facilities except renewal of existing facility shall be conducted with the
+government-nominated director, his/her family members, their related institutions, their
+controlled institution or company, and individuals or institutions with whom they have a
+guarantee relationship and the limit of the credit facility provided previously cannot be
+extended;
+(b) Before being appointed as a director, no changes shall be made to the terms of credit
+facilities involving the director, his/her family members, or any company or institution
+under their control. Additionally, no interest or profit waivers, exemptions from interest
+imposition, or rescheduling of such facilities shall be allowed; and
+(c) If such credit facilities become classified as default loans, immediate legal action must be
+taken. The measures adopted by the bank must be promptly reported to Bangladesh Bank.
+
+7. Provisions to be followed for Credit Facilities to the Managing Director/Chief Executive
+Officer:
+(a) While serving as the Managing Director/Chief Executive Officer of the bank, no credit
+facilities shall be provided to him or any institution or company related to him or under his
+control. Additionally, the tenure or limit of any previously provided credit facilities shall
+not be extended, renewed, or modified in any way, nor shall any interest or profit waivers
+or exemptions from interest imposition be granted;
+(b) As the Managing Director/Chief Executive Officer of the bank is a contractual officer, no
+credit facilities shall be provided to them under the financial transaction policies set for the
+bank’s officers and employees. However, in the case of Country Head of foreign banks
+operating in Bangladesh, the applicable policies for the relevant bank’s officers and
+employees shall be followed;
+(c) A credit card may be issued to the Managing Director/Chief Executive Officer under the
+same terms and limits applicable to non-bank-related customers. However, Banking
+Regulation and Policy Department (Division-2) of Bangladesh Bank must be notified at
+least 07 (Seven) working days before issuing the credit card;
+(d) No loans or advances, other than secured loans or advances, shall be granted to the family
+members of the Managing Director/Chief Executive Officer, their related institutions, their
+controlled institution or company without obtaining sufficient collateral;
+(e) Personal guarantee of the Managing Director/Chief Executive Officer along with
+sufficient secondary collateral must be obtained for any credit facilities to the family
+
+--- Page 9 ---
+members of the Managing Director/Chief Executive Officer, their related institutions, their
+controlled institution or company. Priority should be given to collateral such as deposits
+held with the bank, gold or gold ornaments, land, buildings, and shares of companies listed
+on the stock exchange, and the provided collateral must be mortgaged in favour of the
+bank. Additionally, such credit facilities must be reported to Banking Regulation and
+Policy Department (Division-2) of Bangladesh Bank before 07(seven) working days of the
+completion of the transaction; and
+(f) No waiver of the principal of the loan or investment in full or in portion, or interest or
+profit transferred to income account, shall be allowed for the bank’s Managing
+Director/Chief Executive Officer, his/her family members, their related institutions, their
+controlled institution or company. Additionally, prior approval from Bangladesh Bank
+must be obtained before waiving any interest or profit imposed or not imposed on the loan
+or investment or part thereof.
+8. Provisions to be followed for Credit Facilities to Significant Shareholders:
+(a) If the accumulated amount of credit facilities complete or prospective, with significant
+shareholders of the bank, his/her family members, their related institutions and their
+controlled institution or company exceeds BDT1.00 crore (10 million), banks must report
+to Banking Regulation and Policy Department (Division-2) of Bangladesh Bank within 07
+(seven) working days of executing such transaction;
+(b) No loans or advances, other than secured loans or advances, shall be granted to a
+significant shareholder of the bank, their family members, their related institutions, their
+controlled institution or company, and any person or institution with whom the significant
+shareholder has a relationship as guarantor. In such credit facilities, adequate collateral
+must be provided, and the personal guarantee of the significant shareholder must be
+obtained. Priority must be given to taking bank-held deposits, gold or jewelry, land,
+buildings, or shares of companies listed on the stock exchange as collateral security and
+the collateral security must be pledged in favour of the bank; and
+(c) No waiver of the principal of the loan or investment in full or in portion, or interest or
+profit transferred to the income account, shall be allowed for a significant shareholder of
+the bank, their family members, their related institutions, their controlled institution or
+company, and any person or institution with whom the significant shareholder has a
+relationship as guarantor. Additionally, prior approval from Bangladesh Bank must be
+obtained before waiving any imposed or unimposed interest or profit on such loans or
+investments or its portion.
+9. Provisions to be followed for Credit Facilities to Subsidiary Companies:
+Prior approval from Bangladesh Bank must be obtained for any credit facilities to subsidiary
+company(ies) of a bank-company.
+10. Procedure of classifying Bank-related Persons or Institutions by Bangladesh Bank:
+a. Bangladesh Bank, taking into account the nature of relationships, transactions, and any other
+relevant affiliations with the bank-company, may classify any person or institution as a
+bank-related person or institution in accordance with the definition provided in paragraph
+
+--- Page 10 ---
+10
+
+(1)(a) of this circular. Such classification shall be made based on the decision of the
+competent authority of Bangladesh Bank;
+Following the issuance of the decision to classify a person or institution as bank-related
+person or institution, Bangladesh Bank shall notify the concerned bank-company in
+written. Until the bank-company submits evidence demonstrating the absence of
+affiliation, from the date of receipt of the notification, the identified person or institution
+shall be presumed to be bank-related person or institution; and
+Upon receiving such evidence, the competent authority of Bangladesh Bank shall review
+the submission and may decide to amend or revoke the initial notification. The bank-
+company shall be informed without delay of the outcome of this review. If Bangladesh
+Bank determines that the evidence is insufficient, or if the bank fails to respond within the
+prescribed timeframe, the initial classification shall stand. In such case, Bangladesh Bank
+shall formally notify the bank-company of its final decision and instruct the bank to record
+the identified person or institution as bank-related person or institution in the relevant
+registers of the bank-company.
+11. Any violation of the instructions in this circular will result in disciplinary action against the
+relevant bank-company, its Board of Directors, and the concerned officers under Sections 26Ga,
+27, 28, and 109 of the Bank-Company Act, 1991.
+12. BRPD Circular No. 04, dated 23 February 2014, is hereby repealed. However, all actions
+taken previously under the instructions outlined in the aforementioned circular shall be considered
+valid and in effect.
+13. For the information of the Board of Directors and to take necessary actions, a comprehensive
+agenda regarding the subject matter of this circular must be presented at the next board meeting
+immediately following the issuance of this circular. Additionally, arrangements must be made to
+bring this circular to the attention of all bank officials.
+14. This circular is issued in compliance with the provisions of Sections 26Ga, 27, and 28 of the
+Bank-Company Act, 1991, and under the authority granted by Sections 26Ga and 45 of the same
+Act. This circular will take effect immediately.
+
+
+Yours Faithfully,
+
+(Md. Ala Uddin)
+Director (BRPD)
+Phone: 9530095
+
+--- Page 11 ---
+11
+
+Annexure-A
+
+Application Form for Credit Facilities to Bank-Related Persons or Institutions
+
+1. Name and Address of applicant (individual/institution):
+2. Nature of institution (sole proprietorship/partnership/private/public limited company):
+3. Applicant’s paid-up capital and net worth:
+4. a) Nature of business:
+b) Purpose of the proposed credit facility:
+5. Name of Group (where applicable):
+6. Name, Address and shareholding percentage of the applying institution’s owners/partners/ directors:
+7. Name and address of guarantor/guarantors of the credit facility applied for:
+8. Name of the concerned director and relationship between applicant and director:
+9. Description of the credit facility applied for:
+
+Type
+Amount
+Tenure
+Rate of Interest/Profit/
+Commission
+New
+Renewal
+Enhancement/
+Reduction
+Total
+a. Funded credit facility
+b. Non-funded credit
+facility
+Total (a+b)
+
+10. Description of Collateral:
+
+Type
+Primary Collateral
+Secondary Collateral
+Total value
+Description*
+Value
+Description*
+Value
+a. Funded credit facility
+b. Non-funded credit
+facility
+Total (a+b)
+(*nature of security, quantity, etc. should be described in detail as much as possible)
+
+11. Up-to-date description of a credit facility conducted with the director/representative director/former
+Director and his/her family member, their related institutions, their controlled institution or company
+and any person or institution with whom the director has a relationship as guarantor, as well as with the
+shareholder company/institution/organization/trust that nominate such representative directors or its
+directors or partners:
+
+Name
+of the
+A/C
+Type of
+credit
+facility
+
+Sanctioned
+amount and
+date of the
+credit facility
+Outstandi
+ng amount
+and date
+Date
+of
+expiry
+Description of
+securities
+and their
+value
+Classification
+status
+comment
+
+
+Cont’d.
+
+--- Page 12 ---
+12
+
+
+12. Up-to-date description of the applicant and related director’s credit exposure in other banks/ finance
+companies:
+
+Name
+of the
+A/C
+Name
+of bank/
+finance
+company,
+branch
+Type of
+credit
+facility
+
+Sanctioned
+amount and
+date of the
+credit facility
+Outstanding
+amount and
+date
+Date
+of
+expiry
+Description
+of
+securities and
+their value
+Classification
+status
+comment
+
+13. Aggregate amount of credit facilities provided along with the proposed credit facility to be provided to
+the director/representative director/former director and his/her family member, their related
+institutions, their controlled institution or company and any person or institution with whom the
+director has a relationship as guarantor, as well as with the shareholder company/
+institution/organization/trust that nominate such representative directors or its directors or partners and
+description of the paid-up value of shareholding in applicant bank by director/shareholder
+company/institution/organization/trust:
+
+Aggregate amount of
+credit facilities*
+No. of share holding by
+director/shareholder
+company/institution/organization/ trust
+Share value
+Percentage
+
+14. Has the share held in the name of the concerned bank director or shareholder company/institution/
+organization/trust been pledged as collateral security with any bank-company or finance company? If
+so, please provide the name of the concerned bank-company or finance company and the amount of
+pledged shares.
+
+15. Description of credit facilities to or for the benefit of bank-related persons or institutions including the
+proposed credit facility:
+[In lakh taka (BDT in million)]
+Aggregate amount of credit facilities
+Tier-1capital of bank
+Percentage (%)
+
+16. Has the credit risk been analyzed for proposed credit facility? If yes, mention the result:
+17. Has prior approval from Bangladesh Bank been taken for any previous credit facility for this
+applicant/director? If yes, mention the reference and date of approval [attach a copy of approval letter]:
+18. Has any previous credit proposal of the applicant been rejected by Bangladesh Bank? If yes, mention
+the reference and date [attach a copy of the letter]:
+
+I hereby certify that the above-mentioned information is correct and no information has been concealed.
+
+
+Date:
+Signature:
+Name:
+Managing Director:
+(with the official seal)
+
+--- Page 13 ---
+13
+
+Annexure-B
+
+
+
+Enquiry Form-1
+(For Individual)
+Individual data
+
+1. Title
+
+Name*
+
+
+
+2. Father’s title
+
+Father’s Name*
+
+
+
+3. Mother’s title
+
+Mother’s Name*
+
+
+
+4. Spouse ’s title
+
+Spouse’s Name
+
+
+
+5. National ID number*
+(10/17 digits)
+
+6. TIN
+
+
+
+7. Date of birth(dd/mm/yyyy)*
+
+8. Gender*
+
+
+
+9. District of birth*
+
+10. Country of birth*
+
+
+
+
+Main (Permanent)address:
+12. Street no./Street name/Village/PS/Upazilla*
+
+District*
+Postal Code
+Country*
+
+
+
+
+Additional (Present) address:
+13. Street no./Street name/Village/PS/Upazilla
+
+District
+Postal Code
+Country
+
+
+
+
+Identification document data
+14. ID type (Passport/Driving
+License/Commissioner Certificate)
+ID number
+
+
+ID issue date(dd/mm/yyyy):
+ID issue country:
+
+
+
+15. Telephone number
+
+* Indicates mandatory information to be provided.
+1. If Country of birth (SL 10) is Bangladesh then NID no (SL 05) is Mandatory.
+2. If Country of birth (SL 10) is other than Bangladesh then Passport Information (SL 14) is mandatory.
+
+--- Page 14 ---
+14
+
+Annexure-C
+
+
+Undertaking
+
+To
+The Manager
+Subject: Provision of information on the ownership of companies and their bank liabilities.
+
+Dear Sir,
+I, ………………………………owner/partner/director/guarantor of ............................................, am
+applying for sanctioning/renewal/rescheduling of a loan in my own name/ aforementioned company’s
+name. My father’s name:……………………….., mother’s name:……………………, husband’s name(in
+case of married woman):…………………………., Permanent address: Street No/Village.………… Street
+Name/PS/Upazilla…………………District……………Postal code………country…………….., Business
+address: Street No/Village.………… Street Name/PS/Upazilla …………………District……………Postal
+code………country…………….., Date of Birth:……………., District of Birth:……………., Country of
+Birth:……………., National ID Number:……………….., Other ID documents(Passport/Driving license
+/Birth
+Registration
+Certificate):
+ID
+number………….ID
+issue
+date……………ID
+issue
+country………………..,
+TIN:…………………………….,
+Gender:
+Male/Female,
+Telephone
+Number:………………are given for your kind consideration. The list of companies under the ownership
+of mine along with their bank liability status is given in the following table:
+
+
+Serial
+no.
+
+Name of the Company
+Main
+Address
+Additional
+Address
+Whether the company is
+availing any loan or not
+Yes
+No
+Name of
+the
+bank/FI
+Name of the
+branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apart from stated above, if any liability in my own name or my company’s name is found, I will be bound
+to obey any decision made by the authority concerned relating to sanctioning/renewal/ rescheduling of the
+loan applied for and I will be punishable by law for providing this false or fabricated information.
+
+
+Seal and Signature of the bank official who
+certified the borrower.
+
+
+Customer’s Signature:
+Name:
+Name of the Borrowing organization:
+
+*If necessary, extra paper could be used for list of companies.
+
+--- Page 15 ---
+15
+
+Annexure-D
+
+
+Enquiry Form-2
+(For Proprietorship/Partnership/Limited or any other Company)
+
+Company data
+
+1. Title
+
+Trade Name*
+
+
+
+2. Legal form*, **
+
+3. TIN*
+
+
+
+
+Company’s main (Permanent) address:
+
+4. Street no./Street name/Village/PS/Upazilla*
+
+District*
+Postal Code
+Country*
+
+
+
+
+Additional (Business) address:
+5. Street no./Street name/Village/PS/Upazilla
+
+District
+Postal Code
+Country
+
+
+
+
+6. Telephone number
+
+
+* Indicates mandatory information to be provided.
+
+** Indicates form of a company like Proprietorship, Partnership, Public Limited, Private
+Limited, Corporation etc.

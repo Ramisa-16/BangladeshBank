@@ -1,0 +1,3392 @@
+--- Page 1 ---
+SFD Circular No: 01 Date:
+Managing Director/Chief Executive Officer
+All Scheduled Banks and Finance Companies operating in Bangladesh
+
+Dear Sir,
+Guideline on Climate Risk Management for Banks and Finance Companies.
+1. Bangladesh is recognized as one of the most climate-vulnerable countries in the world.
+Consequently, its financial sector is highly exposed to both the direct and indirect impacts of
+climate change. Climate change poses both physical risks (e.g., floods, cyclones, heatwaves) and
+transition risks (e.g., policy reforms, technological changes, carbon pricing), which can impair
+asset quality, reduce collateral values, and increase credit, market, liquidity, and operational risks.
+While these challenges are crucial, climate change also presents substantial financing opportunities
+by strategically channelling investments toward climate mitigation and adaptation initiatives
+reducing both physical and transition risks.
+
+2. Recognizing the significance of these challenges and their potential impact on the financial sector,
+Bangladesh Bank is hereby issuing the Guideline on Climate Risk Management for Banks and
+Finance Companies to ensure the systematic identification, assessment, management, and
+disclosure of climate-related risks and opportunities.
+
+3. Bangladesh Bank has issued the Guideline on Sustainability and Climate-related Financial
+Disclosure for Banks and Finance Companies in alignment with the ISSB Standards to strengthen
+the quality, consistency, and comparability of climate-related reporting. Guideline on Climate Risk
+Management is expected to serve as a catalyst in facilitating the smooth and effective
+implementation of climate-related financial disclosures across banks and finance companies. This
+guideline incorporates international standards and best practices to ensure the effective
+implementation of climate-related financial disclosures.
+
+4. Appendices to this circular shall be deemed to be an integral part of the circular. Reporting as per
+the attached template should be submitted to Sustainable Finance Department on semi-annual basis
+by the last working day of the following month.
+
+
+5. This Guideline is being issued in exercise of its power conferred on it under Section 45 of the Bank
+Companies Act, 1991 (amended up to 2023) and Section 41(2) of the Finance Company Act, 2023.
+
+
+6. This circular will come into force with immediate effect.
+
+
+Yours Faithfully,
+
+Attachment: As stated. (Chowdhury Liakat Ali)
+Director (SFD)
+Phone: 9530320
+
+Bangladesh Bank
+
+Website: www.bb.org.bd
+Head Office
+
+Dhaka
+Sustainable Finance Department
+
+
+06 November 2025
+21 KvwZ©K 1432
+
+--- Page 2 ---
+GUIDELINE ON
+CLIMATE RISK MANAGEMENT
+FOR BANKS AND FINANCE COMPANIES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bangladesh Bank
+Sustainable Finance Department
+
+
+
+
+November 2025
+
+--- Page 3 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+ii
+
+
+
+Team leader
+
+Chowdhury Liakat Ali
+Director (SFD), Bangladesh Bank
+
+Team Members
+
+Ahmed Zubaer Mahbub
+Additional Director, Bangladesh Bank
+
+Md. Abu Rayhan
+Joint Director, Bangladesh Bank
+
+Md. Kamrul Hasan
+Joint Director, Bangladesh Bank
+
+Aysha Sharmin Islam Asha
+Joint Director, Bangladesh Bank
+
+Md. Abu Nayeem
+Assistant Director, Bangladesh Bank
+
+Aysha Aurin
+Assistant Director, Bangladesh Bank
+
+--- Page 4 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+iii
+
+
+Preamble
+
+Bangladesh is highly vulnerable to climate-related risks such as cyclones, flooding, droughts,
+heat stress, etc., leading to financial losses of approximately $3 billion annually according to
+the World Bank. These risks, exacerbated by climate change threaten economic stability by
+impacting climate-sensitive sectors. The country faces additional risks from the global
+transition to a low-carbon economy. Despite these challenges, Bangladesh has shown
+proactive leadership in disaster risk management through strategic initiatives such as the
+Bangladesh Delta Plan 2100 and the National Adaptation Plan (NAP), aimed at enhancing
+resilience across key sectors.
+Bangladesh Bank recognizes climate change as a critical threat to financial stability and has
+introduced a series of policies and guidelines since 2011 to integrate climate risk into banking
+operations. While climate change present significant challenges, they also create substantial
+financing opportunities for banks and finance companies with the right strategies. Key sectors
+such as energy, agriculture, RMG etc. will require substantial investment, with banks and
+finance companies playing a crucial role in increasing private sector participation.
+Investments in mitigation and adaptation will reduce both physical and transition risks for
+businesses, creating a climate resilient economy. To guide this transition, Bangladesh Bank
+has issued Guideline on Sustainability and Climate-related Financial Disclosure in 2023
+instructing banks and finance companies to disclose the sustainability and climate-related
+financial risks and opportunities in their annual report aligning with international best
+practice (IFRS S1 and S2). Guideline on Climate Risk Management will guide banks and
+finance companies to identify, assess, manage, monitor and report climate risk.
+
+--- Page 5 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+iv
+
+
+Acknowledgement
+
+The Guideline on Climate Risk Management for Banks and Finance Companies has come
+into light with prudent reviews and guidance of Honorable Governor, Deputy Governor and
+Executive Director in charge of Sustainable Finance Department of Bangladesh Bank.
+
+Bangladesh Bank acknowledges the valuable contribution of the International Finance
+Corporation (IFC) in the development of the Climate Risk Management Guideline for Banks
+and Finance Companies. IFC’s technical assistance and global expertise, along with feedback
+from relevant departments of Bangladesh Bank and the financial industry, have been
+instrumental in shaping this framework to align with international best practices. This
+collaboration has significantly supported Bangladesh Bank’s efforts to enhance climate risk
+management capacity across the financial system and to foster a climate resilient and low
+carbon economy.
+
+--- Page 6 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+
+Table of Contents
+1. Introduction.....................................................................................................................1
+2. Objective..........................................................................................................................4
+3. Definition and characteristics of climate risk...............................................................4
+3.1 Drivers and Transmission Channels............................................................................7
+4. Governance...................................................................................................................11
+4.1 Governance bodies....................................................................................................11
+4.2 Responsibilities of the board and senior management..............................................12
+4.3 Internal control framework........................................................................................13
+4.4 Risk Appetite.............................................................................................................14
+4.4.1 Risk Appetite Framework...................................................................................14
+4.4.2 Capital and liquidity planning.............................................................................16
+5. Strategy of Banks and Finance Companies to manage climate risk.........................17
+5.1 Strategy formulation & integration into other policies.............................................17
+5.2 Approval & implementation of strategy....................................................................20
+6. Climate risk management.............................................................................................21
+6.1 Climate Risk management framework......................................................................21
+6.1.1 Risk culture.........................................................................................................21
+6.1.2 Risk identification...............................................................................................23
+6.1.3 Risk measurement...............................................................................................23
+6.1.4 Risk mitigation and monitoring...........................................................................25
+6.1.4.1 Risk Mitigation.................................................................................................25
+6.1.4.1 Monitoring........................................................................................................26
+6.1.5 Risk reporting and evaluation.............................................................................27
+6.2 Credit risk management............................................................................................27
+6.3 Market risk management...........................................................................................29
+6.4 Operational and reputational risk management.........................................................30
+6.5 Liquidity risk management........................................................................................31
+7. Climate Scenario analysis and stress testing...............................................................31
+7.1 Designing a climate scenario.....................................................................................31
+7.1.1 Principles of climate scenarios............................................................................31
+7.1.2 Objective, scope and coverage.............................................................................32
+7.1.3 Leveraging existing scenarios.............................................................................34
+7.1.4 Assessment approaches.......................................................................................34
+7.1.5 Reporting.............................................................................................................35
+7.2 Embedding climate scenario analysis and climate stress testing in decision making............35
+8. Disclosures.....................................................................................................................36
+8.1 Disclosures................................................................................................................36
+8.2 Transition and Adaptation Plans...............................................................................36
+9. Conclusion.....................................................................................................................37
+
+Annexes...................................................................................................................................38
+Annex 1: Physical Risk Assessment.....................................................................................38
+Annex 2: Transition Risk Assessment..................................................................................42
+Annex 3: Financed Emissions...............................................................................................46
+Annex 4: Data Collection Needs...........................................................................................48
+Annex 5: Climate Scenarios..................................................................................................50
+
+--- Page 7 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+vi
+
+List of Abbreviations
+
+Bangladesh Meteorological Department
+BMD
+Basel Committee on Banking Supervision
+BCBS
+Carbon Border Adjustment Mechanism
+CBAM
+Corporate Social Responsibility
+CSR
+Credit Risk Management
+CRM
+Development Finance Institution
+DFI
+Early Warning Indicator
+EWI
+Environmental & Social Risk Management
+ESRM
+Environmental & Social
+E&S
+Environmental & Social Due Diligence
+ESDD
+Foreign Exchange
+FX
+Glasgow Financial Alliance for Net Zero
+GFANZ
+Green Climate Fund
+GCF
+Greenhouse Gas
+GHG
+Gross Domestic Product
+GDP
+Internal Capital Adequacy Assessment Process
+ICAAP
+Internal Liquidity Adequacy Assessment Process
+ILAAP
+Internal Ratings-Based
+IRB
+International Energy Agency
+IEA
+International Financial Reporting Standards
+IFRS
+Intergovernmental Panel on Climate Change
+IPCC
+International Sustainability Standards Board
+ISSB
+Key Performance Indicator
+KPI
+Key Risk Indicator
+KRI
+National Adaptation Plan
+NAP
+Nationally Determined Contribution
+NDC
+Net Present Value
+NPV
+Network for Greening the Financial System
+NGFS
+Non-Performing Loan
+NPL
+Paris Agreement Capital Transition Assessment
+PACTA
+Partnership for Carbon Accounting Financials
+PCAF
+Probability of Default
+PD
+Ready-Made Garments
+RMG
+Representative Concentration Pathways
+RCP
+Science Based Targets initiative
+SBTi
+Shared Socio-Economic Pathway
+SSP
+Taskforce on Climate-related Financial Disclosures
+TCFD
+Transition Pathway Initiative
+TPI
+Transition Plan Taskforce
+TPT
+
+--- Page 8 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+1. Introduction
+Following the adoption of the Paris Agreement on climate change and the UN 2030 Agenda
+for Sustainable Development in 2015, governments are making strides to transition to low-
+carbon and more circular economies on a global scale. In this evolving landscape, the
+financial sector plays a critical role in mobilizing the capital needed for the global shift
+toward sustainability. Consequently, Banks and Finance Companies need clear and
+comprehensive responses to the risks posed by climate change. These risks include physical
+risks, which cause direct damage to people, particularly vulnerable communities, including
+women, physical assets and economies, and transition risk, which causes direct and indirect
+impacts through the transition to a lower-carbon economy.
+Bangladesh is severely affected by the physical impacts of climate change. The World Bank
+estimates an average annual loss due to climate hazards equal to $3 billion, although
+individual events can result in larger losses. For instance, cyclones, a significant source of
+disasters in Bangladesh due to the combination of the coastal region and low-lying
+topography, cause average annual losses of approximately $1 billion, while up to $3.8 billion
+and $3 billion of losses were attributed to the cyclones in 2007 and 1991 respectively.1
+Flooding is a material risk to Bangladesh due to its complex network of around 700 rivers,
+with nearly 80% of the country’s surface area categorized as floodplain formed by the
+Ganges, Brahmaputra and Meghna rivers. Coastal flooding is another problem, with two-
+thirds of Bangladesh less than 5 meters above sea-level.2 Bangladesh experiences droughts on
+average every 2.5 years3, and occurrences of heat stress are particularly high due to the
+combination of high humidity levels and increasing temperatures.4 Rising temperatures, sea
+level rises, and changes in rainfall patterns are all projected to contribute to an increase in
+flooding, cyclones, heat stress, and drought. This escalation will result in further damages,
+including disruptions to livelihoods, agricultural productivity, and local economies.5
+Overall, vulnerability to physical climate change impacts is pronounced in Bangladesh due to
+high population density, ongoing adaptation needs, low resilience to economic shocks, and
+exposure to climate sensitive sectors. Agriculture is likely to see reduced crop yields as a
+result of climate change, and is responsible for around 11.38% of GDP (as of FY 2022-23)
+
+1 World Bank Climate Risk Country Profile: Bangladesh
+https://climateknowledgeportal.worldbank.org/sites/default/files/country-profiles/15502-
+WB_Bangladesh%20Country%20Profile-WEB.pdf
+2Grantham Research Institute on Climate Change and the Environment, ‘Tackling flooding in Bangladesh in a
+changing climate’. https://www.lse.ac.uk/granthaminstitute/publication/tackling-flooding-in-bangladesh-in-a-
+changing-climate/ ;Dagastir, ‘Modeling recent climate change induced extreme events in Bangladesh: A
+review’. https://www.sciencedirect.com/science/article/pii/S2212094714000826
+3Sarkar et al, ‘Delineating the drought vulnerability zones in Bangladesh’.
+https://www.nature.com/articles/s41598-024-75690-w
+4Kamal et al, ‘Changes in wet bulb globe temperature and risk to heat-related hazards in Bangladesh’.
+https://www.nature.com/articles/s41598-024-61138-8 ; Govt. of the People’s Republic of Bangladesh,
+‘National Guideline on Heat-Related Illness’.
+https://dghs.portal.gov.bd/sites/default/files/files/dghs.portal.gov.bd/notices/23e5ad95_395e_4e75_8602_2
+3d266ffd6ca/2024-07-09-04-39-d4da562016555d65823ffb4c2a52a9ef.pdf
+5IPCC, “Climate Change 2022: Impacts, Adaptation and Vulnerability”.
+https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_FullReport.pdf
+
+--- Page 9 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+and 45.4% of employment (as of 2022).6The Ready-Made Garments (RMG) sector is another
+significant contributor to the Bangladeshi economy, for which one recent study7 estimated
+that Bangladesh could lose $27 billion in annual apparel exports by 2030 due to extreme heat
+and flooding impacts. Industry including mining, quarrying, construction, and manufacturing,
+making up 21% of employment, is also sensitive to hazards such as heat stress due to the
+impact of extreme heat on productivity and worker safety. Further financial impacts are likely
+to be felt through the direct impact on human health and mortality, as well as destruction of
+infrastructure assets.
+Bangladesh has a long history in demonstrating best practices on disaster risk management,
+having implemented a series of policies and investments aimed at strengthening resilience
+against climate-related disasters and leveraging community-led action. For example, the
+Bangladesh Delta Plan 2100 adopted in October 2018 includes a holistic and long-term
+integrated plan to steer the opportunities and vulnerabilities created by climate change. The
+need for further adaptation is also recognized in the National Adaptation Plan (NAP) adopted
+in October 2022, which sets out priorities and interventions to promote climate resilience in
+essential sectors, including agriculture, water resources, aquaculture and fisheries, livestock
+and urban areas.8
+Alongside the physical impacts of climate change, Bangladesh could also suffer negative
+financial impacts from the transition to a lower carbon economy. This could be driven by
+national policies, such as future policies designed to achieve Bangladesh’s Nationally
+Determined Contribution (NDC) commitment to reducing emissions by 21.85% by 2030
+(conditional on international financing).9 If the government enacts decarbonization policies,
+there will be increased financial pressures on the highest emitting or energy consuming
+sectors and companies. More immediately, Bangladesh has an export partner to the European
+Union (EU) is exposed to transition risk induced by the EU’s Carbon Border Adjustment
+Mechanism (CBAM). The CBAM is a tool used to put a fair price on carbon emitted during
+the production of carbon intensive goods imported into the EU.10 This initially applies to
+certain sectors such as Cement, Steel, Fertilizers, etc. and will be expanded to include all
+sectors covered by the EU Emissions Trading Scheme by 2030. This will increase costs to
+Bangladesh’s export products covered by the CBAM expansion in the future since
+Bangladesh is yet to adapt a comparable carbon tax or emissions trading scheme.
+However, these risks also create significant new financing opportunities for those Banks and
+Finance Companies that have the right strategies and systems in place. In particular,
+corporate and retail businesses will require additional financing to invest in technologies or
+
+6Bangladesh Bureau of Statistics, ‘Quarterly Report on Crop Statistics and Agricultural Labour Wage’.
+https://bbs.portal.gov.bd/sites/default/files/files/bbs.portal.gov.bd/page/16d38ef2_2163_4252_a28b_e65f60
+dab8a9/2024-04-04-05-48-d00d98986368326b82adfc782251e2e7.pdf
+7Global Labor Institute & Schroders, ‘Higher Ground? Report 1: Fashion’s Climate Breakdown & its Effect for
+Workers’.
+https://mybrand.schroders.com/m/4d1525191f60fff7/original/GLI-Schroders-Higher-Ground-
+Report-1.pdf
+8Government of the People’s Republic of Bangladesh, ‘National Adaptation Plan of Bangladesh (2023-2050)’.
+https://moef.portal.gov.bd/sites/default/files/files/moef.portal.gov.bd/npfblock/903c6d55_3fa3_4d24_a4e1_
+0611eaa3cb69/National%20Adaptation%20Plan%20of%20Bangladesh%20%282023-
+2050%29%20%281%29.pdf
+9 Government of the People’s Republic of Bangladesh, ‘Nationally Determined Contributions (NDCs) 2021’.
+https://unfccc.int/sites/default/files/NDC/2022-06/NDC_submission_20210826revised.pdf
+10European Commission, ‘Carbon Border Adjustment Mechanism (CBAM)’. https://trade.ec.europa.eu/access-
+to-markets/en/news/carbon-border-adjustment-mechanism-cbam
+
+--- Page 10 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+changes to reduce their carbon emissions and adapt to the physical impacts of climate change.
+To achieve the emissions reduction goals outlined in Bangladesh’s NDCs, significant
+investments will be required to expand renewable energy, improve energy efficiency, develop
+green infrastructure, and reduce agricultural emissions. These investments will be needed
+across a range of sectors, including Energy, Industrial Processes and Product Use,
+Agriculture, Forestry and other Land Use, and Waste.
+Investments in mitigation and adaptation across the economy will require an increase in
+private sector investment, supported by financing from Banks and Finance Companies to help
+reduce the impact of specific hazards related to climate change. In addition, these investments
+will reduce the risks associated with corporate counterparties’ physical and transition risk
+exposures by making them more resilient to physical risks and less exposed to transition risks
+as a result of lower emissions. Consequently, alongside the risks posed by the transition to a
+low carbon economy and the physical risks of climate change, Banks and Finance Companies
+can also benefit from the increased financing opportunities available in key sectors in the
+local economy.
+Responding to the risks presented by climate change is a material challenge to Banks and
+Finance Companies due to their novelty and unique characteristics. Guideline on Climate
+Risk Management for Banks and Finance Companies has been issued to provide support to
+Banks and Finance Companies on how to confront the challenges posed by climate change.
+In developing this guideline, Bangladesh Bank has incorporated emerging international
+standards and best practice relating to climate risk management, including the guidelines and
+findings set out by other Central Banks, and key industry body publications providing
+practical and technical details on implementing climate risk management, such as:
+i. Central Bank policies and guidelines, such as the BCBS’s principles for the
+effective management and supervision of climate-related financial risks.11
+ii. Thematic reports on climate risk management progress by central banks, such as
+the Bank of England's thematic feedback from reviewing the implementation of
+Supervisory Statement 3/19 for both banks and insurers.12
+iii. Key scenario analysis and climate stress testing reports, reviews and
+recommendations, such as the NGFS publications13, thematic feedback from
+
+11The BCBS are the global standard setter for the prudential regulation of banks. They set out high level
+expectations on how banks should manage climate related financial risks and how supervisors should oversee
+them. See: BCBS, ‘Principles for the effective management and supervision of climate-related financial risks’.
+https://www.bis.org/bcbs/publ/d532.htm
+12Bank of England, ‘Managing climate-related financial risk – thematic feedback from the PRA’s review of firms’
+Supervisory
+Statement
+3/19
+(SS3/19)
+plans
+and
+clarification
+of
+expectations’.
+https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/letter/2020/managing-the-
+financial-risks-from-climate-change.pdf; Bank of England, ‘Thematic feedback on the PRA’s supervision of
+climate related financial risk and the Bank of England’s Climate Biennial Exploratory Scenario exercise’.
+https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/letter/2022/october/managing-
+climate-related-financial-risks.pdf
+13The NGFS provide a standardized set of climate scenarios to help both financial institutions and supervisors
+to assess physical and transition risks over different timelines. See: NGFS, https://www.ngfs.net/en
+
+--- Page 11 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+Central Banks following central supervisory scenario analysis exercises,14 and
+emerging literature on short term scenario analysis.15
+iv. Transition Plan recommendations from bodies such as the Transition Plan
+Taskforce (TPT)16.
+v. Reporting and disclosure standards, including the International Sustainability
+Standards Board (ISSB) IFRS S1 and S2 standards.17
+
+2. Objective
+a. A core function of Bangladesh Bank is to regulate and supervise Banks and Finance
+Companies to maintain financial system robustness. To effectively uphold this
+mandate amid evolving environmental challenges, it is essential to systematically
+incorporate climate risk into regulatory and supervisory practices.
+b. To promote a greener and more climate-resilient financial system, Bangladesh Bank
+(BB) has introduced a series of policies including Guideline on Sustainability and
+Climate-related Financial Disclosure, adopting IFRS S1 and IFRS S2. Banks and
+Finance companies are also required to disclose their financed emissions and align
+their targets with Bangladesh’s Nationally Determined Contributions (NDCs) as well
+as their own decarbonization strategies.
+c. This guideline outlines Bangladesh Bank’s expectations concerning the effective
+management of climate risk under the current prudential framework. The guideline is
+also structured to facilitate Banks and Finance Companies’ growing demand for
+channelling finance towards ‘green initiatives’, including climate mitigation and
+adaptation solutions. This includes details on how Banks and Finance Companies are
+expected to consider climate risk – as drivers of existing categories of risk – when
+formulating and implementing their business strategy, governance and risk
+management frameworks. The expectations outlined are applicable to all Banks and
+Finance Companies in Bangladesh and are calibrated based on the significance of
+their climate risk exposures and the complexity of their operations.
+
+3. Definition and Characteristics of Climate Risk
+a. Climate risk refers to the financial impact of a changing climate, including more
+frequent extreme weather events and gradual changes in climate, environmental
+
+14See for example: European Central Bank, ‘Results of the 2022 climate risk stress test of the Eurosystem
+balance
+sheet’.
+https://www.ecb.europa.eu/press/economic-
+bulletin/focus/2023/html/ecb.ebbox202302_06~0e721fa2e8.en.html
+15See for example: University of Exeter, ‘No Time To Lose New Scenario Narratives for Action on Climate
+Change’.
+https://greenfuturessolutions.com/wp-content/uploads/2023/09/No-Time-To-Lose-New-Scenario-
+Narratives-for-Action-on-Climate-Change-Full-Report.pdf; NGFS ‘NGFS Short-term Climate Scenarios for
+central banks and supervisors’ https://www.ngfs.net/en/publications-and-statistics/publications/ngfs-short-
+term-climate-scenarios-central-banks-and-supervisors
+16The TPT set out best practice on how to develop credible and sufficiently detailed transition plans. This
+includes both general guidance and sector specific guidance including financial institutions.
+17The ISSB’s IFRS S1 and S2 standardsestablish global sustainability disclosure standards. These standards
+incorporated the main findings of theTaskforce for Climate-related Financial Disclosures (TCFD), as well as
+SASB Standards that are a source of guidance for applying IFRS S1.
+
+--- Page 12 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+degradation, such as air, water and land pollution, water stress, biodiversity loss and
+deforestation, and changes as a result of the transition to a lower carbon economy.
+b. Climate-related financial risks refer to the potential risks that may arise from
+climate change or from efforts to mitigate climate change, their related impacts, and
+their economic and financial consequences. Climate risk and climate-related financial
+risks are used interchangeably in this Guideline. Climate risk is comprised of two
+main drivers: physical Risk and Transition Risk.
+c. Physical risk refers to direct and indirect economic impacts of damage to people,
+physical assets, and broader economies and markets. They can stem from event-
+driven (acute) physical risks such as floods, cyclones, and heatwaves, and from
+longer-term (chronic) shifts in climate patterns such as sea level rise or changes in
+rainfall patterns. These changes in the weather and climate are referred to as ‘physical
+risk drivers’.
+Key physical risks in Bangladesh include, but are not limited to:
+i. Tropical cyclones
+ii. River and coastal flooding
+iii. Heat stress
+iv. Drought and water stress
+d. Transition risk refers to the direct and indirect impacts of the transition to a lower-
+carbon economy. Transition risk can be triggered by the development of policy or
+regulation in response to climate change, technological change or disruption, or
+changes in market sentiment and preferences relating to climate change. These
+triggers are referred to as ‘transition risk drivers’.
+e. Key transition risks in Bangladesh include, but are not limited to:
+i. Domestic policy and emission reduction targets. An example of a transition
+related policy is the carbon tax for second cars, which may impact sales of internal
+combustion engine cars. Further policies may relate to emissions or energy
+efficiency standards for cars.
+ii. Export risks such as the EU CBAM or the EU Strategy for Sustainable and
+Circular Textiles.
+f. The distinctions between climate risk and E&S risk shall be considered carefully:
+i. E&S risk is broader than climate risks due to the inclusion of areas such as
+‘social’ risk.
+ii. The concept of ‘environmental risk’ is also broader than ‘climate risk’. According
+to the Network for Greening the Financial System (NGFS), environmental risks
+refer to environmental degradation (such as air pollution, water pollution and
+scarcity of fresh water, land contamination and desertification, biodiversity loss,
+and deforestation) and the loss of ecosystem services. While climate change also
+leads to environmental degradation, as an increase in average temperatures
+significantly impacts biodiversity and ecosystems, not all environmental
+degradation is a result of climate change.
+g. The environmental risk within E&S risk uses an inside-out perspective, considering
+the potential impact Banks and Finance Companies have on the environment. Climate
+
+--- Page 13 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+risk, however, uses an outside-in perspective, considering how both physical risks and
+transition risks will impact Banks and Finance Companies, including indirectly
+through counterparties in their portfolio. Climate risk is therefore financial risk posed
+by physical and transition risks.
+h. Anthropogenic emissions arise from, inter-alia, the burning of fossil fuels,
+deforestation, land use and land-use changes, livestock production, fertilisation, waste
+management and industrial processes.
+i. Climate change means a change in the climate system which is caused by significant
+changes in the concentration of greenhouse gases arising from human activities and
+which is in addition to natural climate change that has been observed during a
+considerable period.
+j. Climate risk adaptation refers to the adverse effects of climate change and taking
+appropriate action to prevent or minimize the damage they can cause, or taking
+advantage of opportunities that may arise. Examples of adaptation measures include
+large-scale infrastructure changes, such as building climate resilience to protect
+against sea-level rise, as well behavioral shifts, farmers adjusting planting calendars in
+response to changing rainfall patterns. In essence, adaptation can be understood as the
+process of adjusting to the current and future impact of climate change.
+k. Climate risk mitigation refers to the less severe impacts of climate change by
+preventing or reducing the emission of greenhouse gases (GHG) into the atmosphere.
+Mitigation is achieved either by reducing the sources of these gases e.g., by increasing
+the share of renewable energies, or establishing a cleaner mobility system or by
+enhancing the storage of these gases e.g., by increasing the size of forests. In
+summary, mitigation is human intervention that reduces the sources of GHG
+emissions and/or enhances the sinks.
+l. Greenhouse gases include carbon dioxide (CO2), methane (CH4), nitrous oxide
+(N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulphur hexafluoride
+(SF6) and nitrogen trifluoride (NF3). This is consistent with the GHG Protocol
+Corporate Accounting and Reporting Standard, which covers the accounting and
+reporting of the seven GHGs covered by the Kyoto Protocol.18
+m. Macroeconomic transmission channels refer to the mechanisms by which climate
+risk drivers affect macroeconomic factors, such as labor productivity and economic
+growth, and how these, in turn, may have an impact on Banks and Finance Companies
+through an effect on the economy. Macroeconomic transmission channels also capture
+the effects on macroeconomic market variables such as interest rates, inflation,
+commodities, and foreign exchange rates.
+n. Microeconomic transmission channel refers to the mechanism through which
+climate risk drivers affect Banks and Finance Companies counterparties, potentially
+resulting in climate-related financial risk. This includes direct effects on Banks and
+Finance Companies, arising from impacts on their operations and their ability to fund
+themselves.
+
+18 GHG Protocol, “Corporate Standard”. https://ghgprotocol.org/corporate-standard
+
+--- Page 14 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+Microeconomic transmission channels also capture the indirect effects on specific
+financial assets held by Banks and Finance Companies (e.g. bonds, certificates of
+deposits and equities).
+3.1 Drivers and Transmission Channels
+a. Physical and transition risk drivers (together, ‘climate risk drivers’) can impact
+economic activities, in turn impacting Banks and Finance Companies and the
+financial system more broadly. As defined above, these impacts can be through both
+microeconomic transmission channels and macroeconomic transmission channels. In
+addition, physical and transition risks can trigger further losses, stemming directly or
+indirectly from legal claims (commonly referred to as “liability risk”) and reputational
+loss as a result of the public, Banks and Finance Companies’ counterparties and/or
+investors associating the Bank or Finance Company with adverse environmental
+impacts (“reputational risk”).
+
+
+
+Examples of Transmission Channels in Bangladesh
+To illustrate the concept of transmission channels and how they can impact the economy,
+three examples relevant to Bangladesh are provided. These examples focus on one type of
+transmission channel only and are not exhaustive.
+Agricultural Sector: productivity channel
+Agricultural production can be impacted by both excessive water (such as river flooding)
+and lack of water (such as drought), extreme heat, and cyclones. Crops are dependent on
+soil and water conditions, so physical risks can directly reduce crop yields. Heat stress
+can also reduce productivity through reducing the ability of employees to work and
+increasing heat-related illness. This channel can directly impact the revenue of
+agricultural producers.
+RMG Sector: compliance costs from exports
+The RMG Sector is materially dependent on exports to the EU, and is, therefore, subject to
+increased transition risk arising from EU regulations. For example, pressure from the EU
+to reduce emissions, increase sustainability standards and disclosures or reporting, can
+increase compliance costs for the RMG sector by increasing ongoing operational costs or
+leading to capital expenditure requirements.
+Power Sector: stranded assets channel
+Bangladesh’s power sector is exposed to different types of stranded asset risks driven by
+the energy transition. Fossil fuel infrastructure such as coal or liquid natural gas faces the
+risk of becoming economically unviable before the end of its operational lifetime. This
+could be due to rising fossil fuel costs (e.g. due to carbon prices) or reduced demand (e.g.
+due to renewable energy availability or energy efficiency improvements). Besides,
+renewable energy investments may become stranded if the country’s transmission and
+distribution infrastructure is not upgraded to handle intermittency of energy generation
+and overproduction, amongst other issues. Thus renewable energy generated power may
+be underutilized or stranded due to ‘curtailment’ by the grid operator.
+
+--- Page 15 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+b. The effects of climate risk drivers, both through micro and macroeconomic
+transmission channels, can interact with and exacerbate existing risk categories – in
+particular, credit risk, market risk, liquidity risk, operational risk, and reputational
+risk. These categories may be impacted simultaneously. A high-level graphical
+overview of this is given in Table 1: Climate Risk Drivers. A longer (non-exhaustive)
+list of examples of these impacts are set out further below in Table 2: Detailed
+Climate Risk Drivers, based on the Basel Committee on Banking Supervision (BCBS)
+‘Climate related risk drivers and their transmission channels’ publication.19
+c. Different sectors have different levels of sensitivity to specific climate hazards.
+Physical risks are particularly impactful for those sectors that are most sensitive to
+different hazards. For example, Agriculture, Forestry and Fishing are highly sensitive
+to a range of hazards. Acute events, such as flooding and wildfires, can destroy crops,
+farming equipment, buildings and other infrastructure, as well as endangering
+workers.20 Chronic hazards, such as long-term changes in temperature or rainfall
+patterns and subsequent impacts on water availability can reduce crop yields over
+time.21 Other sectors heavily impacted by physical risk include Healthcare, Energy,
+Mining, Construction, Transportation and Infrastructure, and Tourism. Risks are also
+dependent on geographical features such as elevation, topography, coastline exposure,
+and other relevant features. For example, exposure to coastal flooding is much higher
+for those living on a low-lying coastline.
+d. Transition risk is particularly impactful for those sectors associated with high
+emissions, including Energy, Mining, Manufacturing, Construction, Transportation,
+and Agriculture. Particular attention should be paid to those sectors heavily involved
+in or exposed to the fossil fuel value chain, including extracting, transporting,
+refining, distribution and use of fossil fuels including coal, oil, and gas.
+
+Table 1: Climate Risk Drivers
+Climate risks
+
+Economic transmission channels
+
+Financial risks
+Physical risks
+Acute risks:
+i. Floods
+ii. Cyclones
+iii. Heatwaves
+
+Chronic risks:
+Microeconomic
+Affecting businesses:
+i. Property damage and business
+disruption through climate-
+related impacts
+ii. Increased business costs related
+to emissions
+Credit risk
+i. Increased
+probability of
+default / loss given
+default
+ii. Collateral
+depreciation
+
+19Basel Committee on Banking Supervision, ‘Climate-related risk drivers and their transmission channels’.
+https://www.bis.org/bcbs/publ/d517.pdf
+20Gould et al, ‘The impact of coastal flooding on agriculture: A case-study of Lincolnshire, United
+Kingdom’.https://onlinelibrary.wiley.com/doi/10.1002/ldr.3551; Agricultural Economic Insights, ‘How does
+Wildfire Affect U.S. Agriculture’. https://aei.ag/overview/article/wildfire-smoke-impact-agriculture; Mazhar et
+al, ‘Impacts of salinization caused by sea level rise on the biological processes of coastal soils - A review’
+https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2022.909415/full
+21
+See
+for
+example:
+FAO,
+‘Drought
+and
+Agriculture’.
+https://www.fao.org/land-
+water/water/drought/droughtandag/en/
+
+--- Page 16 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+i. Sea level rise
+ii. Long-term changes
+in rainfall patterns
+iii. Stranded assets
+
+Affecting households:
+i. Property impacts through direct
+physical damage or transition-
+policies
+ii. Loss of income through health
+impacts
+Market risk
+ Impact on
+valuations of
+equities, fixed
+income,
+commodities,
+derivatives etc
+
+Transition risks
+i. Policy & legal risks
+such as carbon
+pricing
+ii. Technological
+development risk
+iii. Market risks such as
+changes in
+consumer
+preferences, price
+changes related to
+supply and demand
+dynamics
+iv. Reputational risks
+
+Macroeconomic
+i. Climate risks reducing demand
+for products and services due to
+reduced GDP, employment, etc
+ii. Pricing changes through
+structural changes, supply
+shocks etc
+iii. Changes in consumer behaviour
+such as consumption patterns
+iv. Other impacts on international
+trade, government revenues,
+fiscal space, output, interest
+rates and exchange rates
+
+Operational risk
+i. Operational costs
+due to physical risk
+impacts
+ii. Forced closure of
+key facilities
+iii. Supply chain
+disruption.
+
+Liquidity risk
+i. Refinancing risk
+ii. Increased demand
+for liquidity
+iii. Precautionary
+deposit withdrawal.
+
+
+e. The unexpected, sudden and severe the changes in response to transition risk – such
+as climate-related policies, technological innovation, and changes in behavior–the
+higher the level of transition risk. In turn, more transition risk reduces long-term
+physical risk, as lower emissions reduce the average temperature change and the
+associated physical risk impacts. Lower transition risk, whereby changes in policies,
+technology and behaviors do not occur, are associated with higher emissions and
+consequently higher levels of physical risk.
+
+f. Physical risk is generally accepted to increase in the medium to long term, particularly
+under high emissions ‘scenarios’ with low transition risk. Physical risk is broadly
+considered to be ‘baked in’22from the short to medium term and some level of
+increased physical risk is unavoidable as the lag between past emissions and
+temperature increases will lead to further climate change regardless of future
+emissions pathways. In the medium to long term, the projected temperature becomes
+much more dependent on the transition risk scenario followed.
+
+
+
+
+22This is due to the lagged effects of greenhouse gas emissions. See for example: UK Climate Change
+Committee, ‘Briefing note on time lags in the climate system’. https://www.theccc.org.uk/wp-
+content/uploads/2019/07/Briefing-note-on-time-lags-in-the-climate-system-Met-Office.pdf
+
+--- Page 17 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+10
+Table 2: Detailed Climate Risk Drivers
+
+Microeconomic
+transmission
+channels
+Macroeconomic
+transmission
+channels
+Credit Risk
+i. Physical risks such as flooding
+can increase the credit risk of
+counterparties
+by
+damaging
+physical assets (e.g. housing or
+factories), reducing revenues
+and productivity, or increasing
+costs
+(e.g.
+due
+to
+new
+adaptation investments).
+ii. Transition risk can increase
+credit risk of counterparties
+under
+different
+transition
+scenarios, directly impacting
+demand and revenues (e.g. due
+to
+government
+policy
+or
+changes
+in
+consumer
+sentiment), costs (e.g. through
+carbon tax or energy price
+changes) or other impacts.
+ Physical risks can lead to
+increases in human mortality,
+declines in labor productivity,
+and
+damage
+to
+important
+national assets, all of which can
+impact
+key
+macroeconomic
+variables
+such
+as
+GDP,
+employment, or interest rates.
+ Transition risk can lead to
+impacts
+on
+the
+broader
+economy
+through
+asset
+stranding
+and
+impacts
+on
+corporate
+profitability,
+and
+consequently
+impact
+GDP,
+employment, interest rates, and
+other
+key
+macroeconomic
+variables.
+Market Risk
+i. Physical risk can result in
+valuation changes to real or
+financial assets due to new
+information about physical risk
+exposures and vulnerability.
+ii. Transition risk drivers may
+generate an abrupt repricing of
+securities and derivatives, for
+example
+for
+products
+associated
+with
+industries
+affected by asset stranding.
+i. The same microeconomic risks
+can lead to macroeconomic
+transmission
+channels.
+For
+example, physical or transition
+risks impacting sovereign risks
+may impact the value of Bank
+or Finance Company collateral
+to secure funding and access
+liquidity.
+Liquidity
+Risk
+i. Physical risks may lead to an
+increase in deposit or credit
+drawdowns, or impact liquidity
+availability
+through
+precautionary
+demand
+for
+liquidity by financial markets.
+ii. Transition risk may change the
+behavior of financial markets
+and
+Banks
+and
+Finance
+Companies’
+customers.
+An
+abrupt repricing of securities,
+for
+instance
+due
+to
+asset
+stranding, may reduce the value
+of
+Banks
+and
+Finance
+Companies’ high quality liquid
+assets,
+thereby
+affecting
+liquidity buffers.
+N/A
+
+--- Page 18 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+11
+Operational
+Risk
+i. Physical risks may impact
+directly
+owned
+assets,
+or
+surrounding
+infrastructure
+impacting Banks and Finance
+Companies’
+operational
+capacity.
+ii. Transition risk arising from
+changing consumer sentiment
+regarding climate issues can
+lead to liability risks for the
+Bank or Finance Company as a
+result of scandals caused by the
+financing of environmentally
+controversial activities.
+N/A
+Reputational
+Risk
+i. Transition risks may impact the
+reputation
+of
+Banks
+and
+Finance
+Companiesthrough
+‘greenwashing’, or failure to
+meet
+emissions
+reduction
+targets.
+N/A
+
+4. Governance
+Banks and Finance Companies shall incorporate climate risk into their existing governance
+framework, including the Governance bodies, internal control framework, and Risk Appetite.
+Bangladesh Bank’s ‘Prudential Regulations for Banks’ (2024), specifically the Corporate
+Governance section, and ‘Integrated Risk Management Guidelines for Financial Institutions’
+(2016), ‘Risk Management Guidelines for Banks’ (2018) and Sustainability and Climate-
+related Financial Disclosure for Banks and FCs (2023) shall be taken into consideration.
+4.1. Governance Bodies
+a. A Bank or Finance Company’s Board of Directors shall have a clear understanding of the
+risks inherent in business lines and to monitor changes in the level of risk, as set out in
+Bangladesh Bank’s ‘Integrated Risk Management Guidelines for Financial Institutions’
+(2016), ‘Risk Management Guidelines for banks’ (2018) and Sustainability and climate
+related financial disclosure for banks and finance companies (2023). This requires Banks
+and Finance Companies to identify and assess the materiality of climate risk in the short,
+medium and long term to inform their governance, strategy, and risk management
+processes. The assessment of materiality shall consider and identify concentrations in
+climate risk at the sectoral, geographical, and products & services level, as well as the
+opportunities arising from climate change in the same categories. The approach to climate
+risk assessments is covered in Chapter 5: Climate Risk Management.
+
+b. There shall be clear evidence of monitoring and intervening on climate risk developments
+within bank’s portfolio and the broader business environment. The climate risk
+materiality assessment shall be appropriately documented and updated by senior
+management to enable the Board of Directors to fulfill their duties and ensure that they
+
+--- Page 19 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+12
+maintain an up-to-date understanding of the distinctive physical and transition risk
+exposures to the business. A sound understanding of the materiality of climate risk shall
+also inform the business strategy on an ongoing basis, as covered in Chapter 5: Strategy
+of Banks and Finance Companies to manage climate risk.
+c. Banks and Finance Companies shall ensure that the board and senior management are
+provided with sufficient training for capacity building regularly. Effective climate risk
+governance also requires appropriate capacity building at the board, relevant sub-
+committees, senior management and staff level. Capacity building and training plans shall
+also be developed for relevant staff in line, and tailored to specific roles to enable staff to
+meet their updated responsibilities across the three lines of defense model, as covered in
+Section 6.1.1: Risk Culture.
+
+4.2. Responsibilities of the Board and Senior Management
+a. The responsibility of the Board of Directors has been described in Bank Companies Act,
+1991, amended in 2023 and Finance Company Act. Responsibilities include determining
+and strategic objectives and associated annual work-plan, significant risk management
+strategy and policies, internal control management, human resources management and
+development, and financial management. Climate risk is relevant to these responsibilities
+and so shall be formally incorporated into the management responsibilities of the Board
+of Directors.
+b. The Board of Directors shall explicitly allocate roles and responsibilities to its members
+and relevant sub-committees for climate risk. As set out in Bangladesh Bank’s ‘Prudential
+Regulations for Banks’(2024) and ‘Policy on Formation of Board and Responsibilities of
+Directors of Finance Companies’ (2024), it is essential to have a specific demarcation of
+responsibilities and authorities among the Board of Directors and Management
+Committee over the Bank or Finance Company’s affairs. Responsibility for managing the
+financial risks from climate change shall be explicitly allocated to both a specific
+individual and to the Board of Directors or to a relevant sub-committee, and the
+scheduled agendas shall be updated to reflect these changes.
+c. The Board of Directors or relevant sub-committee are expected to monitor the Bank or
+Finance Company’s performance against their climate risk and opportunities strategy and
+work-plan. This shall be informed by a set of Key Performance Indicators (KPIs) and Key
+Risk Indicators (KRIs), which shall be tailored to and calibrated against the agreed
+climate risk strategy and work-plan, as well as the materiality assessment covered in
+Section 3.1: Governance Bodies. Specific responsibility shall be delegated to senior
+management for providing regular and timely updates to the board capturing this
+information.
+d. Banks and Finance Companies shall update organizational structures to incorporate
+specific roles and responsibilities of climate risk. The impacts of climate risk
+management and climate opportunities on functions and business units across the
+organizational structure shall be identified, and senior management roles within impacted
+functions or business units shall be updated to reflect changes necessary to manage these
+risks and opportunities. Further changes across the three lines of defense model to
+incorporate climate risk, as covered in Section 6.1.1: Risk Culture.
+e. Banks and Finance Companies shall ensure that the management of material climate risk
+is embedded in all the appropriate policies, processes and controls that have been
+
+--- Page 20 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+13
+implemented across all the relevant functions and business units. These include, for
+example, client onboarding and transaction assessment. Where possible, Banks and
+Finance Companies shall designate a Key Management Personnel charged with the
+responsibility of managing the financial risks from climate change to ensure effective and
+holistic oversight of climate risk.
+f. The Bank or Finance Company’s established approach for the assessment of climate risk
+shall be clearly communicated to all the relevant internal stakeholders across the three
+lines of defense.
+g. Senior Management of Banks and Finance Companies shall:
+i. Regularly review the effectiveness of the strategies, policy frameworks, tools and
+controls and ensure that all material climate risks are addressed in a timely manner;
+and
+ii. Provide periodic reports to the Board on climate risks to which the Bank and Finance
+Companies are exposed.
+h. The Board of Banks and Finance Companies shall also ensure that there is:
+i. An appropriate collective understanding of climate risk and related issues at both
+board and senior management level; and
+ii. Relevant ongoing capacity development and training.
+
+4.3. Internal Control Framework
+a. The internal control framework of the Bank or Finance Company shall be updated to
+incorporate climate risk. Bangladesh Bank’s ‘Guidelines on Internal Control &
+Compliance in Banks’ (2016) sets out the importance of an internal control framework to
+underpin effective risk management, which requires effective allocation of internal
+control responsibilities, as well as an effective system including reliable information
+systems.
+
+b. Banks and Finance Companies shall use the three-lines-of-defense-model for managing
+climate risk. This model clarifies roles and responsibilities for different functions within
+the Bank or Finance Company:
+i. First Line of Defense: The first line is responsible for identifying and managing
+climate risk within their areas, implementing mitigation measures, and integrating
+climate risk considerations into daily operations and decision-making.
+
+ii. Second Line of Defense: The Risk Management Division, as defined in section 2.7.5
+of Bangladesh Bank's ‘Risk Management Guidelines for banks’ (2018), is responsible
+for developing and implementing the climate risk management framework, providing
+oversight, and guiding the first line of defense.
+
+iii. Third Line of Defense: Internal Audit is responsible for independently and
+periodically assessing the first two lines of defense on effectiveness of climate risk
+management practices and governance.
+c. Banks and Finance Companies must also develop effective systems to identify, measure,
+monitor and manage climate risks including potential gender-differentiated impacts.
+
+--- Page 21 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+14
+4.4. Risk Appetite
+4.4.1. Risk Appetite Framework
+a. The Board of Directors shall define the climate risk appetite, risk tolerance and risk
+limit. They have the ultimate responsibility for the risks taken by the Bank or Finance
+Company as set out in the ‘Integrated Risk Management Guidelines for Financial
+Institutions’ (2016) and ‘Risk Management Guidelines for banks’ (2018). Based on
+the identification and assessment of the materiality of climate risk affecting the Bank
+or Finance Company, the Board of Directors or relevant sub-committee shall
+explicitly include climate risk in their risk appetite framework.
+b. Climate risk shall be clearly defined in a Bank or Finance Company’s risk register.
+The risk register may further specify the risk owner, how and how often the different
+climate risks are measured, assumptions related to each risk, judgement on severity
+and likelihood, and speed at which risks could manifest. Both physical and transition
+risks can interact with and exacerbate existing risk categories such as credit risk and
+market risk, and this interaction may be reflected in the risk register to ensure the
+most material climate risks to the Bank or Finance Company is understood and that
+accountability is clearly assigned.
+c. Appetite towards climate risk shall be clearly set out in a risk appetite statement,
+which shall outline the Bank or Finance Company’s position with respect to both
+physical and transition risks. In turn, this shall inform the business and risk
+management strategy going forwards. The risk appetite statement shall be supported
+by appropriate Key Risk Indicators (KRIs) and limits that facilitate monitoring the
+Bank or Finance Company’s position against the risk appetite statement. KRIs are
+expected to develop or grow more sophisticated over time in line with the growing
+capabilities of the Bank or Finance Company, which are in turn dependent on their
+physical and transition risk priorities. Examples include:
+i. Total exposure to counterparties with high-physical risks: this may be broken
+into exposures to counterparties with high flood, cyclone, heat stress, drought, or
+other relevant hazards, or aggregated to cover all physical risks. Further
+breakdowns may be required based on the Bank or Finance Company’s financial
+portfolio (such as sector or geography), based on existing risk metrics such as
+credit quality, or based on financial product (such as loan book or trading book).
+
+ii. Total exposure to counterparties with high-physical risks that have sufficient
+adaptation measures or plans in place: this may be used to track the Bank or
+Finance Company’s support of counterparties in adapting or de risking to high
+physical risks or to provide a more accurate reflection of counterparty risk.
+
+iii. Collateral exposure to high physical risks: this may be broken down into
+different collateral types and used to assess the sensitivity of the collateral to
+physical risks.
+
+iv. Potential or actual losses from a physical risk event: this may capture financial
+losses following a physical risk hazard or expected losses from a potential
+physical risk hazard. This may be focused on or broken down by existing risk
+categories such as credit risk, market risk, operational risk etc.
+
+--- Page 22 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+15
+v. Total exposure to counterparties with high-transition risks: this may be based
+on exposure to high emitting counterparties, and segmented according to an
+internal classification of high, medium, or low emissions. This may be based on
+absolute emissions or emissions intensity. Further breakdowns may be based on
+the Bank or Finance Company’s financial portfolio (such as sector), based on
+existing risk metrics such as credit quality, or based on financial product (such as
+loan book or trading book).
+
+vi. Weighted average carbon intensity of the loan portfolio: this captures the
+portfolio’s exposure to carbon-intensive companies, considering the relative
+weight of the investment compared to the portfolio, and the counterparty’s
+financed emissions intensity.23
+
+vii. Total exposure to counterparties with high-transition risks that have
+sufficient mitigation measures or plans in place: this may be used to track the
+Bank or Finance Company’s support of counterparties in mitigating to high
+transition risks or to provide a more accurate reflection of counterparty risk.
+
+viii. Weighted average transition risk / physical risk scores: this may be used to
+track total portfolio transition risk or physical risk, with each counterparty or
+sector-geography combination assigned a risk-level, and the total risk score equal
+to the average of those risk-levels weighted by the exposure of the counterparty or
+sector-geography combination.
+
+ix. Collateral exposure to high transition risks: this may be broken down into
+different collateral types and used to assess the sensitivity of the collateral to
+transition risks.
+
+x. Potential losses from a transition risk event: this may capture expected
+financial losses following a transition risk event. This may be focused on or
+broken down by existing risk categories such as credit risk, market risk,
+operational risk etc.
+
+xi. Green financing metrics: this may include metrics such as Green Asset Ratio, or
+total number of green financing products and services or Taxonomy Alignment
+Ratio.
+
+
+23See
+for
+example:
+TCFD,
+“Carbon
+Footprinting
+and
+Exposure
+Metrics”.
+https://www.tcfdhub.org/Downloads/pdfs/E09%20-%20Carbon%20footprinting%20-%20metrics.pdf
+
+--- Page 23 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+16
+
+d. KRIs developed to support the risk appetite statement can be used to develop risk
+limits and subsequently fed into monitoring and escalation procedures for when these
+limits are at risk of, or have been, breached. These shall consider the long-term nature
+of climate change, including the ways in which physical and transition risks can
+increase over time.
+e. For example, the risk appetite statement may set out the Bank or Finance Company’s
+appetite towards physical risk, and be supported by KRIs, risk limits to physical risk,
+and a relevant risk management strategy. Where risk appetite towards physical risk is
+low, this may be supported by limits to relevant hazards or other relevant metrics.
+Where risk appetite towards physical risk is high, this may be supported by a strong
+risk management framework, and / or limits to high physical risk to counterparties
+that do not have (or plan to build) sufficient adaptation or derisking measures.
+f. Where Banks and Finance Companies breach these limits, this should be justified and
+approved following a formal process and based on the mandates assigned by the
+internal policy.
+
+4.4.2. Capital and Liquidity Planning
+a. Banks and Finance Companies shall assess the impact of climate risk on their capital
+and liquidity adequacy to address heightened climate risk in line with the risk appetite
+framework, or to mitigate internal shortcomings in assessing capital and liquidity
+adequacy with respect to climate risk.
+b. To assess capital adequacy with respect to climate risk, Banks and Finance
+Companies shall use forward looking assessments over the capital planning horizons.
+These assessments shall form part of the Bank and Finance Company’s ongoing
+Internal Capital Adequacy Assessment Process (ICAAP).
+c. Banks and Finance Companies are required to improve their approach to capital
+adequacy assessments on a periodic basis to capture climate risk and reflect potential
+changes to internal credit risk framework as international best practice evolving over
+time. The following non-exhaustive list of approaches could be considered as
+potential avenues to assess climate-related capital needs, and improvements:
+Examples of sectoral Key Risk Indicators (KRIs)
+Steel sector
+1. Total exposure of loans to the Steel sector located in high flood risk areas.
+2. Total exposure of loans to the Steel sector located in high flood risk areas with
+credible and effective adaptation measures in place, such as flood barriers.
+3. Total exposure of loans to the Steel sectorwith emissions intensity above global or
+national steel industry emissions intensity.
+4. Total exposure of loans to the Steel sector with emissions intensity above global or
+national steel industry emissions intensity with credible and effective mitigation
+measures in place, such as use of renewable energy.
+5. Potential losses from a flood event in the steel sector portfolio.
+6. Potential losses from a carbon price imposition in the Steel sector portfolio.
+
+--- Page 24 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+17
+i. Incorporation of climate risk under Pillar 1 capital calculations through the
+internal ratings-based (IRB) approach. Climate risk would typically be included as
+part of the Probability of Default (PD) rating systems, and can be incorporated
+through expert judgement, or through changes in PD as a result of projected
+impacts from physical or transition risks on corporate-level costs and revenues.
+ii. Use of climate stress testing as part of Pillar 2 capital calculations to reflect the
+development of both physical and transition risk scenarios over time. This may be
+based on specific short-term scenarios, or long-term scenarios. Banks and Finance
+Companies should consider bringing forward the impacts of physical or transition
+risks in the long-term scenarios to capture risks in the capital-setting horizon and
+compare losses under these scenarios to a baseline scenario with no climate risk
+materialization. Further detail on the use of scenario analysis is covered in
+Chapter 7: Scenario analysis and stress testing.
+iii. Amendments to other existing capital assessment approaches such as
+concentration risk under Pillar 2, which may consider how geographic or sectoral
+concentrations could lead to high losses from a single climate risk event, which
+could lead to additional capital requirements.
+iv. Risk management capability add-ons to reflect current inadequacies in climate risk
+identification, measurement, management, and monitoring. This may form part of
+the Bank or Finance Company’s management buffer, pending further
+improvements in data quality or climate risk management capabilities.
+d. As quantification methodologies are still developing globally, this analysis may make
+use of plausible assumptions and proxies to assess climate risk with respect to capital,
+which can be improved over time. The methodology used to incorporate climate risk
+into capital assessments may also require further change as Banks and Finance
+Companies evolve their accounting approaches to valuations to reflect climate risk, or
+through changing loan loss provisions related to climate risk, which impact capital
+through the profit & loss account.
+e. Assessments of adequate liquidity in respect to climate risk are even less advanced
+than approaches to capital adequacy. Banks and Finance Companies could rely on
+qualitative assessments of the impact of climate risk on their liquidity adequacy and
+incorporate this into their Internal Liquidity Adequacy Assessment Process (ILAAP).
+These assessments are expected to grow in sophistication over time.
+
+
+5. Strategy of Banks and Finance Companies to
+Manage Climate Risk
+Banks and Finance Companies shall incorporate climate risk into their strategy and key
+strategic processes, including the development of a Transition and Adaptation Plan and a
+Counterparty Engagement Plan, and defining the roles and responsibilities in approving and
+implementing the strategy.
+5.1. Strategy Formulation & Integration into Other Policies
+a. Banks and Finance Companies shall formulate a comprehensive strategy to manage
+climate risk based on their exposure to physical and transition risks. This
+
+--- Page 25 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+18
+strategy shall be fully integrated into the Bank or Finance Company’s overall business
+strategy, risk management framework, and other relevant policies.
+b. The climate risk strategy shall define the Bank or Finance Company’s approach to
+identifying, measuring, monitoring, and mitigating climate risk across all its activities.
+It shall also outline how the Bank or Finance Company will capitalize on opportunities
+arising from the transition to a low-carbon economy.
+c. In formulating the strategy, the Bank and Finance Company shall consider the
+following elements:
+i. A clear articulation of the Bank and Finance Company’s risk appetite for climate
+risk considering physical and transition risk separately aligned with their overall risk
+appetite (covered in Section 4.4: Risk Appetite).
+ii. A thorough assessment of the Bank and Finance Company’s exposure to physical
+and transition risks across all relevant sectors and regions (covered in Chapter 6:
+Climate risk management). This assessment shall include climate scenario analysis
+for short, medium, and long-term to understand potential impacts under different
+climate and economic pathways (covered in Chapter 7: Scenario analysis and stress
+testing).
+iii. A description of the risk mitigation measures that the Bank and Finance Company
+shall implement to address identified climate risk.
+iv. A plan for monitoring and reporting on climate risk and the effectiveness of
+mitigation measures. This plan shall be aligned with Bangladesh Bank’s ‘Guideline
+on Sustainability and Climate-related Financial Disclosure’ (2023).
+
+d. Banks and Finance Companies shall develop a Transition and Adaptation Plan to
+enhance their approach to climate risk and align their policies with the transition to a
+sustainable, low-carbon economy. Transition and Adaptation Plans shall be structured
+detailing how Bank and Finance Companies plan to decarbonize its lending and
+investment activities, manage its physical risks by increasing the resilience of its
+counterparties, and improve internal climate risk management over a specific
+timeframe.
+e. Banks and Finance Companies shall evaluate their current climate-related strategies and
+risk management capabilities through a self-assessment against available international
+best practice such as the thematic recommendations of the Task Force on Climate
+Related Financial Disclosures (TCFD) principles24, and their plan shall set out how they
+will develop or strengthen these capabilities over time. A holistic self-assessment shall
+cover multiple aspects of business operations, for example: counterparty engagement,
+data, IT infrastructure, appraisal tools/due diligence procedures, etc.. This self-
+assessment can help to identify gaps, benchmark performance and set a roadmap and
+plan for Banks and Finance Companies to improve their practices and progress to the
+next level.
+f. In line with the Transition Plan Taskforce’s guidance for Banks25 and the Glasgow
+Financial Alliance for Net Zero (GFANZ) report on Transition Plans26, a successful
+
+24This may involve looking at the key recommendations of the TCFD across the governance, strategy, risk
+management, metrics and targets, and disclosures principles, and assessing whether they are exhibiting best
+practice, developing practice or no / early stage practice.
+25Transition Plan Taskforce, ‘Banks Sector Guidance’. https://www.ifrs.org/content/dam/ifrs/knowledge-
+hub/resources/tpt/banks-sector-guidance-apr-2024.pdf
+
+--- Page 26 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+19
+Transition and Adaptation Plan shall define ambition levels, intended actions, and
+accountability mechanisms. Ambition levels outline decarbonization and adaptation
+targets for all activities, address climate risk, and describe contributions to broader
+economic transitions, considering risks such as "paper decarbonization"27 and impacts
+on financing access for vulnerable communities. Intended actions include specific steps
+to reduce financed emissions or physical risk through mitigation or adaptation financing
+(respectively), setting targets aligned with Bangladesh’s NDCs and National Adaptation
+Plan (NAP), and integrating climate risk management into governance and financial
+processes. Accountability involves embedding Transition and Adaptation Plans into
+business planning, defining clear roles, establishing monitoring mechanisms, and
+ensuring transparent disclosures.
+g. In setting out the Bank and Finance Company’s ambitions and intended actions,
+reference shall be made to relevant policies and priorities of Bangladesh. In particular,
+the Transition and Adaptation Plan shall link to:
+
+i. Bangladesh’s Nationally Determined Contribution (NDC) which sets out a
+number of targets to reduce greenhouse gas emissions. Financing opportunities
+targeted in the Transition and Adaptation Plan should prioritize those sectors and
+mitigation actions set out in the NDCs.
+ii. Bangladesh’s National Adaptation Plan (NAP) which sets out adaptation
+strategies aiming for climate-resilient development. Financing opportunities
+targeted in the Transition and Adaptation Plan should prioritize those sectors and
+mitigation actions set out in the NAP. Private sector financing target of NAP
+should be a priority of banks and finance companies through the most feasible
+interventions (among the 113 interventions).
+iii. Bangladesh’s Climate Fiscal Framework, which sets out how Bangladesh’s
+fiscal policies will respond to the demand and supply sides of climate funds.28 It
+considers existing climate finance sources, climate financing gaps, and how to
+create an enabling environment for private finance flows to implement climate
+actions, and so the priorities for public and private financing should be reflected in
+Transition and Adaptation Plans.
+iv. Bangladesh Bank’s ‘Policy Guidelines on Corporate Social Responsibility for
+Banks and Financial Institutions’29 (2022), which sets out the expectation that
+Banks and Finance Companies should spend a minimum of 20% of their total
+Corporate Social Responsibility fund on Environment and Climate Change
+mitigation and adaptation.
+
+
+26GFANZ,
+‘Financial
+Institution
+Net-zero
+Transition
+Plans’.
+https://assets.bbhub.io/company/sites/63/2022/09/Recommendations-and-Guidance-on-Financial-
+Institution-Net-zero-Transition-Plans-November-2022.pdf
+27The TPT defines a paper decarbonisation as “greening the entity’s own balance sheet in a way that may not
+necessarily contribute to greening the economy”.
+28Government of the People’s Republic of Bangladesh, ‘Bangladesh Climate Fiscal Framework’.
+https://www.fao.org/faolex/results/details/en/c/LEX-FAOC216237/
+29Bangladesh Bank, ‘Policy Guidelines on Corporate Social Responsibility for Banks and Financial Institutions’.
+https://www.bb.org.bd/mediaroom/circulars/gbcrd/jan092022sfdl01e.pdf
+
+--- Page 27 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+20
+v. Bangladesh Bank’s ‘Sustainable Finance Policy for Banks and Financial
+Institutions’30 (2023), which highlights the expectation that Banks and Finance
+Companies should adopt appropriate ways of using green products, projects or
+initiatives and should adopt environmentally responsible financing.
+vi. Bangladesh Bank’s ‘Policy on Green Bond Financing for Banks and
+Financial Institutions (FIs)’31 (2022). Transition and Adaptation Plan should
+consider how to leverage the climate risk identification and measurement
+processes discussed as part of their Green Bond Financing Policy and should
+consider financing in line with the Green Taxonomy presented in the policy.
+h. Banks and Finance Companies shall establish a Counterparty Engagement Plan as part
+of their climate risk management framework. This plan shall clearly outline short and
+long-term priorities, focusing on sector-specific and customer-specific risks. The
+purpose and expectations of climate-related counterparty engagement shall be explicitly
+defined, with actionable guidance provided to ensure effective implementation. Banks
+and Finance Companies are expected to link counterparty engagement directly to their
+overall climate risk management strategy, emphasizing how engagement can open
+financing opportunities while supporting counterparties in mitigating physical and
+transition risks. By fostering collaboration, Banks and Finance Companies can help
+clients adapt to climate-related challenges while reducing their own exposure to
+material risks. More detail on this is covered in Section 6.1.1: Risk Culture.
+
+5.2. Approval & Implementation of Strategy
+a. The board of directors sets the strategy and the senior management is responsible for
+implementing those strategies and communicating them throughout the organization.
+This includes ensuring alignment with the overall business strategy and risk
+management framework, allocating adequate resources (both human and financial),
+and establishing clear accountability for implementation.
+b. The climate risk strategy shall clearly define climate risk related time-bound goals,
+supported by appropriate financial and human resources necessary to achieve these
+goals, along with timelines for implementation.
+c. The senior management shall review and approve the climate risk strategy at least
+annually, documenting the approval process and rationale behind strategic decisions.
+Banks and Finance Companies shall submit their climate risk strategy to Bangladesh
+Bank for review, following the relevant reporting guidelines. Additionally, Banks and
+Finance Companies shall be prepared to demonstrate effective implementation of their
+strategy and compliance with the requirements of these guidelines upon request from
+Bangladesh Bank.
+
+
+
+
+30Bangladesh
+Bank,
+‘Sustainable
+Finance
+Policy
+for
+Banks
+and
+Financial
+Institutions’.
+https://www.bb.org.bd/mediaroom/circulars/gbcrd/dec312020sfd05.pdf
+31Bangladesh
+Bank,
+‘Policy
+on
+Green
+Bond
+Financing
+for
+Banks
+and
+FIs’.
+https://www.bb.org.bd/mediaroom/circulars/gbcrd/sep202022sfd05e.pdf
+
+--- Page 28 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+21
+6. Climate Risk Management
+Banks and Finance Companies shall incorporate climate risk into their existing risk
+management framework and processes. This will include all relevant elements of the risk
+management framework, as well as specific risk categories including credit risk, market risk,
+operational risk, reputational risk and liquidity risk.
+6.1. Climate Risk Management Framework
+Climate Risk Management Framework is a structured approach designed to identify, assess,
+monitor, mitigate, and report on climate risks that may materially impact a Banks and
+Finance Company’s overall risk profile. This framework aligns with regulatory expectations
+set forth in the ‘Integrated Risk Management Guidelines for Financial Institutions’ (2016)
+and ‘Guideline on Sustainability and Climate-related Financial Disclosure’ (2023)
+emphasizing the importance of integrating climate risk into the broader risk management
+infrastructure while accounting for its unique characteristics. It is essential for Banks and
+Finance Companies to establish a robust Climate Risk Management Framework that
+encompasses a clear risk culture, effective risk identification processes, accurate risk
+measurement tools, appropriate risk mitigation and monitoring strategies, and comprehensive
+risk reporting and evaluation mechanisms.
+6.1.1. Risk Culture
+a. Banks and Finance Companies shall cultivate a strong and integrated risk culture that
+incorporates climate risk outlined in Bangladesh Bank's ‘Integrated Risk Management
+Guidelines for Financial Institutions’ (2016) and ‘Risk Management Guidelines for
+Banks’ (2018). As the business of banking inherently involves risk-taking, it shall
+ensure that climate-related risks are appropriately managed. A sound and consistent risk
+culture is a key component of effective climate risk management. This culture shall be
+rooted in a thorough understanding of the climate risk the Bank and Finance Company
+faces, and how climate risk is measured and monitored.
+b. The Board of Directors and Senior Management shall integrate climate risk into the risk
+culture through:
+i. Policies: Establishing clear policies and procedures for identifying, assessing,
+mitigating, and reporting climate risk.
+ii. Use of the three lines of defense model explicitly assigning responsibility for
+managing climate risk (covered in Section 3.3: Internal control framework).
+iii. A counterparty engagement plan.
+iv. Communication: Actively communicating the Bank and Finance Company’s
+climate risk strategy, risk appetite, and policies to all staff.
+v. Training: Providing comprehensive training to staff on climate risk and their
+responsibilities in managing those risks.
+vi. Leading from the top: Demonstrating a commitment to sustainable practices and
+responsible risk taking through the Bank or Finance Company’s actions and
+decisions.
+c. Banks and Finance Companies shall set out detailed plans on how engagement with
+counterparties will be used to meet their strategic goals set out in their Transition and
+Adaptation Plan. These counterparty engagement plans shall set out how they will
+collaborate with counterparties to obtain relevant data, assess the counterparty’s risk
+and opportunities, and work with them going forwards. This may include:
+
+--- Page 29 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+22
+i. Priority engagements, such as key sectors or segments. This should be based on the
+most material sectors and segments to the Bank and Finance Company, and the
+exposure of the sectors and segments to climate risk.
+ii. Key data and information collection aims, such as determining the counterparty’s-
+1. Scope 1 and 2 emissions and physical risk exposure;
+2. Assessing the counterparty’s strategic plans over the next 5–10 years;
+3. Assessing existing mitigation and adaptation capacity, including
+specific mitigation investments or measures already in place or
+planned;
+4. Climate risk management capabilities or ‘adaptive capacity’, or if in
+place;
+5. The transition and adaptation plan of the counterparty.
+i. Counterparty engagement methods, including approaches to ensure that the
+counterparty increases their transition and physical risk management efforts. This can
+include the use of incentives such as favorable interest rates, disincentives, or ways to
+influence the counterparty such as sharing information on the impact of climate risk in
+their sector or on the opportunities and benefits of making such investments.
+ii. Counterparty assessment and monitoring frameworks, such as how to assess the
+counterparty transition and adaptation plan and monitor progress against it.
+iii. The link to green financing strategies, such as developing a structured approach to
+identifying technologies and processes needed to reduce GHG emissions or reduce
+physical risks, and helping the counterparty to finance investment plans that are
+compatible with national or sectoral targets.
+iv. Risk mitigation approaches, such as the use of de-risking mechanisms such as
+covenants, insurance, Green/Climate Credit Guarantee, hedging, risk transfer
+mechanisms, etc. These approaches shall be tailored to the Bank and Finance
+Company’s risk profile.
+v. The link to broader strategic aims may include how to assess the impact of a
+counterparty on achieving the Bank and Finance Company’s emissions or physical
+risk reduction targets in line with portfolio or sectoral benchmarks, such as those
+pathways based on NDC targets, NAP, the International Energy Agency (IEA), Net
+Zero Emissions by 2050 scenario.32
+d. Senior management holds ultimate responsibility for embedding climate risk into
+existing counterparty engagement processes and ensuring the visibility of climate risk
+prioritization across the Bank and Finance Company. This requires consistent
+communication and clear allocation of responsibilities at all levels. Active engagement
+by senior leadership, including regular monitoring of the Counterparty Engagement
+Plan’s implementation, is crucial for demonstrating the importance of integrating
+climate risk into counterparty engagement. Such leadership ensures that engagement is
+both strategic and operationally effective, driving meaningful action among
+counterparties while aligning with the Bank and Finance Company’s broader
+sustainability goals.
+e. Banks and Finance Companies are expected to provide opportunities for staff to upskill
+through targeted training programs, access to educational resources, and sector-specific
+insights. For example, training may enable loan officers to discuss with their client’s
+adaptation technologies in agriculture or decarbonization strategies in manufacturing
+
+32IEA, ‘Net Zero Emissions by 2050 Scenario (NZE)’. https://www.iea.org/reports/global-energy-and-climate-
+model/net-zero-emissions-by-2050-scenario-nze
+
+--- Page 30 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+23
+and explore new financing opportunities, including those that support women-led
+businesses or vulnerable groups. Supporting mechanisms and resources, such as central
+specialist support teams to assist loan officers, can be vital for enabling effective
+engagement. These specialist teams can provide expertise on assessing counterparty
+capabilities, evaluating transition or adaptation plans, and sharing best practices across
+sectors.
+
+6.1.2. Risk Identification
+a. Banks and Finance Companies shall identify climate risk at the level of key sectors,
+geographies, and related to all material products, activities, processes, systems, and
+their vulnerability to these risks. Effective risk identification is a critical step in the
+management of climate risk, as it forms the basis for understanding and addressing
+potential threats that may impact a Bank and Finance Company's resilience. This
+assessment shall include both physical risks and transition risks, considering various
+time horizons (short, medium, and long-term).
+b. The risk management framework should encompass on-balance sheet risks and off-
+balance sheet risks, with appropriate consideration of both financial and non-financial
+risks that the Bank and Finance Company is currently exposed to and for risks that the
+Bank and Finance Company may be exposed to going forward. Banks and Finance
+Companies are responsible for implementing a regular process for identifying all
+material risks and including these in a comprehensive internal risk inventory.
+c. Banks and Finance Companies shall account for the timelines of climate risk: short-to-
+medium term threats (e.g., monsoon variability, cyclones or policy shifts such as the EU
+CBAM) and long-term structural shifts (e.g., sea-level rise or decarbonization of energy
+grids). Even with short-term tenors, assessing medium to long-term climate impacts
+remains essential. Rollover risk – the risk that a borrower may be unable to refinance
+debt due to climate risk impacts on their business or assets, shall be explicitly
+considered, even for short-term loans.
+d. Banks and Finance Companies may leverage climate projections from localized sources
+(e.g. the Bangladesh Meteorological Department33 (BMD), related ministry) or global
+sources (e.g., IPCC AR6 scenarios) on physical risks, and data on sectoral emissions for
+transition risks, to assess portfolio vulnerabilities.
+e. Banks and Finance Companies are expected to properly document their assessments of
+climate risk in terms of their business environment. For instance, it could be reflected as
+part of their regular monitoring of material or emerging risks, or evidenced through
+management board discussions.
+6.1.3. Risk Measurement
+a. Banks and Finance Companies shall adopt both quantitative and qualitative approaches to
+evaluate the magnitude of physical and transition risks across various time horizons.
+Accurate measurement of climate risk is essential for developing appropriate mitigation
+and management strategies.
+b. This should be done at both portfolio level and transaction-level due diligence.
+
+33 Bangladesh Meteorological Department. https://live6.bmd.gov.bd/
+
+--- Page 31 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+24
+c. For physical risks, Banks and Finance Companies shall-conduct an assessment of the
+relevant physical hazards considering the geographic location (e.g., current and projected
+frequency and intensity of extreme weather events), the sensitivity of the sector to the
+relevant hazards, as well as the Bank or Finance Company’s exposure level. This shall be
+used to determine the potential impacts of physical risks on assets, borrowers, and
+business continuity.34Banks and Finance Companies are expected to assess the exposure
+of the portfolio to physical risk by analyzing the geographical and sectoral distribution of
+Bank or Finance Company lending relative to the physical risk profiles for the hazards
+considered (e.g., floods, and droughts).
+d. Transition risks require analysis of policy changes or legal risks, technological shifts,
+market trends, and reputation risks. Factors such as exposure to the CBAM,
+decarbonization targets, and evolving regulations shall be factored into the measurement
+process. A transition risk assessment typically involves transition-sensitive economic
+sectors according to frameworks determining exposure to a potential transition risk
+through the emission levels, emission intensity of a counterparty or sector (a Bank or
+Finance Company’s ‘financed emissions’), or based on further information such as
+exports to CBAM countries. Banks and Finance Companies may also consider potential
+risks embedded in supply chains, as disruptions from regulatory changes or technological
+advancements could indirectly impact borrowers or counterparties. Banks and Finance
+Companies are expected to assess the exposure of the portfolio to transition risk by
+considering the sectoral or sub-sectoral distribution of loans and investments relative to
+the transition risk posed by the counterparty or sector.
+e. Examples of approaches to physical risk and transition risk assessment, as well as detail
+on the calculation of ‘financed emissions’ (which is key in measuring transition risk), are
+set out in Annex 1 (on physical risk), Annex 2 (on transition risk assessment), and Annex
+3 (on financed emissions assessment). However, as approaches evolve over time and
+several different approaches to measuring climate risk exists, Banks and Finance
+Companies shall ensure the climate risk measurement methodologies are tailored to their
+business models and risk profiles, considering both qualitative factors (such as expert
+judgment and scenario narratives) and quantitative factors (such as quantification of
+potential climate risk losses through use of climate scenario analysis and stress testing).
+f. Banks and Finance Companies should also ensure continuous improvement of climate
+risk measurement by integrating emerging best practices, enhancing risk classification
+procedures, and upgrading their methodologies over time. The progression toward
+quantification shall encompass financial assessments of climate risk scenarios, forward-
+looking stress tests, and the integration of findings into pricing, capital planning, and
+strategic decision-making.
+g. Banks and Finance Companies shall support their risk measurement through robust data
+collection systems and central data management frameworks. Effective data management
+is essential for gathering accurate, localized, and counterparty or sector-specific
+information that can enhance the precision of risk assessments. Examples of key data
+collection needs are set out in Annex 4. Qualitative methods or the use of proxies may be
+necessary to supplement quantitative approaches where data gaps or uncertainties persist.
+
+34 This may use tools such as the Climate Vulnerability Index. By applying the district level Climate Vulnerability
+Index (CVI) for Bangladesh, and counting the total amount of climate vulnerable loans, banks may apply the
+CVI. Other public or private tools can also be used for this purpose.
+
+--- Page 32 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+25
+As climate risk has distinctive characteristics, Banks and Finance Companies are
+expected to consider adapting their IT systems to systematically collect and aggregate the
+necessary data in order to assess their exposures to these risks.
+h. Banks and Finance Companies should assess climate-related losses in their portfolio
+using their central data management frameworks. This data shall be used to assess current
+exposure and refine their climate risk measurement methodologies. This includes
+developing and maintaining a comprehensive Climate Loss Database to track realized
+losses, such as Non-Performing Loans (NPLs) linked to climate-related events-monsoon
+floods or transition-related policies, etc. Relevant data shall be systematically recorded,
+including:
+i. Type of climate risk such as flood event and its severity.
+ii. Impacts on counterparty credit ratings / on NPLs due to crystallized physical risks
+such as floods.
+iii. Impacts on counterparty credit ratings / on NPLs due to transition-risk related
+events such as increases in energy prices.
+i. Banks and Finance Companies must document their measurement methodologies and
+processes, clearly stating assumptions, uncertainties, and any limitations. Establishing a
+structured framework for regularly reviewing the appropriateness of identification,
+measurement, and mitigation methodologies processes will support meaningful
+refinement and enhance resilience against climate risk.
+
+6.1.4. Risk Mitigation and Monitoring
+Climate risk can lead to large financial impacts. Moreover, the impact of certain climate
+events, such as natural disasters intensified by climate change, cannot be fully controlled.
+Risk mitigation and monitoring tools should be used to manage the exposure to, or frequency
+and/or severity of such events.
+6.1.4.1.
+Risk mitigation
+a. Banks and Finance Companies shall proactively consider and implement a range of
+climate risk mitigation measures and strategies. At the counterparty-level, these may
+include technical measures such as embedding climate-linked covenants in loan
+agreements, for example requiring borrowers to acquire insurance (such as weather index
+insurance), green/climate credit guarantee, or invest in adaptation measures for relevant
+assets in vulnerable areas to ensure borrowers are adequately protected; offering
+preferential financing terms for borrowers actively investing in adaptation strategies, such
+as water-efficient technologies in the textile sector, to further incentivize proactive risk
+reduction; or incorporating a climate-risk related haircut into collateral assessments. Non-
+technical measures can also be used, such as counterparty engagement (as covered in
+Section 5.1: Strategy Formulation & Integration into Other Policies), or non-financial
+service offerings to offer technical assistance and educational services to target
+borrowers.
+b. At the portfolio level, Banks and Finance Companies can make use of climate-related
+hedging mechanisms, portfolio management based on climate risk materiality and
+proportionality, or implement simplified exposure caps. Banks and Finance Companies
+
+--- Page 33 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+26
+can also leverage available resources such as credit/climate guarantees, including
+Bangladesh Bank’s Credit Guarantee Scheme35 and those available from Development
+Finance Institutions (DFIs)36, or partner with DFIs to co-finance adaptation projects to
+unlock additional resources and expertise in implementing resilience measures. Risk
+transfer options may also be used, such as securitization of climate risk exposed loans to
+transfer and diversify the climate risk exposure.
+c. Use of insurance mechanisms is relevant to both counterparty-level and portfolio level
+risk management. One such mechanism is parametric insurance, which pays out on the
+occurrence of a specified event happening. Relevant examples include a certain level of
+rainfall intensity which could be related to excessive rainfall (used to insure against
+flooding) or reduced rainfall (used to insure against drought), or a specific category of
+cyclone (used to insure against cyclones). These mechanisms can be developed by Banks
+and Finance Companies in partnership with Insurance Companies, and can be combined
+with loan products to provide additional protection to the borrower. In addition, they can
+also be leveraged by Banks and Finance Companies as part of their portfolio mitigation
+strategies.
+d. In the aftermath of physical risk events, different responses can be employed to reduce
+their economic impact at both a counterparty and macroeconomic-level. These can
+include reducing the burden of existing loans through measures such as deferring
+payments on existing loans, or provision of further emergency lending to facilitate
+business recovery, asset re-construction and renovation.37 Such measures provide support
+to counterparties and allow them to rebuild their financial health, in turn protecting the
+Bank or Finance Company’s balance sheet. Where this leads to missed cash flows, Banks
+and Finance Companies may consider hedging this through an insurance-based
+mechanism such as parametric insurance, described above.
+e. Proactive support for disproportionately affect vulnerable communities, including women
+is a crucial aspect of climate risk management. This involves designing and implementing
+gender sensitive microfinance programs for climate-affected communities, or integrating
+climate risk insurance products into finance offerings to provide a safety net against
+extreme events. These initiatives not only reduce the financial impact of climate change
+on vulnerable communities but also foster greater resilience and adaptive capacity.
+
+6.1.4.2.
+Monitoring
+a. Banks and Finance Companies shall establish robust monitoring mechanisms, including
+monitoring climate-specific KRIs. Examples of such indicators are covered in Section
+3.4: Risk Appetite. These indicators shall be reviewed periodically to detect changes
+indicative of climate risk concerns.
+b. Banks and Finance Companies shall monitor the performance of client mitigation or
+adaptation. For example, this may include implementing client transition plan audits,
+
+35Bangladesh
+Bank,
+‘Manual
+of
+Credit
+Guarantee
+Scheme’.
+https://www.bb.org.bd/en/index.php/about/guidelist
+36For example: Climate Policy Initiative, ‘Landscape of Guarantees for Climate Finance in EMDEs’.
+https://www.climatepolicyinitiative.org/publication/landscape-of-guarantees-for-climate-finance-in-emdes/
+37UNEP-FI,
+‘Managing
+physical
+climate-related
+risks
+in
+loan
+portfolios’.
+https://www.unepfi.org/themes/climate-change/managing-physical-climate-related-risks-in-loan-portfolios/
+
+--- Page 34 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+27
+requiring high-emission clients in sectors like cement and textiles to submit annual
+decarbonization roadmaps, and addressing non-compliance through appropriate measures
+incentivizing clients to proactively reduce their climate impact.
+c. Integrating early warning systems, such as the use of BMD alerts, into monitoring
+processes is crucial. This allows for proactive measures, such as automatic triggers for
+borrowers directly impacted by events like cyclones, preventing immediate defaults and
+fostering resilience.
+
+6.1.5. Risk Reporting and Evaluation
+a. Banks and Finance Companies shall document identified climate risks, including their
+transmission channels and potential impacts on the overall risk profile. These reports shall
+be integrated into the Banks or Finance Company’s existing risk reporting framework as
+set out in Bangladesh Bank’s ‘Risk Management Guidelines for banks’ (2018), regulatory
+template of Sustainability and Climate related Financial Disclosure and in their annual
+report and they shall cover all material climate-related risks relevant to the Bank or
+Finance Company.
+b. As methodologies and data improve over time, Banks and Finance Companies shall
+continuously update their risk quantification practices to reflect new insights,
+methodologies and evolving risks, ensuring their risk management processes remain
+effective and relevant.
+c. Banks and Finance Companies are expected to establish benchmarks and conduct
+comparative analyses to understand how their risk exposures align with industry
+standards and peers. These insights can help refine their risk management strategies.
+
+6.2.
+Credit Risk Management
+a. Banks and Finance Companies shall incorporate climate risk across the entire credit life
+cycle and credit risk management process. This shall be read in conjunction with
+Bangladesh Bank’s ‘Guidelines on Credit Risk Management (CRM)’ (2016) document,
+Sustainability and Climate related Financial Disclosure and so shall cover key stages
+including due diligence and risk classification, risk-based pricing, credit risk mitigation
+including the use of collateral and guarantees, as well as portfolio level monitoring for
+key concentrations in relation to climate risk.
+b. Banks and Finance Companies shall build their understanding of the materiality of
+climate risk, as covered in Section 4.1: Governance Bodies, into their credit risk
+management policy. This requires a thorough understanding of how physical and
+transition risks drivers can affect borrower’s default risk, and key transmission channels
+that would impact the portfolio. For example, increases in heat stress and drought
+conditions may lead to central efforts to ration water, disrupting industries with heavy
+dependency on water. An understanding of portfolio-level risks by sector and geographic
+region shall be reflected in the overall credit risk management policy and associated
+credit risk appetite, limits, and processes.
+c. Banks and Finance Companies shall integrate climate risk into their due diligence
+processes as part of ongoing credit risk management. Effective borrower evaluation and
+
+--- Page 35 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+28
+due diligence requires an understanding of the specific climate risk posed due to the
+borrower’s location and economic activity type. Where these risks are considered high,
+due diligence shall seek to ascertain the borrower’s ability to adapt to these risks
+(‘adaptive capacity’), and/or measures that have already been made to actively mitigate
+against these risks.
+d. An internal credit risk rating system shall incorporate climate risk wherever possible.
+Again, this involves considering both exposure to climate risk, as well as the adaptive
+capacity and adaptation or mitigation measures implemented by the borrower. This may
+lead to a ‘gross’ and ‘net’ climate risk rating, which over time may be incorporated into
+the internal credit risk rating system based on a consistent approach to considering the
+probability and impact of climate risk on the financial standing of the borrower. An
+example of such a framework may be based on an assessment the financial impact of
+flooding for farmers operating in a floodplain, both with and without adaptation measures
+such as elevated dykes to reduce the impact of flooding.
+e. Banks and Finance Companies shall develop a clear escalation matrix in line with their
+risk appetite where climate risk is considered high or above risk appetite. This may
+include further due diligence, incorporation of climate risk factors into loan pricing, or
+additional credit risk mitigation options.
+f. Loan pricing is expected to reflect climate risk. Banks and Finance Companies shall price
+loans to cover all costs including the expected loss component of the loan, cost of funds,
+and cost of allocated capital. As set out in Bangladesh Bank’s ‘Guidelines on Credit Risk
+Management (CRM) for Banks’ (2016) and ‘Integrated Risk Management Guidelines for
+Financial Institutions’ (2016), the expected loss will be higher on loans with more credit
+risk which shall in turn be reflected in the pricing for the loan. Borrowers with high
+exposure to physical or transition risks may see an increase in credit losses, although
+these losses may be reduced through effective collateral, guarantees or other risk
+mitigation strategies. These considerations shall be reflected in the price of a loan. Other
+loan pricing factors may also be considered, such as the cost of funds driven by the Bank
+or Finance Company’s access to green credit lines or use of green bonds, which may lead
+to different funding costs.
+g. Risk based loan pricing shall be consistent with the strategy and credit risk management
+policy (including risk appetite) regarding climate risk. For example, where the Bank or
+Finance Company’s credit risk appetite sets out a willingness to work with high physical
+risk clients to reduce their physical risk vulnerability using adaptation measures, the
+pricing framework may consider the use of pricing incentives to help clients implement
+these adaptation measures. On the one hand, this could involve the interest rate to the
+client being reduced once the adaptation measure is in place, to reflect the increased
+resilience of the loan and lower credit risk. On the other hand, pricing frameworks may
+support the credit risk appetite by charging higher interest rates to high emitting, energy
+inefficient clients based on increased credit risk from transition risk exposure and the
+client’s high operating costs as a result of its energy inefficiency.
+h. Credit risk mitigation strategies shall also consider necessary changes due to climate risk.
+Collateral highly exposed to physical risk, for example due to its building material and
+location in a floodplain, or to transition risk, for example due to its energy efficiency, may
+see an impact in its valuation. These impacts should be considered and reflected in the
+valuation of collateral and the associated haircut. As set out in Bangladesh Bank’s
+‘Guidelines on Credit Risk Management (CRM) for Banks’ (2016) and ‘Integrated Risk
+
+--- Page 36 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+29
+Management Guidelines for Financial Institutions’ (2016), Banks and Finance Companies
+need to reassess the value of collateral on a periodic basis, which may be impacted by
+climate risk as new transition risks occur through national or international policies or
+events, or new information arises around physical risk vulnerabilities or market pricing of
+physical risk on collateral.
+i. Banks and Finance Companies should pay particular attention to the use of guarantees as
+a form of credit risk mitigation. Use of guarantees such as the Credit Guarantee Scheme
+are encouraged to ensure that access to finance for the most vulnerable communities
+within Bangladesh is not significantly impacted. However, as stated in Bangladesh
+Bank’s ’Manual of Credit Guarantee Scheme’, Bangladesh Bank are also alert to the
+potential moral hazard when using guarantees. The use of these guarantees does not
+reduce the risk management expectations of climate-related credit risk on Banks and
+Finance Companies, and Bangladesh Bank will actively supervise against this.
+j. Other mitigants may also be considered, such as shorter-tenor lending, lower loan-to-
+value limits, or use of additional hedging or insurance for higher risk borrowers.
+k. Banks and Finance Companies shall also monitor, report and manage the concentrations
+within and between risk types associated with climate risk. This shall include the use of
+concentration analysis at the level of sector, geography, or single name, for both physical
+and transition risk. In line with the credit risk appetite, these concentrations shall be
+monitored against relevant metrics and limits and may prompt further mitigation options
+at the portfolio level.
+
+6.3.
+Market Risk Management
+a. Climate risk poses significant challenges to market risk management in financial sector of
+Bangladesh’s. Climate risk can impact various asset classes, affecting equities, interest
+rates, foreign exchange (FX), commodities, and derivatives. For example, companies in
+carbon-intensive industries (e.g., fossil fuels, cement, aviation) may experience sharp
+declines in stock value due to regulations, investor divestment, or stranded assets.
+Furthermore, crop failures, supply chain disruptions, and extreme weather events may
+increase inflation, pushing interest rates higher and leading to climate-driven inflation.
+Banks and Finance Companies holding bonds could face increased market risk as climate-
+related financial pressures, such as climate adaptation costs and disaster recovery
+expenditures, affect creditworthiness.
+b. Market risk management is addressed by Bangladesh Bank in the ‘Integrated Risk
+Management Guidelines for Financial Institutions’ (2016) and ‘Risk Management
+Guidelines for banks’ (2018), and Banks and Finance Companies should consider the
+impact of climate risk on market risk in the context of these guidelines.
+c. Banks and Finance Companies shall systematically identify and assess the transmission
+channels through which climate risk impacts market risk exposures. Banks and Finance
+Companies shall be required to map and analyze these transmission channels to ensure
+market risk exposures are properly identified and assessed under various climate risk
+scenarios.
+d. Banks and Finance Companies should quantify the materiality of their climate-related
+market risk exposures through assessments such as climate risk sensitivity analysis and
+climate stress testing. Banks and Finance Companies should assess the materiality of their
+
+--- Page 37 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+30
+climate-related market risk exposures and develop appropriate mitigation strategies where
+material risks are identified.
+e. Banks and Finance Companies shall develop robust monitoring mechanisms ensuring
+continuous oversight of climate-related market risks that track real-time and forward-
+looking indicators of climate-related risk transmission in accordance with the guideline
+on Sustainability and Climate related Financial Disclosure (IFRS S1 & S2).
+f. Banks and Finance Companies should integrate Early Warning Indicators (EWIs) into
+their market risk monitoring frameworks to detect emerging climate risk before escalating
+into systemic disruptions. These indicators include:
+i. Sudden price movements in climate-exposed assets (e.g., energy stocks, carbon-
+intensive bonds).
+ii. Liquidity stress signals, including bid-ask spreads and trading volume deterioration in
+climate-sensitive markets.
+iii. FX volatility linked to climate vulnerabilities, including movements in foreign
+reserves and external debt sustainability metrics.
+iv. Shifts in investor perception, measured through capital flows into/out of green finance
+markets and E&S asset trends.
+v. Changes in supply and demand and trades of certain goods and services.
+g. Banks and Finance Companies should report and act upon EWIs ensuring management of
+climate-driven market risk fluctuations.
+h. Banks and Finance Companies should explicitly integrate climate-related market risks
+into market risk appetite statements to align risk-taking activities with climate risk
+tolerance thresholds.
+
+6.4.
+Operational and Reputational Risk Management
+a. Banks and Finance Companies shall consider how climate-related risks will impact their
+operational continuity and their reputational risks. Particularly attention shall be paid to
+the impact of physical risks on operational continuity, and transition risks on reputational
+risks.
+b. Banks and Finance Companies shall consider the potential impact of physical risks on
+their operations and ability to continue providing banking services. This involves an
+assessment of potential hazards at the relevant geographic location, and the sensitivity of
+assets to the relevant hazards. Banks and Finance Companies shall use this approach to
+identify whether physical hazards could materially impact their own physical assets, third
+parties, and infrastructure. These risks can lead to an ability to continue providing core
+business services. Banks and Finance Companies shall reflect these in business continuity
+plans and ensure a timely disaster recovery, both in terms of policies and the functioning
+of physical assets, including IT systems.
+c. Banks and Finance Companies shall consider the potential impact of transition risks on
+their reputation and liability risks. These risks may arise because of involvement in
+financing projects with transition risks, failure to meet the Banks and Finance Company’s
+own emissions targets, or reduce emissions in line with national or international
+decarbonization pathways, or greenwashing.
+
+--- Page 38 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+31
+6.5.
+Liquidity Risk Management
+a. Banks and Finance Companies shall consider how climate-related risks will impact net
+cash outflows or depletion of liquidity buffers incorporating these factors into liquidity
+risk management and liquidity buffer calibration.
+b. Banks and Finance Companies are required to have robust strategies, policies, processes
+and systems for the identification, measurement, management and monitoring of liquidity
+risk over a set of time horizons. Consequently, they are expected to assess the material
+impact of climate and environmental risks on net cash outflows or liquidity buffers.
+
+
+7. Climate Scenario Analysis and Stress Testing
+Banks and Finance Companies shall use climate stress testing and scenario analysis to
+manage climate risk and opportunities. The outcomes from climate risk scenario analysis and
+stress testing will directly inform risk management frameworks, enhance the resilience of a
+Banks or Finance Company’s strategy and lending. Climate scenario analysis and climate
+stress testing is often used interchangeably. Climate scenario analysis is inclusive of climate
+stress testing, with climate scenario analysis referring to longer-term time horizons, and
+climate stress testing refers to shorter-term time-horizons38.
+
+7.1. Designing a Climate Scenario
+7.1.1. Principles of climate scenarios
+a. Banks and Finance Companies shall design multiple climate scenarios to explore a range
+of climate risks and opportunities. These climate scenarios shall follow a core set of
+principles as outlined at the international best practices. The scenarios should be:39
+i) Severe, but plausible:
+1. The events in the scenario should be plausible and have a credible underlying
+narrative. Each scenario should include a description and relevant assumptions
+explaining the scenario.
+2. The scenarios should be sufficiently severe.
+ii)
+Distinct:
+1. Scenarios should have distinct narratives and structures to explore different
+climate risk pathways and how they change over time for the same key
+variables, allowing for a comparison of the different outcomes.
+2. Each scenario shall consider the interaction between physical and transition
+risks. For example, higher transition risk scenarios should outline the impact
+on physical risk.
+
+
+
+
+38This is in common with the BCBS: BCBS, ‘Climate-related financial risks – measurement methodologies’.
+https://www.bis.org/bcbs/publ/d518.pdf
+39These are in common with the TCFD: TCFD, ‘The Use of Scenario Analysis in Disclosure of Climate-related
+Risks and Opportunities’. https://www.tcfdhub.org/scenario-analysis/
+
+--- Page 39 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+32
+iii)
+Consistent:
+a. The design of the climate scenarios shall follow a strong internal logic with
+the outcomes of a climate risk scenario resulting from the interactions between
+the inputs of the key scenario variables.
+iv)
+Relevant:
+a. The scenarios shall be tailored towards the Bank or Finance Company’s key
+risks and opportunities, considering the sectoral and geographic areas of
+operation of the portfolio. Where key portfolio vulnerabilities are identified
+(e.g. a concentration of credit exposures exposure in a particular location),
+relevant impacts on these key vulnerabilities should be covered by a scenario.
+Proportionate:
+a. Coverage and granularity shall be proportionate to the size and complexity of
+the Bank or Finance Company. To best inform decision making, the scenario
+design should match the best available information.
+b. Given the complexity, the expectation is that the scope and assessment
+approach of climate risk stress testing will evolve over time as the Bank or
+Finance Company becomes more adept at conducting these exercises and
+collects more relevant data.
+b. Physical risks scenarios take different emission trajectories and their impact on the
+climate to understand the extent to which physical risks can impact Bank and Finance
+Company’s counterparties, portfolio and the economy in which it operates.
+c. Transition risk scenarios focus on disruptions from decarbonization efforts (i.e. policy
+shifts, technology or market changes) and their impact on the Bank or Finance
+Company’s counterparties, portfolio and the economy in which it operates.
+d. The interconnected nature of physical and transition risks generally requires the
+design of individual scenarios to put more emphasis on one than another. A long-term
+scenario which assumes ambitious and orderly climate policies increases a greater
+amount of transition risk and a lower level of physical risk compared to long-term
+scenarios that assume no transition risk takes place, which will see higher levels of
+physical risk.
+e. Banks and Finance Companies should be aware that the results from climate scenario
+analysis and stress testing are influenced by the assumptions made in the scenarios,
+and therefore should be subject to challenge and regular review by a range of internal
+and/or external experts and independent functions.
+
+7.1.2. Objective, Scope and Coverage
+a. Banks and Finance Companies conducting climate scenario analysis or climate stress
+testing shall clearly define its objective. An objective to explore business model
+impacts of structural economic changes related to transition risks may consider a
+longer time-horizon such as a 30-year period (e.g. a structural economic shift towards
+a net-zero economy and its impact on macroeconomic variables).
+b. The objective of climate scenario analysis or climate stress testing shall guide the
+climate scenario construction, including defining its scope and coverage. In particular,
+this shall cover:
+i. The time-horizon of the scenario.
+ii. Scope of the scenario.
+
+--- Page 40 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+33
+iii. Narrative of the scenario.
+iv. Coverage of the scenario.
+c. Banks and Finance Companies shall consider both short-term climate stress testing
+and longer-term climate scenario analysis, using the most appropriate method
+available to fulfill the objective aligning with best practices40. This consideration is
+particularly pertinent for climate change due to the uncertainty of physical and
+transition risks.
+i. Short -term climate stress testing captures the near-term (e.g. a 3–5-year time
+horizon) dynamics of acute physical risks, market reactions and policy shocks that
+can have immediate impacts on asset values and financial stability. Short-term
+scenarios facilitate tactical adjustments in operations as well as essential risk
+management processes such as capital planning. When designing short-term
+scenarios, Banks and Finance Companies may consider the NGFS short-term
+climate scenarios published in May 2025.41
+ii. Medium and Long-term climate scenario analysis reflects the cumulative,
+structural adjustments taking place due to climate change and the impact of
+gradual shifts or delayed transition actions may change the risks posed to Banks
+and Finance Companies. These scenarios often analyze a time horizon of up to 30-
+years to drive strategic decision making and evaluation of business models. When
+designing long-term scenarios, Banks and Finance Companies may consider the
+NGFS long-term climate scenarios published in 2024.42
+
+d. Banks and Finance Companies are encouraged to use climate risk stress testing43 and
+climate scenario analysis to assess the material risks that climate change poses to their
+portfolios. This should include a scenario conducted with the assumption that the
+Banks and Finance Companies have taken no management actions, and the
+counterparties do not take further adaptation or resilience measures across the
+scenario mechanisms. This allows for a baseline vulnerability assessment of inaction.
+Other scenarios may be used if the Bank or Finance Company chooses to explore the
+impact of management or counterparty actions, which requires greater sophistication
+in terms of modelling.
+e. Banks and Finance Companies in Bangladesh should include the following events in
+their scenarios:
+i. Physical risk impacts on the most material sectors to the Bank or Finance
+Company that are vulnerable to physical risks.
+ii. Transition risk impacts on the Power Sector, drawing from existing policy (both
+Bangladesh specific and international), and further developments that may impact
+the Power sector. Examples of such policies are covered in Section 3.1 ‘ Drivers
+and Transmission Channels’.
+
+40CFRF, ‘Scenario Analysis Guide for Banks’. https://www.fca.org.uk/publication/corporate/cfrf-guide-2022-
+scenario-analysis-banking-guide.pdf
+41NGFS,
+‘Short
+Term
+Climate
+Scenarios
+for
+central
+banks
+and
+supervisors’.
+https://www.ngfs.net/en/publications-and-statistics/publications/ngfs-short-term-climate-scenarios-central-
+banks-and-supervisors
+42NGFS Long-term Climate Scenarios & Data Tutorial
+https://globalcreditdata.org/wp-content/uploads/2024/04/2024-04-17_NGFS-Scenarios-Data-Tutorial.pdf
+43 Guideline on Stress Testing 2024
+https://www.bb.org.bd/mediaroom/circulars/fsd/dec302024fsd01e.pdf
+
+--- Page 41 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+34
+iii. Transition risk impacts on the RMG and Textiles Sector, drawing from existing
+policy (both Bangladesh specific and international), and further developments that
+may impact the Power Sector. Examples of such policies are covered in Section
+3.1 ‘ Drivers and Transmission Channels’
+
+7.1.3. Leveraging Existing Scenarios
+Banks and Finance Companies should consider leveraging existing global climate scenarios
+and determining their country specific appropriateness based on the objective of the climate
+scenario analysis or stress testing exercise. These scenarios have established narratives,
+assumptions, climate pathways and expected macro trends (i.e. economic impacts,
+technological change, and energy consumption). In combination with these scenario outputs,
+Banks and Finance Companies can layer in portfolio-specific data to model adverse impacts
+from climate change. However, international recommendations are evolving, and some
+methodologies might be subject to challenge or review.
+7.1.4. Assessment Approaches
+a. Banks and Finance Companies may use bottom-up approaches, based on individual
+counterparty assessments, as well as top-down assessments using sector-location
+combination specifications, or a combination of the two.
+i) Top-down approaches consider macroeconomic trends in certain sector-location
+combinations to understand climate risk impacts channels. This approach assumes
+the same level of vulnerability and responses across all counterparties in a sector.
+This is a simpler approach and allows for comparability and analysis of systemic
+risks to the financial sector.
+ii) Bottom-up approaches assess the climate scenario impact on individual exposures.
+This involves the use of tools such as damage curves and carbon tax impact
+modelling on cash flows and balance sheets, incorporating counterparty specific
+information. This provides a greater depth of analysis and therefore better
+understanding of underlying risks. However, they require a resource-intensive
+data collection process and methodological construction.
+b. Best practice recommends Banks and Finance Companies to combine both bottom-up
+approaches as well as top-down assessments.44 As climate stress testing capabilities
+improve, Banks and Finance Companies may seek to develop combined approaches.
+c. Banks and Finance Companies shall consider the granularity of scenario variables to be
+used in their assessment approach, which should match the quality of data which Banks
+and Finance Companies will be able to collect internally. Banks and Finance Companies
+should collect a range of data on their counterparties. Data collected will vary depending
+on the use of top-down vs bottom-up approaches, but may include:
+i. Balance sheet and cash flow information.
+ii. Geographic location of their counterparties or counterparties key assets – coordinate
+level where possible, region within a country otherwise.
+iii. Asset dependence, such as the importance of the asset to the counterparty’s revenue
+generation.
+
+44An example of this approach is found in the Bank of England’s CBES: Bank of England, ‘Results of the 2021
+Climate Biennial Exploratory Scenario (CBES)’. https://www.bankofengland.co.uk/stress-testing/2022/results-
+of-the-2021-climate-biennial-exploratory-scenario
+
+--- Page 42 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+35
+iv. The sector in which their counterparty operates in to judge their sensitivity to climate
+hazards.
+v. Counterparty greenhouse emissions to assess financed emissions and counterparty
+vulnerability to transition risks.
+vi. Transition and adaptation plan of counterparties.
+vii. Key technologies leveraged by counterparties.
+viii. Expected physical damage to exposures arising from climate hazard-impacts.
+d. It is expected that climate scenario analysis and climate stress testing will use the best
+available data (i.e. emission intensity proxies) with the collection expected to improve as
+future iterations of this analysis is conducted. The more extensive the data collection and
+granularity, the more sophisticated a scenario analysis exercise can be.
+e. Based on the available data, Banks and Finance Companies shall define the key variables
+used in their assessment approach. Key variables include those covering the major trends
+and events occurring within a scenario, such as the imposition of carbon taxes or the
+occurrence of specific hazards, or broader changes such as changes in oil prices or the
+impact on Gross Domestic Product (GDP) from physical or transition risk events.
+f. The assessment approach shall be informed by the outputs needed to fulfil the agreed
+objectives of climate scenario analysis and climate stress testing. For example, the use of
+climate stress testing for risk management and capital may seek to measure the impact of
+lower revenues and profitability for corporates, leading to changes in credit risk PDs. On
+the other hand, the use of climate scenario analysis for strategy setting may assess the
+indirect impact of climate risk to the Bank or Finance Company from wider
+macroeconomic trends on the existing business model. A more targeted variable within a
+climate stress testing exercise could for example have outputs that model the relationship
+between the sensitivity of a Bank or Finance Company’s counterparties to a carbon price,
+leading to expected credit losses.
+
+7.1.5. Reporting
+a. Banks and Finance Companies shall report internally on the outputs of their climate
+scenario analysis and disclose key findings as part of their disclosures in their annual
+reports and in the regulatory reporting template attached to the guideline on Sustainability
+and Climate related financial Disclosure for Banks and Finance Companies.
+b. In addition to these outputs, Banks and Finance Companies shall disclose the assumptions
+and limitations of their climate scenario analysis.
+c. Given the uncertainty of climate change and the evolving nature of climate scenario
+analysis methodologies, Banks and Finance Companies shall recognize and account for
+the limitations of the selected scenarios when integrating the results into decision-making
+processes.
+
+7.2. Embedding Climate Scenario Analysis and Climate Stress Testing in
+Decision Making
+a. Banks and Finance Companies shall use climate scenario analysis and climate stress
+testing as part of their business strategy, financial planning and risk management.
+Embedding these insights allows Banks and Finance Companies to manage climate risk
+
+--- Page 43 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+36
+effectively while identifying transition opportunities (e.g., green investments) and
+adaptation measures (e.g., resilient infrastructure financing) for their portfolios.
+i. Use cases can also extend beyond traditional risk management, informing strategic
+decisions such as capital allocation and product offerings. Risk Appetite Adjustments:
+revising lending criteria or conditions based on vulnerabilities identified.
+ii. Counterparty engagement: identifying counterparties in key sectors which require
+further due diligence.
+iii. Management Action Plans: targeted actions to be taken by decision makers informed
+by the outputs of the climate scenario analysis and climate stress testing.
+
+
+8. Disclosures
+8.1. Disclosures
+a. Banks and Finance Companies shall disclose Sustainability and climate-related
+financial risks and opportunities following ‘Guideline on Sustainability and Climate-
+Related Financial Disclosure’ 45(2023). In particular:
+i. Banks and Finance Companies shall report their climate-related risks and
+opportunities semi-annually in line with this guideline and using the prescribed
+regulatory template.
+ii. Banks and Finance Companies shall follow the IFRS-S2 Climate-related
+Disclosure standards in order to issue clear, comprehensive and quality
+information on the exposure and management of climate risk.
+iii. The IFRS-S2 Standard requires Banks and Finance Companies to disclose
+information based on climate related risk and opportunities, transition plans and
+scenario analysis in order for users of the disclosures to assess the impact of
+climate related risk and opportunities on the Bank or Finance Company’s position,
+performance, strategy, and business model.
+iv. The Bank or Finance Company shall follow the four content pillars of the IFRS-
+S2, these include: (i) Governance; (ii) Strategy; (iii) Risk Management; and (iv)
+Metrics and Targets.
+v. The phased in implementation of the disclosure reporting requirements will
+increase Banks and Finance Companies’ expertise over the period.
+
+8.2. Transition and Adaptation Plans
+Banks and Finance Companies are required to disclose information on their strategy outlined
+in ‘Guideline on Sustainability and Climate-Related Financial Disclosure’ (2023) which shall
+include a climate-related transition plan. Banks and Finance Companies are encouraged to
+cover both mitigation and adaptation in these plans and disclosures.
+
+
+45
+Guideline
+on
+Sustainability
+and
+Climate-Related
+Financial
+Disclosure
+https://www.bb.org.bd/mediaroom/circulars/gbcrd/dec262023sfd06e.pdf
+
+--- Page 44 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+37
+9. Conclusion
+The Guideline on Climate Risk Management for Banks and Finance Companies represents a
+significant milestone in integrating climate considerations into Bangladesh’s financial sector.
+It establishes a robust framework for systematically identifying, assessing, and managing
+climate-related risks, while aligning domestic supervisory expectations with leading
+international standards such as the BCBS Principles, NGFS Recommendations, and ISSB
+Disclosure Requirements. Through this initiative, Bangladesh Bank underscores its strong
+commitment to building a climate resilient, transparent, and sustainable financial system.
+Effective implementation of this Guideline will enhance the ability of Banks and Finance
+Companies to mitigate climate-related financial risks and seize new opportunities in climate
+finance. By promoting sound climate risk governance and transparent disclosure, the
+Guideline will not only strengthen financial stability but also bolster foreign investors’
+confidence in the financial sector of Bangladesh. This confidence will further facilitate
+capital inflows, support innovation in climate finance, and reinforce the financial sector’s role
+in driving inclusive economic growth. The successful adoption of this Guideline will
+eventually empower financial institutions to protect stakeholders and catalyze transformative
+investments supporting Bangladesh’s transition toward a low-carbon and climate-resilient
+economy.
+
+--- Page 45 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+38
+Annexes
+
+Annex 1: Physical Risk Assessment
+Physical risk measurement approaches vary in terms of detail, resource and sophistication.
+For example, a qualitative approach using heatmaps or a quantitative approach can be used to
+assess the physical risk.
+1.1 Heatmap approach:
+a. Heatmap approach is a simple sensitivity map, where each sector is categorized
+according to its sensitivity to physical risk aligned with sectoral exposure in the
+portfolio. For example, this may categorise all Agricultural exposures as ‘high’
+physical risk, while service-based sectors such as ‘Media’ may be categorised as
+‘low’ physical risk. Detailed in the Good practices for climate-related and
+environmental risk management issued by the ECB.46
+1.2 Hazard database approach:
+a. Another approach can focus on the hazard(s) in the region, such as the risk of heat
+stress, or a composite indicator looking at the overall physical risk in the region.
+Instead of assigning a sector to a physical risk score based on its sensitivity, it assigns
+all exposures in a specific location to a physical risk score based on the hazard profile
+of the location.
+b. The benefit of this approach is the availability of public data sources, such as
+ThinkHazard47. Using this source would lead to assigning all assets in Bangladesh a
+‘High’ risk under the ‘Extreme Heat’ hazard. For ‘River Flood’, assets would be
+assigned either ‘Medium’ risk (if based in Barisal), or ‘High’ risk for all other
+districts.
+c. Banks and Finance Companies should ensure that they are measuring the risk of all
+relevant hazards within a country for every asset. An overall physical risk score can
+also be assigned as the highest level of physical risk to any relevant hazard, for
+example, the asset would receive the ‘High’ risk score overall.
+d. For example, Bangladesh’s Climate Vulnerability Index48 provides a risk score for
+geographic areas at the Union and Upazila level. Taking the example of heat stress,
+the heat stress indicator is made up of a normalized indicator (between 0-1) that
+considers both the increase in the number of heat waves and duration of heat waves,
+as well as the increase in the heat level. Taking the score of the Magura Sadar
+Upazila, heat stress is assigned a score of 0.49. For the livestock sector, other
+composite indicators are also available, including “Decrease in Livestock & Poultry
+
+46ECB,
+‘Good
+practices
+for
+climate-related
+and
+environmental
+risk
+management’.
+https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices1
+12022~b474fb8ed0.en.pdf
+47ThinkHazard! https://thinkhazard.org/
+48Ministry of Environment, Forest and Climate Change, ‘Nationwide Climate Vulnerability Assessment in
+Bangladesh June 2023’. https://climatefinance.erd.gov.bd/publications/16
+
+--- Page 46 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+39
+Health Vulnerability”, which is assigned a score of 0.67 for the same Upazila. The
+user can then convert this into a rating (e.g. High, Medium, Low, or 0-5) based on
+their own thresholds.
+e. The following points should be considered in selecting hazard risk score data:
+i. Hazard risk scores change over time. It is therefore important to source data that
+looks not only at current physical risk, but also future physical risk.
+ii. Hazard risk scores will increase in accuracy with further granularity of location.
+For example, assigning a river flood risk score to a city or town assumes the entire
+city or town has the same level of river flood – however, river flooding is highly
+localised and will only be high in areas closer to the river with specific terrain and
+with limited flood protection. Users should therefore seek data with higher levels
+of granularity for appropriate hazards.
+iii. Physical risk rating indicators such as probabilities of a particular event are
+converted into a standardized risk rating that allows for comparability. Banks and
+Finance Companies should define the threshold used to determine each rating (e.g.
+from the ThinkHazard methodology49, a high ‘River Flood’ risk is a 1 in 10 year
+or lower return period probability of a 0.5m flood happening, i.e. 10% or higher
+annual probability). Banks and Finance Companies should use thresholds that
+conform with their view of ‘high’ risk (e.g. if they consider a high flood risk
+should be a 20% annual probability for a 0.5m flood, they may seek a different
+indicator).
+1.3 Quantitative approach
+a. Physical risk can be assessed by both the hazard at a geographic location (e.g.,
+frequency and intensity of extreme weather events), and the vulnerability of the sector
+or counterparty to the relevant hazards. Following the IPCC’s approach to assessing
+physical risk outlined below, this ‘vulnerability’ component is comprised of
+‘sensitivity’ at a minimum, and can also include the adaptive capacity of the sector or
+counterparty.
+
+
+
+
+
+
+
+
+
+
+49ThinkHazard!, ‘Methodology Report’. https://thinkhazard.org/static/documents/thinkhazard-methodology-
+report_v2_0.pdf
+
+--- Page 47 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+40
+Figure 1: IPCC Physical Climate Risk Approach
+
+Source: ARIC Physical Climate Risk Assessment and Management: An Investor Playbook (2024). The formula
+is derived from the IPCC Fifth Assessment Report
+b. The same hazard risk sources outlined in the heatmap approach can be used to assess
+the first element. For the vulnerability element, the first consideration is sensitivity of
+the relevant activity (livestock production) to the hazard (heat stress). This should
+consider the value chain of that economic activity to understand how the hazard can
+impact the economic activity. Some considerations include:
+i. Direct impacts on livestock: Prolonged or excessive heat can cause livestock
+stress and dehydration, and increasing the prevalence of disease, decreasing
+livestock productivity.
+ii. Impacts on worker productivity: Workers cannot safely work outside without
+the risk of dehydration, exhaustion, or illness.
+iii. Impacts on facilities: Facilities such as cooling and refrigeration could be
+stressed leading to power cuts, damaging stock.
+iv. Supplies: Crops may suffer from heat stress, reducing the availability or cost of
+livestock feed.
+v. Transportation: Goods may be more susceptible to spoiling during
+transportation.
+c. Banks and Finance Companies should determine the Livestock Sector as ‘high’ (3)
+sensitivity to heat stress. The other step would be to consider adaptive capacity. This
+may include:
+i. Technical adaptation measures / livestock farming practices: such as altering
+grazing times to cooler parts of the day, rotating pastures to avoid heat-stressed
+areas, feed adjustments.
+ii. Physical adaptation measures: such as the installation of shelter and shade, use
+of cooling systems, water storage, use of heat stress resilient breeds.
+iii. Available mitigation: such as insurance, cash buffers or capital.
+
+--- Page 48 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+41
+d. By engaging with the counterparty on their adaptive capacity, the user may determine
+that the Livestock asset’s adaptive capacity reduces its sensitivity from ‘high’ (3) to
+‘medium’ (2).
+From this, the risk can be rated as follows:
+
+Heat stress risk = hazard risk * vulnerability
+= hazard risk * (sensitivity – adaptation)
+= 3 * 2
+This can then be quantified in a risk matrix:
+
+
+
+
+
+
+Data providers exist to produce both the hazard scores and sometimes the sensitivity score.
+See the UNEP-FI database50 for example.
+e. The potential losses as a result of physical risk should be quantified in the next steps.
+This considers:
+i. Revenue impacts: Reductions in revenue as a result of heat stress.
+ii. Operational costs: Higher use of cooling systems or increased repairs of
+equipment due to heat stress.
+iii. Capital expenditure: New investments in new breeds of livestock more resilient
+to heat stress.
+iv. Borrowing costs: as a result of new investments needed.
+These can lead to impacts on the balance sheet or income statement which in turn can
+be translated to standard risk metrics such as credit risk metrics.
+
+
+
+
+
+
+50
+UNEP
+FI,
+‘UNEP
+FI
+Dashboard:
+Environmental
+Risk
+Tools
+Overview’.
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.unepfi.org%2Fwordpress%2Fwp-
+content%2Fuploads%2F2024%2F09%2FQ3-Database_Master.xlsx
+
+Hazard risk
+Vulnerabili
+
+--- Page 49 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+42
+Annex 2: Transition Risk Assessment
+Banks and Finance Companies may use quantitative methodology as well as some qualitative
+considerations to assess transition risk. However, there is no common approach to assessing
+transition risk. For example, they can assess their transition risk posed to an asset in the
+RMG and Fabric Sector in Bangladesh.
+2.1 Carbon pricing
+a. Transition risk refers to the direct and indirect impacts of the transition to a lower-carbon
+economy. It is therefore primarily concerned with the current and future profile of the
+economy’s or counterparty’s emissions and emissions intensity. One consequence of this
+is the growing consensus towards the importance of a policy instrument known as ‘carbon
+pricing’ to transition to a decarbonized economy. According to the World Bank, carbon
+pricing is an instrument that captures the external costs of GHG emissions and ties them
+to their sources through a price, usually in the form of a price on the carbon dioxide (CO2)
+emitted. This helps shift the financial burden for the damage from GHG emissions back
+to those who are responsible for it, allowing emitters to decide to either transform their
+activities and lower their emissions, or continue emitting and paying for their emissions.
+b. For an RMG and Apparel asset, this assessment involves 1) estimating the emissions and
+or the emissions intensity of the company, 2) projecting the ‘carbon price’ under a given
+scenario, and 3) calculating the impact of the carbon price on the counterparty.
+For the Apparel Sector, one estimate suggests that producing 1 kg of fabric releases
+an average of 20–23 kg CO2e51.
+1. Assembly of garments is estimated to be responsible for only around 7% of
+emissions of garment production52, while the raw materials and processing of
+fabrics is responsible for about 91%. Using the upper estimate of the
+FabricSectors impact, this leads to around 1.77kg kg CO2e per kg of RMG
+products.
+For this, we will assume that the company in question produces 500 tonnes of
+fabric per year – equivalent to up to 11.5k tonnes of CO2e– and also produces
+500 tonnes of RMG products per year – equivalent to 885 tonnes of CO2e per
+year. Assuming this company produces and sells their own fabric, as well as
+creating RMG products, this leads to total emissions of 12.385k tonnes of
+CO2e per year.
+
+ii.
+Using the NGFS disorderly scenario, carbon prices are estimated under this scenario
+to reach $54.19 per tonne of CO2.
+iii.
+Therefore, the counterparty will pay an equivalent of roughly $671.1k per year
+production in the disorderly scenario.
+
+51Ashok
+Ramchandra
+Athalye,
+‘Carbon
+footprint
+in
+textile
+processing.
+https://www.researchgate.net/publication/293001306_Carbon_footprint_in_textile_processing
+52Quantis, ‘Measuring Fashion: Insights from the Environmental Impact of the Global Apparel and Footwear
+Industries’.
+https://catalogue.unccd.int/1359_measuringfashion_globalimpactstudy_full-
+report_quantis_cwf_2018a.pdf
+
+--- Page 50 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+43
+c. Banks and Finance Companies can use this carbon price to estimate the impact on
+profitability. In turn, this may be turned into a risk rating, such as from 0-5, using
+their own thresholds (e.g. if the carbon price imposes a cost of over 20% of revenue
+per year, this may be determined to be the highest score of 5).
+2.2 Other quantitative assessments
+A brief overview of two other commonly used frameworks are highlighted below:
+a. Stranded asset / shadow carbon pricing assessment:
+UNEP-FI describe stranded asset as the “process of collapsing expectations of future
+profits from invested capital (the asset) as a result of disruptive policy and/or
+technological change”.53 A commonly cited example is related to fossil fuel assets under
+certain transition risk scenarios, the value of fossil fuel reserves may become ‘stranded’
+due to policies such as carbon prices rendering the fossil fuel to be uneconomical. This
+can be assessed using a shadow carbon price assessment, which involves the following
+steps:
+i. For a given project, estimate income and costs under a business-as-usual scenario to
+calculate the Net Present Value (NPV).
+ii. Re-estimate the income, costs and NPV under a transition-risk scenario, specifically
+one that involves the implementation and / or increase in carbon prices. For example,
+this could consider the directtax implications of a carbon price on the project, or could
+consider the pass-through of a carbon price on key input materials from the project’s
+suppliers.
+iii. Test the price at which carbon pricing leads to a do not invest decision. The Bank or
+Finance Company will then need to consider the likelihood of such a carbon price.
+
+Stranded assets do not only come about as a result of carbon pricing, however, for
+example, stranded power production capacity may come about when the variable costs
+associated with a project’s power production exceeds the market price of electricity,
+which becomes a risk as other energy sources achieve significant efficiency
+improvements and capacity within the energy system. Stranded asset assessments
+consider different energy price trajectories in place of a carbon price.
+
+b. Portfolio Alignment
+Another type of assessment is the Portfolio Alignment tool, which helps to measure and
+monitor how aligned individual counterparties or entire portfolios are with a certain
+‘temperature’ pathway, such as a Paris Agreement aligned 1.5°C temperature. Different
+categories of alignment metrics are described in detail by GFANZ54, including:
+i. Binary target measurement: a dummy indicator metric indicating whether a
+counterparty has a portfolio with a science-based, validated target.
+
+53UNEP FI, ‘Assessing Climate Transition Risk: Methodologies and Roles for Financial Institutions’.
+https://www.unepfi.org/wordpress/wp-content/uploads/2021/02/UNEP-FI-The-Climate-Risk-Landscape.pdf
+54GFANZ, ‘Measuring Portfolio Alignment’.
+https://assets.bbhub.io/company/sites/63/2022/07/GFANZ-
+Portfolio-Alignment-Measurement-August2022.pdf
+
+--- Page 51 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+44
+ii. Maturity scale alignment: a categorical indicator metric assessing a counterparty’s
+performance or readiness to align with a 1.5°C temperature pathway.
+iii. Benchmark-divergence: a metric showing the alignment of a counterparty with a
+normative benchmark, which is typically a benchmark scenario emissions pathway for
+a typical company within a sector to reach 1.5°C. This is expressed as a percentage to
+measure the overshoot or undershoot of a company compared to the benchmark.
+iv. Implied temperature rise: these build on benchmark-divergence models and translate
+the degree of overshoot or undershoot into a ‘global warming impact’ in °C. The
+temperature represents the expected increase in temperature compared to pre-
+industrial levels by 2100 if the whole global economy were to over/undershoot their
+own benchmarks by the same proportion as the relevant investment.
+This involves a form of scenario analysis. A commonly used tool is the Paris
+Agreement Capital Transition Assessment (PACTA), described in more detail below.
+2.3 PACTA
+a. PACTA is a forward-looking climate scenario analysis tool which can assess the
+alignment of Banks or Finance Company’s corporate lending portfolios with various
+climate transition pathways, particularly those consistent with the Paris Agreement.
+The methodology focuses on identifying whether a portfolio’s underlying assets (via
+corporate capital expenditure and production plans) are on track with decarbonisation
+trajectories over the next five years. Critically, it evaluates whether the planned
+production of companies aligns with sectoral targets in scenarios, such as the IEA’s
+Net Zero by 2050, rather than relying only on current emissions or static financial
+exposures.
+b. PACTA can therefore be a useful tool for assessing, monitoring and benchmarking
+transition risk. By highlighting areas of misalignment that could translate into
+elevated credit, reputational, or litigation risks, PACTA can help to drive climate-
+related strategic planning at the counterparty and sectoral level.
+c. To run analysis using PACTA requires linking detailed, forward-looking physical
+asset datato financial exposures through corporate identifiers. It requires granular data
+collection including:
+i. Data on the credit portfolio such ascounterparty names, exposures, sector and
+technology allocation, and legal entity identifiers.
+ii. Forward-looking corporate-level 5-year production plans across key climate-
+relevant sectors such as power, automotive, oil and gas, steel, cement, and
+aviation. Data on production plans is broken down into different types of
+technologies such as ‘build-out’ technologies that need to be further built out in
+a transition to a lower carbon economy.
+d. PACTA analyses technology-level alignment of the counterparty by comparing
+projected production plans for the counterparty against decarbonization pathways for
+the relevant technology to meet a Paris Agreement aligned temperature outcome. For
+example, a counterparty’s energy production may be made up of a mixture of ‘build-
+out’ technologies (primarily renewable energy) and ‘phase-out’ technologies (such as
+coal or oil). PACTA will then compare the projected pathway of the energy
+generation mix to a hypothetical energy generation pathway that aligns with a Paris
+Agreement aligned temperature outcome – the counterparty is misaligned if its
+
+--- Page 52 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+45
+projected share of ‘phase-out’ technologies is higher than the share of the
+decarbonization pathway.
+e. An example of this approach can be seen in the ECB’s 2024 report 'Risks from
+misalignment of banks’ financing with the EU climate objectives'55. This analysis was
+used to highlight significant transition risks within EU banks’ credit portfolios, driven
+primarily by slow corporate transitions in high-emission sectors.
+f. Alternatively, Banks and Finance Companies can also refer to Sector Decarbonization
+Pathways published by the government, industry associations, and/or international
+think-tanks such as Climate Bond Initiative, Transition Pathway Initiative, etc. The
+Implied Temperature Rise methodology, developed by the CDP (formerly known as
+the Carbon Disclosure Project) and the World Wide Fund for Nature (WWF), can also
+be used.
+2.4 Qualitative assessment (scorecard approach)
+A qualitative assessment is also possible for assessing the RMG and Fabric Sector’s
+transition risk. This involves consideration of all the possible mechanisms by which the RMG
+Sector may be impacted in a transition. For example:
+a. International policies related to transition risks imposing additional costs on the RMG
+Sector. This could include:
+i. Expansion of the Carbon Border Adjustment Mechanism to cover RMG products,
+which would impose a carbon border tax on imports from outside of the EU.
+ii. Assessing the impact of the EU Strategy for Sustainable and Circular Textiles,
+requiring new capital expenditures and compliance costs related to stricter
+sustainability criteria (e.g. durability, recyclability).
+iii. Consideration of the compliance costs imposed by policies such as the Digital Product
+Passport56 which could require additional costs related to calculating and disclosing
+data such as on sourcing of raw materials, manufacturing processes, energy
+consumption, water usage, and carbon emissions associated with each garment.
+b. Nationally imposed laws such as a carbon price.
+c. Market level changes such as increases in energy prices, or consumer behaviours such as
+a move towards garments with higher durability or made in local markets.
+d. Interactions between these issues– a Digital Product Passport would provide greater
+transparency on the emissions of garments, which may lead to revenue impacts as a result
+of consumer behaviour shifts away from high emitting garments towards locally made
+garments.
+Banks and Finance Companies should weigh up the likelihood and impact of these
+different transition risks, and score the RMG and Apparel asset accordingly.
+
+
+55ECB,
+'Risks
+from
+misalignment
+of
+banks’
+financing
+with
+the
+EU
+climate
+objectives'.
+https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.bankingsectoralignmentreport202401~49c6513
+e71.en.pdf
+56EU,
+‘EU's
+Digital
+Product
+Passport:
+Advancing
+transparency
+and
+sustainability’.
+https://data.europa.eu/en/news-events/news/eus-digital-product-passport-advancing-transparency-and-
+sustainability
+
+--- Page 53 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+46
+Annex 3: Financed Emissions
+a. Financed emissions are the GHG emissions associated with a Bank or Finance
+Company’s lending and investment activities. They fall under Scope 3, Category 15 of
+the GHG Protocol and typically represent the largest share of a Bank or Finance
+Company’s overall emissions. Measuring these emissions is essential for assessing
+climate-related financial risks and aligning portfolios with national and international
+climate goals, such as Bangladesh’s NDCs.
+b. Banks and Finance Companies are encouraged to calculate financed emissions using
+internationally recognised standards, particularly the Partnership for Carbon Accounting
+Financials (PCAF) methodology and the GHG Protocol Financial Sector Guidance. These
+methodologies enable Banks and Finance Companies to estimate the emissions linked to
+their financial exposure to counterparties.
+c. A key element of the calculation is the attribution factor, which determines the proportion
+of a company’s emissions that can be attributed to the Bank or Finance Company’s
+involvement. The standard formula for attribution is:
+
+Figure 2: PCAF Financed Emissions Approach
+
+
+Source: PCAF
+
+d. This ratio is then multiplied by the counterparty’s absolute emissions (Scope 1 and 2, and
+Scope 3 where available) to determine the financed emissions attributable to the Bank or
+Finance Company. If actual emissions data are unavailable, sectoral or regional emission
+factors may be used, with appropriate data quality scores assigned, as per PCAF
+guidelines.
+e. Financed emissions are an important diagnostic for transition risk. Banks and Finance
+Companies should analyse how their portfolios, particularly in carbon-intensive sectors,
+are exposed to policy changes (e.g. carbon pricing, EU CBAM), market shifts, and
+technological disruption. This information can be used to stress test portfolios, assess
+credit quality, and inform capital planning.
+
+--- Page 54 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+47
+f. Monitoring financed emissions allows Banks and Finance Companies to:
+i. Align their lending strategies with national climate targets and sectoral transition
+pathways;
+ii. Set and track portfolio-level decarbonisation targets;
+iii. Identify clients or sectors with high emissions and low transition readiness; and
+iv. Prioritise green finance opportunities and support clients in developing transition
+plans.
+
+g. Banks and Finance Companies are expected to disclose financed emissions in line
+with emerging international and national requirements, including IFRS S2 and
+Bangladesh Bank climate disclosure frameworks. Disclosures should outline the
+methodology used, coverage (% of portfolio), data sources, assumptions, attribution
+approach, and progress against any emissions reduction targets.
+
+--- Page 55 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+48
+Annex 4: Data Collection Needs
+a. Data availability is one of the most important challenges to overcome when developing
+climate risk management standards. As part of plans to develop climate risk management
+capabilities, Banks and Finance Companies will need to consider what data they require,
+how they can obtain it, and when they need it. This will include general data
+requirements, such as data describing physical and transition risk drivers such as the
+probability of river flood risk at a given location, and counterparty or portfolio level
+information to assess their sensitivity to physical and transition risks. Collection of the
+different data is likely to include a mixture of use of public materials, use of data or
+service providers, and use of counterparty engagement to collect data.
+b. Data requirements may be broken down into more immediate needs to begin the climate
+risk management implementation plan, and further data requirements as the Bank or
+Finance Company advances the different elements of its climate risk management
+capabilities. However, these timelines may change depending on the prioritisation of their
+climate risk management implementation plan. For example, Banks and Finance
+Companies that have assessed higher exposure to physical risk in their portfolio may look
+to advance their physical risk management capabilities first, which may lead to
+prioritizing physical risk data.
+A high-level example of data collection needs is given below:
+Table 3: Data collection needs
+Physical risk
+Transition risk
+Foundation
+level
+data needs
+Advanced level data
+needs
+Foundation
+level
+data needs
+Advanced level data
+needs
+Counterparty /
+portfolio-level:
+i. Location of
+assets
+(coordinate level
+where possible)
+ii. Sensitivity of
+assets and
+sectors to
+physical risk
+Counterparty /
+portfolio-level:
+i. Dependence on
+key assets / sites
+in different
+locations (e.g.
+for revenue
+generation or
+cost savings)
+ii. Supply chain
+information and
+key locations
+iii. Adaptation
+measures in
+place
+iv. Adaptation Plan
+in place
+v. Financing needs
+
+Counterparty /
+portfolio-level:
+i. Scope 1 and 2
+emissions of
+counterparty
+ii. Key revenue
+sources –
+including
+developed
+economy exports
+(e.g. subject to
+CBAM)
+iii. Energy sources
+iv. Adaptive
+capacity
+Counterparty /
+portfolio-level:
+i. Scope 3
+emissions of
+counterparty
+ii. High-emitting
+supply chain
+inputs
+iii. Mitigation
+measures in
+place
+iv. Adaptation Plan
+v. Financing needs
+
+--- Page 56 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+49
+Physical risk
+Transition risk
+Foundation
+level
+data needs
+Advanced level data
+needs
+Foundation
+level
+data needs
+Advanced level data
+needs
+General:
+i. Chronic and
+acute hazard
+probabilities and
+trajectories at
+key locations,
+e.g. river
+flooding
+probability from
+current to long-
+term at most
+relevant
+locations.
+General:
+i. Granular
+chronic and
+acute hazard
+probabilities,
+e.g. river
+flooding
+probability from
+current to long-
+term at 1km level
+resolution.
+General:
+i. Country-specific
+decarbonisation
+policies
+ii. Sector-level
+decarbonisation
+pathways
+iii. Energy price
+projections
+General:
+i. Country-specific
+decarbonisation
+policy trajectory
+ii. Projections of
+key resources
+impacted by
+transition risk
+such as critical
+minerals
+
+c. Some of the more general data collection needs may also require monitoring of EWIs to
+enable an understanding on whether physical risks or transition risks are likely to impact
+the Bank or Finance Companyin the near future. Examples may include:
+i. Monitoring of national or sub-national policies, such as policies associated with
+achieving the NDC, which may come through sector specific regulations such as
+deforestation laws, water quality standards, or requirements or incentives to reduce
+carbon or methane emissions.
+ii. Monitoring of national or sub-national transition plan roll-out, such as successful or
+delayed building of infrastructure necessary to facilitate transition technologies such as
+renewable energy or electric vehicles.
+iii. International climate agreements or trade policies (such as the CBAM).
+iv. Materials and resources price changes, such as changes in energy prices, critical
+minerals, or other key resources.
+v. Market-level valuation and cost of capital changes, such as changes in cost of capital for
+carbon intensive companies.
+vi. Technological developments such as increased efficiency of competitive technologies
+or breakthroughs in key decarbonization technologies.
+vii. Real-time monitoring of acute events.
+viii. Long-term monitoring of chronic events.
+ix. Changes in biodiversity and ecosystem health, e.g. water availability.
+x. Client-level progress in implementation of Transition and Adaptation plans.
+
+These EWIs should be linked to a specific risk – for example, the implementation of
+carbon pricing as an incentive to reduce carbon emissions should be linked to monitoring
+of companies with high emissions intensity, who are therefore most likely to be impacted
+by this change.
+
+--- Page 57 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+50
+Annex 5: Climate Scenarios
+a. Scenarios published by international governance bodies include the International
+Energy Agency (IEA), Network for Greening the Financial System (NGFS), and the
+IPCC. Tables 4-6 detail the core characteristics, pathways and outputs of these
+scenarios.
+b. The NGFS scenarios provide categories of broad climate change roadmaps which
+detail different outcomes and impacts depending on the level of policy action
+correlating with different levels of physical risks. The NGFS outputs provide chronic
+climate impacts (i.e. GDP impacts and temperature changes) and transition macro
+trends (i.e. carbon prices and changes in energy prices).
+Table 4: NGFS Climate Scenario Breakdown
+(covering the 3 most commonly used scenarios)
+Scenarios
+Characteristics
+Implied Temperature
+Rise by 2100 (°C)
+Time Horizon
+Orderly Transition
+Assumes
+early,
+coordinated
+policy
+action
+to
+reduce
+emissions to achieve
+a smooth transition
+to
+low-carbon
+world.
+1.1°C – 1.8°C
+2020 – 2100
+Disorderly
+Transition
+Delayed
+and
+divergent
+global
+policy
+response,
+leading to abrupt
+and
+disruptive
+action that results in
+delayed
+emissions
+reductions.
+1.7°C
+2020 – 2100
+Hot House World
+Assumes limited or
+no
+additional
+climate
+policies,
+results
+in
+high
+emissions
+and
+significant physical
+risks from climate
+change.
+2.3 °C - 3°C
+2020 – 2100
+
+c. The IEA scenarios provide different roadmaps for the future of global energy systems,
+with each pathway detailing different weightings of policy ambition and technological
+progress. The IEA’s outputs can be used in climate risk scenario analysis, particularly
+
+--- Page 58 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+51
+transition risk assessment, to examine the impacts of changes to the energy markets,
+carbon pricing and investment trends.
+Table 5: IEA Climate Scenario Breakdown
+Scenarios
+Characteristics
+Implied
+Temperature Rise
+by 2100 (°C)
+Time Horizon
+Net
+Zero
+Emissions by
+2050
+Pathway
+shows
+how
+the
+energy sector achieves net
+zero emissions by 2050.
+1.6°C
+2020 – 2100
+Announced
+Pledges
+Scenario
+Scenario assumes that all
+climate commitments made by
+government and industries
+globally are met on time and
+in full.
+2.1°C
+2020 – 2100
+Stated Policies
+Scenario
+Current
+energy
+related
+policies,
+and
+energy
+technological
+capabilities
+remain the same.
+2.6°C
+2020 – 2100
+
+d. The IPCC scenarios combine the Representative Concentration Pathways (RCPs) and
+Shared Socio-Economic Pathways (SSPs) to describe the climate impact of a range of
+future emission end points relative to pre-industrial levels. The outputs of the IPCC
+scenarios can be used to model the impacts of acute and chronic events and trends
+across different climate pathways.
+Table 6: IPCC Climate Scenario Breakdown
+Scenarios
+Characteristics
+Implied Temperature
+Rise (°C)
+Time Horizon
+RCP
+2.6/
+SSP1-1.9
+Highly ambition mitigation
+scenario resulting in a
+rapid decline of emissions
+to achieve net-zero by
+2050.
+Limit Warming to
+1.7°C
+Up to 2100
+RCP4.5/SSP2-
+4.5
+Moderate
+policy
+action
+and
+technological
+development
+with
+emissions stabilizing by
+2050.
+Limit Warming to
+2.5°C
+Up to 2100
+RCP8.5/
+SSP5-8.5
+Business-as-usual scenario
+with no additional policies,
+resulting in high emissions
+and physical climate risks.
+Warming
+Exceeds
+4°C
+Up to 2100
+
+--- Page 59 ---
+Guideline on Climate Risk
+Management for Banks and
+Finance Companies
+
+
+52
+e. Banks and Finance Companies consider a mix of indicators selecting an existing
+global climate scenario, depending on the objective of the climate risk stress test
+including the following:
+i. Physical climate hazards in the scenario shall include acute events (i.e. flooding,
+tropical cyclones, extreme temperature changes), particularly for short-term
+scenarios, as well as chronic changes (i.e. water stress and erosion), particularly for
+long-term scenarios.
+ii. The impact of physical climate riskevents on a country’s economy (e.g. GDP
+growth, inflation, FX).
+iii. Climate policy roll-out nationally and / or internationally (e.g. carbon prices,
+CBAM).
+iv. Decarbonization of country’s energy mixes (e.g. renewable share of primary
+energy consumption).
+v. Forward-looking trends (i.e. green technology innovation).

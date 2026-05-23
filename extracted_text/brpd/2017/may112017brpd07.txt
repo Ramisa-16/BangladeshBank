@@ -1,0 +1,486 @@
+--- Page 1 ---
+website: www.bb.org.bd
+
+ব্যা্কিং প্রবিধি ও নীতি বিভাগ
+বাংলাদেশ ব্যাক
+প্রধান কার্যালয়
+ঢাকা।
+১১ মে, ২০১৭
+বিআরপিডি সার্কুলার নং-০৭ তারিখঃ ------------------
+২৮ বৈশাখ, ১৪২৪
+
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক |
+
+Guidelines on Credit Card Operations of Banks পরিপালন প্রসঙ্গে |
+
+পণ্য ও সেবা ক্রয়ের পর মূল্য পরিশোধে ক্রেডিট কার্ডের ব্যবহার সুবিধাজনক হওয়ায় এর প্রচলন ক্রমাগত বৃদ্ধি
+পাচ্ছে। ব্যাংকসমূহের ক্রেডিট কার্ড ব্যবসার স্বচ্ছ ও সুষ্ঠু পরিচালনা এবং সম্পৃক্ত ঝুঁকিসমূহ আরও কার্যকর ও ফলপ্রসূভাবে
+মোকাবেলা করার লক্ষ্যে বাংলাদেশ ব্যাংক এবং কতিপয় তফসিলি ব্যাংক ও সংশ্লিষ্ট স্টেকহোল্ডারদের মতামতের ভিত্তিতে প্রণীত
+Guidelines on Credit Card Operations of Banks এতদৃসঙ্গে সংযোজন করা হলো।
+
+ক্রেডিট কার্ড ব্যবসা পরিচালনার ক্ষেত্রে গাইডলাইন্সটি যথাযথভাবে অনুসরণ/পরিপালন করার জন্য AS সকলকে
+নির্দেশনা প্রদান করা হলো।
+
+এ নির্দেশ অবিলম্ষে কার্যকর হবে।
+
+আপনাদের বিশ্বস্ত
+
+
+(আবু ফরাহ মোঃ নাছের)
+মহাব্যবস্থাপক
+ফোন 8 ৯৫৩০২৫২
+
+--- Page 2 ---
+Guidelines on Credit Card Operations of Banks Page 1 of 10
+
+
+GUIDELINES ON CREDIT CARD OPERATIONS OF BANKS
+
+1. Introduction
+
+The use of “Credit Card” as a payment instrument for purchasing goods and services is
+increasing day by day. Because of convenience, security, increase in the number of
+electronic Point Of Sales (POS) outlets and incentives offered by credit card issuers, the
+usage of credit cards is flourishing.
+
+Considering the requirement of improving the electronic payment systems and the growth
+of domestic credit card operations, it is necessary to provide a framework of guidelines for
+the credit card issuing banks for managing the risks of their credit card business and as
+well as to protect the customers' interest. Following guidelines on credit card operations is
+issued by Bangladesh Bank (BB) to ensure safe, secure and efficient operations of credit
+cards as a payment instrument.
+2. What is a Credit Card
+
+The term “Credit Card” generally means a plastic or a virtual card issued by Card Issuer
+assigned to a Cardholder, unsecured/secured, loaded with revolving credit facility, that can
+be used for purchasing goods and services on credit or obtain cash advances. Credit cards
+allow Cardholders to pay for purchases made over a period of time, and to carry a balance
+from one billing cycle to the next, normally become payable after a free credit period
+during which no interest or financial charge is imposed. Interest is charged on the unpaid
+balance after the payment is due. For cash advances through credit cards, payment become
+due from transaction date and interest is charged on daily basis.
+3. Issuing Authority
+
+Credit card in Bangladesh Taka can be issued by any scheduled commercial bank in
+Bangladesh. But credit card in foreign currency is to be issued by Authorized Dealer (AD)
+banks only. For issuing credit card, prior approval from BB is not necessary. With the
+approval of their Board of Directors banks can issue credit cards.
+4. Stakeholders to a Credit Card
+
+A credit card scheme may involve the following stakeholders:
+
+a) Cardholders - persons who are authorized to use credit cards for the payment of
+goods and services, e-commerce and cash advances from ATMs or cash POS.
+b) Card Issuers - banks which are authorized to issue credit cards;
+c) Merchants - entities which agree to accept credit cards for payment of goods and
+services;
+
+--- Page 3 ---
+Guidelines on Credit Card Operations of Banks Page 2 of 10
+
+
+
+d) Merchant Acquirers - banks which enter into agreements with merchants to process
+their credit card transactions; and
+e) Credit Card Associations- The organizations which issue license to the Card
+Issuers under their trademark, e.g. Visa and Master Card, and provide settlement
+services for their members (i.e. Card Issuers and Merchant Acquirers).
+
+
+5. Types of Credit Cards
+
+Credit card can be broadly categorized into two types:
+
+a) General purpose cards: These cards can be used for making payment for
+purchasing any goods and services and are accepted by most of the merchants.
+Credit Card Associations (VISA, Master Card, JCB, AMEX) and most of the card
+issuing banks offer general purpose credit cards. These cards are normally
+categorized by the Issuer as platinum, gold or classic to differentiate the services
+offered on each card based on the income/repayment eligibility criteria.
+
+b) Private label cards: These cards are only accepted by specific retailers (e.g. a
+departmental store).
+
+Card Issuers may also issue Corporate Credit Cards to the employees of their corporate
+customers. A Supplementary Credit Card is an additional credit card that is issued under
+original or principal card where payment obligation is on the principal Cardholder.
+Foreign Currency Card for usage in abroad and Dual Currency Cards with global usage
+privileges i.e. both in Bangladesh and all over the world will prevail.
+
+6. Credit Limit and settlement
+
+a) The credit limit for credit cards should be limited up to the entitlement prescribed
+by Regulation-13 of Prudential Regulations for Consumer Financing (Regulation
+for Credit Cards) and their type.
+b) Cardholders will be allowed cash withdrawal up to 50% of the card limit as cash
+advances.
+
+c) In case of cards issued in foreign currency against balances held in various foreign
+currency deposit accounts (for example: Resident Foreign Currency Deposit
+Accounts, Exporters’ Retention Quota Account, etc.), the limit should be up-to the
+extent of balances held in respective accounts. In such cases, payment liability
+must be settled in foreign currency using balances of the respective accounts only.
+In special circumstances, where payment liability needs to be settled in taka, prior
+approval from BB (Foreign Exchange Policy Department) should be taken.
+
+d) In case of cards issued in foreign currency against various foreign currency
+entitlements (for example: Travel Quota, etc.) payment liability may be settled in
+Bangladesh Taka. In such cases the limit may be up to the extent of respective
+indicative limit (equivalent Bangladesh Taka) allocated to Bangladeshi nationals
+prescribed in Guidelines for Foreign Exchange Transactions (Vol-1), 2009 and
+
+--- Page 4 ---
+Guidelines on Credit Card Operations of Banks Page 3 of 10
+
+
+
+subsequent Foreign Exchange Circulars/Circular Letters subject to compliance
+with Regulation-13 of Prudential Regulations for Consumer Financing (Regulation
+for Credit Cards).
+
+e) In case of dual currency card, limit in Bangladesh currency and foreign currency
+should be clearly segregated and mentioned in the sanction letter separately
+wherein total exposure of the bank i.e. aggregate credit limit will be subject to
+Regulation-13 of Prudential Regulations for Consumer Financing (Regulation for
+Credit Cards) and subsequent circulars or circular letters issued from time to time
+by Bangladesh Bank.
+
+f) International credit card issued against balance held in ERQ account must ensure
+the use for bonafide business purpose as per Section-13, Para-29(i) of Guidelines
+for Foreign Exchange Transactions, 2009 and subsequent circulars or circular
+letters issued from time to time by Bangladesh Bank.
+7. Marketing of Credit Cards
+
+Following guidelines shall be taken into consideration by a Card Issuer to design and
+undertake the marketing strategies of a credit card:
+
+a) Credit Card Issuer shall develop comprehensive institutional policy on credit card
+operations and code of conduct duly approved by its Board of Directors and
+publish those in their official website. Card issuer shall also disclose those to the
+customers throughout the marketing process.
+b) The terms and conditions relating to the credit card shall be simple, clear and
+understandable. Any stipulation, caveat, clause or provision which may cause an
+unreasonable curtailment of rights of the customers shall not be included in the
+terms and conditions.
+c) Applicable terms and conditions shall be clearly communicated and shall be
+provided in legible font size to the customer in the preferred language (Bangla
+and/or English) of the customer at the time of issuing a credit card.
+d) These conditions must clearly highlight the Cardholder's liabilities and obligations,
+eligibility conditions, interest/profits, fees, service charges, other charges and their
+method of calculation, etc. The terms and conditions shall be displayed in the Card
+Issuer's official website.
+e) Any advertisements/promotional campaign that goes against the prevailing laws
+shall not be published/carried out by Card Issuers. No offer of prizes, rewards or
+other similar considerations against any coupon, ticket, number or figure shall be
+made by Card Issuers.
+
+--- Page 5 ---
+Guidelines on Credit Card Operations of Banks Page 4 of 10
+
+
+8. Eligibility of Customers
+
+
+Credit Card in Taka and/or Foreign Currency shall be issued only to an individual who has
+following eligibilities-
+
+
+a) Who is a citizen or resident of Bangladesh, who is above 18 years of age on the
+date of the application and has sufficient and independent financial ability to pay
+card related liabilities caused due to transaction.
+
+b) Issuance of credit card to non-resident/foreign nationals shall be subject to the
+provisions of Foreign Exchange Regulation Act, 1947, Guidelines for Foreign
+Exchange Transactions (Vol-1), 2009 and subsequent related directives issued by
+Foreign Exchange Policy Department from time to time.
+
+c) The customer must have a valid ETIN certificate and clean/new CIB report.
+
+d) Credit Card Issuer shall be solely responsible for fulfillment of all “Know Your
+Customer (KYC)” requirements and such documents shall be maintained under the
+safe custody.
+
+9. Issuing Principal Credit Cards
+
+
+a) Credit card shall be issued by a Card Issuer on receipt of duly filled and signed
+application from a prospective customer, supported with necessary documents.
+b) Card Issuer shall properly assess the credit risk before issuing credit card to any
+applicant and apply prudent risk management checks as they deem necessary.
+c) Card Issuer shall allow a reasonable limit to a Cardholder based on the credit
+worthiness after assessing his/her income statements. Card Issuer shall also obtain
+information available at the Credit Information Bureau (CIB) while assessing the
+credit worthiness of the customer.
+d) Cardholder who is holding several credit cards, Card Issuer shall take a declaration
+on the cards the customer possesses and an undertaking about the surety of such
+declaration.
+e) Card Issuer shall ensure appropriate collateralization of the amount in excess of the
+“Maximum Unsecured Limit” allowed under credit card to a Cardholder as
+stipulated in Regulation-13 of Prudential Regulations for Consumer Financing
+(Regulation for Credit Cards).
+
+
+10. Issuing Supplementary Credit Cards
+
+a) A supplementary or add-on card shall not be issued to any person who is below 18
+years of age. Exceptions however can be made in case of students aged between
+16-18 years who are direct dependent of the principal Cardholder and for
+educational purposes only. Card Issuer shall be extra cautious and assess the credit
+risk while issuing supplementary cards to persons with no independent financial
+means.
+b) Card Issuers shall make it clear to the principal Cardholder that he/she is ultimately
+liable for all the liabilities incurred by the supplementary Cardholders.
+
+--- Page 6 ---
+Guidelines on Credit Card Operations of Banks Page 5 of 10
+
+
+
+c) Card Issuers are advised not to issue any supplementary foreign currency or dual
+currency credit cards.
+
+11. Issuing Corporate Credit Cards
+a) Corporate credit cards can be issued to an employee or officer (being a director,
+member of the committee of management, chief executive, manager, secretary or
+other similar officer) of a body corporate.
+b) In case of corporate cards the body corporate shall bear sole liability for any
+amount charged to the credit card.
+c) While issuing corporate credit cards, the responsibilities and liabilities of the
+corporate and its employees must be clearly specified.
+d) Card Issuers shall consider the financial status of the corporations that apply for
+corporate credit cards instead of financial ability of individual cardholders.
+e) Corporate credit cards will not fall under the 'Consumer Financing' category and
+shall be regulated by existing guidelines/regulations for lending to corporate
+clients.
+12. Terms of contract, Interest/profit rates and other charges
+
+Card Issuer shall have to adhere to the following guidelines relating to the terms and
+conditions, interest/profit rates and other charges on credit cards:
+a) Card Issuers shall specify a period of validity for the card, not exceeding 5 years
+from the date of issuance/renewal, taking into consideration the usage purposes
+and repayment capability of the Cardholder.
+b) Card Issuers shall quote profit/interest rates and service charges (if any) on annual
+basis; separately for purchasing of goods & services and cash advances, if
+different.
+c) The interest/profit rate on the outstanding amount of Credit Card shall not exceed
+5% of the highest interest rate offered in other Consumer Credits. Interest/ Profit
+should be charged on the unpaid amount due for payment.
+d) The method of calculation of interest/profit and other charges, number of days,
+minimum payment due, outstanding unpaid amount, etc. should be clearly
+explained and properly disclosed to the customers.
+e) Any revision in the schedule of interest/profit rates, charges/fees, or terms and
+conditions and revision of any incentive, shall be communicated to all active
+Cardholders in legible writing/electronic means at least thirty (30) days before the
+effective date of such revision.
+f) Card Issuers shall not levy any charge, that was not explicitly indicated at the time
+of issuance, without getting Cardholder's prior consent. However, this would not
+
+--- Page 7 ---
+Guidelines on Credit Card Operations of Banks Page 6 of 10
+
+
+
+be applicable to excise duty, tax or charges levied by the Government or any
+statutory authority.
+g) Card Issuers shall not unilaterally enhance or upgrade credit card type/limit
+without getting consent from the Cardholder in writing.
+h) Cardholders who wishes to surrender a card due to any change in terms, rates or
+charges to his/her disadvantage shall be permitted to do so without being levied
+any extra charge for such closure.
+i) Credit cards are not to be used for any activity or transactions deemed as unlawful
+or an offence under Bangladesh Law - the terms should state this clearly. If any
+Cardholder use credit card for such unlawful activity, Card Issuer shall
+immediately terminate the card facility and inform it in details to BB as soon as
+possible.
+13. Billing Process
+
+a) Card Issuer shall provide the Cardholders a statement of accounts in writing or in
+electronic means at the end of each month (billing period) fully disclosing the
+transaction details including the calculation of interest/profit & charges (if any),
+late payment charges (if any), due date and mode of payment etc.
+b) Card Issuer shall dispatch such billing statement to each active Cardholder at the
+end of each billing period at least fourteen (14) calendar days before the payment
+due date.
+c) If a Cardholder complains non-receipt of billing statement, a copy of it shall be
+dispatched to the Cardholder free of charge within five (5) working days from the
+date of receipt of such complaint.
+d) Card Issuer shall make comprehensive and convenient arrangement for collection
+of bills through their designated branches, collection booth/centers or other
+electronic channels.
+e) Card Issuer shall inform the Cardholder about the status of the unrealized cheques
+within five (5) working days from the receipt of returned (unpaid) cheques.
+Cardholder shall not be penalized for cheques which was submitted within time but
+not cleared before due date.
+f) Card Issuer shall ensure that ‘due date’ does not fall on Friday, Saturday or any
+other public/bank holidays published by Government/BB at the beginning of each
+year. Card Issuer shall allow grace period of 1 or 2 days if due date falls on a
+holiday.
+g) Card Issuer shall ensure that wrong bills are not made and issued to Cardholders.
+In case a Cardholder protests any bill, the Card Issuer should provide explanations
+and, if necessary, documentary evidences to the Cardholder within a maximum
+period of sixty (60) calendar days with a spirit to amicably redress the grievances.
+
+--- Page 8 ---
+Guidelines on Credit Card Operations of Banks Page 7 of 10
+
+
+14. Collection/Recovery Mechanism
+
+a) At the time of issuance, the Card Issuer should properly communicate to the
+Customer the procedure of recovery in case of default payments.
+
+b) Recovery letters should be issued to the last known addresses of the Cardholder
+which should bear the designation, contact number(s) and office address of the
+concerned officials.
+
+c) Any verbal or physical harassment or threats to the Cardholders, their family
+members, references or friends shall not be resorted in the recovery process.
+Recovery/Collection officers also should not intrude the privacy of the
+Cardholder’s family members, referees and friends.
+
+d) Telephone calls and visits for recovery of unpaid dues should be restricted to a
+convenient time as defined in the published policy of the Card Issuer and
+communicated to customers at the time of issuance of Credit Card.
+
+e) A credit card account will be treated as overdue if the minimum amount due, as
+mentioned in the statement, is not paid fully within the due date. Banks should
+report such overdue credit card accounts to Credit Information Bureau as stipulated
+in CIB Circular No. 02 dated 04 May 2011, and as amended from time to time.
+
+15. Protection of Customer Rights
+
+a) The Card Issuer shall not reveal any information relating to Cardholders obtained
+at the time of opening the account or issuing the credit card to any other person or
+organization without obtaining specific consent of the Cardholder.
+b) The disclosure to third party service providers/recovery agents (if any) shall be
+kept minimal but just enough to discharge their duties. Personal information that
+are not required for recovery purposes should not be released by the Card Issuer.
+Card Issuer shall also ensure that the third party service providers/recovery agents
+do not transfer or misuse any customer information.
+c) Unsolicited loans or other facilities shall not be offered to the Cardholders based
+on the credit card.
+
+16. Dispute Resolution
+
+a) The Card Issuer shall put in place an appropriate dispute resolution mechanism
+commensurate with the volume of complaints. The details of such mechanism
+should be put in public domain through official website.
+
+b) The name, designation, address and contact number of important officials as well
+as the dispute resolution officer of the Card Issuer shall be displayed on the
+website.
+
+c) There should be a system of acknowledging customer complaints for follow up,
+such as complaint/docket number, even if the complaints are received on phone.
+
+--- Page 9 ---
+Guidelines on Credit Card Operations of Banks Page 8 of 10
+
+
+
+d) Card Issuer shall clearly communicate to the Cardholders, whether they would be
+allowed to use the Credit Card during the investigation period in the event of a
+dispute.
+e) The Card Issuer shall establish a mechanism to automatically escalate unresolved
+complaints from a call center to higher authorities.
+f) The Card Issuer shall resolve the disputed transaction of the Cardholder promptly
+and as per the franchise rules of VISA, Master Card, or any other international card
+company/association, taking into account the nature of the transaction, distances,
+time zone, etc.
+17. Internal control, monitoring and compliance
+
+a) To minimize the financial and any other associated risks, Card Issuer shall have
+prudent and sound management, administrative, accounting and control
+procedures. Card Issuer shall review effectiveness of those arrangements and
+procedures periodically and should be updated accordingly.
+b) Card Issuer shall have a comprehensive, rigorous and well documented operational
+and technical procedures to ensure reasonable operational reliability, integrity of
+network and timeliness of transactions. Card Issuer shall have an adequate number
+of properly trained and competent personnel to operate the systems smoothly.
+c) Card Issuer shall also have an effective, well-documented and regularly tested
+business contingency plan to be used in the event of unforeseen interruption.
+d) Card Issuer shall have proper due diligence and oversight process for managing the
+outsourced activities, especially if such outsourcing may affect the credit card
+operations.
+e) Card Issuer shall conduct regular assessments, at least once a year, of the
+compliance with the Regulations, Guidelines and Code of Conduct. Internal
+auditors, internal compliance officer or appointed independent assessor may
+perform these functions.
+f) Card Issuer shall maintain proper data base and data recovery system pertinent to
+credit card operations for overall management, monitoring and control purpose.
+18. Fraud Control
+
+a) Card Issuer shall set up internal control systems to combat frauds and take
+proactive fraud control and enforcement measures. Card Issuer shall actively
+participate in fraud prevention committees/task forces which formulate laws,
+regulations & strategies to prevent frauds.
+b) After each successful credit card transaction, Card Issuer shall notify (SMS/Email
+alert) the individual transacted amount to the Cardholder.
+
+--- Page 10 ---
+Guidelines on Credit Card Operations of Banks Page 9 of 10
+
+
+
+c) Card Issuers shall block a lost card immediately on being informed by the
+Cardholder. Card Issuer shall be liable for all transactions which are not authorized
+by the Cardholders if it has been properly noticed that the card has been lost/stolen.
+
+d) Card Issuer may consider introducing, at the option of the customers, an insurance
+cover to take care of the liabilities arising out of lost/stolen cards.
+e) The enlisting of merchants shall be done after proper due diligence and evaluation.
+Card issuer shall educate the merchants about the use of POS machine,
+genuineness and security features of credit card, signature verification and their
+rights and responsibilities under the agreement.
+f) Employees those are specialized in fraud monitoring and investigation are to be
+placed in risk management department.
+19. Security of Credit Cards
+
+a) A PIN code or biometric safety measure should be ensured in point of sales outlets
+(POS) for card security. Two Factor Authentication (2FA) for all domestic face to
+face POS transactions, 3D Secure Application for e-commerce transactions, SMS
+and Email alert for credit card transaction must be ensured.
+b) Card Issuer shall implement EMV chip technology that will help increase security,
+reduce fraud and enable the use of future value added applications.
+c) Card Issuer shall ensure that all applications used for card banking solutions are
+Payment Card Industry Data Security Standard (PCIDSS) compliant. They should
+ensure that all card related data processing, storage, transmission and operational
+activities are carried out in compliance with PCIDSS requirements.
+d) Card Issuer shall have a central monitoring system that ensures 24x7 security. If
+any unusual activity happens in credit card related transaction system, the
+monitoring team will notify related stakeholders and take necessary measures.
+e) To control malicious and suspicious traffic, effective firewalls should be
+implemented in core and all perimeter zones. Updated anti-virus software solutions
+should be put in place for protecting worms, malware threats.
+f) All activities within the card life cycle process i.e. card production, PIN
+generation, card activation, card deactivation and customer communications should
+be handled properly and separately.
+g) Security log, Exception log and Transaction log of cards shall be preserved
+properly for troubleshooting and security purposes and these should be reviewed
+periodically.
+h) The ICT policy of the card issuing bank should be updated regularly keeping pace
+with trending technologies, new risk management tools and most recent BB ICT
+Guidelines. The employees should be made aware of such ICT policy and trained
+on Security & Technology Operations.
+
+--- Page 11 ---
+Guidelines on Credit Card Operations of Banks Page 10 of 10
+
+
+
+20. Other Legal & Regulatory issues
+
+a) Card Issuer shall ensure that contractual relationships with all relevant parties (both
+domestic and cross-border) are valid and enforceable in lawful court.
+b) Card Issuer shall timely perform the classification & provisioning on overdue
+credit card loans in accordance with the applicable rules & regulations issued by
+BB from time to time.
+c) As a means of payment, credit card operations are also be subject to relevant
+circulars/guidelines issued by Payment Systems Department (PSD) from time to
+time. Card Issuer shall ensure compliance with such PSD instructions.
+d) Card Issuer shall ensure that the instructions contained in BRPD Circular No. 02
+dated 19 January 2015 are complied with when outsourcing any credit card
+activities permitted under that circular.
+e) The instructions/guidelines on KYC/AML/CFT issued by Bangladesh Financial
+Intelligence Unit from time to time must be adhered to in respect of all parties and
+transactions related to credit card operations.

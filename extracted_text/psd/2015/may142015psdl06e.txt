@@ -1,0 +1,4874 @@
+--- Page 1 ---
+www.bangladeshbank.org.bd
+www.bb.org.bd
+Payment Systems Department
+Bangladesh Bank
+Head Office
+Dhaka.
+
+14 May, 2015
+PSD Circular Letter No: 06/2015 Date: ---------------------------
+31 Boishakh, 1422
+
+
+Managing Directors/CEO
+All Scheduled Banks in Bangladesh
+
+
+Dear Sir,
+
+National Payment Switch Bangladesh (NPSB)
+Switch Operating Rules & User Manual: Disputes Management Rules
+
+
+As per the Section 7(A)e of the Bangladesh Bank Order 1972 Bangladesh Bank has adopted
+the guideline titled "NPSB Switch Operating Rules & User Manual: Dispute Management Rules" to
+ensure the development, safety, efficiency and regulation of countries Payment System. Hence, all the
+banks connected to the National Payment Switch Bangladesh (NPSB) are hereby advised to follow
+the procedure depicted in the said guideline while managing disputes related to NPSB. The directives
+has been executed as per section 49(1)uma of the Bank Company Act 1991 (amended 2013).
+
+The guideline can be collected from the official web site of Bangladesh Bank.
+
+The guideline shall come into force immediately.
+
+Please acknowledge receipt.
+
+
+
+Enclosure:
+NPSB Switch Operating Rules & User Manual:
+Disputes Management Rules.
+
+Sincerely Yours,
+
+
+(K.M. Abdul Wadood)
+General Manager
+Phone: 9530174
+Fax: 9530096
+E-mail: abdul.wadood@bb.org.bd
+
+--- Page 2 ---
+Na
+Sw
+Sw
+atio
+witch
+witch O
+Di
+onal
+h B
+(NP
+Operat
+Ma
+Disputes Ma
+l Pa
+Bang
+PSB
+
+ting Ru
+anual:
+Managemen
+aym
+gla
+ules &
+nt Rules
+men
+des
+& User
+nt
+sh
+
+--- Page 3 ---
+Nationa
+(NPSB)
+
+
+Table
+In
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+Ty
+2.1
+2.2
+2.3
+2.4
+3.1
+3.2
+3.3
+al Payment Sw
+e of Conten
+ntroduction ....
+Prologue
+Copy Req
+Minimum
+Minimum
+Fulfillmen
+Process L
+Designate
+ypes of Dispu
+Claims: ..
+Domestic
+.2.1
+Claims
+.2.2
+Fraudu
+.2.3
+Claims
+.2.4
+Dispute
+Issuer Fra
+Acquirer
+.4.1
+Arbitra
+.4.2
+Charge
+.4.3
+Re-pre
+.4.4
+Fees an
+Appendix 1: NP
+Chargeba
+Re-presen
+Second C
+itch Banglades
+nt
+quest ............
+m Data Requir
+m Data Requir
+nt .................
+Limitations ...
+ed Officers ...
+utes ...............
+transactions
+s raised by an
+ulent transact
+s raised by an
+es handling p
+aud Reportin
+Urgent Inves
+ation process
+eback Docum
+sentment Doc
+nd charges ....
+PSB Reason C
+ack Reason C
+ntment Reaso
+hargeback R
+sh
+rements for P
+rements for A
+Disputes ......
+n Issuer bank .
+tions: ............
+n Acquirer ba
+process ...........
+ng: .................
+stigation Requ
+& Timefram
+mentation: ......
+cumentation:
+Codes .............
+Codes for ATM
+on Codes for A
+Reason Codes
+POS ..............
+ATM Journal
+ank ................
+uest (UIR) ....
+mes .................
+ATM: ...........
+for ATM: ....
+Oper
+l Requests ....
+rating Rules &
+Dispute Manag
+
+User Manual:
+gement Rules
+Page 2 of 37
+................. 10
+................. 11
+................. 11
+................. 11
+................. 11
+................. 11
+................. 11
+................. 12
+................. 13
+................. 13
+................. 13
+................. 14
+................. 15
+................. 15
+................. 16
+................. 16
+................. 21
+................. 22
+
+--- Page 4 ---
+Nationa
+(NPSB)
+
+3.4
+3.5
+3.6
+
+Tabl
+Figu
+Figu
+
+
+
+al Payment Sw
+Chargeba
+Re-presen
+Second C
+le of Flow
+ure 1 - Basic D
+ure 2 - Basic R
+itch Banglades
+ack Reason C
+ntment Reaso
+hargeback R
+w Diagram
+Dispute Man
+Retrieval Req
+sh
+Codes for POS
+on Codes for P
+Reason Codes
+ms
+nagement Cyc
+quest Cycle ...
+
+POS: ............
+for POS: ......
+cle .................
+Oper
+rating Rules &
+Dispute Manag
+
+User Manual:
+gement Rules
+Page 3 of 37
+................. 27
+................. 32
+................. 33
+
+--- Page 5 ---
+Nationa
+(NPSB)
+
+In
+1.1
+
+al Payment Sw
+ntroduction
+Prologue
+Disputes ma
+specific tran
+bank will in
+appropriate p
+The objectiv
+the need for
+resolve dispu
+The settleme
+adjustments.
+NPSB will s
+and view cor
+The NPSB D
+interface that
+to view copy
+NPSB will
+collections
+Management
+itch Banglades
+ay arise as a
+nsaction or n
+nitiate a dispu
+proving docu
+ve of dispute
+an adjustme
+utes, errors an
+ent team at
+These adjus
+store dispute
+rresponding d
+Disputes Te
+t has access
+y requests, ch
+be respons
+and arbitrat
+t Rules may
+sh
+result of the
+not receiving
+ute process b
+uments.
+resolution m
+ent as a resul
+nd other issue
+NPSB will h
+stments coul
+details and
+dispute detail
+am at Bangl
+to the NPSB
+hargebacks, re
+sible for m
+tion requests
+be modified
+
+e cardholder
+the service/
+by submitting
+mechanism is
+lt of a claim.
+es as quickly
+handle dispu
+ld be the res
+NPSB staff
+ls at the requ
+ladesh Bank
+B database an
+e-presentmen
+monitoring d
+s. It is als
+with market
+Oper
+claiming th
+/goods as ag
+g a claim fo
+s to determin
+All member
+y as possible.
+utes and any
+sult of a disp
+may perform
+est of NPSB
+k will be pro
+nd through w
+nts and secon
+dispute timef
+so mentiona
+practice.
+rating Rules &
+Dispute Manag
+
+at they did n
+greed. An Is
+or dispute, at
+ne, as quickly
+rs shall fully
+
+y resulting M
+pute or for o
+m inquires on
+Member ban
+ovided acces
+which they ha
+nd chargeback
+frames, fulf
+able here th
+User Manual:
+gement Rules
+Page 4 of 37
+not execute a
+suer membe
+ttached to the
+y as possible
+y cooperate to
+Member Bank
+other reasons
+n transaction
+nks.
+s to the use
+ave the ability
+ks..
+fillments, fee
+hat, Dispute
+er
+er
+
+--- Page 6 ---
+Nationa
+(NPSB)
+
+al Payment Sw
+The figure b
+itch Banglades
+below illustr
+Figure 1
+sh
+rates a dispu
+1 - Basic Dis
+te managem
+spute Mana
+Oper
+ment process
+agement Cy
+rating Rules &
+Dispute Manag
+
+ycle
+User Manual:
+gement Rules
+Page 5 of 37
+
+--- Page 7 ---
+Nationa
+(NPSB)
+
+
+1.2
+1.3
+1.4
+al Payment Sw
+Copy Reques
+When the Iss
+Retrieval Re
+Acquirer for
+sufficient det
+the Documen
+a Retrieval R
+ Req
+ Tra
+ Car
+ Fra
+ AT
+Minimum Da
+Each Copy R
+ Au
+ Car
+ Tra
+ Tra
+ Me
+ Tra
+ Ter
+Minimum Da
+ Car
+ Tra
+ Ter
+itch Banglades
+st
+suer requires
+equest Notifi
+r Fulfillment
+tails of the T
+nt Type bein
+Request are:
+quest for cop
+avel & Entert
+rdholder requ
+aud analysis r
+TM Journal R
+ata Requirem
+Retrieval Req
+uthorization/A
+rd Number (M
+ansaction amo
+ansaction Dat
+erchant Name
+ansaction Ide
+rminal ID
+ata Requirem
+rd Number (M
+ansaction Dat
+rminal ID
+sh
+s a copy of th
+ication messa
+t. The Retrie
+Transaction to
+ng requested.
+py bearing sig
+tainment (T&
+uest due to di
+request
+Request
+ments for POS
+quest must co
+Approval Cod
+Masking)
+ount with cur
+te of original
+e and Addres
+ntifier, if pre
+ments for ATM
+Masked)
+te and time
+he ROC or ot
+age to the N
+eval Request
+o allow the A
+The most co
+gnature
+&E) Documen
+ispute
+ontain at least
+de
+rrency
+l Presentment
+ss
+esent in the or
+M Journal Re
+Oper
+ther documen
+NPSB, which
+t Notificatio
+Acquirer to ide
+ommon reaso
+nt request
+t the followin
+riginal Presen
+equests
+rating Rules &
+Dispute Manag
+
+ntation, the I
+h then passes
+on message m
+entify it and
+ons for an Iss
+ng data:
+ntment
+User Manual:
+gement Rules
+Page 6 of 37
+Issuer sends a
+s it on to the
+must provide
+must indicate
+suer to initiate
+
+--- Page 8 ---
+Nationa
+(NPSB)
+
+1.5
+
+al Payment Sw
+ Ap
+ STA
+ Tra
+ Com
+ AT
+
+Fulfillment
+Fulfillment i
+of the Issuer'
+When provi
+provides pro
+itch Banglades
+proval Code
+AN Value
+ansaction Am
+mments (Cas
+TM Journal L
+is the transfe
+'s Retrieval R
+iding docum
+of of delivery
+sh
+mount with cu
+sh Retracted
+Log (For ATM
+r of Docume
+Request.
+mentation to
+
+urrency
+or Received)
+M Journal Re
+entation from
+a participan
+Oper
+equest)
+m the Acquire
+nt, it must b
+rating Rules &
+Dispute Manag
+
+er to the Issu
+be sent in a
+User Manual:
+gement Rules
+Page 7 of 37
+uer in suppor
+manner tha
+rt
+at
+
+--- Page 9 ---
+Nationa
+(NPSB)
+
+Basic
+
+al Payment Sw
+Retrieval Re
+itch Banglades
+equest & Fu
+Figure
+sh
+ulfillment Pr
+e 2 - Basic R
+rocess:
+Retrieval Re
+Oper
+equest Cycl
+rating Rules &
+Dispute Manag
+
+User Manual:
+gement Rules
+Page 8 of 37
+
+--- Page 10 ---
+National Pa
+(NPSB)
+1.6
+Pro
+The
+tim
+dat
+NP
+Item
+Dis
+Card
+initi
+Cop
+Issu
+acce
+rejec
+custo
+Issu
+first
+Acq
+claim
+re-pr
+Issu
+claim
+seco
+char
+Acq
+for a
+Arbi
+com
+
+Ch
+be
+ayment Switch
+ocess Limitati
+e submission
+me and amoun
+te the dispute
+PSB; and on r
+spute Action
+dholder
+ates claim
+y Request
+er’s
+eptance or
+ction of
+omer's claim
+er initiates
+chargeback
+quirer accepts
+m or initiates
+resentment
+er accepts
+m or initiates
+ond
+rgeback
+quirer applies
+arbitration
+itration
+mpleted
+
+argeback cla
+rejected and
+Bangladesh
+ions
+n of claims an
+nts as shown
+e was entere
+response cou
+Timeli
+calen
+day
+60
+10
+25
+30
+20
+15
+20
+18
+aims submitte
+subject to fee
+nd tracing req
+n in Table 1. T
+ed into the ce
+nted from the
+ine in
+ndar
+ys
+From
+proc
+tran
+From
+Card
+claim
+From
+Acq
+resp
+requ
+From
+char
+rece
+From
+pres
+was
+From
+seco
+rece
+From
+acqu
+arbi
+Max
+assu
+allow
+Table 1 - Dis
+ed or respond
+es as set out i
+quests shall b
+The time lim
+entral Disput
+e date of rece
+Timed fro
+m the time N
+cessed the
+nsaction
+m the time
+dholder initi
+m the time
+quiring Bank
+ponses on the
+uest.
+m the time th
+rgeback requ
+eived
+m the time th
+sentment req
+received
+m the time th
+ond chargeba
+eived
+m the time th
+uirer applies
+tration
+ximum numb
+uming that al
+wed.
+spute Timef
+ded to after t
+in the NPSB
+Operatin
+Disp
+be subject to
+mits on claim
+tes Managem
+eiving the req
+om
+NPSB
+iates the
+e copy
+in
+fr
+th
+he first
+uest was
+th
+he re-
+quest
+th
+he
+ack was
+
+he
+s for
+
+ber of days t
+ll the steps ta
+frames
+the dates sho
+Fees and Ch
+ng Rules & Use
+pute Managem
+the followin
+submissions
+ment System
+quest or the c
+Allowing for
+cycles plus a
+cushion.
+Claim maybe
+ncorrect or d
+raudulent, fo
+This time per
+he days alloc
+This time per
+he days alloc
+This time per
+he days alloc
+the entire pro
+ake the max
+wn in the tab
+harges regulat
+er Manual:
+ment Rules
+Page 9 of 3
+ng limitation
+s start from th
+(DMS) at th
+claim.
+Notes
+r 2 statement
+few days'
+e procedurall
+deemed
+or example.
+riod includes
+cated to step
+riod includes
+cated to step
+riod includes
+cated to step
+ocess can tak
+imum time
+ble above ma
+tions.
+37
+in
+he
+he
+ly
+p 2.
+p 4.
+p 5.
+ke,
+ay
+
+--- Page 11 ---
+National Pa
+(NPSB)
+1.7
+Des
+Eac
+con
+be
+tele
+ayment Switch
+signated Offic
+ch Member
+ntact for NPS
+appointed. E
+ephone numb
+Bangladesh
+cers
+Bank should
+SB staff hand
+Each bank is r
+bers and Ema
+d nominate a
+dling Dispute
+required to w
+ail addresses
+an Officer o
+es. In addition
+write an offici
+of the nomin
+Operatin
+Disp
+of the bank t
+n at least one
+ial letter to N
+nated Officers
+ng Rules & Use
+pute Managem
+to act as pri
+e secondary O
+NPSB to spec
+er Manual:
+ment Rules
+Page 10 of 3
+mary point o
+Officer shou
+cify the name
+37
+of
+ld
+es,
+
+--- Page 12 ---
+Nationa
+(NPSB)
+
+Ty
+2.1
+2.2
+2.2.1
+2.2.2
+2.2.3
+
+al Payment Sw
+Types of Disp
+Claims:
+Types of rais
+ Cardho
+custom
+claims
+ Mercha
+its cust
+respons
+NPSB
+Domestic tran
+Domestic tr
+transaction d
+Claims rais
+A Bank ass
+Management
+Fraudulent
+Issuer disput
+takes place in
+validation of
+fails to identi
+Claims rais
+In case of di
+case of an er
+be adopted w
+waiting for th
+If there is an
+with immedi
+itch Banglades
+putes
+sed claims ar
+older with Is
+mers will be
+raised by the
+ant with the A
+tomers (merc
+sibility of eac
+is not part of
+nsactions Disp
+ransaction d
+done over a d
+sed by an Iss
+igned admin
+t System (DM
+t transaction
+te rights exis
+n a non-EMV
+f the transac
+ify the transa
+sed by an Ac
+iscrepancies
+rror in dispen
+where the Ac
+he Issuer ban
+ny error/dup
+iate effect. Th
+sh
+re:
+suer bank. M
+the sole resp
+e cardholder.
+Acquirer ban
+chants, inclu
+ch member b
+f that type of
+putes
+disputes are
+domestic term
+suer bank
+nistrator will
+MS).
+ns:
+st where a fr
+V compliant d
+tion) and wh
+action as a “F
+cquirer bank
+discovered d
+nsing the cas
+cquirer bank
+nk to raise a c
+plicate file pr
+he Issuer sho
+
+
+Managing the
+ponsibility o
+NPSB is not
+nk. Managing
+uding Govern
+bank to resol
+claims resolu
+concerned
+minal by using
+l record the
+fraudulent tra
+device (even
+here the asso
+Fallback Tran
+during the da
+h to the card
+shall refund
+claim.
+rocessing, th
+ould not need
+Oper
+e relationship
+of each mem
+t part of that t
+g the relation
+nment Depar
+lve any claim
+ution.
+with the cl
+g a domestica
+claim in the
+ansaction on
+n where there
+ociated autho
+nsaction”.
+aily terminal
+dholder - a go
+the amount t
+he Acquirer s
+to raise a Cla
+rating Rules &
+Dispute Manag
+
+Pa
+p between a
+mber bank to
+type of claim
+nship betwee
+rtments) wil
+ms raised by t
+laims that a
+ally issued ca
+e Issuer Ban
+an EMV-co
+appears to b
+orization requ
+reconciliatio
+ood faith app
+to the Issuer
+should proac
+aim on Good
+User Manual:
+gement Rules
+ge 11 of 37
+bank and it
+o resolve any
+ms resolution.
+en a bank and
+ll be the sole
+the merchant
+arise from a
+ard.
+nk’s Dispute
+ompliant card
+be correct PIN
+uest message
+on process, in
+proach should
+bank withou
+ctively rectify
+d Faith basis.
+ut
+
+--- Page 13 ---
+Nationa
+(NPSB)
+
+2.2.4
+al Payment Sw
+Disputes ha
+Issuing Ba
+business da
+Card
+II.
+The
+rejec
+III.
+In ca
+staff
+shou
+IV.
+All t
+EOD
+bank
+The
+the c
+staff
+along
+VI.
+All t
+after
+bank
+VII.
+The
+charg
+trans
+shou
+Parti
+charg
+VIII.
+All t
+after
+acqu
+IX.
+The
+inves
+issue
+In case of a
+where the ac
+any other ap
+itch Banglades
+andling proc
+ank should ra
+ay of actual tr
+dholder raises
+issuing bank
+cts the claim.
+ase of a valid
+at the issuin
+uld be uploade
+the chargeba
+D is done by
+ks and credite
+acquiring ba
+case. In case
+at the acqui
+g with the ap
+the re-presen
+EOD is don
+ks and credite
+issuing bank
+geback will
+saction detail
+uld be uploa
+icular care sh
+geback to be
+the second ch
+EOD is do
+uiring banks a
+acquiring b
+stigating the
+e to NPSB by
+dispute on a
+cquiring bank
+plicable valid
+sh
+cess
+aise chargeb
+ransaction.
+s a claim to h
+k investigate
+d claim, a cha
+ng bank. Fu
+ed to the NPS
+ack claims in
+the NPSB a
+ed to the issui
+ank receives
+of refusal, a
+iring bank. A
+ppropriate rep
+ntment reques
+ne by the NPS
+ed to acquirin
+k receives the
+be initiated
+s and all requ
+aded to the
+hould be tak
+rejected.
+hargeback cl
+one by the
+and credited t
+bank receive
+case. In cas
+y initiating arb
+an ATM/POS
+k fails to pre
+d written evi
+back on the
+his issuing ban
+es the cardh
+argeback requ
+ull transaction
+SB Disputes
+nitiated by th
+and accordin
+ing banks.
+the chargeb
+re-presentm
+All the suppo
+plies provided
+sts initiated b
+SB and accor
+ng banks.
+e re-presentm
+by the desig
+uired docume
+e NPSB Di
+ken to addres
+laims initiate
+NPSB and
+to the issuing
+es the secon
+se of refusal,
+rbitration.
+S/Kiosk or an
+esent the phy
+idence (due t
+Oper
+following w
+nk.
+older’s claim
+uest is to be i
+n details and
+Managemen
+he issuing ba
+ngly funds ar
+ack claim an
+ment will be in
+orting docum
+d by the acqu
+by the acquir
+rdingly funds
+ment claim. In
+gnated staff
+ents supporti
+spute Mana
+ss any issues
+ed by the issu
+accordingly
+g banks.
+nd chargeba
+, the acquirin
+ny other chan
+ysical or elec
+to any reason
+rating Rules &
+Dispute Manag
+working day
+m and either
+initiated by th
+d all require
+nt System (DM
+anks will be
+re debited fro
+nd will start
+nitiated by th
+ments should
+uiring bank.
+ring banks w
+s are debited
+n case of refu
+at the issuin
+ing the secon
+agement Sys
+s that caused
+uing banks w
+funds are d
+ack claim an
+ng bank will
+nnel of NPS
+ctronic journa
+n), the acquir
+User Manual:
+gement Rules
+Page 12 of 37
+of settlemen
+r proceeds o
+he designated
+ed document
+MS).
+e settled afte
+om acquiring
+investigating
+he designated
+be presented
+will be settled
+d from issuing
+usal, a second
+ng bank. Ful
+nd chargeback
+stem (DMS)
+d the origina
+will be settled
+debited from
+nd will star
+l escalate the
+B transaction
+al / receipt o
+ring bank wil
+nt
+or
+ts
+er
+ll
+al
+rt
+or
+ll
+
+--- Page 14 ---
+Nationa
+(NPSB)
+
+2.3
+2.4
+2.4.1
+al Payment Sw
+be charged a
+refer to the N
+Issuer Fraud
+Issuers must
+reporting mu
+Fraud Type C
+identified an
+occurrence i
+activity mus
+NPSB Fraud
+under new co
+Acquirer Urg
+Participants c
+via the NPS
+Network Par
+RNP), via N
+the legitimac
+appropriate a
+within seven
+always requi
+within a sev
+Acquirer mu
+Option)
+Arbitration
+The arbitrati
+resolve the r
+arbitration pr
+ Cas
+ NP
+be a
+ The
+refe
+ Arb
+the
+itch Banglades
+a penalty fee
+NPSB Fees an
+d Reporting:
+t report all o
+ust occur by t
+Codes used t
+nd reported,
+is erroneous
+t be resubmi
+d Repository
+odes. (Future
+gent Investiga
+can commun
+SB Online U
+rticipant - FN
+NPSB Online
+cy of a Trans
+action based
+nty-two (72) h
+ired. An Acq
+venty-two (7
+ust check the
+n process & T
+ion process w
+raised claim
+rocess will be
+se is raised by
+PSB has the f
+able to fairly
+e party that lo
+er to Fees and
+bitration Wit
+Arbitration.
+sh
+e for failing t
+nd Charges ru
+of their confir
+the next Busi
+to classify fra
+, further in
+or of a diff
+itted using th
+will accept r
+e Option)
+ation Request
+nicate urgent
+Urgent Invest
+NP) may cont
+with an Urg
+saction. Whe
+d on the cont
+hours of the r
+quirer, who f
+72) hour per
+UIR queue o
+Timeframes
+will start wh
+, at which th
+e as follows:
+y the Acquir
+full authority
+y judge the rai
+oses the arbit
+d Charges ru
+thdrawal Pro
+to provide th
+ule book).
+rmed fraud a
+iness Day aft
+aud activity.
+nvestigation
+ferent fraud
+he revised fr
+revisions of
+t (UIR)
+fraud-related
+tigation Requ
+tact the Acqu
+gent Investiga
+en an Acquir
+tent of the U
+receipt of the
+fails to respo
+riod, will be
+on a daily bas
+henever both
+he issue is r
+er to NPSB f
+to request an
+ised case
+tration case w
+ule book)
+cedures/time
+Oper
+he applicable
+activity to N
+ter the verific
+If after the in
+determines
+activity type
+raud activity
+previously re
+d transaction
+uest (UIR) s
+uirer (Receiv
+ation Request
+rer is the RN
+UIR and resp
+e UIR. Respo
+ond to any U
+considered
+sis to ensure a
+parties (Issu
+raised with N
+for judgemen
+ny required d
+will bear the a
+eframe - 5 to
+rating Rules &
+Dispute Manag
+e written evid
+NPSB. Such f
+cation of the f
+nitial fraud ac
+that the Tr
+e, the previou
+type code or
+eported fraud
+information
+system. An I
+ving Network
+t (UIR) for v
+NP on a UIR
+pond to the
+onse via the U
+UIR initiated
+as valid tra
+a timely resp
+uer & Acqui
+NPSB to adj
+nt
+documents or
+arbitration ch
+o 10 days aft
+User Manual:
+gement Rules
+Page 13 of 37
+dence (Please
+fraud activity
+fraud activity
+ctivity type i
+ransaction o
+usly reported
+r record. The
+d transaction
+to each othe
+Issuer (Filing
+k Participant
+verification o
+, it must take
+Issuer (FNP
+UIR system i
+by an Issue
+ansaction. An
+ponse. (Future
+irer) failed to
+judicate. The
+r evidences to
+harges (Please
+ter submitting
+or
+er
+of
+er
+
+--- Page 15 ---
+Nationa
+(NPSB)
+
+2.4.2
+al Payment Sw
+Chargebac
+The issuing
+documentatio
+ Cop
+tran
+Cod
+ Car
+ Tra
+ Tra
+ Tra
+ Me
+ An
+ Acq
+ Tra
+ Me
+ Ap
+Ret
+ Pre
+ AR
+ Issu
+ Acq
+ Ter
+ Ap
+ Att
+ All
+PD
+itch Banglades
+ck Document
+bank must
+on for each tr
+py of a sign
+nsaction stati
+de.
+rdholder Acc
+ansaction date
+ansaction Ref
+ansaction amo
+erchant name
+ny other docu
+quirer Refere
+ansaction Dat
+erchant Categ
+plicable Ret
+trieval Reque
+esentment Da
+RN
+uer Member
+quirer Memb
+rminal Numb
+proval Code
+tachment
+l supporting
+DF. Documen
+sh
+tation:
+provide the
+ransaction:
+ned cardhold
+ing the reason
+count Numbe
+e and time.
+ference Retri
+ount with cur
+e or ATM/Kio
+mentation th
+ence Number
+te of original
+gory Code
+trieval Requ
+est
+ate
+ID
+ber ID
+ber/ID
+documentati
+ntation must n
+e acquiring b
+der form de
+n for chargeb
+er or PAN.
+ieval Number
+rrency
+osk acquiring
+hat may suppo
+l Presentment
+uest reason
+ion must be
+not be sent in
+Oper
+bank with th
+enying execu
+back as well
+g bank name,
+ort the charge
+code from
+sent in a se
+n editable form
+rating Rules &
+Dispute Manag
+he following
+uting the sub
+as the approp
+, code and its
+eback case
+the Transac
+ecure file fo
+mat.
+User Manual:
+gement Rules
+Page 14 of 37
+g chargeback
+bject claimed
+priate Reason
+s location
+ction Receip
+rmat such a
+pt
+as
+
+--- Page 16 ---
+Nationa
+(NPSB)
+
+2.4.3
+2.4.4
+
+al Payment Sw
+ Tra
+ Ter
+ AT
+
+Re-present
+The Acquiri
+documentatio
+ Do
+Jou
+ The
+doc
+Do
+Fees and ch
+For the appli
+the NPSB “F
+itch Banglades
+ansaction Ide
+rminal indica
+TM Journal R
+tment Docum
+ing bank mu
+on:
+cumentation
+urnal, Transac
+e re-presentm
+cumentation
+cumentation
+harges
+ied fees and
+Fees and Cha
+sh
+ntifier, if pre
+ator, if presen
+Role (For ATM
+mentation:
+ust provide th
+to support t
+ction receipt…
+ment amount
+must be
+must not be
+charges amo
+arges” rule bo
+
+esent in the or
+nt in the origi
+M Journal Re
+he issuer ban
+the chargebac
+…etc.
+t field must
+sent in a
+sent in editab
+ount for raise
+ook.
+Oper
+riginal Presen
+nal Presentm
+equest)
+nk with the
+ck refusal su
+contain sam
+secure file
+ble format.
+ed claims or a
+rating Rules &
+Dispute Manag
+ntment
+ment
+following re
+uch as the AT
+me amount A
+format suc
+arbitration, p
+User Manual:
+gement Rules
+Page 15 of 37
+e-presentmen
+TM or Kiosk
+All supporting
+ch as PDF
+please refer to
+nt
+
+--- Page 17 ---
+Nationa
+(NPSB)
+
+3.1
+Co
+21
+21
+21
+21
+21
+21
+21
+al Payment Sw
+Appendix 1: N
+Chargeback
+ode
+11
+Alter
+12
+Canc
+13
+Canc
+14
+Card
+15
+Card
+finali
+16
+Card
+telep
+17
+Card
+itch Banglades
+NPSB Reaso
+Reason Code
+Reason for
+red amount
+celled pre-aut
+celled recurri
+d not yet effec
+dholder deni
+ized
+dholder dispu
+phone transac
+dholder dispu
+sh
+on Codes
+es for ATM:
+r a chargeba
+thorized trans
+ng transactio
+ctive
+ies transacti
+utes card a
+ction
+utes transactio
+ack
+saction
+on
+on was
+activated
+on date
+Oper
+Transaction
+amount agre
+Cardholder w
+authorized
+cancellation
+Transaction
+preauthorize
+Cardholder
+Recurring
+cancellation
+Transaction
+card that wa
+the transactio
+Cardholder
+did not rece
+location agre
+bank by the a
+Cardholder c
+charged mu
+acquiring ba
+one valid tran
+Cardholder i
+Transaction
+the statemen
+rating Rules &
+Dispute Manag
+Description
+was altered
+ed upon.
+was charged
+Transaction
+notificati
+amount is n
+d range.
+was charge
+Transaction
+notification.
+was complet
+as not effecti
+on.
+or authorize
+ive the servi
+eed with the
+agreed date.
+claims they h
+ultiple times
+ank when the
+nsaction.
+is not recogn
+date as men
+nt.
+User Manual:
+gement Rules
+Page 16 of 37
+from the
+for a Pre-
+despite
+ion,
+or
+not within
+ed for a
+despite
+ted with a
+ive during
+ed person
+ices at the
+acquiring
+have been
+s by the
+ere is only
+nizing the
+ntioned on
+
+--- Page 18 ---
+Nationa
+(NPSB)
+
+21
+21
+21
+21
+21
+21
+21
+21
+al Payment Sw
+18
+Card
+merc
+19
+Claim
+20
+Cred
+21
+Cred
+22
+Custo
+class
+23
+Debi
+24
+Decl
+25
+Defe
+itch Banglades
+dholder
+doe
+chant descript
+m or defense
+dit not receive
+dit submitted
+omer dispu
+sified
+it submitted a
+ined authoriz
+ective mercha
+sh
+es
+not
+re
+tion
+on receipt of
+ed
+as a debit
+ute not el
+as a credit
+zation
+andise
+ecognize
+f goods
+lsewhere
+Oper
+Cardholder i
+acquiring ter
+Cardholder c
+for services
+delivered by
+but have not
+Transaction
+promised by
+Transaction
+Cardholder's
+when the tra
+been a credit
+Cardholder
+unhappy
+provided an
+unable to res
+the
+acquiri
+satisfaction.
+Transaction
+Cardholder's
+when the tra
+been a debit.
+Acquiring b
+transaction a
+request
+re
+Response.
+Cardholder
+defective,
+merchandise
+rating Rules &
+Dispute Manag
+is not recogn
+rminal.
+claims they
+s that wer
+y the acquir
+yet been rec
+was not Cr
+the acquiring
+was poste
+s account as
+ansaction sho
+claims
+with
+the
+nd they ha
+solve the situ
+ing
+bank
+was poste
+s account as
+ansaction sho
+bank comp
+after an aut
+eceived
+received
+or
+User Manual:
+gement Rules
+Page 17 of 37
+nizing the
+have paid
+re to be
+ring bank
+eived.
+redited as
+g bank.
+d to the
+s a debit
+ould have
+they
+are
+services
+ave been
+uation with
+to
+their
+d to the
+s a credit
+ould have
+pleted the
+thorization
+Decline
+damaged,
+counterfeit
+
+--- Page 19 ---
+Nationa
+(NPSB)
+
+21
+21
+21
+21
+21
+21
+21
+21
+al Payment Sw
+26
+Delin
+27
+Disp
+28
+Error
+29
+Expi
+30
+Fraud
+31
+Fraud
+embo
+32
+Impr
+33
+Incor
+itch Banglades
+nquent recon
+ute transactio
+r in addition
+red card
+dulent transa
+dulent
+tran
+ossed valid d
+rint of multip
+rrect account
+sh
+nciliation
+on amount
+action
+nsaction
+pr
+date
+le slips
+t number
+rior
+to
+Oper
+Transaction
+delinquent ca
+The
+trans
+incorrect or
+altered the
+after
+the
+completed w
+the cardhold
+An addition
+was made
+transaction a
+Transaction
+card that
+transaction d
+authorization
+The cardhol
+or participate
+transaction w
+fictitious ac
+valid card w
+the accoun
+transaction re
+Transaction
+to embossed
+A single tran
+more than
+account num
+Transaction
+an incorrect
+rating Rules &
+Dispute Manag
+was comple
+ardholder.
+action
+am
+r the acquir
+transaction
+transactio
+without the c
+er.
+or transposi
+when calcul
+amount.
+was complet
+expired be
+date, and did
+lder did not
+e in a transac
+was processe
+ccount numb
+was outstandin
+nt number
+eceipt.
+was comple
+d valid date.
+nsaction was
+once using
+mber.
+was proces
+account num
+User Manual:
+gement Rules
+Page 18 of 37
+eted by a
+mount
+is
+ring bank
+n amount
+on
+was
+consent of
+ition error
+lating the
+ted with a
+efore the
+not obtain
+authorize
+ction, or a
+ed with a
+ber or no
+ng bearing
+on
+the
+eted prior
+processed
+the same
+sed using
+mber.
+
+--- Page 20 ---
+Nationa
+(NPSB)
+
+21
+21
+21
+21
+21
+21
+21
+al Payment Sw
+34
+Inval
+35
+Inval
+36
+Mail/
+37
+Mail/
+unau
+38
+Merc
+39
+No sh
+40
+Non-
+itch Banglades
+lid Merchant
+lid transactio
+/Telephone o
+/Telephone
+uthorized purc
+chandise not
+how disputed
+-matching ac
+sh
+order on expi
+order
+tra
+chaser
+as described
+ccount numbe
+ired card
+ansaction
+er
+Oper
+Transaction
+invalid merc
+Cardholder
+transaction a
+be classifie
+reason code.
+A Mail Ord
+transaction w
+card that
+transaction d
+A Mail Ord
+transaction w
+unauthorized
+The service
+was describ
+receipt, or
+presented
+transaction,
+misrepresent
+services.
+Cardholder w
+stay and no-s
+a credit for th
+Transaction
+authorization
+using an acc
+not match an
+the issuer’s
+original cred
+Transfer O
+processed
+number that
+rating Rules &
+Dispute Manag
+was comple
+chant.
+is
+claim
+as invalid an
+ed under a
+
+der / Telepho
+was complet
+expired be
+date.
+der / Telepho
+was complet
+d purchaser.
+did not ma
+ed on the tr
+other docu
+at
+the
+or the acqui
+ted
+the
+was charged
+show and is r
+he no-show c
+did
+not
+n and was
+count number
+ny account n
+s master fil
+dit (including
+Original Cre
+using
+an
+t does not m
+User Manual:
+gement Rules
+Page 19 of 37
+eted by an
+ming
+the
+nd cannot
+any other
+one Order
+ted with a
+efore the
+one Order
+ted by an
+atch what
+ransaction
+umentation
+time
+of
+iring bank
+terms
+of
+for both a
+requesting
+charge.
+receive
+processed
+r that does
+number on
+le or an
+g a Money
+edit) was
+account
+match any
+
+--- Page 21 ---
+Nationa
+(NPSB)
+
+21
+21
+21
+21
+21
+21
+
+al Payment Sw
+41
+Non-
+recei
+trans
+load
+42
+Secu
+43
+Servi
+44
+Tran
+45
+Tran
+46
+Tran
+itch Banglades
+-receipt of
+ipt of cash
+saction value
+device
+urity violation
+ices not rend
+saction not a
+saction not p
+saction not re
+Table 2 -
+sh
+merchandis
+at ATM
+at ATM/KI
+dered
+as described
+permitted to te
+eceived
+- Chargebac
+
+se, Non
+or load
+IOSK or
+erminal
+ck Reason C
+Oper
+account num
+master file.
+The cardho
+person
+did
+merchandise
+location agre
+bank by the a
+Transaction
+violating
+measures.
+Cardholder
+contracted w
+Cardholder
+merchandise
+not conform
+were given.
+Transaction
+terminal wh
+to process su
+Transaction
+acquiring b
+received by t
+Codes for A
+rating Rules &
+Dispute Manag
+mber on the
+older or a
+not
+rec
+e or service
+eed with the
+agreed date.
+was
+standard
+claims the
+were not provi
+claims the s
+e they recei
+to the descri
+was comple
+ich was not
+uch transactio
+was complet
+bank which
+the issuing ba
+TM
+User Manual:
+gement Rules
+Page 20 of 37
+e Issuer’s
+authorized
+eive
+the
+es at the
+acquiring
+completed
+security
+e services
+ided.
+service or
+ived does
+iption they
+eted on a
+permitted
+on.
+ted by the
+was not
+ank.
+
+--- Page 22 ---
+Nationa
+(NPSB)
+
+3.2
+31
+31
+31
+31
+31
+31
+31
+31
+31
+31
+31
+31
+
+
+al Payment Sw
+Re-presentm
+Code
+111
+Cor
+112
+Cor
+113
+Cor
+114
+Cre
+115
+Gen
+116
+Inco
+117
+Inva
+118
+No
+119
+No
+been
+120
+Non
+121
+Orig
+122
+Tra
+itch Banglades
+ment Reason C
+rrect merchan
+rrect merchan
+rrect transacti
+edit previousl
+neral – invali
+orrect transac
+alid acquirer
+error in addit
+proof of alte
+n altered)
+n-receipt of r
+ginal transact
+ansaction auth
+Table 3 - R
+sh
+Codes for ATM
+Reaso
+nt description
+nt location pr
+ion date prov
+ly issued
+d chargeback
+ction date pro
+reference nu
+tion of sale- a
+ered amount (
+required docu
+tion was vali
+horized by iss
+Re-presentm
+
+on for a Re-p
+n provided
+rovided
+vided
+ovided on cha
+umber on cha
+amount corre
+(customer sta
+umentation to
+id
+suer
+ment Reason
+Oper
+presentment
+argeback
+argeback
+ect in origina
+ated in charg
+o support cha
+n Codes for A
+rating Rules &
+Dispute Manag
+al transaction
+geback that am
+argeback
+ATM
+User Manual:
+gement Rules
+Page 21 of 37
+mount had
+
+--- Page 23 ---
+Nationa
+(NPSB)
+
+3.3
+Co
+41
+41
+41
+41
+41
+41
+41
+al Payment Sw
+Second Char
+ode
+Re
+11
+Alter
+12
+Canc
+transa
+13
+Canc
+14
+Card
+15
+Cardh
+was f
+16
+Cardh
+activa
+
+17
+
+Cardh
+date
+itch Banglades
+rgeback Reaso
+eason for a c
+red amount
+celled pre-aut
+action
+celled recurrin
+not yet effec
+holder denies
+finalized
+holder disput
+ated telephon
+holder disput
+sh
+on Codes for
+chargeback
+thorized
+ng transactio
+ctive
+s transaction
+tes card
+ne transaction
+tes transactio
+ATM:
+Transa
+agreed
+Cardh
+author
+cancel
+amoun
+range.
+on
+Cardh
+Transa
+notific
+Transa
+that
+transa
+Cardh
+receiv
+agreed
+agreed
+Cardh
+charge
+bank
+transa
+on
+
+Cardh
+Transa
+statem
+Oper
+Desc
+action was al
+d upon.
+holder was
+rized
+Tr
+llation notifi
+nt is not
+holder was ch
+action
+de
+cation.
+action was c
+was not e
+ction.
+holder or auth
+ve the serv
+d with the a
+d date.
+holder claim
+ed multiple t
+when there
+ction.
+holder is n
+action date
+ment.
+rating Rules &
+Dispute Manag
+cription
+ltered from th
+charged fo
+ransaction
+cation, or T
+within prea
+harged for a
+espite
+ca
+completed w
+effective du
+horized perso
+ices at the
+acquiring ban
+ms they ha
+times by the
+e is only o
+not recogni
+as mentione
+User Manual:
+gement Rules
+Page 22 of 37
+he amount
+or a Pre-
+despite
+Transaction
+authorized
+Recurring
+ancellation
+with a card
+uring the
+on did not
+e location
+nk by the
+ave been
+acquiring
+one valid
+izing the
+ed on the
+
+--- Page 24 ---
+Nationa
+(NPSB)
+
+41
+41
+41
+41
+41
+41
+41
+41
+41
+al Payment Sw
+18
+Cardh
+merc
+19
+Claim
+good
+20
+Cred
+21
+Cred
+22
+Custo
+classi
+23
+Debit
+24
+Decli
+25
+Defe
+
+26
+
+Delin
+itch Banglades
+holder does n
+chant descript
+m or defense
+ds
+it not receive
+it submitted a
+omer dispute
+ified
+t submitted a
+ined authoriz
+ctive mercha
+nquent reconc
+sh
+not recognize
+tion
+on receipt of
+ed
+as a debit
+e not elsewhe
+as a credit
+zation
+andise
+ciliation
+Cardh
+acquir
+Cardh
+servic
+acquir
+receiv
+Transa
+promi
+Transa
+Cardh
+transa
+ere
+Cardh
+the ser
+unable
+acquir
+Transa
+Cardh
+the tra
+Acqui
+transa
+receiv
+Cardh
+or cou
+
+Transa
+delinq
+Oper
+holder is n
+ring terminal.
+holder claims
+es that were
+ring bank bu
+ved.
+action
+was
+sed by the ac
+action
+was
+holder's accou
+ction should
+holder claims
+rvices provid
+e to resolve
+ring bank to t
+action
+was
+holder's acco
+ansaction sho
+iring
+bank
+ction after an
+ved a Decline
+holder receive
+unterfeit merc
+action
+was
+quent cardhol
+rating Rules &
+Dispute Manag
+not recogni
+s they have
+to be deliver
+ut have not
+not
+Cre
+cquiring bank
+posted
+unt as a debit
+have been a
+they are unh
+ded and they
+the situation
+their satisfact
+posted
+unt as a cre
+ould have bee
+complet
+n authorizatio
+e Response.
+ed damaged,
+chandise.
+completed
+lder.
+User Manual:
+gement Rules
+Page 23 of 37
+izing the
+e paid for
+red by the
+yet been
+edited
+as
+to
+the
+t when the
+credit.
+happy with
+have been
+n with the
+tion.
+to
+the
+edit when
+en a debit.
+ted
+the
+on request
+defective,
+by
+
+--- Page 25 ---
+Nationa
+(NPSB)
+
+41
+41
+41
+41
+41
+41
+41
+41
+al Payment Sw
+27
+Dispu
+28
+Error
+29
+Expir
+30
+Fraud
+31
+Fraud
+embo
+32
+Impr
+33
+Incor
+34
+Inval
+itch Banglades
+ute transactio
+r in addition
+red card
+dulent transa
+dulent transa
+ossed valid d
+rint of multipl
+rrect account
+lid Merchant
+sh
+on amount
+ction
+ction prior to
+ate
+le slips
+number
+The tr
+the ac
+amoun
+compl
+cardho
+An ad
+made
+amoun
+Transa
+that ex
+and di
+The c
+partici
+transa
+fictitio
+card w
+numbe
+Transa
+embos
+A sing
+than
+numbe
+Transa
+incorr
+
+Transa
+merch
+Oper
+ransaction a
+quiring bank
+nt
+after
+th
+leted withou
+older.
+ddition or tr
+when calcu
+nt.
+action was c
+xpired befor
+id not obtain
+cardholder d
+ipate in a
+ction
+was
+ous account
+was outstandi
+er on the tran
+action was
+ssed valid dat
+gle transactio
+once using
+er.
+action was
+ect account n
+action was co
+hant.
+rating Rules &
+Dispute Manag
+amount is in
+k altered the t
+he
+transact
+ut the conse
+ransposition
+ulating the t
+completed w
+re the transac
+authorization
+did not aut
+a transactio
+processed
+number or
+ing bearing th
+nsaction recei
+completed
+te.
+on was proce
+g the same
+processed
+number.
+ompleted by
+User Manual:
+gement Rules
+Page 24 of 37
+ncorrect or
+transaction
+tion
+was
+ent of the
+error was
+transaction
+with a card
+ction date,
+thorize or
+n, or a
+with
+no valid
+he account
+ipt.
+prior to
+essed more
+e account
+using an
+an invalid
+
+--- Page 26 ---
+Nationa
+(NPSB)
+
+41
+41
+41
+41
+41
+41
+al Payment Sw
+35
+Inval
+36
+Mail/
+expir
+37
+Mail/
+transa
+purch
+38
+Merc
+39
+No sh
+40
+Non-
+itch Banglades
+lid transaction
+/Telephone o
+red card
+/Telephone o
+action unauth
+haser
+chandise not
+how disputed
+-matching acc
+sh
+order on
+order
+horized
+as described
+count numbe
+Cardh
+invalid
+any ot
+A M
+transa
+that ex
+A M
+transa
+unauth
+The s
+describ
+other
+time o
+misrep
+Cardh
+and n
+for the
+er
+Transa
+and w
+numbe
+numbe
+origin
+Transf
+using
+match
+Issuer
+
+
+Oper
+holder is claim
+d and canno
+ther reason co
+Mail Order
+ction was co
+xpired before
+Mail Order
+ction
+was
+horized purch
+service did
+bed on the
+documentat
+of transaction
+presented the
+holder was ch
+no-show and
+e no-show ch
+action did no
+was processe
+er that does n
+er on the issu
+al credit (
+fer Original
+an account
+h any acco
+r’s master file
+rating Rules &
+Dispute Manag
+ming the tran
+ot be classif
+ode.
+/ Telephon
+ompleted wi
+e the transacti
+/ Telephon
+completed
+haser.
+not match
+transaction r
+tion presente
+n, or the acqu
+e terms of ser
+harged for b
+is requestin
+harge.
+ot receive aut
+ed using an
+not match an
+uer’s master
+(including a
+Credit) was
+number that
+unt number
+User Manual:
+gement Rules
+Page 25 of 37
+nsaction as
+fied under
+ne Order
+ith a card
+ion date.
+ne Order
+by
+an
+what was
+receipt, or
+ed at the
+uiring bank
+rvices.
+both a stay
+ng a credit
+thorization
+n account
+ny account
+r file or an
+a Money
+processed
+t does not
+r on the
+
+--- Page 27 ---
+Nationa
+(NPSB)
+
+41
+41
+41
+41
+41
+41
+
+
+al Payment Sw
+41
+Non-
+Non
+load
+ATM
+42
+Secur
+43
+Servi
+44
+Trans
+45
+Trans
+termi
+46
+Trans
+itch Banglades
+-receipt of me
+receipt of cas
+transaction v
+M/KIOSK or
+rity violation
+ices not rende
+saction not as
+saction not p
+inal
+saction not re
+Table 4 - Sec
+sh
+erchandise,
+sh at ATM o
+value at
+load device
+ered
+s described
+ermitted to
+eceived
+cond Charg
+
+The ca
+not re
+at the
+bank b
+Transa
+standa
+Cardh
+contra
+Cardh
+merch
+confor
+given.
+Transa
+which
+transa
+Transa
+acquir
+by the
+eback Reas
+Oper
+ardholder or
+eceive the m
+location agr
+by the agreed
+action was
+ard security m
+holder
+clai
+acted were no
+holder
+claim
+handise they
+rm to the d
+action was co
+h was not per
+ction.
+action was
+ring bank wh
+e issuing bank
+on Codes fo
+rating Rules &
+Dispute Manag
+authorized p
+merchandise o
+reed with the
+d date.
+completed
+measures.
+ims
+the
+ot provided.
+ms
+the
+se
+y received
+description t
+ompleted on
+rmitted to pro
+completed
+hich was no
+or ATM
+User Manual:
+gement Rules
+Page 26 of 37
+person did
+or services
+e acquiring
+violating
+services
+ervice
+or
+does not
+they were
+a terminal
+ocess such
+by the
+ot received
+
+--- Page 28 ---
+Nationa
+(NPSB)
+
+3.4
+Cod
+221
+221
+221
+221
+221
+221
+221
+al Payment Sw
+Chargeback
+de
+11
+Altere
+12
+Cance
+13
+Cance
+14
+Card
+15
+Cardh
+finaliz
+16
+Cardh
+teleph
+17
+Cardh
+itch Banglades
+Reason Code
+Reason for a
+ed amount
+elled pre-auth
+elled recurrin
+not yet effect
+holder denie
+zed
+holder dispu
+hone transact
+holder disput
+sh
+es for POS:
+a chargebac
+horized trans
+ng transaction
+tive
+es transactio
+utes card ac
+tion
+es transaction
+ck
+am
+action
+is
+ca
+tr
+on was
+se
+th
+ctivated
+ch
+n date
+st
+Oper
+Transaction w
+mount agreed
+Merchant co
+Cardholder f
+Transaction
+otification, o
+s not within p
+Merchant co
+Cardholder
+Transaction
+otification.
+Transaction w
+ard that was
+ransaction.
+Cardholder or
+ot receive
+ervices at th
+he merchant b
+Cardholder c
+harged mul
+merchant wh
+alid transacti
+Cardholder is
+Transaction da
+tatement.
+rating Rules &
+Dispute Manag
+Description
+was altered
+d upon.
+ontinued to
+for a Pre-
+despite
+or Transactio
+preauthorized
+ontinued to
+for
+despite
+was complet
+not effective
+r authorized
+the merch
+he location ag
+by the agreed
+laims they
+ltiple times
+hen there is
+ion.
+s not recog
+ate as mentio
+User Manual:
+gement Rules
+Page 27 of 37
+from the
+charge a
+-authorized
+ancellation
+on amount
+d range.
+charge a
+Recurring
+ancellation
+ted with a
+e during the
+person did
+handise or
+greed with
+d date.
+have been
+s by the
+only one
+gnizing the
+oned on the
+
+--- Page 29 ---
+Nationa
+(NPSB)
+
+221
+221
+222
+222
+222
+222
+222
+222
+al Payment Sw
+18
+Cardh
+merch
+19
+Claim
+20
+Credi
+21
+Credi
+22
+Custo
+classi
+23
+Debit
+24
+Declin
+25
+Defec
+itch Banglades
+holder
+does
+hant descripti
+m or defense o
+it not received
+it submitted a
+omer disput
+fied
+t submitted as
+ned authoriza
+ctive merchan
+sh
+not
+rec
+ion
+on receipt of
+as a debit
+te not else
+s a credit
+ation
+ndise
+cognize
+goods
+it
+th
+re
+pr
+th
+cr
+ewhere
+an
+th
+th
+af
+re
+
+Oper
+Cardholder is
+merchant.
+Cardholder cla
+tems that wer
+he merchant
+eceived.
+Transaction w
+romised by th
+Transaction
+Cardholder's a
+he transactio
+redit.
+Cardholder cl
+with the good
+nd they have
+he situation
+heir satisfacti
+Transaction
+Cardholder's
+when the tra
+een a debit.
+Merchant com
+fter
+an
+eceived a Dec
+Cardholder
+efective,
+merchandise.
+rating Rules &
+Dispute Manag
+s not recog
+aims they ha
+re to be deliv
+but have no
+was not C
+he Merchant
+was posted
+account as a d
+on should ha
+laims they ar
+ds or service
+e been unable
+with the m
+ion.
+was posted
+account as
+ansaction sh
+mpleted the
+authorization
+cline Respon
+received
+or
+User Manual:
+gement Rules
+Page 28 of 37
+gnizing the
+ave paid for
+vered from
+ot yet been
+redited as
+d to the
+debit when
+ave been a
+re unhappy
+es provided
+e to resolve
+merchant to
+d to the
+s a credit
+hould have
+transaction
+request
+nse.
+damaged,
+counterfeit
+
+--- Page 30 ---
+Nationa
+(NPSB)
+
+222
+222
+222
+222
+223
+223
+223
+223
+al Payment Sw
+26
+Delin
+27
+Dispu
+28
+Error
+29
+Expir
+30
+Fraud
+31
+Fraud
+embo
+32
+Impri
+33
+Incorr
+itch Banglades
+nquent reconc
+ute transactio
+in addition
+red card
+dulent transac
+dulent
+trans
+ossed valid da
+int of multipl
+rect account n
+sh
+ciliation
+n amount
+ction
+saction
+pri
+ate
+e slips
+number
+or
+tr
+tr
+th
+tr
+tr
+au
+tr
+fi
+ca
+ac
+re
+or
+to
+em
+ac
+in
+Oper
+Transaction w
+elinquent car
+The transactio
+the
+me
+ransaction
+ransaction w
+he consent of
+An addition
+was made w
+ransaction am
+Merchant com
+with a card t
+ransaction da
+uthorization.
+The cardholde
+articipate in
+ransaction w
+ictitious acco
+ard was ou
+ccount numb
+eceipt.
+Transaction w
+mbossed vali
+A single tran
+more than o
+ccount numb
+Transaction w
+ncorrect acco
+rating Rules &
+Dispute Manag
+was comple
+rdholder.
+on amount i
+erchant
+alt
+amount
+was complete
+f the cardhold
+or transpos
+when calcu
+mount.
+mpleted a t
+that expired
+ate, and did
+er did not au
+n a transact
+was processe
+ount number
+utstanding b
+ber on the
+was complete
+id date.
+nsaction was
+once using
+ber.
+was processed
+ount number.
+User Manual:
+gement Rules
+Page 29 of 37
+eted by a
+s incorrect
+tered
+the
+after
+the
+ed without
+der.
+ition error
+ulating the
+transaction
+before the
+not obtain
+uthorize or
+tion, or a
+ed with a
+or no valid
+earing the
+transaction
+ed prior to
+processed
+the same
+d using an
+
+--- Page 31 ---
+Nationa
+(NPSB)
+
+223
+223
+223
+223
+223
+223
+224
+al Payment Sw
+34
+Invali
+35
+Invali
+36
+Mail/T
+card
+37
+Mail/T
+unaut
+38
+Merch
+39
+No sh
+40
+Non-m
+itch Banglades
+id Merchant
+id transaction
+Telephone
+Telephone
+thorized purc
+handise not a
+how disputed
+matching acc
+sh
+order on e
+order trans
+chaser
+as described
+count number
+in
+tr
+cl
+co
+expired
+tr
+ca
+tr
+saction
+tr
+un
+tr
+ot
+so
+th
+st
+cr
+au
+th
+cr
+an
+Oper
+Transaction w
+nvalid merch
+Cardholder
+ransaction as
+lassified und
+ode.
+A Mail Orde
+ransaction w
+ard
+that
+ransaction da
+A Mail Orde
+ransaction w
+nauthorized p
+The merchand
+match what
+ransaction
+ocumentation
+f purchase, o
+therwise uns
+old, or the m
+he terms of sa
+Cardholder w
+tay and no-sh
+redit for the n
+Transaction
+uthorization
+sing an acco
+ot match an
+he issuer’s m
+redit (includ
+Original Cred
+n account n
+rating Rules &
+Dispute Manag
+was complet
+ant.
+is
+claim
+s invalid and
+der any oth
+er / Telepho
+was complete
+expired
+be
+ate.
+er / Telepho
+was complet
+purchaser.
+dise or servi
+was describ
+receipt,
+n presented a
+or the mercha
+suitable for th
+merchant misr
+ale.
+was charged
+how and is re
+no-show char
+did
+not
+and was
+ount number
+ny account n
+master file or
+ding a Mone
+dit) was proce
+number that
+User Manual:
+gement Rules
+Page 30 of 37
+ted by an
+ming
+the
+cannot be
+her reason
+one Order
+ed with a
+efore
+the
+one Order
+ted by an
+ice did not
+bed on the
+or
+other
+at the time
+andise was
+he purpose
+represented
+for both a
+equesting a
+rge.
+receive
+processed
+r that does
+number on
+an original
+ey Transfer
+essed using
+does not
+
+--- Page 32 ---
+Nationa
+(NPSB)
+
+224
+224
+224
+224
+224
+224
+
+
+al Payment Sw
+41
+Non-r
+42
+Secur
+43
+Servic
+44
+Trans
+45
+Trans
+46
+Trans
+itch Banglades
+receipt of me
+rity violation
+ces not rende
+saction not as
+saction not pe
+saction not re
+Table 5
+sh
+erchandise
+ered
+s described
+ermitted to te
+eceived
+- Chargeba
+
+Is
+se
+th
+st
+co
+co
+erminal
+te
+pr
+ac
+re
+ck Reason C
+Oper
+match any ac
+ssuer’s maste
+The cardholde
+id not receiv
+ervices at th
+he merchant b
+Transaction w
+tandard secur
+Cardholder
+ontracted we
+Cardholder c
+merchandise t
+onform to th
+iven.
+Transaction w
+erminal whic
+rocess such t
+Transaction w
+cquiring ba
+eceived by th
+Codes for P
+rating Rules &
+Dispute Manag
+ccount numb
+er file.
+er or authoriz
+ve the merc
+he location ag
+by the agreed
+was complete
+rity measures
+claims
+the
+ere not provid
+claims the
+they received
+e description
+was comple
+ch was not pe
+transaction.
+was complet
+ank which
+he issuing ban
+POS
+User Manual:
+gement Rules
+Page 31 of 37
+ber on the
+zed person
+handise or
+greed with
+d date.
+ed violating
+services
+ded.
+service or
+d does not
+n they were
+eted on a
+ermitted to
+ted by the
+was not
+nk.
+
+--- Page 33 ---
+Nationa
+(NPSB)
+
+3.5
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+32
+
+al Payment Sw
+Re-presentm
+Code
+211
+Cor
+212
+Cor
+213
+Cor
+214
+Cre
+215
+Gen
+216
+Inco
+217
+Inv
+218
+No
+219
+No
+bee
+220
+Non
+221
+Orig
+222
+Tra
+itch Banglades
+ment Reason C
+rrect merchan
+rrect merchan
+rrect transacti
+edit previousl
+neral – invali
+orrect transac
+alid acquirer
+error in addi
+proof of alte
+en altered)
+n-receipt of r
+ginal transac
+ansaction auth
+Table 6 -
+sh
+Codes for POS
+Reaso
+nt description
+nt location pr
+ion date prov
+ly issued
+id chargeback
+ction date pro
+reference nu
+ition of sale-
+ered amount (
+required docu
+tion was vali
+horized by iss
+Re-presentm
+
+on for a Re-p
+n provided
+rovided
+vided
+ovided on cha
+umber on cha
+amount corre
+(customer sta
+umentation to
+id
+suer
+ment Reason
+
+Oper
+presentment
+argeback
+argeback
+ect in origina
+ated in charg
+o support cha
+n Codes for P
+rating Rules &
+Dispute Manag
+al transaction
+geback that am
+argeback
+POS
+User Manual:
+gement Rules
+Page 32 of 37
+mount had
+
+--- Page 34 ---
+Nationa
+(NPSB)
+
+3.6
+Co
+421
+421
+421
+421
+421
+421
+421
+al Payment Sw
+Second Char
+de
+11
+Altere
+12
+Canc
+13
+Canc
+14
+Card
+15
+Cardh
+finali
+16
+Cardh
+teleph
+17
+Cardh
+itch Banglades
+rgeback Reaso
+Reason for
+ed amount
+elled pre-auth
+elled recurrin
+not yet effec
+holder denie
+zed
+holder dispu
+hone transact
+holder disput
+sh
+on Codes for
+a chargebac
+horized trans
+ng transaction
+ctive
+es transactio
+utes card a
+tion
+tes transactio
+POS:
+ck
+saction
+on was
+activated
+n date
+Oper
+Transaction
+amount agree
+Merchant co
+Cardholder
+Transaction
+notification,
+is not within
+Merchant co
+Cardholder
+Transaction
+notification.
+Transaction
+card that wa
+the transactio
+Cardholder
+did not recei
+services at th
+the merchant
+Cardholder c
+charged mu
+merchant wh
+valid transac
+Cardholder i
+Transaction
+the statement
+rating Rules &
+Dispute Manag
+Description
+was altered
+ed upon.
+ontinued to
+for a Pre-
+despite ca
+or Transactio
+preauthorize
+ontinued to
+for
+despite ca
+was comple
+as not effect
+on.
+or authorize
+ive the merc
+he location ag
+t by the agree
+claims they
+ultiple times
+hen there is
+tion.
+is not recog
+date as men
+User Manual:
+gement Rules
+Page 33 of 37
+d from the
+charge a
+-authorized
+ancellation
+on amount
+ed range.
+charge a
+Recurring
+ancellation
+ted with a
+tive during
+ed person
+chandise or
+greed with
+ed date.
+have been
+s by the
+only one
+gnizing the
+ntioned on
+
+--- Page 35 ---
+Nationa
+(NPSB)
+
+421
+421
+422
+422
+422
+422
+422
+422
+al Payment Sw
+18
+Cardh
+merch
+19
+Claim
+20
+Credi
+21
+Credi
+22
+Custo
+classi
+23
+Debit
+24
+Decli
+25
+Defec
+itch Banglades
+holder
+doe
+hant descript
+m or defense o
+it not receive
+it submitted a
+omer dispu
+ified
+t submitted a
+ined authoriz
+ctive merchan
+sh
+es
+not
+re
+tion
+on receipt of
+ed
+as a debit
+ute not el
+as a credit
+zation
+ndise
+ecognize
+f goods
+sewhere
+Oper
+Cardholder i
+merchant.
+Cardholder c
+for items tha
+from the mer
+been receive
+Transaction
+promised by
+Transaction
+Cardholder's
+when the tra
+been a credit
+Cardholder
+unhappy with
+provided an
+unable to res
+the merchant
+Transaction
+Cardholder's
+when the tra
+been a debit.
+Merchant
+transaction a
+request
+re
+Response.
+Cardholder
+defective,
+merchandise
+rating Rules &
+Dispute Manag
+is not recog
+claims they
+at were to be
+rchant but ha
+was not C
+the Merchan
+was poste
+account a
+ansaction sh
+claims
+th the goods o
+nd they h
+solve the situ
+t to their satis
+was poste
+account as
+ansaction sh
+
+complete
+after an aut
+eceived
+received
+or
+User Manual:
+gement Rules
+Page 34 of 37
+gnizing the
+have paid
+e delivered
+ave not yet
+Credited as
+nt.
+ed to the
+as a debit
+hould have
+they
+are
+or services
+have been
+uation with
+sfaction.
+ed to the
+s a credit
+hould have
+the
+thorization
+Decline
+damaged,
+counterfeit
+
+--- Page 36 ---
+Nationa
+(NPSB)
+
+422
+422
+422
+422
+423
+423
+423
+423
+al Payment Sw
+26
+Delin
+27
+Dispu
+28
+Error
+29
+Expir
+30
+Fraud
+31
+Fraud
+embo
+32
+Impri
+33
+Incor
+itch Banglades
+nquent reconc
+ute transactio
+r in addition
+red card
+dulent transac
+dulent
+tran
+ossed valid da
+int of multipl
+rrect account
+sh
+ciliation
+on amount
+ction
+nsaction
+pr
+ate
+le slips
+number
+rior
+to
+Oper
+Transaction
+delinquent ca
+The transacti
+or
+the
+transaction
+transaction w
+the consent o
+An addition
+was made
+transaction a
+Merchant co
+with a card t
+transaction d
+authorization
+The cardhold
+participate i
+transaction w
+fictitious ac
+valid card w
+the
+accoun
+transaction re
+Transaction w
+embossed va
+A single tran
+more than
+account num
+Transaction
+an incorrect a
+rating Rules &
+Dispute Manag
+was comple
+ardholder.
+ion amount i
+merchant
+alt
+amount
+was complete
+of the cardhol
+or transpos
+when calcu
+amount.
+ompleted a t
+that expired
+date, and did
+der did not au
+in a transac
+was process
+ccount numb
+was outstandin
+nt
+number
+eceipt.
+was complet
+alid date.
+nsaction was
+once using
+mber.
+was proces
+account num
+User Manual:
+gement Rules
+Page 35 of 37
+eted by a
+is incorrect
+tered
+the
+after
+the
+ed without
+lder.
+sition error
+ulating the
+transaction
+before the
+not obtain
+uthorize or
+tion, or a
+ed with a
+ber or no
+ng bearing
+on
+the
+ted prior to
+processed
+the same
+ssed using
+mber.
+
+--- Page 37 ---
+Nationa
+(NPSB)
+
+423
+423
+423
+423
+423
+423
+424
+al Payment Sw
+34
+Invali
+35
+Invali
+36
+Mail/
+37
+Mail/
+unaut
+38
+Merc
+39
+No sh
+40
+Non-m
+itch Banglades
+id Merchant
+id transaction
+/Telephone o
+/Telephone
+thorized purc
+chandise not a
+how disputed
+matching acc
+sh
+order on expir
+order
+tran
+chaser
+as described
+count numbe
+red card
+nsaction
+er
+Oper
+Transaction
+invalid merch
+Cardholder
+transaction a
+classified un
+code.
+A Mail Ord
+transaction w
+card that
+transaction d
+A Mail Ord
+transaction w
+unauthorized
+The merchan
+match what
+transaction
+documentatio
+time
+of
+merchandise
+unsuitable fo
+the merchan
+terms of sale
+Cardholder w
+stay and no-
+a credit for th
+Transaction
+authorization
+using an acc
+not match an
+the issuer’s
+original cred
+Transfer O
+rating Rules &
+Dispute Manag
+was comple
+hant.
+is
+claim
+as invalid and
+nder any oth
+der / Teleph
+was complet
+expired be
+date.
+der / Teleph
+was complet
+d purchaser.
+ndise or servi
+was describ
+receipt,
+on presente
+purchase,
+was
+or the purpos
+nt misrepres
+was charged
+show and is
+he no-show c
+did
+not
+n and was
+count number
+ny account n
+s master fi
+dit (including
+Original Cre
+User Manual:
+gement Rules
+Page 36 of 37
+eted by an
+ming
+the
+d cannot be
+her reason
+one Order
+ted with a
+efore the
+one Order
+ted by an
+ice did not
+bed on the
+or
+other
+ed at the
+or
+the
+otherwise
+se sold, or
+sented the
+for both a
+requesting
+charge.
+receive
+processed
+r that does
+number on
+ile or an
+g a Money
+edit) was
+
+--- Page 38 ---
+Nationa
+(NPSB)
+
+424
+424
+424
+424
+424
+424
+
+al Payment Sw
+41
+Non-r
+42
+Secur
+43
+Servi
+44
+Trans
+45
+Trans
+46
+Trans
+itch Banglades
+receipt of me
+rity violation
+ices not rende
+saction not as
+saction not pe
+saction not re
+Table 7 - Sec
+sh
+erchandise
+ered
+s described
+ermitted to te
+eceived
+cond Charg
+erminal
+geback Reas
+Oper
+processed us
+that does no
+number on th
+The
+cardho
+person
+did
+merchandise
+location agre
+by the agreed
+Transaction
+violating
+measures.
+Cardholder
+contracted w
+Cardholder
+merchandise
+conform to
+were given.
+Transaction
+terminal wh
+to process su
+Transaction
+acquiring b
+received by t
+son Codes fo
+rating Rules &
+Dispute Manag
+sing an accou
+ot match an
+he Issuer’s m
+older
+or
+not
+rec
+e or service
+eed with the
+d date.
+was
+standard
+claims the
+were not provi
+claims the
+e they receive
+the descrip
+was comple
+ich was not
+uch transactio
+was comple
+bank which
+the issuing ba
+for POS
+User Manual:
+gement Rules
+Page 37 of 37
+unt number
+ny account
+master file.
+authorized
+ceive
+the
+es at the
+e merchant
+completed
+security
+e services
+ided.
+service or
+ed does not
+ption they
+eted on a
+permitted
+on.
+ted by the
+was not
+ank.

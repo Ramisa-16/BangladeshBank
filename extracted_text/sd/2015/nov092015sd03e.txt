@@ -1,0 +1,182 @@
+--- Page 1 ---
+Statistics Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+
+
+St.d. Circular no:03 Date: 09/11/2015
+
+All Authorized Dealers of
+Foreign Exchange in Bangladesh
+
+
+Dear Sirs,
+Allocation of new codes regarding Invisible Receipts (Code-5) and Invisible Payments
+(Code-7) for reporting foreign exchange transactions as per the guideline titled
+“Code list for reporting of external sector transactions by the authorized dealers”
+(2012-edition)
+
+
+Attention of the Authorized Dealers (ADs) is drawn to the reporting of export/import of
+International Gateway (IGW) service and export/import of Bandwidth.
+In order to facilitate reporting of export/import of International Gateway(IGW) service and
+export/import of Bandwidth , new codes have been allocated in the chapter Invisible Receipts
+(Code-5) and Invisible Payments (Code-7) as per the guideline titled “Code list for reporting of
+external sector transactions by the authorized dealers” (2012-edition).
+All ADs are requested to report their foreign exchange transactions in respective Schedules
+and Statement to Bangladesh Bank as per allocated new codes (Annexure-A, Annexure-B).
+Please bring the contents of this circular, effective from July’2015, to the notice of all
+concerned.
+
+Enclosure: As stated
+Yours faithfully’
+
+
+
+
+Md. Mohib Ullah Miah
+Deputy General Manager
+Phone:9530087
+
+--- Page 2 ---
+Annexure-A
+INVISIBLE RECEIPTS
+Code-5
+Code
+No.
+Purpose
+Explanatory Notes
+Comment
+20
+Telecommunications
+
+
+201
+Telecommunication
+Services
+
+
+2010
+Telecommunication
+services
+
+Existing code
+2011
+Maintenance services of
+telecommunication
+Receipts from abroad against maintenance services
+of telecommunication network /machineries
+equipments etc ( Excluded are installation services
+for telephone network equipment which are included
+in construction services and transportation ,
+computer maintenance and machineries equipments
+of mills, plants, factories, etc.)
+New code
+2012
+Export of International
+Gateway (IGW) service
+Receipts from abroad on account of international
+Gateway (IGW) for transmitting calls between
+countries.
+(A gateway is a network point that acts as an entrance
+to another network. On the Internet, a node or stopping
+point can be either a gateway node or a host (end-
+point) node. Both the computers of Internet users and
+the computers that serve pages to users are host nodes.
+The computers that control traffic within your
+company's network or at your local Internet service
+provider (ISP) are gateway nodes.
+An International Gateway is a telephone number
+through which calls are routed to get cheaper rates on
+international long distance charges, or to make calls
+through voice over IP (VOIP) networks internationally.
+They also are effective in making an international call
+into the customer appear as if it is originating from a
+local number rather than the real location.)
+New code
+2013
+Export of Bandwidth
+service
+Receipts from abroad on account export of
+Bandwidth service.
+(Bandwidth describes the maximum data transfer rate
+of a network or Internet connection. It measures how
+much data can be sent over a specific connection in a
+given amount of time. For example, a gigabit Ethernet
+connection has a bandwidth of 1,000 Mbps, (125
+megabytes per second). An Internet connection via
+cable modem may provide 25 Mbps of bandwidth.)
+New code
+
+--- Page 3 ---
+Annexure-B
+
+INVISIBLE PAYMENTS
+Code-7
+Code
+No.
+Purpose
+Explanatory Notes
+Comment
+20
+Telecommunications
+
+
+201
+Telecommunication
+Services
+
+
+2010
+Telecommunication
+services
+
+Existing code
+2011
+Maintenance services of
+telecommunication
+Payments to abroad against maintenance services of
+telecommunication network /machineries
+equipments etc ( Excluded are installation services
+for telephone network equipment which are included
+in construction services and transportation ,
+computer maintenance and machineries equipments
+of mills, plants, factories, etc.)
+Existing code
+2012
+Import of International
+Gateway(IGW) service
+Payments to abroad on account of International
+Gateway (IGW) for transmitting calls between
+countries.
+(A Gateway is a network point that acts as an entrance
+to another network. On the Internet, a node or stopping
+point can be either a gateway node or a host (end-
+point) node. Both the computers of Internet users and
+the computers that serve pages to users are host nodes.
+The computers that control traffic within your
+company's network or at your local Internet service
+provider (ISP) are gateway nodes.
+An International Gateway is a telephone number
+through which calls are routed to get cheaper rates on
+international long distance charges, or to make calls
+through voice over IP (VOIP) networks internationally.
+They also are effective in making an international call
+into the customer appear as if it is originating from a
+local number rather than the real location.)
+New code
+2013
+Import of Bandwidth
+service
+Payments to abroad on account import of Bandwidth
+service.
+(Bandwidth describes the maximum data transfer rate
+of a network or Internet connection. It measures how
+much data can be sent over a specific connection in a
+given amount of time. For example, a gigabit Ethernet
+connection has a bandwidth of 1,000 Mbps, (125
+megabytes per second). An Internet connection via
+cable modem may provide 25 Mbps of bandwidth.)
+New code

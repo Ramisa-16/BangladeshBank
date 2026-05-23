@@ -1,0 +1,1523 @@
+--- Page 1 ---
+বাহলাদেশ ব্যাক
+
+(সেন্ট্রাল ব্যাংক অব বাংলাদেশ) বিভাগ
+প্রধান ail
+মতিঝিল, ঢাকা-১০০০
+বাংলাদেশ |
+১৫ জানুয়ারি, ২০২৫
+পরিসংখ্যান বিভাগ সার্কুলার নং-০১ তারিখ$-+-----+-------+++-
+১ মাঘ, ১৪৩১
+
+ব্যবস্থাপনা পরিচালক/প্রধান নিবহী কর্মকর্তা
+বাংলাদেশে কার্যরত সকল ইসলামিক ফাইন্যান্স কোম্পানি/শাখা/উইন্ডো।
+
+প্রিয় মহোদয়,
+
+ইসলামিক ফাইন্যাঙ্গ কোম্পানি/শাখা/উইভ্ডো কর্তৃক Islamic Financial Transactions সংশ্লিষ্ট তথা
+Data Template এর মাধ্যমে মাসিক ভিত্তিতে দাখিল প্রসঙ্গে
+
+সাম্প্রতিক সময়ে বাংলাদেশে ইসলামিক ফাইন্যাপ কোম্পানির সংখ্যা বৃদ্ধির সাথে সাথে যথাযথ পরিভাষার ইসলামিক
+ফাইন্যাঙ্গ কোম্পানি সম্পর্কিত তথ্য সংগ্রহ ও পর্যবেক্ষণ করার আবশ্যিকতা তৈরি হয়েছে। অত্র বিভাগের ইসলামিক ব্যাংকিং এন্ড
+ফাইন্যান্স ডাটাবেইজ (আইবিএফডি) ইউনিট কর্তৃক Islamic Financial Transactions সংশ্লিষ্ট তথ্য যথাযথ পরিভাবায় ও
+সঠিকতার সাথে সংকলন করার জন্য বাংলাদেশে কার্যরত সকল ইসলামিক ফাইন্যাপ কোম্পানি/শাখা/উইন্ডো সমূহের সংযুক্ত Data
+Template অনুযায়ী তথ্য সংগ্রহের প্রয়োজনীয়তা পরিলক্ষিত VT |
+
+এ বিষয়ে Data Template এর মাধ্যমে Islamic Financial Transactions সংক্রান্ত তথ্য নিরমিতভাবে
+মাসিক/ব্রেমাসিক (প্রযোজ্য ক্ষেত্রে) ভিত্তিতে পরবর্তী মাসের ১৫ তারিখের মধ্যে সকল ইসলামিক ফাইন্যান্স কোম্পানি/শাখা/উইভো
+সমূহকে পরিসংখ্যান বিভাগের ইসলামিক ব্যাংকিং os ফাইন্যান্স ভাটাবেইজ (আইবিএফডি) ইউনিটে দাখিল করতে হবে।
+
+এ নির্দেশনা অবিলম্বে কার্যকর হবে।
+অনুগ্রহপূর্বক প্রাপ্তি স্বীকার করবেন এবং সংশিষ্ট সকলকে বিষয়টি অবহিত করবেন।
+
+ধন্যবাদাত্তে,
+
+(মোঃ মাসুদ আকতার তালুকদার)
+পরিচালক (পরিসংখ্যান)
+ফোন-৯৫৩০২৩৮।
+
+ফোন £৮৮-০২-৯৫৫০৪৪৮, ৯৫৫৪৮৯৬, আইপি 8 ৮৮-০২-৫৫৬৬৫০০১-৬, ফ্যাক্স £ ৮৮-০২-৯৫৩০৪৭৯, www.bb.org.bd
+
+--- Page 2 ---
+Sl
+Name of The Tables
+Table B-1: Basic Information-1
+Table B-2: Basic Information-2
+Table B-3: Basic Information-3
+Table D-1: Mode-wise Deposits and Profit Rates
+Table D-2: Mode-wise Deposits (outstanding) classified by Sector
+Table D-3: District-wise Deposits (Outstanding)
+Table D-4: Deposits distributed by Size of Accounts
+Table I-1: Mode-wise Investment & Weighted Average Annual Mark-up /Profit Rate
+Table I-2: Investment (outstanding) Classified by Economic Purposes
+10 Table I-3: Investment (outstanding) Classified by Sectors
+11 Table I-4: Investment (Outstanding) in Industry
+12 Table I-5: Investment on Special Scheme (Outstanding)
+13 Table I-6: Investments distributed by Size of Accounts
+14 Table I-7: Mode-wise investment & Markup in Agriculture (Including Fishing, Forestry and Logging)
+15 Table I-8: Sector-wise Investment in Agriculture (Outstanding) (Including Fishing, Forestry and Logging)
+16 Table I-9: CMSME Investment Position
+17 Table E: e-Commerce Information
+18 Table C: Information on Corporate Social Responsibility (CSR)
+19 Table G-1: Information on the Activities of Shariah Supervisory Committee
+20 Table G-2: Information of the Members of Shariah Supervisory Committee & Higher Mangement of the Company
+21 Table G-3: Information on Shariah Compliant Corporate Governance
+22 Table T-1: Information on Training/ Seminar/Workshop/ Conference/ Symposium on Islamic Finance Organized by the Company
+23 Table-T-2: Employees Attended Training on Islamic Finance Organized by Other Institutions ( BIBM,BBTA,CPD etc)
+24 Table-R: Information of Publications related to Islamic Finance Published by the Company during the Quarter
+List of Data Tables
+(To fill for Islamic Banking Information only)
+
+--- Page 3 ---
+(Taka in Units)
+Sl
+Amount
+Total Assets
+a) In Bangladesh
+i) With Banks
+ii) With Non Bank Depository Corporations (NBDCs)
+iii) Others
+b) Outside Bangladesh
+1.5 Investment in shares & securities
+a) SUKUK Holdings
+b) Islamic Bond Holdings
+c) Other Shari'ah Compliant Securities
+1.6 Investment (Including EDF, Refinance/Prefinace)
+a) General Investment etc.(Shari'ah Compliant Financing)
+i) Principal
+ii) Mark-up
+b) Bills purchased & discounted
+1.7 Fixed Assets
+1.8 Other Assets n.i.e.
+Total Shareholders' equity & Liabilities
+2.1 Shareholders' equity
+a) Paid-up capital
+b) Statutory reserve
+c) Retained earnings
+d) Others
+2.2 Liabilities
+a) Deposits and other accounts (excluding EDF)
+i) Profit Sharing Investment Accounts (PSIAs)
+Mudaraba savings deposits
+Mudaraba term deposits
+Profit payable/Profit accrued (excluding inter-nbfc)
+Inter-nbfc deposits (including it's profit payable/profit accrued)
+Other deposits
+ii) Other Remunerative Funding (Murabaha, Tawarruq etc.)
+iii) Non-Remunerating Funding (Current A/C, Al Wadeah A/C etc.)
+b) Shares & securities Issued
+i) SUKUK Issued
+ii) Islamic Bond Issued
+iii) Other Shari'ah Compliant Securities Issued
+c) Deferred tax liabilities
+d) Borrowings against Islamic Banks Liquidity Facility (IBLF)
+e) Borrowings against Mudarabah Liquidity Support (MLS)
+f) Borrowings against Special Liquidity Support (SLS)
+g) Other liabilities n.i.e. (including EDF)
+E-mail Address:
+Name (Reporting Officer-2):
+Designation:
+Mobile Number:
+Name (Reporting Officer-1):
+Mobile Number:
+E-mail Address:
+Designation:
+Click here to go to Content
+Note:
+1. Branch/window based Islamic NBFCs will provide their islamic finance related data only.
+2. Total Assets" & "Total Shareholders' equity & Liabilities" must be equal.
+3. Assets & Liabilities related information should be reported in outstanding basis.
+4. Total Asset/Liabilities should be matched with NBFC-1 returns (submitted to Statistics Department) except Contingent Liability and OBU.
+5. Staff Loan should be included in 1.6 (a).
+6. In 1.3, regulatory requirement balances with Sonali Bank should be reported.
+7. In Inter-nbfc deposits, any amount with Samabaya Bank Ltd. should not be included.
+
+Table B-1: Basic Information-1
+Particulars
+(Monthly Reporting)
+NBFC Code:
+NBFC Name:
+Reporting Month:
+Report Submission Date:
+1.2 Balances with Bangladesh Bank (including foreign currency)
+1.3 Balances with its agent banks (including foreign currency)
+1.1 Cash in hand (including foreign currency)
+1.4 Balances with other banks & financial institutions
+Name (Head of Reporting / Head of Islamic Banking Division):
+Mobile Number:
+E-mail Address:
+Designation:
+E-mail Address:
+Office Address:
+Name (Managing Director):
+Mobile Number:
+
+--- Page 4 ---
+(Taka in Units)
+Sl
+Amount
+(Cumulative)
+(January to Reporting Month)
+Total Operating Income
+1.1 Net Investment Income (a-b)
+a) Income from Investment
+i) Bai Mode (e.g. Bai-Murabaha, Bai-Muajjal, Bai- Salam, Bai-Istisna, Bai-Istijrar, etc.)
+ii) Ijarah Mode (e.g. Ijarah)
+iii) Share Mode (e.g. Mudarabah, Musarakah, etc.)
+iv) Hybrid (e.g. HPSM)
+v) Others n.i.e.
+b) Profit paid on deposits
+1.2 Income from Shares & Securities
+a) SUKUK
+b) Islamic Bond
+c) Other Shari'ah Compliant Securities
+1.3 Commission, exchange and brokerage income
+Commission income
+Exchange and brokerage income
+Compensation income
+1.4 Other operating income n.i.e.
+Total Operating Expenses
+2.1 Salary and allownces
+2.2 Rent, taxes, insurance, electricity
+2.3 Legal expenses
+2.4 Postage, stamps and telecommunicaion etc.
+2.5 Stationary, printing and advertisement etc.
+2.6 Chief executive's salary and fees
+2.7 Director's fees and expenses
+2.8 Sharia'h Committee's fees and expenses
+2.9 Auditors' fees
+2.10 Charges on investment losses
+2.11 Zakat expenses
+2.12 Depreciation and repairs of banks' assets
+2.13 Other expenses n.i.e.
+Profit/loss before provision
+Total provisions and other adjustable income
+4.1 Provision for investments & off-balance sheet exposures
+4.2 Provision for diminution in value of investments in shares
+4.3 Provision for Shari'ah Non-compliance Income (If any)
+4.4 Other provisions n.i.e.
+Total profit/loss before taxes
+Provision for taxation
+6.1 Current tax
+6.2 Deferred tax
+Net profit/loss after taxation
+Note: 1. Income from Inter-nbfc Investment should be included in 1.1(a) according to mode.
+2. Profit paid on Inter-nbfc deposit should be included in 1.1(b].
+Click here to go to Content
+Table B-2: Basic Information-2
+Particulars
+(Monthly Reporting)
+Report Submission Date:
+Reporting Month:
+NBFC Name:
+NBFC Code:
+
+--- Page 5 ---
+Sl
+Amount / Number
+1 Manpower (In Number)
+1.1 Executives & Officers
+a) Head Office
+b) Branch offices
+1.2 Others (Sub Staff) (Those who have Provident fund facility and retirement benefits)
+a) Head Office
+b) Branch offices
+1.3 Temporary Employees (Those who doesn't have Provident fund facility and retirement benefits)
+a) Head Office
+b) Branch offices
+2 Number of Islamic Banking Branches/Windows (including SME/Agriculture Branches)
+2.1 Urban
+2.2 Rural
+2.3 SME/Agriculture Branches
+2.4 Agent Banking Outlets
+2.5 Sub Branch
+3 Investment Deposit Ratio (IDR)
+0.00%
+3.1) IDR Assets (Net General Investment) [Excluding inter-bank, Refinance, Prefinance & EDF] (a+b-c-d)
+a) General Investment (Advances) except those to other Banks
+b) Bills purchased and discounted
+c) EDF
+d) Refinance / Prefinance
+3.2) Total IDR liabilities (Total Time and Demand Liabilities) [Excluding inter-bank & EDF]
+4 Liquidity Surplus (+) or Shortfall (-)
+Profit Equilization Reserve (PER); if any
+Investment Risk Reserve (IRR); if any
+Note :
+1. In 4. Investment Deposit Ratio (IDR) & In 5, Liquidity - Surplus (+) or Shortfall (-) should be matched with reporting to Department of Off-site Supervision of Bangladesh Bank..
+2. PER and IRR should be reported in ending balance.
+3. In 3, Number of Islamic Banking Branches/Windows should be matched with reporting to BRPD and Sheet E-1(1). Head Office & SME centre should not be included in 3.
+Particulars
+a) Branches
+b) Windows
+a) Branches
+b) Windows
+Of which: Number of employees having CSAA/CIPA and/or with specialized Islamic finance qualification (six
+months or longer) from reputed institutions.
+4.1) Required SLR
+4.2) Total SLR (including CRR surplus/shortfall)
+NBFC Code:
+NBFC Name:
+Reporting Month:
+Click here to go to Content
+Report Submission Date:
+Table B-3: Basic Information-3
+(Monthly Reporting)
+(All should be reported in Unit Taka/In number and end of the month basis.)
+
+--- Page 6 ---
+Table D-1: Mode-wise Deposits and Profit Rates
+Particulars
+Number of Account
+Amount (Outstanding)
+(Taka in Units)
+A. Al - Wadeeah Current & Cash Credit Account
+Customer
+Bank
+of which: Profits Distributed (if any)
+B. Mudaraba Deposits (1+2+3)
+1. Mudaraba Savings Deposits
+2. Mudaraba Fixed /Term Deposits
+i) Less than 6 months
+ii) For 6 months to less than 1 year
+iii) For 1 year to less than 2 years
+iv) For 2 years to less than 3 years
+v) Above 3 years (Including Monthly Benefit
+Scheme, Double/Triple Benefit Scheme, Ogrim
+Munafa etc.)
+3. Mudaraba Recurring Deposits
+i) Hajj Savings Scheme Deposit Pension Scheme
+ii) Muhor Savings Scheme Flexible Savings Plan
+iii) Monthly Savings Scheme
+iv) Education Savings Scheme
+v) Marrigae Savings Scheme
+vi) Hajj Savings Scheme
+vii) House Owing Savings Scheme
+viii) Muhor Savings Scheme
+ix) Millionaire Deposit Scheme
+x) Lakhopoti Deposit Scheme
+xi) Other Recurring Deposits
+C. Special Purpose Deposits
+a) Employees’ Provident Fund/Pension Funds
+b) Contribution towards Insurance Funds
+c) Hajj Deposits
+d) Employees’ Security/Guarantee Deposits
+e) Security Deposits
+f) Gift Certificate Deposits
+g) Cash Waqf Deposits
+h) Lease deposits
+i) Loan depoits
+j) Safety net deposits
+k) Sundry Deposits
+l) Excise Duty, VAT, Source Tax, Development Tax, Surcharge etc.
+m) Others
+D. Restricted (Blocked) Deposits
+Grand Total (A+B+C+D)
+Note :
+1. Inter-nbfc deposits (including it's profit payable/profit accrued) and Shares & securities Issued ( Sheet B-1. 2.2(b)) should not be reported here. But any balances with Banks should be reported.
+2. Profit payable/Profit accrued should be included.
+3. Borrowings against IBLF / MLS / SLS should not be included here.
+4. EDF should not be included here.
+5. In case of different rates for same product, the rate will be weighted average rate and that will be calculated by the following formula -
+
+1 In B(14) & E(6) Weighted Average Profit Rate should be reported if any
+Report Submission Date:
+Profit Rate (%)
+(Upto two decimal places)
+(for example: 2.00 , 3.75 etc.)
+Agreed % of Profit (if any)
+Click here to go to Content
+(Monthly Reporting)
+NBFC Code:
+NBFC Name:
+Reporting Month:
+
+--- Page 7 ---
+Sector
+DMB
+Instruments
+Presidency,
+PM's Office,
+Ministries &
+Govt. Offices
+Autonomous
+& Semi-
+Autonomous
+Bodies
+Deposit
+Money Banks
+Local
+Authorities
+Public Non-
+Financial
+Corporations
+Non-Bank
+Depository
+Corporations-
+Public
+Other
+Financial
+Intermediaries-
+Public
+Insurance
+Companies &
+Pension Funds-
+Public
+Non-Bank
+Depository
+Corporations-
+Private
+Other
+Financial
+Intermediaries-
+Private
+Insurance
+Companies &
+Pension Funds-
+Private
+Financial
+Auxiliaries
+Other Non-
+Financial
+Corporations-
+Private
+Non-Profit
+Institutions
+Serving
+Household
+Household
+Residents
+10
+11
+12
+13
+14
+15
+16=(1+--+15)
+A. Al - Wadeeah Current & Cash Credit Account
+of which: Profits Distributed (if any)
+B. Mudaraba Deposits (1+2+3)
+1. Mudaraba Savings Deposits
+2. Mudaraba Fixed /Term Deposits
+i) Less than 6 months
+ii) For 6 months to less than 1 year
+iii) For 1 year to less than 2 years
+iv) For 2 years to less than 3 years
+v) Above 3 years (Including Monthly Benefit Scheme,
+Double/Triple Benefit Scheme, Ogrim Munafa etc.)
+3. Mudaraba Recurring Deposits
+i) Hajj Savings Scheme Deposit Pension Scheme
+ii) Muhor Savings Scheme Flexible Savings Plan
+iii) Monthly Savings Scheme
+iv) Education Savings Scheme
+v) Marrigae Savings Scheme
+vi) Hajj Savings Scheme
+vii) House Owing Savings Scheme
+viii) Muhor Savings Scheme
+ix) Millionaire Deposit Scheme
+x) Lakhopoti Deposit Scheme
+xi) Other Recurring Deposits
+C. Special Purpose Deposits
+a) Employees’ Provident Fund/Pension Funds
+b) Contribution towards Insurance Funds
+c) Hajj Deposits
+d) Employees’ Security/Guarantee Deposits
+e) Security Deposits
+f) Gift Certificate Deposits
+g) Cash Waqf Deposits
+h) Lease deposits
+i) Loan depoits
+j) Safety net deposits
+k) Sundry Deposits
+l) Excise Duty, VAT, Source Tax, Development Tax, Surcharge etc.
+m) Others
+D. Restricted (Blocked) Deposits
+Grand Total (A+B+C+D)
+Note:
+1. In DMB Column, only scheduled bank’s information should be given. Balances with Samabay Bank Ltd (if any) should be reported in Private Sector Column.
+Report Submission Date:
+(Taka in Units)
+Government Sector
+Other Public Sector
+Private Sector
+Total
+Reporting Month:
+Click here to go to Content
+Table D-2: Mode-wise Deposits (outstanding) classified by Sector
+(Monthly Reporting)
+NBFC Code:
+NBFC Name:
+
+--- Page 8 ---
+(Taka in Units)
+In General
+Non-profit organisation
+Total
+In General
+Non-profit organisation
+Total
+3=(1+2)
+6=(4+5)
+7=(3+6)
+Bandarban
+Brahmanbaria
+Chandpur
+Chattogram
+Cox'S Bazar
+Cumilla
+Feni
+Khagrachari
+Lakshmipur
+10
+Noakhali
+11
+Rangamati
+12
+Dhaka
+13
+Faridpur
+14
+Gazipur
+15
+Gopalganj
+16
+Kishoreganj
+17
+Madaripur
+18
+Manikganj
+19
+Munshiganj
+20
+Narayanganj
+21
+Narshingdi
+22
+Rajbari
+23
+Shariatpur
+24
+Tangail
+25
+Bagerhat
+26
+Chuadanga
+27
+Jashore
+28
+Jhenaidah
+29
+Khulna
+30
+Kushtia
+31
+Magura
+32
+Meherpur
+33
+Narail
+34
+Satkhira
+35
+Bogura
+36
+Chapainawabganj
+37
+Jaypurhat
+38
+Naogaon
+39
+Natore
+40
+Pabna
+41
+Rajshahi
+42
+Sirajganj
+43
+Barguna
+44
+Barishal
+45
+Bhola
+46
+Jhalokathi
+47
+Patuakhali
+48
+Pirojpur
+49
+Habiganj
+50
+Moulvibazar
+51
+Sunamganj
+52
+Sylhet
+53
+Dinajpur
+54
+Gaibandah
+55
+Kurigram
+56
+Lalmonirhat
+57
+Nilphamari
+58
+Panchagarh
+59
+Rangpur
+60
+Thakurgaon
+61
+Jamalpur
+62
+Mymensingh
+63
+Netrokona
+64
+Sherpur
+Total
+Sylhet
+Rangpur
+Mymensingh
+Barishal
+Rajshahi
+(Monthly Reporting)
+Report Submission Date:
+Reporting Month:
+NBFC Name:
+NBFC Code:
+Total
+Deposits
+Urban
+Rural
+Click here to go to Content
+Table D-3: District-wise Deposits (Outstanding)
+Chattogram
+Dhaka
+Khulna
+Division/District
+Sl
+
+--- Page 9 ---
+(Taka in Units)
+Sl
+Size of Accounts
+Number of Accounts (Outstanding)
+Amount (Outstanding)
+Upto Tk. 50 thousands
+Above Tk. 50 thousands to Tk. 1 lac
+Above Tk. 1 lac to Tk. 5 lac
+Above Tk. 5 lac to Tk. 10 lac
+Above Tk. 10 lac to Tk.50 lac
+Above Tk. 50 lac to Tk.1 Crore
+Above Tk. 1 Crore to Tk. 5 Crore
+Above Tk. 5 Crore to Tk. 10 Crore
+Above Tk. 10 Crore to Tk. 50 Crore
+10
+Above Tk. 50 Crore to Tk.100 Crore
+11
+Above Tk. 100 Crore
+Note: 1. Excluding Inter-nbfc and EDF.
+Click here to go to Content
+Table D-4: Deposits distributed by Size of Accounts
+Total
+NBFC Code:
+NBFC Name:
+Reporting Month:
+(Monthly Reporting)
+Report Submission Date:
+
+--- Page 10 ---
+Sl
+Particulars
+Number of Account
+(Outstanding)
+Amount (Outstanding)
+(Taka in Units)
+Mark-up/Profit Rate (%)
+(Upto two decimal places)
+(for example: 9.00, 10.75 etc)
+Commission/Agency Fees
+Mudarabah
+Musharaka
+Diminishing Musharaka
+Bai - Murabaha
+Bai - Muajjal
+Bai - Salam
+Bai – Istisna
+Bai-Istijrar
+Ijarah
+a) Operating Ijarah
+b) Financing Ijarah
+10
+HPSM
+11
+Muzara'ah
+12
+Musaqat
+13
+Kafalah
+14
+Ju'alah
+15
+Hawalah
+16
+Wakalah
+17
+Qard - e - Hasan
+a) With Service Charge
+b) Without Service Charge
+18
+Islamic Credit Card
+a) Qard
+b) Ujrah
+
+c) Tawarruq
+d) Others n.i.e. (if any, specify here)
+19
+MPI (Murabaha Post Import)
+20
+IBP (Inland Bill Purchased)
+21
+FBP (Foreign Bill Purchased)
+22
+Any other mode (not shown above)
+Click here to go to Content
+NBFC Code:
+NBFC Name:
+Reporting Month:
+(Monthly Reporting)
+Table I-1: Mode-wise Investment & Weighted Average Annual Mark-up /Profit Rate
+(Including Bills, Sukuk / Islamic Bond, Mark-up & balances with Banks and excluding inter-nbfc)
+Note:
+1. Information of Inter-nbfc Investment should not be reported here.
+2. Profit Receivable should be reported.
+3. Bank’s Sukuk & Islamic Bond holdings should be included here besides Client’s investment. But other share/securities should not include.
+4. OBU should not be included.
+5. Any Investment with Banks should be included here
+6. In case of different rates for same particulars, the rate will be weighted average rate and that will be calculated by the following formula -
+
+7. Wighted average profit rate should be given in 'Others' if any.
+Report Submission Date:
+GRAND TOTAL = B(1+2+…..+22)
+
+--- Page 11 ---
+(Taka in Units)
+Reporting Month
+S.S
+D.F
+B/L
+Total
+(4)= (1+2+3)
+SMA
+SD - 0
+SD - 1
+SD - 2
+A Agriculture, Fishing & Forestry
+a) Agriculture
+b) Fishing
+c) Forestry & logging
+B Industry (1+2+3)
+1 Term Investment (Excluding Working Capital Financing)
+a) Large Industries
+b) Small and Medium Industries
+c) Cottage/ Micro Industries
+d) Service Industries
+2 Working Capital Financing
+a) Large Industries
+b) Small and Medium Industries
+c) Cottage/ Micro Industries
+d) Service Industries
+3 Factoring
+C Construction
+D Transport
+E Trade & Commerce
+a) Whole sale Trading
+b) Retail Trading
+c) Other Commercial lending (SOD)/ Local LC, TR etc.
+e) Share Trading
+f) Lease Financing
+F Other Institutional Qard/Investments
+G Consumer Finance
+H Miscellaneous (Poverty Alleviation and others)
+Grand Total (A+B+…..+H) =
+Report Submission Date:
+Sl
+Economic Purpose
+Sanctioned Limit
+Disbursement
+(During the month)
+Recovery
+(During the month)
+Outstanding Investments
+Overdue
+Classified
+Unclassified
+Previous Month
+Total Investments
+(9)= (4+5+6+7+8)
+Total Investments
+(outstanding)
+Reporting Month:
+Click here to go to Content
+Table I-2: Investment (outstanding) Classified by Economic Purposes
+(Including Bills, Sukuk / Islamic Bond, Mark-up & balances with Banks and excluding inter-nbfc)
+(Monthly Reporting)
+NBFC Code:
+NBFC Name:
+
+--- Page 12 ---
+(Taka in Units)
+Reporting Month
+S.S
+D.F
+B/L
+Total
+(4)= (1+2+3)
+SMA
+SD - 0
+SD - 1
+SD - 2
+A Public Sector
+a) Government Sector
+b) Other Public Sector (Other than Govt.)
+B Private Sector
+a) Non-Financial Corporations
+i) Agriculture, Fishing & Livestock
+ii) Industries
+iii) Commerce & Trade (excluding individual businessmen)
+iv) Non-Govt. Publicity & News Media
+v) Private Educational Institutions
+vi) Other Private Sector (Official Account n.i.e)
+b) Financial Corporations
+i) Non - Bank Depository Corporations - Private
+ii) Other Financial Intermediaries - Private
+iii) Insurance Companies and Pension Funds - Private
+iv) Financial Auxiliaries
+v) Scheduled Banks
+c) Foreign Offices/Embassies/Enterprises/Companies/Liaison
+Offices/Firms/NGOs
+d) Non-profit institutions serving households (NPISH)
+e) Households (Individual Customers)
+Reporting Month:
+Report Submission Date:
+Sl
+Sector
+Sanctioned Limit
+Disbursement
+(During the month)
+Recovery
+(During the month)
+Outstanding Investments
+Grand Total (A+B)
+Classified
+Unclassified
+Click here to go to Content
+Table I-3: Investment (outstanding) Classified by Sectors
+(Including Bills, Sukuk / Islamic Bond, Mark-up & balances with Banks and excluding inter-nbfc)
+(Monthly Reporting)
+NBFC Code:
+NBFC Name:
+Overdue
+Total Investments
+(9)= (4+5+6+7+8)
+Total Investments (outstanding)
+Previous Month
+
+--- Page 13 ---
+(Taka in Units)
+Reporting Month
+S.S
+D.F
+B/L
+Total
+(4)= (1+2+3)
+SMA
+SD - 0
+SD - 1
+SD - 2
+1 Readymade Garments
+2 Textile Mills
+3 Spinning Mills
+4 Steel Engineering & Metalic Products
+5 Land Developers/Housing Companies
+6 Construction Companies
+7 Food Processing Industries
+8 Pharmaceuticals Industries
+9 Paper and Paper Manufacturing
+Industries
+10 Printing and Dyeing Industries
+11 Power sector Industries
+12 Transportation Industries
+13 Wood and wood products Industries
+14 Ship Breaking Industries
+15 Health Related Institutions
+16 Rubber and Plastic Industries
+17 Cement and Ceramic Industries
+18 Residential Hotels
+19 Telecommunication Industries
+20 Ship Building Industries
+21 Leather and Shoe Industries
+22 LP Gas Industries
+23 Chemical Industries
+24 Electric and Electronics Industries
+25 Garments Accessories
+26 Sugar Mills
+27 Assembling Industries
+28 Other Industries n.i.e.
+Click here to go to Content
+Grand Total
+Sl
+Type of Industries
+Sanctioned Limit
+Report Submission Date:
+Table I-4: Investment (Outstanding) in Industry
+(Including Bills, Sukuk / Islamic Bond, Mark-up & balances with Banks and excluding inter-nbfc)
+(Monthly Reporting)
+NBFC Code:
+NBFC Name:
+Reporting Month:
+Disbursement
+(During the month)
+Previous Month
+Total Investments (outstanding)
+Recovery
+(During the month)
+Outstanding Investments
+Overdue
+Classified
+Unclassified
+Total Investments
+(9)= (4+5+6+7+8)
+
+--- Page 14 ---
+(Taka in Units)
+Reporting Month
+S.S
+D.F
+B/L
+Total
+(4) (1+2+3)
+SMA
+SD - 0
+SD - 1
+SD - 2
+1 Green Finance
+2 Micro Finance
+3 Women Entrepreneurs Finance
+4 Rural Development Scheme
+5 Urban Poor Development Scheme
+6 Household Durables Scheme
+7 Investment Scheme for Doctors
+8 Transport Investment Scheme
+9 Small Business Investment Scheme
+10 Car Investment Scheme
+11 Housing Investment Scheme
+12 Palli Griho Nirman Prokalpa
+13 Others n.i.e
+Click here to go to Content
+Reporting Month:
+NBFC Name:
+NBFC Code:
+(Monthly Reporting)
+Table I-5: Investment on Special Scheme (Outstanding)
+(Including Bills, Sukuk / Islamic Bond, Mark-up & balances with Banks and excluding inter-nbfc)
+Total
+Sl
+Particulars
+Sanctioned Limit
+Report Submission Date:
+Disbursement
+(During the month)
+Recovery
+(During the month)
+Outstanding Investments
+Overdue
+Classified
+Unclassified
+Total Investments
+(9)= (4+5+6+7+8)
+Total Investments
+(outstanding)
+Previous Month
+
+--- Page 15 ---
+(Taka in Units)
+Sl
+Size of Accounts
+Number of Accounts
+Amount (Outstanding)
+Upto Tk. 50 thousands
+Above Tk. 50 thousands to Tk. 1 lac
+Above Tk. 1 lac to Tk. 5 lac
+Above Tk. 5 lac to Tk. 10 lac
+Above Tk. 10 lac to Tk.50 lac
+Above Tk. 50 lac to Tk.1 Crore
+Above Tk. 1 Crore to Tk. 5 Crore
+Above Tk. 5 Crore to Tk. 10 Crore
+Above Tk. 10 Crore to Tk. 50 Crore
+10
+Above Tk. 50 Crore to Tk.100 Crore
+11
+Above Tk. 100 Crore
+Click here to go to Content
+Table I-6: Investments distributed by Size of Accounts
+(Including Bills, Sukuk / Islamic Bond, Mark-up & balances with Banks and excluding inter-nbfc)
+Total
+(Monthly Reporting)
+Report Submission Date:
+Reporting Month:
+NBFC Name:
+NBFC Code:
+
+--- Page 16 ---
+Sl
+Investment Mode
+Number of Accounts
+(Outstanding)
+Amount (Outstanding)
+(Taka in Units)
+Mark-up Rate (%)
+(Upto two decimal places)
+(For example: 9.00 , 10.75 etc.)
+Mudarabah
+Musharaka
+Bai Murabaha
+Bai- Muajjal
+Bai - Salam
+Muzara'ah
+Musaqat
+Ijara
+HPSM
+10
+Others
+Click here to go to Content
+Note:
+1. In case of different rates for same product, the rate will be weighted average rate and that will be calculated by the following formula -
+2. Weighted Average Profit Rate should be given in Others if any.
+Report Submission Date:
+Table I-7: Mode-wise investment & Markup in Agriculture (Including Fishing, Forestry and Logging)
+(Monthly Reporting)
+NBFC Code:
+NBFC Name:
+Reporting Month:
+Total
+
+--- Page 17 ---
+(Taka in Units)
+Short
+Term
+Long
+Term
+Total
+3=(1+2)
+Crops investment
+Fishing
+Marketing of Agricultural Product
+Tools & Machineries for Irrigation
+Animal Farming
+Tools & Machineries for Agricultural
+Nursery
+Betel leaf (Pan baraj)
+Rural Transport
+10 Jalmahal (Water body) Management
+11 Others n.i.e.
+Click here to go to Content
+Investment Amount (Outstanding)
+Total
+Table I-8: Sector-wise Investment in Agriculture (Outstanding) (Including Fishing, Forestry and Logging)
+(Monthly Reporting)
+Report Submission Date:
+Reporting Month:
+NBFC Name:
+NBFC Code:
+Sl
+Sector
+
+--- Page 18 ---
+SME Category Sub-Sector
+Gender
+Number of Enterprises Disbursment Amount Number of Enterprise
+(Cumulative)
+Cumulative
+Disbursment Amount
+CMSME Outstanding
+Amount
+Recovery Amount
+Recovery Amount
+(Cumulative)
+Number of Enterprises Disbursment Amount Number of Enterprise
+(Cumulative)
+Cumulative
+Disbursment Amount
+Outstanding Amount
+Number of Enterprises Disbursment Amount Number of Enterprise
+(Cumulative)
+Cumulative
+Disbursment Amount
+Outstanding Amount
+Number of Enterprises Disbursment Amount Number of Enterprise
+(Cumulative)
+Cumulative
+Disbursment Amount
+Outstanding Amount
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Trade
+Trade Total
+Manufacturin
+Manufacturing Total
+Service Total
+Trade
+Trade Total
+Manufacturin
+Manufacturing Total
+Small Total
+Medium Total
+New Enterprise
+Rural
+Without Collateral
+Cottage
+Service
+Service Total
+CMSME Disb.
+Manufacturin
+Manufacturing Total
+Cottage Total
+Micro
+Manufacturin
+Manufacturing Total
+Medium
+Service
+Reference: https://www.bb.org.bd/smeportal/openpdf.php
+(Taka in Units)
+Click here to go to Content
+Table I-9: CMSME Investment Position
+(To fill Islamic Banking Information for Branch/Window based Islamic NBFCs only)
+(Quarterly Reporting)
+Reporting Month:
+NBFC Name:
+NBFC Code:
+Report Submission Date:
+Grand Total
+Service
+Service Total
+Micro Total
+Small
+Service
+Service Total
+
+--- Page 19 ---
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+Urban
+Rural
+Total
+No.
+Amount
+No.
+Amount
+No.
+Amount
+No.
+Amount
+No.
+Amount
+No.
+Amount
+No.
+Amount
+No.
+Amount
+No.
+Amount
+Note: 1.P2P-Person to Person, G2P-Government to Person
+2. Float Amount is as on basis and rest amounts are during the month basis.
+Islamic Credit Cards
+Others Islamic Cards
+No.
+Amount
+No.
+Amount
+No.
+Amount
+No.
+Amount
+No.
+Amount
+No.
+Amount
+No.
+Amount
+Float Amount
+Merchant Payment
+G2P
+Salary Disbursement
+Talktime Purchase
+Utility Bill Payment
+Report Submission Date:
+Table E: e-Commerce Information
+(Monthly Reporting)
+NBFC Code:
+NBFC Name:
+Reporting Month:
+(To fill Islamic Banking Information for Branch/Window based Islamic NBFCs only)
+Click here to go to Content
+3. Mobile Financial Services (MFS) Statistics: Part-1
+Month Name
+MFS Agent
+MFS Male Account
+MFS Female Account
+MFS Other Account
+MFS Total Account
+1. Branch / Window Statistics
+Month Name
+Fully Online
+Partially Online
+Offline
+Total Branch
+Note: Issued Cards are as on basis.
+No. of Issued Islamic Cards (Net)
+Total Transaction
+Month Name
+ATM Transaction
+POS Transaction
+CRM Transaction
+e-Commerce Transaction
+Month Name
+Islamic Credit Card Transaction
+Other Islamic Card Transaction
+(Amount in unit TK.)
+6. ATM, POS, CRM and e-Commerce Transaction Statistics by Cards
+Note: ATM- Automated Teller Machine, POS- Point of Sale, CDM-Cash Deposit Machine, CRM- Cash Recycling Machine
+(Amount in unit TK. )
+2. ATM, POS, CDM and CRM Statistics
+Month Name
+ATM
+POS
+CDM
+CRM
+5. Issued Cards and Transaction Statistics
+4. Mobile Financial Services (MFS) Statistics: Part-2
+(Amount in unit TK.)
+Month Name
+All Transaction
+Cash In
+Cash Out
+P2P
+
+--- Page 20 ---
+(Taka in Units)
+Amount
+(As on Previous Month)
+(January to Previous Month)
+Amount
+(During the Reporting Month)
+Amount
+(As on Reprting Month)
+(January to Reporting Month)
+c = (a+b)
+Source of Fund
+i. NBFC's own portion for CSR
+ii. Zakat
+a) NBFC's portion
+b) Zakat on the equity of the NBFC
+c) Zakat collected from depositors
+d) Zakat collected by the NBFC as intermediary
+e) Others
+iii. Sadaqah collected by the NBFC as intermediary
+iv. Derived Systemic Income
+v. Compensation charges
+vi. Interest recovered from BB
+vii. Interest recovered from foreign trade
+viii. Other Shariah unapproved income
+a) Doubtful income
+b) Tainted income
+c) Others
+ix. Business Development & Other Sources
+2 Expenditure
+i. Social welfare
+ii. Natural Disaster
+iii. Environment development
+iv. Education
+v. Poverty alleviation
+vi. Human Resources Development
+vii. Institutional capability Building
+viii. Donation
+ix. Social Development
+a) Education and Training
+b) Development for youth
+c) Income generating activities
+x. Hibah
+xi. Waqf
+xii. Other Shariah Approved activities
+Click here to go to Content
+Table C: Information on Corporate Social Responsibility (CSR)
+(Monthly Reporting)
+Report Submission Date:
+Reporting Month:
+NBFC Name:
+NBFC Code:
+Investment Mode
+Sl
+
+--- Page 21 ---
+Sl
+Activities
+Reporting Quarter
+1 Name of the Shariah Council/Board (SC)
+2 Number of members of Shariah Supervisory
+Committee/Board
+3 Do the SC have Muraqib (auditor)?
+4 Number of meetings held by (SC) during the Quarter
+5 Number of NBFC Branches Supervised by SC During the
+Quarter
+6 Findings by SC according to the supervision or audit of branch
+7 The suggestions/guide Lines by SC
+8 Are there arrangements for supervising the activities of NBFC
+by external Shariah Council?
+9 Are there arrangements to rate the activities of NBFC by any
+shariah rating Agency?
+10 Are there provisions to present the quarterly/half
+yearly/yearly review of SC in the NBFC's Board meeting?
+Click here to go to Content
+Table G-1: Information on the Activities of Shariah Supervisory Committee
+(Quarterly Reporting)
+Report Submission Date:
+Reporting Quarter
+NBFC Name:
+NBFC Code:
+
+--- Page 22 ---
+Sl
+Position at
+Shariah Board
+Name
+Contact address,
+Mobile Number and E-mail
+Educational Qualification including Islamic Finance related
+Certification, if any
+(with the name of institution)
+Profession including
+office address
+10
+11
+12
+13
+14
+15
+Sl
+Position at
+Company
+Name
+Contact address,
+Mobile Number and E-mail
+Educational Qualification including Islamic Finance related
+Certification, if any
+(with the name of institution)
+Office address
+10
+11
+12
+A. Information of the Members of Shariah Supervisory Committee :
+B. Information of the Higher Mangement of the Company concerning with Islamic Finance (Including Chairman & Managing Director)
+Click here to go to Content
+Table G-2: Information of the Members of Shariah Supervisory Committee & Higher Mangement of the Company
+(Quarterly Reporting)
+Report Submission Date:
+Reporting Quarter
+NBFC Name:
+NBFC Code:
+
+--- Page 23 ---
+Sl
+Particulars
+Necessary Information
+1 Board of Directors (According to the Bank Company Act. 1991 and Different
+circulars/directives issued by Bangladesh Bank)
+a) Number of Members
+b) Number of Meetings held during the Month
+2 Executive Committee (EC)
+a) Number of Members
+b) Number of Meetings held during the Month
+3 Audit Committee
+a) Is Shariah Compliance observed in auditing framework?
+b) Does the bank have shariah Audit Manual?
+c) Is there separate Shariah Secretariate for assisting the SSC?
+d) Is shariah Compliance observed in Accounting system?
+e) Are there external Shariah audit firms engaged to conduct audit?
+4 Policy, technique and other information disclosure
+a) Is there any classification of Share holders?
+b) Amount of honorarium for each member of the Board of Directors
+c) Amount of honorarium for each member of the EC
+d) Amount of honorarium for each member of Shariah Council
+Click here to go to Content
+Table G-3: Information on Shariah Compliant Corporate Governance
+(Quarterly Reporting)
+Report Submission Date:
+Reporting Month:
+NBFC Name:
+NBFC Code:
+
+--- Page 24 ---
+In no. of days
+In hours
+1 Seminar (i+ii)
+i) National
+ii) International
+2 Workshop (i+ii)
+i) National
+ii) International
+3 Conference (i+ii)
+i) National
+ii) International
+4 Symposium
+5 Lecture Series (i+ii)
+i) National
+ii) International
+6 Training
+7 CPD
+8 Public awareness campaign
+Click here to go to Content
+Table T-1: Information on Training/ Seminar/Workshop/ Conference/ Symposium on Islamic Finance Organized by the Company
+(Quarterly Reporting)
+NBFC Code:
+NBFC Name:
+Report Submission Date:
+Duration
+Number of Participants
+Subject
+Particulars
+Sl
+
+--- Page 25 ---
+In no. of days
+In hours
+Click here to go to Content
+Table-T-2: Employees Attended Training on Islamic Finance Organized by Other Institutions ( BIBM,BBTA,CPD etc)
+(Quarterly Reporting)
+Report Submission Date:
+NBFC Name:
+NBFC Code:
+Course Duration
+SL
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+31
+32
+33
+24
+25
+26
+27
+28
+50
+44
+45
+46
+47
+48
+Course Name
+Number of Participants
+Organizer
+49
+39
+40
+41
+42
+43
+34
+35
+36
+37
+38
+29
+30
+
+--- Page 26 ---
+Sl
+Particulars
+Description
+Date of Publications
+Books
+Journals
+Research Paper
+In House Magazine
+Brochure/ Folder
+Manuals
+Survey Based Research
+a) On going
+b) Final
+Other Publications
+Click here to go to Content
+Table-R: Information of Publications related to Islamic Finance Published by the Company during the Quarter
+NBFC Code:
+NBFC Name:
+Report Submission Date:
+(Quarterly Reporting)

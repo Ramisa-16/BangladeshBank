@@ -1,0 +1,562 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+December 30, 2007
+
+BRPD Circular No. 14
+
+Date: Poush 16 , 1414
+
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+
+Implementation of New Capital Accord (Basel II) in Bangladesh.
+
+
+You are aware that New Capital Accord (Basel II) will be implemented from early
+2009. On the basis of a quantitative impact study (QIS) conducted by Bangladesh Bank to
+assess the preparedness of banks for implementing Basel II, an Action-plan / Roadmap
+(Annexure - B) has been finalized and approved by the competent authority. The Action-plan/
+Roadmap is enclosed herewith for your internal plan and gearing up the efforts for
+implementing Basel II.
+
+Please acknowledge receipt.
+
+
+Yours sincerely,
+
+
+(Naba Gopal Banik)
+General Manager
+Phone: 7117825
+
+Encl: As above
+
+--- Page 2 ---
+Page 1 of 3
+
+(Annexure-B)
+(Revised as per discussion in
+the National Steering Committee)
+
+Action-Plan/ Roadmap
+
+Basel II would be implemented from January 2009. In this regard a quantitative impact study (QIS) to
+assess the preparedness for implementing Basel II as well as the bank’s view on the optional approaches for
+calculating Minimum Capital Requirement (MCR) as stated in Basel II was carried out in April-May 2007.
+Study & subsequent discussion with few related banks reveal that bankers should be more acquainted with the
+New Capital Accord (Basel-II). To address this challenge capacity building of concerned implementing &
+supervisory officials should be given first priority in the Action Plan/Roadmap. Basel II may be implemented with
+the following specific approaches as initial steps:
+Standardized Approach for calculating Risk Weighted Amount (RWA) against Credit Risk
+supported by External Credit Assessment Institutions (ECAIs)
+Standardized Rule Based Approach against Market Risk and
+Basic Indicator Approach for Operational Risk.
+Accordingly, Action Plan/ Roadmap for implementing Basel II in Bangladesh may be proposed as stated below:
+
+No.
+Steps of
+Activity/Action
+Description
+Last date of
+Completing the
+task
+Capacity Building
+Target Group:
+a) Responsible officials of Bangladesh Bank
+(BB)
+specially
+related
+to
+Basel
+II
+implementation
+b) Supervisory officials of Bangladesh Bank
+(Both Off site and On site including
+Vigilance Division)
+c) Officials of Commercial Banks related
+with Basel II implementation, Supervision
+and Risk Management
+Continuous Effort (It
+should be started
+immediately and will
+continue until
+implementation is
+completed)
+Requesting National
+Steering Committee
+for approval of Action
+Plan/ Roadmap and
+Specific Approaches
+Combined/
+Separate
+meeting(s)
+of
+National
+Steering Committee and Coordination Committee
+for deciding on specific approaches to be
+considered as initial step and action plan/ roadmap
+of Basel II implementation in Bangladesh.
+By December 31,
+2007
+Issuance of Circular
+on Action Plan /
+Roadmap
+The action plan/roadmap of implementing Basel II
+in Bangladesh will be communicated to banks. The
+communication will include:
+
+Steps & timeframe for the adoption of
+Basel II.
+Adoption of various approaches for credit,
+market and operational risk.
+This communication will enable banks to devise
+their internal plans and gear up their efforts.
+By January 31 , 2008
+
+--- Page 3 ---
+Page 2 of 3
+
+
+No.
+Steps of
+Activity/Action
+Description
+Last date of
+Completing the
+task
+Formation and
+functioning of Basel II
+Unit
+Basel II Implementation Unit at each bank
+comprising at least 5 members will be as follows:
+a) A senior level officer preferably the
+MD/DMD/CEO- Chairman
+b) Head of Internal Control and Compliance -
+Member
+c) Head of Treasury - Member
+d) Head of IT - Member
+e) Head of Credit risk – Member
+f) Head of Finance/CFO-Member
+
+TOR of the Committee:
+a) Apply the action plan of Basel II in their
+banks and review there-of.
+b) Communicate issues related to Basel II
+implementation to their Management.
+c) Help to carry out QIS (if necessary).
+d) Capacity Building program and
+training
+according
+to
+Training
+Need
+Assessment (TNA) for the concerned officials
+e) Establish planning & supervisory review as
+required by pillar-II of Basel II framework.
+
+The Unit has already
+been formed at each
+bank
+Fixing rules for
+recognition of
+External Credit
+Assessment
+Institutions (ECAIs)
+Developing Guidelines for recognition of External
+Credit Assessment Institutions (ECAIs) .
+By March 31, 2008
+Consultation with
+stakeholders &
+issuing circular on
+ECAIs recognition
+and mapping of
+ratings with the
+appropriate risk
+weights.
+Final approval of ECAI Guidelines.
+By May 31, 2008
+Preparation of draft
+guidelines for Basel II
+implementation .
+Preparation of draft guidelines with reporting
+format and Publishing/ circulating the same for
+appraisal of stakeholders.
+By August 31, 2008
+Second Quantitative
+Impact Study (QIS)
+on progress
+Assessment on risk management & requirement of
+additional capital to be maintained by banks
+covering market & operational risk along with
+credit risk (unrated position) under Basel II.
+Required assessment would be supported by a draft
+guideline.
+By September 30,
+2008
+
+--- Page 4 ---
+Page 3 of 3
+
+No.
+Steps of
+Activity/Action
+Description
+Last date of
+Completing the
+task
+Issuance of circular
+on regulation for
+compliance of Basel II
+along with final
+guidelines &
+reporting format
+Issuing
+detailed
+instructions
+to
+banks
+for
+implementation of Basel II and reporting the same
+to BB regularly.
+By December 31,
+2008.
+10
+Parallel run of
+present regulation
+(Basel I) on Capital
+Adequacy & Basel II
+Accord
+Banks to continue calculation of Minimum Capital
+Requirement (MCR) as per existing regulation and
+simultaneous calculation of MCR under Basel II
+January 01, 2009.
+to
+December 31, 2009
+For calculating Minimum Capital Requirement
+(MCR) under Foundation IRB approach, banks will
+derive figure for determining Probability of Default
+(PD) on the basis of own database and seek figure
+on Loss Given to Default (LGD), Exposure at
+Default (EAD) & Maturity (M) of Credit Exposure
+from Bangladesh Bank. Thus, BB will develop &
+maintain required loss database to meet the
+requirements and banks will be prepared in this
+regard.
+
+
+
+
+By 2012
+11
+Developing database
+for switching up to
+Internal Rating Based
+Approach (IRBA)
+Under Advanced IRB approach, banks will derive
+all those components (LGD, EAD & M) along with
+PD on the basis of their own loss database. So,
+Banks will be prepared in this regard.
+
+
+
+Continuous Effort
+Foundation IRBA both at Bangladesh Bank and
+other banks level
+12.
+Migration to Internal
+Rating Based (IRB)
+approach
+(BB's prior approval
+needed)
+Parallel run along with Standardized
+Approach
+
+By 2012
+13
+Oversee & subsequent
+QIS (if necessary):
+Measures to be taken
+by Basel II
+Implementation Cell
+and Supervision
+Departments of BB
+Review and monitoring of the proceedings and
+compliances and taking necessary action(s) thereof.
+
+Continuous Effort
+(Should be started
+from January 01,
+2009)
+
+
+(A flow statement of the Action Plan/ Roadmap follows next page)
+
+--- Page 5 ---
+Action plan/ Roadmap on
+Basel II implementation in Bangladesh
+
+
+Year
+2007
+2008
+2009
+Particulars/Months
+Ag
+Mr
+Jn
+Jl
+Ag
+Mr
+Jn
+Jl
+Ag
+O N
+
+1. Capacity Building
+
+
+Continuous Effort ( Should be started immediately & will continue until Basel II is implemented completely)
+2. Requesting Steering Committee for approval of Action
+plan/Roadmap & Specific Approaches
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Issuance of Circular on Action Plan/ Roadmap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Formation & Function of Basel II Implementation Unit
+
+Has already been formed at each bank & function like capital planning, review, reporting etc. are continuous process
+5. Fixing rules for recognition of External Credit Assessment
+Institutions (ECAIs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Consultation with stakeholders & issuing circular on ECAIs
+recognition and mapping of ratings with the appropriate Risk Weights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Preparation of draft guidelines for Basel II implementation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. 2nd Quantitative Impact Study (QIS) on Progress
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Issuance of circular on regulation for compliance of Basel –II along
+with final guideline & reporting format.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Parallel run of present regulation (Basel-1) on capital adequacy &
+Basel-II Accord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Developing Database for supporting of Foundation IRBA by BB by 2012
+
+11. Developing Database for switching up to Internal Rating Based
+(IRB) Approach
+
+Developing Database for Advanced IRBA by banks themselves are continuous effort.
+
+12. Migration to Internal Rating Based (IRB) Approach
+By 2012
+(Before migrating to either Foundation or Advanced IRBA require prior approval of BB)
+13. Oversee by BB and subsequent QIS
+(If necessary) Continuous process
+ECAIs= External Credit Assessment Institutions, IRBA = Internal Rating Based Approach, BB = Bangladesh Bank, QIS = Quantitative Impact Study, J = January, F = February Mr = March,
+A = April, M = May, Ag = August, S = September, O = October, N = November, D = December.
+
+
+Annexure - B

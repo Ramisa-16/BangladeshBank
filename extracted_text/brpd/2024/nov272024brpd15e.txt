@@ -1,0 +1,352 @@
+--- Page 1 ---
+Page 1 of 7
+
+
+
+Bangladesh Bank
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+website: www.bb.org.bd
+
+
+
+Banking Regulation & Policy Department
+
+27 November 2024
+BRPD Circular No. 15 Date: ------------------------
+
+
+
+
+12 Agrahayan 1431
+
+Managing Director/Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+Master Circular: Loan Classification and Provisioning
+Please refer to the BRPD Circular No. 14 of 23 September 2012, BRPD Circular No. 05 of 29
+May 2013, BRPD Circular No. 03 of 21 April 2019, BRPD Circular No. 16 of 21 July 2020
+and the subsequent circulars or circular letters on the captioned subject.
+2. Given the changes in the economic cycle, global dynamics, borrowers’ risk profile over time,
+and international best practices, it is crucial for supervisors to regularly review and update
+regulations on Non-Performing Loans (NPL) and provisioning policies to ensure more effective
+risk management. It is ultimately the responsibility of bank management to make accurate
+classifications and ensure adequate provisions, in line with supervisory guidance, established
+global standards, and the relevant accounting framework. Basel III standard also requires
+supervisors to closely monitor whether banks have robust policies and processes in place for
+managing credit risk.
+3. As part of its continuous efforts to enhance risk management capabilities of banks and
+strengthen the transparency of the financial reporting, Bangladesh Bank plans to implement
+Expected Credit Loss (ECL) methodology-based provisioning system for banks in accordance
+with International Financial Reporting Standard (IFRS 9) by 2027. The ECL Model under
+IFRS 9 enables banks to manage credit risk more effectively by considering past events, current
+conditions, and future forecast.
+4. Against this backdrop, to make advancement of the implementation of IFRS 9 standards and
+align with international best practices for loan classification and provisioning requirements, the
+following instructions are provided:
+5. Categories of Loans and Advances:
+All loans and advances will be grouped into four categories for the purpose of classification,
+namely- (a) Continuous Loan (b) Demand Loan (c) Fixed Term Loan and (d) Short-term
+Agricultural Credit.
+
+a) Continuous Loan: The loan accounts in which transactions may be made within
+certain limit and have an expiry date for full adjustment will be treated as Continuous
+Loan. Examples are: Cash Credit, Overdraft, etc.
+b) Demand Loan: The loans that become repayable on demand by the bank will be
+treated as Demand Loan. Such as: Post Import Financing, Payment against Document,
+
+--- Page 2 ---
+Page 2 of 7
+
+
+Foreign Bill Purchased, and Inland Bill Purchased, etc. However, if any contingent or
+any other liabilities are turned to forced loan (i.e. without any prior approval as regular
+loan) those too will be treated as Demand Loan.
+c) Fixed Term Loan: The loans which are repayable within a specific time period under a
+specific repayment schedule will be treated as Fixed Term Loan.
+d) Short-term Agricultural Credit: Short-term Agricultural Credit will include the short-
+term credits as listed under the Agricultural and Rural Credit Policy and Program issued
+by the Agricultural Credit Department (ACD) of Bangladesh Bank. Credits in the
+agricultural sector repayable within 12 (twelve) months will also be included herein.
+6. Basis for Loan Classification (CL):
+(a) Objective Criteria:
+(1) Past Due/Over Due: All the loans will be treated as past due/overdue from the
+following day of the expiry date or from the creation of the forced loan or from the due
+date if not repaid/renewed depending on different categories of loans and advances
+defined in para 5. However, in case of any installment(s) or part of installment(s) of a
+Fixed Term Loan is not repaid within the fixed expiry/due date, the amount of unpaid
+installment(s) will be treated as past due/overdue from the following day of the
+expiry/due date.
+(2) Categories of CL: All the loans will be classified into following categories:
+Standard-0 (STD-0)
+(ii) Standard-1 (STD-1)
+(iii) Standard-2 (STD-2)
+(iv) Special Mention Account (SMA)
+Sub-Standard (SS)
+(vi) Doubtful (DF)
+(vii) Bad/Loss (B/L)
+(3) Objective Criteria for CL:
+For all categories of loans, the entire loan will be classified depending on the period of
+past due or overdue as stipulated below:
+CL Categories
+Period of past due or overdue
+Unclassified
+STD-0 No past due or overdue
+STD-1 ≥ 1 day but <1 month
+STD-2 ≥ 1 month but < 2 months
+SMA
+≥ 2 months but < 3 months
+Classified
+SS
+≥ 3 months but < 6 months
+DF
+≥ 6 months but < 12 months
+B/L
+≥ 12 months
+
+(b) Qualitative Judgment:
+Under qualitative judgment, any loan can be classified based on the perceived risk and/or if full
+repayment is unlikely even if it has no past due or overdue on the basis of objective criteria.
+Such classification should reflect the degree of deterioration in the borrower’s creditworthiness
+and the anticipated impact on repayment. For incorporating qualitative judgment, banks must
+use their own judgment based on the following indicative assessment factors:
+
+--- Page 3 ---
+Page 3 of 7
+
+
+
+(1) Special Mention Account (SMA)
+(i) Loans must be classified no higher than SMA if any of the following deficiencies of
+the obligor is present: occasional overdrawn within the past year, below-average or
+declining profitability; barely acceptable liquidity; or problems in strategic
+planning.
+(ii) Loans must be classified no higher than SMA if any of the following deficiencies of
+the bank management is present: the loan was not made in compliance with the
+bank’s internal policies; failure to maintain adequate and enforceable
+documentation; minor operational or governance weaknesses; or poor control over
+collateral.
+(2) Sub-Standard (SS)
+(i) Loans must be classified no higher than SS if any of the following deficiencies of
+the obligor is present: recurrent overdrawn, low account turnover, competitive
+difficulties, location in a volatile industry with an acute drop in demand; very low
+profitability that is also declining; inadequate liquidity; cash flow less than
+repayment of principal and interest; weak management; doubts about integrity of
+management; conflict in corporate governance; unjustifiable lack of external audit;
+or pending litigation of a significant nature.
+(ii) Loans must be classified no higher than SS if any of the following deficiencies of
+the bank management is present: the banking organization has acquired the asset
+without the types of adequate documentation of the obligor’s net worth,
+profitability, liquidity, and cash flow that are required in the banking organization’s
+lending policy, or there are doubts about the validity of that documentation.
+(3) Doubtful (DF)
+Loans must be classified no higher than DF if any of the following deficiencies of the
+obligor is present: permanent overdrawn; location in an industry with poor aggregate
+earnings or loss of markets; serious competitive problems; failure of key products;
+operational losses; illiquidity, including the necessity to sell assets to meet operating
+expenses; cash flow less than required interest payments; very poor management; non-
+cooperative or hostile management; serious doubts of the integrity of management;
+doubts about true ownership; or complete absence of faith in financial statements.
+(4) Bad/Loss (B/L)
+Loans must be classified no higher than B/L if any of the following deficiencies of the
+obligor are present: the obligor seeks new loans to finance operational losses; location
+in an industry that is disappearing; location in the bottom quartile of its industry in
+terms of profitability; technological obsolescence; very high losses; asset sales at a loss
+to meet operational expenses; cash flow less than production costs; no repayment
+source except liquidation; presence of money laundering, fraud, embezzlement, or other
+criminal activity; or no further support by owners.
+
+(c) Finalization of CL:
+(i) Preliminarily banks are required to assess and classify loans on the basis of both
+objective criteria and qualitative judgment. Final classification will be the worse one.
+(ii) Classified Loans and Advances i.e. SS, DF and B/L (on the basis of both objective
+criteria and qualitative judgment) will be treated as Non-Performing Loans (NPL).
+
+--- Page 4 ---
+Page 4 of 7
+
+
+
+
+However, loan shall be treated as defaulted loan for the purpose of section 27KaKa(3)
+as per section 5(GaGa) of the Bank Company Act, 1991 and to be reported accordingly.
+
+(d) Improvement in CL:
+(i) If a loan is classified, either by bank or Bangladesh bank, on the basis of objective
+criteria, it can be moved to a more favorable classification category depending on
+payment of its past due/overdue amount as per agreement.
+(ii) If a loan is classified on the basis of Qualitative Judgment by the bank, from time to
+time, in the judgment of the bank, it may be moved to a more favorable classification
+category. The decision must be accompanied by analysis showing that there has been
+improvement in the payment performance of the loan and/or in the financial condition
+of the borrower. The decision to move a loan gradually from B/L to DF, or from DF to
+SS, may, with appropriate justification, be taken by Managing Director/CEO. The
+decision to move a loan from SS to SMA/STD must be taken by the Board of Directors,
+with appropriate justification presented by the branch that originated the loan in
+question and the Managing Director/CEO.
+(iii) If a loan is classified during Bangladesh Bank’s inspection on the basis of qualitative
+judgment, it cannot be declassified without the consent of the concerned Department of
+Banking Inspection of Bangladesh Bank.
+(iv) A bank may request the concerned Department of Banking Inspection of Bangladesh
+Bank to review the classification of any loan for which there is a disagreement on
+classification that is not resolved during the on-site inspection. However, in any case
+where there is a lingering disagreement between the classification determined by bank
+management and the classification determined by the concerned Department of Banking
+Inspection, the judgment of the later one will prevail.
+7. Accounting of the Interest of Classified Loans:
+(a) If any loan or advance is classified as SS and DF, interest accrued on such loan will be
+credited to Interest Suspense Account instead of crediting the same to Income Account.
+(b) As soon as any loan or advance is classified as B/L, charging of interest in the same
+account will cease. If any interest is charged on any B/L account for any other special
+reason, the same will be preserved in the Interest Suspense account.
+(c) In case of rescheduled loans, the unrealized interest, if any, will be credited to Interest
+Suspense Account, instead of crediting the same to Income Account.
+(d) In case of filing a law-suit for recovery of such loan, interest for the period till filing of the
+suit can be charged in the loan account in order to file the same for the amount of principal
+plus interest. But interest thus charged in the loan account has to be preserved in the Interest
+Suspense account.
+(e) If classified loan or part of it is recovered i.e., real deposit is effected in the loan account,
+first the interest (charged and not charged) is to be recovered from the said deposit and the
+principal to be adjusted afterwards.
+
+--- Page 5 ---
+Page 5 of 7
+
+
+
+8. Maintenance of Provision:
+Banks will maintain provision at the following rates for all categories of loans:
+Particulars
+Rate of provision
+General Provision STD-0, STD-1, STD-2
+1% of loan outstanding
+SMA
+5% of loan outstanding
+
+Specific Provision
+SS
+20% of base for provision
+DF
+50% of base for provision
+B/L
+100% of base for provision
+The rates of provisions stated above are absolute minimums, and banks are encouraged to
+assess the adequacy of provisions on a continuous basis to ensure that the provisions set aside
+are reflective of their potential losses.
+9. Base for Provision:
+For eligible collaterals of the following types, specific provision will be maintained at the stated
+rates in Para 8 on the outstanding balance of the classified loans less the amount of Interest
+Suspense and the value of eligible collateral:
+a. Deposit with the same bank under lien against the loan;
+b. Government bond/savings certificate under lien; and
+c. Guarantee given by Government or Bangladesh Bank and AAA rated
+Multilateral Development Banks (MDBs).
+For all other eligible collaterals, specific provision will be maintained at the stated rates in Para
+8 on the balance calculated as the greater of the following two amounts:
+i. outstanding balance of the classified loan less the amount of Interest
+Suspense and the value of eligible collateral; and
+ii. 15% of the outstanding balance of the loan.
+
+10. Eligible Collateral:
+(a) Types of Eligible Collateral:
+In the definition of Eligible Collateral as mentioned in the above paragraph the following
+collateral will be included as eligible collateral in determining base for provision:
+100% of deposit under lien against the loan;
+(ii) 100% of the value of government bond/savings certificate under lien;
+(iii) 100% of the value of guarantee given by Government or Bangladesh Bank or AAA
+rated MDBs;
+(iv) 100% of the market value of gold or gold ornaments pledged with the bank;
+50% of the market value of easily marketable commodities kept under control of the
+bank;
+(vi) Maximum 50% of the market value of land and building mortgaged with the bank;
+(vii) 50% of the average market value for last 06 months or 50% of the face value or 50 %
+of the last closing price, whichever is less, of the shares traded in stock exchange.
+(b) Determination of Market Value of Eligible Collateral:
+(i) Easily marketable goods will mean pledged and easily en-cashable/saleable goods that
+remain under full control of the bank. However, while the concerned bank branch
+official will conduct periodic inspection to verify as to whether requirements have been
+met such as the suitability of goods for use, expiry period, appropriateness of
+documentary evidences, and up to date insurance cover, the same will have to be
+assessed by the professional assessor from time to time.
+
+--- Page 6 ---
+Page 6 of 7
+
+
+
+(ii) For land and building, banks will have to ensure whether title documents are in order
+and concerned land and building will have to be mandatorily valued by the collateral
+valuation firm enlisted by Bangladesh Bank along with completion of proper
+documentation in favor of the bank. In cases, where the valuation by the collateral
+valuation firm is not mandatory, bank will do it by themselves. Nevertheless, temporary
+establishments shall not be shown as building.
+(iii) In order to facilitate the on-site inspection by concerned Department of Banking
+Inspection of Bangladesh Bank, banks are also advised to maintain a complete
+statement of eligible collateral on a separate sheet in the concerned loan file.
+Information such as a description of eligible collateral, their assessment by a recognized
+firm, marketability of the commodity, control of the bank, and reasons for considering
+eligible collateral etc. will have to be included in that sheet.
+
+11. General Instructions & Reporting:
+(a) In terms of the above policies, the banks will conduct their classification activities on
+quarterly basis.
+(b) Periodic revaluations of collateral should be done. For movable collateral, it should not be
+revalued at least one year before the last valuation. On the other hand, for immovable, it
+should not be revalued at least three years before the last valuation. However, when
+objective evidences such as an economic downturn or decrease in collateral value require
+revaluation, it might be done before the mentioned time considering the bank’s risk
+perspective. In that case, minimum value of the last two assessments should be considered
+as actual valuation.
+(c) The classification of each individual loan must be justified in writing and the
+documentation must contain the signatures of both the persons assigning the classification
+and the person reviewing it. These written justifications must be maintained in the loan files
+and be available for viewing by the Bangladesh Bank inspection teams. Banks should
+continue to use the existing forms for loan classification, provisioning and interest suspense
+i.e. CL-1 to CL-5 as follows until further modification:
+
+(i) CL-1 is the compilation/summary of 4 other forms. This form is for showing
+summary of classification status for different loan categories mentioned earlier
+along with staff loan;
+(ii) CL-2 is for reporting loan classification of Continuous Loan;
+(iii) CL-3 is for reporting loan classification of Demand Loan;
+(iv) CL-4 is for reporting loan classification of Fixed Term Loan; and
+(v) CL-5 is for reporting loan classification of Short-term Agricultural Credit.
+
+(d) Bank branches shall send the completed forms (CL-1 to CL-5) to their Head Office. The
+Head Offices of banks should make arrangements for scrutiny of all the forms prepared by
+the branches. Where necessary, they should carry out corrections and ensure maintenance
+of the corrected forms in the records of the branch. After scrutiny of all forms (CL-1, CL-2,
+CL-3, CL- 4 and CL-5) prepared by branches and being satisfied with the results, they
+should prepare a consolidated position of classification, provisions and interest suspense
+using form CL-1. Banks are also advised to preserve the CL statements in both their Head
+Offices and branches for inspection by the Bangladesh Bank inspection team.
+
+--- Page 7 ---
+Page 7 of 7
+
+
+(e) Bank should upload the CL-1 (Both Domestic Banking Unit and Offshore Banking Unit)
+statement in Enterprise Data Warehouse (EDW) of Bangladesh Bank according to the
+template (T_PS_Q_LN_PROV) for loan classification and provisioning.
+(f) Banks are advised to submit detailed statements through CL-1 in respect of classification,
+provision and interest suspense accounts within the 15th of next month after the quarter-end.
+(g) Banks are advised to ensure correct and timely submission of CL-1; failing to which
+penalty may be imposed on the concerned non compliant bank.
+(h) The classification status of each individual loan will have to be reported to the Credit
+Information Bureau (CIB) according to the instructions given by CIB of Bangladesh Bank.
+12. Instructions given in BRPD Circular No. 14/2012 and its subsequent modifications through any
+circulars or circular letters will be superseded by this circular. However, for provisioning of
+Off-Balance Sheet exposures, the BRPD circular No. 06/2023 and any subsequent instructions
+related to this will have to be followed.
+13. Islamic banks must adhere to this loan classification and provisioning policy for their
+investments.
+14. This directive has been issued by Bangladesh Bank in exercise of its power conferred on it
+under section 49(1)(Cha) of the Bank Company Act, 1991.
+15. This circular will come into force from 01 April 2025.
+Yours faithfully,
+
+(Mohammad Shahriar Siddiqui)
+Director (BRPD)
+Phone: 9530252

@@ -1,0 +1,49 @@
+--- Page 1 ---
+Payment Systems Department
+Bangladesh Bank
+Head Office, Dhaka­1000
+Website: http://www.bb.org.bd
+
+PSD Circular No. 04 /2012
+
+Date:
+December 24, 2012
+Poush 10, 1419
+
+
+Managing Director/CEO
+All Scheduled Banks of Bangladesh
+
+
+Dear Sir,
+
+
+Implementation of National Payment Switch Bangladesh (NPSB)
+
+Please refer to the DCMPS (PSD) Circular No. 02/2012 dated March 20, 2012
+regarding the Implementation of National Payment Switch Bangladesh (NPSB).
+
+Bangladesh Bank (BB) has already started implementation of NPSB in order to
+create a common platform for the Cards (Debit/Credit/Prepaid), internet and mobile
+based payments in the country. The work is running in full swing and by this time the
+installation of necessary hardware and software at Bangladesh Bank’s premises has
+been completed successfully for your smooth participation in NPSB. It may be
+mentioned here that the work is scheduled to complete within a couple of weeks as it is
+a national priority project.
+
+Under this circumstance, it has been decided that all inter‐bank domestic
+transactions originating from any delivery channel (ATM/POS/Kiosk/Mobile/Internet)
+will be routed through NPSB. These will also include the transactions of those banks
+which do not have their own switch but are using Third Party Processor (Q‐cash, Cash
+Link etc.). You are, therefore, advised to upgrade/customize your own/third‐party
+switching software according to our specifications (Host to Host) within shortest
+possible time.
+
+Please acknowledge receipt.
+
+Yours’ Sincerely
+
+
+(Md. Humayun Kabir)
+General Manager
+Phone: +88‐02‐ 9530174

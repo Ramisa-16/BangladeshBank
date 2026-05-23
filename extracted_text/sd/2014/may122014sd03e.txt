@@ -1,0 +1,180 @@
+--- Page 1 ---
+Page 1 of 2
+
+Website: www.bb.org.bd
+Statistics Department
+Bangladesh Bank
+Head Office, Dhaka
+
+
+
+
+
+
+
+
+
+
+
+StD Circular No. 03
+
+
+
+
+
+
+Date: May 12, 2014
+
+
+Managing Director/CEO
+All Authorized Dealer (AD) Banks & their Offshore Banking Units (OBUs) in Bangladesh
+
+Subject: Submission of returns on Foreign Direct Investment (FDI), Private Sector External Debt (PSED) and
+Portfolio Investment (PI) in prescribed Form (FI-1, FI-2, ED-1, ED-2, STED and PI) / RIT on monthly/ quarterly
+basis.
+
+Dear Sir,
+
+This refers your careful attention to Bangladesh Bank’s FE circular no.-21 dated November 03, 2009 and Statistics
+Department circular no.-01, dated August 14, 2012 and other such circulars/letters issued from time to time regarding
+submission of returns on foreign investment covering FDI, PSED, PI and others.
+
+02. In compliance with recommendations of IMF Bangladesh Bank as a part of proper execution of its duties has recently
+decided to collect & compile the aforesaid external sector data more frequently with a view to determining the country’s
+macroeconomic policy in terms of balance of payment (BOP), international investment position (IIP) and debt sustainability
+of the country.
+
+03. In view of the above, from now on (January 2014 onwards) all AD banks along with their OBUs & respective client
+enterprises having foreign investment (namely FDI, PSED, PI and others) are hereby asked to strictly comply with the
+following instructions to ensure the duly & timely submission of periodic returns (on foreign investment/ external liabilities
+& assets) to Statistics Department, Bangladesh Bank:
+
+3.1 Required time frame and reporting frequency along with prescribed Forms/RITs for submitting foreign investment returns
+applicable to AD banks/OBUs/enterprises are as follows:
+
+Type of Information/Data
+Returns
+Reporting
+Frequency
+Time
+Frame/Submission
+Deadline
+Reporting
+Form
+Relative RIT
+Inward Foreign Direct
+Investment(FDI)
+Form FI-1
+T_ME_Q_INV_FOR_FI_1
+T_ME_Q_INV_NON_RES_FI_1
+T_ME_Q_INV_OP_PRFT_FI_1
+Quarterly(instead
+of existing half
+yearly)
+Within one month &
+15 days for AD
+banks/OBUs while one
+month
+for
+other
+enterprises following
+the reference quarter
+Outward Foreign Direct
+Investment(FDI)
+Form FI-2
+T_ME_Q_INV_FOR_FI_2
+T_ME_Q_INV_NON_RES_FI_2
+T_ME_Q_INV_OP_PRFT_FI_2
+Quarterly(instead
+of existing half
+yearly)
+Within one month &
+15 days for AD
+banks/OBUs while one
+month
+for
+other
+enterprises following
+the reference quarter
+Portfolio Investment
+Form PI
+1. T_ME_Q_PORT_INV
+2. T_ME_Q_PORT_SURVEY
+Quarterly
+Within one month &
+15 days for AD
+banks/OBUs while one
+month
+for
+other
+enterprises following
+the reference quarter
+
+--- Page 2 ---
+Page 2 of 2
+
+Summary report on
+medium & long term
+(MLT) External Debt
+agreement
+Form ED-1
+
+Onetime
+Within 15 days from
+the date of agreement
+Status report on External
+Debt
+Form ED-2
+
+Quarterly
+Within one month &
+15 days for AD
+banks/OBUs while one
+month
+for
+other
+enterprises following
+the reference quarter
+Status report on short term
+External Debt
+Form
+STED
+T_ME_M_STED
+Monthly
+Within
+15
+days
+following the reference
+month
+
+
+3.2 All AD banks and OBUs shall have to submit/upload (as the case may be) the aforesaid returns of their own as well as
+those received from their respective client enterprises regularly in due course as stated above to Statistics Department/
+EDW of Bangladesh Bank.
+3.3 Reporting enterprises must ensure that the quarterly returns submitted by them especially in Forms FI-1 & FI-2 are
+accompanied by supporting financial statement/accounts (audited or unaudited) for the reference quarter. In the case of
+any significant changes which might take place later in audited accounts must be brought to the notice of this department
+in order to revise the existing database accordingly.
+3.4 Head Offices/Principal Offices of all AD banks shall have to submit the branch/OBU-wise updated list as per the format
+(copy enclosed) of their client enterprises regularly on quarterly basis to Statistics Department of Bangladesh Bank,
+Head Office by the 10th day of immediate next month following each quarter.
+3.5 AD banks & their OBUs shall have to make sure before extending any services to their respective client enterprises that
+they have duly submitted the aforesaid returns as and when were due. In this connection clause-5 of the FE circular
+No.21 dated November 03, 2009 may be referred to.
+3.6 All other instructions as stated in FE circular No. 21 dated November 2009 and Statistics Department circular No. 01
+dated August 14, 2012 shall remain unchanged until further notification.
+
+04. Please bring the contents of this circular to the notice of all concerned.
+
+
+Encl.: As stated above.
+
+Yours faithfully
+
+
+
+Sd/-
+
+(Md. Azizul Islam)
+Deputy General Manager
+Phone: 9530177

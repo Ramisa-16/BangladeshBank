@@ -1,0 +1,3010 @@
+--- Page 1 ---
+50120
+PSD Circular No. 01/2025
+BANGLADESH BANK
+(Central Bank of Bangladesh)
+Head Office
+Managing Director/Chief Executives
+Dear Sir,
+Motijheel, Dhaka-1000
+All Scheduled Banks and Finance Companies in Bangladesh
+Bangladesh
+Payment Systems Department
+Please acknowledge the receipt.
+Dated: 19 January 2025
+Bangladesh Real Time Gross Settlement (BD-RTGS) System Rules
+In order to facilitate safe, secured and efficient interbank payments, Bangladesh Bank has
+upgraded the Real Time Gross Settlement (BD-RTGS) system and updated Real Time Gross
+Settlement (BD-RTGS) system rules as well.
+All scheduled banks and finance companies participating in Bangladesh Real Time Gross
+Settlement System (BD-RTGS) are hereby advised to follow the BD-RTGS System Rules
+Version 2.1 enclosed herewith with immediate effect. Henceforth, the BD-RTGS system rule as
+stated in the circular no.09 dated 09/09/2015 shall stand repealed.
+Xours sincyely
+Md. Sharafat Ullah Khan
+Director (PSD)
+Phone: 880-2-9530611
+E-mail: sharafat.khan@bb.org.bd
+Phone : 88-02-9530010-75, 9530700-59, Fax: 88-02-9566212, www.bb.org.bd
+
+--- Page 2 ---
+Bangladesh Real Time Gross Settlement
+(BD-RTGS) System Rules
+Version 2.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payment Systems Department
+Bangladesh Bank
+
+--- Page 3 ---
+January 2025
+Version 2.1
+
+
+
+Version Table
+SN
+Version
+Release Date
+01
+September 2015
+02
+January 2025
+
+--- Page 4 ---
+BD-RTGS System Rules | iii
+
+
+Table of Contents
+INTRODUCTION .............................................................................................................................................................. 5
+1.1
+Objective .......................................................................................................................................................... 5
+1.2
+Overview .......................................................................................................................................................... 5
+1.3
+Finality and Irrevocability of Payments ........................................................................................................ 6
+1.4
+RTGS Utilities .................................................................................................................................................. 6
+ACCESS CRITERIA AND CONDITIONS ....................................................................................................... 7
+2.1
+Membership Criteria ....................................................................................................................................... 7
+2.2
+Membership Mode .......................................................................................................................................... 7
+2.3
+Obligation and Responsibility ........................................................................................................................ 8
+2.4
+Role of Bangladesh Bank ................................................................................................................................ 8
+MESSAGES .......................................................................................................................................................... 9
+3.1
+Message Categories ......................................................................................................................................... 9
+3.2
+Message Formats ............................................................................................................................................. 9
+3.3
+Transaction Reference Number ....................................................................................................................10
+3.4
+Payment Information Need to be Supplied to the Receiver ........................................................................10
+3.5
+Reserve ............................................................................................................................................................10
+3.6
+Document Library ..........................................................................................................................................11
+PAYMENT PROCESSING PROCEDURES....................................................................................................12
+4.1
+Suitable Payments ..........................................................................................................................................12
+4.2
+Payments Initiation ........................................................................................................................................12
+4.3
+Acceptable Currencies ...................................................................................................................................12
+4.4
+Value Limits ....................................................................................................................................................12
+4.5
+Value Dates .....................................................................................................................................................12
+4.6
+Payment Priorities ..........................................................................................................................................13
+4.7
+Modification of Priorities ...............................................................................................................................13
+4.8
+Submission and Validation.............................................................................................................................13
+4.9
+Use of Appropriate Routing Information ......................................................................................................13
+4.10
+Execution and Notification .............................................................................................................................14
+4.11
+Profile Matching and Sanction Screening .....................................................................................................14
+4.12
+Transaction Queuing ......................................................................................................................................14
+4.13
+Priority Change ..............................................................................................................................................15
+4.14
+Gridlock Resolution ........................................................................................................................................15
+4.15
+Cancellation of Payments ...............................................................................................................................15
+4.16
+Four Eyes Mechanism ....................................................................................................................................15
+4.17
+Direct Debit .....................................................................................................................................................16
+MANAGEMENT OF PAYMENTS ...................................................................................................................17
+5.1
+Monitoring Payment Flows ............................................................................................................................17
+5.2
+Execution and Posting of Payments ...............................................................................................................17
+5.3
+Credit Confirmation ......................................................................................................................................17
+5.4
+Return Payments ............................................................................................................................................17
+
+--- Page 5 ---
+BD-RTGS System Rules | iv
+
+5.5
+Return Reason Codes (Technical) ..............................................................................................................18
+5.6
+Return Reason Codes (Operational) ..........................................................................................................19
+5.7
+Responsibilities of the Participants ................................................................................................................19
+5.8
+Responsibilities of Bangladesh Bank .............................................................................................................20
+LIQUIDITY AND TREASURY MANAGEMENT ..........................................................................................22
+6.1
+Settlement Accounts .......................................................................................................................................22
+6.2
+SOD and EOD Fund Transfer .......................................................................................................................22
+6.3
+Top-Up ............................................................................................................................................................22
+6.4
+Intraday Liquidity Facility .............................................................................................................................22
+BUSINESS DAY AND OPERATING HOURS ................................................................................................24
+7.1
+Business Day ...................................................................................................................................................24
+7.2
+Daily Operation Timetable ............................................................................................................................24
+FEES, CHARGES AND PENALTY ..................................................................................................................26
+CONTINGENCY AND BUSINESS CONTINUITY ........................................................................................27
+9.1
+General Obligations ........................................................................................................................................27
+9.2
+Failure of Communication Links ...................................................................................................................27
+9.3
+Force Majeure .................................................................................................................................................27
+9.4
+Conservation and Archiving ..........................................................................................................................28
+9.5
+Audit Trail ......................................................................................................................................................28
+10. ESTABLISHMENT AND MAINTENANCE OF USERS ...................................................................................29
+10.1
+General ............................................................................................................................................................29
+10.2
+Request to Create a User ...............................................................................................................................29
+10.3
+Request to Modify a User ...............................................................................................................................30
+10.4
+Request to Suspend or Delete a User ............................................................................................................30
+10.5
+Maintaining User Profile ...............................................................................................................................30
+10.6
+Training ...........................................................................................................................................................30
+11.
+DISPUTE RESOLUTION ..................................................................................................................................31
+11.1
+Dispute Resolution Procedures .....................................................................................................................31
+11.2
+Conciliation and Arbitration Procedures ......................................................................................................31
+12.
+AMENDMENT OF RULES ...............................................................................................................................32
+ANNEX 1: PARTICIPANTS BIC CODES ......................................................................................................................33
+ANNEX 2: PARTICIPATION AGREEMENT ...............................................................................................................36
+ANNEX 3: DAILY OPERATING TIMETABLE ...........................................................................................................37
+ANNEX 4: TRANSACTION TYPE CODES ...................................................................................................................38
+ANNEX 5: GUIDELINES OF INTRADAY LIQUIDITY FACILITY ..........................................................................39
+ANNEX 6: GUIDELINES OF INTRADAY LIQUIDITY FACILITY FOR ISLAMIC SHARIAH BASED BANKS
+
+…………………………………………………………………………………………………………………….41
+ANNEX 7: GUIDELINES OF FC CLEARING THROUGH BD-RTGS SYSTEM .....................................................43
+GLOSSARY OF TERMS ..................................................................................................................................................45
+
+--- Page 6 ---
+BD-RTGS System Rules | 5
+
+INTRODUCTION
+1.1
+Objective
+The purpose of this document is to define the System Rules for Bangladesh Real Time Gross
+Settlement (BD-RTGS) System. These Rules define operational aspects of BD-RTGS, together
+with the duties and obligations of all participants including Bangladesh Bank (BB) in its role as
+both System Operator and as a Participant. These Rules shall be applicable to all participants that
+are authorised by BB and have signed their agreement hereto. BB issues these System Rules as part
+of its responsibilities under the 7 (e) (i) of Bangladesh Bank Order, 1972 (P.O No. 127 of 1972) and
+Bangladesh Payment and Settlement System Act, 2024 (Act No. 9 of 2024). The RTGS system is
+regarded by BB as a systemically important payment system in Bangladesh. BB owns the RTGS
+system and is the legal system operator.
+These Rules mean all the conditions mentioned here and each related Annex and attachment as
+supplemented by other related materials, including Functional Specifications, related circulars and
+instructions of BB. Any of these materials may be amended from time to time. If there is a conflict
+between these Rules and any Annex, the terms of the Annex will prevail in respect of the relevant
+Service. Section 12 describes how these Rules may be amended from time to time. All time
+indications in these rules relate to the Bangladesh Standard Time (BST).
+
+1.2
+Overview
+BD-RTGS is a real time interbank large value electronic funds transfer mechanism for both local
+and foreign currency transactions. Participating financial institution will be able to transfer funds
+on `real time’ and on `gross’ basis. Settlement in `real time’ means transaction is not subjected to
+any waiting period. `Gross settlement’ means the transaction is booked in central bank’s account
+on one to one basis without netting with any other transaction. BD-RTGS will accommodate only
+credit transfers from participating financial institution while Bangladesh Bank and other payment
+system operator(s) may be allowed to settle both credit and debit transactions. The participants in
+the BD-RTGS system are as follows:
+a) Originator: The Originator is the entity that agrees to make payment to a receiver
+by initiating RTGS entries into the system. The Originator is usually a company,
+bank & NBFI itself, government agency or an individual instructing the
+Originating Financial Institution to debit his/her/its account and credit the
+amount to another customer’s account with Receiving Financial Institution.
+However, as an exception, Bangladesh Bank or other Payment System
+Operator(s) can act as an Originator and may send instructions directly to the
+system in which other participants’ account may be debited and/or credited.
+b) Originating Financial Institution (OFI): The Originating Financial Institution is
+the bank, NBFI or other Financial Institution which receives payment
+instructions from its customer (the Originator) and forwards the instruction to
+BD-RTGS system.
+c) Bangladesh Real Time Gross Settlement (BD-RTGS) System: BD-RTGS System
+is the central processing and settlement facility, operated by Bangladesh Bank.
+The system receives instructions from Originating Financial Institution, and
+before distributing the instructions to the appropriate Receiving Financial
+Institution, it does the settlement.
+d) Receiving Financial Institution (RFI): The Receiving Financial Institution is the
+
+--- Page 7 ---
+BD-RTGS System Rules | 6
+
+bank, NBFI or other Financial Institution that receives RTGS payment
+instructions from BD-RTGS System and post the same to the appropriate
+account which may be its customer (Receiver).
+e) Receiver: A Receiver is a person/organization that has agreed with an Originator
+to receive RTGS payment to its account maintained with a Receiving Financial
+Institution.
+
+1.3
+Finality and Irrevocability of Payments
+A valid RTGS payment is final and irrevocable. The moment the central System has accepted a
+Payment Instruction for Settlement, withdrawal by the Originator/OFI or by the System is not
+allowed unless the payment is queued for settlement and is therefore allowed to cancel.
+Settlement will be final and unconditional at the moment the Settlement Accounts of OFI and RFI
+have been debited and credited. There is no perceptible delay between the acceptance for
+Settlement and the final Settlement in RTGS, provided Originating Financial Institution has sufficient
+balance at the time of acceptance of the payment instruction.
+
+Originator finality:
+Settlement Finality:
+Receiver Finality:
+Originator has sent
+Payment has been
+Payment is
+Payment order and
+irrevocably and
+unconditionally
+amount debited from
+unconditionally
+credited to
+the account
+settled by RTGS
+receiver’s account
+
+
+
+
+
+Figure 1: Finality and irrevocability of payments
+1.4
+RTGS Utilities
+BD-RTGS is the interbank large value payment system which accommodates:
+Local and approved foreign currency payments initiated by OFIs on their own behalf
+and on behalf of their customers;
+The final and irrevocable gross settlement in Participants’ Settlement Accounts of the net
+positions arise from the Net Settlement Instruction (NSI) of:
+‐ Bangladesh Automated Cheque Processing System (BACPS);
+
+‐ NIKASH Bangladesh Electronic Funds Transfer Network (NIKASH-BEFTN);
+‐ National Payment Switch Bangladesh (NPSB);
+- Interoperable Digital Transaction Platform (IDTP);
+‐ or from any other multilateral interbank DNS system that BB may deem
+
+appropriate.
+
+
+
+Originator
+Originating FI
+BD-RTGS
+Receiving FI
+Receiver
+
+--- Page 8 ---
+BD-RTGS System Rules | 7
+
+ACCESS CRITERIA AND CONDITIONS
+
+2.1
+Membership Criteria
+
+RTGS system membership is open to entities that meet the following criteria:
+Licensed Commercial Bank regulated by BB;
+Licensed Non-Bank financial institutions regulated by BB;
+National Board of Revenue (NBR) and Ministry of Finance;
+Bangladesh Bank;
+Authorised domestic entities that provide payment and clearing services.
+
+Licensed Financial Institutions must apply to participate using the forms provided (See Appendix
+BD-RTGS participation in the form of direct membership is mandatory for all the schedule banks
+in Bangladesh. However, before sending live payment instructions, banks need to pass through the
+System Integration Test (SIT), participant training and should sign agreement with Bangladesh
+Bank.
+
+2.2
+Membership Mode
+
+BD-RTGS membership is mandatory for all schedule banks in Bangladesh. All initial and future
+members shall have relevant systems, procedures and trained staff meeting the criteria set by
+Bangladesh Bank. Participants shall endeavor to keep their systems updated and in
+synchronization with the central RTGS System and with the policy and procedures prescribed by the
+Central Bank. Bangladesh Bank is the sole authority to make decision to incorporate other/new
+member(s) and may refix the criterias for existing members as and when it may deem appropriate.
+Currently, there are four types of Members recognised in BD-RTGS:
+
+Direct Member: is a member which has a Deposit Account with Bangladesh Bank’s
+CBS and a settlement account with BD-RTGS System and is directly connected to RTGS
+via VPN. The Direct Participants are:
+Scheduled Banks in Bangladesh
+Non Bank Financial Institutions in Bangladesh and
+BB itself.
+NBFI is allowed to execute both FI to FI transactions and Client to Client Transaction in
+connection with Loan Disbursement and Loan Receipt.
+
+Sub Member: a member which has a Deposit Account with BB and a settlement account
+with BD-RTGS but has no direct connection to the System (its connection is via the
+network of a Direct member). Few small Schedule Banks & NBFI may choose to be a sub
+member.
+
+Special Member: A Clearing House which has no Current Account with BB but may
+directly be connected to the System for submission of NSI Files. The Special members,
+currently, are:
+
+Bangladesh Automated Cheque Processing System (BACPS);
+NIKASH Bangladesh Electronic Funds Transfer Network (NIKASH-
+BEFTN);
+
+--- Page 9 ---
+BD-RTGS System Rules | 8
+
+National Payment Switch Bangladesh (NPSB);
+Interoperable Digital Transaction Platform (IDTP)
+or from any other multilateral interbank DNS system that BB may deem appropriate.
+
+
+Monitoring Member: a member which has no Deposit Account with Bangladesh bank
+and no settlement account with BD-RTGS, however, these organisations may have a
+connection to the System for the purpose of monitoring their incoming payments, These
+organizations may be:
+
+The Controller General of Accounts (CGA) and
+The National Board of Revenue (NBR) authority.
+Ministry of Finance
+Bangladesh Bank
+
+2.3
+Obligation and Responsibility
+
+Participants are liable for any damage resulting from non-compliance with the procedures or from
+improper or fraudulent use thereof and in particular are fully liable for every transaction performed
+by their user(s). Each participating bank shall ensure that its own system and procedures
+provide appropriate protection against fraudulent activity in connection with the system. All actual
+or suspected fraudulent activity in connection with RTGS must be reported immediately to the
+Director, Payment Systems Department (Division-2), Bangladesh Bank where such fraud or
+suspected fraud is on the part of the participant’s staff or customer or anyone else.
+
+2.4
+Role of Bangladesh Bank
+Bangladesh Bank as the central bank of Bangladesh is the System Operator for BD-RTGS. It is the
+entity with the legal responsibility for controlling, managing and operating BD-RTGS. BB in its
+capacity as the central bank of Bangladesh would administer the Settlement Accounts of the
+Participants and provide SOD fund, Top-up, Intraday Liquidity Facilities (ILF) to ensure efficient
+and sound payment, clearing and settlement process. In its capacity as the System Operator, BB is
+responsible for:
+Authorization and management of Participants in the BD-RTGS System;
+The establishment and maintenance of System Rules and related Procedures;
+- Management of profile and users of the system;
+- Execution of SOD and Top-up fund;
+The authorisation of operating standards and procedures for BD-RTGS System;
+Ensuring adherence to these Rules by the Participants and
+- Ensuring that the system runs smoothly and efficiently to conduct transaction and take
+necessary steps to Maintain long-term health of the system.
+As System Operator of BD-RTGS, BB administers the operation of the daily business cycle,
+manages the creation of reports and charts and is responsible for the security of RTGS data,
+central software/services, including managing backups and fallback situations of the central
+system.
+
+--- Page 10 ---
+BD-RTGS System Rules | 9
+
+3. MESSAGES
+3.1
+Message Categories
+RTGS accepts messages from Participants in two categories:
+1. Transfers, i.e. Payment Instructions.
+2. Queries, which are divided into:
+a. Transactional Requests, which change the status of a Transfer;
+b. Informational Requests, which do not affect Transfers rather a request to provide
+information.
+Both payment requests and queries will result into outgoing messages includes notification on
+occurrence of the related event in the system.
+
+3.2
+Message Formats
+All messages must conform to ISO 20022 formatting as defined in the Technical Documentation.
+The following message types would be accepted by BD-RTGS.
+
+MESSAGE
+TYPE
+MESSAGE DESCRIPTION
+Participants to RTGS
+Pacs.008
+Single Customer Credit Transfer
+Pacs.009
+General Financial Institution Transfer
+Pacs.009
+Special Type of Transaction allowed for the Central Bank.
+1) Participant Credit
+2) Participant Debit
+3) Participant Transfer
+Pacs.029
+Net Settlement Instruction
+Pacs.004
+Payment Return
+Admi.004/
+camt.998
+Free Format Message
+Camt.005
+Get Transaction
+Camt.007
+Modify Transaction
+Camt.008
+Cancel Transaction
+Camt.060
+Reporting Request
+Camt.059
+Customer Credit Confirmation
+
+--- Page 11 ---
+BD-RTGS System Rules | 10
+
+MESSAGE TYPE
+MESSAGE DESCRIPTION
+RTGS to Participants
+Pacs.008,
+Pacs.009,Pacs.004
+Payment messages are forwarded to recipient Participants
+Pacs.002
+Payment message to sender participants
+Camt.054
+Confirmation of Debit (optional by Participant – set in Participant
+data). Sent because of the settlement of payments.
+Camt.054
+Confirmation of Credit, (optional by Participant – set in Participant
+data). Sent in the settlement cases mentioned above.
+Camt.053 and
+Camt.052
+End of Day Account Statement Message (optional by Participant –
+flag set in Participant data) generated automatically at EoD. Only
+Participant who is on boarded in the RTGS system will receive this
+message.
+Admi.004 / Camt.998
+Free Format Message
+Admi.007
+Receipt Acknowledgement for incoming admi.004
+Camt.025
+Receipt Acknowledgement for the Camt. messages
+Camt.006
+Return Transaction
+Camt.059
+Customer Credit Confirmation
+
+3.3
+Transaction Reference Number
+
+There must be a seventeen digit transaction reference number inserted by the Originating Financial
+Institution to each RTGS payment instruction. This number consists of a 4 digit unique bank code,
+6 digit value date (YYMMDD format), and a seven digit transaction serial number (unique for the
+day) for that particular OFI in which first digit will be 0-8.
+
+3.4
+Payment Information Need to be Supplied to the Receiver
+
+Important payment information like name of the Originator and description of payment, in case of
+trade payments, additional information like invoice number/reference number(s) needed to be
+supplied to the Receiver by the Receiving Financial Institution by means of monthly statement or
+by any other means convenient.
+
+3.5
+Reserve
+The RTGS system provides the earmarking facility through special sub-accounts of the settlement
+account – reserve accounts. A Participant, or the Central Bank on behalf of a Participant, can
+move funds from the Participant settlement account to a specific reserve account. A reserve
+account can be associated with a specific transaction type, ensuring that only a transaction of that
+type will use the funds available in the reserve account.
+There can be possibility of defining “generic reserves”, where Participants can store funds for later
+use. This way, funds will become inaccessible to regular transactions until they are moved back to
+the settlement account. There is no limit with regards to the number of reserves that can be made
+available for the Participants by the system administrator via the management facility.
+
+There is a possibility, for instance, to reserve funds for special transaction types, whenever the
+
+--- Page 12 ---
+BD-RTGS System Rules | 11
+
+Participant has certain funds and wants to make sure that only a certain transaction (important
+customer, clearing house net settlements, etc.) use those funds. A TTC code always links a
+payment transaction in the RTGS system. Besides other parameters explained previously, the TTC
+also controls the reserve associated with a transaction (configurable). Therefore, it is possible to
+reserve funds in a reserve account and when the transaction is executed with the TTC associated
+with the reserve, the funds are automatically taken from the reserve account, without any human
+intervention. With this mechanism, it is guaranteed that no other transaction can use reserved
+funds. A reserve can be set up so that whenever the funds reserved are partially used, after the
+posting of the transaction, the funds from the reserve account are moved back to the settlement
+account.
+
+3.6
+Document Library
+
+
+The Document Library functionality will allow the BB administrator user to upload the respective
+documents such as technical or business user manuals etc. through the Upload menu option
+available under Document Library function in the RTGS system. The BB Admin user can create a
+mapping as well as between the documents and the participant type i.e. whether the uploaded will
+be viewed only by Central Bank or Participant or Both. The Participant user will have provision to
+only download specific documents which are mapped with them while uploading process such as
+RTGS or PO application user manuals, circular, business documents such as minutes, guidelines,
+rules etc.
+The Document Library Function in the RTGS system will have the following operations:
+List
+Upload
+Remove
+Approve
+
+--- Page 13 ---
+BD-RTGS System Rules | 12
+
+PAYMENT PROCESSING PROCEDURES
+4.1 Suitable Payments
+
+BD-RTGS is designed to process interbank electronic credit transfers carried out both by the
+Originating Financial Institutions’ own behalf and on behalf of an Originator, besides these,
+transactions related to NSI files can be processed through the system.
+
+
+4.2 Payments Initiation
+
+
+RTGS payments should be initiated through Branch office, Internet Banking channel, Mobile
+Application, corporate solution or other convenient way maintaining proper security. Physical
+instrument for initiation of payment instruction is highly discouraged. Bank will design client’s
+RTGS transaction request form confirming the existence of all the information that is instructed by
+Bangladesh Bank. However, required information changed by Bangladesh Bank from time to time
+might be circulated via circular, meeting minutes etc. OFI will ensure that BD-RTGS system
+receives information as per client request form. In case of client not present at branch, positive pay
+or other technology based verification will be confirmed.
+
+4.3 Acceptable Currencies
+
+RTGS processes payments in the following currencies:
+1. Bangladeshi Taka (BDT);
+2. British Pound (GBP);
+3. Canadian Dollar (CAD);
+4. Chinese Yuan(CNY)
+5. Euro (EUR);
+6. Japanese Yen (JPY) and
+7. United States Dollar (USD).
+
+Each Participant has a single Settlement Account for each currency in BD-RTGS System. Each
+Participant will also have a ILF account for BDT only. FC transaction will be operated as per
+guidelines of Annex-7.
+
+4.4 Value Limits
+The minimum amount for an RTGS payment in BDT is 1,00,000.00 (Taka one hundred thousand).
+However, there is no minimum limit for foreign currency payments, Govt. transaction (TTC 31 &
+42), Customs transaction (TTC 41) and EDS Money Transaction (TTC 50) and BB may choose to
+relax this limit for specific local currency payments time to time as well. There is no maximum
+limit for the amounts that may be transferred through BD-RTGS except the system’s acceptable
+amount field limit, which is 17 digits.
+
+4.5 Value Dates
+
+BD-RTGS will work in a store-and-forward mechanism, which made it possible to process both
+same day as well as future dated transactions upto next 7 calendar days.
+
+--- Page 14 ---
+BD-RTGS System Rules | 13
+
+
+
+4.6 Payment Priorities
+BD-RTGS allows Participants to assign Priorities to the Payments. Priority codes vary from 1 to 99.
+Bangladesh Bank payments have the highest Priority while DNS Files have the next priorities. The
+order in which payments in the waiting queues are settled depends first on the Priority, and second
+on the time they are validated by RTGS within each Priority. The range of message priorities is
+mentioned at annex-4.
+
+4.7 Modification of Priorities
+A Participant may change the Priority of a queued payment message that has been submitted but
+not settled yet. The priority may be changed through the participants’ web station module.
+Procedure(s) for changing Priority codes is defined in the technical document and web station user
+manual.
+
+4.8 Submission and Validation
+
+The Participants shall take all necessary measures to optimize the smooth flow of the payments,
+especially by adhering to the published message format along with the processing timetable.
+Payment Instructions sent by Participants shall immediately be validated by BD- RTGS system.
+The ‘handover point’ between a Participant and RTGS is the point of Technical Acceptance. This
+happens when RTGS receives and validates a Payment Instruction and therefore accepts it for
+Settlement. An acknowledgement message is sent to the Originating Financial Institution at this
+point. Messages which fail validation are rejected and the reason(s) are reported back to the OFI.
+Error notifications contain a clear identification of fields and positions where the error is found.
+Validation consists of the followings:
+Authenticity check – check if particular message is received from valid source and
+was not altered during transmission;
+Syntax check – check if the particular message is valid in terms of supported message
+format
+Semantic check – check if the message is valid according to rules applicable for
+particular message type.
+
+4.9 Use of Appropriate Routing Information
+
+While sending a Payment Message in BD-RTGS, the Originating Financial Institution must ensure
+that the correct SWIFT BIC code or unique bank/NBFI code (See Appendix 1) of the Receiving
+Financial Institution along with an appropriate routing number for the Receiving Financial
+Institution Branch is used. Central RTGS system will maintain a list of Routing Numbers for RTGS
+enabled bank branches, and will verify the list before sending information to the Receiving
+Financial Institution. If the Receiving Financial Institution branch is not in the list, the transaction
+will be rejected without settlement. The Originating Financial Institution will be solely responsible
+for any consequence in processing and settlement due to its inputting erroneous routing
+information. For any new branch inclusion, bank will send a request through RTGS portal and BB
+operator will approve checking proper validation of information as well as ability of RTGS
+operation.
+
+--- Page 15 ---
+BD-RTGS System Rules | 14
+
+
+4.10 Execution and Notification
+
+Payment instructions sent by an OFI shall be executed in BD-RTGS System by debiting the
+amount to the OFI’s settlement account and crediting the amount to the concerned RFI’s
+settlement account. The OFI and the RFI shall be advised of the execution of Payment Instruction
+by BD-RTGS system. The detailed processing, execution and notification of Payment Instructions
+is described in the Technical Documentation. The System Rules deal only with the basic
+principles.
+The activity and status of a Payment Instruction is charted below:
+
+Submission and
+validation
+Technical Acceptance and
+queuing
+Acceptance for
+Settlement by
+RTGS
+Immediate
+Settlement
+with finality
+The Payment
+Instruction or DNS
+File has been
+transmitted to
+RTGS.
+RTGS conducts
+various operational
+processes on the
+payment, such as
+validation. Payment
+Instructions which
+fail validation are
+rejected.
+If the submitted instruction
+is found technically fine
+then the RTGS applies its
+liquidity test to the
+Instruction or DNS File. If
+insufficient funds are
+available, or there are
+already queued payments
+with the same or higher
+Priority, the Payment
+Instruction or DNS File is
+queued or cancelled in
+accordance with the
+operating timetable.
+Once the
+Participant/s to be
+debited has/have
+sufficient funds
+available, the
+Payment Instruction
+or DNS File is
+accepted for
+Settlement by
+RTGS.
+Acceptance for
+Settlement is
+immediately
+followed by
+unconditional
+and irrevocable
+settlement with
+finality
+(Participant/s
+debited,
+beneficial
+Participant/s
+credited).
+
+4.11 Profile Matching and Sanction Screening
+
+All RTGS payments are subjected to sanction screening as per the BFIU rules and guidelines. The
+responsibility of both profile matching and sanction screening is vested to the bank where the
+complete customer KYC is kept. Therefore, it is the responsibility of the Originating Financial
+Institution to ensure the sanction screening and profile matching of the Originator before sending an
+instruction to BD-RTGS System, while Receiving Financial Institution would be responsible to
+verify the same for the Receiver before crediting the account.
+
+4.12 Transaction Queuing
+If a payment instruction cannot be settled immediately because of lack of funds on OFIs
+settlement account, it must be put in the queue. BD-RTGS will put the instruction in a queue
+depending on different parameters. The most important among these are the time of acceptance of
+transaction and the priority attached to Annex-4.
+If a participant wishes some Payment Instructions to be treated preferentially, they shall insert a
+higher Priority code (from 2-99) in those messages. The order in which payments in the Queues
+are executed depends first on the Priority and second on the time they are validated by BD-RTGS
+System. RTGS treats payments with the same Priority in each Queue on the basis of the FIFO
+(“First In First Out”) principle.
+
+--- Page 16 ---
+BD-RTGS System Rules | 15
+
+Each participant may control their queue by re-ordering the priority in the queue or cancelling
+queued payments, while BB may re-order or cancel any queued payment if it deems fit.
+The RTGS Monitoring and Control functions provides complete real-time online, secure access to view
+the details of all items in their pending queue at the central bank. Participants can then intervene to
+reprioritize or revoke (Cancel) the queued messages.
+
+4.13 Priority Change
+The transaction will be placed by default at the end of the queued transaction list for the new priority
+unless a particular position in the queue is specified. The order of a transaction in a queue can be
+altered as well. Any change in the queued transaction, attributes take immediate effect (after the
+mandatory approval step), and its effects are immediately visible (either on the monitoring screen or in
+the possible transactions that are being released). This is available only for urgent payments.
+
+4.14 Gridlock Resolution
+Gridlock occurs when two or more payment queues are blocked due to shortage of funds. Gridlock
+Resolution is achieved by simulating a bilateral or multilateral netting procedure. This involves
+netting off Payment Instructions in the Queue presented by an OFI or OFIs against those to be
+received by the same OFI(s) on the assumption that all Payment Instructions would be carried out
+simultaneously. As a consequence of a successful resolution, some other pending transactions may
+be released as well.
+BD-RTGS contains a special algorithm intended to resolve payment gridlocks. The system detects
+gridlock situation and selects those payments that can be settled on a Net basis without injecting
+additional funds into participants’ settlement accounts. The system detects gridlock based on
+parameters mentioned below:
+ Number of Payment instructions in the queue
+
+ Amount of funds available in the settlement account of those participants
+
+ Number of payments that were queued since last payment settled
+
+Based on the parameters, BD-RTGS system would issue an alert to BB system administrator and
+the system administrator(s) may decide to trigger the Gridlock Resolution Procedures. During
+Gridlock Resolution process, payment instructions queued is frozen and new payment instructions
+are not taken into account until the process is completed. After re- activation of normal exchange
+period these new payment instructions will be accepted automatically on queue-ordering basis.
+
+4.15 Cancellation of Payments
+A queued payment instruction may be cancelled by the Originating Financial Institution or by
+Bangladesh Bank any time before settlement through RTGS web station. However, unsettled
+payment instructions (if any) in the queue after the regular transaction period will automatically be
+cancelled by the system.
+
+4.16 Four Eyes Mechanism
+
+The 4-Eyes check is a control mechanism designed to achieve a high level of security for
+especially critical activities. Under this rule, a separate User having the necessary authorization
+privileges must approve all activities performed by a user. The RTGS system implements the
+
+--- Page 17 ---
+BD-RTGS System Rules | 16
+
+4-Eyes check mechanism by default, for most activities that users perform via the GUI.
+The RTGS system will have the following type of 4-Eyes principals in-built for the activities or
+operations performed on the user in GUI.
+
+4-Eyes principal
+Use cases for static data for 4-Eyes:
+All processes will go through APPROVE – ACTIVE operations.
+Approved activities (create/modify/activate) will be marked as ACTIVE.
+Approved activities (disable/remove) will be marked as DISABLED/REMOVED accordingly.
+If any activity (modify/activate/disable/remove) other than create is rejected, the previous status
+will be reverted.
+If a create activity is rejected, the item will no longer be available for any other operation.
+
+4.17
+Direct Debit
+BB reserves the right to debit any participant during the operation hours. Besides, on behalf of a
+participant BB can transfer fund from one participant to another participant during the SOD and
+EOD based on the availability of fund.
+
+--- Page 18 ---
+BD-RTGS System Rules | 17
+
+MANAGEMENT OF PAYMENTS
+5.1 Monitoring Payment Flows
+
+Each Participant shall be responsible for monitoring throughout the day the Settlement of the
+payment instructions it has sent, the number and amount of payments pending in its Queues, the
+balance of both its Reserve and Settlement Account, its ILF status. Each Participant must aim to
+avoid having unsettled payments.
+BB shall not be liable for any loss incurred by a Participant due to failure by a Participant to
+monitor and reconcile its payment flows, and each Participant hereby agrees to hold BB and the
+other Participants harmless from and against any claim, cost or expense (including legal fees)
+resulting from their failure to monitor their payment flows and their failure to post and reconcile.
+
+5.2 Execution and Posting of Payments
+
+An Originating Financial Institution shall send Payment Instructions to BD-RTGS system on
+behalf of their customers within at most 30 (thirty) minutes from the receipt of the corresponding
+request, and debiting his/her account, While all settled customer payments shall have to be posted
+to the Receiver’s accounts within at most 30 (thirty) minutes following the notification of the
+settlement (Camt.054) received from BD-RTGS. Otherwise, System Operator may impose penalty
+as describe in the section 8. The above timeline will not be applicable for accounts which are
+special in condition or type. Besides, FC transaction will be posted as per timeline mentioned at
+annex 7. If the account number and the name of the receiver contained in an instruction do not
+relate to the same account, the RFI may rely on the account number and 50% name matching
+contained in the instruction form of posting.
+
+5.3 Credit Confirmation
+
+After receiving the settled instruction (pacs.008), Receiving Financial Institution shall post the
+instruction to its CBS and reply with a credit confirmation message (camt.059) to the Originating
+Financial Institution within 30 (thirty) minutes following the notification of the settlement
+(Camt.054) received from BD-RTGS. Originating Financial Institution shall take necessary step to
+notify the customer about the confirmation of posting through SMS, Email or other convenient
+media instantly.
+
+5.4 Return Payments
+
+Return payments/Payment instructions can be initiated either by the Originator/OFI or by the RFI
+of the original payment:
+On request by the OFI/Originator: an OFI/Originator may request the return of a completed
+payment from the RFI mentioning the valid ground like error, wrong account or amount, dual
+transaction etc. Issues related to misconduct of business cannot be raised for return. The request must be
+made in writing i.e. by email, fax or letter as soon as possible. Both OFI and RFI will verify at their
+end before sending a return request as well as the return payment. In this case, the RFI will return
+the fund to the OFI/Originator, if the funds are still available in the account of the Receiver. If the
+funds are not available, the RFI will cooperate with OFI/Originator to collect the fund. Moreover,
+RFI can deduct the fund from the account of the beneficiary to initiate return if valid reason exists.
+At the initiative of the RFI: if a Receiving Financial Institution becomes aware that its Settlement
+Account has received a payment erroneously or for the wrong amount/account, it will return the
+payment to the Originating Financial Institution immediately.
+In both cases the return payment will be made using the required message type (pacs.004)
+containing (inter alia):
+
+--- Page 19 ---
+BD-RTGS System Rules | 18
+
+The identification of the original payment (i.e Transaction Reference Number)
+
+A Return Reason Code selected from the table below.
+
+Return will have to execute within the same business day.
+
+
+If return is not executed within the day, Originator or OFI may claim interest for the delay. Besides,
+Bangladesh Bank may charge penalty for the above.
+
+5.5 Return Reason Codes (Technical)
+
+SR NO.
+ERROR NUMBER
+ERROR CODE
+ERROR DESCRIPTION
+SL. No.
+Code
+
+Meaning
+001
+INVDATEFMT
+The received message had an invalid
+date.
+002
+INVCREDINST
+Invalid credit institution.
+003
+INVDEBINST
+Invalid debit institution.
+004
+INVSND
+Invalid message sender.
+005
+INVRCV
+Invalid message receiver (This should
+always be the BB BIC.)
+008
+INVCURR
+The received message specifies an
+invalid currency.
+009
+INVAMT
+The amount is invalid as per the
+following cases:
+Sum of debits is different from
+the sum of credits for NSI.
+ii)
+Credit amount is 0 for NSI.
+011
+INVDATE
+The received message has an invalid
+date: past date.
+012
+INVDATEEOD
+The message specifies a date which is
+closed already for business.
+10.
+013
+INVDATEIC
+The message was received after Initial
+Cutoff
+11.
+014
+INVDATEFC
+The message was received after Final
+Cutoff.
+12.
+015
+INVBUSSDATE
+The received message refers a non-
+working business date
+13.
+016
+INVBUSSDATEFUTURE
+The value date is ahead of the allowed
+number of days.
+14.
+017
+INVMTTYPE
+The received message has an invalid
+(unsupported) message type.
+15.
+018
+INVSIG
+The digital signature could not be
+verified (failed the validation).
+16.
+020
+INVDEFPROCTTC
+No default TTC defined for this type of
+transaction or the TTC defined for a
+message type was used for another
+message type.
+17.
+021
+INVTRANTYPEFORTTC
+The TTC specified belongs to a
+different Class of TTCs and cannot be
+used.
+18.
+022
+INVTTCPARTTYPE
+The TTC cannot be used with this
+sender’s Participant Type
+19.
+023
+INVRESERVEOWNER
+The owner of the requested reserve
+operation does not match the sender.
+
+--- Page 20 ---
+BD-RTGS System Rules | 19
+
+5.6 Return Reason Codes (Operational)
+
+
+Sl.
+Code
+Meaning
+01
+R 01
+Account Closed
+02
+R 02
+No Account/Unable to Locate Account
+03
+R 03
+Invalid Account Number
+04
+R 04
+Returned per Originator/Originating FI’s Request
+05
+R 05
+Representative Payee Deceased or Unable to Continue in that Capacity
+06
+R 06
+Beneficiary or Account Holder (other than a Representative Payee) Deceased
+07
+R 07
+Account Frozen/Account Dormant
+08
+R 08
+Non-Transaction Account
+09
+R 09
+Entry Refused by the Receiver, because:
+Minimum amount required has not been remitted;
+Exact amount required has not been remitted;
+The account is subject to litigation;
+Amount is too high;
+Originator is not known to the Receiver;
+The Receiver has not authorised this credit entry to this account.
+10
+R 10
+Others
+
+Payments must be returned:
+The same day of receipt of the request by the Receiving Financial
+Institution, made by the Originator/OFI;
+Within one hour of receipt of the original payment where RFI detects it as
+an erroneous payment.
+If the return payment has not been made available within the timeline above, the Originating
+Financial Institution /Originator may claim interest for the delayed period from the RFI. This
+interest will be calculated on the basis of the overnight deposit rate applicable.
+
+5.7 Responsibilities of the Participants
+The participants shall issue their payment instructions to BD-RTGS in accordance with these rules
+and shall adhere to and be held responsible for the followings:
+a) the completeness and authenticity of the information they send on their own behalf
+and on behalf of their customers ;
+b) the compliance of payment messages with the ISO20022 message format, and
+additionally, any other agreed-upon technical protocols and formats;
+c) securing the access to their BD-RTGS Monitoring and Control Workplace(s) and
+ensure proper segregation of duties and responsibilities among the operational team ;
+
+--- Page 21 ---
+BD-RTGS System Rules | 20
+
+d) ensuring that they collect all data provided to them by BD-RTGS and take necessary
+steps to preserve all transactional and audit data contained therein for as long as
+applicable law stipulates;
+e) ensure that all customer payments are send and posted in accordance with these Rules;
+
+f) ensuring that only duly authorized Users who have been issued with an access control
+e-token by BB are using the System and
+
+g) In case of any technical or other issue for which the participant is unable to initiate
+and/or receive transaction or settlement instruction, they are responsible for
+immediately notifying all other participants of the BD-RTGS system as well as BB
+so that appropriate measure can be taken at their end to minimize customer
+inconvenience. Same applies at the time when the issue is resolved.
+Each Participant shall be responsible for monitoring, throughout the day, the Settlement of the
+payments it has sent, post the payments it has received, the number and amount of payments
+stored in outward Queues, any queued net and gross settlement instructions, the balance of its
+Settlement Account, its ILF position and the level of its Reserves. Each Participant shall aim to
+avoid having any unsettled payments.
+For better communication, each participant shall nominate and share RTGS Manager along with second
+man’s details with other participants and BB as well.
+BB shall not be liable for any loss incurred by a Participant due to the participants failure to
+monitor and reconcile its payment flows, and each Participant hereby agrees to hold BB and the
+other Participants harmless from and against any claim, cost or expense (including legal fees)
+resulting from their failure to monitor their payment flows and their failure to reconcile.
+
+5.8 Responsibilities of Bangladesh Bank
+To the extent consistent with applicable law, BB shall be liable only for its failure to act in good
+faith or to exercise reasonable care to operate the central RTGS processing engine. BB shall not be
+liable for delay or failure in performance by a Participant or a third party, nor the accuracy of any
+data or instructions provided by a Participant or a third party. Under no circumstances shall BB be
+liable for any indirect, incidental or consequential loss (including loss of profit) even if advised of
+the possibility of such loss.
+As System Operator, BB:
+
+a) is responsible for checking the Payment Instructions received in accordance with the
+published format;
+b) is responsible for, (once RTGS has technically accepted the Payment Instruction for
+processing), integrity, security and confidentiality of a Payment Instruction until it is
+dispatched to the Receiver.
+c) is responsible for keeping a record of all Payment Instructions according to relevant
+Bangladesh legislation;
+d) is not responsible for damage resulting from messages containing erroneous
+information provided by the Originator/Originating Financial Institution ;
+e) will take all necessary reasonable measures to protect its computer system and to
+prevent it from being out of order and endeavor to offer as quickly as possible, upon
+
+--- Page 22 ---
+BD-RTGS System Rules | 21
+
+every breakdown or important Constraining Event, a solution to the problem by
+carrying out the appropriate fall back procedures. If these measures have been taken,
+BB is no longer responsible for the possible breakdown or Constraining Event, even
+temporary, for any reason, of the computers or the programs it uses or places at the
+disposal of its Participants for the processing of their payments, nor for the
+destruction or erasing of data stored in the computers or for possible fraudulent use
+thereof by third parties ;
+f) is responsible for making available to the Participants the updated information
+concerning their payment flows and the status of their Settlement Accounts as
+generated by the System.
+The liabilities of BB as Technical Operator are limited to:
+
+a) the correct operating of the System as described in the Functional Specification;
+
+b) securing by means of adequate devices and procedures the System as regards data
+integrity, availability and confidentiality;
+c) endeavoring to solve without delay, and in close co-operation with the hardware,
+software and/or service providers, any failure or malfunction of the System.
+BB shall not be liable for any failure of RTGS resulting from the incorrect use of the system by the
+Participants or due to software errors or communication failures. Except as provided in this section,
+BB shall have no liability whatsoever to any Participant or any other person for any loss, liability,
+or expense suffered by such Participant or person arising from BB’s acts or omissions in connection
+with RTGS.
+
+--- Page 23 ---
+BD-RTGS System Rules | 22
+
+LIQUIDITY AND TREASURY MANAGEMENT
+
+6.1
+Settlement Accounts
+
+Each participating bank has one settlement account per currency in BD-RTGS system. These
+settlement accounts would start with a zero (0) balance at the beginning of each business day and
+ends with a zero balance at the end of the business day. Each bank would provide BB with a
+standing instruction to deduct a pre-fixed sum from its current account held in the BB-CBS and
+transfer the same to its settlement account. These instructions, however, may be changed from
+time to time. The current account of Bangladesh Bank will be updated with the settlement account
+balance at the end of the day.
+
+6.2
+SOD and EOD Fund Transfer
+
+Each participant will send SOD fund transfer request to Bangladesh Bank (For BDT address to
+Executive Director, Motijheel Office and for Foreign Currency address to Director, Forex Reserve
+and Treasury Management Department Bangladesh Bank Head Office). SOD fund should be set
+such a way that it should not be changed frequently.
+After Start of the Day, an automatic procedure will be executed and debiting current account
+maintained with BB and crediting RTGS settlement account. If SOD fund of a participant fails for
+consecutive 5 (Five) Business Days as shortage of fund at their current account, system operator
+may suspend participant or impose penalty at describe in section 8. At the End of Day (EOD),
+available balance of the participants will transfer from settlement account to current account.
+
+6.3
+Top-Up
+
+If a participant feels shortage of fund at their settlement account, it can send top-up request to
+respective department of Bangladesh Bank. BB will execute top-up request based on the
+availability of fund at their current account maintained with Bangladesh Bank.
+
+6.4
+Intraday Liquidity Facility
+BB makes liquidity available, in BDT only, to Participants on an intraday basis in accordance with
+the Guidelines of Intraday Liquidity Facility (see Annex-5) and the Guidelines of Intraday
+Liquidity Facility for Islamic Shariah based banks (see Annex-6). The steps of ILF processing are
+as follows:-
+1. Based on the configuration in the BD-RTGS system, the system can request the
+security system of Bangladesh Bank to get the ILF amount for a particular participant
+for a specific currency.
+2. Based on the request received from BD-RTGS system, the security system will repo or
+pledge the securities at their end and initiate an ILF fund transfer to BD-RTGS system
+will help Pacs.009 to fund the collateral account of the participant.
+3. The BD-RTGS system will receive Pacs.009 with a specific TTC code to identify it as
+an ILF funding request for a participant.
+4. Below accounting will be performed in the BD-RTGS system for the ILF request:
+Debit:Bangladesh Bank Collateral A/C
+Credit:Participant Collateral A/C
+
+--- Page 24 ---
+BD-RTGS System Rules | 23
+
+5. The BD-RTGS system will provide an option to the commercial bank where they can
+decide for which pending payments they want to make use of funds from the collateral
+account for the settlement of the payments.
+6. The BD-RTGS system will make a track of all the funds utilized from the collateral
+account to settle the pending payments with the help of the intermediate or virtual ILF
+account.
+7. The BD-RTGS system monitors the participant payments the moment they receive any
+incoming payments which credit their settlement account, on priority the RTGS
+system tries to move the fund from the Settlement account to Collateral account of that
+participant up to the utilized amount.
+8. After the Final Cutoff timetable event is executed in the BD-RTGS, the system will
+reconcile the collateral and will ensure that collateral account is funded back from the
+settlement account for the amount utilized during the day to clear pending payments.
+9. Once the RTGS system gets the track of the collateral account, it tries to reverse back
+the ILF amount by performing the below accounting.
+Debit Participant Collateral account
+Credit Central Bank Collateral account
+10. After the successful accounting, the BD-RTGS system will provide the notification
+back to security system of Bangladesh Bank to notify that the ILF amount has been
+reversed back. On receiving the notification, the security system will perform reverse
+repo or pledge back the securities with the participant bank.
+The ILF is available strictly for Intraday only and any ILF advances must be reversed before
+the end of the RTGS operating hours as per the Daily Timetable. If a Participant fails to do so,
+the ILF will be converted to an overnight Repo with BB at a higher interest rate along with
+other non-financial penalties like suspension of operation (As per the Guidelines: Annex 5 & 6
+
+--- Page 25 ---
+BD-RTGS System Rules | 24
+
+BUSINESS DAY AND OPERATING HOURS
+7.1
+Business Day
+BD-RTGS System will operate each day Sunday to Thursday except for public holidays according to
+the annual calendar maintained by BB. Any deviations from this planned schedule will be announced
+in advance in writing (i.e. via letter/e-mail). In exceptional circumstances this announcement may be
+made during the Business Day and may have the effect of shortening or lengthening that particular
+Business Day.
+
+7.2
+Daily Operation Timetable
+
+Start of Day (SOD)
+This is the first event that triggers basic functions of the system viz., advancing of system’s business
+date; loading the updated code files; accepting payment instructions from the internal systems of the
+Bank. Payments sent by the participants are not accepted for settlement at the time of SOD. If
+submitted, the payments are kept in the queues, waiting for the next event to be executed. On
+execution of the event, the RTGS system will allow the entry of payments by initiating the messaging
+queues. The Amount (Configurable) of funds will be moved from the Core banking system to RTGS
+system as a SOD balance between SOD to OFB.
+
+Open for Business (OFB)
+
+This event marks the moment when all the functionality of the RTGS system is fully available to the
+participants. The system starts processing all types of messages and payments such as Customer
+payments, inter-bank payments, and Gross Settlement instructions.
+The pre-requisite for the OFB:
+If the SOD balance file is not received by RTGS system for any one of the participants for a specific
+currency from core banking system, RTGS system will not execute the OFB timetable event for those
+participants of the currency.
+If the SOD balance file is not received by RTGS system from the Core banking system for the
+business day for a specific currency, then BD-RTGS system generates an alert as SOD balance alert
+and sends it to specific participant and executes an OFB event.
+Initial Cut-off (IC)
+This event triggers restriction of submission of a certain type of transaction viz. customer
+transactions. After the Initial Cut-off time, participants cannot submit the customer transactions for
+settlement.
+With the execution of the Initial Cut-off, the Initial Cut-off report will be generated. Pending
+customer to customer payments will be in queue till it receives the sufficient fund for settlement or
+the Final cut-off timetable event is executed.
+However, the Special payments and the inter-bank payment between financial institutions will be
+accepted for settlement after this cut-off.
+Special Payment Cut-off
+This event execution triggers the restriction of submission of special payments i.e. configured TTC
+code payments. After the Special Payment cut-off, participants cannot submit the Pacs.008 payments
+with the special configured TTC code i.e. Customs and other Govt. payments. Pending special TTC
+payments will be parked in a queue till it receives the sufficient fund for settlement or the final cut-off
+timetable event is executed. For example, once this cut-off has been executed Pacs.008 with TTC
+
+--- Page 26 ---
+BD-RTGS System Rules | 25
+
+code 040 and 041 for local currency will not be processed and will be rejected by the RTGS system.
+With respect to foreign currency timetable event the configured TTC pacs.008 payment will not be
+processed further. Note that special payment cut-off is exclusive for BDT currency only.
+
+Final Cut-off (FC)
+This cut-off represents the end of all the normal operations conducted by a participant for the
+business day. With the execution of the Cut-off for Interbank Payments, all payment transactions in
+INCOMING or PENDING status will be rejected except for BB transactions such as Participant
+Transfer, Participant Credit and Participant Debit. The funds of the Reserve Accounts that have been
+configured for the release with the cut-off will be returned to the Settlement Account. Finally, the
+intraday loans will be returned, that is, a transaction will be created to move the amount defined in the
+ILF Account from the Settlement Account to the Collateral Account. All the transactions parked in
+the pending queue will be cancelled by the RTGS system.
+
+End of Day (EOD)
+This is the last event of every business day. With the execution of the End of Day, account statements
+will be generated for all participants with an accounting summary of the day. Collateral and ILF
+accounts will reset to zero. The daily billing (Whenever applicable) will execute. Finally, all
+messaging queues will be stopped. The system will be available 24/7 for queries or historical data
+reporting, maintenance, and management activities.
+Operating hours
+The RTGS operating hours are defined in Annex 3 to these Rules and may be modified from
+time to time by BB in consultation with Participants.
+
+--- Page 27 ---
+BD-RTGS System Rules | 26
+
+8. FEES, CHARGES AND PENALTY
+
+Bangladesh Bank will not charge any fees to participating banks for BD-RTGS operation. BB,
+however, reserves the right to set transaction fees and other charges which shall be notified to
+Participants before coming into effect. Participating Banks, on the other hand, may choose to
+charge fees (which may be not more than Tk.100 per transaction including VAT) only from the
+Originator of the transaction, however, no charge will be applicable if the beneficiary of the
+transaction is govt. entity (VAT, Customs, Govt. Collections and such others).
+
+Fees fixed by the Central Bank for the participants would usually follow the criteria as under:
+
+1. An annual membership fee ;
+
+2. Per transaction fees, which may vary based on amount slab and time slab of the transaction;
+and
+3. Penalties for infringement of Rules or any other penalties and/or interest charges relating
+to RTGS operation as fixed by BB.
+Charging
+will
+be
+calculated
+and
+posted
+to
+participants’
+settlement
+account
+on
+daily/weekly/monthly basis and would be charged at the end of the month. However, the
+membership fees are usually yearly and would be charged at the beginning of the year. The
+Participant authorises BB to apply debits to its account for fees/charges and any other penalties
+that come as a result of RTGS operation by the Participant. Participants will be notified about the
+details of all charges and penalties as soon as executed.
+Penalties:
+Descriptions
+Fee (BDT)
+Failure to comply with Participant Agreement, System Rules, Operating
+Procedures and any other Directives and Guidelines issued by BB.
+500,000
+Failure to fund Net Settlement Instruction
+If default sum is <10 Crore
+If default sum is >10 Crore
+
+50,000
+100,000
+Failure to credit a beneficiary customer within 30 minutes of receipt of a
+settled RTGS transfer
+10,000 per
+transaction
+Failure to initiate a RTGS transaction within 30 minutes of customer request
+receipt
+10,000 per
+transaction
+Failure to return a misdirected transaction within the same day after
+transaction has been settled
+50,000 per
+transaction
+Failure to settle intraday liquidity facilities before system cut-off time
+If default sum is <10 Crore
+If default sum is >10 Crore
+
+50,000
+100,000
+Failure to meet direct debit commitments
+5,000
+Request for cut-off time extension fee, which is granted
+50,000 per
+Half hour
+
+Besides, Bangladesh Bank can suspend, inactive and debit/credit locks the participant for violating any
+Section of the BD-RTGS system rules or other related issues without giving any prior notice for the sake
+of customer interest.
+
+--- Page 28 ---
+BD-RTGS System Rules | 27
+
+9. CONTINGENCY AND BUSINESS CONTINUITY
+
+9.1
+General Obligations
+
+A Contingency Event is an event which disrupts normal processing of RTGS payments to the extent
+that contingency procedures are brought into effect. Contingency events may arise to both BB and
+the participants. In case the event affects the central processing system, BB shall have the right in
+its sole discretion to determine and warn Participants that a Contingency Event has occurred. This
+may or may not include transfer of operations to the DR site and/or to implement other available
+alternatives. In case of a technical failure of a Participant compromising the generation or the
+reception of payment messages through RTGS for more than one hour during the day, the
+Participant shall immediately inform BB. If the situation continues, the Participant may request BB
+to suspend its account. Account suspension requires confirmation in writing at least from the
+DMD of that particular bank. Lifting of such a suspension also requires confirmation in writing
+from the same authority.
+In case a Contingency Event may occur to the central system, BB shall have the right, in its sole
+discretion, to switch the operation from DC to DR site and inform the participants accordingly. In
+this case any payment that is queued to the system may need to be deleted or ignored. Thus,
+participant(s) system may need to cope with such contingencies while their system may also face
+contingency event(s) and must be prepared for such situation(s).
+
+9.2
+Failure of Communication Links
+In case the connection of a Participant’s RTGS link to the VPN or to the SWIFT network breaks
+down or an inability of participant(s) to access the central system effectively which prevents the
+exchange of payment instructions, the participant(s) should inform immediately to BB. In case of
+communication link being failed, the Participant should also try to switch to the redundant
+connection. If the Participant is still unable to send messages to the System, it may:
+1. Contact BB in Writing, requesting to assist in executing its most important payments on
+its behalf via some web interface or other available means; and
+2. Use facilities of other Participant (in the case participants agreed among themselves to
+provide such services to each other).
+In such a situation BB may decide to amend/extend the Daily Operating Timetable for the
+current day in order to provide sufficient time for the Participants to complete their work for
+that day, and will notify all Participants accordingly.
+
+9.3
+Force Majeure
+There shall be no liability for non-compliance with these Rules to the extent that, and for so long
+as, there is an inability to perform the Obligations under these Rules or these Obligations are
+subject to suspension or delay, due to the occurrence of an event arising from any reason or cause
+beyond paticipant’s reasonable control, including, but not limited to, equipment failure or
+malfunction, natural disasters, strikes and acts of war.
+
+--- Page 29 ---
+BD-RTGS System Rules | 28
+
+The foregoing shall not prejudice the responsibility of all parties to carry out the error handling
+procedures and other technical operational measures such as those described in section 8.1
+(Contingency Event) in accordance with these Rules, so far as possible, despite the Force Majeure
+Event, and to use all reasonable efforts to mitigate the effects of any such event whilst it is
+continuing.
+9.4
+Conservation and Archiving
+All BD-RTGS Participants must comply with the laws and regulations applicable in Bangladesh
+concerning the conservation and archiving of documents as regards the support and the duration of
+the conservation.
+For this purpose, all transactions and accounting data must be stored for a period of twelve years
+from the date it gets settled. All current transactions and data for the previous ten years should be
+accessible.
+9.5
+Audit Trail
+BD-RTGS provides comprehensive audit trails, which can be made available to Participants on
+request at BB’s discretion. BB system administrators are able to examine all the activities carried
+out on the System, including transaction and static data amendments. However, all participating
+bank’s system should have similar types of audit trail functionality in their system. An audit trail
+functionality includes but not limited to:
+a) at application level, showing the path of transactions through the System, the source
+of all changes to data in the system files and on the databases and providing proof that
+all transactions received from other system(s) have been processed. The data entry
+users and approvers for all payment instructions are recorded and are visible on the
+relevant screens;
+b) at Participant level, showing details of all transactions relating to a particular
+Participant;
+c) at User level, giving a record of all accesses to the System and the actions of Users,
+keeping a record of actions by User and showing which Users have taken action on
+any particular transaction. These elements form part of the technical audit trail known
+as the system log;
+d) at technical level, providing a secure record of the technical functioning of the
+System, recording access to system modules and technical events in detail. This audit
+trail is referred to as the system log.
+The main audit tools, apart from standard reports, are as follows:
+
+a) facility to list all transactions for RTGS from on-line history files within the System
+for at least the previous Two years from postings ;
+b) facility to request from User defined reports for audit purposes based on statistical
+and other tables in the database.
+For Participants, BB audit trail data may be supplied, if required, only against a written
+request signed by the Chief Executive Officer or Managing Director of the bank.
+
+--- Page 30 ---
+BD-RTGS System Rules | 29
+
+10. ESTABLISHMENT AND MAINTENANCE OF USERS
+10.1 General
+Access to BD-RTGS System shall be permitted only to authorized and uniquely identified
+personnel. Each person named in the user registration form shall be an Authorized Personnel of
+the designee thereof duly authorized to receive, transmit and/or confirm data and instructions
+within the limits (if any). As long as BB acts in compliance with the communication and data
+security methods as set forth in these Rules as these may be amended from time to time in
+accordance with the Procedures in these Rules, it shall have no further duty to verify the identity or
+authority of the person giving or confirming, or the contents of, any instruction. Notwithstanding
+any other provision hereof, BB shall have the right, in its sole discretion, to refuse to execute any
+instruction, provided BB, acting in good faith, doubts the authenticity or authorization thereof. BB
+shall provide prompt notice, which may be by telephone, to an Authorized Person of any such
+rejected instruction.
+BB shall be entitled to rely on the authorisations and User lists as set forth on a User application
+form. In normal circumstances BB should receive at least two Business Days prior to the effective
+date thereof, of a written request for revocation or modification of such User application form,
+dated and signed by an Authorised Person. In urgent cases such request for revocation or
+modification may be made by e-mail or Authenticated Fax and will be taken action by BB
+immediately on receipt.
+A User application form may be revised only by a written request signed by an Authorised Person
+and each such proposed revision is subject to BB’s consent in accordance with the procedure. This
+section supersedes all prior agreements or practices in respect of instructions and the Procedures
+may not be changed by an oral agreement or by course of dealing or custom.
+Each Participant will inform BB as soon as practicable if any person authorised to utilise the
+Services on behalf of a Participant ceases to be employed by that Participant or ceases otherwise to
+work for that Participant or to be under its control.
+
+10.2 Request to Create a User
+Each Participant requesting the authorisation of a User shall, at least five Business Days prior to
+the effective date thereof, complete and provide BB in writing with:
+a) a User application form dated and signed by two Authorised Persons ;
+
+b) a User protocol as provided as part of the User application form in Annex 4 to these
+rules, dated and signed by the relevant User ; and
+c) in the case of the creation of an Authorising Officer, a RTGS User profile request,
+dated and signed by two other Authorised Persons.
+Only BB shall have the right, in its sole discretion, to authorise new Participant Security
+Administrators and assign a User profile to such Users.
+BB also has the sole right to:
+allocate e-tokens; and
+II.
+issue digital certificates to User (on the e-tokens).
+
+--- Page 31 ---
+BD-RTGS System Rules | 30
+
+
+Participants through their Security Administrators are responsible for the creation and
+maintenance of their other Users in RTGS, allocation of User names, User profiles and initial
+passwords.
+BB will provide one e-token with PIN to each registered User. Each e-token is exclusive to the
+user to whom it is issued, and in no circumstances is it to be shared with or used by another. When
+received by the registered User, the token’s default password should immediately be changed.
+
+10.3 Request to Modify a User
+Only Participant Security Administrators can assign and amend User profiles according to User
+responsibilities, required by Participants or by BB. Such assignments and amendments will take
+place under dual control.
+
+10.4
+Request to Suspend or Delete a User
+A Participant that requires one or more of its Users to be suspended or deleted can carry out the
+deletion on-line, but must report to BB in Writing that a User has been suspended or deleted. In
+case of emergencies, BB Administrators can also suspend or remove Users from RTGS.
+
+10.5
+Maintaining User Profile
+BB RTGS Administrators allocate initial User profiles to Participants and may, in the name and
+for the account of BB, set up and amend information about a User, including the User profile,
+according to the information provided by Participant administrators.
+
+10.6
+Training
+
+Before a User can be registered, he/she must complete RTGS User training appropriate to the
+functions to be performed and must be able to demonstrate by passing a practical and/or
+theoretical test to prove he/she has the necessary knowledge to use BD-RTGS System. In order to
+ensure user knowledge and compliance to System Rules, each participant financial institutions are
+required to arrange at least one training program each year for the benefit of it’s RTGS related
+officials (both Head Office and branch level) which will cover theoretical and practical aspects of
+participating in BD-RTGS system. Participant should preserve the training information both head
+office and branch office. Bangladesh Bank will verify the training information during on-site
+inspection.
+
+--- Page 32 ---
+BD-RTGS System Rules | 31
+
+11. DISPUTE RESOLUTION
+
+11.1 Dispute Resolution Procedures
+
+In case of a dispute between Participants, the respective rights and obligations in relation to
+Payment Instructions processed through BD-RTGS, and all other matters referred to in these
+Rules, shall be determined according to the Payment and Settlement System Act, 2024 and other
+applicable laws of Bangladesh. In case of operational error, questions or differences what so ever
+at any time, the Participants concerned shall sit together in order to find an amicable settlement
+and take all necessary measure to that effect. If Participants do not agree to find such an amicable
+settlement, each Participant concerned shall request BB in writing 10 calendar days at the latest
+after the occurrence of the error or dispute, to start a conciliation procedure in order to find a
+solution concerning the error or the dispute, its consequences and damages. The Participants
+concerned shall communicate to BB all necessary information and documentation to this effect.
+
+11.2
+Conciliation and Arbitration Procedures
+Participants or aggrieved to submit any dispute concerning the interpretation the implementation
+of these Rules on which the parties have not been able to find an amicable settlement within 10
+calendar days of the original transaction took place to an arbitration process as follows. Both the
+parties, and any one party, may choose to go for conciliation and arbitration under Bangladesh
+Bank’s management. Arbitration Panel of Payment Systems Department of Bangladesh Bank is
+responsible to make the conciliation or arbitration. The process in brief is as follows:
+ BB will appoint a team for conciliation and arbitration or send to Arbitration Panel
+based on the merit of the case.
+ BB will instruct the parties to submit documents related to the disputed transaction;
+
+ BB will fix a date and hear from the parties and will give its verdict.
+
+
+The aggrieved party, if any, with the decision would be able to appeal to the Executive director in
+charge of Payment Systems Department, BB against the decision within 7 (seven) calendar day.
+Separate team may be assigned to deal with the case or final verdict may be given by the
+Executive director in charge of Payment Systems Department. The decision verdict would have an
+immediate effect and if the convicted party fails to pay the penalty (if any) in time, BB may
+choose to deduct its settlement account and replenish the affected party.
+
+--- Page 33 ---
+BD-RTGS System Rules | 32
+
+12. AMENDMENT OF RULES
+BB is responsible for the amendment of these Rules from time to time or the Annexes hereto,
+or any additional documents containing, inter alia, technical provisions and specifications for
+BD-RTGS. At any time Participants may suggest amendments to BB which will consider
+them and may, in consultation with other Participants, apply them as an amendment. Such
+amendments and additional documents shall become effective as an integral part of these
+Rules and be effective as per the date specified by BB. BB will give notice to each Participant
+of any modification/amendment 30 calendar days before its entry into force.
+
+--- Page 34 ---
+BD-RTGS System Rules | 33
+
+ANNEX 1: PARTICIPANTS BIC CODES
+
+SL.
+No.
+BIC
+Bank Name
+Code
+ABBLBDDH
+AB Bank PLC
+020
+AGBKBDDH
+Agrani Bank PLC
+010
+ALARBDDH
+Al-Arafah Islami Bank PLC
+015
+ALFHBDDH
+Bank Alfalah Ltd
+065
+AVFLBDDH
+Aviva Finance Ltd
+521
+BALBBDDH
+Bank Asia PLC
+070
+BBSHBDDH
+ICB Islamic Bank
+230
+BCBLBDDH
+Bangladesh Commerce Bank Ltd
+030
+BCOLBDDH
+Bengal Commercial Bank Ltd
+315
+10
+BDDBBDDH
+Bangladesh Development Bank PLC
+047
+11
+BFINBDDH
+Bangladesh Finance Ltd
+501
+12
+BKBABDDH
+Bangladesh Krishi Bank
+035
+13
+BKSIBDDH
+Basic Bank Limited
+055
+14
+BLILBDDH
+Bay Leasing & Investment Ltd
+502
+15
+BRAKBDDH
+Brac Bank PLC
+060
+16
+BSONBDDH
+Sonali Bank PLC
+200
+17
+CCEYBDDH
+Commercial Bank of Ceylon PLC
+080
+18
+CIBLBDDH
+City Bank PLC
+225
+19
+CITIBDDX
+Citi NA
+075
+20
+CIZSBDDH
+Citizens Bank PLC
+320
+21
+COYMBDDD
+Community Bank Bangladesh PLC
+310
+22
+CVCFBDDH
+CVC Finance Ltd
+503
+23
+DBBLBDDH
+Dutch Bangla Bank PLC
+090
+24
+DBHLBDDH
+DBH Finance PLC
+504
+25
+DHBLBDDH
+Dhaka Bank PLC
+085
+26
+EBLDBDDH
+Eastern Bank PLC
+095
+27
+EXBKBDDH
+Exim Bank Bangladesh Ltd
+100
+28
+FFINBDDH
+First Finance Ltd
+505
+29
+FRMSBDDH
+Padma Bank PLC
+280
+30
+FSEBBDDH
+First Security Islami Bank PLC
+105
+
+--- Page 35 ---
+BD-RTGS System Rules | 34
+
+31
+HABBBDDH
+Habib Bank Ltd
+110
+32
+HSBCBDDH
+HSBC
+115
+33
+HVBKBDDH
+Woori Bank
+255
+34
+IBBLBDDH
+Islami Bank Bangladesh PLC
+125
+35
+IDCOBDDH
+IDCOL
+506
+36
+IDLCBDDH
+IDLC Finance PLC
+507
+37
+IFICBDDH
+IFIC Bank PLC
+120
+38
+IIDFBDDH
+IIDFC PLC
+508
+39
+IPDCBDDH
+IPDC Finance PLC
+509
+40
+JAMUBDDH
+Jamuna Bank PLC
+130
+41
+JANBBDDH
+Janata Bank PLC
+135
+42
+LAFLBDDH
+Allience Finance PLC
+519
+43
+LBFLBDDH
+Lanka Bangla Finance PLC
+510
+44
+MBLBBDDH
+Mercantile Bank PLC
+140
+45
+MDBLBDDH
+Midland Bank PLC
+285
+46
+MFILBDDH
+Meridian Finance & Investment PLC
+511
+47
+MFLDBDDH
+Midas Financing Ltd
+512
+48
+MGBLBDDH
+Meghna Bank PLC
+275
+49
+MODHBDDH
+Modhumoti Bank PLC
+295
+50
+MTBLBDDH
+Mutual Trust Bank PLC
+145
+51
+NBLBBDDH
+National Bank Ltd
+150
+52
+NBPABDDH
+National Bank of Pakistan
+155
+53
+NCCLBDDH
+NCC Bank PLC
+160
+54
+NGBLBDDH
+Global Islami Bank PLC
+300
+55
+NHFIBDDH
+National Housing Finance PLC
+514
+56
+NRBBBDDH
+NRB Commercial Bank PLC
+260
+57
+NRBDBDDH
+NRB Bank Ltd
+290
+58
+ONEBBDDH
+One Bank PLC
+165
+59
+PFINBDDH
+Phoenix Finance and Investments Limited
+515
+60
+PRBLBDDH
+Prime Bank PLC
+170
+61
+PRMRBDDH
+The Premier Bank PLC
+235
+62
+PUBABDDH
+Pubali Bank PLC
+175
+
+--- Page 36 ---
+BD-RTGS System Rules | 35
+
+63
+RKUBBDDH
+Rajshahi Krishi Unnayan Bank
+180
+64
+RUPBBDDH
+Rupali Bank PLC
+185
+65
+SBACBDDH
+SBAC Bank PLC
+270
+66
+SBINBDDH
+State Bank of India
+220
+67
+SCBLBDDX
+Standard Chartered Bank
+215
+68
+SDBLBDDH
+Standard Bank PLC
+210
+69
+SEBDBDDH
+South East Bank PLC
+205
+70
+SFILBDDH
+Strategic Finance Investment Ltd
+516
+71
+SHMTBDDD
+Shimanto Bank PLC
+020
+72
+SJBLBDDH
+Shahjalal Islami Bank PLC
+190
+73
+SOIVBDDH
+Social Islami Bank PLC
+195
+74
+TTBLBDDH
+Trust Bank Ltd
+240
+75
+UBLDBDDH
+Union Bank PLC
+265
+76
+UCBLBDDH
+United Commercial Bank PLC
+245
+77
+UCLRBDDH
+Union Capital Ltd
+518
+78
+UFINBDDH
+United Finance Ltd
+517
+79
+UTBLBDDH
+Uttara Bank PLC
+250
+80
+BBHOBDDH
+Bangladesh Bank
+
+--- Page 37 ---
+BD-RTGS System Rules | 36
+
+ANNEX 2: PARTICIPATION AGREEMENT
+
+(On Taka 300 Non-Judicial Stamp)
+
+Bangladesh Real Time Gross Settlement System Participation Agreement
+In consideration of the undersigned being admitted as a participating Banking
+Company/Finance Company in the Bangladesh Real Time Gross Settlement (BD-RTGS)
+System, as a facility to operate an interbank electronic real time funds settlement services
+within the country for both local and designated foreign currencies, and of the mutual
+indemnification of the understanding by each other of BD-RTGS System: the undersigned,
+which intends to act as a participating banking company of RTGS, hereby agrees with the
+Bangladesh Bank, and with other participating banking company :
+1. to comply with and be subject to the BD-RTGS System Rules (collectively referred to
+as the ‘BD-RTGS Rules’) including descriptive requirements to be applicable from
+time to time ;
+2. to make all payments required by the BD-RTGS Rules including fees and charges set
+by BB time to time ;
+3. not to effect adversely the operation of the System by compromising the integrity of
+payment instructions sent to the BD-RTGS System ;
+4. to indemnify and hold harmless the Bangladesh Bank and other participants from any
+and all costs, charges, claims, demands, expenses (including costs of investigation
+and attorneys’ fees and expenses of litigation), losses, liabilities, damages,
+judgements, fines, penalties, interest and amount paid in settlement arising from any
+failure on the part of the undersigned to exercise ordinary care or to comply with any
+of the provisions of the BD-RTGS Rules.
+This agreement shall be governed by and construed in accordance with the laws of the
+People’s Republic of Bangladesh. The undersigned and the Bangladesh Bank submit to
+the exclusive jurisdiction of the court of the People’s Republic of Bangladesh.
+This agreement shall inure to the benefit of the Bangladesh Bank and shall be binding on
+the undersigned and its successors and assigns, except no Participating Banking
+Company/Finance Company may transfer or assign its rights or Obligations hereunder
+except as expressly provided in the BD-RTGS Rules.
+
+
+Date:
+(Participating Financial Institution)
+
+
+
+Accepted this .................day of
+.........../..........Bangladesh Bank
+
+Authorized Signatory
+(Signature of the Chief Executive)
+
+(Name)
+
+--- Page 38 ---
+BD-RTGS System Rules | 37
+
+ANNEX 3: DAILY OPERATING TIMETABLE
+
+1. Normal Business Day (BDT and FC)
+Period Name
+BDT
+FC
+Period Start Time Period Start Time
+Start of Day(SOD)
+09:00
+09:00
+Open for Business (OFB)
+10:00
+10:00
+Initial Cut-off
+16:00
+16:00
+Special Cut-off
+17:00
+Final Cut-off
+17:15
+16:30
+End of Day (EOD)
+17:30
+17:00
+
+Ramadan Business Day (BDT and FC)
+Period Name
+BDT
+FC
+Period Start Time Period Start Time
+Start of Day(SOD)
+09:00
+09:00
+Open for Business (OFB)
+10:00
+10:00
+Initial Cut-off
+14:30
+14:30
+Special Cut-off
+15:30
+Final Cut-off
+15:45
+15:30
+End of Day (EOD)
+16:00
+15:45
+
+
+Note: Contingent on specific instruction provided by PSD Circular relating to RTGS operational hour and
+it may change time to time.
+
+--- Page 39 ---
+BD-RTGS System Rules | 38
+
+ANNEX 4: TRANSACTION TYPE CODES
+
+TTC
+Code
+Code Description
+Priority Range
+(Minimum)
+Priority Range (
+Default)
+Priority
+Range
+(Maximum)
+Ordinary transfers.
+11
+20
+98
+Cash withdrawal operations
+11
+20
+98
+Cash deposit operations
+11
+20
+98
+Outgoing foreign transfer
+11
+20
+98
+Incoming foreign transfer
+11
+20
+98
+DvP operations.
+98
+ILF operations.
+98
+Securities Trading Operations.
+98
+Decreasing Reserve.
+98
+10
+Increasing Reserve
+98
+11
+Clearing transaction from
+clearing system (i.e BACH,
+NPSB, IDTP etc.).
+98
+13
+General Ledger transaction
+(SOD & Top-up).
+10
+98
+14
+Return transaction.
+11
+20
+98
+15
+ILF redemption.
+98
+16
+Collection of fees.
+10
+98
+17
+Collection of penalties.
+10
+98
+18
+Interbank REPO.
+98
+19
+Interbank REPO PayBack.
+98
+20
+ILF return on behalf of other
+participant.
+98
+30
+Direct Debit
+98
+31
+Government Payment
+98
+40
+Excise and Govt. Transaction
+11
+20
+98
+41
+Customs Transaction
+11
+20
+98
+42
+Reserve for Govt. Transaction
+11
+20
+98
+50
+EDS Money Transaction
+11
+20
+98
+55
+NBFI Transaction
+11
+20
+98
+60
+Reserve for BB
+11
+10
+98
+
+--- Page 40 ---
+BD-RTGS System Rules | 39
+
+ANNEX 5: GUIDELINES OF INTRADAY LIQUIDITY FACILITY
+
+To facilitate the expeditious settlement of payment transactions in the Real Time Gross
+Settlement (RTGS) system Bangladesh Bank (BB) is planning to allow participant banks in
+the RTGS system to avail Intraday Liquidity Facility (ILF) for a very short maturity during
+the operational hours of RTGS.
+The operating instructions of ILF are given below:
+
+1. BB will provide Intraday Liquidity Facility (ILF) to participant banks in the RTGS
+system for their temporary liquidity needs to settle payment transactions in the RTGS
+system. Banks will avail ILF only on intraday basis and will have to repay the full
+amount of ILF on the same day on or before the time specified by the BB.
+2. Banks shall enter into an ILF agreement with BB in the prescribed form to avail ILF.
+Banks shall comply with the terms and conditions and operating instructions of ILF
+that are issued by BB from time to time.
+3. ILF will be provided in the form of intra-day REPO transaction mechanism against
+Bangladesh Government Treasury Bonds (BGTB), Treasury Bills and Bangladesh
+Bank Bills. BB, at its sole discretion may change the types of eligible securities
+accepted for ILF.
+4. The value of eligible securities applied for ILF shall be determined in terms of the
+market value of the security less the haircut as set out below:
+
+Eligible Securities
+Applicable haircut
+Amount
+BGTB
+Market value of BGTB x(1-
+5% of Market value of
+BGTB)
+Treasury Bill
+10%
+Market value of TB x(1- 10%
+of Market value)
+Bangladesh Bank Bill
+10%
+Market value of BB Bill x(1-
+10% of Market value)
+
+BB may change the valuation methodology and the applicable haircuts from time to time at its
+sole discretion.
+5. BB shall provide ILF only to the extent of the value as determined according to
+clause 4 above. At the time of reversal participant banks shall repay the ILF amount
+in full.
+6. BB will not charge any fee/commission or interest for ILF. BB however reserves the
+right to levy charges on participant of RTGS for using ILF.
+7. Banks will not be permitted to replace the securities against which ILF is provided;
+but banks may repurchase the whole or part of those securities by refunding the funds
+borrowed under ILF fully or partially.
+8. The ILF shall be available only on the business days and during the operating hours
+
+--- Page 41 ---
+BD-RTGS System Rules | 40
+
+of RTGS.
+9. Banks shall transfer sufficient amount of eligible securities from their own respective
+portfolios to their designated ILF securities account in the MI Module within the
+stipulated time (before the operating hours start) against which they are willing to
+avail ILF. When they will not have enough funds for settlement of any transactions in
+RTGS system the ILF will be generated automatically against the securities held in
+their ILF securities account in the MI Module.
+10. Whenever the balances of securities of a particular participant bank have been
+exhausted in the ILF designated securities account, the MI system will notify the
+participant bank of the same. The participant bank should immediately transfer
+sufficient amount of securities from their respective securities account to the ILF
+designated securities account on a Priority basis, in order to settle pending payment
+transactions in the queue after availing ILF from BB.
+11. ILF reversal should be treated as most important event by the bank. Outstanding
+balance of ILF should be settled by the banks within the specified time for ILF
+reversal session. Banks should ensure the availability of sufficient funds in their
+settlement account in the RTGS system within the specified time. If the bank fails to
+pay off in full or in part of the outstanding amount of ILF at the end of the day, the
+bank shall be deemed as defaulter for the full amount of outstanding and the ILF will
+be converted to overnight Repo with BB. In such case, the Bank will pay the interest
+twice the prevailing Repo rate to BB.
+12. On the next business day, the bank shall repurchase the securities by paying the value
+stated in column-4 plus interest within two hours of opening/starting RTGS operating
+hours. The bank shall not be permitted by BB to avail ILF until the repurchase is
+completed. If such instance of default is repeated within 6 months BB may suspend
+the bank from availing ILF.
+13. When a bank fails to repurchase the securities within the specified time on the next
+day, the securities against which ILF has been availed shall be transferred to the
+holdings of BB. Further, BB shall have the right to debit or credit the current account
+of the bank if any deficit or excess amount arises after payment of interest, penalties
+and from change of market value of the securities concerned.
+14. In such cases of default BB may impose additional penalties or suspend the bank
+from participating in the RTGS System and also take other measures as appropriate.
+15. Banks shall inform BB about their failure to repay the ILF amount within the ILF
+reversal session.
+16. BB reserves the right to immediately suspend or terminate the facility.
+
+17. BB also reserves the right to amend this regulation by deleting, substituting or adding
+any of the clauses from time to time or at any time.
+
+--- Page 42 ---
+BD-RTGS System Rules | 41
+
+ANNEX 6: GUIDELINES OF INTRADAY LIQUIDITY FACILITY FOR ISLAMIC SHARIAH BASED
+BANKS
+Bangladesh Bank is planning provide Intraday Liquidity Facility (ILF) to participant Islamic
+banks in the Real Time Gross Settlement (RTGS) system for their temporary liquidity needs
+to settle payment transactions in the RTGS system.
+The operating instructions of ILF are given below:
+
+1. BB will provide ILF to the participant Islamic banks in the RTGS system
+against Bangladesh Government Islami Investment Bond (BGIIB) or other
+bonds issued by the Government and BB based on Islamic Shariah
+principles.
+2. Islamic banks shall enter into an ILF agreement with BB in the prescribed
+form to avail ILF. Banks shall comply with the terms and conditions and
+operating instructions of ILF that are issued by BB from time to time.
+3. Islamic banks will avail ILF only on intraday basis and will have to repay
+the full amount of ILF on the same day on or before the time specified by
+the BB.
+4. The value of eligible securities applied for ILF of Islamic banks will be
+determined in accordance with the face value of eligible securities less the
+haircut equal to 15% of face value. On reversal Islamic banks will return
+the exact amount borrowed under ILF.
+5. The ILF shall be available only on the business days and during the
+operating hours of RTGS.
+
+6. Islamic banks shall transfer sufficient amount of eligible securities from
+their own respective portfolios to their designated ILF securities account
+in the IBS within the stipulated time (before the operating hours start)
+against which they are willing to avail ILF. When they will not have
+enough funds for settlement of any transactions in RTGS system the ILF
+will be generated automatically against the securities held in their ILF
+securities account in the IBS.
+7. Whenever the balances of securities of a particular participant bank have
+been exhausted in the ILF designated securities account, the IBS system
+will notify the participant bank of the same. The participant bank should
+immediately transfer sufficient amount of securities from their respective
+securities account to the ILF designated securities account on a Priority
+basis, in order for the pending payment transactions in the queue to be
+settled after availing ILF from BB.
+8. Outstanding balance of ILF should be settled by the banks within the
+specified time for ILF reversal session. Banks should ensure the
+availability of sufficient funds in their settlement account in the RTGS
+system within the specified time. If the bank fails to pay off in full of the
+outstanding amount of ILF at the end of the day, the bank shall be deemed
+as defaulter and the full outstanding amount of ILF shall be extended for
+
+--- Page 43 ---
+BD-RTGS System Rules | 42
+
+overnight and BB shall charge a penalty of 40 taka for outstanding
+amount less than or equal to taka one lac and multiples thereof.
+9. On the next business day, the Islamic bank shall release the securities by
+paying the full amount borrowed under ILF plus penalty within two hours
+of RTGS operating hours begin. The bank shall not be permitted by BB to
+avail ILF until this transaction is completed. If such instance of default
+repeated within 6 months BB may suspend the bank from availing ILF.
+10. When a bank fails to repay the borrowed amount within the specified time
+on the next business day, BB will buy the securities against which ILF has
+been availed. Further, BB shall have the right to debit or credit the current
+account of the bank if any deficit or excess amount arises for buying
+securities or payment of penalties.
+11. In such cases of default BB may impose additional penalties or suspend
+the bank from participating in the RTGS System and also take other
+measures as appropriate.
+12. Banks shall inform BB about their failure to repay the ILF amount within
+the ILF reversal session.
+13. BB reserves the right to immediately suspend or terminate the facility.
+
+14. BB also reserves the right to amend this regulation by deleting,
+substituting or adding any of the clauses from time to time or at any time.
+
+--- Page 44 ---
+BD-RTGS System Rules | 43
+
+ANNEX 7: GUIDELINES OF FC CLEARING THROUGH BD-RTGS SYSTEM
+
+Bangladesh Bank has been providing clearing and settlement services for local currency as
+well as approved foreign currencies within the country since long time. Forex Reserve and
+Treasury Management Department of Bangladesh Bank execute clearing and settlement
+through maintaining FC accounts in approved currencies of schedule Banks. However, the
+whole FC Clearing and settlement process was until very recently manual and paper
+instrument based which require physical movement of instruments and officials resulting in
+higher transaction cost and inconvenience. To overcome this problem Bangladesh Bank has
+decided to introduce FC clearing and settlement through the RTGS system.
+
+To facilitate safe, secure and efficient interbank payment system, Bangladesh Bank launched
+Real Time Gross Settlement (BD-RTGS) system on 29th October 2015 as part of its
+inclusive digitization initiative. BD-RTGS opened a new horizon in the payment ecosystem,
+accommodating instant settlement of large value and time critical payments in the country.
+RTGS system is capable of operating both in local currency and foreign currency. Now
+Bangladesh Bank is introducing clearing and settlement in 6(six) foreign currency [US
+Dollar (USD), Great Britain Pound(GBP), Euro (EUR), Canadian Dollar (CAD), Japanese
+Yen (JPY)] and Chinese Yuan (CNY) transactions inside the country. RTGS is a credit
+transfer system and operation of the FC in RTGS system is similar to that of local currency
+(BDT) settlement system. At the beginning of each business day, Banks’ specific FC
+account is debited and the related RTGS settlement account is credited as per Standing
+Instruction of the participants. Then, as per instruction of participants, a transaction is settled
+instantly and fund is transferred to the beneficiary’s account. The transaction is settled only
+when the RTGS settlement account of a specific currency has sufficient balance. At the end
+of the business day, balance of settlement account of RTGS system is transferred to Banks’
+specific FC account. Thus FC clearing through RTGS system will eliminate settlement risk
+as well as credit risk for the participants.
+
+The features and prerequisites for inland FC clearing through the RTGS system are as
+follows: -
+
+1. BD-RTGS is a stand-alone system; no other payment platform should be
+connected to this system.
+2. Banks have to maintain FC Accounts with Bangladesh Bank to originate and
+receive FC transactions in RTGS system.
+3. RTGS system allows only currency-wise transaction; cross-currency transaction
+is not allowed.
+4. Any amount of FC transaction can be settled through RTGS system.
+5. AD branches and Head office clearing unit of banks can originate and receive FC
+transactions in RTGS system. However, each bank must designate a single
+routing number which will be exclusively used for Foreign Exchange
+transactions.
+
+--- Page 45 ---
+BD-RTGS System Rules | 44
+
+6. SOD (Start of Day) Fund transfer, Top-Up and EOD (End of Day) reconciliation
+will be executed by Forex Reserve & Treasury Management Department
+(FRTMD) of Bangladesh Bank.
+7. To execute customer transaction, Originating Financial Institution has to mention
+the originator account type as well as beneficiary account type (such as ERQ,
+SFCAMS, RFCD, NFCD, PFCD, NRB FCY, Airlines, Shipping FCY, Intra-
+EPZ, Inter-EPZ etc) in the account information field of the instruction.
+8. To execute FI to FI transaction, Originating Financial Institution has to mention
+Bill Number, LC Number, Party Name, Branch ID and Other information in the
+account information field of the instruction.
+9. Originating Financial Institution has to mention the purpose of the transaction
+properly; this field will be treated as mandatory in case of FC settlement. Bank
+can also provide additional information in the others field of the message.
+10. Bank can charge maximum BDT 100 (Including VAT) or equivalent FC for each
+transaction from the originator.
+11. Intraday Liquidity Facility (ILF) will not be available for FC transactions in
+RTGS system.
+12. Each Bank will prepare their BCP, operation procedure & guidelines and
+maintain separate reconciliation team for FC settlement.
+13. Banks shall follow the Guidelines of Foreign Exchange Transactions (GFET)
+while originating and posting a transaction as and when applicable.
+14. For FC transaction through RTGS system, section 4.2 of BD-RTGS System
+Rules will be relaxed but transaction shall be posted to the beneficiary account
+within 2 (Two) hours of the settlement instruction from BD-RTGS, otherwise to
+be returned.
+15. All other rules and procedures of local currency settlement as well as BD-RTGS
+system Rules will be applicable to FC settlement through the RTGS system.
+
+--- Page 46 ---
+BD-RTGS System Rules | 45
+
+GLOSSARY OF TERMS
+
+Short
+Name
+Full Name
+Explanation/Definition
+Administrator
+Authorised BB official(s) involved in the administration
+of RTGS and its component modules.
+Audit Trail
+A sequential record of events having occurred in the
+BD-RTGS containing detailed information to assist
+subsequent incident analysis. Participants can view the
+audit trail of their own transactions. Only BB can view
+the full audit report.
+Authentication
+The methods used to verify the origin of a message or to
+verify the identity of a Participant connected to the
+system. See also Digital Certificate & Digital Signature.
+Authorised Person
+Person duly authorised by all necessary action to access
+data and to provide payment instructions and/or person
+designated to access such data and to provide
+instructions, on behalf of the Participant in connection
+with the Services and the limitations, if any, upon such
+authority.
+Available Balance
+Or
+Available Funds
+The balance of the Settlement Account
+Back-up
+The process of keeping off-site mirrored copies of
+essential system files, including the RTGS database, to
+ensure that the System can be recovered within the
+timeframes specified in the event of the main
+production system failing or other disaster occurring.
+Also used to refer to the copy files.
+BACPS
+Bangladesh
+Automated Cheque
+Processsing System
+A Clearing House which carries out cheque truncation
+and electronic cheque presentment for all cheques in
+Bangladesh.
+BB
+Bangladesh Bank
+The central bank of Bangladesh and operator of RTGS.
+Bangladesh Bank
+Bills
+Bangladesh Bank Bill Short-term securities issued by
+BB.
+BEFTN
+Bangladesh
+Electronic Funds
+Transfer Network
+A Clearing House which carries out the distribution and
+settlement of electronic credit and debit instructions
+among all participating banks.
+
+--- Page 47 ---
+BD-RTGS System Rules | 46
+
+
+Short
+Name
+Full Name
+Explanation/Definition
+BGIIB
+Bangladesh
+Government Islami
+Investment Bonds
+Shariah-compliant investment bonds issued by the
+Government of Bangladesh.
+BGTB
+Bangladesh
+Government
+Treasury Bonds
+Long-term securities issued by the Government of
+Bangladesh.
+BDT
+Bangladesh Taka
+The legal currency of Bangladesh.
+BIC
+Bank Identifier
+Code
+A unique address that identifies precisely the financial
+institutions
+involved
+in
+international
+financial
+transactions using the SWIFT network. BICs are used in
+RTGS for identification of bank. A BIC consists of
+eight characters comprising the following components:
+Bank Code (4), Country (2) Code and Location Code
+(2). BICs are allocated and managed by SWIFT.
+Beneficiary
+The recipient of a payment (The Receiver).
+Block
+A BB-only action taken via a RTGS menu function
+which prevents a specific Bank/Bank Branch from
+sending and/ or receiving payment messages to/from the
+System.
+Business
+Continuity
+An arrangement that aims to ensure that the system is
+able to operate normally even if one or more
+components of the System fail or if it is affected by an
+abnormal external event. Include both preventative
+measures and arrangements to deal with contingencies.
+Business Day
+A day on which BD-RTGS is operating to process
+payments.
+CBS
+Core Banking
+Solution
+The computer system that handles all banking activities
+of a bank centrally in real-time basis.
+CRR
+Cash Reserve
+Requirement
+The amount of reserve funds that a Participant is
+required to deposit with BB against its deposit holdings.
+
+--- Page 48 ---
+BD-RTGS System Rules | 47
+
+
+Short
+Name
+Full Name
+Explanation/Definition
+Clearing House
+A service or system for the clearing, netting and
+settlement of files of ‘retail payments’ each of which is
+ideally required to provide their net settlement files
+(DNS Files) to RTGS for settlement. Current Clearing
+Houses operating in Bangladesh are:
+‐ the Bangladesh Electronic Funds Transfer Network
+(BEFTN);
+‐ the Bangladesh Automated Cheque Processing System
+(BACPS);
+‐ the National Payment Switch Bangladesh (NPSB).
+Other Clearing Houses may be established in future and
+will be required to effect DNS through RTGS in the
+same way as the established Clearing Houses.
+Collateral
+Is a borrower’s pledge of specific property to a lender,
+to secure repayment of a loan. The collateral serves as
+protection for the lender against a borrower’s default.
+Constraining Event
+Processing, communications or other failure of a
+technical nature;
+Inaccessibility (total or partial) to facilities by means of
+which payments are sent and received; or
+Manifestation of industrial action, which affects, or may
+affect, the ability of any Participant to participate to the
+normal and usual extent in sending and receiving
+payments.
+Contingency Event
+Any Constraining Event or any other event or
+circumstance specified by BB.
+Cut-off
+A designated time beyond which certain functions
+cannot be performed.
+DNS
+Deferred Net
+Settlement System
+A bilateral or multilateral net settlement system where
+settlement takes place on a net basis, after a pre-fixed
+cutoff time and usually with multiple transactions.
+DNS File
+Deferred Net
+Settlement File
+A file containing the net positions (credit or debit) of all
+participants in a Clearing system, which is produced
+following a DNS session in a Clearing system. The
+credits and debits in each DNS File must net out to zero.
+
+--- Page 49 ---
+BD-RTGS System Rules | 48
+
+
+Short
+Name
+Full Name
+Explanation/Definition
+Digital Certificate
+An encrypted text, which enables devices such as
+electronic tokens to be authenticated by the System and
+system components to authenticate each other, using
+PKI methods.
+Digital Signature
+A string of data generated by a cryptographic method
+that is attached to a message to ensure its authenticity as
+well as to protect the recipient against repudiation by
+the sender.
+EOD
+End of Day
+End of the Business Day for RTGS.
+EUR
+Euro
+Common currency for the sigle European payments area
+Fallback
+Documented contingency arrangements to be initiated
+in the event of a failure or disruption of service.
+FCO
+Final Cut-off
+Time at which RTGS cuts off processing of transactions
+and cancels any queued Payment transactions for the
+value of the day.
+Force Majeure
+A term frequently used in contracts to describe a
+situation in which a party is unable to carry out its
+contractual obligations due to circumstances outside its
+control.
+FX
+Foreign Exchange
+Any currency other than BDT.
+GL
+General Ledger
+BB’s General ledger in which BB’s accounts, including
+those it holds for the banks, are held, usually its Core
+Banking Solution.
+Government
+Securities
+Securities issued by the Government of Bangladesh.
+Gridlock
+A situation that can arise in a funds transfer system in
+which the failure of some transfer instructions to be
+executed (due to insufficient funds) prevents fulfilment
+of a substantial number of instructions given by other
+Participants.
+Gridlock
+Resolution
+Act of resolving Gridlock within the Payment Queues
+without overdrawing the accounts involved.
+Gross Settlement
+The Settlement of funds, which is effected individually
+on an order-by-order basis, i.e. without netting debit
+against credit payment transfers.
+
+--- Page 50 ---
+BD-RTGS System Rules | 49
+
+
+Short
+Name
+Full Name
+Explanation/Definition
+In Writing
+(iii)
+On paper, signed by an authorised officer of
+the sender; or (ii) by e-mail from authenticated
+source ; or
+(iii) by Authenticated Faxes or by SWIFT message
+type camt.998.
+IT
+Information
+Technology
+Computer and communication infrastructure used for
+RTGS operation.
+Insolvency Event
+Any collective measure provided for in the law of
+Bangladesh, either to wind up the Participant or to
+reorganise it, when such measure involves the
+suspension of, or the imposition of limitations on,
+transfers or payments, such as an adjudication order, a
+request for composition, extension or suspension of
+payment, moratorium, liquidation and other similar
+judicial procedures.
+Interface
+The common boundary between two functional
+elements, logical or between two physical devices that
+is defined by its functional characteristics, common
+physical characteristics of the link between them, signal
+or other characteristics.
+ISO
+International
+Organisation for
+Standardisation
+A worldwide federation of national standards bodies
+from some 140 countries. The mission of ISO is to
+promote the development of standardisation in order to
+facilitate the international exchange of goods and
+services.
+ILF
+Intraday Liquidity
+Facility
+Credit extended by BB to a Participant for a period of
+time that is less than one Business Day for the purpose
+of providing liquidity to the Participant.
+ILF Account
+An account in RTGS which is used to hold the status of
+a Participant’s usage of ILF. Each Participant has one
+ILF Account in BDT only, which is tied to its BDT
+Settlement Account.
+IBS
+Islami Bond
+System
+An electronic system which manages the issuing,
+custody and redemption of Bangladesh Government
+Islami Investment Bonds (BGIIB).
+Liquidity
+The measure of a Participant’s ability to meet its current
+Obligations in respect of funds transfer. In the context
+of RTGS, this comprises four components: available
+funds (balance) on the Settlement Account transferred
+from the reserve account, queued payment transfers
+from other Participants to its account, credits extended
+by the central bank via the ILF and funds from
+interbank money market transactions.
+
+--- Page 51 ---
+BD-RTGS System Rules | 50
+
+
+Short
+Name
+Full Name
+Explanation/Definition
+LAN
+Local Area
+Network
+A computer network that spans a relatively small area,
+generally confined to a single building or group of
+buildings.
+MI
+Market
+Infrastructure
+module
+An electronic system which manages the issuing,
+custody and payments for Bangladesh Government
+Treasury Bonds (BGTB), Treasury Bills and
+Bangladesh Bank Bills.
+Materials
+These Rules and each related Annex and attachment
+thereto and hereto, supplemented by User Manuals,
+data, processes and other documentation provided by
+BB.
+MOF
+Ministry of Finance
+Manager of the Government’s accounts and payments.
+NBR
+National Board of
+Revenue
+The national taxation authority.
+NPSB
+National Payment
+Switch Bangladesh
+A Clearing House operated by BB which facilitates
+interbank electronic payments originating from different
+channels including Automated Teller Machines (ATM),
+Point of Sale (POS) terminals, Internet banking, mobile
+devices etc.
+Netting
+An agreed offsetting of obligations between two or
+more parties or Participants in which a greater number
+of obligations is reduced to a smaller number of
+obligations.
+Operational hours
+The system day of RTGS, which is defined through a
+number of operating ‘windows’.
+OFI
+Originating
+Financial Institution
+Bank which sends payment instructions to BD-RTGS
+Originator
+Person or organisation initiating a Payment Instruction
+to the System through an OFI
+Participant
+A member of the RTGS system, including its operator
+(BB).
+Participant Credit
+A credit transaction against a Participant’s Settlement
+Account which is made by BB rather than initiated by
+another Participant. A Participant Credit always debits
+BB.
+
+--- Page 52 ---
+BD-RTGS System Rules | 51
+
+
+Short
+Name
+Full Name
+Explanation/Definition
+Participant Debit
+A debit transaction against a Participant’s Settlement
+Account which is made by BB (e.g. for repayment of an
+overnight or other loan or debiting RTGS usage fees). A
+Participant Debit always credits BB.
+Participant Transfer
+A transfer of funds which is made by BB on behalf of
+one Participant’s Settlement Account to another’s (e.g.
+in the event that the sending Participant loses
+connectivity to RTGS).
+Payment
+A payer’s transfer to a payee within RTGS against the
+payee’s monetary claim.
+Payment
+Instruction
+An order or message requesting the transfer of funds.
+Payment Message
+A set of data transferred via an electronic mechanism
+which specifies the payer and payee of the transaction,
+the amount to transfer and the value date, and which
+enables the settlement of the transaction between
+Participants in a Payment System.
+Primary Site
+The RTGS principal operating site (Data Centre – DC).
+Priority or Priority
+Code
+A numeric value between 1 and 99 which RTGS uses as
+a factor in determining the sequence in which it
+executes Payment Instructions. Priorities 1 to 6
+inclusive are reserved for use by RTGS and BB.
+Procedures
+The activities and the methods designated in these
+Rules.
+PKI
+Public Key
+Infrastructure
+A method for securing access and information transfer
+based on the use of Public and Private keys. Allows for
+data
+encryption,
+server
+authentication,
+message
+integrity, and client authentication for connections
+between the user’s browser and the application server.
+Can be used to achieve non-repudiation of transactions.
+PO
+Payment Originator
+Payment Originator for manually entering the payment.
+
+Queue
+A queue in which RTGS Payment Instructions, which
+are not settled due to a lack of funds, are held for
+settlement until either sufficient funds are put into the
+OFI’s Settlement Account. There is one Queue per
+Participant for each currency.
+
+--- Page 53 ---
+BD-RTGS System Rules | 52
+
+
+Short
+Name
+Full Name
+Explanation/Definition
+RTGS
+Real-Time Gross
+Settlement
+The process whereby Payment Instructions are settled
+by debiting and crediting the involved Settlement
+Accounts immediately (in real time) and individually
+(gross) with finality and irrevocability.
+Receiver
+Person or organisation receiving a Payment Instruction
+from the System.
+RFI
+Receiving Financial
+Institution
+Bank where receiver maintains account with
+Repo
+Repurchase of
+Securities
+An agreement in which money is advanced against
+securities with a change in beneficial ownership of the
+securities, on the basis that they will be bought back at
+an agreed later time. This process may be automated.
+Security
+Administrator
+An authorised person at BB or a Participant who has
+access to RTGS for the purpose of maintaining User
+details and the Profiles of User in RTGS. A Security
+Administrator cannot have access to RTGS payment
+entry, management and enquiry functions.
+SLA
+Service Level
+Agreement
+A contractual document signed between the user of the
+system and with the vendor/developer/service provider,
+defining the operational service levels.
+Services
+Means all functions provided or to be provided by BB
+to Participants pursuant to these rules.
+Settlement
+The process of debiting and crediting Participants’
+Accounts with the central bank, such that the payment is
+final and irrevocable after the Accounts of the relevant
+Participants have been credited and debited.
+Settlement Account
+The account held by each Participant with BD-RTGS
+System for the settlement of transactions between
+Participants. Each Participant has one Settlement
+Account per currency.
+Settlement System
+The system in which the settlement operation takes
+place.
+
+--- Page 54 ---
+BD-RTGS System Rules | 53
+
+
+Short
+Name
+Full Name
+Explanation/Definition
+STP
+Straight Through
+Processing
+The connection of one computer system to another to
+enable automatic exchange of information.
+System, or the
+System
+The RTGS system which is the subject of these Rules.
+System
+Administrator
+The person appointed by BB to supervise the operation
+of RTGS.
+System Operator
+Bangladesh Bank as the operator of BD-RTGS System.
+Technical
+Acceptance
+The point at which RTGS has validated the format of an
+incoming message.
+Technical Operator
+Bangladesh Bank as the operator of BD-RTGS System.
+TTC
+Transaction Type
+Code
+A Code to identify certain types of payment instructions
+and how they should be processed. TTCs are listed in
+Annex 4.
+Treasury Bills
+Short-term securities issued by the Government of
+Bangladesh.
+USD
+United States
+Dollar
+The legal currency of the United States of America.
+User
+An Authorised Person who has access to BD-RTGS
+System.
+User Manual/
+Guides
+Documentation defining how to use RTGS.
+User Profile
+The collection of attributes which define a User.
+Value Date/Value
+Day
+The Business Day on which the amount of a successful
+Payment Instruction will be at the disposal of the
+receiving Participant (payee) or its client.
+VPN
+Virtual Private
+Network
+A dedicated telecommunications network connecting
+Participants to BD-RTGS System.

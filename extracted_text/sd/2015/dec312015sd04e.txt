@@ -1,0 +1,57 @@
+--- Page 1 ---
+Statistics Department
+Bangladesh Bank
+Head Office
+Dhaka
+Website: www.bb.org.bd
+
+SD Circular No. 04/2015
+
+Date:
+December 31, 2015
+
+Poush 17, 1422
+
+Managing Director/Chief Executive Officer
+All scheduled banks functioning in Bangladesh
+
+
+Dear Sir,
+
+
+Subject: Submission of monthly E-banking and E-commerce new RIT
+
+
+Please refer to SD Circular No. 01 dated April 13, 2015 of Statistics Department and PSD
+Circular No. 03 dated April 12, 2015 of Payment System Department of Bangladesh Bank.
+According to the above circulars, E-banking and E-commerce related RIT
+(T_ME_M_EBANKING_ECOMMERCE)
+and
+RIT
+(T_PS_M_PSD_INFO)
+have
+been
+submitting regularly on monthly basis by the 10th in Statistics Department and by the 15th in
+Payment System Department (PSD) respectively of the following month through BB web portal.
+To avoid the submission of same data in two Departments it is advised to implement the
+following decisions.
+1) The above RITs of the two circulars will be treated as cancelled after December’
+2015.
+2) The related new RIT (T_ME_M_EBANKING_ECOMMERCE) can be downloaded
+from the Bangladesh Bank’s website or have to collect directly from SSP Division of
+Statistics Department.
+3) The data regarding new RIT have to submit regularly on monthly basis in Statistics
+Department on or before 10th of the following month to which it relates. The new RIT
+related data need not to submit in Payment System Department (PSD).
+4) The combined RIT of January’ 2016 have to submit in Statistics Department through
+Bangladesh Bank’s web portal by 10th February’ 2016 and continue regularly on
+monthly basis.
+
+File: T_ME_M_EBANKING_ECOMMERCE
+Link: http://ereturns.bb.org.bd/edwportal/
+
+Yours faithfully,
+
+(Roksana Bagum)
+Deputy General Manager
+Phone- 9530245

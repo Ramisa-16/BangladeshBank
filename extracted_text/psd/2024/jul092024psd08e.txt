@@ -1,0 +1,1630 @@
+--- Page 1 ---
+Payment Systems Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+
+PSD Circular No. 08/2024
+
+
+
+
+
+
+
+
+
+
+
+
+Managing Director/Chief Executive Officers
+All scheduled banks in Bangladesh/ Mobile Financial Service Provider (MFS)/Payment Service
+Provider/ Payment System Operator
+
+Dear Sir,
+Interoperable Digital Transaction Platform (IDTP) ‘Binimoy’ Operating Rules
+All Scheduled banks, Mobile Financial Service Provider (MFS), Payment Service Provider,
+Payment System Operator of the country that are participating in Interoperable Digital
+Transaction Platform (IDTP) ‘Binimoy’ are hereby advised to follow the Binimoy Operating
+Rules enclosed with this Circular with immediate effect.
+Please acknowledge receipt.
+
+Enclosure:
+
+Binimoy Operating Rules
+
+
+
+
+Date:
+
+09 July 2024
+25 Ashar 1431
+Yours sincerely,
+
+Md. Motasem Billah
+Director (PSD)
+Phone : 880-2-9530334
+E-mail: motasem.billah@bb.org.bd
+
+--- Page 2 ---
+Binimoy Operating Rules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payment Systems Department
+Bangladesh Bank
+
+--- Page 3 ---
+Page 2 of 36
+
+
+
+Glossary of Terms
+
+Sl.
+Term Full Form
+Sl
+Term
+Full Form
+01. BB
+Bangladesh Bank
+14
+OTP
+One Time Passcode
+02. IDTP
+Interoperable Digital Transaction Platform
+15
+RO
+Request Originator
+03. FI
+Financial Institution
+16
+FR
+Fund Receiver
+04. OM
+Operating Manual
+17
+RR
+Request Receiver
+05. VID
+Virtual ID
+18
+FS
+Fund Sender
+06. NID
+National Identity
+19
+FRI
+Fund Receiving Institute
+07. MFS
+Mobile Financial Services
+20
+FSI
+Fund Sending Institute
+08
+PSP
+Payment Service Provider
+21
+SI
+Standing Instruction
+09
+DP
+Direct Pay
+22
+RRI
+Request Receiving Institution
+10. RTP
+Request to Pay
+23
+ROI
+Request Originating Institution
+11
+PIN
+Personal Identification Number
+24
+CBS
+Core Banking Solution
+12
+ICP
+IDTP Client Platform
+25
+OI
+Originating Institution
+13
+SDK
+Software Development Kit
+26
+RI
+Receiving Institution
+
+--- Page 4 ---
+Page 3 of 36
+
+
+
+Concepts
+1.1 Virtual Id
+1.1.1 Creation of a Virtual Id & Account Linking
+1.1.2 Benefits of Virtual Id
+1.2 Account Aliases and Default Account for Receiving Funds
+1.2.1 Account Defaults
+1.3 Binimoy Network Participants
+1.3.1 Direct Participants
+1.3.2 Indirect Participants
+1.4 Net Debit Cap
+1.4.1 Net Debit Cap for Indirect Participants
+1.5 Transaction Types
+10
+1.5.1 Direct Pay
+10
+1.5.2 Request to Pay
+10
+1.5.3 Govt Entity Fund Disbursement
+10
+1.5.4 Salary Payment
+10
+1.5.5 E-Commerce Payment
+11
+1.6 ICP - IDTP (Binimoy) Client Platform
+11
+1.7 Binimoy Android SDK
+11
+1.8 Binimoy Web Platform for PIN Capture
+11
+2. Fee Management
+12
+2.1 Types of Fees
+12
+2.2 Type of service
+12
+2.3 Determination of Fees
+12
+2.4 Settlement of Fees
+13
+3. Dispute Management
+13
+4. Legal Framework
+15
+4.1 Binimoy Article 1
+15
+4.1.1 Application of Rules
+15
+4.1.2 Compliance with Rules
+15
+
+--- Page 5 ---
+Page 4 of 36
+
+4.1.2.1 Compensation
+15
+4.1.2.2 Dispute Resolution
+15
+4.1.3 Excused Delay
+15
+4.1.4 Binimoy service uptime and technical maintenance downtime
+15
+4.1.5 Records
+16
+4.1.5.1 Records of Entries
+16
+4.1.6 Choice of Law
+16
+4.2 Binimoy Article 2
+16
+4.2.1 Prerequisites to Usage of Binimoy Network
+16
+4.2.1.1 Agreement by Participants
+16
+4.2.1.2 Authorization by End User Account Holders of Participating Institutions
+17
+4.2.2 Warranties and Liabilities of Participating Institution
+17
+4.2.2.1 Warranties
+17
+4.2.2.1.1 Participating Institution to validate Authorization provided by End User
+Account Holder
+17
+4.2.2.1.2 Timeliness of Entries
+17
+4.2.2.1.3 Compliance With Other Requirements
+18
+4.2.2.1.4 Notification of Transaction
+18
+4.2.2.1.5 Termination of Authorization by Operation of Law
+18
+4.2.2.1.6 Transmittal of Required Information
+18
+4.2.2.2 Limitation
+18
+4.2.2.3 Liability for Breach of Warranty & Indemnity
+18
+4.2.2.3.1. Breach
+18
+4.2.2.3.2. Indemnity
+19
+4.2.3 Release of Information
+19
+4.3 Binimoy Article 3
+19
+4.3.1 General
+19
+4.4 Binimoy Article 4
+20
+4.4.1 General Rights and Obligations of RI Participating Institutions
+20
+4.4.1.1. General Obligations of all Participating Institutions
+20
+4.4.2. Obligations of Participating Institutions for RTP Transactions
+20
+4.4.2.1. Request Originating Institution (ROI)
+20
+4.4.2.2. Request Receiving Institution (RRI)
+20
+
+--- Page 6 ---
+Page 5 of 36
+
+4.4.2.3. Obligations of Binimoy for RTP Transactions
+20
+4.4.3. Obligations of Participating Institutions for Direct Pay Transactions
+20
+4.4.3.1. Fund Sending Institution (FSI)
+21
+4.4.3.2. Obligations of Binimoy for Direct Pay Transactions
+21
+4.4.4 Warranties of Fund Receiving Institution
+21
+4.5 Binimoy Article 5
+22
+4.5.1 Maintenance of Central Bank Account
+22
+4.5.2 Settlement
+22
+4. 5.3 Effect of Settlement
+22
+4.5.5 Effect of RI Closing on Time of Settlement
+22
+4.5.6 Effect of OI Closing on Time of Settlement
+22
+4.6 Binimoy Article 6
+23
+4.6.1 Processing Obligation
+23
+4. 6. 3 Record of Entries
+23
+4.7 Binimoy Article 7
+23
+4.7.1 General
+23
+4.7.2 Sending Credit and Debit Items
+23
+4.7.2.1 Clause
+23
+4.7.2.2 Clause
+24
+4.7.2.3 Clause
+24
+4.7.2.4 Clause
+24
+4.7.3 Security Procedures
+24
+4.7.3.1 Clause
+24
+4.7.3.2 Clause
+24
+4.7.3.3 Clause
+24
+4.7.4 Sending Bank’s Agreements
+25
+4.7.5 Processing of Items
+25
+4.7.5.1 Clause
+25
+4. 7.6 Delivery of Items
+26
+4.7.6.1 Clause
+26
+4.7.6.2 Clause
+26
+4.7.6.3 Clause
+26
+4.7.7 Time Schedules, Settlement Dates and Extension of Time Limits
+28
+
+--- Page 7 ---
+Page 6 of 36
+
+4.7.7.1 Clause
+28
+4.7.7.2 Clause
+28
+4.7.8 Designation of Settlement Account
+28
+4.7.8.1 Clause
+28
+4.7.8.2 Clause
+28
+4.7.8.3 Clause
+29
+4.7.8.4 Clause
+29
+4.7.8.5 Clause
+29
+4.7.9 Settlement
+30
+4.7.9.1 Clause
+30
+4.7.9.2 Clause
+30
+4.7.9.3 Clause
+30
+4.7.9.4 Clause
+30
+4.7.10 Availability of Credit
+31
+4.7.10.1 Clause
+31
+4.7.10.2 Clause
+31
+4.7.11 Receiving Bank’s Agreements
+31
+4.7.11.1 Clause
+31
+4.7.11.2 Clause
+31
+4.7.12 Revocation of Items
+32
+4.7.13 Advices of Credit and Debit; Reporting of Errors
+32
+4.7.14 Records
+32
+4.7.15 Fees
+32
+4.7.16 NonValue Messages
+32
+4.7.17 Bangladesh Bank’s Liability as Binimoy Operator
+32
+4.7.17.1 Limitation of Liability
+32
+4.7.17.2 Clause
+33
+4.7.18 Right to Amend
+33
+4.8 Glossary of terms used in Articles
+33
+4.8.1 Definitions As Used In These Rules
+33
+
+--- Page 8 ---
+Page 7 of 36
+
+Binimoy is an interoperable transaction processing and settlement system for digital
+transactions. Participants include Individuals, businesses, govt entities and Financial Institutions
+(Fis).
+
+Binimoy performs Real time clearing with Deferred Net Settlement. Sender’s and Receiver’s
+respective accounts will be debited or credited in real time. Settlement will be done periodically
+via Bangladesh Bank’s Settlement process.
+
+Binimoy Operating Manual (Binimoy-OM) is a procedural document that defines the operating
+and settlement guidelines for the members of the Binimoy network to follow. It mandates all
+members on the Binimoy network to follow certain standard procedures to ensure smooth,
+secure, and effective operation of the network.
+1. Concepts
+This section of the document will explain certain core concepts.
+1.1 Virtual Id
+All transactions in Binimoy are based on Virtual Ids(except fund disbursement by the govt).
+Virtual Ids facilitate user privacy and reduce financial crimes. A user must register a Virtual Id in
+Binimoy in order to transact.
+
+A Virtual Id has similar format as an email. Binimoy has 4 types of entities who can obtain
+Virtual Ids. A sample is shown below:
+
+
+user1@binimoy - an example of an individual user’s Virtual Id
+
+biz1@biz.binimoy - an example of a business organization’s Virtual Id
+fin1@fin.binimoy - an example of a Financial Institution’s Virtual Id
+
+govt1@gov.binimoy - an example of a government organization’s Virtual Id
+
+A Binimoy user can have only one Virtual Id. Multiple accounts (belonging to the same or
+different FIs) can be linked to a single Virtual Id.
+1.1.1 Creation of a Virtual Id & Account Linking
+A user can create his Virtual Id (VID) during the Registration process, via the mobile application
+of the FI. Fis may also pre-Register their customers and obtain system-assigned Virtual Ids. The
+Registration (and pre-Registration) process results in creation of user profiles with
+corresponding Virtual Ids.
+
+--- Page 9 ---
+Page 8 of 36
+
+1.1.2 Benefits of Virtual Id
+Use of Virtual Id ensures privacy by not exposing personal information such as NID, phone no or
+account info. Exposure of such vital personal information may lead to crimes such as identity
+theft, cyber bullying, fraud, extortion etc. The receiver of funds only needs to indicate his
+Virtual Id to the Sender.
+
+However, at the FI level, there is visibility (for accounting and reconciliation purposes), since the
+participating FIs know the account details of the Sender and Receiver.
+
+1.2 Account Aliases and Default Account for Receiving Funds
+A Binimoy user may have multiple accounts (belonging to the same or different FIs) linked to his
+Virtual Id. The user needs to designate one of his linked accounts as his default Receiving
+Account. When receiving funds, the funds will be deposited to his default Receiving account.
+
+Furthermore, when an account is added, it can be marked with an Alias for easy identification.
+For example, a user (receiver1@binimoy) may have two accounts –account xxxx at Bank1 and
+account yyyy at MFS1. When adding these accounts, he may alias them as MyBank1Account
+and MyMfs1Account respectively. Also, the user may set the default receiving account as the
+Bank1 account (account number xxxx with the alias MyBank1Account).
+
+When a Sender sends funds, the funds will be deposited to Receiver’s default receiving account
+(account number xxxx at Bank1 with the alias MyBank1Account).
+
+However, if the Sender specifically indicates the Receiver’s account alias, the funds will be
+deposited to the aliased account. For example:
+
+
+reeceiver1@binimoy/MyBank1Account points to user’s Bank1 account (xxxx)
+
+receiver1@binimoy/MyMfs1Account points to user’s MFS1 account (yyyy)
+1.2.1 Account Defaults
+A Binimoy user may have to multiple accounts linked to his Binimoy account. Even more than
+one account from one FI may be linked to his Binimoy. So setting configuration of defaults for
+operating the Binimoy account may be required.
+
+Global Default Credit Account – If a user has more than one account linked to his Binimoy
+account, then one account shall be credited. A linked account set to be global default credit
+account will have all incoming fund transfers redirected to that account. However this setting
+will be overridden if an account alias is used to make the fund transfer.
+
+--- Page 10 ---
+Page 9 of 36
+
+FI default debit account – If a user have more than one account from same FI linked to Binimoy
+then this account setting ensures which account will be used as fund source to send funds.
+
+Global RTP Receiving FI – If a user has more than one account from multiple FIs then Binimoy
+system must know which FI to send the RTP request to. This setting allows that.
+1.3 Binimoy Network Participants
+There are two types of Financial Institutions who may operate in the Binimoy network:
+
+1. Direct Participants who have a settlement account with Bangladesh Bank.
+2. Indirect Participants (MFS, PSPs etc) who do not have a settlement account with
+Bangladesh Bank.
+
+1.3.1 Direct Participants
+
+Direct Participants maintain settlement accounts in Bangladesh Bank and participate in the
+settlement process.
+
+1.3.2 Indirect Participants
+Indirect Participants (MFS, PSPs etc) do not have settlement accounts with Bangladesh Bank.
+They have contractual arrangements with Direct Participants, whereby the Direct Participants
+perform settlements on their behalf of them.
+1.4 Net Debit Cap
+Bangladesh Bank may set the “Net Debit Cap” of a Direct Participant to mitigate risk exposure.
+The Net Debit Position (Total Credit – Total Debit) of a Direct Participant may not exceed the
+specified Net Debit Cap. The Net Debit Position is reset upon completion of each settlement
+cycle.
+1.4.1 Net Debit Cap for Indirect Participants
+A Direct Participant may allocate a portion of its own Net Debit Cap as the Net Debit Cap of its
+Indirect Participants. For example, Bangladesh Bank may assign a Direct Participant (Bank1)a
+Net Debit Cap of 20 crore taka. In turn, Bank1 may allocate a part of that 20 crore taka (for
+example, 5 crore) as the Net Debit Cap for its Indirect Participants. After allocation to Indirect
+Participants, 15 crore remains available as Bank1’s own Net Debit Cap.
+
+--- Page 11 ---
+Page 10 of 36
+
+
+1.5 Transaction Types
+1.5.1 Direct Pay
+Direct Pay is the basic building block of Binimoy transactions. In a Direct Pay transaction, a
+Sender transfers funds to a Receiver using the receiver’s Virtual Id. The Sender needs to input
+his Binimoy PIN in order to execute the transaction.
+1.5.2 Request to Pay
+Request to Pay (RTP) is another transaction type offered by Binimoy. When a user initiates a
+RTP request, a notification is sent to the intended RTP Receiver. The RTP Receiver may do one
+of 3 things:
+
+a) Accept the request
+b) Deny the request
+c) Ignore the request
+
+If the RTP Receiver accepts the RTP request, then a Direct Pay transaction is initiated.
+
+If the RTP Receiver rejects the RTP request, then a notification is sent to the RTP Sender; no
+fund transfer takes place.
+
+If the RTP Receiver ignores the RTP request, then the request is put in Pending state until the
+request expires. That timeout duration can be specified during system configuration.
+
+Please note that Binimoy sends RTP notifications to participating FIs. FI’s are responsible for
+notifying their own customers (RTP Senders and RTP Receivers).
+1.5.3 Govt Entity Fund Disbursement
+A government entity may disburse funds via the Binimoy portal. Disbursements may include
+social safety payments, various allowances, pensions, grants and so on. Recipients may be
+identified using Virtual Ids or bank account information.
+
+Binimoy validates fund recipients with their respective FIs. Bulk fund transfer instructions are
+sent to appropriate FIs to credit individual accounts.
+1.5.4 Salary Payment
+A government or business entity may distribute salaries to its employees via the Binimoy portal.
+
+Binimoy validates each fund recipient with their respective FIs. Bulk fund transfer instructions
+are sent to appropriate FIs to credit individual accounts.
+
+--- Page 12 ---
+Page 11 of 36
+
+1.5.5 E-Commerce Payment
+Binimoy allows any FI to set up e-commerce payment service for Merchants. The payment
+processing steps are as follows:
+
+1. A Merchant displays a “Pay by Binimoy” button in its website and accepts the
+Customer’s Virtual Id during the payment process.
+2. The Merchant sends the payment request to its FI
+3. The Merchant’s FI sends the payment request to Binimoy as a RTP (Request-to-
+Pay) instruction
+4. Binimoy forwards the same to the Customer’s FI as a RTP (Request-to-Pay)
+instruction
+5. Customer’s FI notifies the Customer about the payment request (via a RTP
+notification)
+6. If the Customer Accepts the payment request, the Customer’s FI debits the
+customer account and initiates a Direct Pay transaction
+7. Binimoy executes the Direct Pay transaction and transfers funds from Customer
+to Merchant
+8. Merchant’s FI credits the Merchant account and notifies the Merchant
+1.6 ICP – IDTP (Binimoy) Client Platform
+The Binimoy Client Platform (BCP) facilitates secure communication between FI core banking
+systems and Binimoy server. FIs may invoke the APIs offered by BCP to perform financial and
+non-financial actions, including user management, transaction processing, reconciliation etc.
+1.7 Binimoy Android SDK
+Binimoy offers an Android SDK which can be embedded in FI mobile app for securely capturing
+user PIN.
+1.8 Binimoy Web Platform for PIN Capture
+Binimoy offers a web based platform for securely capturing user PIN. This platform may be used
+by FIs to support iOS and Internet Banking users.
+
+--- Page 13 ---
+Page 12 of 36
+
+
+2. Fee Management
+2.1 Types of Fees
+There may be two types of Fees associated with a transaction:
+
+1. Interoperable Fees
+2. Platform Fees
+2.2 Type of service
+Following service types are available in Binimoy.
+
+001 – Send Money (default)
+002 – Utility Bill Payment
+003—Govt Bill
+004 – Govt Dues
+005—Social Safety Net Payment
+006 – Govt Salary Disbursement
+007 –Salary Disbursement
+008 – E-commerce payment
+2.3 Determination of Fees
+Interoperable fee is determined based on 3 factors:
+
+1. Sending and Receiving FI type
+2. Service type
+3. Amount
+
+First two factors determine who will pay the Interoperable fee to whom, and the 3rd factor
+determines the fee amount.
+
+Platform Fee is determined based on 3 factors:
+
+1. Instruction type - Direct Pay or Request to Pay
+2. Service Type
+3. Amount ( as per BB circular )
+
+The Fee amount may be a percentage of the transaction amount or based on range.
+
+--- Page 14 ---
+Page 13 of 36
+
+2.4 Settlement of Fees
+The applicable Fees will be processed during each Settlement cycle and will get reflected in
+settlement file and reports.
+
+3. Dispute Management
+
+Following rules apply to Dispute Management.
+
+1. A Dispute may be raised by the Sender FI on a completed transaction.
+
+2. A dispute may be raised by Receiver FI on non-successful transactions based on if the
+response code is disputable.
+
+3. A Dispute may be raised on a transaction that is not already involved in another dispute.
+
+4. A Dispute may be raised on a transaction that falls within the specified transaction look back
+period. (the look back period will be defined by Bangladesh Bank )
+
+5. After initiation of a dispute by the Debtor party, Binimoy will validate the transaction and in
+due course, execute a FI to FI Fund Transfer in favor of the Initiating Party
+
+i. If the Counter Party disagrees, Binimoy will execute a FI to FI Fund Transfer, in
+favor of the Counter Party.
+
+ii. If the Initiating Party disagrees to the Counter Party’s disagreement, Binimoy
+will execute a FI to FI Fund Transfer, in favor of the Initiating Party.
+
+iii. At this stage, Counter Party can not disagree but may request for an
+arbitration; Bangladesh Bank will resolve the dispute through an arbitration
+process. In case of arbitration BB’s decision is final.
+
+If the Counter Party wins in the arbitration, Binimoy will execute a FI to FI Fund
+Transfer, in favor of the Counter Party.
+
+iv. The dispute related transactions will be reflected in Settlement files and
+reports.
+
+v. For transactions with successful state in Binimoy if a dispute is launched then
+the above will happen. But if a dispute is raised for non-successful state then the
+fund transfer will only be executed after system admin review approval.
+
+--- Page 15 ---
+Page 14 of 36
+
+6. While processing a FI to FI Fund Transfer, the related FI's Net Debit Cap will be verified. Any
+FI to FI Fund Transfer that fails because of Net Debit Cap limitation will be executed in the next
+settlement cycle.
+
+7. There will be resolution time for each dispute after which the parties in dispute will not be
+able to give any further response against their disputes. This resolution time will be defined by
+Bangladesh Bank.
+
+8. In any step while responding to a dispute, the parties may have to present documents as
+proof.
+
+9. Both Bangladesh Bank and the FIs are able to see the dispute information from the dispute
+management screen in Binimoy Portal.
+
+10. The following dispute related reports are available in Binimoy Portal
+
+
+a. Consolidated Net Settlement Report (Dispute)
+b. FI Net Settlement Report (Dispute)
+c. Grand Settlement Report (Dispute)
+d. Dispute Payment Report
+e. Dispute Details Report
+
+11. All successful transactions are disputable by the sender for the look back period (decided by
+Bangladesh bank)
+
+--- Page 16 ---
+Page 15 of 36
+
+4. Legal Framework
+4.1 Binimoy Article 1
+
+
+4.1.1 Application of Rules
+
+These rules apply to all entries and entry data transmitted through Binimoy, except where it is
+superseded by operating rules by which Participating Institutions have agreed to be bound.
+
+4.1.2 Compliance with Rules
+Each Participating Institution must agree to comply with these Rules and warrants that it is
+legally able to comply with all applicable requirements and obligations of these Rules. Also
+Bangladesh Bank may update and modify operating rules via circulars.
+4.1.2.1 Compensation
+The settlement of claims for compensation between Participating Financial Institutions will be
+governed by the procedures contained in the operating rules.
+
+4.1.2.2 Dispute Resolution
+The settlement of disputes arising under these Rules between Participating Institutions will be
+governed by the procedures contained in the operating rules.
+
+4.1.3 Excused Delay
+Delay, by a Participating Institutions or by Binimoy, beyond the time limits prescribed or
+permitted by these Rules, is excused if the delay was caused by the interruption of
+communication or computer facilities, suspension of payments by another Participating
+Institution(s), war, emergency conditions, failure of equipment, Binimoy maintenance/update,
+or other circumstances beyond the control of the Participating Institutions or Binimoy, provided
+it exercises such diligence as the circumstances may require.
+
+4.1.4 Binimoy service uptime and technical maintenance downtime
+Irrespective of operating hours of Participating Institutions, any entry or entry data required by
+these Rules for Binimoy, shall be available 24 hours a day and 365 days in a year, except for
+such period of time, when Binimoy operations are under technical maintenance or update. In
+such a case, a prior notice may be issued to Participating Institutions, unless an emergency has
+occurred which causes Binimoy service to be down/stopped/delayed.
+
+--- Page 17 ---
+Page 16 of 36
+
+4.1.5 Records
+
+4.1.5.1 Records of Entries
+Binimoy shall retain a digital record of all entries/transactions that takes place through Binimoy
+for up to 12 (twelve) months, which shall be accessible through Binimoy/Participating
+Institutions’ interface. As per Binimoy guideline, after 12 months, a back-up of the records shall
+be retained in the archive for up to 36 months from the date of entries/transactions. After 36
+months, data will be moved to tape/cold archive and retained for up to 10 years from the
+transaction date.
+
+Each Participating institution may reflect the respective entries of debit and credit on the
+account holder’s statements appropriately and maintain a record in their respective record
+keeping policy.
+
+Each Participating institution must retain records of all entries, including return and adjustment
+entries, transmitted from or to the Binimoy. These records must be retained for 10 years from
+the date the entry was transmitted. Participating Institutions must, if requested by its
+customer, or by other Participating Institution, with which it has transacted, or Binimoy,
+provide the requester with a printout or digital record or reproduction of the information
+relating to the entry, within 30 business days from the date of request made.
+
+4.1.6 Choice of Law
+These rules and the rights and obligations of a party, with regard to Binimoy entries, shall be
+construed in accordance with and governed by the laws of The People's Republic of Bangladesh,
+unless otherwise provided in an agreement of such party.
+
+4.2 Binimoy Article 2
+4.2.1 Prerequisites to Usage of Binimoy Network
+The following must occur before a Participating Institution initiates any credit or debit entry to
+the respective End User Account holders:
+
+4.2.1.1 Agreement by Participants
+A Participation Agreement between the Participating Institutions and the Binimoy operating
+authority, here being Bangladesh Bank, shall be executed under which the Participating
+Institutions shall agree to be bound by these Rules herein, as in effect from time to time and
+acknowledges that entries may not be initiated that violate the laws of The People's Republic of
+Bangladesh.
+
+--- Page 18 ---
+Page 17 of 36
+
+
+4.2.1.2 Authorization by End User Account Holders of Participating
+Institutions
+To initiate debit or credit entry of every single transaction that takes place through Binimoy
+shall have to be authorized by the respective End User Account holder of the Participating
+Institutions through insertion of appropriate method of Personal Identification Number (PIN)
+and/or One-Time Passcode (OTP) and/or respective biometrics and/or by such other method
+assigned to respective account holders, as applicable. Records of such authorization shall be
+maintained along with records of transaction.
+
+
+4.2.2 Warranties and Liabilities of Participating Institution
+
+4.2.2.1 Warranties
+Each Participating Institution initiating an entry warrants the following to Binimoy and other
+Participating Institution with which it is transacting:
+
+4.2.2.1.1 Participating Institution to validate Authorization provided by End User
+Account Holder
+Each respective Participating Institution, for each transaction (Debit or Credit)
+through Binimoy Network warrants that such transaction is taken place in
+accordance with proper authorization provided by End User Account holder
+ensuring the validity of such authorization, for which Binimoy shall have no
+responsibility.
+
+However, the Debiting Institution shall have a further responsibility to ensure
+that the details of the Fund Receiver as authorized by respective Account Holder
+is duly transmitted to Binimoy and Binimoy shall only put forward such details
+(as validated by Debiting Institution) to the Crediting Institution to effectuate the
+transaction. For avoidance of doubt, Binimoy shall have no responsibility to
+verify such details (as validated by Debiting Institution).
+
+4.2.2.1.2 Timeliness of Entries
+Each credit entry is timely entered, and each debit entry is for an amount, which
+on the Settlement Date, will be due and owing to the Crediting Account of
+Request Originator (RO)/Fund Receiver (FR) from the Debiting Account of the
+Request Receiver (RR)/ Fund Sender (FS), is for a sum specified by the FS to be
+paid to the FR, or is to correct a previously transmitted erroneous credit entry.
+
+--- Page 19 ---
+Page 18 of 36
+
+4.2.2.1.3 Compliance with Other Requirements
+All other applicable requirements of section 4.2.1 (Prerequisites to Usage of
+Binimoy Network) concerning the authorization of an entry have been satisfied
+and the entry complies with these Rules.
+
+4.2.2.1.4 Notification of Transaction
+The Fund Receiving Institute (FRI) warrants that, it shall notify Binimoy/FSI
+marking an initiated transaction failure or success in accordance with Binimoy
+Manual/Rules herein. FRI shall be responsible for any unexcused delay of
+notification.
+
+4.2.2.1.5 Termination of Authorization by Operation of Law
+The Participating Institutions warrants that it shall verify if any authorization is
+terminated by operation of law. In the event the Participating Institution does
+not have actual knowledge of the circumstance giving rise to such termination,
+the liability of the breach of warranty shall not be on the Participating Institution,
+under which the authorization of transaction has been terminated by operation
+of law. For avoidance of doubt, Binimoy shall not be responsible under any
+circumstances for termination of authorization or inability to complete a
+transaction due to Operation of Law.
+
+
+4.2.2.1.6 Transmittal of Required Information
+All Participating Institutions shall ensure that each transaction is processed as
+per Binimoy Manual/Rules and provide all necessary information in the form as
+required by Binimoy.
+
+
+4.2.2.2 Limitation
+Notwithstanding anything in these Rules to the contrary, the warranties contained within
+subsection 4.2.2.1 (Warranties) do not apply to the goods or services to which the entry relates.
+
+4.2.2.3 Liability for Breach of Warranty & Indemnity
+4.2.2.3.1. Breach
+Each breaching Participating Institution breaching any of the preceding
+warranties shall indemnify respective non-breaching Participating Institution
+counterpart of any transaction and the Binimoy from and against any and all
+claim, demand, loss, liability, or expense, including legal fees and costs, that
+
+--- Page 20 ---
+Page 19 of 36
+
+result directly or indirectly from the breach of warranty or the debiting or
+crediting of the entry to the Receiver’s account. This indemnity includes, without
+limitation, any claim, demand, loss, liability, or expense based on the ground that
+the debiting of an entry to an account resulted, either directly or indirectly, in
+the return of one or more items or entries of the Receiver due to insufficient
+funds.
+4.2.2.3.2. Indemnity
+This indemnity also includes, in the case of an End User Account Holder, without
+limitation, any claim, demand, loss, liability, or expense based on the ground that
+the failure of the Participating Institution to comply with any provision of these
+Rules resulted, either directly or indirectly, in the violation of any applicable
+law/rules.
+
+4.2.3 Release of Information
+Each Participating Institution agrees that the Binimoy may release to any/concerned
+department of Bangladesh Bank data regarding Binimoy entries transmitted to or by the
+Participating Institution. Participating Institutions further agree that Bangladesh Bank may also
+be required to release or grant access of information retained by Binimoy to such other
+government authorities by Operation of Law, which shall be notified to Participating Institutions
+and its End User Account Holders via circular or memo from time to time.
+
+4.3 Binimoy Article 3
+4.3.1 General
+In addition to the requirements of section 4.2.1 (Prerequisites to Usage of Binimoy Network)
+concerning the initiation of entries, an Originator must comply with the requirements
+contained within this Article Three.
+● Keeping an active account of an End User tagged to Binimoy
+● Keeping End User Accountholder’s correct profile info up to date in Binimoy
+● Selecting the correct receiver in case of direct pay and payer in case of request
+to pay
+● In case of enabling Standing Instruction (SI) in Binimoy, Originator must put all
+the correct information, i.e., relevant date range, amount, etc.
+● In case of changing any information regarding SI or closing the SI before
+maturity, user must initiate the required changes in Binimoy before the effective day of
+transaction
+● Keeping sufficient balance in the account
+
+--- Page 21 ---
+Page 20 of 36
+
+4.4 Binimoy Article 4
+4.4.1 General Rights and Obligations of RI of Participating Institutions
+4.4.1.1. General Obligations of all Participating Institutions
+● Maintain physical and cyber security of given Binimoy Client (ICP)
+● Follow Binimoy rules and procedures
+● In terms of technical issue report unavailability of the system to BB so that it can
+be taken offline
+● Do not use the system maliciously
+
+4.4.2. Obligations of Participating Institutions for RTP Transactions
+4.4.2.1. Request Originating Institution (ROI)
+● Make sure that the request is in proper format
+● Check the reply from the system
+● If there are any error, if required to do a reversion of the transaction on the
+client’s account
+● If a transaction has failed to execute then run a status query to see the status of
+the transaction in the system
+4.4.2.2. Request Receiving Institution (RRI)
+● Keep the system up for receiving messages 365X7X24 basis.
+● Properly reply messages
+● Notify operator if the system goes down
+● If the receiving account has issues for some reason, reply with proper failure
+message on time
+4.4.2.3. Obligations of Binimoy for RTP Transactions
+● RTP sender to send properly formatted RTP message within reasonable time
+● RTP receiver to notify via own app framework
+● Implement timeout period
+● Execute timeout for the RTP instruction properly
+● Resulting Direct Pay instruction must contain RTP reference
+● Keep RTP failed requests for a reasonable period of time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.4.3. Obligations of Participating Institutions for Direct Pay Transactions
+● Send properly formatted message
+● If failed for some reason, check the transaction status
+● If failed, then reverse the debit on users account
+● Properly notify the user of the app the reason for failure.
+
+--- Page 22 ---
+Page 21 of 36
+
+● Receiver FI should check CBS for account active status and reply with
+proper message
+● If a timeout has occurred in receiving FI end recheck if the transaction
+went through
+● Keep system up for receiving messages
+● Keep proper logs.
+
+4.4.3.1. Fund Sending Institution (FSI)
+● In case of Direct pay, send request in proper format
+● In case of Direct pay caused by a RTP, make sure the RTP reference is in the
+Direct Pay request
+● Make sure fund is available at users account and the account is active and there
+is no restrictions put on the account
+
+Reliance on Virtual Id for Posting of Entries
+The FSI shall always rely on the Virtual Id of the respective End User Account Holders to record
+any entry with respect to transactions taking place through Binimoy. In the event of any
+discrepancy with respect to Virtual Id of the Fund Receiver or Fund Receiver’s Crediting Account
+or FRI, as validated by the Account Holder, the FSI will not be responsible.
+4.4.3.2. Obligations of Binimoy for Direct Pay Transactions
+● Will check for per user limits and per institution limit and any other restrictions
+● Will ensure security encryption and hashing of sensitive data transfer
+● Will transfer back error reasons receiving FI returned error
+● Will ensure proper reflection of transactions in settlement reports
+● Will stop transactions if it detects any compromise such as tampering
+● Will ensure safety and security of the transaction given FI has maintained its
+security obligations
+
+4.4.4 Warranties of Fund Receiving Institution
+Each FRI warrants to each FSI and the Binimoy that it has the power under applicable law to
+receive entries as provided in these Rules and to comply with the requirements of these Rules
+concerning FRIs and Participating Institutions Banks. Any FRI breaching any warranty under this
+section 4.4.4 shall indemnify each FSI, Binimoy from and against any and/ or all claim, demand,
+loss, liability, or expense, including legal fees and costs, resulting directly or indirectly from the
+breach of warranty.
+
+--- Page 23 ---
+Page 22 of 36
+
+
+4.5 Binimoy Article 5
+
+4.5.1 Maintenance of Central Bank Account
+Directly Participating Institutions must maintain an account with Bangladesh Bank. This is the
+case for direct participants. Indirect participants do not have the requirement to keep an
+account with Bangladesh bank, but they must maintain a settlement account with a directly
+participating institution.
+
+4.5.2 Settlement
+Settlement among Participating Institutions for entries, adjustment entries, and return entries
+transmitted in accordance with these Rules will be effected by crediting or debiting of the
+Bangladesh Bank accounts of Participating Institutions referred to in section 4.5.1 (Maintenance
+of Central Bank Accounts). The frequency of settlement/ no. of settlement of each day can be
+revised by Bangladesh Bank by issuance of appropriate notification /circular as applicable.
+
+4.5.3 Effect of Settlement
+Settlement of entries does not preclude a Participating Bank/institution from pursuing any
+available legal rights or remedies concerning any entry, adjustment entry, or return entry,
+including without limitation any right or remedy arising out of a return entry or adjustment
+entry, transmitted after the time limits established by these Rules.
+
+4.5.5 Effect of RI Closing on Time of Settlement
+No effect for RI and settlement will take place as per BB schedule.
+
+4.5.6 Effect of OI Closing on Time of Settlement
+If the scheduled Settlement Date for a credit entry is not a Banking day for the OI but is a day
+on which the applicable office of the Central Bank described in section 4.5.1 (Maintenance of
+Accounts at the Central Bank) is open, settlement may occur on the scheduled date.
+
+Binimoy runs on real time basis and hence, there is no provision for stop payment, re-credit or
+adjustment once the payment has been initiated.
+
+--- Page 24 ---
+Page 23 of 36
+
+4.6 Binimoy Article 6
+
+4.6.1 Processing Obligation
+
+If an entry or entry data received for processing does meet the acceptance criteria for a
+Binimoy transaction then it is the duty of the receiving institution to properly respond with
+correct reply and take necessary action. It may include, but is not limited to crediting the
+receiver’s account and notifying the user of credit receipt in case of direct pay or informing the
+account holder of a request to pay instruction.
+
+4.6.3 Record of Entries
+The Binimoy Authority must retain a record of all entries, return entries, and adjustment entries
+(all referred to in this section as “entries”) received or transmitted by it for ten years from the
+date of receipt or transmittal of the entry. Relevant users/Participating Institutions can access
+their relevant data in Binimoy.
+
+4.7 Binimoy Article 7
+RESPONSIBILITIES OF BANGLADESH BANK AND Binimoy
+4.7.1 General
+This Article describes and governs the clearing and settlement of Binimoy credit and debit
+items. The Binimoy Rules are binding on a Participating Institution that sends items to the
+Bangladesh Bank/Binimoy operator or receives items from Binimoy, a receiving bank that
+receives items from the Binimoy, an account holder that has agreed to settle for items under
+this Article. Any Direct Pay or RTP item that is sent to the Binimoy for processing and
+settlement is subject to the provisions of this Article. The Bangladesh Bank processes such
+items as Binimoy operator and does not collect, present, or return such items as a “collecting”
+or “returning” institution unless Bangladesh Bank choose to take part as a participant (FSI/FRI)
+for it’s own or for the government’s payment processing purpose.
+
+4.7.2 Sending Credit and Debit Items
+4.7.2.1 Clause
+A Financial Institution that maintains or uses a settlement account at the
+Bangladesh Bank may send an item to the Bangladesh Bank (as Binimoy
+operator), provided the counterpart also maintains or uses a settlement account
+for Binimoy items at the Bangladesh Bank.
+
+--- Page 25 ---
+Page 24 of 36
+
+4.7.2.2 Clause
+An item must be in the medium that Bangladesh Bank prescribed, and in the
+format prescribed by the applicable Binimoy rules.
+4.7.2.3 Clause
+A sending institution may with the prior approval of Bangladesh Bank designate
+a sending point as its agent to send items to Bangladesh Bank/Binimoy operator.
+It is the sending institution’s responsibility to ensure that its agent complies with
+the sending institution’s obligations under these Rules.
+4.7.2.4 Clause
+The sending institution agrees to indemnify, defend, and hold the Bangladesh
+Bank harmless against any claim, loss, cost, or expense resulting from (i) the acts,
+omissions or misconduct of the FSI, it’s employees/representatives and/or it’s
+agent; (ii) the Bangladesh Bank’s acts or omissions in carrying out the
+instructions of the FSI or such agent within the scope of the agency
+appointment; (iii) any malfunction or operations of Binimoy operator, as
+conducted by Bangladesh Bank, or (iv) the Sub member access arrangement
+including but not limited to attorney’s fees and expenses of litigation, except for
+any claim, loss, cost, or expense arising solely out of the Bangladesh Bank’s
+failure to exercise ordinary care or to act in good faith
+
+4.7.3 Security Procedures
+4.7.3.1 Clause
+The security procedures that Bangladesh Bank offers to verify the authenticity of
+the source of an item by following the procedures outlined in Bangladesh Bank’s
+Participating Institution Module specifications.
+4.7.3.2 Clause
+All sensitive elements of Binimoy message originated by the FSI will be digitally
+signed and encrypted by the presenting instiitution’s Binimoy client module
+before transmission to Binimoy and all sensitive elements of outgoing Binimoy
+messages will be digitally verified and decrypted by Binimoy before being
+transmitted to the FRI.
+4.7.3.3 Clause
+Each FSI/FRI shall prevent any disclosure of any aspects of the security
+procedures offered by Bangladesh Bank, as provided in Bangladesh Bank’s
+Participating Bank Module specifications. The sending bank or the receiving bank
+shall notify the Bangladesh Bank immediately if the confidentiality of these
+
+--- Page 26 ---
+Page 25 of 36
+
+security procedures is compromised and shall act to prevent the security
+procedure from being further compromised.
+
+4.7.4 Sending Bank’s Agreements
+By sending an item to the Bangladesh Bank Binimoy, the FSI:
+(a) agrees to comply with the applicable Binimoy rules and agrees that those rules
+govern the relationships among the sending bank, the receiving bank and other
+parties interested in the item and covered by those rules;
+(b) authorizes the Bangladesh Bank to process the item in accordance with these
+Rules.
+(c) agrees that the Bangladesh Bank processes the items as the Binimoy operator
+and does not collect, present, or return the items as a “collecting” or “returning”
+bank.,
+(d) authorizes the Bangladesh Bank holding the FSI settlement account to debit the
+amount of a credit item, or credit the amount of a debit item, to the sending
+bank’s settlement account on the settlement date; and
+(e) agrees to indemnify the Bangladesh Bank, as the Binimoy operator for
+processing or settling for the item for any loss or expense (including attorney
+fees and expenses of litigation) incurred by the Bangladesh Bank as a result of
+any action taken with respect to the item by the Bangladesh Bank.
+
+4.7.5 Processing of Items
+4.7.5.1 Clause
+The Binimoy processes entries in accordance with the applicable Binimoy rules.
+The Bangladesh Bank may reject, or may impose conditions to it’s processing of,
+any item for any reason. The Bangladesh Bank will not act on instructions in an
+item other than information required by format specifications in applicable
+Binimoy rules. If Bangladesh Bank notifies a FSI of the receipt of a suspected
+duplicate file or any other problem, Bangladesh Bank will not process the file
+without approval by the FSI or its agent. Except as expressly provided in these
+Rules, Bangladesh Bank does not have or assume any responsibility for a FSI
+/FRI’s compliance with applicable Binimoy rules. The Bangladesh Bank may
+record by audio recording device any telephone call relating to an item. A
+sending bank/institution must designate the receiving bank for an item by
+routing number. The Bangladesh Bank is not responsible for the accuracy of a
+routing number contained in and/or verbally supplied from a publication, list or
+automated file issued by an organization other than Bangladesh Bank. The
+Bangladesh Bank may process an item on the basis of a routing number of a
+receiving bank/institution appearing in any form on the item when received. The
+Bangladesh Bank is not responsible for any loss or delay resulting from acting on
+the number, whether or not the number is consistent with any other designation
+
+--- Page 27 ---
+Page 26 of 36
+
+of the receiving bank/institution on the item, if the Bangladesh Bank does not
+know of the inconsistency in designation.
+
+4.7.6 Delivery of Items
+4.7.6.1 Clause
+By prior arrangement with a FRI, the Bangladesh Bank sends items by electronic
+means to the FRI, or with the prior approval of Bangladesh Bank to a receiving
+point designated by the receiving bank. Alternatively, by prior agreement with a
+receiving bank, the Bangladesh Bank may deliver items by making them available
+on the Binimoy system for the receiving bank or its agent to retrieve. In
+emergency circumstances, the Bangladesh Bank may send items as arranged
+with the FRI. Items are considered received by a FRI in accordance with
+applicable Binimoy rules, except as provided in paragraph 4.7.6.2. A FRI should
+promptly advise the Bangladesh Bank if it does not receive items by the expected
+date.
+4.7.6.2 Clause
+A FRI must manage its electronic connection so as to permit it to receive items in
+a timely manner throughout the day. A FRI that does not receive items in a
+timely manner because it fails to manage its electronic connection or because of
+emergency circumstances beyond the control of the Bangladesh Bank is required
+to settle for the items with the Bangladesh Bank on the settlement date.
+4.7.6.3 Clause
+A receiving bank/institution may designate a receiving point as its agent to
+receive items from the Bangladesh Bank. It is the receiving bank’s responsibility
+to ensure that its agent complies with the receiving bank’s obligations under
+these Rules.
+(a) By receiving items from the Bangladesh Bank at a receiving point that is
+owned or operated by an entity other than the receiving bank/ institution
+itself, a receiving bank designates the entity that operates the receiving
+point as its agent for accessing the Binimoy items., authorizes the
+Bangladesh Bank to act on the instructions of such agent with respect to
+the handling of items received from the Bangladesh Bank by the agent on
+behalf of the receiving bank.
+
+--- Page 28 ---
+Page 27 of 36
+
+(b) The receiving bank’s agent’s access to the Bangladesh Bank’s electronic
+systems is governed by the Bangladesh Bank Participating Bank /
+institution Module specifications, as amended from time to time.
+(c) The receiving bank/institution authorizes the Bangladesh Bank to act
+upon items, information, and instructions sent to the Bangladesh Bank by
+the receiving bank’s agent that the agent identifies as having been
+authorized by the receiving bank.
+(d) The receiving bank/ institution agrees that:
+i. its agent will be granted credentials authorizing such agent to access the
+Bangladesh Bank systems for the purposes of the Binimoy service;
+ii. its agent will use those credentials to act on behalf of the receiving bank;
+iii. its agent will use the same credentials to access the Bangladesh Bank’s
+Binimoy systems on behalf of other banks that use the same agent to
+access the Bangladesh Bank’s electronic systems. It is the responsibility of
+the receiving bank and its agent to establish controls sufficient to assure
+that the agent properly segregates the items, information, and
+instructions of a receiving bank from any items, information, or
+instructions of other receiving banks. The Bangladesh Bank is not
+required to take, and will not take, any measures to assure that the
+receiving bank’s work is properly identified or segregated by the agent.
+iv. The receiving bank/ institution agrees to be bound by the agent’s acts or
+omissions with respect to items that are handled by the Bangladesh Bank
+pursuant to these Rules.
+v. The receiving bank/ institution authorizes the Bangladesh Bank to settle
+for items sent to or received from the Bangladesh Bank by the receiving
+bank’s agent, and to obtain from the receiving bank/ institution payment
+as provided in these Rules for any fees owed to the Bangladesh Bank in
+connection with items sent to the Bangladesh Bank or received from the
+Bangladesh Bank by the receiving bank’s agent.
+vi. The receiving bank/ institution agrees that the Bangladesh Bank may
+send items to the receiving bank by delivering or transmitting such items
+to the receiving bank’s agent.
+vii. The Bangladesh Bank may rely on the agency appointment, until it is
+revoked in writing and the Bangladesh Bank has had a reasonable
+amount of time to respond to such revocation.
+viii. The receiving bank/ institution is responsible for any obligations
+regarding settlement of items that exist at the time of any termination of
+the agency appointment, and these shall survive the termination of the
+agency appointment.
+ix. The receiving bank agrees to indemnify, defend, and hold the Bangladesh
+Bank harmless against any claim, loss, cost, or expense resulting from (i)
+the acts, omissions or misconduct of the receiving bank, it’s employees/
+representatives and/or it’s agent; (ii) the Bangladesh Bank’s acts or
+
+--- Page 29 ---
+Page 28 of 36
+
+omissions in carrying out the instructions of the receiving bank or such
+agent within the scope of the agency appointment; (iii) any malfunction
+or operations of Binimoy operator, as conducted by Bangladesh Bank, or
+(iv) the Sub member access arrangement including but not limited to
+attorney’s fees and expenses of litigation, except for any claim, loss, cost,
+or expense arising solely out of the Bangladesh Bank’s failure to exercise
+ordinary care or to act in good faith.
+
+4.7.7 Time Schedules, Settlement Dates and Extension of Time Limits
+4.7.7.1 Clause
+The Binimoy items processing schedule as published from time to time will show
+the banking days and the deadlines for the Bangladesh Bank to receive credit
+and debit items of various classes for immediate or next day/subsequent
+banking day settlement. The time schedule also shows the effective date window
+for classes of items and provisions for settlement for various effective dates.
+Bangladesh Bank can publish a circular and change the settlement times and
+cycles.
+4.7.7.2 Clause
+The Bangladesh Bank processes items in accordance with their processing
+schedules and sends them to the receiving bank on or before the settlement
+date. If, because of circumstances beyond Bangladesh Bank’s control, it is
+delayed beyond the applicable time limit in acting on an item, the time for acting
+is extended for the time necessary to complete the action, provided Bangladesh
+Bank exercises such diligence as the circumstances may require.
+
+4.7.8 Designation of Settlement Account
+4.7.8.1 Clause
+A direct participant is a FI who already have a settlement account with
+Bangladesh Bank and for settlement purposes Bangladesh Bank can directly
+debit or credit their account. In most cases this will be a Bank. An indirect
+participant is an institution which does not have a settlement account with
+Bangladesh Bank to debit or credit, rather it maintains a settlement account with
+direct participant bank for settling Binimoy transactions.
+4.7.8.2 Clause
+Prior to sending an item to (or receiving an item from) the Bangladesh Bank, a
+sending bank (and a receiving bank) must designate a settlement account(s) on
+
+--- Page 30 ---
+Page 29 of 36
+
+the Bangladesh Bank’s books, and identify the transactions to be settled through
+the account(s). If any Bank/FI designates a correspondent Bank’s account, the
+correspondent Bank must agree to that designation. A FSI/FRI remains
+responsible under these Rules for all transactions, notwithstanding that it has
+designated a settlement account, including a settlement account maintained by
+a correspondent bank. The Bangladesh Bank may at its discretion, recover the
+unpaid balance of the FSI/FRI’s obligation with respect to an item from the
+FSI/FRI, respectively, without prior notice or demand.
+4.7.8.3Clause
+The Bangladesh Bank may charge against a FSI/FRI designated settlement
+account the amount of the bank’s Binimoy transactions, unless the Bangladesh
+Bank and the FSI/FRI agree to other arrangements for settlement.
+4.7.8.4Clause
+By designating a settlement account, a Participating Institution (and its
+correspondent bank, if any, that maintains the designated settlement account)
+authorizes the Bangladesh Bank:
+(a) to debit the designated account on the settlement date based on
+settlement report.
+(b) to credit to the designated account on the settlement date based on
+settlement report.
+(c) to debit and credit to the designated settlement account, the amount of
+other transactions (including fees, unless otherwise agreed) with respect
+to Binimoy Items.
+(d) The Participating institution (and its correspondent bank, if any, that
+maintains the designated settlement account) agrees to maintain its
+credit in the designated settlement account, consistent with section 1.4
+of these Rules a balance of actually and finally collected funds sufficient
+to cover charges under these Rules and all other charges to its account.
+The Bangladesh Bank assumes no responsibility for any obligations or
+rights of a bank with respect to its correspondent bank, if any (or of an
+intermediary correspondent that is not an account holder, if any, with
+respect to its correspondent account holder).
+4.7.8.5Clause
+By designating a settlement account, and in consideration of the processing and
+settlement by the Bangladesh Bank of items sent to and/or received by the bank
+and other FSI/FRI, the bank (and its correspondent bank, if any, that maintains
+the designated settlement account) agrees to the applicable Binimoy rules, as
+amended from time to time, for the benefit of all parties interested in the items.
+
+--- Page 31 ---
+Page 30 of 36
+
+
+4.7.9 Settlement
+4.7.9.1 Clause
+A FSI/FRI’s settlement obligation is owed to Bangladesh Bank.
+4.7.9.2 Clause
+On the settlement date and time, the Bangladesh Bank debits (or credits) that
+account in the amount of a credit (or debit) item.
+4.7.9.3 Clause
+To secure any obligation, now existing or arising in the future, in connection with
+a Binimoy item by a FSI/FRI (or by a correspondent bank whose account a
+sending or receiving bank uses for settlement) to Bangladesh Bank, the bank
+grants to Bangladesh Bank all the bank’s right, title, and interest in property,
+whether now owned or hereafter acquired, in the possession or control of, or
+maintained with, Bangladesh Bank including but not limited to the bank’s
+deposit account, items in the process of collection and their proceeds, and any
+investment property (including securities, security entitlements, and security
+accounts), but excluding any investment property which the bank may not
+encumber under applicable law. This security interest is in addition to any other
+security interest granted to Bangladesh Bank by the bank under regulation or
+agreement. The Bangladesh Bank may take any action authorized by law to
+recover the amount owed to it by the bank, including but not limited to the
+exercise of setoff without demand or notice and even if the obligations are
+contingent or un‐matured, the realization on any available collateral, and the
+exercise of any rights it may have as a creditor under applicable law.
+4.7.9.4 Clause
+If the Bangladesh Bank, in its sole discretion, determines that there may not be
+sufficient funds in the account at the settlement time on the settlement date to
+cover a debit for a credit item or for a received debit item, the Bangladesh Bank
+may cease processing the item and may refuse to settle for it. The Bangladesh
+Bank may also cease processing and refuse to settle for an item if they receive
+notice of the suspension or closing of the sending bank or receiving bank prior to
+the time settlement is final under these Rules. If the Bangladesh Bank ceases
+processing or refuses to settle for an item, they will notify the sending bank and
+a receiving bank to which the item has been sent (or a correspondent bank
+whose account a bank uses for settlement) as soon as possible.
+
+--- Page 32 ---
+Page 31 of 36
+
+
+4.7.10 Availability of Credit
+4.7.10.1 Clause
+Credit given for a debit item by the Bangladesh Bank is available for use and may
+qualify as reserve on the settlement date, subject to paragraph 4.7.9.4 and other
+provisions of this article. The Bangladesh Bank may refuse to permit the use of
+credit given for a debit item if it judges that there may not be sufficient funds in
+the sending bank’s settlement account to cover return of the item.
+4.7.10.2 Clause
+Credit given by the Bangladesh Bank for a credit item is final and available for
+use and may qualify as reserve.
+
+4.7.11 Receiving Bank’s Agreements
+4.7.11.1 Clause
+A receiving bank/ institution, by maintaining or using an account with the
+Bangladesh Bank for settlement of items or by accepting an item from the
+Bangladesh Bank:
+(a) agrees to comply with the applicable Binimoy rules and agrees that those rules
+govern the relationships among the FSI, the receiving bank and other parties
+interested in the item and covered by those rules;
+(b) agrees to process the item in accordance with this Article;
+(c) agrees that Bangladesh Bank processes the item as the Binimoy operator and
+does not collect, present, or return the items as “collecting” or “returning” bank/
+institution;
+(d) authorizes Bangladesh Bank to credit the amount of a credit item, or debit the
+amount of a debit item to the FRI’s settlement account on the settlement date;
+and
+(e) agrees to indemnify Bangladesh Bank for any loss or expense (including
+attorneys’ fees and expenses of litigation) incurred as a result of a breach of the
+foregoing agreements or of any action taken by the Bangladesh Bank in
+accordance with its Rules.
+4.7.11.2 Clause
+The agreements, authorization and indemnity in paragraph 4.7.11.1 do not limit
+any other agreement, authorization or indemnity not inconsistent with
+paragraph 4.7.11.1 made by a FSI/FRI, the Bangladesh Bank or another person.
+
+--- Page 33 ---
+Page 32 of 36
+
+
+4.7.12 Revocation of Items
+A sending bank/ institution may not amend or revoke an item after it has been
+sent to the Bangladesh Bank, except as provided in applicable Binimoy rules.
+
+4.7.13 Advices of Credit and Debit; Reporting of Errors
+The Bangladesh Bank provides advices of credit and debit to an account holder for items for
+which the account holder has agreed to settle. An advice of credit indicates that credit has been
+given, subject to the provisions of these Rules.
+
+4.7.14 Records
+Each FSI/FRI must keep records for the time as per participating FI’s data retention policy that
+permit it to resolve questions that arise concerning the handling of items, and to resend items if
+the Bangladesh Bank notifies it that the items have been lost because of a computer outage or
+other reason. The Bangladesh Bank keeps records of items processed for ten years after the
+settlement date.
+
+4.7.15 Fees
+Bangladesh Bank shall charge fees for processing all Binimoy items and will provide notification
+to Participating institutions of such fees from time to time. In addition, Bangladesh Bank may
+impose a penalty to a Participating institution for violating the Rules and other instructions to
+this regard.
+4.7.16 Non Value Messages
+Bangladesh Bank /Binimoy handles a message that does not result in an accounting entry, such
+as a notification of change, in the same manner as an item except that no funds are transferred.
+In processing a non‐value message applicable fee may not exceed the amount of any fee paid to
+Bangladesh Bank/Binimoy for the message.
+
+4.7.17 Bangladesh Bank’s Liability as Binimoy Operator
+4.7.17.1 Limitation of Liability
+(a) Bangladesh Bank is responsible or liable to a sending bank, and a receiving bank
+only for its own failure to exercise ordinary care, or for its own or its employees’
+
+--- Page 34 ---
+Page 33 of 36
+
+Willful misconduct, which shall be resolved by Binimoy Dispute Resolution
+Procedures. However, Bangladesh Bank holds no responsibility or liability, for
+any claims arising out of the malfunction or operations of Binimoy Operator, as
+conducted by Bangladesh Bank;
+(b) Bangladesh Bank does not act as the agent or subagent of another bank or
+person and is not liable for the insolvency, neglect, misconduct, mistake or
+default of another bank/Participating Institutions or person;
+(c) Bangladesh Bank does not make any warranty with respect to an item it
+processes or settles for under these Rules and;
+(d) Bangladesh Bank is not responsible or liable of any claims arising out from any
+negligence, action, inaction, misconduct against a Participating Institution or it’s
+employees, with respect to using Binimoy services. Each Participating Institution
+shall be responsible and liable for its own action or inaction and misconduct of
+it’s employees.
+(e) No Participating institution may make a claim against the Bangladesh Bank for
+loss resulting from the Bangladesh Bank’s processing of or settling for an item.
+4.7.17.2 Clause
+The Bangladesh Bank shall take appropriate action against its own or its
+employees’ willful misconduct and gross failure to exercise ordinary care.
+
+
+4.7.18 Right to Amend
+The Bangladesh Bank reserves the right to amend this Article at any time without prior notice
+with the consent of the Bangladesh Bank Board.
+
+4.8 Glossary of terms used in Articles
+
+4.8.1 Definitions As Used In These Rules
+1) “Alphanumeric” means any character 0 ‐ 9, A ‐ Z, a‐z, blank, and printable special
+characters which have an ASCII value greater than hexadecimal 1F. Fields defined in
+these Rules as “alphanumeric” may contain any of these allowable characters.
+2) “Binimoy” means a funds transfer system operator governed by the Rules of the
+Binimoy Membership which provides for the inter-bank clearing of electronic entries for
+Participating Institutions.
+3) “Banking Day” means, with reference to a Participating Bank, any day on which
+such Bank is open to the public during any part of such day for carrying on substantially
+all of its Banking functions, and, with reference to the Binimoy, and any day on which
+the appropriate facility of such EFT Operator is being operated.
+
+--- Page 35 ---
+Page 34 of 36
+
+4) “Business Day” means a calendar day other than Friday, Saturday or National
+holiday.
+5) “Corporate Debit or Credit” means a credit or debit entry initiated by an
+organization to consolidate funds of that organization from its branches, franchises or
+agents, or from other organizations, or to fund the accounts of its branches, franchises
+or agents, or of another organization.
+6) Debit or Credit” means a credit entry initiated by or on behalf of the holder of a
+Consumer Account to affect a transfer of funds to the account of the Receiver.
+7) “End User Account Holder” means an account at any Participating Institutions
+held by an End User, who is authorised to direct its respective Participating Institution to
+initiate debit or credit transactions through Binimoy..
+8) “Entry” means a credit or debit entry initiated by an organization pursuant to a
+standing or a single-entry authorization from a Receiver to affect a transfer of funds to
+or from a Consumer Account of the Receiver.
+9) “Electronic” means relating to technology having electrical, digital, magnetic,
+wireless, optical, electromagnetic, or similar capabilities.
+10) “Electronic Record” means an agreement, authorization, written statement, or
+other record created, generated, sent, communicated, received, or stored by electronic
+means.
+11) “Electronic Signature” means an electronic sound, symbol, or process attached
+to or logically associated with an agreement, authorization, written statement, or other
+record and executed or adopted by a person with the intent to sign the record.
+12) “Entry” means an order or request complying with the requirements of Appendix
+Two (Binimoy Record Format Specifications) (1) for the transfer of money to the account
+of a Receiver (a “credit entry”), (2) for the withdrawal of money from the transaction
+account or general ledger account of a Receiver (a “debit entry”), (3) a zero Taka entry.
+For all entries except re‐presented cheque entries, each debit entry shall be deemed an
+“item”.
+13) “Entry data” means, as applicable, returned entries, adjustment entries,
+notifications of change and/or other notices or data transmitted through the Binimoy
+pursuant to these Rules.
+14) “File” means a group of entries complying with the requirements of Appendix
+Two (Binimoy Record Format Specifications), associated with a given transmittal register
+and the control totals set forth therein.
+15) “Inbound entry” means an entry that originates in another country and is
+transmitted to The People's Republic of Bangladesh.
+16) “Non‐Settled entry” means an entry for which settlement cannot be completed
+under the rules governing the settlement of that entry.
+17) “Organization” means a corporation, partnership, association or other entity,
+governmental or private, or a natural person, provided that, in the case of a natural
+person, any account of such person to be debited or credited with the amount of any
+entry is maintained primarily for commercial and not for personal, family or household
+purposes.
+
+--- Page 36 ---
+Page 35 of 36
+
+18) “Participating institution” means individuals, Scheduled Banks, MFSs, and PSPs
+that (1) is authorized by law to accept deposits, (2) has been assigned a routing number
+by Binimoy authority (Bangladesh Bank), and (3) has agreed to be bound by these Rules
+as in effect from time to time. Only Participating institution may act as FSI/FRI.
+19) “Person” means a natural person or an organization.
+20) “Private Sector Operator”: means an entity that executes an annual agreement
+with Binimoy in which the entity agrees to comply with or perform all of the following:
+a) adhere to these Rules (except to the extent inconsistent with the policies or
+practices of the Bangladesh Bank) and other applicable laws, regulations, and
+policies;
+b) execute agreements with Participating Banks that bind such entities to the
+Private Sector Operator’s rules and to these Rules (except that the Bangladesh
+Bank shall not be required to bind a Participating Bank to any provision of such
+rules of Private Sector Operator that is not incorporated by these rues;
+c) provide clearing, delivery, and settlement services for Private Sector Operator’s
+entries, as defined by these Rules, between Participating Banks/institutions that
+have selected the Private Sector Operator to perform EFT/Direct Pay or RTP
+services;
+d) process and edit files based on the requirements of these Rules;
+e) evaluate the credit worthiness of and apply risk control measures to their
+Participating Banks/institutions;
+f) adhere to the Bangladesh Bank’s Policy Statement on Multilateral Settlement
+Systems (as applicable); and
+g) adhere to any Binimoy Performance Standards as they are developed.
+21) “Record” means information that is inscribed on a tangible medium or that is
+stored in an electronic or other medium and is retrievable in perceivable form.
+22) “Settlement Date” means the date an exchange of funds with respect to an entry
+is reflected on the books of the Bangladesh Bank.
+23) “Single Entry” means a one‐time transfer of funds initiated by an Originator in
+accordance with the Receiver’s authorization for a single Binimoy credit or debit to the
+Receiver’s Consumer Account.
+24) “Transmit” means to deliver by electronic means of communication.
+25) “Zero Entry” means an entry which carries a zero amount but does include
+payment related remittance data. Zero entries are limited to corporate entries that
+carry remittance data related to the payment. For example, pre‐advice entries that carry
+remittance data that indicates a credit position of the FSI to the FRI, or entries relating
+to a period of time during which no funds are owed by the FSI to the FRI.
+26) Request Originator (RO)/Fund Receiver (FR) means an account holder who is
+requesting the Request Receiver/Fund Sender to pay/transfer funds from Debiting
+Account (of the Request Receiver) into Crediting Account (of the Request Originator).
+OR means an account holder who is requesting Request Receiver to pay/transfer funds
+into Crediting Account of the Request Originator.
+27) Request Receiver (RR)/ Fund Sender (FS) means an account holder who receives
+a request from a Request Originator/Fund Receiver to pay/transfer funds from Debiting
+
+--- Page 37 ---
+Page 36 of 36
+
+Account (of the Request Receiver) into Crediting Account (of the Request Originator).
+OR means an account holder who receives a request to pay/transfer funds into the
+Crediting Account of the Request Originator.
+28) Crediting Account means an account held by a Request Originator/ Fund
+Receiver in a Request Originating Institution/Fund Receiving Institution/Crediting
+Institution into which the Request Receiver/Fund Sender transfers the funds, with or
+without receiving a request to pay.
+29) Debiting Account means an account held by a Request Receiver/ Fund Sender in
+a Request Receiving Institution/Fund Sending Institution/Debiting Institution from which
+the Request Receiver/ Fund Sender transfers the funds into a Crediting Account, with or
+without receiving a request to pay.
+30) Request Originating Institution (ROI)/ Fund Receiving Institution (FRI)/ Crediting
+Institution means a Participating Institution in which a Request Originator/Fund
+Receiver holds an account.
+31) Request Receiving Institution (RRI)/ Fund Sending Institution (FSI)/ Debiting
+Institution means a Participating Institution in which a Request Receiver/Fund Sender
+holds an account.
+32) VID means Virtual Id.
+33) Unless the context otherwise requires, words in a singular number include the
+plural, and in the plural include the singular. The term “section” refers to a subdivision
+of an Article containing a two‐ digit number (e.g., “2.1”); the term “subsection” refers to
+a subdivision of a section containing a three or four‐digit number.

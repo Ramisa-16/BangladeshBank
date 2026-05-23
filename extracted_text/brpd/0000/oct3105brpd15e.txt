@@ -1,0 +1,212 @@
+--- Page 1 ---
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka.
+
+BRPD Circular No. 15
+
+31 October, 2005
+Date: ---------------------
+16 Kartik, 1412
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+Marking to Market based Revaluation of Treasury Bills & Bonds held by the Banks.
+
+The requirement of revaluation of investments in shares and securities by a banking company at the
+year-end is stipulated in the note no. 4(kha) of the first schedule of section 38 of the Bank Companies
+Act, 1991. With a view to wider application of fair value accounting of Government Securities and
+encouraging secondary trading after issuance of these securities, it has been decided to make the
+following changes in the stipulation:
+
+The securities, which are held for the fulfilment of Statutory Liquidity Requirement (SLR)
+by a banking company, will be treated as Held to Maturity (HTM) or Investment Securities
+and the obligation of year-end revaluation of these securities will remain unchanged. The
+gain/loss due to the revaluation will be taken to Capital Account and disclosed in the
+‘Statement of Changes in Capital’.
+The Government treasury bills and bonds held in excess of SLR by a banking company will
+be treated as Held For Trading (HFT) based Dealing Securities. The portion of the Dealing
+Securities should be revalued at least at weekly intervals based on marking to market or at
+current market prices. The banking company will show the gain/loss due to this revaluation
+in the Profit and Loss Account of the concerned period.
+For this revaluation, the most recent yield rate prevailing in the secondary (i.e. after
+issuance) trading of Government Securities and bonds of different tenors is to be used and
+in the absence of secondary trading the yield rate of the most recent auction (Primary issue)
+by Bangladesh Bank is to be used. Some indicative guidelines for revaluation are enclosed
+herewith.
+
+In accordance with the above instructions the weekly revaluation based on marking to
+market for the portion of securities held for trading by the banks will be compulsory from
+01 February 2006; prior to the stated date, banks are advised to start this process as early as
+possible to ensure proper introduction of the new system mentioned above.
+
+
+
+Enclo: As described.
+
+Yours faithfully,
+sd/-
+(Naba Gopal Banik)
+General Manager
+Phone: 7117825
+
+--- Page 2 ---
+Annexure
+Indicative guidelines for marking to market revaluation
+
+Marking to market is the process of reflecting the fair value1 of any asset or liability in the books. Fair Value for
+the purpose of periodical valuation of investments included in the HFT category would be the market price
+prevailing on the date of valuation as available from secondary market trades.
+In case secondary market prices are not available, fair value will be estimated by discounting future cash flows
+using the YTM yield curve announced by Bangladesh Bank.
+Treasury Bills of less than one year remaining maturity should be valued as below.
+
+I. Treasury Bills
+
+(i) Maturity of Less than One Year
+
+
+Price =
+_______ 100_____________
+
+
+
+
+(1+ Yield* No. of days to maturity )
+
+
+
+
+
+364
+
+The yield to be used will be that prevailing in the secondary market. Where secondary market yield data is
+unavailable due to absence of secondary trade, yield in the most recent primary auction by Bangladesh Bank is to be
+used. Usually the secondary market yields (or those in primary auctions by BB) will be available for specified tenors
+like 28, 91, 182 or 364 days. The remaining maturity of most Treasury Bills held by banks for trading will be
+different from these tenors. In such cases, the exact yield applicable will have to be intrapolated/extrapolated from
+the yield curve from most recent secondary trade/primary auction as available.
+
+
+Cont'd page 2
+
+
+
+
+1 Fair value is the amount for which an asset could be exchanged, or a liability settled, between knowledgeable, willing parties in an arm's
+length transaction.
+
+--- Page 3 ---
+(ii) Maturity of More than One Year
+
+Treasury Bills of Maturity more than one year are to be valued exactly like zero coupon bonds. This is done as
+below:
+
+Price =
+100 /(1+ Zt )^t
+
+
+
+
+
+
+Where
+Zt is the annual “zero coupon rate” applicable to the time to maturity and
+t is the time to maturity in years
+
+It is assumed that the “zero coupon rate” is available in secondary market trades. Otherwise, a reasonable
+approximation is to use the YTM applicable to the period, in place of the “zero coupon rate”.
+Usually the secondary market yields (or those in primary auctions by BB) will be available for round periods like
+1,2,3,5,10 years. The remaining period to maturity of securities, on the date of valuation, will often not be in round
+periods. In such cases, the exact yield applicable will have to be intrapolated from the yield curve from most recent
+secondary trade/primary auction as available.
+Example 2.1
+Date of Maturity of security – October 15, 2008
+Date of Valuation – December 31, 2005
+2 year Yield – 6.50%
+3 year Yield – 6.70%
+Step 1 – Calculate remaining maturity
+
+
+Oct 15, 2008 - Dec 31, 2005 = 2.79 years2
+Step 2 – Find the exact yield applicable to 2.79 years
+
+
+79
+50
+70
+50
+= 6.66%
+Cont'd page 3
+
+
+
+2 The EXCEL function YEARFRAC(StartDate,EndDate,Basis) may also be used
+
+--- Page 4 ---
+I. Coupon Paying Bonds
+
+A coupon paying bond is valued as follows
+
+P = CF1/(1+ Y/2 )^1 + CF2/(1+ Y/2 )^2 + CF3/(1+ Y/2 )^3 +………. + CFn/(1+ Y/2 )^n
+
+Where
+P = Price of the bond
+Y = Yield to Maturity
+CFi - Cash Flow at time i
+1,2,3……n = Time to cash flow in Half-Years
+The yield to be used will be that prevailing in the secondary market. In case yield is not available in the secondary
+market, the yield as announced by Bangladesh Bank is to be used.
+Usually the secondary market yields (or those in primary auctions by BB) will be available for round periods like
+1,2,3,5, 10 years. The remaining maturity, on the date of valuation, of most bonds will not be in such round periods.
+In such cases, the exact yield applicable will have to be intrapolated from the yield curve from most recent
+secondary trade/primary auction as available .
+Although the above formula is simple and conceptually transparent, it is applicable when the price is to be
+determined at the beginning of a coupon period. Very often, a security requires to be valued in between coupon dates.
+In such a case the following formula may be used.
+Frequency
+Rate
+frequency
+yield
+frequency
+yield
+Value
+demption
+ice
+frequency
+rate
+DSC
+DSC
+100
+100
+Re
+Pr
+
+where:
+DSC = number of days from settlement to next coupon date.
+E = number of days in coupon period in which the settlement date falls.
+N = number of coupons payable between settlement date and redemption date.
+A = number of days from beginning of coupon period to settlement date.
+Cont'd page 4
+
+--- Page 5 ---
+The first term within brackets on the Right Hand Side of the equation calculates present value of principal, the second
+term calculates present value of coupon flows and the third and last term calculates the accrued interest. By
+subtracting the accrued interest from the present value of all cash flows, the clean price of the bond is arrived at.
+
+Example 2.2
+Face Value – 100
+Date of Maturity – October 15, 2015
+Coupon Dates – October 15 and April 15
+Date of Valuation – December 31, 2005
+9 year Yield – 9.50%
+10 year Yield – 9.80%
+Coupon - 8.50%
+
+Step 1 – Find the exact years to maturity on date of valuation – 9.79 years
+Step 2- Interpolating between 9 and 10 year yields, find the yield applicable to 9.79 years – 9.74%.
+Step 3 – Find the value of the bond using 9.74% YTM (use spreadsheet or any utility) – 92.44

@@ -1,0 +1,562 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাংক
+
+(সেন্ট্রাল ব্যাংক অব বাংলাদেশ)
+প্রধান 3
+ঢাকা-১০০০ আর্থিক প্রতিষ্ঠান ও বাজার বিভাগ
+Website: www.bb.org.bd
+
+তারিখঃ ২৩ আষাঢ় ১৪৩২
+ডিএফআইএম সার্কুলার নং-০৩ ০৭ জুলাই ২০২৫
+প্রধান নির্বাহী/ব্যবস্থাপনা পরিচালক
+বাংলাদেশে কার্যরত সকল ফাইন্যান্স কোম্পানি
+
+শেয়ার ও BPA, বন্ড ও ডিবেধ্গার, মিউচ্যুয়াল ফান্ড এবং
+কমার্শিয়াল পেপারে বিনিয়োগের বিপরীতে সংস্থান সংরক্ষণ প্রসঙ্গে।
+
+উপর্যুক্ত বিষয়ে ডিএফআইএম সার্কুলার নং-০২, তারিখঃ ৩১ জানুয়ারি ২০১২, ডিএফআইএম সার্কুলার নং-০৫,
+
+রিখঃ ১১ মে ২০১৫ এবং ডিএফআইএম সার্কুলার লেটার নং-০২, তারিখঃ ২৭ ফেব্রুয়ারি ২০২০-এর প্রতি আপনাদের দৃষ্টি
+আকর্ষণ করা যাচ্ছে।
+
+ফাইন্যান্স কোম্পানিসমূহ কর্তৃক প্রস্তুতকৃত বিবরণীসমূহে তাদের আর্থিক অবস্থার যথাযথ প্রতিফলন নিশ্চিতকরণের
+লক্ষ্যে খণ/লিজ-এর পাশাপাশি শেয়ার ও ইকুযুয়িটি, বন্ড ও ডিবেঞ্ার, মিউচ্যুয়াল ফান্ড এবং কমার্শিয়াল পেপারে বিনিয়োগ এবং
+তাদের সাবসিডিয়ারী/সহযোগী প্রতিষ্ঠানে ইক্যুয়িটি বিনিয়োগে প্রযোজ্য ক্ষেত্রে যথাযথ সংস্থান (প্রভিশন) হিসাবায়ন প্রয়োজন |
+এতদৃপ্রেক্ষিতে, ফাইন্যান্স কোম্পানিসমূহ কর্তৃক উল্লিখিত বিনিয়োগ সংশ্লিষ্ট ঝুঁকির বিপরীতে সংস্থান সংরক্ষণের বিষয়ে নিম্নরূপ
+
+১। তালিকাভুক্ত সিকিউরিটিজে বিনিয়োগের বিপরীতে সংস্থান সংরক্ষণ ৪ তালিকাভুক্ত প্রতিষ্ঠানের শেয়ার ও ইক্যুয়িটি,
+
+বন্ড ও ডিবেধ্রে বিনিয়োগের ক্ষেত্রে বর্ণিত সিকিউরিটিজসমূহের বাজারমূল্য ক্রয়মূল্য (Cost Price) অপেক্ষা কম হলে দু'য়ের
+পার্থক্যকে “বিনিয়োগজনিত ক্ষতি* হিসেবে চিহ্নিত করতঃ ভিত্তি তারিখে সমপরিমাণ সংস্থান সংরক্ষণ করতে হবে। এক্ষেত্রে,
+প্রত্যেক তহবিলের (শেয়ার ও BHAT, বন্ড ও ডিবেধ্তার) পৃথক gain/loss net off করে সংস্থান সংরক্ষণ করা যাবে ।
+
+২। অ-তালিকাভুক্ত সিকিউরিটিজে বিনিয়োগের বিপরীতে সংস্থান সংরক্ষণ ঃ পুঁজিবাজারে তালিকাভুক্ত নয় এরূপ
+প্রতিষ্ঠানের Spe শেয়ার, প্রেফারেন্স শেয়ার এবং বন্ড ও ডিবেধ্তার-এ বিনিয়োগের বিপরীতে সংস্থান সংরক্ষণের বিষয়ে
+নিম্নবর্ণিত নীতিমালা প্রযোজ্য হবে 8
+
+২.১. অ-তালিকাভুক্ত প্রতিষ্ঠানের ইকুযুয়িটি শেয়ারে (সাবসিডিয়ারি ও সহযোগীসহ) বিনিয়োগের ক্ষেত্রে ভিত্তি তারিখে
+উক্ত BH শেয়ারের (প্রেফারেন্স শেয়ার ব্যতীত) মূল্য তাদের সর্বশেষ নিরীক্ষিত আর্থিক বিবরণী অনুযায়ী
+নীট সম্পদ মূল্য (Net Asset ৬৪1০)-এর ভিত্তিতে নির্ধারিত হবে। এই পদ্ধতিতে শেয়ারের নির্ধারিত মূল্য
+উক্ত শেয়ারের ক্রয়মূল্য (Cost Price) অপেক্ষা কম হলে, দু'য়ের পার্থক্য “বিনিয়োগজনিত ক্ষতি" হিসেবে
+বিবেচিত হবে এবং সমপরিমাণ সংস্থান সংরক্ষণ করতে হবে ।
+
+এছাড়া, কোনো ফাইন্যান্স কোম্পানি যদি এমন কোনো প্রতিষ্ঠানের ইকুযয়িটি শেয়ারে বিনিয়োগ করে থাকে, যাদের
+ধারাবাহিকভাবে ভিত্তি তারিখ পূর্ববর্তী তিন বছরের নিরীক্ষিত আর্থিক বিবরণী নেই অথবা বিনিয়োগকৃত
+কোম্পানিটির কোনো অস্তিত নেই অথবা ধারাবাহিকভাবে তিন বছর কোনো মুনাফা প্রদান করেনি, এরপ ক্ষেত্রে
+উক্ত প্রতিষ্ঠানে বিনিয়োগের সমপরিমাণ সংস্থান সংরক্ষণ করতে হবে।
+
+২.২. অ-তালিকাভুক্ত প্রতিষ্ঠানের নন-কনভার্টিবল প্রেফারেন্স শেয়ার, বন্ড ও ডিবেধ্গারে বিনিয়োগের ক্ষেত্রে কোনো
+হিসাববর্ষ শেষে উক্ত প্রতিষ্ঠান কর্তৃক প্রদেয় সুদ/লভ্যাংশ (নগদ) ফাইন্যান্স কোম্পানি না পেয়ে থাকলে বর্ণিত
+সিকিউরিটিজসমূহে বিনিয়োগের বিপরীতে সুদ/লভ্যাংশ (নগদ) অনাদায়ী হওয়ার পর বিনিয়োগ হিসাবে প্রদর্শিত
+মূল্য (Cost Price)-4a উপর FACT সংস্থান সংরক্ষণ করতে হবে £
+ক. প্রথম হিসাববর্ধ শেষে ২৫%;
+
+খ. দ্বিতীয় হিসাববর্ষ শেষে ৫০%;
+
+
+০১
+
+--- Page 2 ---
+গ. তৃতীয় হিসাববর্ষ শেষে ১০০%; এবং
+ঘ. স্বল্পমেয়াদি বন্ড/ডিবেধ্জারের ক্ষেত্রে মেয়াদপুর্তিতে সমুদয় অর্থ ফেরত পাওয়া না গেলে মেয়াদপূর্তির
+অব্যবহিত হিসাববর্ষ হতে ১০০% সংস্থান সংরক্ষণ করতে হবে |
+২.৩. অনুচ্ছেদ নম্বর ২.২-এ বর্ণিত বিনিয়োগের বিপরীতে প্রাপ্য সুদ (বিনিয়োগের উপর ধার্ধকৃত সুদ যা আদায়
+হয়নি)-এর দফাসমূহ সৃষ্টির তারিখ হতে ০৬ (ছয়) মাস বা Oye কিন্ত ০১(এক) বছরের কম সময়কাল পর্যন্ত
+অসমন্বিত থাকলে তা সন্দেহজনক মানে শ্রেণিকরণপূর্বক এর বিপরীতে ৫০% এবং ০১(এক) বছর বা OHA
+সময়কাল পর্যন্ত অসমন্থিত থাকলে মন্দ/ক্ষতিজনক মানে শ্রেণিকরণপূর্বক এ সকল দফার বিপরীতে ১০০%
+সংস্থান সংরক্ষণ করতে হবে।
+৩। উল্লিখিত তালিকাভুক্ত কিংবা অ-তালিকাভুক্ত সিকিউরিটিজে বিনিয়োগের বিপরীতে প্রাপ্য লভ্যাংশ নগদ আদায়
+ব্যতীত আয়খাতে স্থানান্তর করা যাবে না।
+81 এতদ্যতীত, মিউচুয়াল ফান্ডে বিনিয়োগের বিপরীতে সংস্থান সংরক্ষণের বিষয়ে জারিকৃত এ বিভাগের ১১ মে
+২০১৫ তারিখের ডিএফআইএম সার্কুলার নং-০৫ এবং কমার্শিয়াল পেপারে বিনিয়োগের বিপরীতে সংস্থান সংরক্ষণের বিষয়ে ২৭
+ফেব্রুয়ারি ২০২০ তারিখের ডিএফআইএম সার্কুলার লেটার নং-০২ এর মাধ্যমে জারিকৃত “গাইডলাইনস্‌ অন কমার্শিয়াল পেপার
+ফর ফাইন্যা্সিয়াল ইনস্টিটিউশনস্” অনুযায়ী অথবা সময়ে সময়ে উক্ত সার্কুলার/নীতিমালার পরিবর্তিত সিদ্ধান্ত অনুযায়ী বর্ণিত
+সিকিউরিটিজসমূহে বিনিয়োগের বিপরীতে সংস্থান সংরক্ষণ সংশ্লিষ্ট নির্দেশনা অনুসরণের বিষয়টি নিশ্চিত করতে হবে।
+৫ | উপরিউক্ত নির্দেশনার আলোকে ফাইন্যান্স কোম্পানিসমূহ ব্রিমাসিক ভিত্তিতে (AIS, জুন, সেপ্টেম্বর এবং ডিসেম্বর)
+শেয়ার ও SHAT, বন্ড ও ডিবেঞ্ঝার, মিউচ্যুয়াল ফান্ড এবং কমার্শিয়াল পেপারে বিনিয়োগের বিপরীতে যথাযথ সংস্থান সংরক্ষণ
+করবে |
+
+৬। ফাইন্যান্স কোম্পানিসমূহ নির্ধারিত ব্রেমাসিক সমাপনান্তে পরবর্তী ৩০ (ত্রিশ) দিনের মধ্যে বর্ণিত সিকিউরিটিজে
+বিনিয়োগের বিপরীতে সংস্থান সংরক্ষণ সংশ্লিষ্ট বিবরণী (হার্ডকপি ও সফট্কপি) সংযুক্ত টেমপ্লেট (Annex-A) অনুযায়ী
+বাংলাদেশ ব্যাংকের আর্থিক প্রতিষ্ঠান ও বাজার বিভাগে প্রেরণ করবে। এছাড়া, বার্ধিক আর্থিক বিবরণীতে বর্ণিত
+সিকিউরিটিজসমূহে বিনিয়োগের বিপরীতে সংস্থানের বিশদ প্রতিফলন নিশ্চিত করবে |
+
+৭। ফাইন্যান্স কোম্পানি আইন, ২০২৩ (২০২৩ সনের ৫৯ নং আইন)-এর ৪১২)(ঘ) ধারায় প্রদত্ত ক্ষমতাবলে এ
+নির্দেশনা জারি করা হলো, যা সেপ্টেম্বর/২০২৫ ব্রেমাসিক হতে কার্যকর হবে |
+
+আপনাদের বিশ্বস্ত,
+
+cafes ০৩ (তিন) পাতা | অল,
+
+(গৌতম কুমার ঘোষ)
+পরিচালক (ডিএফআইএম)
+ফোনঃ ৯৫৩০১৭৮
+
+০২
+
+--- Page 3 ---
+Annex-A
+Page 1 of 3
+
+Statement Regarding Provision Maintenance Against Investment in Listed Securities
+Name of the Finance Company:
+Reporting Date:
+
+1. Equity Share
+SL
+Name of
+Company
+Total No. of shares held under own
+portfolio
+Average cost price
+Cost price of
+investment
+Market price (last traded
+price)
+Market price of
+investment
+Required provsion
+Maintained
+provision
+Provision
+shortfall/excess
+4=2*3
+6=2*5
+7=4-6
+9=8-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+2. Bond/Debenture
+SL
+Name of Bond/
+Debenture
+Total No. of bond/debenture held
+under own portfolio
+Average cost price
+Cost price of
+investment
+Market price (last traded
+price)
+Market price of
+investment
+Required provsion
+Maintained
+provision
+Provision
+shortfall/excess
+4=2*3
+6=2*5
+7=4-6
+9=8-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+3. Closed-End Mutual Fund
+SL
+Name of Mutual
+Fund
+Total Investment
+Market price (last
+traded price)
+Market value (MV)
+of investment
+Last NAVcmp
+Invested Amount (as
+per NAVcmp) *
+Required Provision
+Maintained
+Provision
+Provision
+shortfall/excess
+No. of units
+held
+Average cost
+price
+Cost price (CP)
+of investment
+If 6≥8
+If 6<8
+4=2*3
+6=2*5
+8=2*7*0.85
+9=4-6
+10=4-8
+11
+12=11-(9+10)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 4 ---
+Annex-A
+Page 2 of 3
+
+Statement Regarding Provision Maintenance Against Investment in Non-Listed Securities
+Name of the Finance Company:
+Reporting Date:
+
+4. Equity Share
+SL
+Name of Company
+Total Investment
+NAVcmp
+Invested Amount
+(as per NAVcmp)
+Required Provision
+Maintained Provision
+Provision
+shortfall/excess
+No. of Shares
+Acquisition Cost (per share)
+Total
+4=2*3
+6=2*5
+7=4-6
+9=8-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+5. Open-End Mutual Fund
+SL
+Name of Mutual
+Fund
+No. of Unit Purchased
+Average Cost Price
+Cost Price (CP) of
+Investment
+Last NAVcmp
+Invested Amount
+(as per NAVcmp)
+Required provsion
+Maintained provision
+Provision
+shortfall/excess
+4=2*3
+6=2*5*0.85
+7=4-6
+9=8-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+6. Commercial Paper
+SL
+Name of Issuer
+Name of Commercial Paper
+Date of Issue
+Invested Amount
+Outstanding Balance
+as on reference date
+Due date of
+Repayment
+Classification Status as on
+reference date
+Required provision
+against Outstanding
+Balance *
+Maintained
+provision
+Provision
+shortfall/excess
+8=5*20%/50%/100%
+10=9-8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+*N.B. Required provision against Outstanding Balance of CP:
+SS=20%, DF=50% & BL=100%. [Reference- DFIM Circular Letter No-02/2020]
+
+--- Page 5 ---
+Annex-A
+Page 3 of 3
+
+
+7. Non-Convertible Cumulative Preference Share
+Sl
+Name of Company
+Invested Amount
+Dividend Unpaid Since
+(Month/Year)
+Required Provision
+Against Investment*
+Maintained Provision
+Provision Shortfall/Excess
+4=2*25%/50%/100%
+6=5-4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+*N.B. Provision against Investment:
+Dividend Unpaid for 1 year or more but less than 2 years= 25%.
+Dividend Unpaid for 2 years or more but less than 3 years = 50%.
+Dividend Unpaid for 3 years or more = 100%.
+8. Non-Convertible Cumulative Bond/Debenture
+Sl
+Name of
+Bond/
+Debenture
+Invested
+Amount
+Coupon
+Rate (%)
+Cumulative
+Coupon Payment
+Accrued Till Date
+Cumulative
+Coupon Payment
+Received Till Date
+Last Coupon
+Payment Date
+Coupon Payment
+Unpaid Since
+(Month/Year)
+Unpaid Coupon Amount
+Required Provision
+Maintained
+Provision
+Provision
+Shortfall/Excess
+For 6 to 12
+months
+For more
+than 12
+months
+Against Investment*
+
+Against Unpaid Coupon Amount
+For 6 to 12
+months
+For more than
+12 months
+10=2*25%/50%/100%
+11=8*50%
+12=9*100%
+13
+14=13-(10+11+12)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+*N.B. Provision Against Investment:
+Dividend/Coupon/Interest Unpaid for 1 year or more but less than 2 years= 25%.
+Dividend/Coupon/Interest Unpaid for 2 years or more but less than 3 years = 50%.
+Dividend /Coupon/Interest Unpaid for 3 years or more = 100%.

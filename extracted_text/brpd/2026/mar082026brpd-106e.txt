@@ -1,0 +1,1767 @@
+--- Page 1 ---
+Bangladesh Bank
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+website: www.bb.org.bd
+
+
+
+Banking Regulation and Policy Department-1
+
+
+
+08 March 2026
+BRPD-1 Circular No. 06
+Date: -----------------------
+
+23 Falgun 1432
+Managing Director/Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+Guidance for banks in implementing IFRS 9 Financial Instruments
+Please refer to BRPD Circular Letter No. 03 dated 23 January 2025 on Implementation of ECL
+based Classification and Provisioning under IFRS 9.
+2. Bangladesh Bank (BB) devises a roadmap for the banks and provided preparatory instructions in
+implementing IFRS 9 Financial Instruments by 2027 through the mentioned circular. The
+roadmap was segregated in three phases and according to the road map, Bangladesh Bank is
+needed to issue guidance for banks in implementing IFRS 9 at the beginning of the Phase II. As
+per roadmap, Bangladesh Bank has prepared “Guidance for banks in implementing IFRS 9
+Financial Instruments” and decided to issue it herewith.
+3. According to the Bank Company Act, 1991 section 38, as a “Public Interest Entity” defined by
+Financial Reporting Council (FRC), all the banks are needed to follow financial reporting
+standards as per Financial Reporting Act, 2015. Moreover, according to the gazette published by
+FRC in 02 November 2020, all the Public Interest Entity (PIE) must comply with the conceptual
+framework for financial Reporting as well as International Financial Reporting Standards (IFRS)
+as per section 44 of Financial Reporting Act, 2015.
+4. The objective of this guidance is to ensure banks take steps to comply with the financial
+reporting requirements outlined in IFRS 9. However, this Implementation Guidance is not
+intended to cover all areas of IFRS 9. Instead, it focuses on critical areas of the accounting
+standard. Thus, this guidance is considered to be the minimum requirements for implementing
+IFRS 9 for banks. On the other hand, The Basel Committee on Banking Supervision issued
+Guidance on credit risk and accounting for expected credit losses in December 2015. It is
+recommended to the banks, to which this Implementation Guidance applies, to adopt the
+principles contained therein.
+5. This Implementation Guidance shall be applied to the funded and non-funded credit facilities by
+January 2028. The application of this Guidance to all other financial instruments under IFRS 9,
+such as investment securities, shall be adopted by January 2029. Bangladesh Bank will issue
+directives (e.g. on CIB reporting, additional reporting template etc.) time to time as deemed
+necessary.
+
+--- Page 2 ---
+6. Bangladesh Bank will provide guidance and clarification to banks during the implementation of
+their IFRS 9 frameworks in accordance with this Implementation Guidance. Banks should
+correspond exclusively from a dedicated official email.
+7. This directive has been issued by Bangladesh Bank in exercise of its power conferred on it under
+section 49(1)(cha) of the Bank Company Act, 1991.
+
+Annex: as described.
+Yours faithfully,
+
+(Gazi Md. Mahfuzul Islam)
+Director (BRPD-1)
+Phone: 9530252
+
+--- Page 3 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+
+GUIDANCE FOR BANKS IN IMPLEMENTING
+IFRS 9 FINANCIAL INSTRUMENTS
+
+
+Banking Regulation and Policy Department-1
+Bangladesh Bank
+March, 2026
+
+--- Page 4 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[This page kept blank intentionally]
+
+--- Page 5 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+
+
+
+GUIDANCE FOR BANKS IN IMPLEMENTING
+IFRS 9 FINANCIAL INSTRUMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Banking Regulation and Policy Department-1
+Bangladesh Bank
+
+--- Page 6 ---
+Message from the Governor
+Bangladesh Bank
+
+The global financial system is undergoing a period of structural transformation shaped by post-
+crisis regulatory reforms, evolving risk landscapes, technological change, and increasing
+economic interdependence. In this environment, financial stability is no longer sustained by
+capital adequacy alone; it depends equally on transparency, credibility of financial reporting, and
+the integrity of risk recognition frameworks.
+
+International Financial Reporting Standard 9 (IFRS 9) represents a cornerstone of this global
+reform architecture. By replacing backward-looking loss recognition with a forward-looking
+Expected Credit Loss (ECL) framework, IFRS 9 aligns financial reporting with modern risk
+governance, macro prudential oversight, and sustainable financial intermediation. Its adoption
+across jurisdictions reflects a shared international commitment to resilience, discipline, and
+systemic stability.
+
+For Bangladesh, the implementation of IFRS 9 is an integral part of our long-term vision for
+building a sound, internationally aligned, and future-ready financial system. As Bangladesh
+continues its transition toward a more diversified, investment-driven and globally connected
+economy, the strength and credibility of its banking sector will remain foundational to national
+development.
+
+This Implementation Guidance reflects Bangladesh Bank’s strategic commitment to aligning
+domestic financial architecture with international standards, while ensuring that reforms are
+implemented in a manner consistent with national priorities, institutional capacity, and financial
+system stability. The objective is not symbolic compliance, but the creation of a resilient banking
+system capable of supporting sustainable growth, mobilizing capital efficiently, and maintaining
+confidence among domestic and international stakeholders.
+
+I would like to acknowledge the dedicated efforts of the inter-departmental committee, technical
+experts, and stakeholders whose rigorous analytical work, consultation, and professional
+judgment have contributed to the development of this Guidance. Their contribution has been
+instrumental in ensuring that this framework is both technically sound and institutionally
+practicable.
+
+Bangladesh Bank will continue to provide strategic leadership to ensure that the implementation
+of IFRS 9 strengthens the foundations of financial stability, supports long-term economic
+transformation, and positions Bangladesh’s banking sector as a credible and trusted participant in
+the global financial system.
+
+J Se —
+
+Md Mostaqur Rahman FCMA
+Governor
+Bangladesh Bank
+
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+
+--- Page 7 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+
+Message from the Deputy Governor
+Bangladesh Bank
+Bangladesh‟s economy is currently navigating a phase of macroeconomic stabilization supported
+by policy reform, structural reform and legal reform in the financial sector with a view to
+bringing more discipline, ensuring good governance and fostering financial stability of the
+country. Adoption of international best practices and risk-based supervisory framework in
+banking sector has become an integral part of these initiatives.
+In this context, Bangladesh Bank (BB) has planned to implement an Expected Credit Loss
+(ECL)-based provisioning system for banks in accordance with the International Financial
+Reporting Standard (IFRS 9). At present, banks follow a rule-based loan classification and
+provisioning system. As part of our ongoing efforts to strengthen the risk management
+capabilities of banks and enhance the transparency of financial reporting, Bangladesh Bank has
+decided to adopt an ECL-based loan classification and provisioning framework under IFRS 9.
+The ECL framework enables earlier risk identification, stronger provisioning discipline,
+improved asset quality assessment, and greater credibility of bank balance sheets. These
+outcomes extend beyond accounting improvements; they support stronger capital planning,
+improved risk pricing, better credit allocation, and enhanced depositor and investor confidence.
+At the institutional level, IFRS 9 will strengthen internal governance, reinforce risk culture, and
+integrate credit risk assessment more effectively into business and management decisions. At the
+system level, it will improve transparency, comparability, and supervisory effectiveness. At the
+market level, it will contribute to strengthening confidence, improving financial intermediation,
+and reinforcing financial stability.
+I would like to recognize the extensive work of the IFRS 9 Implementation Team and the
+subject-matter specialists who contributed to the development of this Guidance. Their sustained
+engagement, technical rigor, and cross-institutional coordination have ensured that the
+framework is both operationally practical and aligned with supervisory objectives.
+Bangladesh Bank will continue to support banks throughout this transition through regulatory
+guidance, supervisory engagement, and coordinated implementation efforts. The successful
+adoption of IFRS 9 will represent not only regulatory compliance but also a meaningful
+advancement in the quality, resilience, and credibility of Bangladesh‟s banking system.
+
+
+(Dr. Md. Kabir Ahmed)
+Deputy Governor
+Bangladesh Bank
+
+--- Page 8 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+
+Preamble
+International Financial Reporting Standard 9 (IFRS 9) was introduced as part of the global post-
+crisis reform agenda to address structural weaknesses in financial reporting arising from delayed
+recognition of credit losses and insufficient forward-looking risk assessment. The standard
+replaces the incurred loss model with a forward-looking Expected Credit Loss (ECL) framework,
+requiring earlier recognition of credit risk and more prudent provisioning practices.
+As Public Interest Entities (PIEs) under the Financial Reporting Act, 2015, banks in Bangladesh
+are required to comply with International Financial Reporting Standards (IFRS) in accordance
+with the directives issued by the Financial Reporting Council (FRC). The implementation of
+IFRS 9 therefore constitutes both a statutory obligation and a regulatory requirement for the
+banking sector.
+Bangladesh Bank has adopted a phased implementation roadmap for IFRS 9 to ensure
+institutional readiness, operational stability, and system-wide consistency. This Implementation
+Guidance has been issued as part of that roadmap to provide regulatory direction, supervisory
+structure, and implementation benchmarks for banks in applying the requirements of IFRS 9,
+with particular focus on the Expected Credit Loss (ECL) framework.
+Bangladesh Bank acknowledges the valuable contributions of the members of the IFRS 9
+Implementation Team, whose analytical work, professional judgment, and sustained engagement
+formed the foundation of this Guidance. The Bank also recognizes the contributions of former
+committee members, Mr. Mohammad Shahriar Siddiqui, Director (FSD), and Mr.
+Shakhawat Hossain, Joint Director, Bangladesh Bank, whose early engagement and technical
+inputs supported the development of this framework. Bangladesh Bank further acknowledges the
+International Finance Corporation (IFC) for its technical assistance in the development of this
+Guidance. The Bank also appreciates the constructive contributions of Financial Reporting
+Council (FRC) and the representatives of the Institute of Chartered Accountants of
+Bangladesh (ICAB)—Mr. Mohammad Abdul Ohab Miah, FCA, and Mr. Sk. Ashik Iqbal,
+FCA, whose professional insights and consultative support helped strengthen the accounting
+integrity and practical applicability of the framework.
+This Guidance is intended to support consistent, proportionate, and credible implementation
+across the banking sector. It focuses on critical areas necessary for effective adoption, while
+allowing banks to exercise professional judgment and apply sound risk management practices in
+line with international standards and supervisory expectations.
+
+--- Page 9 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+
+GUIDANCE FOR BANKS IN IMPLEMENTING
+IFRS 9 FINANCIAL INSTRUMENTS
+Advisor:
+Md. Ashraful Alam, Executive Director, Bangladesh Bank
+Implementation Team:
+
+Chairperson:
+Md. Bayazid Sarkar
+Director (BRPD-1), Banking Regulation and Policy Department-1, Bangladesh Bank
+Focal Point:
+Mohammad Salauddin Tapadar
+Additional Director, BRPD-1, Bangladesh Bank
+Member Secretary:
+Kazi Mahmudur Reza
+Joint Director, BRPD-1, Bangladesh Bank
+Members:
+Mohammad Abdullah Al Masum
+Additional Director, BSD-9, Bangladesh Bank
+Golam Mostafa
+Additional Director, BRPD-2, Bangladesh Bank
+Mohammad Hasib Ur Rahman
+Additional Director, BRPD-1, Bangladesh Bank
+Nazia Haque, CFA
+Joint Director, BRPD-1, Bangladesh Bank
+Md. Majedul Islam
+Joint Director, SPCD, Bangladesh Bank
+Muhammad Hasan Tareq
+Joint Director, BRPD-1, Bangladesh Bank
+Rony Nath
+Deputy Director, BRPD-1, Bangladesh Bank
+Md. Abdul Auwal
+Deputy Director, BRPD-1, Bangladesh Bank
+Ahmed Rashid Joy
+AMD & CRO, Brac Bank PLC
+10. Mohammad Monowar Hossain FCA
+Financial Controller, Standard Chartered Bank
+11. Anik Kumar Mallick
+Standard Setting Officer, Financial Reporting Council
+
+--- Page 10 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+
+GUIDANCE FOR BANKS IN IMPLEMENTING
+IFRS 9 FINANCIAL INSTRUMENTS
+Table of Contents
+
+1. Introduction ................................................................................................................................... 1
+2. Objectives of the Implementation Guidance: ............................................................................. 2
+3. IFRS 9 Implementation Governance .......................................................................................... 2
+4. ECL Framework ........................................................................................................................... 6
+5. ECL Measurement Framework................................................................................................. 12
+6. ECL Model Validation Framework .......................................................................................... 15
+7. Interest Recognition .................................................................................................................... 17
+8. Disclosure Requirements ............................................................................................................ 17
+9. Temporary Treatment of Differences between ECL Allowance and Regulatory Provision 17
+10. Transitional Arrangements ........................................................................................................ 18
+Annexes .............................................................................................................................................. 20
+
+--- Page 11 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+Page 1 of 29
+
+1. Introduction
+1.1 According to the section 38 of Bank Company Act, 1991 and section 44 of Financial
+Reporting Act, 2015, as a “Public Interest Entity”, all the scheduled banks must comply
+with the conceptual framework for financial reporting as well as International Financial
+Reporting Standards (IFRS).
+
+1.2 This guidance is the minimum requirements for implementing IFRS 9 Financial
+Instruments for scheduled banks. This Implementation Guidance is not intended to
+cover all areas of IFRS 9. Instead, it focuses on critical areas of the accounting
+standard that are fundamental tobanks‟effective credit risk management, model
+development and model risk management, and compliance risk management. This
+implementation Guidance is not intended to replace IFRS 9 but is intended to
+complement it.
+
+1.3 This Implementation Guidance shall be applied to the funded and non-funded credit
+facilities by January 2028. The application of this Guidance to all other financial
+instruments under IFRS 9, such as investment securities, shall be adopted by January
+2029.
+
+1.4 IFRS 9 became effective for accounting periods beginning on or after January 1, 2018.
+The standard outlines the recognition, measurement, and financial reporting
+requirements for financial instruments, namely, financial instruments measured at
+amortized cost (e.g. loans and investment securities) or fair value through other
+comprehensive income (e.g. investment securities), accounts receivable, and off-
+balance sheet credit exposures (e.g. undrawn loan commitments and unused lines of
+credit) to which the standard apply.
+
+1.5 IFRS 9 uses an expected credit loss (ECL) approach in estimating allowances for credit
+losses for financial instruments. Expected credit losses are the results of financial
+models driven by data and experienced credit judgment both of which are integrated
+with forward-looking analysis. As prerequisites, banks are required to have access to
+appropriate, relevant, and timely data; experienced credit judgement; and integrable and
+justifiable forward-looking analysis.
+
+1.6 The appropriateness of banks‟ credit risk management infrastructure will influence the
+adequacy of their ECL estimates. As such, the frameworks for implementing IFRS 9
+must be preceded by strong credit risk management infrastructures. Such infrastructures
+should comprise equally effective credit risk assessment, identification, and rating
+methodologies, credit risk classification and monitoring systems, timely identifiable
+and executable delinquency management and write off directives, and meaningful
+collateral valuation and recovery solutions.
+
+1.7 The Basel Committee on Banking Supervision issued Guidance on Credit Risk and
+Accounting for Expected Credit Losses in December 2015. The Guidance provides
+sound principles for banks to adopt in establishing a comprehensive and effective
+
+--- Page 12 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+Page 2 of 29
+
+framework for appropriately accounting for their credit exposures and estimating ECL.
+Accordingly, the Supervisor recommends banks, to which this Implementation
+Guidance
+applies,
+to
+adopt
+the
+principles
+contained
+therein
+(https://www.bis.org/bcbs/publ/ d350.pdf provides access to this Guidance).
+
+1.8 The Supervisor recognizes that there are differences in the nature, size, and complexity
+of credit exposures and credit risk across banks. As such, the Supervisor recognizes
+proportionality and anticipates that the methodologies adopted by banks in
+implementing the requirements of IFRS 9 are commensurate and consistent with the
+nature, size, and complexity of their credit risk exposures.
+
+1.9 In case of foreign banks operating in Bangladesh, the ECL framework, including
+governance, followed by Head Office/Group may continue to apply at Branch level.
+However, the application of the framework at the Branch must be performed in the
+Bangladesh context and a local team headed by a key management retains local
+ownership of the framework and will be held accountable for the minimum standards
+established in this Implementation Guidance by Bangladesh Bank.
+
+2. Objectives of the Implementation Guidance:
+The objectives of this Implementation Guidance are to:
+a) Ensure banks take steps to comply with the financial reporting requirements outlined in
+IFRS 9.
+b) Promote transparency, consistency, uniformity, and comparability when reporting
+financial instruments and estimating their expected credit losses for financial reporting
+purposes.
+c) Direct banks to the areas of their credit risk management frameworks that likely require
+enhancements in identifying, measuring, monitoring, controlling, and reporting credit
+risk exposures.
+d) Equip banks with minimum tools necessary to ensure that they develop and implement
+effective model management frameworks for estimating expected credit losses (ECLs).
+e) Complement IFRS 9 by providing supervisory guidance on areas of the accounting
+standards that are otherwise unspecified, undefined or require management to utilize
+significant discretion or judgment.
+
+3. IFRS 9 Implementation Governance
+3.1 Every bank must have a documented ECL framework that is approved by the board of
+directors, and subject to periodic review and updates. Reviews and updates to the
+framework must be conducted at least annually or more frequently when the need
+arises.
+
+3.2 The documented framework should detail the bank‟s approach to implementing the
+requirements of IFRS 9 and the Implementation Guidance. The minimum requirements
+
+--- Page 13 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+Page 3 of 29
+
+of the documented ECL framework are covered specifically in Section 4 of this
+Implementation Guidance but are also indicated in other areas.
+
+3.3 There are multiple stakeholders who must play their roles in developing and
+maintaining effective implementation of the requirements of IFRS 9. These
+stakeholders are components of banks‟ governance frameworks. The board of directors
+and senior management hold ultimate responsibility for ensuring that the institution‟s
+ECL framework is sound, forward-looking, and compliant with regulatory and
+accounting standards. The objective is to ensure that ECL estimates are prudent,
+unbiased, and based on high quality credit risk data and practices consistent with
+regulatory expectations.
+
+3.4 Each bank shall maintain a comprehensive credit risk governance structure that
+supports robust and consistent ECL estimation, including clear segregation of duties,
+defined escalation lines, and independent model oversight. The governance structure
+must be described in the documented ECL framework to facilitate their accountability
+and should include the following, at a minimum. The roles described herein for
+governance stakeholders are not intended to be exhaustive. Banks are expected to
+establish additional responsibilities, when required.
+
+3.4.1 Board of Directors
+
+Board of directors is responsible for:
+
+Overall oversight of the credit risk and ECL governance frameworks.
+Periodically reviewing and approving and recommended enhancements to
+credit risk management policies to ensure consistency with approved risk
+appetite, IFRS 9, and regulatory expectations especially in the areas of credit
+risk underwriting, assessment, classification and rating, forbearance, ECL
+methodologies, write offs and recoveries, and collateral valuation.
+Periodically reviewing and approving a dynamic ECL methodology for
+estimating ECL, consistent with IFRS 9 and this Implementation Guidance.
+Reviewing and interrogating ECL estimates.
+Interrogating and approving, where required, management overlays used in
+estimating ECL.
+Ensuring clear segregation of duties among risk management, finance, and
+internal audit, and require independence of model development, validation,
+and control functions.
+Reviewing the results of model performance and validation assessments and
+pursuing effective and timely resolutions of identified weaknesses, including
+weaknesses identified by internal and external audit, and Bangladesh Bank.
+Ensuring that the bank maintains sufficient human expertise, information
+systems, and data infrastructure to support reliable ECL estimation and
+governance.
+
+--- Page 14 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+Page 4 of 29
+
+3.4.2 Senior Management
+
+Senior Management is responsible for:
+
+Recommending and implementing board approved enhancements to credit
+risk management policies to ensure consistency with approved risk appetite,
+IFRS 9, and regulatory expectations especially in the areas of credit risk
+underwriting, assessment, classification and rating, forbearance, ECL
+methodologies, write offs and recoveries, and collateral valuation etc.
+Developing, documenting, recommending, and implementing the board
+approved ECL methodology for estimating ECL, consistent with IFRS 9 and
+this Implementation Guidance, and translating it into detailed policies,
+procedures, and control structures.
+Developing and implementing a sound control environment with adequate
+systems and procedures, to ensure that ECL estimates aretimely, unbiased,
+reasonable, and appropriate.
+Timely reporting of ECL estimates and other aspects of the bank‟s ECL
+framework to the board of directors and assessing and applying overlays
+based on experienced credit judgment, where required.
+Taking steps to ensure that the performance of ECL models are periodically
+tested and validated, and models are recalibrated periodically or when
+required.
+Timely and effectively resolving weaknesses identified from model
+performance tests, validation, internal and external audit, and Bangladesh
+Bank relating to the ECL framework.
+Ensuring that organizational resources used in estimating ECL are adequate
+and appropriate including ensuring that ECL estimates are conducted by
+well-trained and competent personnel whether the estimates are performed
+internally or outsourced, and technology and data infrastructure are robust.
+Ensuring that data governance policies clearly define data ownership, access
+and usage, quality controls and reconciliation procedures.
+Promoting close coordination among risk management, finance, business,
+and internal-audit functions to ensure consistency of assumptions and data
+used in ECL estimation while preserving independence of model
+development and validation team.
+Providing/organizing training for relevant members of staff who will be
+involved in the ECL model framework and taking steps to ensure that
+relevant staff involved in credit and credit risk management are informed of
+changes in credit risk management policies and practices resulting from
+implementing IFRS 9 and this Implementation Guidance.
+
+3.4.3 Risk Management
+
+Risk Management functions (for example, enterprise-wide risk management,
+credit risk management, and/or support functions such as finance, compliance,
+etc.) should ensure that the ECL framework accurately reflects the bank‟s
+creditrisk profile and operates in accordance with sound risk-management
+
+--- Page 15 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+Page 5 of 29
+
+principles. It should provide independent oversight, challenge, and assurance over
+all components of the ECL process and is responsible for:
+
+Interrogating the robustness of the ECL methodology and practices, and
+adequacy of the ECL estimate. Risk management, as a control function, is
+expected to be independent in the performance of its role. Therefore, risk
+management should be involved in the interrogation of ECL methodologies
+and practices. However, if it was involved in the development of the
+framework, as this would impair its independent assessment, then the
+interrogation function must be delegated to another control function that was
+not involved in the development of the ECL framework.The control function
+with this responsibility should have sufficient stature, authority, and
+resources to challenge decisions that could materially affect the bank‟s risk
+profile or the prudence of its ECL estimates. The risk function should have
+direct and unfettered access to all relevant data, models, systems, and staff
+necessary to carry out these responsibilities.
+Recommending enhancements to credit risk management policies to ensure
+consistency with IFRS 9 and supervisory expectations especially in the areas
+of credit risk underwriting, assessment, classification and rating,
+forbearance, ECL methodologies, write offs, and collateral valuation.
+Reviewing and pursuing the results of model performance tests and model
+validation exercises, internal and external audits, and Bangladesh Bank‟s
+supervisory reviews, especially when these results materially impact the risk
+of the bank.
+Establishing processes for monitoring creditrisk trends, portfolio quality,
+and drivers of changes in ECL. It should prepare independent risk reports to
+senior management and the board of directors highlighting credit exposures,
+concentrations, deteriorating sectors, and deviations from board-approved
+risk appetite of the Bank. These reports should include commentary on
+forward-looking information and stress-testing results relevant to ECL
+sensitivity.
+Maintaining adequate risk modeling capacity including expertise and
+analytical capabilities to fulfill its responsibilities. Personnel engaged in
+ECL oversight should possess skills in creditrisk modeling, portfolio
+analytics, stress testing, and regulatory interpretation. Training programs
+should be conducted regularly to sustain technical competence.
+
+3.4.4 Internal Auditors
+
+Internal auditors are responsible for:
+
+Reviewing the reasonableness, appropriateness, and compliance of the
+documented ECL methodology, practices, and estimates with IFRS 9 and
+this Implementation Guidance considering the robustness of the control
+environment and the ECL framework.
+Identifying, measuring, monitoring, testing and reporting on control
+weaknesses in credit risk management processes relating to credit risk
+
+--- Page 16 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+Page 6 of 29
+
+identification,
+assessment,
+measurement
+and
+rating,
+classification,
+provisioning, recovery, collateral enforcement, and write offs.
+Reviewing the results ofmodel performance tests, model validation exercise,
+andpursuing and evaluating the timely resolution of identified weaknesses
+including weaknesses identified by external audit and Bangladesh Bank.
+Reporting to the board of directors (or its delegated committee) on the
+findings of internal audit of ECL framework highlighting material
+weaknesses and recommended corrective actions.
+Maintaining competent organizational resources (e.g., human and
+informational technology capacity) to effectively execute its oversight
+responsibilities.
+
+3.4.5 External Auditors
+
+External auditors are responsible for continuing to comply with the requirements
+of Section 39 of the Bank-Company Act, 1991, and Rules for External Audit of
+Bank Companies, 2024 and other applicable directives issued by Bangladesh
+Bank.
+
+4. ECL Framework
+4.1 Banks should develop, document, and implement a board approved ECL framework.
+The framework can be documented separately or can be incorporated into the existing
+credit risk management policies. Where the framework is documented separately, it
+must be referenced in the entity‟s credit risk management policies.
+
+4.2 An initial copy of the board approved ECL framework must be submitted to the
+Bangladesh Bank no later than July 15, 2026.
+
+4.3 The ECL framework must be reviewed and updated periodically (at least annually and
+more frequently where required).
+
+4.4 Periodic Board-approved updates to the ECL framework must be submitted to the
+Bangladesh Bank within 60 days of the period-end. Besides, any updates made in
+between the period have to be submitted within 30 days of the updates.
+
+4.5 The following, at a minimum, should be clearly articulated in the documented ECL
+framework:
+
+4.5.1 Definition of Default
+
+Definition of Default should consider both quantitative and qualitative criteria.
+Declassification of exposures by order of any competent authority does not affect
+the credit risk classification of exposures under IFRS 9. The definition of default
+is critical to staging and upgrading exposures. This definition is applicable solely
+for credit risk classification purposes under IFRS 9.
+
+--- Page 17 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+Page 7 of 29
+
+Quantitative Criteria
+
+i. Credit exposures that are 90 days or more past due or credit impaired.
+
+ii. In case of the continuous loans, when repayments are inadequate to cover
+interest capitalized for 90 days or more, they have exceeded their
+approved limitsfor 90 days or more, or their limits have expired for 90
+days or more.
+
+Subjective Criteria
+
+Credit exposures for which credit assessments of their likelihood of full
+repayment are doubtful. Indicators of such likelihood of full repayment
+based on the bank‟s credit experience and experienced credit judgement
+should be documented in the ECL framework. Annex A specifies indicators
+of unlikeliness to pay which are useful to banks in identifying default. Such
+documented indicators are not intended to be exhaustive.
+
+4.5.2 Criteria for Staging and Upgrading Credit Exposures
+
+Criteria for staging and upgrading credit exposures determine how exposures are
+classified for estimating ECL. Staging exposures is critical in determining
+whether to establish 12-month ECL (Stage 1 exposures) or Lifetime ECL (Stages
+2 and 3 exposures).
+
+Staging Credit Exposures
+
+IFRS 9 requires credit exposures to be classified into 3 stages. Criteria of
+staging are as follows:
+
+Stage 1 comprises credit exposures which do not exhibit significant
+increase in credit risk since initial recognition. Banks may elect to utilize
+the high-quality assets practical expedient provided in the accounting
+standard. This election however can only apply to assets that satisfy the
+eligibility requirements specified in the standard.
+
+ii.
+Stage 2 comprises credit exposures which exhibit significant increase in
+credit risk since initial recognition.Credit exposures on which the bank is
+unable to evaluate whether there is significant increase in credit risk
+should be classified in Stage 2 unless they qualify as high-quality assets
+under IFRS 9. Banks must document the justification that these assets are
+high quality assets as defined in the standards. This assessment must be
+available for supervisory review.
+
+iii.
+Stage 3 comprises credit exposures which are in default based on the
+definition in Section 4.5.1 or are credit impaired.
+
+--- Page 18 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+Page 8 of 29
+
+iv.
+The documented ECL framework should specify the criteria for
+classifying exposures into each of the 3 stages and should also show a
+clear and direct alignment between the accounting staging requirements
+and the bank‟s internal credit risk ratings or external credit ratings. This
+alignment will allow banks to plot the migration of exposures in their
+credit rating systems with the migration of exposures in stages. It is
+therefore important for banks to document, define, and periodically review
+(at least annually or more frequently when required) their internal credit
+risk rating methodology to ensure consistency with changes in borrower
+and environmental credit risk characteristics.
+
+Multiple exposures to the same borrower should be staged on an account-
+by-account basis unless there are borrower specific factors that
+demonstrate that all exposures should be categorized in the same stage.
+For example, a borrower with multiple exposures of which one or more
+exposures exhibit significant increase in credit risk or default would
+suggest that there is likely a contagion effect on the remaining exposures.
+The materiality of the exposure with significant increase in credit risk or
+default, in relating to the group of exposures, will impact its contagion on
+the remaining exposures. Therefore, banks should assess the likelihood of
+such contagion effect and separate staging only when there is
+demonstrative evidence that contagion is highly unlikely. For example, an
+exposure may have a separate repayment source for which repayment is
+likely or the exposure with significant increase in credit risk or default is
+immaterial based on the total exposure to the borrower. The same
+principle applies when the borrower has multiple exposures across several
+banks of which one or more exposures exhibit significant increase in
+credit risk or default. The bank should access the likelihood of such
+contagion effect on its own exposure if it has information that the
+borrower has one or more exposures in other banks that exhibit significant
+increase in credit risk or default. Such information may be revealed in the
+ongoing monitoring of an exposure through credit reference, bank
+reference, or other means of credit reporting. Significant increase in credit
+risk or default in one or more exposures in other banks may indicate a
+worsening financial condition or financial distress of the borrower to
+justify the bank to treat its exposure as having significant increase in credit
+risk even if the exposure is performing. If the significant increase in credit
+risk or default in one or more exposures in other banks are material and
+indicate an unlikeliness that the borrower will pay the bank‟s existing
+exposure then the bank should evaluate its exposure for credit impairment.
+
+Upgrading Credit Exposures
+
+It is not unusual for credit exposures to recover from adverse credit
+conditions or experience improvements in their credit risk characteristics.
+This recovery or improvement can result in an upgrade in staging
+classification. Upgrading of credit facilities shall be in accordance with a
+
+--- Page 19 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+Page 9 of 29
+
+policy approved by the Board of Directors. Such upgradation shall be
+carried out by a department that is independent from the credit facility
+review mechanism.
+
+ii.
+Credit exposures that were previously credit impaired and classified as
+Stage 3,and at the time of ECL estimationare no longer assessed as
+impaired, may be upgraded to Stage 2, and credit exposures that were
+previously classified as Stage 2 may be upgraded to Stage 1, if all the
+following apply:
+− All past due amounts have been repaid in full, and the exposure is no
+longer past due (not because of concessions granted);
+− The factors that initially contributed to deterioration in credit risk no
+longer exists; and
+− The exposure has been performing satisfactorily in accordance with
+the terms and conditions of the underlying agreement for a continuous
+period of90 days up to the time of the ECL estimation.
+
+iii.
+The assessments supporting upgrading credit exposures must be
+documented, justifiable, and available for Supervisory review.
+
+iv.
+Multiple credit exposures to a single counterparty should be upgraded
+when all credit exposures satisfy the requirements for upgrade.Banks may
+upgrade parts of the total exposure only where there is justifiable evidence
+to support upgrading those parts. This exception should be used only in
+limited circumstances.
+
+4.5.3 Criteria for Significant Increase in Credit Risk (SICR)
+
+Criteria for SICR determine the migration of credit exposures from Stage 1
+to Stage 2. The bank‟s criteria for determining SICR must be documented
+in the ECL framework. Annex B outlines the minimum triggers for
+significant increase in credit risk. Banks are expected to include their bank-
+specific experiences.
+
+The criteria should be reviewed and updated periodically (at least annually
+or more frequently when required).
+
+Additionally, banks should implement processes and controls to ensure
+timely recognition and action at each reporting date, when SICR have
+occurred. This determination makes a difference between evaluating 12-
+month ECL (Stage 1) or Lifetime ECL (Stage 2) on credit exposures.
+
+The documented criteria for SICR should be based on the bank‟s credit
+experience and experienced credit judgment and comprise both quantitative
+and qualitative criteria. The qualifying criteria should be like those utilized
+by the bank to identify credit exposures that require heightened credit risk
+monitoring or “watch list”. Banks should adjust the capacity of their credit
+
+--- Page 20 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 10 of 29
+
+risk monitoring systems to timely identify exposures that meet the criteria
+for SICR. Such credit risk monitoring systems should have the capacity to
+identify whether the presence of SICR in one exposure is indicative of
+SICR in the related exposures.
+
+IFRS 9 provides a rebuttable presumption that SICR occurs when payments
+are 30 days or more past due. If a bank selects a quantitative criterion
+greater than this backstop then the selection must be justified with relevant,
+appropriate, and documented evidence to support the selection. This
+exception should be used only in limited circumstances.
+
+The criteria for SICR must be determined by the risk of default and not
+based on the risk of loss. Therefore, the presence of credit risk mitigants
+such as collateral does not mitigate the risk of default and should not be
+taken into consideration when evaluating SICR unless the exposure is
+collateral dependent.
+
+4.5.4 Criteria for Credit Impairment
+
+Criteria for Credit Impairment determine whether exposures are
+categorized in Stage 3. The ECL framework should clearly define credit
+impairment, outline the methodology for estimating credit impairment, and
+identify triggers to cause the bank to test exposures for impairment. Such
+triggers are like those described in Annex C – Objective Evidence of
+Impairment. However, banks must develop their own criteria based on the
+nature and complexity of their credit risk exposures and credit
+environment, credit experience, and experienced credit judgement.
+
+Credit impairment triggers must be reviewed and updated periodically (at
+least annually or more frequently when required).
+
+The presence of a trigger does not indicate the presence of credit
+impairment. However, the presence of a trigger should lead to tests for
+credit impairment. Results of such tests should be maintained for
+supervisory review.
+
+4.5.5 Definition and Treatment of Credit Forbearance
+
+Definition and treatment of credit forbearance influence the credit risk
+rating and classification or staging of forborne exposures. Credit
+forbearance occurs when a bank changes the terms and conditions of an
+existing credit agreement or substitutes an existing credit agreement with a
+new credit agreement, because of the financial difficulty of the borrower.
+The act of forbearance would not have been applied under normal
+conditions and as such was implemented to ease the financial difficulty of
+the affected borrower. The documented ECL framework should clearly
+define credit forbearance and evidence of borrowers‟ financial difficulty
+
+--- Page 21 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 11 of 29
+
+that would cause the bank to extend forbearance. Changes in the terms and
+conditions of an existing credit agreement or substitution of an existing
+credit agreement with a new credit agreement for reasons other than the
+financial difficulty of the borrower or deterioration in the borrower‟s credit
+quality are not considered credit forbearance for the purposes of this
+Implementation Guidance. Annex D outlines an indicative and non-
+exhaustive definition of credit forbearance.
+
+Stage 1 credit exposures which have been forborne should migrate to Stage
+2, as the act of forbearance would be the result of SICR.
+
+Stage 2 credit exposures which have been forborne should be evaluated for
+impairment as if the forbearance did not occur. If the evaluations reveal
+that these exposures would have been impaired, then they should migrate to
+Stage 3. However, granting credit concessions to an entire class of financial
+instruments, for reasons including economic shock, may not automatically
+qualify as SICR or credit impairment to warrant staging migration. Such
+circumstances would be determined based on the bank‟s experienced credit
+judgement or tests for credit impairment.
+
+Forborne exposures that were previously credit impaired and classified as
+Stage 3, and at the time of ECL estimation are no longer assessed as
+impaired under the revised terms and conditions, may be upgraded to Stage
+2, and credit exposures that were previously classified as Stage 2 may be
+upgraded to Stage 1, if all the following apply:
+All past due amounts have been repaid in full, and the exposure is no
+longer past due, if it was previously past due;
+The factors that initially contributed to forbearance no longer exists;
+and
+The exposure has been performing satisfactorily (without any
+additional forbearance) in accordance with the revised terms and
+conditions for continuous 12 months up to the time of the ECL
+estimation and this period begins after any grace period extended as
+part of the forbearance has expired.
+
+Banks should limit the number of credit forbearance that can be applied to
+any exposure within a specified period as per Bangladesh Bank‟s
+directives. This limitation must be documented in the ECL framework.
+
+4.5.6 Criteria for Debt Write Off and Recovery
+
+Criteria for Debt Write Off and Recovery should be explicitly documented in the
+ECL framework or otherwise in a separate Debt Write Off and Recovery policy
+embedded in the credit risk management policies following Bangladesh Banks
+directives. The Debt Write Off and Recovery policy, if separate, must be
+referenced in the documented ECL framework. Bank‟s debt write-off criteria
+should be based on their credit experience and experienced credit judgment.
+
+--- Page 22 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 12 of 29
+
+A bank should write off financial instruments when it has no reasonable
+expectations of recovering the contractual cash flows in entirety or portions
+thereof. For example, a bank should write off 70% of an exposure to a financial
+instrument if it intends to enforce the related collateral and expects to recover no
+more than 30% and has no reasonable expectation to recover the remaining 70%.
+
+4.5.7 ECL Measurement Framework
+
+ECL Measurement Framework holistically describes the methodology for
+measuring ECL. The measurement framework should adequately describe the
+data and data requirements, model assumptions (and scenarios, if any), model
+inputs including forward looking information, model design, ECL computational
+framework, model output, model performance tests, model validation
+requirements, and ECL reporting mechanisms. An effective internal control
+environment must permeate the framework. Section 5 of this Implementation
+Guidance provides more details on the minimum requirements for an effective
+ECL measurement framework.
+
+5. ECL Measurement Framework
+5.1 Banks must adopt, document, and implement an appropriate ECL measurement
+methodology that adequately reflects the nature, size, and risk complexity of their credit
+portfolios. Accordingly, banks should engage a robust ECL model framework that will
+produce adequate ECL estimates that appropriately reflect the expected credit losses of
+their credit portfolios.
+
+5.2 ECL estimates are the results of financial models adopted to estimate ECL on credit
+portfolios. These models range from simple to more complex. However, the degree of
+model complexity must be consistent and appropriate with the measurement framework
+documented and proportionate to the size and complexity of the bank. The
+appropriateness of a model should be considered as more important model
+characteristic than complexity.
+
+5.3 Financial models utilized to estimate ECL are extremely data sensitive. Therefore,
+banks should evaluate their data collection, management, and storage capacity to ensure
+that model data is accurate, adequate, and complete. Historical credit data should be
+multi-year and multi-credit cycle to ensure it adequately captures likely credit risk
+patterns, trends, and drivers. Banks shall use no less than 5 years of historical credit risk
+data. Absent data can be substituted with appropriate and relevant proxies. Justification
+for the choice of proxies must be well documented and available for supervisory
+review. The use of proxies must be temporary until the bank collects the actual data.
+Credit risk data must be updated and reviewed at least quarterly or when ECL
+estimation occurs more frequently.
+
+5.4 Banks may elect to internally develop, externally procure, or acquire from their
+overseas parent company or Head Office, a financial model to estimate ECL.
+Irrespective of the model design, consideration should be given to the extent to which
+
+--- Page 23 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 13 of 29
+
+the model can be integrated with bank‟s core banking systems especially for ease of
+data extraction. If models are expected to be maintained separately, then consideration
+must be given to the medium and controls for effective data extraction and transfer to
+the financial models. Also, further consideration should be given to the flexibility of the
+model and capacity to adapt to future changes in credit risk complexities and strategies.
+
+5.4.1 Banks that elect to develop their financial models internally should ensure that
+they possess the requisite competencies and expertise to develop such models.
+If the expertise is outsourced to consultants, bank management shall remain
+accountable to understanding and articulating the model methodology.
+
+5.4.2 Banks that elect to externally procure financial models should ensure that such
+models are customized based on the nature, complexity, and unique
+characteristics of their credit risk data, credit portfolios, and credit
+environments, and credit experience, and are therefore fit for purpose. These
+banks should also ensure that they possess the requisite competencies and
+expertise to facilitate effective model implementation. These minimum
+requirements ensure that model estimates reflect the uniqueness of banks‟ credit
+risk portfolios and credit experience. However, bank management shall be able
+to understand and articulate the model methodology for procured financial
+models.
+
+5.4.3 Banks that adopt their financial models from their overseas parent company or
+Head Office should ensure that such models are customized based on the nature,
+complexity, and unique characteristics of the local Branches credit risk data,
+credit portfolios, credit environments, and credit experience. These banks
+should also ensure that they possess the requisite competencies, expertise, and
+authority to interrogate model estimates and model frameworks. Nevertheless,
+bank management shall be able to understand and articulate the model
+methodology and be aware of model limitations.
+
+5.5 There is no one-type fits all financial model for estimating ECL for all banks.
+Therefore, the bank must select appropriate and relevant model inputs (for example
+probability of default, loss given default, exposure at default, historical loss rates) that
+must be clearly defined in its ECL framework. Additionally, the measurement
+methodology for each input should also be clearly documented in the framework.
+
+5.6 Model inputs may be subject to management overlays based on the bank‟s experienced
+credit judgment. Management overlays, when utilized, must be reasonable, relevant,
+and appropriate, and the justification supporting the use of overlays must be
+documented for supervisory review. Overlays should be approved by the board of
+directors. The definition of materiality and the criteria for overlays to be referred for
+board approval should be documented in the ECL framework. The reasons for
+management overlays should be integrated in future model inputs to minimize future
+use and frequency of overlays.
+
+--- Page 24 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 14 of 29
+
+5.7 It is highly likely that ECL models will be driven by key assumptions which will be
+integrated into model inputs. Model assumptions must be relevant, reasonable,
+appropriate, and reflect the bank‟s experienced credit judgment. Model assumptions
+should be unbiased and not overly optimistic or pessimistic. Model assumptions must
+be documented in the ECL framework and subject to periodic review and update (at
+least annually or more frequently when required).
+
+5.8 Forward Looking Information (FLI)
+
+5.8.1 Model inputs must reflect historical, current, and Forward-Looking Information
+(FLI). Banks should utilize no less than 5 years of historical data.
+
+5.8.2 FLIs should incorporate macroeconomic variables that are appropriate and
+relevant in determining ECL of banks‟ credit portfolios. Banks should identify
+and document FLIs that are incorporated in their ECL estimates. This
+information can be derived internally or externally sourced.
+
+5.8.3 Banks should document the methodology and provide evidence to support their
+derivation of internally generated FLIs or externally sourced FLIs from credible
+sources that are known to produce expert estimates.
+
+5.8.4 Banks should avoid biased selection of sources from which the use of their FLIs
+is for the sole purpose of underreporting their ECL estimates. As a result, any
+change in information sources from one reporting period to the next must be
+justified and documented for supervisory review.
+
+5.8.5 Banks that internally derive their FLIs must have the competencies and
+expertise to do so.
+
+5.8.6 The relevance of selected FLIs should be assessed periodically (at least
+quarterly or more frequently when required) to determine whether they remain
+consistent influencers or credit risk drivers.
+
+5.9 Banks using a probability weighted approach in determining their ECL estimates
+should consider at least 3 scenarios (for example, worst case, normal, and best case).
+Probability assessments and measurements must be well documented and subject to
+supervisory review.
+
+5.10 Banks may estimate ECL on groups of credit exposures. For such purposes, groups
+must be formed based on common/shared credit risk characteristics. Such
+characteristics must permeate the respective groups that are created such that changes
+in those characteristics should affect the ECL estimate of the group. Such
+characteristics may include collateral type, product type, customer type, market
+segment, borrower characteristics, etc. Common/shared credit risk characteristics of
+groups of credit exposures must be reviewed periodically (at least annually or more
+frequently when required) to determine whether their presence remain as a common
+
+--- Page 25 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 15 of 29
+
+credit risk driver and the group remains relevant. Otherwise, the group of credit
+exposures must be adjusted.
+
+5.11 Banks are required to estimate ECL on a quarterly basis or more frequently when they
+have the capacity to do so. ECL estimates may be subject to management overlays
+based on its experienced credit judgment. Management overlays, when utilized, must
+be reasonable, relevant, and appropriate, and their justifications must be documented
+for supervisory review.
+
+5.12 Model Performance Test
+
+5.12.1 Banks should periodically evaluate the performance of their ECL models. Model
+performance tests must be conducted at least annually or more frequently when
+required.
+
+5.12.2 The documented ECL frameworks should clearly describe the types of model
+performance tests to be conducted and specify minimum benchmarks or standards
+for test results.
+
+5.12.3 The results of model performance tests should be shared with the board of
+directors and timely actioned to ensure improved model performance. Model
+results should be documented to facilitate tracking. The results of model
+performance tests should also be available for supervisory review.
+
+5.12.4 Banks may elect to adopt any model testing technique if this technique is
+determined to be robust and consistent with the characteristics and complexity of
+their ECL measurement frameworks.
+
+5.12.5 There is no requirement for personnel performing model performance tests to be
+independent of the model development, implementation, and estimation
+processes.
+
+5.12.6 The frequency, methodology, and reporting results of model performance tests
+must be documented in the ECL framework.
+
+6. ECL Model Validation Framework
+6.1 Banks are required to validate their model frameworks at least annually or more
+frequently when required. However, Banks must validate their model after initial model
+development within 2027.
+
+6.2 Model validation involves an independent review of the bank‟s entire model framework
+to determine its robustness, comprehensiveness, and appropriateness to produce
+adequate ECL estimates considering the nature, size, and complexity of its credit risk
+exposures and credit risk experience.
+
+--- Page 26 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 16 of 29
+
+6.3 The validation process not only verifies that the model framework is fit for purpose, but
+also that it is performing as intended, and is consistent with IFRS 9 and this
+Implementation Guidance.
+
+6.4 The scope for the validation process encompasses the breadth of the model framework
+including the model data, assumptions, inputs, design, computation, output,
+performance, governance, and controls.
+
+6.5 The model validation process and methodology must be documented and updated
+periodically (at least annually or more frequently when required).
+
+6.6 Model validators must be competent and possess relevant professional experience and
+expertise to perform the validation exercise.
+
+6.7 Any engagement with model validators should clearly specify contractually that they
+are also accountable to Bangladesh Bank in their validation function.
+
+6.8 Model validators must not be involved in the development of the model.
+
+6.9 Banks must notify Bangladesh Bank prior to the engagement of model validators to
+determine whether Bangladesh Bank objects to the appointment. The notification must
+be accompanied by evidence of the validator‟s competence and professional
+experience.
+
+6.10 The results of model validation exercises should be shared with the board of directors
+and recommendations for improvements should be timely actioned to ensure the
+adequacy of ECL estimates.
+
+6.11 The results of the model validation exercise should also be submitted to Bangladesh
+Bank by the model validators no later than 30 days after completing the exercise.
+
+6.12 Banks will have an additional 30 days to submit an action plan to Bangladesh Bank to
+remediate deficiencies identified or adopt the recommendations made by the model
+validator.
+
+6.13 Banks shall submit periodic progress reports which track its progress to satisfy the
+agreed upon resolution deadline. The frequency or deadline for submission of progress
+reports will be determined by Bangladesh Bank on a case-to-case basis depending on
+the severity of the deficiencies.
+
+6.14 The frequency and reporting of results of model validation exercises must be
+documented in the ECL framework.
+
+--- Page 27 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 17 of 29
+
+7. Interest Recognition
+Banks shall recognize interest on Stage 1 and Stage 2 exposures based on the interest revenue
+calculated on the gross carrying amount (i.e. without deducting expected credit losses) on
+Stage 1 and Stage 2 exposures. While, interest income on Stage 3 exposures shall be
+calculated on the net carrying amount (i.e. after deducting expected credit losses on Stage 3
+exposures.
+8. Disclosure Requirements
+8.1 Banks will be required to comply with disclosure requirements under IFRS 7 –
+Financial Instruments: Disclosures.
+
+8.2 Banks must submit a statement of changes of their opening and closing ECL allowance
+balances at the end of each quarter, to Bangladesh Bank no later than 30 days after each
+quarter.
+
+8.3 The statement of changes must clearly illustrate the deterioration and up gradation of
+credit exposures between stages, write off of uncollectible exposures, recovery of
+written off uncollectible exposures, model adjustments, or any other factor that
+contributed to the change in ECL allowance during the quarter. Reporting templates are
+provided in Annex E.
+
+8.4 Banks must submit a reconciliation of their ECL Allowance to their regulatory
+provisions to clearly identify additional regulatory provisions. Additional regulatory
+provisions must be calculated based on Section 9 of this Implementation Guidance.
+Reporting templates are provided in Annex F.
+
+8.5 Bangladesh Bank may specify other disclosure requirements from time to time.
+
+9. Temporary Treatment of Differences between ECL Allowance and Regulatory
+Provision
+9.1 Banks should maintain the higher of IFRS 9 ECL allowance and regulatory provision
+(estimated under BRPD Circular No. 15 Master Circular: Loan Classification and
+Provisioning and its subsequent modifications) for loans and off-balance sheet credit
+losses as follows, until advised otherwise by Bangladesh Bank:
+
+If IFRS 9 ECL allowance is greater than regulatory provisions, then banks should
+maintain their ECL allowance in accordance with IFRS 9.
+
+ii.
+If IFRS 9 ECL allowance is less than regulatory provisions, then banks should
+maintain their ECL allowance in accordance with IFRS 9 and the additional
+provisions needed to meet regulatory requirement should be included in a Loan
+Loss Reserve account that is treated as a component of shareholders' equity.
+
+--- Page 28 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 18 of 29
+
+9.2 The Loan Loss Reserve is an equity account that is funded through the appropriation of
+retained earnings. It should not be treated as an expense in the income statement. The
+Loan Loss Reserve account should be maintained as a non-distributable reserve and as
+such is not available for distribution as dividends to shareholders. Any reduction in the
+Loan Loss Reserve account caused by a reduction in regulatory provisions should be
+transferred to retained earnings and should not be reflected in the income statement.
+
+9.3 Annex G provides an illustrative example of this treatment.
+
+10. Transitional Arrangements
+
+10.1 Calculation of Regulatory Capital
+10.1.1 Banks may elect to use the following transitional arrangements to minimize the
+Day 1 impact of adopting IFRS 9 ECL provisions on retained earnings and
+ultimately Common Equity Tier 1 (CET1) Capital.
+
+10.1.2 Banks are permitted to adopt a static approach when adjusting the impact of
+any unamortized DAY 1 IFRS 9 ECL provision on CET1 Capital due to the
+impact on retained earnings. Banks shall amortize this impact of DAY 1 IFRS 9
+ECL provisions on CET1 Capital over 5 years from the initial date of adopting
+IFRS 9. As such, banks will add back any unamortized DAY 1 IFRS 9 ECL
+provisions annually to their CET1 Capital based on the following:
+
+Year
+% of Impact to add back to
+CET1 Capital
+95%
+85%
+70%
+50%
+25%
+6 & Onwards
+
+10.1.3 Annex H provides an illustrative example.
+
+10.1.4 Bank that elects to opt out of the transitional arrangements at the time of
+adopting IFRS 9 will not be permitted to adopt such arrangements at a later
+date.
+
+10.2 Calculation of Credit Risk-weighted Assets
+
+Since IFRS 9 does not distinguish between specific and general provisions, ECL
+provisions on Stages 1 and 2 exposures should be treated as general provisions, and
+ECL provisions on Stage 3 exposures should be treated as specific provisions, for
+regulatory capital purposes. A bank‟s computation of credit risk weighted assets will
+remain unchanged i.e., specific provisions netted against the exposure when
+determining credit risk weighted assets and general provisions are in included in Tier 2
+capital.
+
+--- Page 29 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 19 of 29
+
+
+10.3 Disclosure Requirements related to Regulatory Capital
+
+10.3.1 Banks should disclose their regulatory capital components without the
+transitional arrangements, and after the transitional adjustments. This permits a
+comparison between regulatory capital components to demonstrate the effect of
+the transitional arrangements.
+
+10.3.2 Similarly, Banks should also calculate their capital adequacy metrics such as
+CET1, Tier 1, Tier 1 Leverage, and Total Regulatory Capital ratios, based their
+CET1 capital after the transitional adjustments. All related regulatory capital
+decisions should be based CET1 capital after the transitional adjustments until
+the transitional arrangements expire.
+
+--- Page 30 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 20 of 29
+
+ANNEXES
+
+ANNEX A – INDICATORS OF UNLIKELINESS TO PAY
+Paragraph 36.69 of the Basel Framework states that (any one of) the elements to be taken as
+indications of unlikeliness to pay include:
+1. The bank puts the credit obligation on non-accrued status.
+
+2. The bank makes a charge-off or account-specific provision resulting from a significant
+perceived decline in credit quality subsequent to the bank taking on the exposure.
+
+3. The bank sells the credit obligation at a material credit-related economic loss.
+
+4. The bank consents to a distressed restructuring of the credit obligation where this is likely to
+result in a diminished financial obligation caused by the material forgiveness, or
+postponement, of principal, interest or (where relevant) fees.
+
+5. The bank has filed for the obligor‟s bankruptcy or a similar order in respect of the obligor‟s
+credit obligation to the banking group.
+
+6. The obligor has sought or has been placed in bankruptcy or similar protection where this
+would avoid or delay repayment of the credit obligation to the banking group.
+
+--- Page 31 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 21 of 29
+
+ANNEX B – MINIMUM INDICATORS OF SIGNIFICANT INCREASE IN CREDIT RISK
+1. Significant changes in internal price indicators of credit risk as a result of a change in
+credit risk since inception.
+2. Other changes in the rates or terms of an existing financial instrument that would be
+significantly different if the instrument was newly originated or issued at the reporting
+date (such as more stringent covenants, increased amounts of collateral or guarantees, or
+higher income coverage) because of changes in the credit risk of the financial instrument
+since initial recognition.
+3. Significant changes in external market indicators of credit risk for a particular financial
+instrument or similar financial instruments with the same expected life.
+4. An actual or expected significant change in the financial instrument‟s external credit
+rating.
+5. An actual or expected internal credit rating downgrade for the borrower or decrease in
+behavioural scoring used to assess credit risk internally. Internal credit ratings and
+internal behavioural scoring are more reliable when they are mapped to external ratings
+or supported by default studies.
+6. Existing or forecast adverse changes in business, financial or economic conditions that
+are expected to cause a significant change in the borrower‟s ability to meet its debt
+obligations, such as an actual or expected increase in interest rates or an actual or
+expected significant increase in unemployment rates.
+7. An actual or expected significant change in the operating results of the borrower.
+Examples include actual or expected declining revenues or margins, increasing operating
+risks, working capital deficiencies, decreasing asset quality, increased balance sheet
+leverage, liquidity, management problems or changes in the scope of business or
+organizational structure (such as the discontinuance of a segment of the business) that
+results in a significant change in the borrower‟s ability to meet its debt obligations.
+8. Significant increases in credit risk on other financial instruments of the same borrower.
+9. An actual or expected significant adverse change in the regulatory, economic, or
+technological environment of the borrower that results in a significant change in the
+borrower‟s ability to meet its debt obligations, such as a decline in the demand for the
+borrower‟s sales product because of a shift in technology.
+10. Significant changes in the value of the collateral supporting the obligation or in the
+quality of third-party guarantees or credit enhancements, which are expected to reduce
+the borrower‟s economic incentive to make scheduled contractual payments or to
+otherwise have an effect on the probability of a default occurring.
+
+--- Page 32 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 22 of 29
+
+11. A significant change in the quality of the guarantee provided by a shareholder (or an
+individual‟s parents) if the shareholder (or parents) have an incentive and financial ability
+to prevent default by capital or cash infusion.
+12. Significant changes, such as reductions in financial support from a parent entity or other
+affiliate or an actual or expected significant change in the quality of credit enhancement,
+that are expected to reduce the borrower‟s economic incentive to make scheduled
+contractual payments.
+13. Expected changes in the loan documentation including an expected breach of contract
+that may lead to covenant waivers or amendments, interest payment holidays, interest rate
+step-ups, requiring additional collateral or guarantees, or other changes to the contractual
+framework of the instrument.
+14. Significant changes in the expected performance and behaviour of the borrower,
+including changes in the payment status of borrowers in the group (for example, an
+increase in the expected number or extent of delayed contractual payments or significant
+increases in the expected number of credit card borrowers who are expected to approach
+or exceed their credit limit or who are expected to be paying the minimum monthly
+amount).
+15. Changes in the entity‟s credit management approach in relation to the financial
+instrument; i.e. based on emerging indicators of changes in the credit risk of the financial
+instrument, the entity‟s credit risk management practice is expected to become more
+active or to be focused on managing the instrument, including the instrument becoming
+more closely monitored or controlled, or the entity specifically intervening with the
+borrower.
+16. Past Due information including the rebuttable presumption.
+17. A significant change in the geographical locations or natural catastrophes that directly
+impact the performance of a customer/group of customers or an instrument.
+18. The borrower is subject to litigation that significantly affects the performance of the
+credit facility.
+19. The borrower is deceased.
+20. Bank is unable to contact or find the borrower.
+21. Unavailable/inadequate financial information/financial statements.
+22. If the credit facilities are not utilized properly.
+23. Fund diversion.
+
+--- Page 33 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 23 of 29
+
+ANNEX C – OBJECTIVE EVIDENCE OF IMPAIRMENT
+
+According to IAS 39 Financial Instruments: Recognition and Measurement objective
+evidence of impairment refers to „observable data‟ regarding the impact of the occurrence of one
+or more loss events on the estimated future cash flows of a financial instrument or group of
+financial instruments. The impact on estimated future cash flows can be “reliably estimated”.
+Banks may use their experienced credit judgement when estimating the impact of loss events on
+future cash flows. This judgment does not minimize the reliability of the estimate if it is
+justifiable. Loss events must occur after initial recognition of the financial instrument and should
+not include future loss events despite their likelihood of occurrence. Loss events may include:
+1. Significant financial difficulty of the borrower. A credit rating downgrade of a borrower
+may not be considered evidence of impairment unless aggregated with other information;
+2. A breach of contract, such as a default or delinquency in interest or principal payments;
+3. Granting concession to the borrower due to its financial difficulty;
+4. It becoming probable that the borrower will enter bankruptcy or other financial
+reorganization; or
+5. Observable data indicating that there is a measurable decrease in the estimated future
+cash flows from a group of financial instruments since the initial recognition of those
+instruments, although the decrease cannot yet be identified with the individual financial
+instruments in the group, including:
+Adverse changes in the payment status of borrowers in the group (for example, an
+increased number of delayed payments or an increased number of credit card
+borrowers who have reached their credit limit and are paying the minimum
+monthly amount); or
+ii.
+National or local economic conditions that correlate with defaults on the financial
+instruments in the group (for example, an increase in the unemployment rate in
+the geographical area of the borrowers, a decrease in property prices for
+mortgages in the relevant area, a decrease in oil prices for loan assets to oil
+producers, or adverse changes in industry conditions that affect the borrowers in
+the group).
+
+--- Page 34 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 24 of 29
+
+ANNEX D – DEFINITION OF CREDIT FORBEARANCE
+
+According to the Basel Committing on Banking Supervision, credit forbearance occurs when:
+
+a) A borrower is experiencing financial difficulty at the time the forbearance is to be granted;
+and
+
+b) A bank grants a concession that it would not otherwise consider. A concession refers to
+any change in the conditions of an existing credit agreement by giving more favorable
+terms to a borrower; granting a supplementary agreement or new contract to refinance the
+current exposure; or allowing the borrower to exercise a contractual right to change any
+term or condition of the existing agreement, obtain additional loans, or off-balance sheet
+credits because of their financial difficulty.
+
+Indicators of financial difficulty
+
+The Basel Committee on Banking Supervision cites the following as examples of indicators of
+financial difficulty:
+
+1. A borrower is currently past due on any of its material exposures.
+2. A borrower is not currently past due, but it is probable that the borrower will be past due
+on any of its material exposures in the foreseeable future without the concession, for
+instance, when there has been a pattern of delinquency in payments on its material
+exposures.
+3. A borrower‟s outstanding securities have been delisted, are in the process of being
+delisted, or are under threat of being delisted from an exchange due to non-compliance
+with the listing requirements or for financial reasons.
+4. If, based on actual performance and estimated and projections of the borrower‟s current
+capabilities, the bank forecasts that all the borrower‟s committed/available cash flows
+will be insufficient to service all its loans or debt securities (both interest and principal) in
+accordance with the contractual terms of the existing agreement for the foreseeable
+future.
+5. A borrower‟s existing exposures are categorized as exposures that have already
+evidenced difficulty repaying in accordance with regulatory credit risk classification
+criteria in force or the bank‟s internal credit rating system.
+6. A borrower is in non-performing status or would be categorized as non-performing
+without concessions.
+7. The borrower cannot obtain funds from sources other than the existing bank at an
+effective interest rate equal to the current market interest rate for similar loans or debt
+securities for a non-troubled counterparty.
+
+This list is not intended to be exhaustive.
+
+--- Page 35 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 25 of 29
+
+Examples of concessions
+
+The Basel Committee on Banking Supervision cites the following as examples of concessions
+that could be granted to a borrower experiencing financial difficulty:
+
+Extending the loan term;
+Rescheduling the dates of principal or interest payments;
+Granting new or additional periods of non-payment (grace period);
+Reducing the interest rate, resulting in an effective interest rate below the current interest
+rate that counterparties with similar risk characteristics could obtain from the same or
+other institutions in the market;
+Capitalizing arrears;
+Forgiving, deferring or postponing interest or relevant fees;
+Changing an amortizing loan to an interest payment only;
+Releasing collateral or accepting lower levels of collateralization;
+Allowing the conversion of debt to equity of the counterparty;
+10. Deferring recovery/collection actions for extended periods of time; and
+11. Easing of covenants.
+
+This list is not intended to be exhaustive.
+
+--- Page 36 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 26 of 29
+
+ANNEX E – STATEMENT OF CHANGES OF ECL ALLOWANCE ON CREDIT FACILITIES
+
+
+STAGE 1 Provisions
+STAGE 2 Provisions
+STAGE 3 Provisions
+Total ECL Provisions
+
+12-month ECL
+Lifetime ECL
+Lifetime ECL
+
+ECL Allowance as of 1 January 20-XX
+
+
+
+
+Transfers:
+
+
+
+
+From Stage 1 to Stage 2
+
+
+
+
+From Stage 1 to Stage 3
+
+
+
+
+From Stage 2 to Stage 3
+
+
+
+
+From Stage 3 to Stage 2
+
+
+
+
+From Stage 3 to Stage 1
+
+
+
+
+From Stage 2 to Stage 1
+
+
+
+
+Newly originated or purchased Loans,
+Increase in exposure
+
+
+
+
+Loan repayments
+
+
+
+
+Loans derecognized
+
+
+
+
+Changes in model parameters
+
+
+
+
+Changes due to management overlays
+
+
+
+
+Changes in foreign exchange rate
+(FX related exposures)
+
+
+
+
+ECL Allowance as of 31 March 20-XX
+
+--- Page 37 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 27 of 29
+
+ANNEX F – RECONCILIATION OF ECL ALLOWANCE AND REGULATORY PROVISION
+ON CREDIT FACILITIES
+
+
+
+TOTAL
+Regulatory Provisions as of 1 January 20-XX
+
+
+Specific Provisions:
+
+
+Substandard
+
+Doubtful
+
+Bad/Loss
+
+Total Specific Provisions
+
+
+
+
+
+General Provisions:
+
+
+Standard
+
+Non-funded facilities
+
+Total General Provisions
+
+
+Total Regulatory Provisions (A)
+
+
+
+
+
+ECL Allowance as of 1 January 20-XX
+
+
+Stage 1 ECL Allowance
+
+Stage 2 ECL Allowance
+
+Stage 3 ECL Allowance
+
+Total ECL Allowance (B)
+
+
+
+
+
+Loan Loss Reserve [Max (A – B; 0)]
+
+--- Page 38 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments Page 28 of 29
+
+ANNEX G – ILLUSTRATIVE EXAMPLE OF TEMPORARY TREATMENT OF DIFFERENCES
+BETWEEN ECL ALLOWANCE AND REGULATORY PROVISION
+
+Scenario 1: When IFRS 9 ECL Allowance is greater than Regulatory Provision for Credit
+Losses
+On January 1, 20-XX, Bank A had IFRS 9 ECL Allowance of BDT 63 billion on funded facilities
+and BDT 2 billion on non-funded facilities. Bank A also had regulatory provision of BDT 61 billion
+(aggregate of funded and non-funded facilities).
+
+On March 31, 20-XX, Bank A estimated IFRS 9 ECL Allowance of BDT 65 billion on funded
+facilities and BDT 2.5 billion on non-funded facilities. Bank A also estimated regulatory provision of
+BDT 64 billion (aggregate of funded and non-funded facilities).
+
+Accounting Treatment on March 31, 20-XX: Bank A should maintain the higher of the two
+provision standards which is IFRS 9 ECL Allowance of BDT 67.5 billion. No Loan Loss Reserve is
+required since IFRS 9 ECL Allowance exceeds regulatory requirement.
+
+
+BDT billion
+BDT billion
+ECL Provision expense
+2.5
+
+ECL Allowance – Loans and Advances
+
+2.0
+ECL Allowance – Other Liabilities (non-funded facilities)
+
+0.5
+[To comply with IFRS 9 requirement]
+
+
+Scenario 2: When IFRS 9 ECL Allowance is less than Regulatory Provision for Credit Losses
+On January 1, 20-XX, Bank A had IFRS 9 ECL Allowance of BDT 63 billion on funded facilities
+and BDT 2 billion on non-funded facilities. Bank A also had regulatory provisions of BDT 61
+billion (aggregate of funded and non-funded facilities).
+
+On March 31, 20-XX, Bank A estimated IFRS 9 ECL Allowance of BDT 65 billion on funded
+facilities and BDT 2.5 billion on non-funded facilities. Bank A also estimated regulatory provisions
+of BDT 69 billion (aggregate of funded and non-funded facilities).
+
+Accounting Treatment on March 31, 20-XX: Bank A should maintain the higher of the 2 provision
+standards which is regulatory provision of BDT 69 billion. Bank A must continue to comply with
+IFRS 9 but must also account for the regulatory provision shortfall (Loan Loss Reserve). The
+regulatory provision shortfall arises from regulatory provision exceeding IFRS 9 ECL Allowance.
+
+
+BDT billion
+BDT billion
+ECL Provision expense
+2.5
+
+ECL Allowance – Loans and Advances
+
+2.0
+ECL Allowance – Other Liabilities (non-funded facilities)
+
+0.5
+[To comply with IFRS 9 requirement]
+
+
+Retained Earnings
+1.5
+
+Loan Loss Reserve (i.e., BDT 69 billion – BDT 67.5 billion)
+
+1.5
+[To comply with regulatory provision requirement shortfall]
+
+--- Page 39 ---
+Guidance For Banks in Implementing IFRS 9 Financial Instruments
+
+Page 29 of 29
+
+ANNEX H – ILLUSTRATIVE EXAMPLE OF TRANSITIONAL ARRANGEMENTS
+Bank A has CET1 capital of 70,000 and credit loss provisions of 1,200 as of December 31, 20-X0, prior to adopting IFRS 9. Bank A
+requires IFRS 9 expected credit loss provisions at the point of transition on January 1, 20X1, of 1,500. Thereafter ECL provisions
+increases to 1,800, 2,050, 2,250, 2,400, and 2,425 over the next 5 years. Suppose that, Bank A‟s tax rate is 25%. The bank is
+permitted to transition the impact of DAY 1 IFRS 9 provisions for regulatory capital adequacy purposes over the next 5 years.
+
+1. Fully Loaded impact on CET1 Capital at the point of transition:
+
+
+CET1
+Capital
+Description
+CET1 capital as of 31 December 20X0
+
+70,000
+
+Impact on retained earnings from adopting
+IFRS 9 (1,500 - 1,200)
+(300)
+
+Reduction in retained earnings
+Deferred tax asset resulting from the impact on
+retained earnings (300 * 0.25)
+75
+
+Resulting from a temporary difference between
+expected (IFRS 9) and incurred loss (tax) provisions
+
+
+(225)
+IFRS 9 DAY 1 Impact on regulatory Capital resulting
+from the impact on retained earnings
+CET1 capital as of 1 January 20X1
+
+69,775*
+Fully loaded CET1 Capital
+* Since this is an illustration, deferred tax adjustments have not been considered for simplicity. Bank should follow BB directives on
+deferred tax adjustments while calculating CET1 capital.
+
+2. Transitional impact on CET1 Capital over regulatory-specified period:
+
+IFRS 9 Provision
+at Reporting date
+Fully loaded CET1 Capital
+[B=Bt-1– (A – At-1) * 0.75]
+Transition
+relief over 5
+years
+Transition adjustment
+added back to CET1
+capital
+(D = 225 * C)
+CET1 Capital
+after transition
+adjustment
+(E = B + D)
+January 1, 20X1
+1,500
+69,775.00
+95%
+213.75
+69,988.75
+January 1, 20X2
+1,800
+69,550.00
+85%
+191.25
+69,741.25
+January 1, 20X3
+2,050
+69,362.50
+70%
+157.50
+69,520.00
+January 1, 20X4
+2,250
+69,212.50
+50%
+112.50
+69,325.00
+January 1, 20X5
+2,400
+69,100.00
+25%
+56.25
+69,156.25
+January 1, 20X6
+2,425
+69,081.25
+69,081.25

@@ -1,0 +1,1363 @@
+--- Page 1 ---
+www.bb.org.bd
+Payment Systems Department
+Bangladesh Bank
+Head Office
+Dhaka.
+
+
+30 July, 2018
+PSD Circular No: 04/2018 Date: -------------------------
+15 Shrabon, 1425
+
+
+
+Managing Directors/Chief Executive Officers
+All Scheduled Banks/MFS Subsidiary in Bangladesh
+
+
+
+Dear Sir,
+
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018
+
+
+As per Section 7A(e) and section 82 of the Bangladesh Bank Order 1972 and
+Section 26 (cha) of the Bank Companies Act ,1991 (amended in 2013), Bangladesh Bank has
+issued the regulations titled "Bangladesh Mobile Financial Services (MFS) Regulations,
+2018". The new regulations will replace the previously issued "Guidelines on Mobile
+Financial Services for the Banks" and shall come into effect immediately.
+
+
+The regulations can be collected from the official website of Bangladesh Bank.
+
+
+Please acknowledge receipt.
+
+
+Enclosure:
+Bangladesh Mobile
+Financial Services (MFS)
+Regulations, 2018.
+Sincerely Yours,
+
+
+
+
+(Lila Rashid)
+General Manager
+Payment Systems Department
+Phone: 02-9530174
+E-mail: lila.rashid@bb.org.bd
+
+--- Page 2 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 1 of 12
+
+1.0
+Introduction
+
+
+
+The financial sector in Bangladesh is continuously growing in response to the evolving
+needs of the growing economy. Despite impressive gains in capital base, per capita
+income and other areas, the financial sector remains lagging in reaching out with
+adequate financial services for economic activities of low income rural and urban
+population in Bangladesh. Rapid expansion of mobile phone users, modernization of
+payments and financial system based on IT infrastructure, country-wide reach of
+mobile operators network have opened up the opportunities for innovating cost
+efficient and prompt Mobile Financial Services (MFS) especially for the underserved,
+un-banked/under-banked and low income group of population.
+
+Since the inception of MFS in 2011, Bangladesh experienced a robust growth in
+number of account holders, volume and amount of transactions in MFS. With a view to
+providing an orderly, enabling and competitive environment for optimal utilization of
+the new windows of opportunity for extension of the traditional financial services, the
+Board of Directors of Bangladesh Bank (BB), in terms of Section 7A(e) and section 82
+of the Bangladesh Bank Order 1972, and in terms of Section 26 (cha) of Bank
+Companies Act ,1991 (amended in 2013), has decided to issue Bangladesh MFS
+Regulations 2018 replacing the Guidelines on MFS for Banks, issued in September
+2011 and its subsequent amendments. The new MFS Regulations will be in effect
+along with the Bangladesh Payment and Settlement Systems Regulations, 2014 or any
+other law(s) shall come into effect regarding these regulations.
+
+2.0
+Purposes
+
+
+
+The purposes of these Regulations are to:
+
+
+
+Provide regulatory framework to create an enabling and competitive
+environment to cater cost efficient and prompt MFS;
+
+
+
+(ii) Promote access to formal financial services at an affordable cost, especially for
+the poor and unbanked population segments; and
+
+
+
+(iii) Ensure compliance with Anti Money Laundering and Combating Financing of
+Terrorism (AML/CFT) standards set by AML/CFT rules, regulations,
+guidelines and instruction issued by Bangladesh Financial Intelligence Unit
+(BFIU).
+
+3.0
+Definitions
+
+
+
+
+
+
+Agent/ Retail Agent/ Authorized Agent: An entity authorized by a bank/MFS
+provider to carry out financial transactions for mobile financial services on behalf
+of the bank/MFS provider.
+
+
+
+
+
+
+Bank-led MFS Model: Bank-led MFS is a model where a bank may run the MFS as a
+product of the bank or a bank may form an MFS providing subsidiary with at least
+51% of the share held by the bank with control of the board.
+
+
+
+
+
+
+Cash-in: The exchange of cash for electronic value (e-money).
+
+--- Page 3 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 2 of 12
+
+
+Cash-out: The exchange of electronic value (e-money) for cash.
+
+
+
+
+
+
+Cross Border Payment Transaction: Cross-border transactions include both
+outbound and inbound transfers of money between related entities residing or
+operating in different countries.
+
+
+
+
+
+
+Distributor/ Super Agent: Any third party acting on behalf of a MFS provider to deal
+directly with retail agents. Generally MFS providers nominate or select the
+Distributors/Super Agents in a geography and demography basis. Distributors/Super
+Agents have an agreement with MFS provider and is liable for nominating or selecting
+and managing the retail agents. Distributors/Super Agents deal with e-money in bulk
+with MFS provider and sell/purchase the e-money to/from the retail agent.
+
+
+
+
+
+
+Distribution Channel: A distribution channel is a chain of businesses or
+intermediaries through which electronic money passes from MFS providers to the end
+users/customers.
+
+
+
+
+
+
+Electronic money: Electronic money (e-money) is a monetary value, represented by a
+claim on the issuer, which is (i) stored on an electronic general ledger; (ii) issued upon
+receipt of funds in an amount not less in value than the monetary value received; and
+(iii) accepted as a means of payment by undertakings other than the issuer.
+
+
+
+
+
+
+Equity Partner: An equity partner is an equity share holder of the company, and is
+entitled to a proportion of the distributable profits of the company.
+
+
+
+
+
+
+Government Security: A "Government Security" is a tradable debt instrument issued
+by Government of Bangladesh.
+
+
+
+
+
+
+Interoperability: Interoperability refers to the set of arrangements/procedures that
+allows participants in different systems to conduct and settle payments or securities
+transactions across systems while continuing to operate only in their own respective
+systems.
+
+
+
+
+
+
+Inward Foreign Remittance: Inward foreign remittance is the transfer of foreign
+currency in Bangladesh by Bangladeshi nationals living abroad via a legal channel
+(Banks, Money Transfer Organizations and Exchange House etc).
+
+
+
+
+
+
+Mobile Financial Services (MFS): MFS refers to E-money services provided against
+a particular mobile/cell phone number of a client (termed as Mobile Account), where
+the record of funds is stored on the electronic general ledger. These services can be
+draw-down through specific payment instructions to be issued from the bearer’s
+mobile phone or through alternative digital process or device by ensuring authenticity
+of the transaction. However unlike e-money products, 'cash-in' and 'cash-out' and other
+services as permitted by BB at agent locations are allowed for MFS accounts
+
+
+
+
+
+
+Operational Account: Account maintained by MFS providers with schedule
+commercial banks for different operational purposes other than custody/settlement
+purpose.
+
+--- Page 4 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 3 of 12
+
+
+Oversight: The activities carried out by BB to monitor and analyze the key indicators
+of MFS as part of the national payments system, assessing them against payment
+systems objectives and where necessary, inducing change to promote safety and
+efficiency.
+
+
+
+
+
+
+Parent Bank: One single bank that holds at least 51% of the equity share capital along
+with controlling voting rights in the board of directors of the MFS providing
+subsidiary.
+
+
+
+
+
+
+Payment Services Provider (PSP): "Payment services provider" refers to an entity
+licensed and approved by the Bangladesh Bank that provides payment service(s) to its
+participants or to a payment system for the purpose of facilitating payment(s) or
+payment processes and settling their transactions through a scheduled bank or financial
+institution maintaining accounts with the Bangladesh Bank for meeting Cash Reserve
+Requirements.
+
+
+
+
+
+
+Principal(s): Banks and financial institutions, licensed by BB, MFIs (Micro Finance
+Institutions) licensed by the MRA (Microcredit Regulatory Authority), Insurance
+Companies licensed by Insurance Development and Regulatory Authority of
+Bangladesh (IDRA) for which MFS provider is acting as agent for disbursing loans
+and in accepting repayments.
+
+
+
+
+
+
+Settlement: "Settlement" means the act of discharging obligations by transferring
+funds between two or more parties.
+
+
+
+
+
+
+Settlement Bank: "Settlement bank" means a bank providing trust cum settlement
+account/custodian account for the participants of a system to hold funds and to settle
+transactions between participants in the system.
+
+
+
+
+
+
+Subsidiary: A company shall be deemed to be a subsidiary of another company, if that
+other company controls the composition of Board of Directors of the first mentioned
+company and that other company holds more than half in nominal value of its equity
+share capital.
+
+
+
+
+
+
+Technology Partner: A technology partner provides technical support to MFS
+providers.
+
+
+
+
+
+
+Trust cum settlement account/Custodian account: Trust cum settlement
+account/custodian account is the account(s) held with a bank(s) where real money
+against issued e-money is deposited. Balances and transactions at the custodian end
+must at all times remain separate from and never be co-mingled with other operational
+accounts of the MFS providers.
+
+
+
+
+
+
+Valid Identity: The documents determined as per the directive of Bangladesh
+Financial Intelligence Unit (BFIU) to open MFS account.
+
+
+
+
+
+
+Virtual Balance: E-money stored in the MFS accounts.
+
+--- Page 5 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 4 of 12
+
+4.0
+Scope
+
+
+
+
+
+
+Bangladesh Bank will promote only scheduled commercial bank-led MFS (bank-led
+MFS) in Bangladesh. The provision of these regulations shall apply to MFS providers
+in Bangladesh.
+
+Mobile Financial Services Provider will act as a Payment Service Provider (PSP) as
+defined in the Bangladesh Payment and Settlement Systems Regulations, 2014. To
+provide MFS, scheduled commercial bank will establish subsidiary with bank or non-
+bank entity as equity partner and take license as PSP from Payment Systems
+Department of Bangladesh Bank.
+
+5.0
+Products of MFS
+
+
+
+
+
+
+5.1
+BB permits bank-led MFS providers as PSP to deliver the following broad
+categories of payment services in Bangladesh:
+
+
+
+
+
+'Cash-in' to and 'Cash-out' from MFS accounts through agent locations,
+bank branches, ATM, linked bank account and other methods
+determined by BB;
+
+
+
+
+
+
+(ii)
+Person to Business payments like utility bill payments, merchant
+payments, mobile top up, deposits into savings accounts/schemes with
+banks, loan repayments to banks/non-bank financial institutions
+(NBFIs)/non-governmental
+organizations-microfinance
+institutions
+(NGO-MFIs), insurance premium payments to insurance companies
+and so forth;
+
+
+
+
+
+
+(iii)
+Business to Person payments like salary disbursements, dividend/refund
+warrant/ discount payments etc.
+
+
+
+
+
+
+(iv)
+Person to Person payments (One MFS personal account to another MFS
+personal account with the same MFS provider or another MFS provider
+as well as the payments from one MFS account to a bank account and
+vice versa with the same parent bank or of another bank);
+
+
+
+
+
+
+Business to Business payments like vendor payments, supply chain
+management payments etc.
+
+
+
+
+
+
+(vi)
+Online and e-commerce payments;
+
+
+
+
+
+
+(vii) Government to Person payments such as pension payments, old age
+allowances, freedom-fighter allowances, subsidy payments to farmers
+and so forth;
+
+
+
+
+
+
+(viii) Person to Government payments such as tax, fee, levy payments, toll
+charge, fine etc.
+
+
+
+
+
+
+(ix)
+Disbursement of inward foreign remittances in accordance with 7.6 of
+this regulations;
+
+--- Page 6 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 5 of 12
+
+
+
+Loan disbursements to borrowers, vendor payments etc.
+
+
+
+
+
+
+(xi)
+Other payments approved by the BB.
+
+
+
+
+
+
+5.2
+In extending the broad range of financial services mentioned above, MFS
+providers will act as Payment Services Providers (PSPs) and also as authorized
+agent of banks, NBFIs, MFIs, Insurance Companies etc for the purpose of
+deposit taking, loan disbursement and recovery, insurance premium collection
+etc.
+
+While performing duties as PSP and as authorized agent, the MFS providers
+will be under direct supervision of BB’s Payment Systems Department (PSD).
+Whereas, the regulatory compliance of deposit taking, lending and other
+financial services in which MFS providers will act as agent, will rest with the
+principal(s) that have engaged the MFS providers as their authorized agents.
+
+6.0
+Permissible model for MFS providers
+
+
+
+
+
+
+6.1
+MFS providers in Bangladesh will be led only by scheduled commercial banks
+of the country. To provide MFS in Bangladesh, scheduled commercial banks
+that are already in MFS operation are permitted to continue with the existing
+license or may form a subsidiary. In case of new applicants, scheduled
+commercial bank(s) shall have to form a subsidiary. The scheduled bank(s)
+interested to form a subsidiary, for the purpose of providing MFS, shall focus
+entirely on providing mobile financial services. In case of a subsidiary
+following models are permitted:
+
+
+
+
+
+
+
+One single bank, known as the parent bank should have at least 51% of
+the equity of MFS providing subsidiary. Parent bank will also have
+majority in Board of Directors along with controlling share.
+
+
+
+
+
+
+
+(ii)
+Parent bank may conduct the operation of subsidiary alone or may take
+equity partners from the following business entities:
+
+
+
+
+
+
+
+
+Bank(s) and non banking financial institution(s);
+
+
+
+
+
+
+
+
+NGOs, investment and fintech companies who have experience
+of working in financial market; except Mobile Network
+Operators (MNOs).
+
+
+
+
+
+
+
+(iii)
+Subsidiary (MFS provider) will act as the primary driver of the products
+and services, manage customer relationships and distribution channels
+and mitigate associated risks. The parent bank will be responsible for
+overall governance of the subsidiary.
+
+
+
+
+
+
+
+(iv)
+However, any entity whether it is a bank or a non bank, can hold equity
+in only one MFS providing subsidiary.
+
+
+
+
+
+6.2
+Existing MFS provider(s) will be monitored for Twelve (12) months after the
+issuance of the regulations. License of existing non-performing MFS may be
+cancelled by BB if it seems appropriate.
+
+--- Page 7 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 6 of 12
+
+
+6.3
+Subsidiary model-based MFS provider will require to maintain a minimum
+paid up equity capital of Bangladeshi Taka Forty five (45) Crore; a further
+cushion of ‘capital reserve’ equal to the amount of paid up capital will have to
+be built up from retained earnings, at a rate not less than ten percent of annual
+after tax profits, to mitigate risks. Loss incurring MFS providers may be
+required to inject additional capital to maintain the minimum paid up capital.
+
+7.0
+Approval of application, commencement of business, operational modalities for
+MFS providers:
+
+
+
+
+
+
+7.1
+Scheduled banks, already running MFS operations (with approval of
+BB) may continue with their existing structure. Scheduled banks,
+already running MFS operations (with approval of BB) which are
+interested in forming subsidiary, shall restructure their MFS units as
+subsidiary company exclusively as MFS providing PSPs, in terms of
+Regulation 6 of these regulations. More than one scheduled banks,
+already in MFS operations, cancelling their individual license, may also
+form a subsidiary setting up one of the banks as parent bank.
+
+
+
+
+
+
+
+(ii)
+Scheduled banks having no MFS operations of their own may join any
+of the running MFS providing subsidiaries by acquiring equity therein.
+Besides, two or more scheduled commercial banks may jointly form a
+new MFS (with or without non-bank equity participants to begin with)
+setting up one of the banks as a parent bank and seek BB’s approval to
+provide mobile financial services.
+
+
+
+
+
+
+7.2
+All applicants complying with Regulation No. 5 of Bangladesh Payment and
+Settlement Systems Regulations, 2014 or any other law(s) shall come into
+effect regarding this regulations, will apply to BB’s PSD with the following
+documents:
+
+
+
+
+
+
+
+Details of the services proposed to be offered with tentative
+implementation schedule.
+
+
+
+
+
+
+
+(ii)
+Applicant’s assessment of risks associated with the proposed delivery
+models for each such service, explanation of mitigation and
+management of the risks.
+
+
+
+
+
+
+7.3
+For new MFS applicants, approval will be provided in two phases. At first
+phase, no objection certificate (NOC) will be provided to set up the platform.
+At second phase, license will be provided to commence the operation. Before
+launching proposed services, an MFS provider will have to seek permission for
+commencement of business from BB’s PSD, within one year of getting NOC
+for setting up a MFS platform, with the following documents:
+
+
+
+
+
+
+
+MOU(s) with MNOs and other technology partners, specimen of
+Service Level Agreements (SLA) to be entered into with intermediaries
+in the service delivery chains, including the distributors/super agents
+and field level retail agents;
+
+--- Page 8 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 7 of 12
+
+
+
+(ii)
+Lists of names and field level locations of retail agent outlets/cash
+points (to be) appointed by the MFS provider, to be updated
+subsequently on regular monthly basis;
+
+
+
+
+
+
+
+(iii)
+MOU with the settlement bank(s);
+
+
+
+
+
+
+
+(iv)
+Other documents (as required by BB).
+
+
+
+
+
+
+7.4
+Transactions in MFS will be conducted only through non-cheque
+limited purpose accounts termed "MFS Accounts" in names of
+customers, accessible with bearer’s mobile phone or through alternative
+digital process or device by ensuring authenticity of the transaction.
+
+
+
+
+
+
+
+(ii)
+Minor beneficiary entitled with government/other approved facility
+through MFS may get the benefit primarily through his/her mother’s
+MFS account. Where necessary s/he may get the benefit through his/her
+father’s or legal guardian’s MFS account.
+
+
+
+
+
+
+
+(iii)
+Opening of MFS accounts in names of individuals, businesses and other
+entities will however require complete observance of KYC and CDD
+drills as prescribed by competent authority from time to time. Opening
+of MFS accounts in names of service delivery intermediaries at
+wholesale and retail levels (distributors, super agents, agents, merchants
+etc.) will likewise require complete observance of KYC and CDD drills
+as prescribed by competent authority from time to time.
+
+
+
+
+
+
+7.5
+Aggregate of virtual balances in all MFS accounts of an MFS provider
+must at the end of the day be in agreement with or be less than the total
+real cash balances in nominated trust cum settlement accounts of the
+MFS provider with scheduled commercial bank(s) and invested amount
+in Government Securities. This shall be monitored by the MFS
+providers on daily basis and any shortfall shall be immediately reported
+to the Payment Systems Department, Bangladesh Bank. Banks holding
+equity of the MFS providers are supposed to be entitled with the role of
+a custodian. The MFS providers may, if necessary, choose other
+scheduled commercial bank(s) to be their custodian notifying PSD of
+BB in advance. Balances and transactions at the custodian end must at
+all times remain separate from and never be co-mingled with other
+operational accounts of the MFS providers.
+
+
+
+
+
+
+
+(ii)
+Bank(s), providing mobile financial services without forming a
+subsidiary and MFS account holders are under deposit insurance
+coverage of Bangladesh Bank, will be waived from investing in
+Government Securities.
+
+
+
+
+
+
+
+(iii)
+a) Bank(s), providing mobile financial services without forming a
+subsidiary but MFS account holders are not under deposit insurance
+coverage of Bangladesh Bank; b) MFS provider under subsidiary
+model- need to maintain the balance of all MFS account in a trust cum
+settlement account and need to invest not less than 25% of the physical
+cash balance in Government Securities on the basis of calculation on
+
+--- Page 9 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 8 of 12
+
+the last working day of June and December each year. Remaining cash
+balance has to be kept in the trust cum settlement account with
+scheduled commercial banks.
+
+
+
+
+
+
+7.6
+MFS providers will handle foreign inward remittances only if received through
+credits in Nostro Accounts of scheduled commercial banks in Bangladesh and
+pay out the same only in Bangladeshi Taka (BDT) to MFS accounts of the
+beneficiaries. No outward or cross-border payment transactions shall be
+undertaken by MFS providers, as these can only be handled by the AD
+branches of scheduled banks in Bangladesh.
+
+
+
+
+
+
+7.7
+MFS providers are strictly prohibited to engage in lending from their own
+funds, but are free to act as agents of banks and financial institutions licensed
+by BB and NGO- MFIs licensed by the MRA in disbursing loans and in
+accepting repayments on behalf of the principal concerned.
+
+
+
+
+
+
+7.8
+MFS account holders are free to mobilize balances of their MFS accounts to
+their deposit accounts with scheduled commercial banks and MFS providers
+will act immediately on request of customers for transferring balances from
+their MFS accounts to their deposit accounts with scheduled commercial
+banks.
+
+
+
+
+
+
+7.9
+MFS providers will draw up annual accounts and financial statements in
+accordance with prevailing accounting and reporting standards and submit the
+ones duly audited by reputed audit firm(s) to PSD of BB within 3(three)
+months after the end of the accounting year.
+
+
+
+
+
+8.0
+Suspension and cancellation of MFS providers by BB
+
+
+
+
+
+
+BB reserves the right of withholding, suspending and cancelling its approval for
+operation of an MFS provider, if BB deems actions of the accused MFS to be
+detrimental to public interest. Moreover, BB will take appropriate steps towards
+protecting legitimate interests of the MFS account holders and other stakeholders of
+the accused MFS provider.
+
+
+
+
+
+9.0
+Schedule of Charges
+
+
+
+
+
+
+The rate of charges realizable from various financial services offered by the MFS
+providers to their clients shall be set in a competitive, non-collusive manner. Besides,
+keeping BB’s PSD fully apprised of all rate settings and rate revisions, MFS providers
+will ensure prominent display of the rates of charges in all their retail agent outlets to
+inform all customers. Information about all products with schedule of charges should
+also be available for all stakeholders in the customer care centers and websites of MFS
+providers.
+
+--- Page 10 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 9 of 12
+
+10.0 Distribution Channel
+
+
+
+
+
+
+10.1
+MFS shall appoint distributors/super agents under contract adhering to
+the existing law according to clear and well-documented selection
+policies and procedures reported to BB’s PSD and shall have clear
+description of roles and responsibilities of both parties in all relevant
+aspects. MFS providers may install retail service outlets or appoint
+delivery agents under contracts adhering to the existing law according
+to clearly stated roles and responsibilities including business hours for
+the service outlets, required standards of customer services, rates of
+commission/fees payable to agents, transaction reporting routines,
+authorizations for signing, customer interest protection, dispute
+resolution and settlement and so forth.
+
+
+
+
+
+
+
+(ii)
+Agents are not allowed to take part in any transaction other than 'cash-
+in' (i.e. converting physical money to e-money) and 'cash-out' (i.e.
+converting e-money to physical money). To do the 'cash-in' and 'cash-
+out' customers may need to show valid identity to agents. Any transfer
+transactions involving third party MFS accounts at the sending or
+receiving end are prohibited. MFS providers will have to sensitize the
+agents’ properly about AML/CFT risks inherent in their transactions
+and also to monitor transaction patterns carefully towards identifying
+possible unauthorized/suspicious transaction activities.
+
+
+
+
+
+
+10.2
+Entities with extensive networks of service delivery outlets, such as NGO-
+MFIs, MNOs and Government’s Postal Department etc. will inter alia be
+eligible for engagement as distributors/super agents/ retail agents and field
+level service delivery agents. Agreements with such distributors/super agents/
+retail agents should include reporting clauses requiring full visibility of
+transactions of the agent network as well as at individual service outlet level as
+and when necessary. An agreement with a network already in agency
+relationship with other MFS providers should include clause requiring clear
+separation of transactions handled for each MFS provider, avoiding any co-
+mingling of the e-money of different MFS providers. The distributors/super
+agents like NGOs, MNOs, and Government’s Postal Department etc. will be
+able to operate in any geographical location in Bangladesh. However,
+individual (a person) distributors/super agents are bound to work in a certain
+limited geographical boundary.
+
+
+
+
+
+
+10.3
+Criteria of selecting partners and agents by MFS providers should inter alia
+include:
+
+
+
+
+
+
+
+Inclusivity of Distributors and Agents;
+
+
+
+
+
+
+
+(ii)
+Technical competence for and track record of the intended role;
+
+
+
+
+
+
+
+(iii)
+Financial soundness, business reputation and no record of bankruptcy;
+
+
+
+
+
+
+
+(iv)
+Standards of security and internal control, audit coverage, monitoring
+and reporting;
+
+--- Page 11 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 10 of 12
+
+
+
+Capability of meeting commitments under adverse conditions;
+
+
+
+
+
+
+
+(vi)
+A self declaration that partners and agents do not have a past criminal
+record.
+
+
+
+
+
+11.0 AML/CFT and KYC compliance:
+
+
+
+
+
+
+11.1
+MFS providers shall comply with the provisions of existing Money Laundering
+Prevention Act, Anti Terrorism Act and respective Rules issued therein under,
+instructions and guidelines issued by Bangladesh Financial Intelligence Unit
+(BFIU) from time to time.
+
+
+
+
+
+
+11.2
+MFS providers shall remain responsible for authenticity and timely updating of
+the KYC records as per the instructions of BFIU as and when required.
+
+
+
+
+
+12.0 Processes to be followed in ensuring authentication of MFS transactions and
+security
+
+
+
+
+
+
+12.1
+MFS providers shall follow the ICT Act 2006 (amended in 2013) and the
+Guidelines on ICT Security for Scheduled Banks and Financial Institutions
+2010 issued by BB, in addressing ICT security issues in respect of MFS.
+
+
+
+
+
+
+12.2
+The following properties need to be addressed fully in offering a secure
+infrastructure for financial transactions using mobile technology:
+
+
+
+
+
+
+
+Confidentiality: Property ensuring that transaction information cannot
+be viewed by unauthorized persons.
+
+
+
+
+
+
+
+(ii)
+Integrity: Property ensuring that the transaction information remains
+intact during transmission and cannot be altered.
+
+
+
+
+
+
+
+(iii)
+Authorization: Property ensuring that the authentic user has proper
+permission to perform the particular transaction. It ensures how the
+system decides what the users can do.
+
+
+
+
+
+
+
+(iv)
+Non-repudiation: Property that the particular transaction initiated by a
+user cannot be denied by him/her later.
+
+
+
+
+
+
+12.3
+All transactions must be authenticated by the account holders using their
+respective Personal Identification Numbers (PINs) or similar other secured
+mechanism. MFS providers should ensure that proper protection and security
+features are maintained in issuing and authenticating the PINs and other
+secured mechanisms.
+
+
+
+
+
+
+12.4
+MFS providers shall ensure that proper process is in place for identifying
+customers while the service is being enabled/executed. Besides the PIN, a
+suitably chosen second authentication factor would be encouraged to add as an
+additional security.
+
+--- Page 12 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 11 of 12
+
+13.0 Interoperability
+
+
+
+
+
+
+13.1
+MFS providers shall proactively foster linking of the MFS accounts of
+customers with their existing or new accounts in banks; maximizing access of
+customers credit, deposit and other financial services through the MFS
+accounts. MFS providers shall cooperate and work together in promoting
+interoperability among the providers towards ensuring widest possible access
+for customers.
+
+
+
+
+
+
+13.2
+The MFS providers shall design their systems and procedures such that all
+MFS providers are capable of providing funds transfer service in a completely
+inter-operable way which may include funds transfer from one MFS personal
+account to another MFS account with the same MFS provider or another MFS
+provider as well as the payments from one MFS account to a bank account
+with the same parent bank or of another bank and vice versa.
+
+
+
+
+
+14.0 Risk management and internal controls
+
+
+
+
+
+
+14.1
+For effective management and containment of the substantial operational risks
+in providing Mobile Financial Services, the MFS providers shall put in place
+robust internal governance frameworks with internal control and compliance
+and internal audit processes featuring clear description of roles, responsibilities
+and accountabilities.
+
+
+
+
+
+
+14.2
+Internal control and compliance and internal audit processes of MFS providers
+shall include oversight routines on operations of wholesale and field level retail
+agents and on customer satisfaction levels.
+
+
+
+
+
+15.0 Customer, Employee, Agent, Distributor/Super Agent education and awareness
+
+
+
+
+
+
+MFS providers shall develop and pursue sustainable programs for continual
+heightening of awareness and knowledge about various aspects of Mobile Financial
+Services among their employees, agents, distributors/super agents and target customer
+segments.
+
+
+
+
+
+16.0 Regulatory oversight
+
+
+
+
+
+
+16.1
+MFS providers will be under off-site and on-site supervisions of Payment
+Systems Department, BB, firstly, as PSPs extending mobile financial services
+and secondly, as agents of banks and financial institutions in offering
+mobile phone-based banking and other financial services.
+
+
+
+
+
+
+16.2
+MFS providers shall have to follow rules, regulations, guidelines and
+instructions issued by Bangladesh Bank time to time.
+
+
+
+
+
+
+16.3
+MFS providers shall submit to BB all required statements and information in
+such formats as prescribed by Bangladesh Bank time to time.
+
+--- Page 13 ---
+Bangladesh Mobile Financial Services (MFS) Regulations, 2018.
+
+Page 12 of 12
+
+17.0 Complaint and Grievance Redressal
+
+
+
+
+
+
+17.1
+BB’s Payment Systems Department (PSD) and Financial Integrity and
+Customer Services Department (FICSD) will oversee customer complaints
+redressal performance of the MFS providers.
+
+
+
+
+
+
+17.2
+MFS providers shall put in place processes and procedures for prompt handling
+and redressal of customer complaints and grievances; readily accessible
+through website and other appropriate information medium.
+
+
+
+
+
+
+17.3
+The MFS Provider shall maintain a call centre to receive and process disputes
+24 hours a day via telephone, SMS, IVR and mail. Each of the disputes
+received by the centre must be resolved within ten (10) working days. The
+MFS provider shall ensure that they are sufficiently equipped to keep track/log
+of all disputes and review status of each disputes and redressal of the same
+within stipulated time.
+
+
+
+
+
+
+17.4
+MFS Customers may have also access to services being provided by
+Customers Interest Protection Centre (CIPC) of Bangladesh Bank. The
+aggrieved customer can lodge complaints with CIPC of Bangladesh Bank.
+
+
+
+
+
+
+17.5
+Dispute at distributors/super agents’ end will be settled according to the
+agreement between MFS provider and distributors/super agents. Agent
+complaints and grievances will be handled by distributors/super agents in the
+primary level and by MFS providers at secondary level.
+
+
+
+
+
+
+17.6
+Information materials clearly explaining the roles, responsibilities, risks and
+liabilities of all parties involved in MFS transactions should be kept readily
+accessible to all relevant parties.
+
+
+
+
+
+18.0 Record retention
+
+
+
+
+
+
+18.1
+KYC, CDD records on Mobile Account holders, wholesale and Retail
+agents of MFS providers and those of MFS transactions shall be retained for
+not less than six years from the dates of origination, readily reproducible for
+later references as needed by the MFS providers themselves or by the
+regulatory and law enforcement authorities.
+
+
+
+
+
+
+18.2
+MFS providers shall also provide printouts or copies of relevant transaction
+records in specific MFS transactions, at the request of the customers or their
+counterparts MFS providers/banks etc. within the prescribed preservation
+periods.
+
+
+
+
+
+
+
+
+
+
+-- End --

@@ -1,0 +1,365 @@
+--- Page 1 ---
+Department of Financial Institutions and Markets
+Bangladesh Bank
+Head Office, Dhaka
+
+
+
+DFIM Circular Letter No.- 02 Date: February 27, 2020
+
+
+
+Managing Director/Chief Executive Officer
+All Financial Institutions in Bangladesh.
+
+Dear Sir
+
+Guidelines on Commercial Paper for Financial Institutions
+
+With reference to the Circular No.-06 dated May 29, 2016 the "Guidelines on Commercial Paper
+for Financial Institutions” has been revised to introduce some best practices and to set standards
+that will facilitate financial institutions to perform efficiently regarding CP in a more organized
+way.
+
+Instructions of DFIM Circular No.-06 dated May 29, 2016 hereby superseded by this circular.
+The instructions of this guideline shall come into effect immediately.
+
+
+
+
+Yours sincerely,
+
+
+
+(Mohammad Ahmed Ali)
+General Manager
+Phone: 9530178
+
+--- Page 2 ---
+Guidelines on Commercial Paper
+For
+Financial Institutions
+
+February 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Department of Financial Institutions and Markets
+Bangladesh Bank
+
+--- Page 3 ---
+Page 1 of 9
+
+1. Introduction:
+Financial Institutions (FIs) operating in Bangladesh have some distinctive features than
+commercial banks. They are not allowed to receive demand deposits as well as term deposits
+of less than 3 months. So they badly need short-term fund. To meet this challenge FIs depend
+on high-cost bank borrowings and call money market. To diversify sources of short-term
+fund, FIs can collect fund directly from fixed income seekers through issuing Commercial
+Paper (CP). Besides, FIs may also act as Investor and Issuing & Paying Agent (IPA) of CP.
+Bangladesh Bank (BB) has the statutory task of regulating and supervising the financial
+system of Bangladesh. This guideline is issued to provide a regulatory framework for FIs
+dealing with CP. These guidelines also serve to clarify the regulatory expectations on the risk
+management issues related to commercial paper.
+
+2. Definitions:
+For the purpose of these guidelines, unless the context otherwise states:
+2.1. Commercial Paper (CP) is usually an unsecured promissory note which has an original
+maturity between a minimum of thirty days and a maximum of one year;
+2.2. Issuing and Paying Agent (IPA) means an FI of other entity that delivers CPs to the
+investors against the proof of payment and at maturity repays the investors after
+receiving funds from the issuer;
+2.3. Investor means a person/institution that purchases CPs;
+2.4. External Credit Assessment Institution (ECAI) is a credit rating agency recognized by
+Bangladesh Bank;
+2.5. Any CP if not repaid at the maturity, CP will be treated as past due/over due from the
+following day of the maturity date;
+2.6. Total capital means the sum of paid-up capital and reserves.
+
+--- Page 4 ---
+Page 2 of 9
+
+3. Permissible activities for FIs :
+FIs may act as an issuer or investor or IPA of CPs in the manner set forth in this guideline.
+However, FIs shall not provide any guarantee for CPs.
+4. Instructions for FIs while Issuing CPs:
+4.1. FIs shall follow the instructions regarding all related prudential policies/circulars/
+guidelines issued by Bangladesh Bank and other regulatory authorities (if applicable)
+from time to time;
+4.2. The paid up capital of FIs shall be BDT 1000 million or more or as set by BB from time
+to time. Capital Adequacy Ratio, Tier-1 and Tier-2 capital must be maintained in
+accordance with the requirement of „Capital Adequacy and Market Discipline (CAMD)
+guideline for FIs;
+4.3. The aggregate amount of CP issued by any FI shall not exceed 30% of its total
+capital;
+4.4. Credit Rating of the FI issuing CPs shall not be lower than rating grade "2" or
+equivalent for both "Short" and "Long" term;
+4.5. Net profit (after tax) of FI shall be positive for last three (3) consecutive years as per
+audited balance sheet;
+4.6. The combined zonal position in stress testing report must be at least in "Yellow Zone";
+4.7. Composite CAMELS rating will be at least 3 (three) for the last 3 (three) consecutive
+half yearly reports. FIs must take necessary actions to improve their CAMELS rating or
+take proper actions to maintain the existing one;
+4.8. Classification rate of loans and leases must be “10% or below” for last 3 (three)
+consecutive quarters;
+4.9. FIs shall obtain prior approval from BB before issuing CP. They shall also obtain no
+objection certificate (NOC) from other regulatory authorities, if applicable.
+
+--- Page 5 ---
+Page 3 of 9
+
+5. Instructions for FIs while Investing in CPs
+5.1. The total investment in CP of any FI shall not exceed 20% of its total capital.
+Moreover, no FI shall invest more than 10% of its total capital in a single company's
+CP;
+5.2. The equity of the company, in which FIs intend to invest, shall not be less than BDT
+300 million;
+5.3. The debt-equity ratio of the company (other than FIs), in which FIs intend to invest,
+must be maximum 70:30 as per latest audited balance sheet;
+5.4. The current ratio of the company (other than FIs), in which FIs shall invest, must be at
+least 1:1 as per latest audited balance sheet;
+5.5. Credit Rating of the CP issuing company shall not be lower than rating grade "2" or
+equivalent for both "Short" and "Long" term;
+5.6. The current status shown in the CIB report of the issuer company shall be „standard‟
+and have no track record of classified status for last 1 (one) year;
+5.7. Net profit (after tax) of CP issuing company shall be positive for last 3 (three)
+consecutive years as per audited balance sheet;
+5.8. FIs shall obtain and examine the following documents from the intending CP issuers:
+a) A written request indicating the nature of support required along with board
+resolution;
+b) Detailed company profile;
+c) Comprehensive financial information including a projected cash flow
+statement;
+d) The value and outstanding of CP already issued by the issuing company;
+e) Total short-term liabilities with other FIs.
+5.9. Accounting and reporting of investment in CPs should be in line with applicable
+standards and guidelines;
+5.10. FIs can “Rollover” a CP maximum one time. Prior approval of BB shall be obtained by
+
+--- Page 6 ---
+Page 4 of 9
+
+FIs before “Rollover”. Such approval will require complying with all the applicable
+clauses.
+5.11. FI‟s investment in CP shall be considered as a „funded exposure‟ to the issuing
+company;
+5.12. FI shall maintain provision against outstanding balance of the defaulted CPs at the
+following rates:
+a) If it is past due/overdue for 03 (three) months or beyond but less than 06 (six)
+months, will be classified as SS, keep 20% provision,
+b) If it is past due/overdue for 06 (six) months or beyond but less than 09(nine)
+months, will be classified as DF, keep 50% provision,
+c) If it is past due/overdue for 09 months or beyond, will be classified as BL, keep
+100% provision.
+5.13. FIs shall report to CIB regularly.
+6. Instructions for FIs while acting as IPA
+6.1. IPA must keep all the certified copies of original documents;
+6.2. In the offering document, IPA shall make it clear to the investors that the respective CP
+is subject to credit and other related risks;
+6.3. In the offering document, it shall be clearly stated that the payment will be made to the
+investors provided that the CP issuing company has made the funds available to IPA;
+6.4. IPA is required to inform the prospective investors that in case of default, it will not be
+held responsible for seeking recovery from the CP issuing company or initiating any
+action against the CP issuing company on its own or on behalf of the investors;
+6.5. If the CP issuing company fails to pay, partially or in full, the IPA shall be held
+responsible to notify the matter of such default to the investors without any delay;
+6.6. The IPA shall distribute the funds received from the CP issuing company to the
+investors as per terms and conditions mentioned in offering document of CP and the
+underlying agreements if the issuer makes the partial payment;
+
+--- Page 7 ---
+Page 5 of 9
+
+6.7. IPA shall ensure that the issuer qualifies the terms and conditions as stipulated by
+regulators and the amount mobilized through issuance of CP is within the amount as
+approved by its Board of Directors;
+6.8. IPA shall maintain the KYC (Know Your Customer) of the investor;
+6.9. IPA shall verify all the documents submitted by the issuer;
+6.10. IPA shall ensure that the issuer qualifies the terms and conditions as stipulated by
+regulators and the amount mobilized through issuance of CP is within the amount as
+approved by its Board of Directors;
+6.11. IPA shall not invest in the respective CP.
+7. Form of the Instrument, Mode of Issuance and Redemption
+7.1. CP shall be issued in denominations of BDT 1 Million and multiples thereof;
+7.2. (a) CP shall be issued for maturities between a minimum of 30 (thirty) days and a
+maximum of 1 (one) year from the date of issue, (b) The validity of credit rating shall
+be a minimum of 45 days from the date of issuance;
+7.3. The investor shall pay the discounted value or face value to the account of the issuer;
+7.4. On maturity of CP, the investor of the CP shall present the instrument for payment to
+the IPA and upon receiving it; the issuer shall release money to the account of
+investor(s).
+8. Restrictions on CP Holdings
+FIs shall not invest in any CP issued by the organization in which its directors or their
+affiliates have interest.
+9. Reporting Requirement
+9.1. FIs shall report the position of issuance and investment in CP "Quarterly" to
+Department of Financial Institutions and Markets (DFIM), BB as specified in Annexure
+A & B within 10th of the next month;
+9.2. FIs shall report immediately, on occurrence, full particulars of defaults in repayment to
+DFIM, BB as specified in Annexure C.
+
+--- Page 8 ---
+Page 6 of 9
+
+Reporting Format
+Annexure A
+
+Name of FI
+Quarterly Statement of Commercial Paper-1
+(Issuance)
+As on ------------------------------------
+
+SL
+No.
+Amount
+Issued
+Date of Issue
+(DD/MM/YYYY)
+Date of Expiry
+(DD/MM/YYYY)
+Total
+Capital
+Issuance
+as % of FI‟s
+Total Capital
+Remarks
+(If any)
+
+
+Total
+
+
+[Authorized Signature] [Authorized Signature]
+Name & Seal Name & Seal
+
+--- Page 9 ---
+Page 7 of 9
+
+Annexure B
+Name of FI
+Quarterly Statement of Commercial Paper-2
+(Investment & IPA)
+As on ------------------------------------
+SL
+No.
+Issuing company details
+Nature
+of
+support
+Size of
+the issue
+(Face
+Value)
+Rate of
+Interest
+Amount
+Invested
+by FI
+Investment
+as % of FI‟s
+Total
+Capital
+Name
+Current
+Ratio
+Debt-
+Equity
+Ratio
+Credit Rating
+(Long-term,
+Short-term)
+Credit
+Rating
+Validity
+10
+11
+Total
+
+SL No.
+Date of Issue
+(DD/MM/YYYY)
+Date of Maturity
+(DD/MM/YYYY)
+Present
+Status of the
+issue
+Classification
+Status of CP
+Existing facilities
+to the CP issuer
+(if any)
+Remarks
+(If any)
+Funded Non Funded
+
+12
+13
+14
+15
+16
+17
+18
+Total
+
+[Authorized Signature] [Authorized Signature]
+Name & Seal Name & Seal
+
+--- Page 10 ---
+Page 8 of 9
+
+Notes:
+Column 5: BB equivalent Credit rating of the issuer as per Risk Based Capital Adequacy
+Column 7: Please indicate using the following Code: Invest - (IN), Issuing & Paying
+Agent-(IPA),
+Column 8: Total Face value of the respective CP.
+Column 9: The interest rate of respective CP.
+Column 10: Please put the value of total amount subscribed/purchased by the FI
+Column 14: Please indicate following status of the issue:
+• Redeemed
+• Not Matured
+• Defaulted
+• Rolled over
+
+Column 15: Please indicate following status of the issue:
+• STD (Standard)
+• SS (Sub Standard)
+• DF (Defaulted)
+• BL (Bad and Loss)
+
+--- Page 11 ---
+Page 9 of 9
+
+Annexure C
+
+Name of FI
+Statement of Commercial Paper-3
+(Defaults on Repayment)
+As on ------------------------------------
+
+SL
+No.
+Name of the
+issuer
+Date of issue
+(DD/MM/YYYY)
+Amount
+Due date of
+repayment
+(DD/MM/YYYY)
+Classification
+Status
+Remarks
+
+
+[Authorized Signature] [Authorized Signature]
+Name & Seal Name & Seal

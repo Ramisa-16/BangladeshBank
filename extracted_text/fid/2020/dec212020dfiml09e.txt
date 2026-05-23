@@ -1,0 +1,112 @@
+--- Page 1 ---
+Page 1 of 2
+
+website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+Department of Financial Institutions and Markets
+Bangladesh Bank
+Head Office, Dhaka.
+
+
+DFIM Circular Letter No.09
+
+Date:
+
+
+
+
+
+
+
+
+
+Chief Executives/Managing Directors
+All Financial Institutions in Bangladesh
+Dear Sir,
+Revision of 'Guidelines on Stress Testing for Non-Banking Financial Institutions'
+Please refer to DFIM Circular No.06, dated 12 July 2012 and DFIM Circular No.02, dated
+19 January 2016 by which “Guidelines on Stress Testing for NBFIs” was issued and revised
+respectively. Now it has been decided to revise the existing guideline partly. Accordingly
+parts of section 8 of the said guidelines have been revised as follows:
+"The WAR will be scaled in rating of 1 to 5 of which 1 fall in A, 2 and 3 in B and 4 and 5 in
+C Category. The ratings are summarized below:
+Scenario Total
+Rating
+Existing zone
+Revised Zone
+WAR> 80%
+Green
+70%<WAR<80%
+
+Yellow
+60%<WAR<70%
+40%<WAR<60%
+
+Red
+WAR<40%
+Insolvency ratio, percentage towards insolvency will also be scaled in 1 to 5 grades after
+computing the Weighted Insolvency Ratio (WIR) from the three shock levels and set them
+into three categories, i.e., 1, 2 or 3 depending on the farness from insolvency. WIR ratings
+will be assigned as under:
+
+Scenario Total
+Rating
+Existing zone
+Revised Zone
+WIR<15%
+Green
+15% <WIR<25%
+
+Yellow
+25%<WIR<45%
+45%<WIR<60%
+
+Red
+WIR>60%
+
+
+
+06 Poush1427
+21 December 2020
+
+--- Page 2 ---
+Page 2 of 2
+
+
+Overall Rating (WAR-WIR Matrix)
+Overall financial strength and resilience of an FI will be identified plotting its achieved
+ratings in the WAR-WIR Matrix. The overall rating of an FI will be determined with 80%
+weight of WAR and 20% weight of WIR as under:
+WIR
+WAR
+
+A1
+B1
+C1
+A2
+B2
+C2
+A3
+B3
+C3
+
+The overall rating of FIs will be defined as under:
+WAR-WIR Matrix
+Meaning
+A1, A2
+Sound
+A3, B1, B2
+Moderate
+B3, C1, C2, C3
+Weak
+
+Reporting Format under Section 14 (14.4 and 14.5) shall be revised accordingly.
+All other instructions of the guidelines will remain unchanged. Excel based Reporting Format
+is available on the website of Bangladesh Bank for all concerned.
+This Circular Letter shall come into force with immediate effect.
+
+Yours sincerely,
+
+(Md. Zulkar Nayn)
+General Manager
+Phone: 9530178

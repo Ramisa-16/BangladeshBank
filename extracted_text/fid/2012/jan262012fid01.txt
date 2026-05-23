@@ -1,0 +1,121 @@
+--- Page 1 ---
+website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+
+আর্থিক প্রতিষ্ঠান ও বাজার বিভাগ
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা |
+১৩ মাঘ, ১৪১৮
+ডিএফআইএম সার্কুলার নং-০১ তারিখ:__ পু
+ee ২৬ জানুয়ারি, ২০১২
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী
+বাংলাদেশে কার্যরত সকল আর্থিক প্রতিষ্ঠান
+
+Rationalized Input Template ব্যবহার করে
+ওয়েব পোর্টালের মাধ্যমে তথ্য/বিবরণী দাখিল প্রসংগে |
+
+আর্থিক প্রতিষ্ঠান ও বাজার বিভাগ কর্তৃক বিভিন্ন সময়ে জারীকৃত সার্কুলার ও সার্কুলার লেটারের মাধ্যমে
+
+সংশ্লিষ্ট প্রতিষ্ঠানের বিবরণী/তথ্য অত্র বিভাগে দাখিলের নির্দেশনা রয়েছে। এক্ষণে ইলেক্ট্রনিক (Online)
+
+পদ্ধতিতে তথ্য সংগ্রহের সিদ্ধান্ত গৃহীত হওয়ায় পরিশিষ্ট-“ক'তে বর্ণিত বিবরণীসমূহ নিম্নোক্ত নির্দেশনা মোতাবেক
+Rationalized Input Template (RIT) ব্যবহার করে ওয়েব পোর্টালের মাধ্যমে বাংলাদেশ ব্যাংকের
+Enterprise Data Warehouse (71)৬/)-তে দাখিল করার জন্য নির্দেশ দেয়া যাচ্ছে 8
+
+(ক) উল্লিখিত বিবরণীসমূহ ৩০ জুন ২০১২ তারিখ পর্যন্ত Web Portal এর পাশাপাশি বিদ্যমান পদ্ধতিতেও
+
+
+
+
+
+সমান্তরালভাবে বাংলাদেশ ব্যাংকে দাখিল করতে হবে । ০১ জুলাই ২০১২ হতে শুধুমাত্র Web Portal
+এর মাধ্যমে সগ্লষ্ট বিবরণী দাখিল করতে হবে;
+
+অন্যান্য বিবরণীসমূহ পরবর্তী নির্দেশ না দেয়া পর্যন্ত বিদ্যমান পদ্ধতিতে দাখিল করতে হবে;
+
+Web Portal এর মাধ্যমে বিবরণী দাখিলের ক্ষেত্রে বিবরণী দাখিলের নির্ধারিত সময়সীমা অনুসরণ
+করতে হবেঃ
+
+EDW এর আওতাধীন অত্র বিভাগ সংশ্লিষ্ট বিবরণীগুলোর তালিকা এবং এতদৃসংক্রান্ত সফ্ট কপি অত্র
+বিভাগ হতে ০৮ ফেব্রুয়ারি ২০১২ এর মধ্যে সংগ্রহ করতে হবে;
+
+খিা-গুলো যথাযথভাবে পুরণ করে নিয়মিতভাবে Web Portal এর মাধ্যমে Upload করে দাখিল
+করতে হবেঃ
+
+Web Portal এর মাধ্যমে প্রথম বিবরণী পরিশিষ্ট-ক'তে বর্ণিত তারিখ অনুযায়ী দাখিল করতে হবে।
+
+উল্লেখ্য, আপনাদের প্রতিষ্ঠানের সংশ্লিষ্ট কর্মকর্তাদের নামে ইস্যুকৃত User ID ও পাসওয়ার্ড ব্যবহার
+করা যাবে।
+
+অনুগ্বহপূর্বক প্রাপ্তি স্বীকার করবেন |
+আপনাদের বিশ্বস্ত
+সতযুক্তিঃ ১এক)।
+(মোঃ সোহরাওয়ার্দী)
+মহাব্যবস্থাপক
+
+ফোন নং-৭১২০৯৫৬
+
+--- Page 2 ---
+cwiwkó-ÔKÕ
+
+List of Statements and Templates
+
+Name of Statement
+Name of Template
+First Reporting
+Base Date
+First Reporting
+Date(Within)
+01
+Net Asset Statement
+T_PS_M_ASST_ASSET_LIQD
+T_PS_S_LIAB_FI_LIAB
+31 December 2011
+12 February 2012
+02
+Call Money Statement
+T_PS_D_CMONEY_TRANS
+15 February 2012
+15 February 2012 within the
+working day
+03
+CRR/SLR Statement
+T_PS_M_SLR_CRR
+T_PS_D_SLR_CASH_RES
+31 January 2012
+15 February 2012
+04
+Statement of Loan/Lease
+Classification & Provisioning
+T_PS_D_LN_PROV
+31 December 2011
+15 March 2012
+05
+Business activities (Recovery
+position)
+T_PS_Q_LNREC_POSITION
+31 December 2011
+15 March 2012
+06
+Statement of Interest Rate in
+Lending and Deposit
+T_PS_M_INT_RATE
+31 December 2011
+15 March 2012
+07
+Statement of Loan/Lease
+Rescheduling
+T_PS_M_RESCHED_LOANS
+31 January 2012
+15 February 2012
+08
+Statement of Loan/Lease Write off
+T_PS_M_WRITE_OFF_LOANLEASE
+31 January 2012
+15 February 2012
+09
+Statement of Directors’ Loan/Lease
+T_PS_Q_SH_DIR_LOANS
+31 December 2011
+15 March 2012

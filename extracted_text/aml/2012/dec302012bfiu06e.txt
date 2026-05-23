@@ -1,0 +1,186 @@
+--- Page 1 ---
+Bangladesh Financial Intelligence Unit
+Bangladesh Bank
+Head Office
+Dhaka.
+Web site: www.bangladeshbank.org.bd
+
+BFIU Circular No. 06
+
+
+
+
+
+Date: 30 December, 2012
+
+
+Chief Executive
+
+All stock dealers and stock brokers, portfolio managers and merchant banks, securities custodians,
+asset managers.
+
+Dear Sirs,
+
+Instructions to be followed by Capital Market Intermediaries for compliance
+of the provisions contained in the Money Laundering Prevention Act, 2012
+and Anti Terrorism Act, 2009(Including amendment of 2012)
+
+
+
+Under the power conferred in section 2(L)(vii) of Money Laundering Prevention Act, 2009 and with the
+approval of the government (1) Stock Dealer and Stock Broker, (2) Portfolio Manager and Merchant
+Bank, (3) Securities Custodian and (4) Asset Manager have been included as Reporting Organizations by
+the AML Circular No. 26 issued on 30/09/2010 and the associated gazette-AMLD-01/2010 BB dated 30
+September. These reporting organizations subsequently have been included in section 2 (w) (vii) of
+Money Laundering Prevention Act, 2012.
+The following instructions are issued as per power conferred in section 23 and section 15 of Money
+Laundering Prevention Act, 2012 and Anti Terrorism Act, 2009 (including amendments of 2012)
+respectively for compliance by the above mentioned Capital Market Intermediaries to prevent money
+laundering and terrorist financing
+
+1. Risk management Procedures:
+a. To manage the money laundering/terrorist financing (ML/TF) risk efficiently and comply with the
+provisions of Money Laundering Prevention Act, 2012 and Anti Terrorism Act, 2009 (including
+amendments of 2012) properly, each institution engaged in capital market (herein referred as Capital
+Market Intermediaries) shall form an ‘Anti money Laundering and Combating Financing of
+Terrorism Compliance Unit (AML/CFT Compliance Unit)’ at the head office under the leadership of
+a high official and where necessary shall establish a system for internal monitoring and control, ,
+through nominating a compliance officer at branch level. In order to accomplish properly the
+jurisdiction and function of the AML/CFT Compliance Unit, capital market intermediaries shall
+determine the institutional strategy and program which have to be approved by the board of
+directors/highest authority. AML/CFT Compliance Unit shall formulate and implement a complete
+guideline containing customer identification (Know Your Client), record keeping, transaction
+monitoring & reporting, internal control, policies and procedures from their point of view of
+preventing money laundering. Besides, instructions shall be provided, where necessary, for
+compliance at branch level to assess the effectiveness of ML/TF risk management procedures, every
+capital market intermediary shall arrange Independent Audit after a certain period.
+
+1. Know Your Client (KYC):
+Every capital market intermediary shall preserve correct and complete information of
+identification of all clients (individual/ corporate) that receive its service. Note that
+‘complete’ means putting down all information required verifying a client’s identity and
+‘correct’ means the verification of the information received to verify a client’s identity.
+
+--- Page 2 ---
+ii.
+While acting as a securities custodian, intermediaries shall collect a certificate from the
+correspondent bank ensuring that required information for identification of its underlying
+customer has been preserved (containing a commitment of supplying information when
+necessary) and preserve the same. Besides, complete information of beneficiary has to be
+preserved in case of transferring sale proceeds of securities to a third party through NITA or
+Custodian account Portfolio managers and asset managers shall preserve complete
+information of all clients(individual/ corporate) while providing services to its clients and
+also preserve trustee’s required information of identification in case of a trust.
+iii.
+Complete and correct information of identification of clients of the accounts (currently
+operating) opened before 30 September, 2010 shall be collected and preserved. In addition,
+necessary information of identification of the existing clients whose accounts were opened
+before issuance of this circular shall have to be updated. The instructions mentioned in the
+guidelines attached herewith shall be followed in both the cases
+iv.
+No Beneficial Owner (BO) accounts or other types of account can be opened with
+anonymous or fictitious names.
+
+b. Every capital market intermediary shall have a complete Customer Acceptance Policy; where
+one’s eligibility or ineligibility as a client shall be mentioned.
+c. Taking ML/TF risk in consideration, every capital market intermediary shall classify its clients
+and on the basis of risk, conduct Enhanced Due Diligence (EDD) or Normal Due Diligence.
+d. Every capital market intermediary shall update all the preserved information regarding
+identification of clients after a specific period of time.
+e. Every capital market intermediary shall collect adequate information up to its satisfaction
+regarding client’s profession, source of fund and other personal information. Please note that
+“Satisfaction of the institution” means satisfaction of the appropriate authority that necessary due
+diligence has been conducted considering the risks of the customers in the light of existing
+directions.
+f. Every capital market intermediary has to identify the beneficial owner of the account and ensure
+the identification on the basis of the information collected from reliable sources up to its
+satisfaction In case of individual, beneficial owner should be determined by the association with
+the client, while in case of corporate, the controlling shareholder or a person hold 20% or more
+shares should be identified as beneficial owner. Complete and correct information of identity of
+the beneficial owners shall have to be collected and preserved.
+g. Considering ML risk associated with Politically Exposed Persons (PEPs) every capital market
+intermediary shall have to exercise Enhanced Due Diligence (EDD) for PEPs, where applicable.
+PEPs refer to the following individuals:
+“Individuals who are or have been entrusted with prominent public functions in a
+foreign country, for example Heads of State or of government, senior politicians, senior
+government, judicial or military officials, senior executives of state owned corporations,
+important political party officials. Business relationships with family members or close
+associates of PEPs involve reputational risks similar to those with PEPs themselves.”
+
+2. Transaction monitoring, suspicious transaction detection and reporting:
+a. All officials of every capital market intermediaries are to remain conscious and alert to detect
+unusual/ Suspicious Transaction during day to day business. When any suspicious transaction as
+defined in section 2(z) of MLPA, 2012 and section 2 (16) of ATA, 2009 (including amendments
+of 2012) is detected, a Suspicious Transaction Report (STR) has to be submitted immediately as
+per section 25(1)(---) and 16(1) respectively of the said Acts to the General Manager, Bangladesh
+Financial Intelligence Unit, Bangladesh Bank, Head Office, Dhaka in a format as prescribed in
+the attached guidelines with this circular.
+
+--- Page 3 ---
+b. If any applicant (individual/corporate) or the beneficiary of BO or other related account is a
+person/entity/group/organization of the sanction list prepared by relevant committee of United
+Nations Security Council or proscribed/scheduled by the government of Bangladesh or there are
+reasonable grounds to suspect that the associated money may be used for ML/TF, it shall also be
+considered for reporting. Moreover, the indicators (suspicion may be expanded beyond those)
+mentioned in the attached guidelines shall be considered for detecting suspicious transaction.
+c. Every capital market intermediary has to submit a half yearly report containing a summary of all
+STR reported in the last six months to the General Manager, Bangladesh Financial Intelligence
+Unit, Bangladesh Bank, Head Office, Dhaka as per the format provided in the attached
+guidelines, and such report must be submitted by the 15th of the next month. Please note that if
+no STR is reported within the reporting half year, still every capital market intermediary has to
+submit "NIL" statement.
+d. Any official of the concerned capital market intermediary shall not disclose any information
+related to STR to any client or any person/institution in any manner.
+
+3. Other instructions
+
+a. To keep capital market intermediaries free from ML/TF risk, every capital market intermediary
+shall undertake proper screening mechanism while recruiting its employee so that the concerned
+institution do not face ML/TF risk by any activities of any official. .
+b. Every securities intermediary shall arrange appropriate training for all its employees to ensure the
+proper compliance of MLPA, 2012, ATA, 2009 (including amendments of 2012) and
+circulars/instructions issued by Bangladesh Financial Intelligence Unit from time to time.
+c. Every capital market intermediary shall preserve all information regarding clients identification
+(including transaction information) for a period of at least five years after closure of an account.
+d. Taking into consideration the size of business, nature, functions, legal framework etc. of capital
+market intermediaries a guidelines named “Guidelines on prevention of money laundering &
+terrorist financing of terrorism for capital market intermediaries” has been formulated and issued
+as per power conferred in section 23(d) and 15 (h) of MLPA, 2012 and ATA, 2009 (including
+amendments) respectively, to face the risk of money laundering and terrorist financing through
+these institutions and also to assist implementation of the above instructions. This guidelines can
+be downloaded from Bangladesh Bank website
+(http://www.bb.org.bd/mediaroom/circulars/circulars/php). Analyzing the area, size, nature,
+functions and risks of business, and also considering the instructions of the attached guidelines as
+minimum standard, every capital market intermediary shall formulate their own guidance notes,
+submit it with the approval of their Board of Directors/appropriate authority to this unit within 3
+p(three) months and take necessary actions to implement it.
+e. Besides the instructions delineated in the Foreign Exchange Regulation Act, 1947, Guidelines for
+Foreign Exchange Transactions and other related instructions issued by Bangladesh Bank shall be
+subject to compliance for the capital market intermediaries where deem necessary.
+f. Every securities intermediary is advised to notify Bangladesh Financial Intelligence Unit,
+Bangladesh Bank, within o3 months what actions have already been taken and the future plan
+after issuance of this circular.
+
+The instructions of this circular shall come into force immediately Please acknowledge receipt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yours Sincerely,
+Enclosure: As described
+
+(Debaprosad Debnath)
+General Manager
+Phone - 9530118

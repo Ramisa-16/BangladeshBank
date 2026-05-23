@@ -1,0 +1,710 @@
+--- Page 1 ---
+Statistics Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+
+St.D. Circular No. 1 Date: February 27, 2014
+
+All Authorized Dealers of
+Foreign Exchange in Bangladesh
+
+Dear Sirs,
+Allocation of new codes regarding invisible receipts (Code-5) and Invisible
+Payments (Code-7) for foreign exchange reporting in the guideline titled “Code lists for
+Reporting of external sector transactions by the authorized dealers”
+
+Attention of the Authorized Dealers (ADs) is drawn to F.E. Circular No. 03 Dated February 04, 2013
+regarding reporting of discounting of direct/deemed export bills credit, F.E. Circular No. 07 Dated
+February 16, 2014 regarding reporting of import transactions under buyers’ credits/suppliers’ credits
+and matching of bill of entry. And also regarding reporting of import related freights, insurance and
+other charges.
+
+02. In order to facilitate separate reporting for drawings, principal repayments and interest payments
+against discounting of direct/deemed export bills, new codes have been allocated in the chapter
+Invisible Receipts (Code-5) and Invisible Payments (Code-7) of the guideline titled “Code lists for
+reporting of external sector transactions by the authorized dealers” (New codes attached).
+
+03. In order to facilitate separate reporting for drawings, principal payments and interest payments
+against import transactions under buyers’ credits/suppliers’ credits/approved external credits, new
+codes have been allocated in the chapter Invisible Receipts (Code-5) and Invisible Payments (Code-7) of
+the guideline titled “Code lists for reporting of external sector transactions by the authorized dealers”
+(New codes attached).
+
+04. In order to facilitate separate reporting for import related freight, insurance and other charges
+against CFR based imports to account actual import costs, new codes have been allocated in the
+chapter Invisible Receipts (Code-5) and Invisible Payments (Code-7) of the guideline titled “Code lists for
+reporting of external sector transactions by the authorized dealers” (New codes attached).
+
+All ADs have been requested to report to Bangladesh Bank as per the new codes allocated (Annexure-A,
+Annexure-B).
+
+Please bring the contents of this circular to the notice of all concerned.
+
+Yours faithfully,
+Enclosure: As stated
+
+(Md. Mohibullah Mia)
+Deputy General Manager
+Phone: 9530087
+
+--- Page 2 ---
+Annexure-A
+Code-5
+INVISIBLE RECEIPTS
+
+
+
+Code
+No.
+
+Purpose
+
+Explanatory Notes
+
+TRANSPORTATION
+
+002
+Freight -Sea Transport
+
+0020
+Surplus freight remittances
+received by Bangladesh shipping
+corporation
+
+0021
+Charters, rentals of ships (with
+crew) received by Bangladesh
+shipping corporation
+
+0022
+Surplus freight remittances
+received by Bangladeshi shipping
+companies
+
+0023
+Charters, rentals of ships (with
+crew) received by Bangladeshi
+shipping companies
+
+0024
+Freight remittances under all
+contractual arrangements between
+the parties.
+Freight remittances under all contractual arrangements between the parties
+(exporter and importer) i.e. Freight of goods as being provided by the actual
+provider and payable by the actual invoice party (seller/buyer )on FOB/CFR/CIF
+basis export /import out of rentals, charters for carriage of goods is shown in
+this code
+
+012
+Freight -Air Transport
+
+0120
+Surplus remittances of freight
+services received by Bangladesh
+Biman
+
+0121
+Charters, rentals of Bangladesh
+Biman (with crew)
+
+0122
+Surplus remittances of freight
+services received by Bangladeshi
+aircrafts (Private)
+
+0123
+Charters, rentals of Bangladeshi
+aircrafts (with crew) -Private
+
+0124
+Freight remittances under all
+contractual arrangements between
+the parties.
+Freight remittances under all contractual arrangements
+between the parties (exporter and importer) i.e.
+Freight of goods as being provided by the actual provider and payable by the
+actual invoice party (seller/buyer )on FOB/CFR/CIF basis export /import out of
+rentals, charters for carriage of goods is shown in this code
+
+022
+Freight -Rail Transport
+
+0220
+Surplus remittances of freight
+services
+
+0221
+Freight remittances under all
+contractual arrangements between
+the parties.
+Freight remittances under all contractual arrangements between the parties
+(exporter and importer) i.e. Freight of goods as being provided by the actual
+provider and payable by the actual invoice party (seller/buyer )on FOB/CFR/CIF
+basis export /import out of rentals, charters for carriage of goods is shown in this
+code
+
+032
+Freight -Road Transport
+
+0320
+Surplus remittances of freight
+services
+
+--- Page 3 ---
+Code
+No.
+Purpose
+Explanatory Notes
+0321
+Freight remittances under all
+contractual arrangements between
+the parties.
+Freight remittances under all contractual arrangements
+between the parties (exporter and importer) i.e.
+Freight of goods as being provided by the actual provider and payable by the
+actual invoice party (seller/buyer )on FOB/CFR/CIF basis export /import out of
+rentals, charters for carriage of goods is shown in this code
+224
+Freight Insurance (Merchandise)
+
+2240
+Freight Insurance Services
+Receipts on account of freight insurance premiums/ claims etc. receivable on
+international traded goods. i.e. premium related services, claims related
+services etc. for merchandise or freight-insurance for movable goods during
+the course of shipment. Freight insurance which is a form of nonlife insurance
+that raises particular issues for valuation of goods. Like freight transport, the
+identification of who pays the insurance and whether it is included in the price of
+good is determined by the FOB valuation concept.
+OTHER INVESTMENT
+
+90
+Long Term Loans
+
+901
+General Government
+
+9010
+Drawings on long term loans in
+cash (other than IMF)
+
+9011
+Received of loans/credit extended
+by resident government
+
+9012
+Drawings on long term loans on
+account of suppliers' credit
+Drawings on long term loans on account of suppliers' credit by the Public
+sectors.
+902
+Deposit taking corporations
+( Only schedule Banks), except
+central bank
+
+9020
+Drawings on long term loans
+
+9021
+Received
+on
+long-term
+loans
+extended
+
+903
+Other sectors : Other financial and
+non- corporations
+
+9030
+Drawings on long term loans
+(financial corporations)
+
+9031
+Received on long-term loans
+extended ( financial corporations)
+
+9032
+Drawings on long term loans
+(Other non-financial corporations)
+
+9033
+Received on long-term loans
+extended (Other non-financial
+corporations)
+
+9034
+Drawings on long term loans on
+account of suppliers' credit
+((Other non-financial
+corporations)
+
+Drawings on long term loans on account of suppliers' credit by the other non-
+financial corporations.
+91
+Short-term Loans
+
+911
+General government
+
+9110
+Drawings on short term loans in
+cash (other than IMF)
+
+9111
+Received on short term loans/
+credit extended
+
+9112
+Drawings short-term loans on
+account of government sectors
+buyers' credit/ approved external
+credits
+Drawings short-term loans on account of government sectors buyers' credit/
+approved external credits (i.e. IDB/ITFC..etc.) by the BPC or the other public
+sectors.
+
+--- Page 4 ---
+Code
+No.
+Purpose
+Explanatory Notes
+912
+Deposit taking corporations
+( Only schedule Banks), except
+central bank
+
+9120
+Drawings on short term loans
+
+9121
+Received on short-term loans
+extended
+
+913
+Other sectors -Other financial
+and non- corporations
+
+9130
+Drawings on short term loans
+( financial corporations)
+
+9131
+Received on short-term loans
+extended ( financial corporations)
+
+9132
+Drawings on short term loans
+(Other non-financial corporations)
+
+9133
+Received on short-term loans
+extended (other non-financial
+corporations)
+
+9134
+Drawings short-term loans on
+account of buyers' credit
+Drawings short-term loans on account of buyers' credit by the other sectors:
+non-financial corporations
+9135
+Drawings short-term loans on
+account of export bill discounting
+Drawings short-term loans on account of export bill discounting by the other
+sectors: non-financial corporations
+
+--- Page 5 ---
+Annexure-B
+Code-7
+INVISIBLE PAYMENTS
+
+
+
+Code No.
+
+Purpose
+Explanatory Notes
+TRANSPORTATION
+
+002
+Freight-Sea Transport
+
+0020
+Surplus freight remittances
+of foreign shipping
+companies.
+
+0021
+Charters , rentals of foreign
+ships (with crew) payment
+by Bangladeshi shipping
+corporation
+
+0022
+Charters, rentals of foreign
+ships (with crew) payment
+by Bangladeshi shipping
+companies
+
+0024
+Freight remittances under
+all
+contractual arrangements
+between the parties.
+Freight remittances under all contractual arrangements
+between the parties (exporter and importer) i.e.
+Freight of goods as being provided by the actual provider and payable by the
+actual invoice party (seller/buyer )on FOB/CFR/CIF basis export /import out of
+rentals, charters for carriage of goods is shown in this code
+012
+Freight -Air Transport
+
+0120
+Surplus freight remittances
+of foreign air lines
+
+0121
+Charters, rentals of foreign
+aircrafts (with crew)
+payment by Bangladesh
+Biman authority
+
+0122
+Charters, rentals of foreign
+aircrafts (with crew)
+payment by Bangladeshi
+aircraft companies
+
+0124
+Freight remittances under
+all
+contractual arrangements
+between the parties.
+Freight remittances under all contractual arrangements
+between the parties (exporter and importer) i.e.
+Freight of goods as being provided by the actual provider and payable by the
+actual invoice party (seller/buyer )on FOB/CFR/CIF basis export /import out of
+rentals, charters for carriage of goods is shown in this code
+022
+Freight- Rail Transport
+
+0220
+Surplus freight remittances
+of foreign rail transport
+
+0221
+Freight remittances under
+all
+contractual arrangements
+between the parties.
+Freight remittances under all contractual arrangements
+between the parties (exporter and importer) i.e.
+Freight of goods as being provided by the actual provider and payable by the
+actual invoice party (seller/buyer )on FOB/CFR/CIF basis export /import out of
+rentals, charters for carriage of goods is shown in this code
+
+032
+Freight Services- Road
+Transport
+
+--- Page 6 ---
+Code No.
+Purpose
+Explanatory Notes
+0320
+Surplus freight remittances
+of foreign road transport
+authorities/companies
+
+0321
+Freight remittances under all
+contractual arrangements
+between the parties.
+Freight remittances under all contractual arrangementsbetween the parties
+(exporter and importer) i.e. Freight of goods as being provided by the actual
+provider and payable by the actual invoice party (seller/buyer )on FOB/CFR/CIF
+basis export /import out of rentals, charters for carriage of goods is shown in
+this code
+224
+Freight Insurance Services
+(Merchandise)
+
+2240
+Freight Insurance Services
+Payments on account of freight insurance premiums/ claims etc. payable on
+international traded goods. i.e. premium related services, claims related
+services etc. for merchandise or freight-insurance for movable goods
+during the course of shipment. Freight insurance which is a form of nonlife
+insurance that raises particular issues for valuation of goods. Like freight
+transport, the identification of who pays the insurance and whether it is included
+in the price of good is determined by the FOB valuation concept.
+23
+Financial Services
+
+231
+Explicitly charged and other
+financial services..
+
+2310
+Bank commission, Bank
+guarantee, and charges
+
+2311
+Deposit and lending related
+services
+
+2312
+Other fees and charges n.i.e
+
+2313
+Payments other charges on
+account of CFR basis import
+
+Payments other charges on account of CFR basis import such as document
+handling charges, FCA charges, commission, fees etc
+2314
+Payments other charges on
+account of direct/deemed
+export bills discounting
+
+Payments other charges on account of direct/deemed export bills discounting
+such as commission, fees, charges etc
+42
+Other Investment Income
+
+420
+Other Investment Income
+(Interest) -Short Term
+
+4201
+General government
+
+4202
+Deposit taking corporations
+(Only schedule Banks) ,
+except central bank
+
+4203
+Other sectors : financial
+corporations
+
+4204
+Other sectors : non- financial
+corporations
+
+4205
+Interest paid to non-resident
+on account of Buyers' credits
+
+Interest paid to non-resident on account of Buyers' credits by the other sectors :
+non- financial corporations
+4206
+Interest paid to non-resident
+on account of direct/deemed
+export bills discounting
+
+Interest paid to non-resident on account of direct/deemed export bills
+discounting credit by the other sectors : non- financial corporations
+
+
+
+421
+Other Investment Income
+(interest)- Long Term
+
+--- Page 7 ---
+Code No.
+Purpose
+Explanatory Notes
+4210
+General government
+including Suppliers credits
+This covers payments of interest (including discount, Suppliers credits) accrued
+on long-term loans, on deposits and on other commercial and financial
+liabilities by the government and government controlled enterprises to
+non-residents abroad.
+4211
+Deposit taking corporations
+(Only schedule Banks) ,
+except central bank
+
+4212
+Other sectors : financial
+corporations
+
+4213
+Other sectors : non- financial
+corporations
+
+4214
+Other sectors : non-
+financial corporations-
+Interest paid to non-resident
+on account of Suppliers
+credits
+Interest paid to non-resident on account of Suppliers credits by the other sectors
+: non- financial corporations
+
+
+
+OTHER INVESTMENT
+
+90
+Long-Term Loans
+
+901
+General Government
+
+9010
+Payments on long-term
+loans extended
+
+9011
+Repayments on long-term
+loans / credits extended by
+foreign government/
+international agencies,
+institutions etc.
+
+9012
+Repayments on long term
+loans on account of
+suppliers'
+
+Repayments on long term loans on account of suppliers' credit by the Public
+sectors to non-residents.
+902
+Deposit taking corporations,
+except central bank (Only
+schedule Banks)
+
+9020
+Payments on long-term
+loans extended
+
+9021
+Repayments long-term
+loans
+
+903
+Other sectors - financial
+and non-financial
+corporations
+
+9030
+Payments on long term loans
+extended ( financial
+corporations)
+
+9031
+Repayment of long-term
+loans ( financial
+corporations)
+
+9032
+Payments on long term loans
+extended ( non-financial
+corporations)
+
+9033
+Repayment of long-term
+loans ( non-financial
+corporations)
+
+--- Page 8 ---
+Code No.
+Purpose
+Explanatory Notes
+9034
+Repayments on long term
+loans on account of
+suppliers' credit ( non-
+financial corporations)
+Repayments on long term loans on account of suppliers' credit by the other non-
+financial corporations to non-residents.
+
+
+
+
+
+
+91
+Short-Term Loans
+
+911
+General Government
+
+9110
+Payments on short- term
+loans extended
+
+9111
+Repayments on loans/credits
+extended by foreign
+government/ International
+agencies/ institutions.
+
+9112
+Repayments short-term
+loans on account of
+government sectors buyers'
+credit/ approved external
+credits
+Repayments short-term loans on account of government sectors buyers'
+credit/ approved external credits (i.e. IDB/ITFC..etc.) by the BPC or the other
+public sectors.
+
+
+
+912
+Deposit taking corporations,
+except central bank (Only
+schedule Banks)
+
+9120
+Payments on short- term
+loans extended
+
+9121
+Repayment short- term loans
+913
+Other sectors - financial and
+non-financial corporations
+
+9130
+Payments on short- term
+loans extended (financial
+corporations)
+
+9131
+Repayment of short- term
+loans (financial
+corporations)
+
+9132
+Payments on short- term
+loans extended (non-
+financial corporations)
+
+9133
+Repayment of short- term
+loans ( non-financial
+corporations)
+
+9134
+Repayments short-term
+loans on account of buyers'
+credit (non- financial
+corporations)
+Repayments short-term loans on account of buyers' credit by the other
+sectors: non-financial corporations
+9135
+Repayments short-term
+loans on account of export
+bill discounting (non-
+financial corporations)
+Repayments short-term loans on account of export bill discounting credit by
+the other sectors: non-financial corporations

@@ -1,0 +1,186 @@
+--- Page 1 ---
+50080
+
+
+
+
+BANGLADESH BANK
+(Central Bank of Bangladesh)
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+Website:www.bb.org.bd
+
+Department of Off-site Supervision
+
+
+09 September 2015
+DOS Circular Letter No. 13 Date : --------------------------
+25 Vadro 1422
+Chief Executives/Managing Director
+All Scheduled Banks in Bangladesh.
+
+Dear Sir,
+Strengthening and updating the Risk Management System in banks.
+
+Please refer to the guidelines issued vide DOS Circular no. 02 dated 15-02-2012 and BRPD Circular
+no. 11 (Para 5.3) dated 27-10-2013 on the captioned subject.
+
+Practicing sound risk management is crucial for banking sector. Necessary instructions have been
+issued from time to time through above-mentioned circulars, guidelines and letters with a view to
+ensuring proper application of sound risk management in banks; i.e., for building the necessary
+infrastructure and taking various steps for identification, measurement, monitoring, and control or
+mitigation of various existing and potential risks; and maintaining adequate capital and provision to
+support risk-taking. To bring greater expertise and harmonization to risk management activities of all
+banks and exercise international best practices, a format named ‘Comprehensive Risk Management
+Report (CRMR)’ for assessing risks (annex-ka & kha), an organogram for a separate risk management
+division (annex-ga), and a structure of risk management committee at management level (annex-gha)
+have been prepared to be followed at a minimum in addition to the previously issued circulars. For
+stronger and timely/updated risk management activities, banks are asked to follow the instructions
+below, along with preparing reports as per the attachment:
+
+1) Organogram, scope/area of activity, reporting and human resources management of the separate
+risk management division:
+
+a) Banks shall prepare a Board-approved organogram of the risk management division (RMD) as per
+annex-ga, ensuring the use of information technology along with the appointment of adequate and
+skilled manpower.
+
+b) Banks shall appoint a Chief Risk Officer (CRO) from at least the AMD/DMD level who is not in-charge
+of the Internal Control and Compliance (ICC) department, and shall also form a management-level
+risk management committee with the CRO as the head.
+
+c) Banks shall appoint at least an EVP/SVP/DGM/VP as the head of the RMD who is experienced in risk
+management and who will be a member of all important committees related to risks (such as credit
+risk committee, ALCO, Basel Implementation unit, etc.).
+
+d) The RMD shall report high-risk related matters, identified by the management-level risk committee,
+directly to the Board risk management committee, and shall provide a copy to the Managing
+Director/Chief Executive officer for acknowledgement.
+
+e) Banks shall entrust in the RMD the responsibility of monitoring implementation of required
+corrective action, related to objections revealed in the inspections conducted on the basis of the
+core risk management guidelines.
+
+--- Page 2 ---
+50080
+
+
+
+
+BANGLADESH BANK
+(Central Bank of Bangladesh)
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+Website:www.bb.org.bd
+
+Department of Off-site Supervision
+
+
+
+
+f) The RMD shall determine the risk appetites on yearly basis for all possible measurable risk areas.
+These areas include, but are not limited to, sector, industry and area- wise loan targets, credit
+concentration among top-20 borrowers, off-balance sheet exposure as a percentage of total assets,
+the annual growth rate for loans and advances, limitations on the percentage of financial liabilities
+sourced from the top-10 suppliers, the gaps between total assets and liabilities in different time
+buckets of the liquidity profile, the gap between rate-sensitive assets and rate-sensitive liabilities
+in different time buckets, various ratios regarding liquid assets, expected loss from operational risk,
+and the Capital to Risk-weighted Asset Ratio (CRAR) after applying stress test. These risk appetites
+must be approved by the Board and sent to this department by the end of first quarter of every
+year.
+
+g) Banks shall submit the soft copy of their stress test results to this department along with the
+CRMRs in order to facilitate BB’s determination of the Comprehensive Risk Management Rating
+and understanding of the shock resilience capacity of the individual bank.
+
+2. Risk management related report and meeting minutes:
+
+a) Banks shall submit the soft copy of CRMR, prepared according to the annex-ka and meeting
+minutes of the management-level risk management committee to this department by August 10
+(based on June 30 data) and February 10 (based on December 31 data), for determination of the
+risk rating.
+
+b) For all months other than June and December, banks shall submit the monthly report, prepared as
+per annex-kha and meeting minutes of the management-level risk management committee by the
+end of the following month.
+
+c) Banks shall submit the meeting minutes of the Board Risk Management Committee to this
+department within 7 days of the meeting.
+
+3. Punitive actions will be taken against the concerned banks as per Bank Company Act 1991
+(amended upto 2013) for continuous failure in performing risk management related activities such
+as determination of risk appetite, risk identification, measurement, control or mitigation and for
+non-compliance to Bangladesh Bank instructions in this regard.
+
+This Circular letter is issued with immediate effect.
+
+In this regard, all the banks are advised to collect the soft copies of the ‘Comprehensive Risk
+Management Report (CRMR)’ format (annex-ka & kha) from this Department within the period of
+September 13, 2015 to September 17, 2015.
+
+Please acknowledge receipt.
+Yours Sincerely,
+
+
+
+
+
+
+
+
+
+
+
+Sd/-
+(S.M. Rabiul Hassan)
+General Manager
+Phone: 9530093
+
+--- Page 3 ---
+ms‡hvRbx ÔMÕ
+
+Structure of Risk Management Division
+
+
+
+
+
+
+
+
+
+
+
+
+CRM Desk
+ALM Desk
+Capital Management Desk
+ICC Desk
+AML Desk
+FX Desk
+ICT Desk
+Stress Test Desk
+Head of Division
+(EVP/SVP/DGM/VP)
+Chief Risk Officer (CRO)
+(AMD/DMD)
+
+--- Page 4 ---
+ms‡hvRbx ÔNÕ
+
+Structure of Risk Management Committee at management level/ All Risk Committee
+
+Chief Risk Officer, Chairman
+Head of ICC
+Head of CRM
+Head of ALM
+Head of AML
+Head of ICT
+Head of FX
+Head of Operations
+Head of Finance
+Head of any other department (not more than 4) related to risk
+management.
+Head of RMD, Member Secretary

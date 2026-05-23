@@ -1,0 +1,5333 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhka
+
+
+
+17 Agrahayan 1423
+BRPD Circular No-08
+Date: .......................................
+
+
+01 December 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Managing Directors/ Chief Executives
+All Scheduled Banks in Bangladesh
+
+
+
+
+Core Banking Solution (CBS) is playing a vital role for delivering technology driven
+banking services. Now-a-days the role of CBS is not just as a transaction processing engine, it is
+the key repository of information for further analyzing of CBS related data and detecting risk
+therein. A standard and flexible CBS is a significant contributor to bank's ability for quick
+response to the diversity of business including compliances with changing environment. But
+regulators/ supervisors are facing challenges to collect necessary and intended information for
+variations in CBS used by banks. In this context, it is necessary to formulate a uniform set of
+instructions that should be accommodated as minimum requirement but not limited to in any
+CBS.
+Guidelines on Core Banking Solution (CBS) Features and Controls
+
+Guidelines on Core Banking Solution (CBS) Features and Controls are hereby issued for this
+purpose.
+
+
+This guidelines shall come into force with an immediate effect but its full compliance
+must be completed within 12 months. This circular along with the Guidelines on Core Banking
+Solution (CBS) Features and Controls are available on the website of Bangladesh Bank. In case
+of any query arising in the process of implementation, banks are advised to communicate with
+Information Systems Audit and Compliance Division of IT Operation & Communication
+Department, Bangladesh Bank.
+
+
+Yours Sincerely
+
+
+(Abu Farah Md Nasser)
+General Manager
+Phone-9530252
+
+--- Page 2 ---
+Guidelines on
+Core Banking Solution (CBS)
+Features and Controls
+
+
+November, 2016
+
+Version 1.0
+
+
+
+
+
+
+
+
+
+BANGLADESH BANK
+
+--- Page 3 ---
+CBS Features and Controls
+
+
+2016
+Bangladesh Bank
+Page ii
+
+Working Committee
+Chairman
+
+Md. Jalal Uddin
+
+Systems Manager, IT Operation & Communication Department, Bangladesh Bank
+
+Members
+Mohammed Ishaque Miah
+Senior Systems Analyst, IT Operation & Communication Department, Bangladesh Bank
+
+Md. Amir Hossain Pathan
+Senior Systems Analyst, Information Systems Development Department, Bangladesh Bank
+
+Manoj Kumar Howlader
+Deputy General Manager, Department of Banking Inspection-1, Bangladesh Bank
+
+Prashanta Kumar Deb
+Deputy General Manager, Department of Banking Inspection-1, Bangladesh Bank
+
+Jayanta Kumar Bhowmick
+Systems Analyst, IT Operation & Communication Department, Bangladesh Bank
+
+Mohammad Imtiaz Kabir
+Systems Analyst, IT Operation & Communication Department, Bangladesh Bank
+
+Gazi Md. Mahfuzul Islam
+Joint Director, Department of Banking Inspection-4, Bangladesh Bank
+
+Masuma Begum
+Systems Analyst, Information Systems Development Department, Bangladesh Bank
+
+Hasan Tareq Khan
+Joint Director, Integrated Supervision Management Cell, Bangladesh Bank
+
+Amitabh Chakraborty
+Joint Director, Department of Banking Inspection-2, Bangladesh Bank
+
+Md. Shafiul Alam
+Joint Director, Foreign Exchange Policy Department, Bangladesh Bank
+
+--- Page 4 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page iii
+
+
+Md Iqbal Hossain
+Deputy Director, Banking Regulation and Policy Department, Bangladesh Bank
+
+Md. Sohel Saklain
+Deputy Director, Financial Stability Department, Bangladesh Bank
+
+Quazi Abu Tayem
+Deputy Director, Department of Off-Site Supervision, Bangladesh Bank
+
+Md. Lutful Haidar Pasha
+Deputy Director, Banking Regulation and Policy Department, Bangladesh Bank
+
+Md. Amirul Islam
+Programmer, IT Operation & Communication Department, Bangladesh Bank
+
+Md. Kamrul Islam
+Programmer, Bangladesh Financial Intelligence Unit, Bangladesh Bank
+
+Muhammad Omar Sharif
+Deputy Director, Bangladesh Financial Intelligence Unit, Bangladesh Bank
+
+Md. Iqbal Hossain
+SEVP & Head of IT Infrastructure & Planning, Prime Bank Limited
+
+Md. Shah Alam Patwary
+Executive Vice President & Group Chief Information Officer, Mutual Trust Bank Limited
+
+Md. Rafiqul Islam
+Assistant General Manager, IT Division-1, Sonali Bank Limited
+
+Sheikh Monirul Islam
+Vice President, AB Bank Limited
+
+Mohammed Moazzem Hossain Khan
+Vice President & Head of IT Development Division, Dutch-Bangla Bank Limited
+
+--- Page 5 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page iv
+
+Pabitra Kumar Debnath
+Vice President & Senior Manager, Application Support, The City Bank Limited
+
+Wahidul Alam
+Head of Item processing, Standard Chartered Bank
+
+Md. Kamrul Ahsan
+Head of Banking Operations Product Technology, Standard Chartered Bank
+
+Md. Soeb Ul Islam
+SAVP, IT Division, Social Islami Bank Limited
+
+Kazi Md. Ehasanuzzaman
+Senior Assistant Vice President, Southeast Bank Limited
+
+Md. Helal Uddin
+DGM & Division Head, Pubali Bank Limited
+
+Ashim Kumar Roy
+Deputy General Manager, Pubali Bank Limited
+
+Mohammad Rezaul Karim
+Vice President, Islami Bank Bangladesh Limited
+
+Md. Shahinur Rahman
+Vice President, Bank Asia Limited
+
+--- Page 6 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page v
+
+Table of Contents
+
+Introduction .......................................................................................................................................... 1
+Module: General Banking ..................................................................................................................... 2
+1.1
+Bank and Branch Setup ................................................................................................................. 2
+1.2
+End of day/Beginning of day/Month End/Year End Operation .................................................... 3
+1.3
+General Ledger .............................................................................................................................. 3
+1.4
+Customer Profile ........................................................................................................................... 6
+1.5
+Reconciliation and Settlement ...................................................................................................... 8
+1.6
+Clearing ......................................................................................................................................... 8
+1.7
+Account Transaction ................................................................................................................... 11
+1.8
+Teller Transaction........................................................................................................................ 13
+1.9
+Standing Instructions .................................................................................................................. 14
+Module: Bills and Remittance ............................................................................................................. 15
+2.1
+Local Remittance ......................................................................................................................... 15
+2.2
+Foreign Remittance ..................................................................................................................... 16
+Module: Deposits ................................................................................................................................ 19
+3.1
+General Characteristics ............................................................................................................... 19
+3.2
+Savings Deposit/Mudaraba Savings Deposit for Shariah based Islamic Banks ........................... 23
+3.3
+Current Deposit/Al-Wadiah Deposit for Islamic Banks ............................................................... 24
+3.4
+Special Notice Deposit/Mudaraba Special Notice Term Deposit ............................................... 24
+3.5
+Fixed Deposit Receipt.................................................................................................................. 25
+3.6
+Monthly/Quarterly/Other term Profit Based Fixed Deposit ....................................................... 26
+3.7
+Deposit Multiplication Scheme (Double, Triple, etc.) ................................................................. 27
+3.8
+Deposit Pension Scheme (DPS) ................................................................................................... 27
+3.9
+Continuous Loan Overdraft (OD) on Current Account ................................................................ 27
+3.10
+Teller (Cash Counter) Transaction Services ................................................................................ 28
+3.11
+Payment Order (PO) Transaction Services .................................................................................. 29
+3.12
+Demand Draft (DD) Transaction Services ................................................................................... 29
+3.13
+Telegraphic/Telephonic Transfer (TT) Transaction Services ....................................................... 30
+Module: Loans/Credit/Investment ..................................................................................................... 30
+
+--- Page 7 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page vi
+
+4.1
+Continuous Loan (CC/OD) ........................................................................................................... 30
+4.2
+Fixed Term Loan .......................................................................................................................... 32
+4.3
+Quard (Islamic Finance) QTDR, QHG, QPF, QBF, QACA .............................................................. 35
+4.4
+Short Term Agricultural and Micro-Credit Loan ......................................................................... 36
+4.5
+Demand Loan .............................................................................................................................. 37
+4.6
+Discounted Loan ......................................................................................................................... 38
+Module: Trade Service ........................................................................................................................ 39
+5.0
+UNSCR and local sanction screening for International trade...................................................... 39
+5.1
+Import ......................................................................................................................................... 39
+5.2
+Export .......................................................................................................................................... 45
+5.3
+Remittance .................................................................................................................................. 47
+5.4
+Guarantee ................................................................................................................................... 48
+5.5
+Back-to-Back LC ........................................................................................................................... 48
+Module: Treasury ................................................................................................................................ 51
+6.1
+Products ...................................................................................................................................... 51
+6.2
+Front Office ................................................................................................................................. 51
+6.3
+Middle Office............................................................................................................................... 52
+6.4
+Back Office .................................................................................................................................. 53
+6.5
+Other Features ............................................................................................................................ 54
+Module: System Administration ......................................................................................................... 62
+7.1
+User Management ...................................................................................................................... 62
+7.2
+Role Management ....................................................................................................................... 62
+7.3
+Application Administration ......................................................................................................... 63
+Module: Reporting .............................................................................................................................. 65
+
+--- Page 8 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page vii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[This page is intentionally left blank.]
+
+--- Page 9 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 1
+
+Introduction
+
+Banking industry in Bangladesh is the core driver in economic development of the country. The focus for
+inclusion and aim for sustainability have advanced the industry to grow with a faster pace and in a well-
+structured manner. The industry has undergone with many changes on providing the services to their
+customers. Most of the banks have adopted automated banking environment for faster services, better
+control in operations and established alternate delivery channels to facilitate services at door-steps.
+Core Banking Solution (CBS) is playing a vital role for this technology driven banking services. Today the
+role of CBS is not just as a transaction processing engine, it is the key repository of information to
+further analyze and detect risks. A standard and flexible CBS is a significant contributor to a bank's ability
+to respond quickly to the diversified business including compliances with changing regulations.
+Apart from the CBS, Banks are using different important solutions for different business portfolios like
+Trade Finance, Remittance, Asset Liability Management, Anti-Money Laundering, Card Management,
+etc. Though these business operations may be done using separate solutions, the reporting to
+stakeholders and regulators is done in a consolidated manner. Most of the commercial banks have
+already implemented CBS and the rests are on the way of implementation. Different commercial banks
+of Bangladesh are using different outsourced or self-developed CBS. For the variations in development
+architecture, support service, modality and flexibility in these systems, stakeholders are facing
+challenges to collect necessary and intended information at right time. This necessitates a uniform set of
+instructions that should be accommodated as minimum requirement in any CBS.
+This document is developed in a collaborative approach to guide the commercial banks in Bangladesh
+for maintaining minimum required features and controls in their CBS and other related banking
+solutions so that the banks can comply with most of the stakeholders’ requirements. The document
+covers necessary features and controls of banking services like General Banking, Bills and Remittance,
+Deposits, Loans/Credit/Investment, Trade Service, Treasury, System Administration and Reporting. Each
+bank has its own way of management reporting and regulators also have their different query and
+reporting requirements which are changing over time, as such fixed reporting formats and demands
+could not be stated in the Reporting module. It is expected that the reporting tools used in the banking
+system shall be capable and flexible enough to generate new format of reports as required. Bangladesh
+Bank reserves the right to amend/review this document as and when necessary.
+
+--- Page 10 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 2
+
+Module: General Banking
+1.1
+Bank and Branch Setup
+Sl. No.
+Item
+Description
+1.1.1
+Initial Parameter Setup
+Ability to setup various number formats, i.e. Service
+Outlet/Branch (SOL)Number Format, Customer Information File
+Number (Cust ID) Format, Internal Account (Office Account)
+Number Format, Customer Account Number Format, Addition
+of check digit to omit mistakes.
+ii.
+Account Number length shall be 13 digits or mapped to 13
+digits. (Length may change as per regulatory requirement).
+iii.
+Ability to setup configurable Chart of Accounts [shall have tree
+format].
+iv.
+Ability to setup remittance (PO/DD and so on).
+Ability to setup configurable Products.
+vi.
+Ability to set up configurable customer segment
+vii. Ability to setup Static Code/Reference Codes.
+viii. Ability to configure back dated interest rate with amount slab,
+term with prior approval from management.
+ix.
+Ability to setup inter-branch transaction.
+1.1.2
+Configuration
+Management and
+System Architecture
+Capability to setup all services like interest calculation and
+applying process, EMI service, charging services (periodic and
+adhoc) etc.
+ii.
+Configuration management shall have role based option to
+add/activate/deactivate/view of any functionality.
+iii.
+Ability to ease Branch setup.
+iv.
+Ability to branch wise open/close maintenance of branch
+operations.
+Deployable in 365*24*7 mode for delivery channels.
+vi.
+Interoperable to talk to the external (3rd party) system using
+standard protocols like ISO 8583 or web services. System shall
+have service oriented architecture.
+vii. Shall have well thought and architected security framework.
+viii. Ability to interface with general required third-party
+applications.
+ix.
+System setup architecture shall be scalable.
+System shall have single sign on mechanism to access any
+module of CBS.
+xi.
+System shall have Role based User Management.
+xii. Calendar configuration facility shall have holiday information.
+xiii. System shall have data archiving and housekeeping facility.
+xiv. If any branch remains closed, online transactions, ATM, POS
+transactions and Internet Banking to be facilitated keeping the
+system up and running.
+
+--- Page 11 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 3
+
+1.2
+End of day/Beginning of day/Month End/Year End Operation
+Sl. No.
+Item
+Description
+1.2.1
+Initial Configuration
+Batch Job Creation and Scheduling.
+ii.
+EOD/BOD parallelization configuration facility.
+iii. Load balancing in parallel job.
+iv. Ability to every-step EOD execution logs generation.
+Log creation configuration facility.
+vi. Usage of standard messaging format.
+vii. Ability to Centralize EOD/BOD with branch wise options.
+1.2.2
+Book Closure Activity
+Daily interest accrual/daily interest provisioning/monthly
+interest provisioning, monthly/quarterly/half-yearly interest
+payment and collection or profit/loss sharing, interest
+adjustment facility and annual transfer of profit and loss and
+initializing the values for the current year, on maturity proceed
+to be transferred/made inoperative with payable deposit
+awaiting disposal.
+ii.
+Besides, system shall be smart enough to collect charges and
+disburse interest on calendar dates. This calendar dates may be
+monthly, quarterly, half-yearly or yearly.
+iii. Transfer amount from income & expenditure GL heads to
+retained earnings account through voucher formation as part of
+year end process. System shall produce audit trail report.
+iv. The year-end/half year-end process shall be as simple as the day
+close with certain charge computation at the year-end/half
+year-end. In fact, all processes shall be parameterized setting
+with frequency (Daily/Monthly/Quarterly/Half-Yearly/Yearly
+etc.).
+There shall be options so that the system can flag the
+inoperative/unclaimed deposit accounts for necessary actions.
+
+1.3
+General Ledger
+Sl. No.
+Item
+Description
+1.3.1
+Chart of Accounts
+System shall provide a complete and comprehensive bank
+definable chart of accounts aligned with Bank Company
+Act/IAS/IFRS/BAS which covers all types of Assets, Liabilities,
+Income, Expenses, Contingent and Memo, Provision,
+Profit/Loss, Sundry/Suspense, Inter-branch Reconciliation
+accounts. The chart of account shall be identifiable in terms of
+head office transaction, individual branch transaction,
+transaction for subsidiaries and corporate house/centralized
+trade house transaction. System shall have capacity to put
+restriction on particular branch(es) or all. To ensure that banks
+are advised to take more layers for chart of accounts on
+granular basis.
+1.3.2
+Multi Currency
+System shall have multi currency transaction based General
+
+--- Page 12 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 4
+
+GL/Accounts
+ledgers/Accounts and shall be able to produce separate
+currency wise report.
+ii.
+System shall carry both original transaction currency and
+equivalent base currency balances in General Ledger/Account.
+iii.
+System shall be able to provide revaluation functionality for
+General Ledger/Accounts with Foreign Currency balances.
+1.3.3
+Accounting Rules Setup i.
+System shall be able to setup accounting rules in different
+business modules based on product type, customer type and
+business event type.
+ii.
+System shall be able to freeze/limit account-wise transaction
+(Debit/Credit) setup, online transaction option, system
+generated or both system & manual transaction option.
+Transaction shall be allowed from any branch.
+iii.
+System shall be able to define different fees/charges, interest
+rate setup at product level.
+1.3.4
+Back Value Entry
+System shall be able to allow back dated/value dated
+transactions both in customer and financial general
+ledgers/accounts, and there shall be restrictions on these dates.
+ii.
+System shall be able to adjust the interest and charges issues for
+back dated entries in customer accounts.
+iii.
+System shall have high supervision methodology (e.g. EOD
+report verified by independent person) for any type of back
+value entry process. Shall be able to accommodate historical
+archive for those entries.
+iv.
+Dual control (maker/checker) shall be required to make any
+back value entry. Approved Delegation of Authority (DOA) shall
+particularly mention the control authorities.
+1.3.5
+Self Balance for Manual
+General Ledger Entries
+System shall be able to perform self-balancing check to ensure
+that the debit and credit totals tally for manually entered
+general ledger batch entries.
+1.3.6
+Reversal Accounting
+Entries
+System shall be able to auto-generate the reversal entries once
+the original transaction is being reversed. It shall exclude those
+reversals during data analysis and MIS and there shall be audit
+trail for all reversals.
+ii.
+System shall reverse all related entries (charges and
+commission, VAT, etc.) too with back value dated options.
+iii.
+System shall have ability to identify all reversal entries.
+1.3.7
+Interest Accruals and
+Suspense Entries
+System shall ensure that the entries for interest accruals
+generated from business module automatically will be posted to
+the respective interest accrual General Ledger accounts as per
+product /Cost Center and Profit Center/Branch/Division.
+ii.
+System shall be able to provide account-wise interest
+calculation details for any period of time.
+1.3.8
+Layer
+System shall have ability to handle the business center concept
+with multiple layers, e.g.-
+HO>Division>Region>Cluster>Branch>etc.
+ii.
+System shall be able to analyze profitability in all layers.
+
+--- Page 13 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 5
+
+Separate trial balance, profit and loss account, balance sheet
+shall be generated for all layers and subsidiaries.
+iii.
+System shall comply with all accounting/general ledger entries,
+reports, modules with the cost center and profit center concept.
+1.3.9
+Revaluation of Foreign
+Currency Positions
+System shall perform the revaluation of foreign currency
+positions to convert to base currency, at user definable intervals
+such as- daily, weekly, monthly, quarterly, half-yearly or yearly.
+1.3.10
+Transaction
+Authorization to
+General Ledger
+System shall capture unique transaction reference number, the
+client code, the branch code, the general ledger account
+number, transaction date, value date, currency, input user ID,
+workstation ID and batch number at a transaction level to be
+authorized to the general ledger.
+ii.
+System shall be able to store transaction audit log including
+maker/checker with time-stamp.
+1.3.11
+Restrictions for Entry
+Generation and View
+System shall be able to restrict any user/class/group for entry
+generation, authorization, view, report generation, etc. These
+restriction-parameters shall be user defined.
+ii.
+System shall have capability to setup user-wise, product-wise
+and currency-wise detail transaction limit including entry/verify,
+debit/credit, cash/clearing/transfer, same branch/online branch
+as per delegation of authority.
+1.3.12
+Edit/Delete of Voucher
+System shall be able to restrict edit/delete after authorization of
+any voucher.
+ii.
+System shall have option to reject any transaction during
+authorization.
+1.3.13
+Balance
+Restriction/Prompt/
+Reminder Option
+System shall raise an override flag at the time of entry
+generation of the transaction when balance mismatch is
+occurred and do not allow to close the batch without balancing.
+ii.
+System shall not allow any transaction without matching contra
+balance. Tellers shall not be allowed to send any transaction
+with balance mismatch to the authorizers.
+1.3.14
+Auto Provision for
+Expenses
+System shall make cost center/profit center/branch-wise
+automatic provision for expenses as per user defined rules
+(fixed/floating/average/percentage).
+ii.
+System shall be able to adjust the provision (fully or partially) as
+per user defined (fixed, percentage, minimum, maximum)
+format (cost center/profit center/branch).
+1.3.15
+Day Close with
+Unauthorized
+Voucher
+System shall not close the day with unauthorized voucher.
+ii.
+This day closing shall be checked branch-wise. If EOD runs
+centrally, it shall be taken care of by central team.
+iii.
+System shall provide a branch-wise report for unauthorized or
+deleted vouchers.
+1.3.16
+VAT & TAX and Other
+Charges Compliant
+System shall be flexible/capable enough to parameterize the
+local Tax, VAT and other charges (source tax, excise duties,
+withholding tax, service charges etc.) rules.
+ii.
+This shall be configurable.
+1.3.17
+Integration with Other
+System shall integrate the general ledger with all the
+
+--- Page 14 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 6
+
+Software/Modules
+transactional modules of other banking systems as per cost
+center/profit center/branch concepts.
+1.3.18
+Maker-Checker
+Functionality
+System shall support maker-checker functionality on real time
+basis for allowing entry, verification, editing, committing, post
+commit verification and audit by different users based on
+Account type, Product type, Transaction type.
+1.3.19
+Authorization
+System shall support multiple levels/parallel levels of
+authorization (based on a predefined number as per delegation
+of authority).
+
+1.4
+Customer Profile
+Sl. No.
+Item
+Description
+1.4.1
+Unique Identification
+System shall maintain unique Customer ID to open any
+relationship with bank for a customer.
+ii.
+Customer may have multiple products in a bank but he/she shall
+have one unique ID/customer ID.
+iii.
+System shall have option to create a group ID linking with
+multiple customers IDs.
+iv.
+System shall have different types of searching option to identify
+unique customer.
+1.4.2
+Sanctioned Screening
+(May be done by
+separate software)
+During creation of customer profile, built-in sanction screening
+system shall scan the customer information automatically and
+based on scanning result, it may allow creating the customer ID
+or waiting for decision.
+ii.
+Bank which has separate system to check sanctioning shall have
+proper audit trail and approval before opening relationship.
+iii.
+The system shall have option for AML Escalation screening as
+per AML matrix of the bank.
+1.4.3
+Capture Information
+(as per Bangladesh
+Bank KYC A/C Opening
+Form at least)
+System shall store Income Source, Address Details, Currency
+Details, Nominee Details, Signatory Details, NRB Details,
+Professional Details, Transaction Profile (TP), Personal Details,
+predefined Customer Occupation, and Legal Guardians’
+Information for minors.
+ii.
+Information given by prospective account holder shall be
+verified with the concerned authority (NID, TIN, VAT, Passport,
+Birth Registration Number authorities).
+iii.
+System shall support identification of certain constitution in
+multiple level such as:
+For partnership accounts: Registered/Unregistered
+For Societies/clubs: Incorporated/Unincorporated
+For Trusts: Private/Public and Registered/Unregistered
+iv.
+System shall facilitate to identify customers on various classes
+such as:
+Primary account holder, Joint account holder, Proprietor,
+Partner, Secretary, Director, Manager, Power of Attorney
+holder, Nominee, Minor, Guarantor.
+
+--- Page 15 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 7
+
+System shall be able to establish relationship between Multiple
+CIF with different business segments, i.e. corporate with retail,
+retail with VIP, corporate with treasury.
+vi.
+System shall have ability to incorporate free-form text notices
+to customer records.
+vii. System shall facilitate to identify customers on various liability
+classes not limited to Borrower Guarantor Co-obligate.
+viii. System shall facilitate to search customer based on occupation.
+ix.
+Compulsory fields and optional fields shall be marked, without
+inserting the compulsory values the system shall not complete
+the particular procedures.
+1.4.4
+Mandatory Information
+for GoAML (If the
+information is covered
+in the Capture
+Information section,
+this section may be
+ignored)
+For Bearer:
+Name of Bearer
+ii.
+NID/Passport/Birth Registration No.
+iii. Address of Bearer
+iv. Mobile/Land Phone No.
+For Individuals:
+NID/Passport/Birth Registration No.
+ii.
+Address
+iii. Mobile/Land Phone No.
+iv. Date of Birth
+Gender
+vi. Father/Mother/Spouse Name
+vii. Details Occupation
+viii. Source of Wealth/Source of Income
+For Corporate:
+Incorporation No./Trade License No.
+ii.
+e-TIN number
+iii. Business Address
+iv. Mobile/Land Phone No.
+Director of Corporate:
+Occupation
+ii.
+Role of Director
+iii. NID/Passport/Birth Registration No.
+iv. Address
+Mobile/Land Phone No.
+vi. Date of Birth
+vii. Gender
+viii. Father/Mother/Spouse Name
+ix. Details of Occupation
+Source of Wealth/Source of Income
+1.4.5
+e-TIN (optional)
+System may validate insertion of e-TIN to disallow same e-TIN
+against different customer IDs, i.e. system will allow an e-TIN for
+only one customer ID.
+1.4.6
+NID Verification (May
+be done by separate
+software)
+During creation of customer profile, built-in validation system
+(aligned with the system of EC) shall bring information of
+customer from EC and if matched, user may create customer
+
+--- Page 16 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 8
+
+profile in system.
+1.4.7
+Signature/Photograph
+System shall have ability to capture of signatures/thumb
+imprints/bio metric stamp and photographs wherever required.
+ii.
+System shall store signatures in encrypted format.
+iii.
+In case of more than one signatory (joint accounts and company
+accounts), system shall capture signatory-wise
+signatures/thumb imprints/bio metric stamp and photographs
+and shall make those viewable at the time of transaction.
+iv.
+System shall retrieve and view signatures of any customer in
+any branch with mode of operation and name/designation of
+the signatory [that view shall be account number-wise instead
+of customer IDs].
+System shall support storing of scanned signatures in
+compressed format.
+vi.
+System shall support to view signature history.
+1.4.8
+Nomination
+System shall have ability to nominate more than one person in
+an account with minor option.
+1.4.9
+File Upload Facility
+File upload facility may be introduced to create mass customer
+IDs for corporate houses.
+
+1.5
+Reconciliation and Settlement
+Sl. No.
+Item
+Description
+1.5.1
+Inter Branch/Inter
+Office/Nostro/Vostro
+System shall provide a complete auto reconciliation of all inter
+branch/inter-office/Nostro/Vostro/ATM/POS/SMS
+/Internet/Call Centre/Credit Card/RTGS/BEFTN.
+ii.
+System shall provide reports for all unmatched items as per
+inter branch/interoffice/cost center/profit center/Nostro/
+Vostro with aging analysis and shall have export facility to
+Excel/PDF/RTF/DOC/Access.
+iii.
+The reconciliation shall be defined and there shall be options for
+daily reconciliation.
+iv.
+The system shall be able to send the statement of un-reconciled
+entries to the respective branches/offices.
+
+1.6
+Clearing
+Sl. No.
+Item
+Description
+1.6.1
+General
+System shall support following categories of clearing and not
+limited to MICR and Non-MICR.
+ii.
+System shall handle clearing operation of more than one
+clearinghouse in an area if required.
+iii.
+System shall have ability to maintain of a master list of banks
+with their branches participating in the clearing along with MICR
+code, Bank code, financial ID, etc.
+iv.
+System shall process single or batch of Inward and Outward
+
+--- Page 17 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 9
+
+instruments.
+System shall support immediate fund availability after clearing
+settlement.
+vi.
+System shall support to hold clearing house due to any
+unavoidable situations.
+1.6.2
+Outward Clearing
+System shall capture details of multiple instruments of same or
+different banks/branches for outward clearing for credit to a
+single account in a single batch.
+ii.
+System shall have ability to allow/disallow withdrawal from an
+account based on status of the instruments presented in the
+clearing with multi-level approval.
+iii.
+System shall have ability to use external utilities such as and not
+limited to Scanner, MICR Reader, and Sorting Machine.
+iv.
+System shall have ability to upload clearing data online or from
+files in a specified format from other branches/customers.
+System shall have ability to mark returned instruments and to
+collect charges from the related account automatically based on
+parameterized values and to capture reasons for return.
+vi.
+System shall have ability to enter clearing instruments for future
+clearing dates with facility to capture entry date, clearing date
+and realization date.
+vii. System shall set realization date for a clearing based on
+category of clearing - Clearing session, Number of days.
+1.6.3
+Inward Clearing
+System shall support Electronic Clearing Services to debit/credit
+customers’ accounts.
+ii.
+System shall have ability to enter data inward items to customer
+accounts based on the data received from clearinghouse
+manually, upload data from a specified file formats, or input the
+data generated by the MICR reader at the service branch.
+iii.
+System shall have ability to generate and print advice (return
+memo) for return instruments with the following details among
+others-
+- Reason of return
+- Instrument details
+- Bank/branch details
+- Charges
+iv.
+System shall have ability to pay of dividend warrants/interest
+warrants/refund warrants presented through clearing. System
+shall be able to show both inward and outward clearing cheque
+details at account level including cheque amount, date, status
+etc.
+System shall have ability to generate partial instrument-wise
+/module-wise/product-wise batch.
+vi.
+System shall have capability to segregate cheques in instrument
+wise and value wise, so user can perform verification as per
+their delegation of authority with dual control.
+
+--- Page 18 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 10
+
+1.6.4
+BEFTN (Instruction
+base)
+Credit Instruction:
+System shall process the Credit EFT instruction to the client
+account of other bank through BEFTN channel by debiting the
+local client account (who will give instruction).
+System of responding bank shall be able to receive the
+instruction and credit the same to designated client account.
+If Bank/Branch/Account No. does not match, system of
+responding bank shall process the return.
+ii.
+Debit Instruction:
+System shall process the outgoing Debit EFT instruction of
+originating bank, response of incoming EFT debit instruction of
+responding bank by debiting the respective account and
+crediting the account of originating bank.
+If Bank/Branch/Account No. does not match, system of
+responding bank shall process the return.
+Authorization of account debit through BEFTN shall be taken
+from the customer “by the originator” which account will be
+debited through EFT Debit Instruction.
+1.6.5
+RTGS
+System shall be able to handle incoming and outgoing RTGS
+operations for (i) client and (ii) financial institute to financial
+institute like Government Securities including Islami Bond
+Transactions, Money Market Transactions, and Fund Conversion
+Transactions between Two Currencies etc.
+ii.
+System shall be capable to process the transactions in both
+Local Currency and Foreign Currencies.
+iii.
+System shall have the facility to avail Intraday Liquidity Facility
+(ILF) in the form of intraday REPO transaction mechanism
+against Bangladesh Government Treasury Bonds (BGTB),
+Treasury Bills and Bangladesh Bank Bills during the operational
+hours of RTGS and settle the same on daily basis. Transactional
+process shall be integrated with the CBS.
+1.6.6
+Demand Draft/Pay
+Order (DD/PO)
+System shall support operations like issue, payment, refund and
+cancellation, issue of duplicate, etc. in Branches.
+ii.
+System shall support maintenance of stock and operation of
+PO/DD instruments.
+iii.
+System shall support DD/PO having pre-printed identification
+numbers in numeric as well numeric with alpha prefix.
+iv.
+System shall allow realization of charges along with applicable
+VAT and Tax.
+System shall calculate the PO amount and Charge amount and
+deduct the same from source account separately at the time of
+transaction.
+vi.
+System shall store Name, Photo ID No., NID No. of the sender
+and/or receiver and reason of transaction for walk-in customer
+in case of transaction above a certain limit e.g. BDT 5000.
+System shall ensure UNSCR &Local Sanction Screening
+1.6.7
+Cheque
+System shall support maintenance of stock and operation of
+cheque books.
+
+--- Page 19 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 11
+
+ii.
+System shall have interface with 3rd party for outsourcing
+printing.
+iii.
+System shall support recording details of cheque series and
+numbers of cheque leaves issued/utilized to customer for each
+account separately.
+iv.
+System shall support classification of accounts as cheque issued
+and not issued accounts.
+System shall have mail provision to mark confirmation of
+delivery and may send SMS to client.
+vi.
+System shall support recovering (and waiving) charges
+concurrent with issue of cheque books on predefined
+parameters.
+vii. System shall have facility to cancel cheque book/leaves and stop
+Payment/Revoke.
+viii. System shall accept stop payment/revoke instruction from any
+branch with reason details.
+ix.
+System shall generate stop payment advice for the customer
+indicating cheque numbers and charges debited, stop payment
+reference number etc.
+System shall disallow payment of a cheque under stop payment
+instruction. Notify teller end if cheque number is marked as
+“Stop payment”.
+xi.
+System shall have ability to mark stop payment for a series of
+cheques or various leaves under same books. This option shall
+maintain the change log having the date of changes.
+xii. System shall not accept paid and cancelled cheque leaves for
+any transaction and notify teller if cheque number is marked as
+“paid off/cancelled”.
+xiii. System shall provide facility to view the status/fate of a cheque
+leaf/range of cheques/cheque books for a particular account.
+xiv. System shall store Name, Photo ID No., NID No. of the bearer
+and reason of transaction in case of online deposit/withdrawal
+amounting above a certain limit e.g. BDT 5000.
+xv. Undelivered cheque book report with ageing shall be generated
+from the system.
+
+1.7
+Account Transaction
+Sl. No.
+Item
+Description
+1.7.1
+Other Bank Cheque
+Deposit for Clearing
+System shall comply with all Bangladesh Bank defined
+procedures.
+1.7.2
+Account Transfers
+System shall perform internally maintaining same currency.
+ii.
+System shall show restrictions/risk in account level during
+transaction performing.
+iii.
+System shall check fund availability during transaction approval.
+iv.
+System shall update customer balance status immediately.
+System shall not allow transaction if reject marker (court
+
+--- Page 20 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 12
+
+order/freeze order) attached in the account.
+1.7.3
+FC Draft Sale
+System shall support it for Cash to Account.
+1.7.4
+Account Closing
+System shall have ability to mark accounts as closed without
+deletion from system.
+ii.
+System shall produce sufficient audit log.
+iii.
+System shall not allow any A/C closing if it is linked with other
+existing live account(s).
+iv.
+System shall not allow any A/C closing if it has unapplied
+interest in provision field.
+1.7.5
+Automated Settlement
+and Clearing Functions
+System shall match all inter- and intra-bank journal entries
+automatically according to dual-entry accounting standards.
+1.7.6
+Blocking Options
+System shall be flexible to associate pledging, earmarking, fraud
+detecting and collecting with any account or sub-account with
+sufficient reason and audit log details.
+ii.
+System shall have functionality to realize block amount while
+fund is available.
+1.7.7
+Stop Payment
+System shall have ability to reconcile pending stop-payment
+requests including insert, amend, inquiry and delete with
+account status (e.g. no stop-payment requests for closed
+accounts) in addition to standard functionality.
+ii.
+System shall have auto tracking of identifying cheque numbers
+of requested stop cheques. If paid stop payment order will be
+rejected by system/if not paid system will execute
+automatically.
+1.7.8
+FC Travelers' Cheques
+System shall have option to sale FC Travelers' Cheques on Cash,
+Account, Against FC cash, FC Accounts.
+ii.
+System shall have ability to purchase/sell of Travelers' Cheques
+using Account Cheques or Cash.
+1.7.9
+Purchase of FC Cash
+with Local Cash
+System shall have ability to purchase of FC Cash with local Cash.
+1.7.10
+Check Clearing
+Processing
+System shall have ability to inward cheque-clearing processing.
+1.7.11
+Fund Transfers with
+connection to SWIFT
+System shall have ability to generate fund transfers with
+automatic connection to SWIFT and proper formatting in SWIFT
+format maintaining proper security protocols.
+1.7.12
+Back/Forward Value
+Date Validation
+System shall have ability to validate the back value and ensure
+the correct date.
+1.7.13
+Limit Expiration
+System shall have option to make automatic expiration of
+corporate limits.
+1.7.14
+Dormancy Rules
+System shall have ability to set rules for dormant account
+(manually or automatically).
+ii.
+System shall place rules to automatically set account dormant
+or restrict action if rules are not met.
+iii.
+System shall generate letters notifying the dormant
+accountholders about the dormancy state of their accounts.
+iv.
+Shall have ability to restrict signature card showing.
+Shall have ability to disallow different transactions as per
+
+--- Page 21 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 13
+
+parameter setup.
+1.7.15
+Cross Currency
+Transaction
+System shall have ability to support cross currency transaction.
+ii.
+System shall have flexibility to restrict cross currency
+transaction at the global parameter level as per foreign
+exchange policy.
+1.7.16
+File upload facility
+File upload facility is required for bulk uploading of transactions,
+e.g. salary, dividends, refund warrants etc.
+1.7.17
+Alert
+Credit Transaction alert based on a threshold value
+ii.
+Debit Transaction alert based on a threshold value
+iii.
+Periodic alert (Monthly/Quarterly/Half-Yearly/Yearly based on
+bank’s policy (product wise separate period).
+
+1.8
+Teller Transaction
+Sl. No.
+Item
+Description
+1.8.1
+General Characteristics
+System shall perform automated transaction generation and
+generate unique batch number for future reference.
+ii.
+Shall move to supervisor queue for onward approval if teller
+limits are crossed.
+iii.
+System shall monitor stock of cash on the following counts:
+a. Holding of cash in a branch
+b. Holding of cash, cashier-wise
+c. Cashier-wise stock
+d. Cash stock in vault, denomination-wise
+iv.
+System shall support denomination-wise exchange of cash.
+System shall support collection of charges for cash
+remittances/withdrawal.
+vi.
+System shall support withdrawal of cash using
+a. Cheque
+b. Withdrawal form
+c. Bank’s internal voucher
+vii. System shall support cash payments of remittance instruments.
+viii. System shall provide support to allow/restrict withdrawal of
+cash.
+ix.
+System shall provide multi-level approval for cash withdrawal
+exceeding clear balance.
+System shall check Transaction Profile (TP) & generate
+appropriate Override/Alert messages before any teller
+transaction is saved. Moreover system shall generate TP
+violation report at any time of point.
+xi.
+Transaction shall be identified by transaction types.
+xii. Transaction types shall be defined by channels.
+1.8.2
+Denomination
+System might support denomination-wise capture during any
+cash transaction, remittance, withdrawal, etc.
+1.8.3
+Available Balance
+System shall show account balances/shadow balances to users
+who are allowed to see the balances (role based).
+1.8.4
+Account Information
+System shall show contact number, address.
+
+--- Page 22 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 14
+
+ii.
+There shall be automated KYC update requirement prompt in
+the system as per BFIU circular no 10, 2014.
+1.8.4
+Meaningful Reference
+Number
+System shall use traceable reference numbers.
+1.8.5
+Signature & Photo
+System shall show A/C holder’s signature in teller screen.
+ii.
+System shall show A/C holder’s photograph (on request) with
+signature card.
+1.8.6
+Priority Customer
+System shall notify the teller about the priority customer as well
+as any remarks or notification.
+1.8.7
+Customer/Bearer
+System shall notify the teller about the customer/bearer if
+he/she is enlisted in UNSCR or local sanction.
+1.8.8
+Approval
+System shall ask for approval in case of above limit transaction.
+1.8.9
+Payment Instruments
+System shall issue, print and clear PO/DD.
+1.8.10
+OD Limit
+System shall show teller the OD sanction limit, available balance
+and expiry date.
+1.8.11
+Evening banking
+System shall have feature to provide evening banking facilities
+for the authorized branches in line with guideline.
+
+1.9
+Standing Instructions
+Sl. No.
+Item
+Description
+1.9.1
+Automatic
+Sweep/Standing
+Instruction Facilities
+System shall be able to transfer of fund from one to many,
+many to one, many to many and one to one based on clients
+instruction (maintaining minimum Balance/Fixed Amount) or
+tenure-wise.
+ii.
+Sweep transactions may be both push and pull (i.e. sweep-in
+and sweep-out)
+iii.
+Frequency of sweep / SI shall be daily/weekly/fortnightly/
+monthly/set date or in transaction event based.
+1.9.2
+Template for Payment
+Processing
+System shall allow user to define template for incoming and
+outgoing payment processing. The template shall include credit
+and debit payment instruction such as default Nostro account
+by currency and others.
+1.9.3
+Charges Details
+System shall have separate screen for charge realization for
+each account with parameter setting option at product level,
+account level.
+1.9.4
+Product to Product
+Transfer Facilities
+System shall be capable of providing client a new account under
+the same product category, i.e. Std to Std, CA to CA etc. If
+customer requires opening a new account under same product
+the account number shall be different.
+1.9.5
+Volume based
+Customer
+Segmentation
+System shall support volume based customer segmentation to
+identify class of customer and provide variable interest or
+charges based on the daily balance.
+1.9.6
+Flexible Interest
+Payable Period
+System shall link interest payable to other deposit accounts.
+1.9.7
+Customer Status
+Inquiry
+System shall be flexible to group and analyze accounts
+according to status. It may be included in report module.
+
+--- Page 23 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 15
+
+1.9.8
+Nationwide Collection
+System shall have the option to view the list of instruments
+and/or cash that have been processed nationwide. Any
+transaction nationwide shall immediately update customer
+account and funds can be withdrawn from any branch.
+1.9.9
+Payment Transfer
+Service
+System shall be able to track the list of payments in various
+modes (Cash/TT/PO/DD etc.) which are made as per clients’
+instruction for the purpose of fees calculation.
+ii.
+System shall have denomination information.
+
+
+Module: Bills and Remittance
+2.1
+Local Remittance
+Sl. No.
+Item
+Description
+2.1.1
+Demand Draft (DD)
+Issuance of Demand Draft against Account/GL/Walk-in
+Customer. For walk-in DD, some basic information needs to be
+recorded and there shall be report for Walk-in DD.
+ii.
+Issuance of Duplicate Draft keeping the original instrument
+number as reference.
+iii. Cancellation of Demand Draft.
+iv. Commission Structure of DD Issuance.
+DD Payment against Account/GL/Walk-in Customer.
+vi. DD Advice Receive Entry.
+vii. DD Payment without Advice verifying DD’s authentication shall
+not be allowed.
+viii. DD Payment with Advice/DD Advice Receive Entry.
+ix. DD Stop Payment/Remove Stop payment.
+View DD transactions.
+xi. View and Print DD Status and Details (generate reports of
+unpaid DD’s on a certain date).
+xii. Name, Photo ID No., NID No. of the sender and/or receiver and
+reason of transaction in case of transaction above a certain
+amount e.g. BDT 5000.
+xiii. UNSCR &Local Sanction Screening.
+2.1.2
+Pay Order
+Issuance of Pay Order against Account/GL/Walk-in Customer.
+For walk-in PO, some basic information needs to be recorded
+and there shall be report for Walk-in PO.
+ii.
+Liquidation of PO against Account/GL/Walk-in Customer.
+iii. Issuance of Duplicate Pay order keeping the original instrument
+number as reference.
+iv. Cancellation of Pay Order.
+Stop Payment of Pay Order.
+vi. View Pay Order transactions.
+vii. View/Print Pay Order Status and Details [PO outstanding report]
+
+--- Page 24 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 16
+
+(generate reports of unpaid PO’s on a certain date).
+viii. Close out withdrawal by PO.
+ix. TD redemption by PO.
+PO Data Entry to Upload.
+xi. Income Tiered Commission Structure for Pay order.
+xii. Validate Pay Order number and amount during and issuing date
+payment.
+xiii. Name, Photo ID No., NID No. of the sender and/or receiver and
+reason of transaction in case of transaction above a certain limit
+e.g. BDT 5000.
+xiv. UNSCR & local sanction Screening.
+2.1.3
+Telegraphic Transfer
+(TT) or Mail Transfer
+(MT)
+Issuance of Telegraphic Transfer.
+ii.
+Payment of Telegraphic Transfer.
+iii. Commission for Telegraphic Transfer.
+iv. Name, Photo ID No. of the sender and/or receiver and reason of
+transaction in case of transaction above BDT 5000.
+UNSCR & local sanction Screening.
+vi. There shall be a provision of confirmation through email or SMS
+in the system.
+2.1.4
+Security Deposit
+Receipt (SDR)
+Issuance of SDR.
+ii.
+Check Duplicate Issuance of SDR.
+iii.
+Cancellation Issuance of SDR.
+iv.
+Commission/Charges for SDR.
+2.2
+Foreign Remittance
+Sl. No.
+Item
+Description
+2.2.1
+Outward Remittance
+(All kinds of Foreign
+Remittances are
+integrated with SWIFT
+Message System)
+Outward Remittance-CUST (BDT to FCY)
+Used while taking BDT from Customer Account and remit the
+money in Foreign Currency.
+ii.
+Outward Remittance-CASH (BDT to FCY)
+Used while taking BDT from Internal/ Cash Account and remit
+the money in Foreign Currency.
+iii.
+Outward Remittance-CUST (SAME CCY – Charge in Any CCY)
+Used while taking Foreign Currency from Customer Account and
+remit the money in Foreign Currency.
+iv.
+Outward Remittance - CASH (SAME CCY – Charge in ANY CCY)
+Used while taking FCY from Internal/Cash Account and remit
+the money in Foreign Currency.
+Outward Remittance - CUST (FCY to FCY)
+Used while taking FCY from Customer Account and remit the
+money in another Foreign Currency.
+vi.
+DRAFT ISSUE – (BDT to FCY)
+Used while taking BDT from Customer Account and remit the
+money in Foreign Currency through a Foreign Draft.
+vii. Outward Remittance Functions shall have:
+Add Outward Clean Payments
+Review Outward Clean Payments
+
+--- Page 25 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 17
+
+Authorize Outward Clean Payments
+Confirm Outward Clean Payments
+Print Bank Cheque/Draft
+Request Outward CP Cancellation, it cannot be cancelled
+after authorization.
+Confirm Outward CP Cancellation, it cannot be cancelled
+after authorization.
+viii. UNSCR & local sanction Screening.
+2.2.2
+Process Inward
+Remittance
+Same CCY for Exporters.
+ii.
+FCY to BDT- Customer Transaction.
+iii.
+FCY to BDT-Internal.
+iv.
+Same Currency.
+Same CCY- Internal.
+vi.
+Cross CCY- Customer Transaction.
+vii. UNSCR & Local Sanction Screening.
+2.2.3
+Inward Remittance
+Functions
+Add Inward Clean Payments.
+ii.
+Review Inward Clean Payments.
+iii.
+Authorize Inward Clean Payments.
+iv.
+Request Inward CP Cancellation.
+Confirm Inward CP Cancellation.
+2.2.4
+Outward Clean
+Collection
+(A transaction is
+created when a
+customer (the payee)
+presents foreign
+currency Cheque to a
+Bank (acting as the
+remitting bank) for
+payment)
+Receive payments from the collecting bank.
+ii.
+Collect our charges (plus any charges debited by the collecting
+bank) especially in a case of a dishonored cheque.
+iii.
+Make payment (less charges) to the payee (our customer).
+iv.
+Use the funds received to settle the negotiated payment made
+to the payee if cheques were negotiated.
+Recall negotiated repayment from the payee if cheques are
+returned unpaid.
+vi.
+Return cheques unpaid to the payee if no further
+representation is to be made.
+vii. Refund auto payment relating to cheques returned unpaid.
+viii. Make adjustment to a payment already made as advised by the
+collecting bank.
+ix.
+Name, Photo ID No. of the bearer and reason of transaction in
+case of online deposit/withdrawal amounting above a certain
+limit (e.g. BDT 5000).
+UNSCR & Local Sanction Screening.
+2.2.5
+Inward Clean Collection
+(A transaction is
+created when one bank
+(acting as the collecting
+bank) receives a cash
+letter accompanying
+Cheque denominated
+in our local currency
+for payment)
+Manually update relevant cheque details.
+ii.
+Process cheques drawn on our banks directly without involving
+a clearing bank.
+iii.
+Make payment to the remitting bank.
+iv.
+Return cheques unpaid to the remitting bank.
+Refund auto payment relating to cheques returned unpaid.
+vi.
+Make adjustment to a payment already made.
+vii. Collect our charges from the remittance or by debiting the
+remitting bank's account in a case of dishonor.
+viii. The system can issue a notification to the principal party.
+
+--- Page 26 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 18
+
+Depending on the settlement action, the notification may be
+one of the following:
+ Credit Advice
+ Advice of Dishonor
+ Cheque Settlement Advice (either credit or dishonor)
+ Credit Adjustment.
+ix.
+UNSCR & Local Sanction Screening.
+
+--- Page 27 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 19
+
+Module: Deposits
+3.1
+General Characteristics
+Sl. No.
+Item
+Description
+3.1.1
+Customer Eligibility
+Autonomous
+ii.
+Club/Society/Association
+iii.
+Employee-Others
+iv.
+Government Account
+Individual
+vi.
+Joint Account
+vii. Liquidator’s Account
+viii. Local Authority
+ix.
+Non-Govt. Organization
+Non-Profit Organization
+xi.
+Other Public Bank Account
+xii. Partnership Company
+xiii. Private Bank Account
+xiv. Private Company
+xv. Private Ltd. Company
+xvi. Proprietary Company
+xvii. Public Ltd. Company
+xviii. Semi-Autonomous
+xix. Staff
+xx. Trustee Account
+xxi. Minor Account
+xxii. Non-Resident
+xxiii. Any type of customer as per law of land. For example, a foreign
+contractor is not allowed to open an interest bearing deposit
+account.
+3.1.2
+Account Opening
+Procedure
+System shall store customer’s:
+a. Photograph
+b. Specimen Signature
+c. Copy of NID and/or other Specific papers/documents on the
+basis of the type of the customer
+d. Contact phone/mobile no. with contact person details,
+especially for corporate customer
+e. Email-id if available
+f. UNSCR & Local Sanction Screening.
+3.1.3
+Master File Information i.
+KYC compliance
+3.1.4
+Introducer
+System shall ensure:
+a. Introducer Information
+b. UNSCR & Local Sanction Screening for introducer.
+3.1.5
+Joint Account Concept
+System shall allow this option for individuals only and
+a. Operate as per instruction: Joint/Any/All
+b. Pay to either or survivor
+c. Ensure joint account holder(s) is/are not listed in UNSCR &
+local sanction.
+
+--- Page 28 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 20
+
+3.1.5
+Nominee Inclusion
+System shall allow this option for individuals only and ensure
+nominee is not listed in UNSCR & local sanction.
+3.1.6
+Operation by Power of
+Attorney Holder
+System shall allow this option and ensure PA holder is not listed
+in UNSCR & local sanction.
+3.1.7
+Account No. Format
+System must ensure that account number is 13 digits or
+mapped to 13 digits as per Bangladesh Bank Format.
+3.1.8
+Deposit Procedure,
+Transaction Nature,
+Restrictions
+Random by the depositor.
+3.1.9
+Withdrawal Procedure
+System shall ensure withdrawal:
+a. By cheques supplied by the bank.
+b. By letter of authority with verification, e.g. assurance of
+confirmation needed.
+c. Debit by bank through voucher/withdrawal slip with
+verification, e.g. assurance of confirmation needed.
+d. Through alternate delivery channels which are approved
+by Bangladesh Bank.
+e. If Bearer/Beneficiary is not listed in UNSCR & local
+sanction.
+3.1.10
+Return of Cheques
+System shall record returned cheques in Cheque Return
+Register.
+ii.
+System shall be able to provide details of cheque return
+specially reason of return.
+iii.
+System shall be able to recover charges for dishonor of cheque
+for insufficient fund.
+iv.
+System shall be able to recover any type of penalty for return of
+cheque for insufficient fund.
+3.1.11
+Stop payment
+System shall maintain Stopped Cheque Register with instruction
+letters inserting time & date.
+ii.
+System shall have facility to store/view stop payment of Cheque
+Audit Log.
+iii.
+System shall be able to realize Charge for stop payment.
+3.1.12
+Standing Instruction
+System shall maintain Standing Instruction Register.
+ii.
+System shall be able to generate transactions through standing
+instruction with date, amount, and source from/to account,
+amount etc.
+iii.
+System shall hold the amount of instruction in case of
+insufficient balance in Payee/Source account and automatically
+shall transact and release the hold amount when fund becomes
+available.
+iv.
+System shall ensure beneficiary is not listed in UNSCR & local
+sanction.
+3.1.13
+Issue of Cheques
+System shall issue cheque books.
+ii.
+System shall configure and validate number of leaves at product
+level.
+iii.
+System shall have ability to levy Charge for issuing cheque book
+as prescribed by the Bank.
+
+--- Page 29 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 21
+
+iv.
+System shall have ability to make requisition for cheques on
+demand.
+3.1.14
+Restraints
+System shall be able to prevent all transactions with suitable
+kind of restraint.
+ii.
+System shall have ability to restrain customer [restrain all
+accounts under one customer ID].
+iii.
+System shall have ability to restrain products (all customers
+under one product).
+iv.
+System shall have ability to restrain account.
+System shall have ability to restrain debit transactions.
+vi.
+System shall have ability to restrain credit transactions.
+vii. System shall have ability to restrain cash transaction, cheque
+transaction, ATM transaction and so on for a particular account,
+customer and/or product.
+viii. System shall have ability to block amount with expiry date and
+multiple blocking options.
+ix.
+System shall have capability to block any amount irrespective of
+the available balance of the account.
+System shall have ability to provide reason details and reason
+category for Freeze/Dormant/Lien so that MIS can be
+generated.
+3.1.15
+Signature and
+Photograph
+System shall obtain signature and photograph of each account
+holder in signature card.
+ii.
+System shall store signature and photograph of each account
+holder in the central database.
+iii.
+System shall store specimen signature and photograph in the
+central database or in the signature card.
+3.1.16
+Account Statement
+System shall be able to generate account statement on demand.
+Charge can be levied for generating such ad-hoc statements.
+ii.
+System shall have bulk account statement generation process
+without any fee for period statement especially on half-
+yearly/yearly basis commonly for all customers.
+iii.
+System shall be able to generate balance confirmation letter on
+demand.
+iv.
+System might able to generate MT940/MT942/MT950/
+/MT900/MT910 for the enrolled customers.
+3.1.17
+Minimum Balance
+In accordance with the banks' internal policy system may or
+may not restrict the customer to draw fund without keeping
+minimum balance but may generate a report for bank’s internal
+purpose.
+3.1.18
+Source Tax, Excise
+Duty,
+Incidental/Account
+Maintenance Fee and
+Closing Charge
+System shall be able to configure source tax and excise duty as
+per the guidelines of NBR.
+ii.
+System shall collect source tax for interest earned at the time of
+interest payment.
+iii.
+System shall collect excise duty (charges) on yearly basis as per
+instructions of concerned authority.
+iv.
+System shall collect account maintenance fee and closing
+
+--- Page 30 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 22
+
+charge from the account (except term deposit account) as per
+the guideline of Bangladesh Bank.
+System shall have ability to apply closing charge (except term
+deposit account).
+vi.
+System shall have ability to parameterize/configure all charges.
+vii. System shall have hovering option to deduct charges.
+3.1.19
+Dormant Account
+System shall mark accounts as dormant as per Bangladesh Bank
+rule. Bangladesh Bank may provide a common definition for all
+banks.
+ii.
+System shall have feature to apply (as per Bangladesh Bank
+guideline) dormancy on any CASA account if there is no
+customer made transaction for the defined period. For dormant
+accounts, only credit postings may be allowed.
+iii.
+System shall bring first deposit/withdrawal to the notice of
+Branch Manager for permission.
+iv.
+System shall normalize accounts before allowing any
+transaction.
+System shall have ability to accrue and capitalize interest as like
+as normal account.
+vi.
+System shall have ability to levy annual charges on this account
+same as normal account.
+vii. This shall be parameterized/ configurable.
+viii. Credit may be allowed without changing account status. No
+debit transaction shall be allowed.
+ix.
+Shall generate dormant marking /unmarking register.
+3.1.20
+Inoperative Account
+System shall mark accounts inoperative as per Bangladesh Bank
+guideline.
+ii.
+System shall automatically mark accounts on daily basis.
+iii.
+System shall brought first deposit/withdrawal to the notice of
+Branch Manager for permission.
+iv.
+System shall transfer balance to Bangladesh Bank in case if the
+account is inoperative for 10 years. However, shall serve 3
+(three) notices during this 10-year period. System shall be able
+to prepare a report for such accounts with ageing.
+System shall mark account as deceased in case of the death of
+the customer. System shall not debit any charge from this
+account and only allow credit postings. System shall have audit
+log with maker/checker, date, reason etc. for such operations.
+vi.
+This shall be parameterized/configurable.
+3.1.21
+Monthly Provision for
+Accrued Interest
+System shall keep monthly provision for accrued interest (at a
+given frequency based on product type).
+3.1.22
+Duplicate Statement
+System shall have ability to charge for issuance of duplicate
+statement.
+
+--- Page 31 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 23
+
+3.2
+Savings Deposit/Mudaraba Savings Deposit for Shariah based Islamic Banks
+Sl. No.
+Item
+Description
+3.2.1
+Savings Deposit
+Account for Minors
+System shall treat any customer with age less than 18 years as
+minor.
+ii.
+System shall store legal guardian information for minor
+accounts. System shall treat the account as normal account
+when the minor reaches the age of 18and also shall generate a
+notification to inform the customer’s guardian. In such cases,
+the account information shall be updated.
+iii.
+System shall ensure that the legal guardian is not listed in
+UNSCR & local sanction.
+3.2.2
+Interest
+Calculation/Profit
+Calculation and
+Application
+System shall perform interest calculation on the basis of daily
+balance/ minimum monthly balance/ average balance of the
+month with or without other restriction such as no. of
+withdrawal and or deposit, amount of withdrawal and or
+deposit, minimum or maximum amount of withdrawal or
+deposit, percentage of withdrawal amount and combination of
+such features. For example:
+a. Interest is calculated based on monthly minimum balance,
+i.e. minimum balance from 5th to last day of the month
+(Interest shall be calculated on daily basis).
+b. Ability to configure the maximum balance for interest
+calculation of Individual Account (e.g. Tk. 25,00,000) and
+Joint Account (e.g. Tk. 50,00,000).
+c. Interest is compounded half-yearly in June and December.
+d. The accounting entries for month end is:
+Dr- P&L
+Cr - Accrual
+e. The accounting entries for half-year/year end is:
+Dr- Accrual & P&L
+Cr- SB account sundry party
+ii.
+For banks operating under Islamic Shariah, profit calculation
+shall be followed as per BB guidelines.
+iii.
+All the above conditions shall be configurable so that if those
+conditions are changed, end user can configure using front end
+screen.
+iv.
+System shall have provision to apply Bangladesh Bank rule.
+3.2.3
+Account Maintenance
+Fee
+System shall levy account maintenance fee based on average
+deposit of the account.
+ii.
+System shall apply it on half-yearly basis.
+iii.
+System shall collect account maintenance fee and closing
+charge from the account as per the guideline of Bangladesh
+Bank.
+iv.
+System shall have the option to waive this charge in account
+level as well as customer level.
+System shall have provision to apply Bangladesh Bank rule.
+3.2.4
+Non-interest/Non-
+System shall have capability to configure non-interest bearing
+
+--- Page 32 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 24
+
+profit Bearing
+savings account at the option of the depositor.
+3.2.5
+Withdrawal Allowed
+System shall have options to configure this as per bank’s
+internal circular/regulatory authority.
+3.2.6
+Initial Deposit
+System shall have capability to configure at product level.
+ii.
+System shall be flexible as per bank’s rule.
+3.2.7
+Transfer of Account
+System shall have feature to transfer accounts.
+ii.
+System shall pay Interest up to last day (in case of transfer).
+iii.
+System shall realize actual postage.
+3.3
+Current Deposit/Al-Wadiah Deposit for Islamic Banks
+Sl. No.
+Item
+Description
+3.3.1
+Category
+Demand Deposit: When credit balance
+ii.
+Advance: When debit balance (Overdraft)
+3.3.2
+Initial Deposit
+System shall have capability to configure at product level.
+ii.
+System shall be flexible as per bank’s rule.
+3.3.3
+Interest/Profit
+Calculation
+System may or may not produce interest/profit on credit
+balance (flexible).
+ii.
+System shall recover daily product basis (reckoning 360)
+interest/profit for debit balances only (OD).
+3.3.4
+Account Maintenance
+fee
+System shall recover these charges in June and December each
+year as per the guideline of Bangladesh Bank.
+ii.
+System shall have capability to parameterize options.
+3.3.5
+Transfer of Account
+System shall be capable to transfer all current deposit/Al-
+Wadiah deposit to other accounts if it's not categorized as over
+draft.
+ii.
+Shall realize transfer charge.
+3.3.6
+Closing Charge
+System shall be able to configure closing charge at product level
+as per the guideline of Bangladesh Bank.
+3.3.7
+Balance Confirmation
+System shall obtain balance confirmation from the account
+holders as on 30th June and 31st December each year.
+ii.
+This confirmation date shall be configurable.
+
+3.4
+Special Notice Deposit/Mudaraba Special Notice Term Deposit
+Sl. No.
+Item
+Description
+3.4.1
+Interest/Profit
+Calculation
+System shall calculate interest/profit on daily product, accruals
+monthly & capitalize half-yearly. Daily/monthly accruals data
+shall be available.
+ii.
+System shall forfeit interest for that month if notice not
+received for transactions by the bank.
+iii.
+System shall consider notice date and transaction date as per
+central bank guideline (7 days notice which suppose to be
+parameterized).
+iv.
+System shall pay interest/profit yearly as well as when the
+account is closed. It can also be paid half-yearly.
+System shall have capability to differ interest/profit rate based
+on average monthly balance.
+
+--- Page 33 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 25
+
+vi.
+System shall fix slab wise interest/profit rate for each month
+and change it time to time.
+(As per Bangladesh Bank Guidelines)
+vii. System shall calculate interest/profit using following formula:
+(Daily balance X No. of days X Rate of interest/profit)/(360x100)
+(Shall be configurable at product level). Number of days shall be
+the actual number days for a particular month.
+3.4.2
+Withdrawal Allowed
+System shall have the option to enter notice of previous date.
+
+3.5
+Fixed Deposit Receipt
+Sl. No.
+Item
+Description
+3.5.1
+Withdrawal
+System shall pay on maturity or premature encashment.
+3.5.2
+Interest Withdrawal
+System shall allow option to withdraw the accrued interest
+retaining the principal amount on or after maturity.
+ii.
+Shall have interest auto transfer option to operative A/C on
+maturity if customer requests.
+3.5.3
+Premature Encashment i.
+System shall have the option to configure if it changes by
+bank/regulatory authority.
+3.5.4
+Renewal Procedure
+System shall be capable to allow renewal on maturity if desired
+by the depositor.
+ii.
+System shall obtain instruction from the customer at the time of
+issuing of FDR whether to be renewed for the same period at
+the prevailing rate.
+iii.
+System shall not allow renewal after the death of the depositor.
+3.5.5
+Auto Renewal
+In absence of any instruction from the depositor, system shall
+treat the FDR as renewed after maturity for the same period of
+the said FDR at a prevailing rate of the same period and will
+continue unless any instruction received from the customers.
+ii.
+Shall have facility of auto closure option at maturity and
+proceed the maturity amount to operative account as
+mentioned by the customer at the time of account opening
+iii.
+This option shall be configurable at product level.
+3.5.6
+Overdue FDR
+System shall treat all FDRs as auto renewed unless other
+instructions are received from customers.
+ii.
+System shall make continuous profit accrual.
+3.5.7
+Interest Rate
+System shall implement different period and slab-wise interest
+rate.
+ii.
+System shall change interest rate from time to time with
+effective date on the renewal date of the deal and as per the
+agreement with the Client.
+iii.
+Generally Interest rate shall not change during its current tenor.
+iv.
+System shall allow account-wise separate interest rate.
+3.5.8
+Interest Calculation
+System shall calculate interest on Daily Product Basis (reckoning
+360 days a year).
+ii.
+Interest = (Principal Amount x No. of days x Rate of interest)/
+(360X100).
+
+--- Page 34 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 26
+
+iii.
+System shall calculate interest as per Bangladesh Bank
+guideline.
+3.5.9
+Interest Application
+System shall apply interest on maturity date.
+ii.
+System shall apply interest on anniversary date.
+iii.
+Accounting
+Dr - FDR Interest A/C (Liability)
+Cr - FDR Account
+3.5.10
+Interest Compounding
+System shall apply simple interest rate.
+ii.
+In case of auto renewal, interest shall be capitalized.
+3.5.11
+Monthly Provision for
+Accrued Interest
+System shall made monthly provision for accrued interest.
+ii.
+Accounting
+Dr - Interest on FDR (Expenditure)
+Cr - FDR Interest Account (Liability)
+iii.
+System shall allow loan facility against MTDR both in Quard &
+Bai-Murabaha form (for Islamic Banking).
+3.5.12
+Transfer of Account
+System shall not allow transfer of FDR accounts.
+3.5.13
+Lien
+Shall allow loan against an FDR after marking that FDR as lien
+and FDR may be marked lien against multiple loans. Multiple
+FDRs might be marked as lien against a single loan
+3.5.14
+Fixed Deposit (FD)
+Advice
+System shall have ability to generate FD advice as format
+decided by the Bank. The advice shall be printed directly or
+create pdf file.
+ii.
+System shall control sequence of printing/generation of FD
+advice.
+iii.
+If more than one advice is generated for a particular FD, system
+shall mention/mark it as duplicate.
+
+3.6
+Monthly/Quarterly/Other term Profit Based Fixed Deposit
+Sl. No.
+Item
+Description
+3.6.1
+Term/Period
+1 year, 3 years, 5 years or as per the bank definition.
+ii.
+System shall have capability to parameterize.
+3.6.2
+Interest Rate
+System shall change interest rate from time to time with
+effective date.
+3.6.3
+Principal Withdrawal
+System shall allow principal withdrawal on maturity or at any
+time as premature encashment.
+3.6.4
+Interest Withdrawal
+System shall transfer on monthly/quarterly/any period as per
+bank’s product feature basis to SB A/C /Settlement Account of
+the depositor or through cash.
+3.6.5
+Interest Calculation
+System shall calculate daily product basis.
+3.6.6
+Interest Application
+Monthly/Quarterly/others as per product feature.
+3.6.7
+Interest Compounding
+Simple interest
+3.6.8
+Monthly Provision for
+Accrued Interest
+System shall keep monthly provision for accrued interest.
+3.6.9
+Premature Encashment i.
+System shall have the option to configure the premature
+encashment rules as per bank's own policy. Excess interest, if
+paid earlier, to be recovered. Shall be configurable at product
+
+--- Page 35 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 27
+
+level.
+ii.
+System shall have the option to configure the above as per
+bank's rule.
+3.6.10
+Transfer of Account
+System shall not allow transfer of FDR accounts.
+
+3.7
+Deposit Multiplication Scheme (Double, Triple, etc.)
+Sl. No.
+Item
+Description
+3.7.1
+Term/Period
+System shall be able to change required tenor of deposits for
+double/triple/other schemes from time to time depending on
+the rate of interest which varies from bank to bank.
+ii.
+System shall be able to configure at product level as per bank's
+policy.
+3.7.2
+Withdrawal Procedure
+System shall pay on maturity or premature encashment.
+3.7.3
+Interest Calculation
+System shall calculate interest on daily product basis.
+ii.
+System shall fix product-wise interest rate.
+3.7.4
+Loan Facility
+System shall be able to provide loan facility as per bank's rule.
+3.7.5
+Transfer of Account
+System shall not allow transfer of FDR accounts.
+
+3.8
+Deposit Pension Scheme (DPS)
+Sl. No.
+Item
+Description
+3.8.1
+Duration
+System shall be able to configure for any specified period.
+3.8.2
+Deposit Amount
+Any amount set by the bank.
+3.8.3
+Deposit Date
+System shall input on any day of the month as per bank's policy.
+3.8.4
+Interest Rate and Type
+System shall be able to parameterize as per bank's policy.
+3.8.5
+Premature Encashment i.
+System shall have the option to configure as per bank's rule.
+3.8.6
+Pension Amount
+System shall calculate pension amount based on installment
+size, interest rate and tenor.
+3.8.7
+Closing Procedure
+System shall be able to block/close account for due installments
+as per bank’s policy.
+3.8.8
+Withdrawal Procedure
+System shall be able to configure as single or monthly,
+quarterly, half-yearly, yearly pension basis.
+
+3.9
+Continuous Loan Overdraft (OD) on Current Account
+Sl. No.
+Item
+Description
+3.9.1
+Basic Features
+System shall perform monthly interest bearing and accrual, shall
+make capitalization quarterly.
+ii.
+System shall have provision to provide overdraft facility and
+credit facility on the same account if approved and obtained.
+iii.
+System shall have provision to allow excess over limit if allowed
+by the competent authority.
+iv.
+System shall have provision to allow temporary overdraft if
+allowed by the competent authority.
+
+--- Page 36 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 28
+
+System shall fix overdraft interest and review it periodically.
+vi.
+System shall calculate interest based on daily ending balance (if
+balance is negative).
+vii. System shall have no repayment scheduling option for
+continuous loan.
+viii. System shall report overdraft balance to CL properly.
+ix.
+System shall report and monitor overdraft balance facility.
+3.9.2
+Accounting Entries
+Accounting Entries for Interest Accrual
+Dr - Interest Receivable
+Cr - Income Account (for unclassified accounts)
+Cr - Interest Suspense Account (for classified accounts)
+ii. Interest Capitalization at quarter end. Interest capitalization on
+the overdraft amount shall be restricted for deceased and NPA
+
+
+3.9.3
+Change of Interest Rate i.
+System shall be configurable as per bank’s policy.
+3.9.4
+Special Services
+System shall be able to provide following special services:
+a. Loan Ledger Statements
+b. Interest Calculation Sheet
+c. Account Closure
+d. Loan Status maintenance and monitoring
+3.9.5
+Operational Process
+after Expiry
+System shall not impose any restriction for withdrawal in case
+of credit balance.
+ii.
+System shall allow withdrawal or restrict it for debit balance
+upon approval of competent authority.
+iii.
+System shall continue interest charge as per rule.
+iv.
+System generated transaction such as fees/charges, interest
+shall be allowed for both cases: expired loan and excess over
+limit.
+3.9.6
+Classification Status
+Change
+System shall allow change of classification/declassification
+status automatically after following defined rules only.
+ii.
+System shall have option to change status as per Qualitative
+Judgment (manually).
+3.9.7
+Movement of Interest
+Suspense
+System shall allow movement of interest suspense on
+classification basis or upon actual realization of interest
+automatically.
+
+3.10 Teller (Cash Counter) Transaction Services
+Sl. No.
+Item
+Description
+3.10.1
+Products
+All products of retail banking, loans and advances, and trade
+finance that deal with cash deposit and withdrawal.
+3.10.2
+Maker and Checker
+System shall follow the concept of maker and checker for all
+Teller transactions having the posting limit for teller and
+authorization limit for checkers. Auto authorization may be
+imposed having transaction limits as per DOA.
+ii.
+System shall perform all validations such as account balance,
+account status (no. Dr, no. Cr, amount block, freeze, stop
+
+--- Page 37 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 29
+
+payment, stop cheque, valid instrument, transaction profile
+etc.) before submitting the transaction for authorization.
+iii.
+System shall check images (signature and photographs and/or
+thumb impression etc.) at teller and authorizer end.
+3.10.3
+Cash Deposit
+Teller shall accept cash deposit/installment etc. for all products.
+3.10.4
+Cash Withdrawal
+System shall allow account holder or bearer to withdraw cash
+by cheque or debit voucher or valid instrument.
+ii.
+System shall maintain contra cash in hand transaction
+automatically based on cash receipt/withdrawal.
+iii.
+System shall notify teller for Transaction Profile violation or
+system shall show the TP when teller toggle the enquiry screen.
+iv.
+Shall have centralized system for TP monitoring with proper
+audit log.
+3.10.5
+UNSCR & Local
+Sanction Screening
+System shall store name, photo ID no. of the bearer and reason
+of transaction in case of online deposit/withdrawal amounting
+above a certain amount e.g. BDT 5000.
+ii.
+System shall perform UNSCR & Local Sanction Screening.
+
+3.11 Payment Order (PO) Transaction Services
+Sl. No.
+Item
+Description
+3.11.1
+Issue
+System shall charge commission (fee) per Pay Order depending
+on amount and slab it belongs to.
+ii.
+System shall issue pay order with date, amount, payee name,
+purpose, mobile number, etc. Other information, e.g. remitter
+name and account no. is optional.
+iii.
+System shall enable Pay Order Book in system under dual
+control.
+iv.
+System shall keep inventory of Pay Order Book with joint
+custodian mechanism.
+System shall strictly follow KYC for walk-in customers.
+vi.
+System shall be able to generate Pay Order Leaf cancellation
+and stop payment report.
+vii. System shall generate Contra entry of Pay Order systematically.
+viii. System shall ensure that customer is not listed in UNSCR & local
+sanction.
+ix.
+Shall generate payment order outstanding report
+3.11.2
+Payment
+System shall be able to make payment through cancellation
+with or without cancellation of charge as per bank's policy.
+ii.
+System shall generate Contra entry of Pay Order payment.
+
+3.12 Demand Draft (DD) Transaction Services
+Sl. No.
+Item
+Description
+3.12.1
+Issue
+System shall charge Commission (fee) per Demand Draft
+depending on amount and slab it belongs to.
+ii.
+System shall issue Demand Draft with date, amount, issue
+
+--- Page 38 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 30
+
+branch, payee branch and payee name. Other information, e.g.
+remitter name and account no. is optional.
+iii.
+System shall generate DD test number.
+iv.
+System shall issue a DD Advice to payee branch with all
+information related to that DD.
+System shall issue Contra entry of DD systematically.
+vi.
+System shall endure that Customer is not listed in UNSCR &
+local sanction.
+3.12.2
+Payment
+System shall charge Commission (fee) for paid by cancellation
+per Demand Draft depending on slab amount.
+ii.
+System shall issue Paid by Cancellation Advice to payee branch
+with all information related to that DD.
+iii.
+System shall generate Contra entry of DD payment.
+
+3.13 Telegraphic/Telephonic Transfer (TT) Transaction Services
+Sl. No.
+Item
+Description
+3.13.1
+Issue
+System shall charge Commission (fee) per TT depending on
+amount and slab it belongs to.
+ii.
+System shall issue Telegraphic/Telephonic Transfer with date,
+amount, issue branch, payee branch and payee name. Other
+information, e.g. remitter name, purpose and account no. is
+optional.
+iii.
+System shall Generate TT test number.
+iv.
+System shall issue a TT Advice to payee branch with all
+information related to that TT.
+System shall transfer TT information to payee branch over
+phone.
+vi.
+System shall ensure that Customer is not listed in UNSCR & local
+sanction.
+3.13.2
+Payment
+System shall respond/receive TT information over telephone
+from issuing/payee branch.
+ii.
+System shall verify TT Test No. (payee branch), if it is found OK,
+then shall credit TT amount to A/C or TTPO/Sundry.
+iii.
+System shall issue a TT Responding Advice to issuing branch.
+
+Module: Loans/Credit/Investment
+4.1
+Continuous Loan (CC/OD)
+Sl. No.
+Item
+Description
+4.1.1
+Loan Proposal Initiation
+Application with supporting documents in favor of
+Business/Trade License, Audited Balance Sheet, Tax Clearance,
+Legal Documents, Statement of Affairs with Cash Flow
+Statements, CIB Clearance, Authenticity of Collaterals,
+Preparation of Loan Proposal as per format (check list).
+
+--- Page 39 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 31
+
+4.1.2
+Loan Approval Process
+Every detail, i.e. amount, interest rate, tenure, collateral value,
+applicable schedule of charges, terms and conditions etc. of
+the HO Sanction Advice shall be input in the system at HO
+level. Upon receipt of loan proposal from the branch, the
+concerned department shall prepare the highlights for the
+credit committee and for onward approval of the same for the
+Board of Directors. System shall accommodate Delegation of
+Authority (DOA) as per bank’s policy.
+4.1.3
+Checking Collateral
+Coverage
+Respective collateral items shall be acceptable as per
+respective BB Circulars and recorded with proper valuation.
+4.1.4
+Loan Creation
+Overdraft Limit (OD) shall be activated in Current Account of
+customer in CBS system as per Credit Approval which is
+reviewed annually.
+ii.
+Ability to store loan appraisal and initiate information (e.g.
+loan proposal, risk grading, credit worthiness and origination).
+iii. Approval number, approval amount, approval date, authority,
+expiry, tenor, interest rate, drawing power, etc. shall be
+maintained in the system.
+iv. Sanction advice/letter, sanction amount, sanction date,
+borrower acceptance date, etc. shall be maintained in the
+system.
+Borrower shall not be listed in UNSCR & local sanction.
+4.1.5
+Disbursement
+After receiving the approval from CRM, CAD shall prepare
+sanction advice and forward the same to the branch. Branch
+also shall issue a sanction letter to the client maintaining
+consistency with sanction advice, duly accepted by the
+concerned client, a copy of which shall be sent to the CAD. CAD
+shall reconcile the same with sanction and upload all relevant
+information/identification in the system. CAD shall inform the
+branch to make final disbursement after satisfaction.
+ii.
+Issuance of sanction letter, inputting limit, disbursement of loan
+etc. shall be separate function and access right shall be given in
+the users’ role level as per policy of the Bank.
+iii. Disbursement occurs as per customer's withdrawal from OD
+account through Cheque/Transfer within the Overdraft Limit.
+iv. For Islamic banks deal-wise disbursement is applied. Sale-
+Purchase is the essence of Shariah banking, so Pay Order is
+given to supplier/seller of goods. With few exceptions (agency
+arrangement), fund transferred by the bank in current a/c of
+the customer is violation of Shariah (as no sale-purchase is
+occurred).
+4.1.6
+CRM Limit Checking
+Approved CRM limit, purpose with code, and identified CL
+category shall be loaded in the system by CRM division. After
+checking the loaded limit in line of approval, CRM division shall
+authorize it. Disbursed Loan amount shall not be exceeded the
+approved credit limit at any point of time. User shall check all
+the parameters, i.e. loan type, start date, maturity date, interest
+rate, fees, interest frequency, repayment schedule, etc. before
+
+--- Page 40 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 32
+
+completion of the process.
+4.1.7
+Interest
+Daily accrual (simple) against outstanding debit balance as per
+OD/CC rate input & Interest charged on quarterly (compound)
+basis or as per regulatory guideline.
+ii.
+For Islamic Banking, mark-up profit is charged.
+4.1.8
+Provisioning
+As per Central Bank guidelines.
+4.1.9
+Arrears Processing
+Penal interest (as per bank's policy) input shall be in place.
+ii.
+Daily accrual against outstanding over the OD/CC limit as per
+Penal interest rate realized in quarterly rest basis.
+iii.
+Past due profit (for Islamic Banking) is termed as compensation
+and send to compensation suspense A/C as per Bangladesh
+Bank guidelines. As income is uncertain here, so bank cannot
+take it into income A/C. Transfer the same to HO on quarterly
+basis.
+4.1.10
+Adjustment/Liquidation i.
+As per credit transaction in the OD/CC account, OD/CC
+outstanding shall be adjusted.
+4.1.11
+Classification
+Considering overdue status and customer's financial condition,
+branch shall ensure appropriate classification status as per
+Bangladesh Bank guidelines for the respective facility through
+system.
+ii.
+System shall be able to auto classify marking, loan provisioning,
+transaction generation as per Bangladesh Bank guideline which
+can be set at product level.
+iii. Considering Qualitative Judgment (QJ) for non-performing
+Loan/Investment, Interest calculation shall be ceased
+(Unaccounted/Unearned) for BL loans.
+4.1.12
+Rescheduling &
+Restructuring
+System shall have the rescheduling and restructuring facility
+with relevant history and audit trail. For new account creation,
+the account shall be referenced with the previous account.
+
+4.2
+Fixed Term Loan
+Sl. No.
+Item
+Description
+4.2.1
+Loan Proposal Initiation i.
+Application with supporting documents in favor of
+Business/Trade License, Audited Balance Sheet, Tax Clearance,
+Legal Documents, Statement of Affairs with Cash Flow
+Statements, CIB Clearance, Authenticity of Collaterals,
+Preparation of Loan Proposal as per format (check list).
+4.2.2
+Loan Approval Process
+Every detail, i.e. amount, interest rate, tenure, collateral value,
+applicable schedule of charges, terms and conditions etc. of
+the Sanction Advice shall be input in the system.
+4.2.3
+Checking Collateral
+Coverage
+Respective Collateral items shall be acceptable as per
+respective BB Circulars and recorded with proper valuation.
+4.2.4
+Loan Calculator
+Calculates the installment amount and prepares the
+amortization schedule based on the given information like loan
+amount, interest rate, tenor etc.
+4.2.5
+Loan Booking
+Books a loan in the system with all the financial information and
+
+--- Page 41 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 33
+
+static data for a customer and generates loan account
+4.2.6
+Loan Creation
+Loans are disbursed through creation of deals under the 'Deals'
+module of CBS under appropriate limit as per Credit Approval
+which is reviewed annually.
+ii.
+Ability to store loan appraisal and initiate information (e.g. loan
+proposal, risk grading, credit worthiness and origination).
+iii.
+Approval number, approval amount, approval date, authority,
+expiry, tenor, interest rate, drawing power etc. shall be
+maintained in the system.
+iv.
+Sanction advice/letter, sanction amount, sanction date,
+borrower acceptance date, etc. shall be maintained in the
+system.
+Borrower shall not be listed in UNSCR & local sanction.
+4.2.7
+Disbursement
+After receiving the approval from CRM, CAD shall prepare
+sanction advice and handover the same to the branch. Branch
+shall also issue a sanction letter to the client maintaining
+consistency with sanction advice, duly accepted by the
+concerned client, a copy of which shall be sent to the CAD. CAD
+shall reconcile the same with sanction and upload all relevant
+information/identification in the system. CAD shall inform the
+branch to make final disbursement after satisfaction.
+ii.
+Disbursements occur as per loan request as per approval and
+limit through creation of deal under the 'Deals' module of CBS.
+iii.
+Phase by phase disbursement may be allowed.
+4.2.8
+CRM Limit Checking
+Approved CRM limit, purpose with code, and identified CL
+category shall be loaded in the system by CRM/CAD division.
+After checking the loaded limit in line of approval, CRM/CAD
+division shall authorize it. Disbursed loan amount shall not be
+exceeded the approved credit limit at any point of time. User
+shall check all the parameters, i.e. loan type, start date,
+maturity date, interest rate, fees, interest frequency, repayment
+schedule etc. before completion of the process.
+4.2.9
+Interest
+Daily accrual (simple) against outstanding debit balance as per
+applied rate input & Interest charged on periodic basis or as per
+regulatory guideline. Principal amount, Interest amount and
+outstanding balance shall be shown separately as per
+Bangladesh Bank guidelines.
+ii.
+For Islamic Banking Term Financing, rental basis/mark-up profit
+is charged.
+4.2.10
+Arrears Processing
+Penal interest (as per BB guideline and bank's policy as well)
+input in CBS system. System shall be able to calculate penal
+interest on the overdue interest and overdue principal
+separately.
+4.2.11
+Payment
+The maturity date and maturity accounts shall be input while
+creation of the deal.
+ii.
+System shall be flexible to keep the deal alive even after its
+maturity.
+
+--- Page 42 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 34
+
+iii.
+System shall have flexibility to set up the sequence which may
+be followed as under:
+a. Charges/Duties
+b. Penal Interest
+c. Overdue Interest
+d. Interest
+e. Principal
+f. total outstanding
+iv.
+Track receivable can also be introduced in case of shortage of
+installment amount. As a result, whenever fund is available in
+source account, system shall adjust the tracked amount for
+installment first.
+System shall have feature to realize due amount automatically
+from the assigned CASA account. If there is insufficient fund
+then system shall create a HOLD for the unrealized amount and
+system shall recurrently try to realize the due amount subject
+to availability of fund during EOD.
+4.2.12
+Provisioning
+System shall have product-wise provisioning facility.
+4.2.13
+Redemption
+On demand subject to sufficient fund in the maturity account.
+After pay-off, system shall generate a loan pay-off confirmation.
+4.2.14
+Financial Data
+Amendment
+Financial data like Interest rate can be amended if required.
+4.2.15
+Static Data
+Amendment
+Static data like MIS codes can be amended in system as and
+when needed.
+4.2.16
+Repayment Processing
+Installment based repayments are processed in the system
+through standing instructions set between customer account
+and loan account. Every month installment amounts are
+collected from customer and reduces the loan balances as per
+the schedule.
+ii.
+System shall have facility to set different types of repayment
+schedule like Equated Payment, Balloon Payment, Bullet
+Payment, Uneven Payment, etc. based on product.
+4.2.17
+Part Settlement
+Part settlement is possible to reduce the debt and also reduce
+either the tenor or installment amount accordingly. Anytime
+repayment information like installment amount, no. of
+installments can be changed as per customer request with
+partial payment or without any partial payment
+4.2.18
+MIS Information
+MIS information is captured in the system for the preparation
+of different management report.
+4.2.19
+Loan Enquiry
+Loan enquiry module is used to view the status of the loans.
+Information like start date, amount, installment, payment etc.
+can be viewed.
+4.2.20
+Reversal
+Any type of fees reversal is managed in this module.
+4.2.21
+Principal
+Movement/Top-Up
+Limit increase or decrease for refinance. System shall allow
+phase by phase disbursement.
+4.2.22
+Property Details
+Property details like FSV, valuation date, property address are
+captured here for the Mortgage loans.
+
+--- Page 43 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 35
+
+4.2.23
+Reports
+Various loan related reports are generated in the reports
+module.
+4.2.24
+Reprising Facility
+Reprising of loans on given frequency.
+4.2.25
+Credit Administration
+Loan limit control and documentation shall be maintained..
+4.2.26
+Classification
+Considering overdue status and customer's financial condition,
+appropriate classification status shall be ensured for the
+respective facility through system.
+ii.
+System shall be able to apply classify marking, loan provisioning,
+transaction generation as per Bangladesh Bank guideline which
+can be set at product level.
+iii. Considering Qualitative Judgment (QJ) for non-performing
+loan/investment, interest provisioning and application shall be
+as per regulatory guidelines.
+4.2.27
+Rescheduling &
+Restructuring
+System shall have capability to capture rescheduling and
+restructuring related MIS information.
+ii.
+System shall have capability to apply non-accrual interest
+treatment for reschedule loan.
+
+4.3
+Quard (Islamic Finance) QTDR, QHG, QPF, QBF, QACA
+Sl. No.
+Item
+Description
+4.3.1
+Facility Booking
+Book an Islamic finance in the system with all financial
+information and static data for a customer and generate
+account.
+4.3.2
+Disbursement
+Disburse the finance as per the limit for a finance account,
+partly disbursement is also possible.
+4.3.3
+Payment Processing
+Monthly payments are processed in the system through
+standing instructions set between customer account and
+finance account. Every month installment amounts are
+collected from customer and reduces the finance balances as
+per the schedule.
+4.3.4
+Financial Data
+Amendment
+Financial data like interest rate can be amended if required. No
+interest/profit allowed in Quard.
+4.3.5
+Static Data
+Amendment
+Static data like MIS codes can be amended in system as and
+when needed.
+4.3.6
+Provisioning
+Provisioning is handled by system. Finances are impaired after
+reaching the certain DPD.
+4.3.7
+Early Redemption
+Premature/early settlements of finances are managed in this
+module.
+4.3.8
+Part Settlement
+Part settlement is possible to reduce the debt and also reduce
+either the tenor or installment amount accordingly.
+4.3.9
+Arrears Processing
+Arrears and associated bucket movements are handled.
+4.3.10
+Fee Processing
+Fees associated with the finances are tagged with the finances
+and charged to customer.
+4.3.11
+MIS Information
+MIS information is captured in the system for the preparation
+of different management report.
+4.3.12
+Finance Enquiry
+Finance enquiry module is used to view the status of the
+
+--- Page 44 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 36
+
+finances. Information like start date, amount, installment,
+payment etc. can be viewed.
+4.3.13
+Property Details
+Property details like FSV, valuation date, property address are
+captured here for the Mortgage finances.
+
+4.4
+Short Term Agricultural and Micro-Credit Loan
+Sl. No.
+Item
+Description
+4.4.1
+Loan Proposal Initiation i.
+Application with supporting documents National ID, Savings or
+Current account (10 taka account holder), Krishi Card,
+preparation of Loan Proposal as per format (check list).
+4.4.2
+Loan Approval Process
+Every detail, i.e. amount, interest rate, tenure, applicable
+schedule of charges, terms and conditions etc. of the Branch
+Sanction Advice shall be input in the system at branch level.
+4.4.3
+Other Securities
+Witness confirmation (individual or Union Parishad),
+Hypothecation of goods, Equity Margin, Porcha (CS,SA,RS/DS)
+or lien of FDR etc.
+4.4.4
+Loan Calculator
+Total amount or partial amount can be deposited at any time
+within the period. Interest rate is calculated at the year-end
+simply (simple interest rate).
+4.4.5
+Loan Creation
+Loans are disbursed through creation of deals under the 'Deals'
+module of CBS under appropriate limit as per Credit Approval.
+ii.
+Ability to store loan appraisal and initiate information (e.g. loan
+proposal, credit worthiness and origination).
+iii.
+Approval number, approval amount, approval date, authority,
+expiry, tenor, interest rate etc. shall be maintained in the
+system.
+iv.
+Sanction advice/letter, sanction amount, sanction date,
+borrower acceptance date etc. shall be maintained in the
+system.
+Borrower shall not be listed in local sanction.
+4.4.6
+Disbursement
+Branch shall issue a sanction letter to the client maintaining
+consistency with sanction advice, duly accepted by the
+concerned client.
+ii.
+Disbursements occur as per loan request as per approval and
+limit through creation of deal under the 'Deals' module of CBS.
+4.4.7
+Interest
+Daily accrual (simple) against principal amount as per applied
+rate input &interest charged on periodic basis or as per
+regulatory guideline.
+4.4.8
+Payment
+The maturity date and maturity accounts shall be input while
+creation of the deal.
+ii.
+Payment sequence may be as under:
+a. Charges/Duties
+b. Interest
+c. Principal
+iii.
+Track receivable can also be introduced in case of shortage of
+installment amount. As a result, whenever fund is available in
+
+--- Page 45 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 37
+
+source account, system shall adjust the tracked amount for
+installment first.
+iv.
+System shall have feature to realize due amount automatically
+from the assigned CASA account. If there is insufficient fund,
+system shall create a HOLD for the unrealized amount and
+system shall recurrently try to realize the due amount subject
+to availability of fund during EOD.
+4.4.9
+Provisioning
+Provisioning is handled by system. Loans are impaired after
+reaching the certain DPD (Day Past Due).
+4.4.10
+Financial Data
+Amendment
+Financial data like Interest rate can be amended if required.
+4.4.11
+Static Data
+Amendment
+Static data like MIS codes can be amended in system as and
+when needed.
+4.4.12
+Payment Processing
+Total amount or partial amount can be deposited at any time
+within the period.
+4.4.13
+MIS Information
+MIS information is captured in the system for the preparation
+of different management report.
+4.4.14
+Loan Enquiry
+Loan enquiry module is used to view the status of the loans.
+Information like start date, amount, installment, payment etc.
+can be viewed.
+4.4.15
+Reversal
+Wrong loan amount posting reversal is managed in this
+module.
+4.4.16
+Reports
+Various loan related reports are generated in the reports
+module.
+4.4.17
+Credit Administration
+Loan limit control and documentation module through branch.
+4.4.18
+Classification
+Considering overdue status and customer's financial condition,
+branch shall ensure appropriate classification status for the
+respective facility through system.
+ii.
+System shall be able to automatically classify marking, loan
+provisioning, and transaction generation as per Bangladesh
+Bank guideline which can be set at product level.
+4.4.19
+Rescheduling &
+Restructuring
+System shall have capability to capture rescheduling and
+restructuring related MIS information.
+ii.
+System shall have capability to apply non-accrual interest
+treatment for reschedule loan.
+
+4.5
+Demand Loan
+Sl.
+No.
+Item
+Description
+4.5.1
+Loan Creation
+System shall have unique product code for demand loans.
+ii.
+For each demand loan, there shall be separate unique loan
+reference.
+iii.
+System shall be able to capture different MIS codes.
+
+--- Page 46 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 38
+
+4.5.2
+Interest
+Interest shall be accrued on the daily product basis on
+outstanding balance as per Bangladesh Bank guideline.
+ii.
+System shall be able to apply interest suspense treatment for the
+interest receivable as and when require.
+4.5.3
+Provisioning
+As per Central Bank guidelines.
+4.5.4
+Adjustment/
+Liquidation
+Through cash/clearing/transfer deposit.
+ii.
+System shall be flexible to allow partial adjustment.
+iii.
+System shall be flexible to set product wise repayment priorities
+considering overdue status.
+4.5.5
+Classification
+System shall be flexible to apply classification rules as per
+Bangladesh Bank’s guideline.
+
+4.6
+Discounted Loan
+Sl.
+No.
+Item
+Description
+4.6.1
+Loan Creation
+System shall have unique product code for discounted loans.
+ii.
+For each discounted loan, there shall be separate unique loan
+reference.
+iii.
+System shall be able to capture different MIS codes.
+4.6.2
+Interest
+Interest realized at upfront for the deal tenor shall be reported
+in PL on the daily product basis.
+ii.
+In case of early pay-off/settlement, system shall be able to
+reverse unearned interest.
+4.6.3
+Provisioning
+As per Central Bank guidelines.
+4.6.4
+Adjustment/
+Liquidation
+Through cash/clearing/transfer deposit.
+
+--- Page 47 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 39
+
+Module: Trade Service
+5.0
+UNSCR and local sanction screening for International trade
+Before opening an L/C or making payment against an L/C, UNSCR and local sanction screening shall be
+conducted. Similar measures shall be made in case of inward as well as outward remittances.
+5.1
+Import
+Sl. No.
+Item
+Description
+5.1.1
+Import Documentary
+Credit/Letter of Credit
+Issuance &
+Amendment
+System shall support the following Critical features to Import DC
+function:
+Shall generate DC number as per BB guideline.
+ii.
+Shall store buyer-placed Proforma Invoice (PI) or information
+on the contract of buyer and seller. Shall link this PI number
+to the DC number generated by the system for future
+Merchant Invoice (MI).
+iii.
+Shall store all the relevant SWIFT UI field of MT700 to MT799.
+iv.
+Shall store buyer-seller information and relevant certificate
+/license number for local and foreign MI.
+Shall store advising bank and advised through bank details
+with SWIFT code.
+vi.
+Shall store updated HSCODE and 71 main codes information
+as per BB Guideline.
+vii.
+Shall store fields for Central Bank instruments for import
+function like LCA, IMP.
+viii.
+Shall store fields for insurance details as per BB Guideline.
+ix.
+Shall store fields for PSI.
+Shall affect balance sheet for accounting capability.
+xi.
+Shall maintain register for any kind of information and their
+changes.
+xii.
+Shall have marginal deposit field for holding customers cash
+as security.
+xiii.
+Shall have simple logical coding for check flags. For example,
+DC validity, shipment validity etc. and relevant interaction
+with user.
+xiv.
+Shall have facility or limit marking fields as per given facility
+for a customer and a control to show over limit or interact
+with user.
+xv.
+Shall have a separate charges screen what would be linked
+with a core charges control mechanism.
+xvi.
+Shall have charges control to enable standard and preferential
+charges.
+xvii.
+Shall have product control to the relevant fields or suppress it.
+For example, sight DC does not need to show usance/tenor
+fields.
+xviii. Shall have built options to choose DC Tenor field and shall be
+linked with Bill Tenor and Loan Tenor.
+xix.
+Shall have draft Bill of Exchange Tenor.
+
+--- Page 48 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 40
+
+xx.
+Shall have check Bill of Entry Overdue.
+xxi.
+Shall have user control.
+xxii.
+Shall have Help screen for users about the product, fields and
+DOs or DO NOTs.
+xxiii. Shall have transaction history screening capability throughout
+the life cycle of a DC. This feature can be controlled with a
+retention control mechanism.
+xxiv. Shall have remark marking capability in Transaction History
+screen.
+xxv.
+Shall have special instruction marking capability during
+transaction in user interface customized for individual
+customer or common special instructions for all customers.
+xxvi. Shall have user friendly Transaction Voucher.
+xxvii. Shall generate DC Advice electronically or print for customers
+xxviii. Shall generate report for outstanding DC, predefined margin
+and other required MI.
+xxix. Shall have high risk country and AML Blacklist Checking
+capability in all trade applications.
+xxx.
+Shall have SWIFT interface with CBS for avoiding duplicate
+entry with appropriate security measures.
+xxxi. Shall generate Bangladesh Bank return report automatically
+from CBS.
+xxxii. Shall incorporate document receive register module for
+avoiding wrong maturity date in the system.
+xxxiii. Shall incorporate discrepancy clause for finding either
+discrepant document or order document.
+xxxiv. Shall incorporate pre-shipment inspection company list in
+import LC booking or issuing.
+xxxv. Minimum mandatory parts of a DC:
+a. Buyer Name and Address
+b. Seller Name and Address
+c. Value and Currency
+d. Expiry
+e. Shipment
+f. Usance/Sight/Mixed payment
+g. Tenor Period(if Usance)
+h. Available with
+Advising Bank
+Advise through Bank
+k. Invoice Information
+Goods Description
+m. Required Documents
+n. Additional Conditions
+o. Confirmation Instruction
+p. Payment Instruction
+q. Auto generated LC no with issue date
+r. Tolerance (if any)
+s. Port of loading
+
+--- Page 49 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 41
+
+t. Port of discharge/place of delivery
+u. Partial shipment
+v. Transshipment
+w. Incoterms
+xxxvi. Shall maintain common clauses in the system by marking a
+one or two word reference number against each. This will
+enable users to recollect the long clauses in seconds. If any
+special clause is required they can always write down in the
+free field.
+xxxvii. Shall have dual authorization mechanism and check user limit
+for transaction making or authorizing what would be linked
+with a core limit control mechanism.
+xxxviii. System shall have facility or ceiling value marking fields of a
+customer for IRC and control to show over limit or interact
+with user.
+xxxix. At the time of DC opening and authorization of the LC opening
+transaction, system shall show warning message if any import
+bill payment is overdue or for any irregular liabilities.
+xl.
+System shall store mandatory import related
+license/certificate number like IRC, Trade License etc. with
+issue date and expiry date and control to show if expired or
+interact with user and also have the facility to monitor IRC
+value and DC value.
+xli.
+System shall not permit to open DC against defaulter
+borrower.
+xlii.
+System shall have checking capability of whether the goods
+are permissible for import as per present IPO.
+xliii.
+Shall check the HS code with Import policy if required any
+special permission/clause. For Example, HS Code 7207
+requires Pre-Shipment Inspection.
+xliv.
+Shall tag the amendment(s) SWIFT and Voucher with the
+respective LC.
+xlv.
+Shall tag the amendment(s) in the history of the respective LC
+xlvi.
+Shall have facility to cancel and close the existing LC and
+return the margin to the customer’s account and adjust the
+liabilities.
+xlvii. System shall ask confirmation of available approved limit,
+clean CIB report, required margin and compliance of
+conditions imposed by the approving authority.
+5.1.2
+Import Shipping
+Guarantee
+System shall auto generate SG reference.
+ii.
+System shall tag Import DC against SG reference.
+iii.
+System shall transfer margin to SGand taking remaining margin
+equal to SG value in local currency.
+iv.
+System shall create loan for at par facility.
+System shall automatically generate NOC by addressing port
+authority and customs.
+
+--- Page 50 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 42
+
+vi.
+System shall generate SG Advice.
+vii. System shall remove SG after arrival of original documents.
+viii. System shall receive more than one copy of document (like 2
+copies) but after SG, receive one original document from
+exporter.
+ix.
+System shall generate reports on outstanding SG and other
+Import Bills.
+System shall tag single or multiple SG if any.
+xi.
+Shall have the ability to check Currency and amount of LC and
+SG Documents.
+5.1.3
+Import
+Lodgment/Acceptance
+System shall generate document received serial no. and
+register.
+ii.
+System shall preserve the Airway Bill number.
+iii. System shall generate import bill number.
+iv. System shall tag import bill with LC.
+System shall check flags for workability of import bill with LC,
+like Value, Currency, Expiry, Shipment etc.
+vi. System shall generate overdue reports (after 05 working days)
+of import bill as per UCP 600.
+vii. System shall generate ageing for non-receipt of documents.
+viii. System shall tag payment, acceptance or discrepancy
+notification with bill as well as LC.
+ix. System shall generate report of payment, acceptance or
+discrepancy notification.
+In case of payment, special rate input facility shall be available
+in bills.
+xi. Margin release option required: Full, Proportionate and amount
+shall be available.
+xii. LC amount shall be changed at the time of bills creation.
+xiii. Charge (i.e. SWIFT charge) realization facilities shall be available
+from account.
+xiv. Payment advice to be generated when the loans are auto
+liquidated.
+xv. Partial close option in BC shall be available.
+xvi. Splitting facilities in a same BC shall be available so that one BC
+shows several maturity dates.
+xvii. MT202, MT740 and MT752 shall be created like MT799
+(Sometimes additional charges required to be paid along with
+bill value, for payment of discrepant documents).
+xviii. MT input format shall be same as SWIFT terminal so that neck
+message can be avoided.
+xix. Settlement currency shall remain as BDT at the time of EDF
+loans creation.
+xx. Shall have the ability to make payment of advising charge,
+confirmation charge and presenting bank’s charge.
+xxi. Shall have the ability to accommodate UPAS/Mixed
+payment/Bullet payments related acceptance and payments
+
+--- Page 51 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 43
+
+and shall have the ability to reverse the liability up to
+proportionate bill amount.
+xxii. Shall have the ability to make payment through FDD and
+Payment order.
+xxiii. Shall have the ability to close/cancel lodgment/acceptance
+account.
+xxiv. Shall have the ability to mark CL Status.
+xxv. System should generate related forwarding letter to customs
+office.
+5.1.4
+Import Retirement
+System shall create loan as financing to retire bills.
+ii.
+System shall make loan tenor at par given facility.
+iii.
+System shall have facility to make retirement by debiting
+customer cash account or Export Margin account.
+iv.
+Loan period = Facility Tenor – Bill Tenor.
+System shall calculate remitting amount.
+vi.
+Bill amount- Bank Charges (if on account of Bene) +
+Confirmation fee (if any) + Interest (libor) (if any).
+vii. System shall have MT202 capability or DD/PO issuance
+capability.
+viii. System shall produce retirement advice.
+ix.
+System shall produce loan advice.
+System shall report on retired bills, outstanding loan.
+xi.
+System shall incorporate retirement of LC with Pay order, FDD,
+A/C transfer, BDT plus FC etc.
+5.1.5
+Import Loan
+System shall produce loan reports, due date and overdue.
+ii.
+System shall settle loan by debiting customer accounts.
+iii.
+System shall warn during loan settlement regarding facility line
+or cash availability.
+iv.
+System shall have loan register for performance.
+System shall have advanced Maturity List.
+5.1.6
+LC Issuance at
+Branches - Cash & BTB
+Trade Services Department receives LC request letter along with
+other required documents from the branches duly signed by
+Head of Branch. Operation Manager along with a check list
+prepared in accordance with approved Standard Operating
+Procedure (SOP) duly filled in and signed by two authorized
+signatories of the branch.
+5.1.7
+Trade Services
+Department(TDS)
+TDS checks limit of the respective applicant in the system.
+System shall not allow issuance of any LC if the limit is
+insufficient or expired or not yet loaded. Without having limit of
+LC, it cannot be drafted and cannot be committed or authorized
+in the system. Before committing an LC by the maker,
+commission/charges and margin amount are posted in the
+system as per sanction approved.
+5.1.8
+Transaction
+Authorization
+System shall calculate the LC liability amount against respective
+LC and update the same to the system automatically upon
+authorization by the checker of the respective entry. System
+automatically generates a message data of LC to SWIFT
+
+--- Page 52 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 44
+
+department for onward transmission to the advising bank. After
+successful transmission, the status shall be ACK, otherwise,
+NACK or REPAIR is automatically stored in a folder of the SWIFT
+server of international division. For processing LC international
+competitive price and supplier's credit report is a must. All info
+shall be loaded to the Web Portal of BB and system shall ensure
+that.
+5.1.9
+Settlement of LC-Sight
+and Usance
+On receipt of shipping documents, a standard examination of
+the documents is to be completed by the system as per check
+list prepared in line with SOP, UCPDC & ISBP in force. In addition
+PAD/LTR limit is to be checked/reconciled in the system,
+whether available in limit, insufficient or expired, LC No.,
+exchange rate, documents value, currency code, month code,
+charges, related bank particulars, commodity code, reporting
+month of entry, etc. After reconciliation of all necessary
+features and finding that they are in order, then system shall
+update for authorization - generate SWIFT message (MT 202)
+for onward transmission to Nostro A/C. In addition appropriate
+settlement rate shall automatically be tagged with message
+from the system. In case of sight bills, date of receipt and date
+of lodgment shall clearly be reflected in the system. Info of ACK,
+NACK, repair shall be stored directly in SWIFT server. All info
+relating to this payment and settlement shall be uploaded to BB
+web portal. System shall ensure it. In addition Bill of Entry(Item,
+H.S Code, Bill value) and CRF(Clean Report of Finding)value and
+bill value is to be checked and matched mandatorily and any
+deviation(above 30% of tolerance level), shall be reported to
+BB.
+5.1.10
+Advance Payment
+System shall have the facility to register the data of advance
+payment.
+ii. Shall have the facility to make payment (issuance of MT103).
+iii. Shall maintain a register.
+iv. Shall prepare/show overdue list.
+v. Shall check for the permission of regulator, where necessary.
+vi. Shall tag the inward bill and bill of entry.
+vii. Shall have the facility to execute transactions.
+5.1.11
+Documentary
+Collection
+System shall have the facility to register the data.
+ii. Shall have the facility to make payment (issuance of
+MT202)/Acceptance/Advice of refusal.
+iii. Shall maintain a register.
+iv. Shall prepare/show overdue list.
+v. Shall check for the permission of regulator where necessary.
+vi. Shall tag the inward bill and bill of entry with the maturity
+register.
+vii. Shall have the facility to execute transactions.
+
+--- Page 53 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 45
+
+5.2
+Export
+Sl. No.
+Item
+Description
+5.2.1
+Export Documentary
+Credit Advice and Lien
+System shall advise Export DC.
+ii.
+System shall clearly mention bank’s position and liability against
+DC advice and liability.
+iii.
+System shall confirm DC through swift or manual.
+iv.
+System shall verify DC as per International (UCP latest version)
+and Local (Foreign Exchange Policy) guideline.
+System shall have DC transfer feature.
+vi.
+System shall have options for substitution flag.
+vii. System shall have silent or open confirmation flag.
+viii. System shall have DC lien flag.
+ix.
+System shall have facility for DC transfer w/o substitution.
+System shall have facility for amendments or amendments
+transfer.
+xi.
+System shall have facility for SWIFT transfer as per message
+criteria.
+xii. System shall have Central Bank Permission Flag for allowing
+transfer.
+xiii. System shall apply Transfer Commission.
+xiv. System shall have Lien DC BBC allowance (sub system).
+xv. System shall have Export DC grouping capability.
+xvi. System shall produce reports on Export DC, BBC utilization, and
+Business MI.
+xvii. System shall store mandatory export related license/certificate
+number like ERC, Trade License etc. with issue date and expiry
+date and control to show if expired or interacted with user.
+5.2.2
+Export Bill Forwarding
+System shall have EXP electronic registering (sub system).
+ii.
+System shall have number generation control of EXP. For
+example, local DC does not need to generate EXP number.
+iii.
+System shall have EXP certification (sub system).
+iv.
+System shall have EXP reporting and monitoring (sub system).
+System shall tag Export Bill with Lien DC/SC/PO.
+vi.
+System shall negotiate Export Bill at the time of recording bill.
+vii. System shall have Export Bill discounting facility after
+acceptance.
+viii. System shall have acceptance flag.
+ix.
+System shall have currency conversion facility.
+System shall have Export Bill amendment facility.
+xi.
+System shall produce automatic bill advice.
+xii. System shall have reports and MI on Export Bills.
+xiii. System shall incorporate FBCA (Foreign Bills collection for
+advance).
+xiv. System shall incorporate margin of export.
+xv. At the time of Export Bill sent for collection, system shall warn
+users if any EXP is overdue.
+xvi. Shall calculate the total FDBC amount with the master DC.
+
+--- Page 54 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 46
+
+xvii. Shall calculate the difference (normally zero) between EXP
+certified amount and bill value.
+xviii. Shall have the facility to generate FDBC forwarding with
+documents count.
+xix. Shall have the facility to execute transactions to realize charges.
+5.2.3
+Export Loan Creation
+Facility
+System shall support pre-shipment and Purchase against
+Documentary Credit loan facility.
+ii.
+System shall mark DC/SC/PO at the time of pre-shipment
+financing.
+iii.
+System shall produce automatic loan advice.
+iv.
+System shall produce automatic loan reports.
+System shall create force loan if proceed not realized.
+vi.
+System shall calculate eligible loan amount considering
+obligations, like BTB liability, foreign agent commission, local
+agent commission, packing credit etc. against Export DC.
+vii. System shall check approval limit line for the loan facility.
+5.2.4
+Export Proceeds
+Realization
+System shall have Nostro viewing and printing facility.
+ii.
+System shall support fund distribution.
+iii.
+System shall build fund for BBC liability and security.
+iv.
+System shall have EDF or incentive loan processing capacity and
+outstanding report.
+System shall process inward remittance as advance remittance
+for export.
+vi.
+System shall support electronic registering of ARV.
+vii. System shall produce automatic repayment advice.
+viii. System shall produce automatic paid bills report.
+ix.
+System shall produce automatic BBC margin account balance
+reports of various MI.
+System shall support repayment with DD, FDD, and accounts
+transfer.
+xi.
+System shall calculate sundry deposit amount for BTB payment,
+foreign agent commission amount and local agent commission
+amount.
+xii. System shall have the facility to give standing instruction (SI).
+xiii. System shall have facility of straight through processing (STP)
+with integration to SWIFT. User shall check documentation
+requirement and approve the transaction.
+xiv. System shall have flexibility to accommodate Tax and VAT rule
+which is changeable time to time as per Govt. order.
+5.2.5
+Receiving and Checking
+of Export LC
+On receipt of Export LC, all features shall be checked with
+authenticity and then forwarded to the exporter. In case of
+new buyer, credit report by the international credit rating is
+required, if satisfied the LC shall be recorded in the system with
+job no. and process to open BTB as mentioned in LC issuance
+condition. Export performance and contract shall be monitored/
+traced through this job no.
+ii.
+System shall have facility to view the incoming Export L/C
+message received through SWIFT and subsequent SWIFT
+
+--- Page 55 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 47
+
+communication.
+5.2.6
+Receiving and Checking
+of Export Documents
+Upon receipt of export documents, features shall be with export
+LC, and if in order all information relating to export bills shall be
+input into the system and documents shall be sent to abroad. If
+documents shall be found discrepant/not negotiated, those
+shall be sent instead for collection. At the time of negotiation,
+portion of BTB LCs, disbursed packing credit amount, foreign
+charges, local agent commission, etc., all the BTB & PC related
+data shall be directly reflected in the system through Export
+Performance Register. Disbursement of FDBP, Packing Credit &
+SOD (EDF) shall be checked with limit by the system. For
+purchase of local docs (IDBP), system shall ensure through
+SWIFT as well as be uploaded in BB web portal by the payee
+bank. For IDBP, sanction is required from HO and limit shall be
+loaded by CAD for disbursement of loan.
+5.2.7
+Posting EXP Forms
+EXP forms shall be posted in three phases: 1st - just after
+issuance, 2nd - after exporters submit original docs with EXP
+and other papers, 3rd - after proceeds realization.
+5.2.8
+Proceeds Realization
+FC to be held and recorded for future payments of BTB
+obligations. All the information shall be in the system through
+Export Performance Register. Arrangement of checking of
+SWIFT messages -MT 103, 202, 910, and 756 for confirmation of
+proceeds.
+5.2.9
+PRC Issuance and BB
+Reporting
+After receiving the Export Bill value, bank shall issue PRC.
+Adjustment of local taka with BTB and other facilities enjoyed.
+Triplicate copy of EXP shall be reported to BB indicating the PRC
+value in taka as well as in FC.
+5.2.10
+Overdue Export Bill
+Within six months proceeds shall be realized, otherwise, the bill
+shall be treated as overdue and reported to BB. In case of Cash
+Subsidy Cases, Client has to raise claim within 6(six) months
+from the date of PRC issuance, and system shall ensure this.
+
+5.3
+Remittance
+Sl. No.
+Item
+Description
+5.3.1
+General Characteristics
+System shall issue LCY pay order against LC payment.
+ii.
+System shall receive MT 103 message as Inward Remittance.
+iii.
+System shall generate MT 103 message as Outward Remittance.
+iv.
+System shall issue FCY Demand Draft against LC payment.
+5.3.2
+Inward Remittance
+It is processed and controlled through Centralized Foreign
+Remittance Centre (CFRC) of HO.
+5.3.3
+Other Sources-for
+Inward
+EFT and DD through Secured Web Login, Secure tested key message
+and SWIFT through exchange houses and banks.
+5.3.4
+Outward Remittances
+Customer A/C, respective banks, branches through BFTN, as per
+payment instruction from exchange house and banks.
+5.3.5
+Reconciliation
+At the end of the day CFRC reconcile and cross check the executed
+transactions.
+
+--- Page 56 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 48
+
+5.4
+Guarantee
+Sl. No.
+Item
+Description
+5.4.1
+General Characteristics
+System shall issue guarantee with effective date/date of
+issuance.
+ii.
+System shall amend guarantee for original return/without
+original return/by memo.
+iii.
+System shall cancel guarantee for original return/without
+original return/by memo.
+iv.
+System shall made encashment of guarantee.
+System shall support various types of guarantee, such as,
+advance payment, financial, bid bond, performance.
+vi.
+Applicant can be local, foreign.
+vii. Beneficiary can be local & overseas.
+viii. System shall support close-ended/open-ended expiry/counter
+guarantee expiry.
+ix.
+System shall use cash/FDR: Percentage of guarantee value as
+margin and shall be capable to check with collateral module.
+System shall support encashment of commission on operative
+A/C, Nostro.
+
+5.5
+Back-to-Back LC
+Sl. No.
+Item
+Description
+5.5.1
+General Characteristics
+System shall support the following critical features to b2b Import DC
+function:
+Shall generate DC number as per BB guideline.
+ii.
+Shall store buyer-placed Proforma Invoice (PI) or information on
+the contract of buyer and seller. Shall link this PI number to the
+DC number generated by the system for future Merchant
+Invoice (MI).
+iii.
+Shall store all the relevant field of MT700 to MT799.
+iv.
+Shall store buyer-seller information for local MI.
+Shall store advising bank and advised through bank details.
+vi.
+Shall store fields for Central Bank instruments for import
+function like LCAF, IMP.
+vii. Shall store fields for insurance details.
+viii. Shall store fields for PSI.
+ix.
+Shall affect balance sheet for accounting capability.
+Shall have marginal deposit field for holding customers cash as
+security.
+xi.
+Shall be capable to pick up related export letter of credit
+information with minimum below fields:
+a. Export LC/SC No.
+b. Export LC/SC Date
+c. Value and Currency
+d. Expiry Date
+e. Shipment Date
+
+--- Page 57 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 49
+
+f. Tenure
+g. Applicant /Buyer Name
+h. Applicant /Buyer Country
+Available with- by
+Advising Bank
+k. Advise through Bank
+Service/Buying Commission Amount
+m. Penalty Clauses (if any)
+n. Approval of Clauses/Permission from BB
+o. Tolerance (if any)
+p. Goods description
+q. Discount clause
+xii. Shall have logical coding for check flags. For example, to check
+proposed b2b LC validity, shipment date, drawing power etc.
+are covered by that of the related export LC or SC.
+xiii. Shall have simple logical coding for check flags. For example DC
+Validity, Shipment validity etc and relevant interaction with
+user.
+xiv. Shall have facility or limit marking fields as per given facility for
+a customer and a control to show over limit or interact with
+user.
+xv. Shall have a separate charges screen what would be linked with
+a core charges control mechanism.
+xvi. Shall have charges control to enable standard and preferential
+charges.
+xvii. Shall have product control to the relevant fields or suppress it.
+For example Sight DC does not need to show Usance/Tenor
+fields.
+xviii. Shall have built options to choose DC Tenor field and shall be
+linked with Bill Tenor and Loan Tenor.
+xix. Shall have draft Bill of Exchange Tenor.
+xx. Shall have user control.
+xxi. Shall have Help screen for users about the product, fields and
+DOs or DO NOTs.
+xxii. Shall have transaction history screening capability throughout
+the life cycle of a DC. This feature can be controlled with a
+retention control mechanism.
+xxiii. Shall have remark marking capability in Transaction History
+screen.
+xxiv. Shall have special instruction marking capability during
+transaction in user interface customized for individual customer
+or common special instructions for all customers.
+xxv. Shall generate DC Advice electronically or print for customers
+xxvi. Shall generate report for outstanding DC, predefined margin
+and other required MI.
+xxvii. Shall have high risk country and AML Blacklist Checking
+capability in all Trade application.
+xxviii.
+Shall have SWIFT interface with CBS for avoiding duplicate
+
+--- Page 58 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 50
+
+entry with appropriate security measures.
+xxix. Shall generate Bangladesh Bank return report automatically
+from CBS.
+xxx. Shall incorporate document receive register module for
+avoiding wrong maturity date in the system.
+xxxi. Shall incorporate discrepancy clause for finding either
+discrepant document or order document.
+xxxii. Shall incorporate pre-shipment inspection company list in
+import LC booking or issuing.
+xxxiii.
+Minimum mandatory parts of a DC:
+a. Buyer Name
+b. Seller Name
+c. Value and Currency
+d. Expiry
+e. Shipment
+f. Usance/Sight
+g. Available with
+h. Advising Bank
+Advise through Bank
+Goods Description
+k. Required Documents including Suppliers’ Credit Report
+Additional Conditions
+m. Confirmation instruction
+n. Payment Instruction
+o. Related export letter of credit or contract no. and date
+p. Tolerance (if any)
+x. Port of loading
+y. Port of discharge/place of delivery
+z. Partial shipment
+aa. Transshipment
+bb. Incoterms
+xxxiv. Shall maintain common clauses in system by marking a one
+or two word reference number against each. This will enable
+users to recollect the long clauses in seconds. If any special
+clause is required they can always write down in the free
+field.
+xxxv.
+Shall have the facility to match shipment date / expiry date
+with the BTB DC.
+xxxvi. Shall have the facility to view the full history of the master
+DC at a glance including total BTB, FDBC, Fund realized, EXP
+issued.
+xxxvii. Shall have the facility to tag the SG with the Master LC and
+produce notification.
+xxxviii. Shall generate exception reports.
+
+--- Page 59 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 51
+
+Module: Treasury
+6.1
+Products
+Sl. No.
+Item
+Description
+6.1.1
+Foreign Exchange
+System shall provide facility to:
+Cash/Spot
+ii. Forward
+iii. Swap
+6.1.2
+Money Market
+System shall provide facility for:
+Deposits/Placements – Fixed, Notice and Call
+ii. Certificate of deposits
+iii. Discount instruments
+iv. Refinancing Fund
+v. Commercial Papers
+6.1.3
+Securities
+System shall provide facility for (on behalf of bank & customer):
+Discounted instruments
+ii. Fixed rate instruments
+iii. Floating rate instruments
+iv. All kinds of bonds (e.g. coupon bonds, zero coupon bonds, asset
+backed/Islamic bonds etc.)
+v. Shares, Equities & Warrants
+vi. Debentures
+vii. Preference shares
+viii. Securitization
+ix. Share trading on stock exchanges
+x. Issuance of all kinds of money and capital market bonds
+xi. Primary Dealership of securities from Bangladesh Bank
+6.1.4
+Derivatives
+System shall provide facility for:
+Forward Rate Agreements
+ii. Interest Rate Swaps
+iii. Currency Interest Rate Swaps
+iv. Futures, Options
+v. Repo/Reverse Repo
+6.1.5
+Foreign Exchange
+Margin Trading
+System shall be able to perform:
+Margin trading with margin account maintenance
+ii. Setting up of initial & maintenance margin (in percentage
+terms)
+iii. Settlement & verification of margin trades
+iv. Closure of margin trades
+
+6.2
+Front Office
+Sl. No.
+Item
+Description
+6.2.1
+Basic Feature
+System shall be able to perform Straight Through Processing
+with level-wise authorization as per regulatory guideline.
+ii.
+System shall have currency-wise foreign currency & money
+
+--- Page 60 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 52
+
+market position blotter.
+iii.
+System shall have Individual dealer wise log in screen and
+monitoring system.
+iv.
+System shall show each dealer about his limit information (open
+& used currency/counterpart wise).
+System shall have direct interface to dealing systems like
+Reuters dealing 3000/3000 extra, Telerate, Bloomberg for deal
+capture and also for download currency rates for generation of
+exchange rates (card rate, treasury rate).
+6.2.2
+Online Real-Time
+Facilities
+System shall perform intraday positions & profitability analysis
+for deal/currency/dealer-wise.
+ii.
+System shall process Nostro position and funding.
+iii. System shall perform dealer’s limit (Stop/Loss, triggers)
+checking/ up gradation showing open position currency-wise.
+iv. System shall perform counter party limit checking/up gradation
+showing open position.
+System shall monitor central bank regulatory limits for both LCY
+& FCY.
+vi. System shall have interest/yield, NPV calculator based on
+parameterized methods (e.g. with or without upfront tax
+impact, tax at maturity, in case of tax change, discounted value,
+premature encashment etc.).
+vii. System shall have credit analyzer for counter party limit.
+viii. System shall have exception event handling option.
+6.2.3
+Trades
+System shall be capable to make amendment, cancellation,
+deletion to trades captured in the system with proper
+authorization and notification to the mid office.
+ii.
+System shall be able to provide data for monitoring e.g. VAR
+limit, notional limit, regulatory limit, ALCO set limit, and other
+limits set at divisional level.
+iii. System shall have built-in currency converter and calculator to
+facilitate all kinds of interest/yield, discounted, present value at
+present and accrual basis.
+iv. System shall have ability to generate fund transfer instruction to
+related office.
+System shall have ability to match deals, discounted
+instruments for profitability analysis or liquidation of contracts.
+vi. System shall perform maintenance of static data like standing
+instruction, sweep facility, event and holiday calendar.
+vii. System shall be able to adopt introduction of new currency
+created for a new financial zone.
+
+6.3
+Middle Office
+Sl. No.
+Item
+Description
+6.3.1
+Basic Feature
+System shall be able to cover the following middle office
+features: -
+
+--- Page 61 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 53
+
+a. Credit risk exposure monitoring and control
+b. Product limit for main and sub-limit
+c. Limits by tenors
+d. Counterparty Limit
+e. Stop loss limit
+f. Trigger limit
+g. Dealer’s limit
+h. Dealing room limit
+Inter day limit
+Settlement limit
+k. Forward limit
+Mandatory limit for SLR/CRR
+m. Off-Market Rate Monitoring
+n. Overnight foreign currency limit
+o. Secured/Unsecured Credit Lines
+p. Online excess overrides and Audit Trail reports
+q. Authorization of deal captured at front office
+ii.
+System shall generate P/L according to dealer-wise, currency-
+wise, product-wise, deal-wise, counter party-wise and for a
+specific period-wise.
+iii.
+System shall perform mark to market, revaluation, and forward
+revaluation.
+iv.
+System shall be able to set internal trading limits and
+monitoring at various levels, e.g. Product, Dealer, Trading
+Books, Currency, etc.
+Shall have the facility of Revaluation Reserve Securities wise.
+vi.
+Shall have the facility of Revaluation Loss Securities wise.
+
+6.4
+Back Office
+Sl. No.
+Item
+Description
+6.4.1
+Basic Feature
+System shall monitor outstanding trades tracking.
+ii.
+System shall track confirmed/unconfirmed trades (incoming &
+outgoing).
+iii.
+System shall have features for Standard Settlement Instruction
+and Incomplete Settlement Instructions.
+iv.
+System shall have Historical Trades Analysis.
+System shall have trade confirmation and settlement
+processing.
+vi.
+System shall provide mark-to-market revaluation, Coupon
+Accruals and alerts.
+vii. System shall have standard control process – Maker-Checker “4-
+eyes principle”.
+viii. System shall perform Dealer and or Settlement Verification.
+ix.
+System shall prepare regulatory report.
+System shall perform treasury reconciliation e.g. Local book to
+correspondent book, Local book to Local book, correspondent
+
+--- Page 62 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 54
+
+book to correspondent book, etc.
+xi.
+System shall issue BB cheques/DD/Pay order and charge
+realization with automated accounting entries.
+xii. System shall have ability to receive and sent SWIFT messages
+including auto message preparation and accounting entries.
+6.5
+Other Features
+Sl. No.
+Item
+Description
+6.5.1
+Deal Capture
+System shall be able to capture any deal in front office for both
+local and foreign currency.
+ii.
+System shall perform real time online monitoring of dealer-
+wise/counterpart-wise/currency-wise limit and shall show the
+open limit and then shall pass the deal to mid office after
+proper authorization. After mid office verification, deal will be
+passed to back office for settlement.
+iii.
+System shall have flexible dealing screen to capture all local
+market features respective to all standard products (e.g. deal
+passing without mentioning rate).
+6.5.2
+Interest Calculation
+System must perform all possible methods of interest
+calculation (e.g.360/364/365/366 days and if any other).
+ii.
+System shall have facility to change interest rate with effect
+from a prior/future date and the re-computation of interest to
+be done globally and the dues to be adjusted in the affected
+accounts. Shall keep history of interest changes globally and at
+account level.
+iii.
+System shall support various method of
+charging/paying/calculating interest (e.g. Flat, Floating, Tiered,
+Mixed, Compounding, Grace period, Add on facility, Holiday
+marking with feature of in advance/subsequent to a holiday,
+Premature encashment, Renewal, Premature encashment of
+interest and Renewal of principal with or without accrual, Penal
+charge implication etc.).
+iv.
+System shall have ability to give effect to back value to interest
+change and all related effect to concerned accounts.
+System shall provide calculators for all kinds of interest/yield
+rate and amount calculation like flat, fixed, compound, tiered,
+mixed, discounted values, NPV based on grace period, with or
+without accruals and all other possible methods.
+vi.
+System shall calculate all kinds of SWAP and its legs, forward
+contracts, future and option contracts.
+vii. Shall have facility to tag spread margin (+/-) with any product
+rate to other product/individual account.
+6.5.3
+Accounting
+System shall generate accounting entries for treasury contracts
+(off & on balance sheet items) in a flexible and parameterized
+manner supporting generation of multi currency general ledger
+entries. The accounting entries shall be defined based on
+product type, client type and a business event.
+
+--- Page 63 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 55
+
+ii.
+System shall have ability to automatically generate the
+“Accrual” of all kinds of treasury products (e.g. Swap Profit/Loss,
+Income/Expense) accounting entries for the duration between
+the value dates of Spot and Forward Legs (or Forward &
+Forward Legs).
+iii.
+System shall automatically generate premium related
+accounting entries, on value date for Options Contracts
+iv.
+System shall perform back value accounting entries for
+predefined time period by the bank.
+6.5.4
+Maker-Checker Process i.
+System shall be able to run Maker Checker process in which,
+one user captures the contract or settlement details, and a
+different user validates/verifies/authorizes the contract or
+settlement details.
+ii.
+System shall make the contract active, only after the maker
+checker process.
+6.5.5
+Settlement Processing
+System shall allow the users to maintain default settlement
+instructions by counter party currency wise.
+ii.
+System shall also allow split settlement &multi currency
+settlement.
+iii.
+System shall have ability to produce confirmation, payment &
+receive messages based on the settlement instructions.
+6.5.6
+Contract Reversal
+System shall automatically generate the accounting entries to
+reverse the initial accounting entries posted to the General
+ledger and also generate cancellation message like MT392 for
+instance.
+6.5.7
+Revaluation of FX
+Contracts
+System shall be able to perform Mark to Market Revaluation of
+FX Contracts like spot, forward, total holding etc. based on
+various methods.
+6.5.8
+Management
+Information for FX
+Contracts
+System shall be able to provide information like net position by
+currency, forward cumulative currency position from FX
+Contracts for the management.
+6.5.9
+FX Position Keeping
+System shall be able to track trade date positions & the actual
+value date positions for FX Contracts, including Margin trading.
+6.5.10
+Profitability Analysis of
+FX Contracts
+System shall be able to calculate the unrealized profit on daily
+or cumulative figures for FX Contracts. The daily profitability is
+based on the difference between the previous day’s market rate
+and the current day market rate.
+6.5.11
+Brokerage Commission
+Calculation
+System shall be able to calculate the amount of brokerage
+commission automatically.
+ii.
+System shall also be able to maintain the currency in which the
+brokerage commission is calculated.
+6.5.12
+Amendment of Money
+Market Contracts
+System shall have ability to perform the following amendments
+on Money Market Contracts with level wise predefined
+authorization: -
+a. Increase principal
+b. Decrease principal
+c. Rate change
+
+--- Page 64 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 56
+
+d. Change in interest frequency
+e. Change in rollover frequency
+f. Maturity extension, etc.
+6.5.13
+Prior to Maturity
+adjustments of Money
+Market Contracts
+System shall allow the users to perform the following adjustments,
+prior to maturity of money market trades:
+Deposit and withdrawal entries from Call/Notice accounts
+ii. Early withdrawal of fixed term deposits with or without penalty
+& tax effect
+iii. Rollover of outstanding trades
+iv. Changes in settlement instructions
+6.5.14
+Back Valuation of
+Contracts
+System shall be parameterized to allow the users to maintain
+the maximum period for which a contract can be backdated.
+6.5.15
+Charges on Contracts
+System shall maintain and automatically generate the charges &
+the charge related accounting entries for treasury contracts as
+defined by the users.
+6.5.16
+Auto Renewal of
+Money Market
+Contracts
+System shall support the followings:
+a. Money market deals could be configured to be auto-
+renewed upon maturity.
+b. The auto-renewal attribute of a money market contract
+shall be set up at a product level.
+c. Upon deal creation, the auto-renewal attribute shall be
+defaulted. The user could manually override the auto-
+renewal setting for each contract.
+d. User shall have the ability to override any renewed contract
+with level wise authorization.
+6.5.17
+Deal Matching of
+Security Transactions
+System shall have ability to perform the rules given below:
+a. Matching will be possible only for transactions with the
+same security, and trading book code.
+b. A new deal being matched (the sale deal) needs to be
+completely matched against the buy(s).
+c. It is possible to match a sale deal against multiple buys; buy
+deals likewise can have multiple sale deals matched with
+them.
+d. The value date of the sale deal shall be greater than or
+equal to the value date (s) of the buy deals with which it
+being matched.
+e. If a sale deal is being reversed, all the match records with
+the buy deal shall be deleted after proper authorization.
+6.5.18
+Portfolio Restructuring
+System shall have ability to perform Portfolio Restructuring
+including the following:
+a. To split/merger of stock from one counter to another or
+within the same counter
+b. Compute new stock quantity
+c. Apply new stock price
+6.5.19
+Security Lending
+System shall have ability to support security lending. It shall
+allow the users to input collateral as security for lending. The
+cash and/or security can be used as collateral.
+
+--- Page 65 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 57
+
+ii.
+System shall validate the position before security can be lent
+out.
+6.5.20
+Coupon & Maturity
+Redemptions
+System shall have ability to automatically generate the
+accounting entries for Coupon & Maturity Redemptions of
+securities contracts.
+ii.
+System shall also be able to automatically generate the coupon
+payment deals. The coupons alert shall be generated on given
+specified time before the coupon date.
+6.5.21
+Short Sales
+System shall have ability to support short sales of bonds &
+securities. This shall be extended even to those cases where
+there is no opening position having proper authorization.
+6.5.22
+Custodian Information
+System shall have ability to capture the “own” & “counter-
+party” custodian information for securities.
+6.5.23
+Security Delivery Types
+During settlement of bonds & security contracts, system shall
+have ability to specify the following delivery types:
+a. Receive against payment (RVP)
+b. Receive free of payment (RFP)
+c. Deliver against payment (DVP)
+d. Deliver free of payment (DFP)
+6.5.24
+Fixed vs Floating &
+Floating vs. Floating for
+Interest Rate SWAP
+Transactions
+System shall have ability to handle both Fixed vs. Floating &
+Floating vs. Floating (basis swap) transactions for Interest Rate
+SWAP.
+6.5.25
+Interest Differential
+Processing for FRA/IRS
+Transactions
+System shall have ability to perform the rate fixing for Forward
+Rate Agreements, Interest Rate SWAP & Currency Interest Rate
+SWAPs, also process the settlement of the interest differential.
+6.5.26
+PI & RI For IRS/CIRS
+Transactions
+System shall have ability to calculate & generate accounting
+entries automatically for Interest Payable (PI) & Interest
+Receivable (RI) from Interest Rate SWAPs & Currency Interest
+Rate SWAP contracts.
+6.5.27
+Different Types of
+Future Contracts
+System shall have ability to handle different types of Future
+Contracts like:
+a. Currency Futures
+b. Interest Rate Futures
+c. Long Term IR Futures
+d. Short Term IR Futures
+e. Index Futures
+f. Stock Index Futures
+g. Equity Index Futures
+6.5.28
+Processing of Key
+Events of Future
+Contracts
+System shall have ability to process the following key events of
+Future Contracts:
+a. Auto Generation of LIFO/FIFO/MIN/MAX
+b. Matching and Liquidation Trades
+c. Revaluation of position and warning for Call Margin
+Situation
+d. Tracking and assisting in execution of trades and settlement
+6.5.29
+Exchange Settlement of i.
+System shall have ability to perform future trade liquidation &
+
+--- Page 66 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 58
+
+Future Contracts
+deal matching as per the exchange settlement dates for future
+contracts.
+6.5.30
+Trade Liquidation of
+Future Contracts
+System shall have ability to perform the future trade liquidation
+by the following methods:
+a. Reduce the open position by selling
+b. Manual Deal matching
+c. Auto Deal matching – LIFO, FIFO, MIN, MAX & deal
+matching as per the exchange settlement dates for future
+contracts.
+6.5.31
+Different Types of
+Option Contracts
+System shall have ability to handle different types of Option
+Contracts like:
+a. Currency Options
+b. Interest Rate Options
+c. Long Term IR Options
+d. Short Term IR Options
+e. Index Options
+f. Stock Index Options
+g. Equity Index Options
+h. American Options
+European Options
+6.5.32
+Different Trade Types
+for Option Contracts
+System shall have ability to generate different trade types for
+Option Contracts as follows:
+a. Normal, Hedge vs. Cover Deals.
+b. Normal cover & short sales.
+6.5.29
+Options Exercise
+System shall have ability to handle the following types of
+Options Exercise:
+a. American Option trades can be exercised when they are IN-
+THE-MONEY.
+b. Display of un-expired option contracts that can be exercised
+c. Exercise price is defaulted and can be amended
+d. Options Exercise Settlement amount and profit & loss
+amount are automatically calculated.
+6.5.33
+Issuance
+System shall have ability to handle issuance of securities,
+shares, debentures, etc. and all related monitoring, alert and
+report feature.
+6.5.34
+On-line Updates
+Once the treasury contracts are done, system shall be able to
+perform the following on-line updates:
+a. Updates to the Bank-wide overall cash flow
+b. Updates to the Bank-wide Nostro positions
+c. Updates to the Bank-wide Currency positions
+d. Intra-day positions
+e. Estimated P/L.
+6.5.35
+Limit Exposure
+Checking
+System shall monitor/track the following limits/exposures
+online real-time:
+a. Counter party
+b. Country
+c. Region
+
+--- Page 67 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 59
+
+d. Product
+e. Settlement
+f. Dealer
+6.5.36
+Revaluation & Related
+Accounting Entries
+System shall have daily/monthly/predefined interval
+revaluation/mark to market of all foreign exchange
+positions/securities with the related calculation.
+ii.
+System shall automatically generate the revaluation accounting
+entries for all the treasury products based on pre-agreed
+method.
+6.5.37
+Automatic or Manual
+Generation of Deal
+Numbers
+System shall have both the options of automatically generating
+deal ticket with numbers, or manually entering the deal
+numbers depending on the treasury department’s policies.
+6.5.38
+Interfaces
+System shall have ability to interface and manage regarding
+messages to the following external systems:
+a. SWIFT
+b. Reuters
+c. Telerate
+d. Central Depository Bangladesh Ltd.
+e. Stock Exchanges
+6.5.39
+STP Processing
+System shall support Straight Through Processing from deal
+entry to settlement and accounting
+6.5.40
+Deal Modification
+System shall facilitate the following online operations for
+treasury deal modification:
+a. Approval
+b. Corrections
+c. Amendments
+d. Reversals
+e. Cancellations
+6.5.41
+Maturity Diary
+System shall have ability to generate diary reminders for expiry
+dates and interest due dates against all treasury contracts.
+6.5.42
+Cash Flow
+Management
+System shall perform daily fund requisition from Retail and
+Corporate through system.
+ii.
+System shall automatically update the relevant Nostro accounts
+with the funds expected to be received/paid once a transaction
+is processed with prior approval.
+6.5.43
+Messages
+System shall produce the payment notices/ receipts for each
+payment made through the Nostro accounts with detailed
+information on transaction identifier, counter party name,
+transaction details, deal date, value date etc. The related
+confirmation notices to be sent to the counter party shall also
+be automatically generated.
+6.5.44
+Budget
+System shall monitor the variance between the actual P/L and
+other positions with budget figures on various areas.
+6.5.45
+Work Flow Process
+System shall show the work flow process in every working area
+of treasury.
+6.5.46
+Cheque Management
+System
+System shall have ability to manage cheque printing, cheque
+inventory management, tracking of fund transfer against loan
+
+--- Page 68 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 60
+
+disbursement, remittance payment, cash management service
+etc.
+6.5.47
+Asset Liability
+Management
+System shall have ability to support the following
+features/analysis/reports:
+Product-wise cost/yield for asset & liability
+Capital Management
+BIS Ratios (Capital Adequacy Ratio etc.)
+Gearing Ratio
+Leverage etc.
+Gap Analysis
+Structural Liquidity Gap (bucket-wise & cumulative gap
+against set limit)
+Interest Rate Sensitivity (reprising, bucket wise &
+cumulative gap against set limit)
+Dynamic Liquidity
+Dynamic Gaps
+Option Adjusted Gaps
+Duration Analysis
+Economic Value of Equity
+Duration calculation for every product (asset & liability) &
+cumulative duration
+Duration Gap
+Sensitivity Analysis
+Scenario Analysis using Monte Carlo Technique
+Rate Shock Analysis
+Trend Analysis of all asset & liability products.
+DEAR, EAR, VAR
+Ratio Analysis
+ROA, ROE
+Earning Asset /paying liability
+Yield on earning asset
+Equity/Total Asset
+Break even yield on earning asset
+aa.
+Un drawn commitment as % of unused WBC
+bb.
+Net Interest Margin & Risk adjusted Margin
+cc.
+Forecasted effect on NIM & RIM, ROA, ROE
+dd.
+Balance Sheet trend analysis
+ee.
+Forecast Vs Actual, Forecast Vs Budget & Budget Vs Actual
+- business segment-wise position (rolling 6/12 months)
+ff.
+Concentration analysis as per
+product/customer/maturity-wise
+gg.
+Liquidity Stress Testing
+hh.
+Scenario Analysis
+ii.
+Back testing assumptions in Trend Analysis
+jj.
+Liquidity Ratios
+kk.
+SNAP Liquidity Ratio
+ll.
+Short term borrowing/liquid asset
+mm. Volatile liability/total asset
+
+--- Page 69 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 61
+
+nn.
+Liquid asset/short term liabilities
+oo.
+All other standard ALM reports
+pp.
+Options to add new ratios as when required by the BB
+6.5.48
+ALCO Process
+System shall support:
+a. ALCO limit setting and monitoring
+b. ALCO pack preparation based on committee requirement
+c. Interest rate fixation by ALCO at product level
+6.5.49
+Local Nostro
+Transactions
+System shall have ability to process fund transfer instructions
+via other banks for loan disbursement & repayment, remittance
+payment, cash management service etc. by other departments
+through treasury for efficient fund management.
+ii.
+System shall have ability to handle all related accounting entries
+by itself.
+iii.
+System shall have ability to calculate shadow interest on Nostro
+
+--- Page 70 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 62
+
+Module: System Administration
+7.1
+User Management
+Sl. No.
+Item
+Description
+7.1.1
+User Group
+Maintenance
+User groups shall be maintained as per bank’s policy such as,
+Manager
+Supervisor
+Officer
+Administrator, etc.
+7.1.2
+User Creation
+User creation, update, disable, transfer shall be done with
+proper documentation. As per bank’s policy, user password shall
+be reset maintaining a periodic gap.
+7.1.3
+User Information
+User information shall be maintained properly with a minimum
+of:
+User ID
+Employee ID
+User Name
+User Role
+User Branch
+Prime Menu
+User Type (HO User, Approval Authority , Relationship
+Manager, Manager, Officer, Supervisor)
+User Authorization to any branch
+User Terminal IP, Operating Time, Application Server IP
+7.1.4
+User Administration
+The administrator shall be able to do the followings as per bank’s
+policy:
+User Management
+Menu Options/Functions Management
+Set access controls to meet the application security
+Transaction limit setup as per approved DOA
+7.1.5
+Ordinary Users
+An Application User shall be able to do the following:
+Access menus as allowed by the application security set up
+for each unit/branch user
+Perform transaction and other input as allowed by the
+application security set up for each unit user
+Perform overrides, if permitted
+Perform enquiries as allowed by the application security set
+up for each unit user
+
+7.2
+Role Management
+Sl. No.
+Item
+Description
+7.2.1
+Application Access
+Control
+Users are granted or revoked for the Application.
+ii.
+Each Menu Options/Functions are granted or revoked for each
+user.
+iii.
+Special security features provided for certain enquiry functions,
+
+--- Page 71 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 63
+
+such as, Account Balance of Specific Branch, Account or
+Customer.
+7.2.2
+User Role
+Creation of different role name for different type of users.
+ii.
+Addition/deletion of functions in a role.
+iii.
+Selection of right for each function under a role, e.g.
+add/modify/cancel/delete/inquiry/view/print etc.
+iv.
+Allowing single or multiple roles with a user ID.
+7.2.2
+Transaction Limit for
+Group
+Branch code
+Group Code
+Max amount for local credit
+Max amount for local debit
+Max amount for inter-branch credit
+Max amount for inter-branch debit
+As per approved DOA for Customers and GL/P&L Account
+7.2.3
+Transaction
+Authorization
+Max amount for local credit
+Max amount for local debit
+Max amount for inter-branch credit
+Max amount for inter-branch debit
+As per approved DOA for Customers and GL/P&L Account
+7.2.4
+Transaction Limit
+(Local) for Individual
+User
+User ID
+Max amount for local credit
+Max amount for local debit
+As per approved DOA for Customers and GL/P&L Account
+7.2.5
+Transaction
+Authorization
+Max amount for local credit
+Max amount for local debit
+As per approved DOA for Customers and GL/P&L Account
+7.2.6
+Transaction Limit
+(Inter-Branch)
+Assigning branch
+Max amount for inter-branch credit
+Max amount for inter-branch debit
+As per approved DOA for Customers and GL/P&L Account
+7.2.7
+Authorization
+Password
+Authorization Password Maintenance
+7.2.8
+Supervisor Overrides
+Whether or not the warning requires supervisor override
+Which supervisors can override the warning
+7.2.9
+Availability Codes
+Availability codes are used to define which users are
+available for authorizing warnings remotely.
+
+7.3
+Application Administration
+Sl. No.
+Item
+Description
+7.3.1
+Application
+Environment Setup
+Library List Setup
+User Password Rule
+
+--- Page 72 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 64
+
+7.3.2
+Bank Parameters
+Maintain Spot Rates
+Weekly Holidays
+Yearly Calendar
+Bank Name
+Base Currency
+Local Currency
+Currency Parameters
+Currency Holiday
+Chief Local Office
+Profit period start day
+Profit period start month
+Automatically balance system
+Length of external account number
+Allow alpha customer number
+FX rate field size
+Regional branch settlement
+Real time branch settlement
+Maintain reporting defaults.
+System shall have facility to maintain daily exchange rate list
+details with history
+7.3.3
+Enquiry Security
+Account Enquiries
+Statistics Enquiries
+Account Services Enquiries
+Additional Information Enquiries
+7.3.4
+Account Maintenance
+Control Security
+
+Setting up menu options for customer and internal account
+detail maintenance
+Defining account detail fields which may be maintained
+using specific menu options
+Authorizing individual users to these menu options
+7.3.5
+Administration
+Apply parameter and control system tailoring upgrades to
+the application
+Run the Application Start and End of Day processing for the
+unit
+Backup and Restore files as required
+Housekeeping activities
+Option to run EOD/SOD at Head office level for all
+Units/Branches
+7.3.6
+Audit Trail
+Journal Report for User Profile Management Activity
+Journal Report for all types of Transaction
+Journal Report for all types Overrides
+Journal of Enquiry Usage Security
+Journal Report of all parameter changes and configuration
+level changes.
+7.3.7
+Transaction
+Monitoring
+Shall use transaction monitoring system to indentify
+unusual transactions based on bank’s policy and customer
+behaviour.
+
+--- Page 73 ---
+CBS Features and Controls
+
+
+2016
+
+Bangladesh Bank
+Page 65
+
+Module: Reporting
+Banks’ Reporting System(s) shall be capable of generating all regular MIS Reports, Regulatory
+Required Reports and so on. There shall be some basic banking and regulatory report such as
+detailed transaction records of any accounts, Daily Affairs, Monthly Affairs, Bills Register, CLs,
+SBS, RITs, PNL, AML (CTR, STR), Audit Trail, ALM Maturity Profile, List of Risk Limits, Risk Ratios
+suggested by various guidelines of regulators.
+Various category-wise reporting facility such as Financial Collateral, Immovable Collateral,
+Rescheduled Loan, Defaulted Loan, Accounts under Legal Action, Rated Assets, Borrower Net
+Worth, etc. shall be available.
+For variety of solution usage in the bank for different business portfolios, the report generation
+process shall be automated, transparent and reconciled with host system. Manual intervention
+shall be prohibited.
+For any changes in parameter level and configuration level, Audit Trail reports shall be available
+to illustrate the changes history.
+Bank may use Reporting Tool for automated data capturing from different solutions.
+In case of these reports preparation, a clear segregation of entity portion viz. branch &
+centralized corporate entities shall be ensured by the system especially for the banks which
+have adopted centralized accounting system and centralized business unit.
+The system shall be capable of producing the chart of accounts and the detailed transaction
+records of each of these account heads and sub-heads with date, description, debit, credit,
+balance etc.
+The account heads, product name etc. shall resemble with the forms of the First Schedule of the
+Bank- Companies Act, 1991 (amended upto 2013) and any amendments of the stated schedule
+made by BRPD.
+The layout of various reports shall resemble with banking and regulatory practices of
+Bangladesh.

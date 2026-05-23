@@ -1,0 +1,134 @@
+--- Page 1 ---
+Bangladesh Bank
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+www.bb.org.bd
+
+
+Debt Management Department
+
+
+DMD Circular No. -07
+Date: 29 July, 2012
+
+Managing Director/Chief Executive
+All scheduled bank companies working in Bangladesh
+
+Dear Sir,
+
+Rationalization of investment of scheduled banks in Government securities
+
+As per section 33 of Bank Company Act, 1991 (amended up to 2013), the commercial banks
+hold Treasury bills(T-Bills) & bonds for maintaining SLR. The holdings of T-Bills & bonds by
+Banks are also considered as liquidity coverage against liabilities. At present, T-Bills & bonds are
+not distributed rationally among the overall Banking system. For rationalization of such distribution
+it has been decided that 60% of unsubscribed amount in auction will be distributed among the
+Primary Dealer(PD) Banks and remaining 40% of the unsubscribed amount will be distributed
+among the 25 non PD Banks(list shown in Annexure II) until further instructions. It is mentionable
+that any bank other than PDs who will buy T-Bills & Bonds in this process, will not be treated as
+PD. But non-PD banks (Annexure-II) will get assured liquidity support from Bangladesh Bank like
+other PDs as per circular letter no DMD 01/2012 dated 22/02/2012. The new allocation procedure
+of T-Bills & Bonds in auction is shown in Annexure-I.
+
+The above circular will come into effect from 1 August, 2012. Circular number 06 dated
+24/07/2012 will be replaced by this circular.
+
+Please acknowledge receipt
+Yours faithfully,
+
+Sd/-
+
+( Bishnu Pada Saha )
+General Manager
+Phone: 9530131
+
+--- Page 2 ---
+Annexure-I
+Allocation Procedure of T-Bills & Bonds in auction
+a) Auction of T-Bills & Bonds will be held for notified amount as per pre-announced auction
+calendar. The non-PD Banks can also submit bids in auction through PDs.
+b) The unsubscribed amount in the auction(if any) shall be distributed among the PDs and Non-PD
+banks. Sixty percent(60%) of unsubscribed amount shall be distributed among twelve PDs and
+the remaining forty percent(40%) of unsubscribed amount shall be distributed among twenty
+five Non-PDs.
+c) The half of the distributable amount for PDs will be allocated as per their underwriting
+obligation & remaining half will equally be distributed among them. The total demand and time
+liabilities(TDTL) of banks that are used for the calculating CRR/SLR, will be considered as
+basis to determine underwriting obligation. The total proportion of PDs in the above TDTL will
+be converted to 100% and the underwriting obligation will be determined on the monthly basis
+according to their individual share in DTL.
+d) The distributable amount(40% of unsubscribed portion) for 25 non-PD Banks will be distributed
+according to their individual share in DTL which will be determined by using the method
+mentioned in paragraph c.
+Illustration: The following information of an auction of T-Bills or Bonds may be considered as
+an example:
+Notified amount
+BDT 100 crore
+Subscribed amount
+BDT 20 crore
+Unsubscribed amount
+BDT 80 crore
+Distributable amount for PDs = 60% of BDT 80 crore, i.e., BDT 48 Crore
+Distributable amount for non-PDs = 40% of BDT 80 crore, i.e., BDT 32 Crore
+Allocation of distributable amount among PDs
+Fifty percent of BDT 48 crore i.e., BDT 24 crore will be distributed among the 12 PDs
+according to their underwriting obligation which will be determined on the basis of proportions
+in TDTL and the remaining BDT 24 crore will equally be distributed among them.
+Allocation of distributable amount among non-PDs
+The full distributable amount(BDT 32 crore) will be allocated among 25 non-PD Banks on the
+basis of their share in TDTL.
+In case of distribution of securities among PD and non-PD banks the cut-off price which is
+determined in the auction mentioned in paragraph (a) will be considered as sale value.
+e) For the allocation of unsubscribed T-Bills & Bonds, the underwriting obligation for the PDs and
+non-PD banks(mentioned in paragraph c) will be communicated in the last week of previous
+month of auction.
+
+--- Page 3 ---
+Annexure-II
+List of Non-PD Banks
+
+Sl No.
+Name of Non-PD Banks
+Rupali Bank Ltd.
+Bank Asia Ltd.
+Bangladesh Commerce Bank Ltd.
+Brac Bank Ltd.
+Dhaka Bank Ltd
+Dutch-Bangla Bank Ltd.
+Eastern Bank Ltd.
+IFIC Bank Ltd.
+One Bank Ltd.
+10
+Premier Bank Ltd.
+11
+Pubali Bank Ltd.
+12
+Standard Bank Ltd.
+13
+The City Bank Ltd.
+14
+The trust Bank Ltd.
+15
+United Commercial Bank Ltd.
+16
+Bank Alfalah Limited
+17
+City Bank N.A., Bangladesh
+18
+Commercial bank of Ceylon
+19
+Habib Bank Ltd.
+20
+The Hongkong and Shanghai Banking Corporation
+Limited, Bangladesh (HSBC Bangladesh).
+21
+National Bank of Pakistan
+22
+State Bank of India
+23
+Standard Chartered Bank
+24
+Woori Bank Ltd.
+25
+Basic Bank Ltd.

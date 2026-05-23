@@ -1,0 +1,4563 @@
+--- Page 1 ---
+Department of Financial Institutions & Markets
+Bangladesh Bank
+Head Office
+Dhaka
+
+
+
+DFIM Circular No-04 Date: 26 July 2021
+
+Chief Executives/ Managing Directors
+All Financial Institutions in Bangladesh
+
+
+Dear Sir,
+
+Master Circular: Loan/Lease Classification and Provisioning
+
+Please refer to FID Circular No-08, dated-03 August 2002, FID Circular No-11,
+dated-31 October 2005, FID Circular No-03, dated-03 May 2006, FID Circular No-06, dated-
+20 August 2006, DFIM Circular Letter No-03, dated-29 April 2013 and attached CL
+templates on the captioned subject.
+
+In order to update and make the evaluation and reporting process of loan/lease
+classification and provisioning more inclusive, certain aspects of the above circulars and CL
+templates have been revised and a master circular is issued hereby.
+
+With a view to maintaining required provision, Financial Institutions (FIs) will
+classify Short Term Finance, Lease Finance, Term Finance, Housing Finance, Financing to
+Subsidiaries and/or Sister Concerns, Brokerage House, Merchant Banks and Stock Dealers
+and similar Shariah based financing be those termed in any name on quarterly basis i.e. 31
+March, 30 June, 30 September and 31 December. Financial Institutions will submit
+Loan/Lease Classification and Provisioning Statement within 30 (Thirty) days after the end
+of the each quarter in Bangladesh Bank.
+
+
+Objectives:
+
+The objectives of classification and provisioning against loan/lease provided by Financial
+Institutions are as follows:
+
+a) To assess the quality of loan/lease based on prescribed objective and subjective
+criteria;
+
+b) To ensure maintenance of required provision for anticipated losses against
+different classification of loan/lease;
+
+c) To ensure appropriate disclosure on the quality of loan/lease in the financial reports
+and statements.
+
+--- Page 2 ---
+1. Categories of Loans and Leases:
+All loans and leases will be grouped into 4 (four) categories for the purpose of
+classification, namely-(a) Short Term Finance (b) Lease Finance (c) Term Finance (d)
+Housing Finance.
+
+a) Short Term Finance: All conventional and Shariah based financing be those
+termed in any name which are fully repayable within 12 months will be treated as Short Term
+Finance.
+
+b) Lease Finance: All types of financing which are repayable within a specific time
+period under a specific repayment schedule for the purpose of acquisition of capital
+machineries, equipments, vehicles and other types of assets, be those termed in any name in
+Shariah based financing will be treated as Lease Finance.
+
+c) Term Finance: All types of loans which are repayable within a specific time period
+under a specific repayment schedule, be those termed in any name in Shariah based financing
+will be treated as Term Finance.
+
+d) Housing Finance: All types of loans which are repayable within a specific time
+period under a specific repayment schedule for construction of housing and purchase of
+apartments either for residential or commercial purposes, be those termed in any name in
+Shariah based financing will be treated as Housing Finance.
+
+2. Classification related Terminology and Categories:
+
+
+a) Base Date: Base Date is the date at which the loans/leases are classified and
+provisions are calculated. The base dates will be 31 March, 30 June, 30 September and 31
+December for Financial Institutions.
+
+
+b) Past Due/Overdue:
+
+i. The Short Term Finance if not repaid/renewed within the fixed expiry date for
+repayment, the loan will be deemed as past due/overdue from the following day of the expiry
+date.
+ii. In case, any installment(s) or part of installment(s) of a Lease Finance and Term
+Finance [Repayable in more than 1 (one) year but less than 5 (five) years] is not repaid within
+the fixed expiry date for repayment, the amount of unpaid installment(s) will be treated as past
+due/overdue from the following day of the expiry date.
+
+iii. In case, any installment(s) or part of installment(s) of a Lease Finance and Term
+Finance [repayable in more than 5 (five) years] is not repaid within the fixed expiry date for
+repayment, the amount of unpaid installment(s) will be considered as past due/overdue at the
+date when the time equivalent of past due/overdue installments is 6 (six) months.
+
+
+iv. In case, any installment(s) or part of installment(s) of Housing Finance [Repayable
+in more than 1 (one) year but less than 5 (five) years] is not repaid within the fixed expiry date
+for repayment, the amount of unpaid installment(s) will be considered as past due/overdue at
+the date when the time equivalent of past due/overdue installments is 6 (six) months.
+
+--- Page 3 ---
+v. In case, any installment(s) or part of installment(s) of Housing Finance [repayable in
+more than 5 (five) years] is not repaid within the fixed expiry date for repayment, the amount
+of unpaid installment(s) will be considered as past due/overdue at the date when the time
+equivalent of past due/overdue installments is 12 (twelve) months.
+
+C) Classification Category of Loan/Lease: There are five categories of loan/lease
+classification:
+
+i. Standard
+ii. Special Mention Account (SMA)
+iii. Sub-Standard
+iv. Doubtful
+v. Bad/Loss
+
+3. Basis for Loan/Lease Classification:
+
+3.1 Objective Criteria:
+
+a. All unclassified loans/leases other than Special Mention Account (SMA) will be
+treated as “Standard”.
+
+b. "Special Mention Account (SMA)" is another kind of unclassified loan/lease, which
+will help FIs to oversee the accounts with potential problems in a focused manner and it will
+capture early warning signals for accounts showing first sign of weakness. Early recognition
+of non-performing loan/lease stimulates collection efforts and helps reducing the possibility of
+loss of such loan/lease. Accordingly, loan/lease in the "Special Mention Account (SMA)" will
+have to be reported to the Credit Information Bureau (CIB) of Bangladesh Bank.
+
+c. Any Short Term Finance will be classified as:
+
+i) „Special Mention Account‟ (SMA) if it remains past due/overdue for 02 (two)
+months or beyond but less than 03 (three) months.
+
+ii) „Sub-standard‟ if it remains past due/overdue for 03 (three) months or beyond but
+less than 06 (six) months.
+
+iii) „Doubtful‟ if it remains past due/overdue for 06 (six) months or beyond but less
+than 09 (nine) months.
+iv) „Bad/Loss‟ if it remains past due/overdue for 09 (nine) months or beyond.
+
+
+
+d. Classification of Lease Finance and Term Finance [repayable in more than 1
+(one) year but less than 5 (five) years]:
+
+
+i) If the time equivalent of past due installments is equal to or more than 03 (three)
+months but less than 06 (six) months, the entire loan will be treated as ''Special Mention
+Account (SMA)''.
+
+
+ii) If the time equivalent of past due installments is equal to or more than 06 (six)
+months but less than 12 (twelve) months, the entire loan will be classified as ''Sub-standard''.
+
+
+iii) If the time equivalent of past due installments is equal to or more than 12 (twelve)
+months but less than 18 (eighteen) months, the entire loan will be classified as ''Doubtful".
+
+
+iv) If the time equivalent of past due installments is equal to or more than 18 (eighteen)
+months, the entire loan will be classified as ''Bad/Loss''.
+
+--- Page 4 ---
+e. Classification of Lease Finance and Term Finance [repayable in more than 5
+(five) years]:
+
+i) If the time equivalent of past due installments is equal to or more than 06 (six)
+months but less than 12 (twelve) months, the entire loan will be treated as ''Special Mention
+Account (SMA)''.
+
+ii) If the time equivalent of past due installments is equal to or more than 12 (twelve)
+months but less than 18 (eighteen) months, the entire loan will be classified as ''Sub-standard''.
+
+iii) If the time equivalent of past due installments is equal to or more than 18 (eighteen)
+months but less than 24 (twenty four) months, the entire loan will be classified as ''Doubtful".
+
+iv) If the time equivalent of past due installments is equal to or more than 24 (twenty
+four) months, the entire loan will be classified as ''Bad/Loss''.
+
+f. Classification of Housing Finance [repayable in more than 1 (one) year but less
+than 5 (five) years]:
+
+i) If the time equivalent of past due installments is equal to or more than 09 (nine)
+months but less than 12 (twelve) months, the entire loan will be treated as ''Special Mention
+Account (SMA)''.
+
+ii) If the time equivalent of past due installments is equal to or more than 12 (twelve)
+months but less than 18 (eighteen) months, the entire loan will be classified as ''Sub-standard''.
+
+iii) If the time equivalent of past due installments is equal to or more than 18 (eighteen)
+months but less than 24 (twenty four) months, the entire loan will be classified as ''Doubtful".
+
+iv) If the time equivalent of past due installments is equal to or more than 24 (twenty
+four) months, the entire loan will be classified as ''Bad/Loss''.
+
+
+g. Classification of Housing Finance [repayable in more than 5 (five) years]:
+
+i) If the time equivalent of past due installments is equal to or more than 09 (nine)
+months but less than 18 (eighteen) months, the entire loan will be treated as ''Special Mention
+Account (SMA)''.
+
+ii) If the time equivalent of past due installments is equal to or more than 18 (eighteen)
+months but less than 24 (twenty four) months, the entire loan will be classified as ''Sub-
+standard''.
+
+iii) If the time equivalent of past due installments is equal to or more than 24 (twenty
+four) months but less than 36 (thirty six) months, the entire loan will be classified as
+''Doubtful".
+
+iv) If the time equivalent of past due installments is equal to or more than 36 (thirty
+six) months, the entire loan will be classified as ''Bad/Loss''.
+
+
+Explanation: If any Loan/Lease is repayable on monthly installment basis, the amount
+of installment(s) due for 06 (six) months will be equal to the sum of 06 monthly installments.
+Similarly, if the loan/lease is repayable on quarterly installment basis, the amount of
+installment(s) due for 06 (six) months will be equal to the sum of 2 quarterly installments.
+
+--- Page 5 ---
+3.2 Qualitative Judgment:
+
+a) If any uncertainty or doubt arises in respect of recovery of any Short Term Finance,
+Term Finance, Lease Finance and Housing Finance, the same will have to be classified on the
+basis of qualitative judgment be it classifiable or not on the basis of objective criteria. If any
+situational changes occur in the stipulations in terms of which the loan/lease was extended or
+if the capital of the borrower is impaired due to adverse conditions or if the value of the
+collateral decreases or if the recovery of the loan/lease becomes uncertain due to any other
+unforeseen situation, the loan will have to be classified on the basis of qualitative judgment.
+
+b) Despite the probability of any loan/lease being affected due to the reasons stated
+above or for any other reasons, if there is any hope for change of the existing condition by
+resorting to proper steps, the loan/lease, on the basis of qualitative judgment, will be classified
+as “Sub-standard”. But even after resorting to proper steps, there exists no certainty of total
+recovery of the loan/lease, it will be classified as “Doubtful” and even after exerting the all-out
+efforts, there exists no chance of recovery, it will be classified as “Bad/Loss” on the basis of
+qualitative judgment.
+
+c) The financial institutions have to maintain required provision against classified
+loan/lease based on qualitative judgment.
+
+d) In qualitative judgment, whether a loan/lease is overdue or not will not be
+considered. Rather, FIs have to use their own judgment and the following assessment factors:
+
+
+1. Special Mention Account
+
+
+i) Loan/lease must be classified no higher than 'Special Mention Account' if any of the
+following deficiencies of FI management is present: the loan/lease was not made in
+compliance with the FI‟s internal policies; failure to maintain adequate and enforceable
+documentation; or poor control over collateral.
+
+
+
+ii) Loan/lease must be classified no higher than 'Special Mention Account' if any of the
+following deficiencies of the obligor is present: occasional overdrawn within the past year,
+below-average or declining profitability; barely acceptable liquidity; problems in strategic
+planning.
+
+
+
+2. Sub-standard
+
+
+
+i) Loan/lease must be classified no higher than 'Sub-standard' if any of the following
+deficiencies of the obligor is present: recurrent overdrawn, low account turnover, competitive
+difficulties, business in a volatile industry with an acute drop in demand; very low profitability
+that is also declining; inadequate liquidity; cash flow less than repayment of principal and
+interest; weak management; doubts about integrity of management; conflict in corporate
+governance; unjustifiable lack of external audit; pending litigation of a significant nature.
+
+
+ii) Loan/lease must be classified no higher than 'Sub-standard' if the primary sources of
+repayment are insufficient to service the debt and the Financial Institution must look to
+secondary sources of repayment, including collateral.
+
+--- Page 6 ---
+iii) Loan/lease must be classified no higher than 'Sub-standard' if the Financial
+Institution has acquired the asset without adequate documentations of the obligor‟s net worth,
+profitability, liquidity, and cash flow that are required in the FI‟s lending policy, or there are
+doubts about the validity of that documentations.
+
+
+3. Doubtful
+
+Loan/lease must be classified no higher than 'Doubtful' if any of the following
+deficiencies of the obligor is present: permanent overdrawn; business in an industry with poor
+aggregate earnings or loss of markets; serious competitive problems; failure of key products;
+operational losses; illiquidity, including the necessity to sell assets to meet operating expenses;
+cash flow less than required interest payments; very poor management; non-cooperative or
+hostile management; serious doubts of the integrity of management; doubts about true
+ownership; complete absence of faith in financial statements.
+
+4. Bad/Loss
+
+Loan/lease must be classified as 'Bad/Loss' if any of the following deficiencies of the
+obligor are present: the obligor seeks new loans to finance operational losses; business in an
+industry that is disappearing or in diminishing profitability; technological obsolescence; very
+high losses; asset sales at a loss to meet operational expenses; cash flow less than production
+costs; no repayment source except liquidation; presence of money laundering, fraud,
+embezzlement, or other criminal activity; no further support by owners.
+
+3.3 Improvement in Classification:
+
+From time to time, in the judgment of the Financial Institution, the condition of a
+loan/lease may improve and it may be justified to shift it to a more favorable classification
+category. The decision to shift a loan/lease to a more favorable classification category must be
+accompanied by analysis showing that there has been improvement in the payment
+performance of the loan/lease and/or in the financial condition of the borrower. The decision
+to shift a loan/lease from Bad/Loss to Doubtful or Sub-standard or from Doubtful to Sub-
+standard, may, with appropriate justification, be taken by the Chief Credit Officer, with the
+concurrence of the Chief Financial Officer. The decision to shift a loan/lease from Sub-
+standard, Doubtful or Bad/Loss to Special Mention Account or to declassify it completely
+must be taken by the Board of Directors, with appropriate justification presented by the branch
+manager who originated the loan/lease in question and the Managing Director.
+
+A Financial Institution may request the concerned department i.e. Financial Institution
+Inspection Department of Bangladesh Bank to review the classification of any loan/lease for
+which there is a disagreement on classification that is not resolved during the on-site
+inspection. Bangladesh Bank will respond to the FI within 15 days of receiving such request.
+However, in any case where there is a lingering disagreement between the classification
+determined by management of Financial Institution and the classification determined by
+Bangladesh Bank, the judgment of Bangladesh Bank will prevail. Any loan/lease classified
+during Bangladesh Bank‟s on-site inspection on the basis of qualitative judgment cannot be
+declassified without the consent of Bangladesh Bank.
+
+--- Page 7 ---
+3.4 Accounting of the Interest of Loan/Lease:
+
+a. If any loan/lease is under „SMA‟ or classified as „Sub-standard‟ and „Doubtful‟,
+interest accrued on such loan/lease will be credited to Interest Suspense Account, instead of
+crediting the same to Income Account.
+
+b. As soon as any loan/lease is classified as 'Bad/Loss', charging of interest in the same
+account will be suspended. In case of filing a law-suit for recovery of such loan/lease, interest
+for the period till filing of the suit can be charged in the loan/lease account in order to file the
+same for the amount of principal plus interest. But interest thus charged in the loan/lease
+account has to be preserved in the 'Interest Suspense' account. If any interest is charged on any
+'Bad/Loss' account for any other special reason, the same will be preserved in the 'Interest
+Suspense' account. If classified loan/lease or part of it is recovered i.e cash is realized against
+the loan/lease account, first the “interest charged” and “interest accrued but not charged” is to
+be adjusted from the paid amount and the principal to be adjusted afterwards.
+
+
+
+3.5 Maintenance of Provision:
+
+
+a. General Provision: Financial Institutions will be required to maintain General
+Provision in the following way:
+
+i) @ 0.25% against all standard amount of loans of Cottage, Micro, Small and Medium
+Enterprise (CMSME) as defined by the SME & Special Programmes Department of
+Bangladesh Bank from time to time.
+
+ii) 2% on the standard amount for loan/lease to the Subsidiaries/Sister Concerns,
+Brokerage House, Merchant Banks, Stock dealers etc.
+iii) @ 1% on the standard amount for all types of loan/lease except the loan under
+CMSME and loan/lease to the Subsidiaries/Sister Concerns, Brokerage House/Merchant
+Banks/Stock Dealers etc.
+
+iv) @ 5% on the outstanding amount of loan/lease kept in the 'Special Mention
+Account' after netting off the amount of interest suspense.
+
+v) @ 1% on the off-balance sheet exposures. (Provision will be kept on the total
+exposure. Amount of cash margin or the value of eligible collateral will not be deducted while
+computing off-balance sheet exposure base.)
+
+
+b. Specific Provision: Financial Institutions will maintain provision at the following
+rates in respect of all classified loan/lease:
+
+
+
+
+
+
+3.6 Provisions to Cover All Anticipated Losses:
+
+The above mentioned minimum percentages of provisions for exposures in each classification
+category are absolute minimums and Financial Institutions are encouraged to keep higher
+provisions if anticipated losses on the loan pools (for general provisions) or individual loans
+(for specific provisions) warrant.
+
+
+
+
+
+i) Sub-standard : 20%
+ii) Doubtful
+
+: 50%
+iii) Bad/Loss
+: 100%
+
+--- Page 8 ---
+3.7 Base for Provision:
+
+
+Provision would be maintained at the prescribed rates in Paragraph 3.5 on the higher amount
+between the following two:
+
+i) Outstanding Balance -the amount of Interest Suspense - the value of Eligible collateral.
+
+ii) 15% of the outstanding balance of the loan/lease.
+
+
+3.8 Eligible Collateral:
+
+The following collateral will be considered as “Eligible Collateral” in following ways for
+determining base for provision:
+
+-100% of deposit under lien against the loan/lease;
+
+-100% of the value of government bond under lien;
+
+-100% of the value of guarantee given by Government or Bangladesh Bank;
+-50% of the market value of easily marketable commodities kept under control of FI;
+
+-Maximum 50% of the market value of land and building mortgaged with the FI;
+-50% of the average market value for last 06 months or 50% of the face value,
+whichever is less, of the shares traded in stock exchange.
+
+3.9 Determination of Market Value of Eligible Collateral:
+
+In determining market value of easily marketable commodities, land and building, Financial
+Institutions are advised to follow the instructions mentioned below:
+
+a. Easily marketable goods mean pledged, easily en-cashable/salable goods that remain
+under full control of the FI. Official of the concerned Financial Institution will conduct
+periodic inspection to verify as to whether requirements have been met such as the suitability
+of goods for use, expiry period, appropriateness of documentary evidences and up to date
+insurance coverage as well as the same will have to be assessed by the professional assessor
+from time to time.
+
+b. For land and building, FIs will have to ensure whether title documents are in order
+and concerned land building will have to be valued by the professional valuation firm along
+with completion of proper documentation in favor of the Financial Institution. In the absence
+of a professional valuation firm, a certificate in favor of such valuation will have to be
+collected from a professional civil engineer from a recognized university. It is to mention that,
+temporary houses/factories such as tin-shed structure shall not be shown as building.
+
+c. In order to facilitate on-site inspection by Financial Institution Inspection
+Department of Bangladesh Bank, Financial Institutions are also advised to maintain a
+complete statement of eligible collateral on a separate sheet in the concerned loan/lease file.
+Information such as a description of eligible collateral, their assessment by a recognized firm,
+marketability of the commodity, control of the Financial Institution and reasons for
+considering eligible collateral etc. will have to be included in that sheet.
+d. In case of security deposit, FI‟s should not take any amount from the
+approved/disbursed loan/lease amount. If the borrower pay some amount as security deposit
+from his own source, that amount should not be considered as down payment at the time of
+rescheduling.
+
+--- Page 9 ---
+e. FIs must be cautious or to keep an eye on the reduction of value of collateral by
+periodic assessment of collateral value, at least once in a year for movable‟s and at least once
+in three years for immovable‟s.
+
+4. In terms of the above policies, the Financial Institutions will conduct their classification and
+provisioning functions on quarterly basis. The classification and provisioning of each
+individual loan/lease must be justified in writing and the documentation must contain the
+signatures of both the persons assigning the classification and the person reviewing it. These
+written justifications must be maintained in the loan/lease files and have to be available for
+viewing by the Bangladesh Bank inspection teams. Henceforth, revised templates for
+loan/lease classification and provisioning i.e. CL-1 to CL-7 have been enclosed herewith
+which will replace the existing ones.
+
+a) CL-1 is the summary of 12 other templates. This template is for showing summary
+of classification status for different loan/lease categories mentioned earlier.
+b) CL-2 is for reporting classification of Short Term Finance.
+c) CL-3A is for reporting classification of Lease Finance [repayable in more than 1
+(one) year but less than 5 (five) years].
+d) CL-3B is for reporting classification of Lease Finance [repayable in more than 5
+(five) years].
+e) CL-4A is for reporting classification of Term Finance. [repayable in more than 1
+(one) year but less than 5 (five) years].
+f) CL-4B is for reporting classification of Term Finance. [repayable in more than 5
+(five) years].
+g) CL-5A is for reporting classification of Housing Finance [repayable in more than 1
+(one) year but less than 5 (five) years].
+h) CL-5B is for reporting classification of Housing Finance [repayable in more than 5
+(five) years].
+i) CL-6A is for the reporting classification of Short Term Financing to the Subsidiaries
+and/or sister concerns, brokerage house, merchant banks and stock dealers.
+j) CL-6B is for the reporting classification of Loans to the Subsidiaries and/or sister
+concerns, brokerage house, merchant banks and stock dealers [repayable in more than
+1 (one) year but less than 5 (five) years].
+k) CL-6C is for the reporting classification of Loans to the Subsidiaries and/or sister
+concerns, brokerage house, merchant banks and stock dealers [repayable in more than
+5 (five) years].
+l) CL-7A is for the reporting classification of Staff Loan [repayable within 5 (five)
+years].
+m) CL-7B is for the reporting classification of Staff Loan [repayable in more than 5
+(five) years].
+
+Branches of Financial Institutions shall send the completed templates (CL-1 to CL-7) to their
+Head Offices. The Head Offices of Financial Institutions should make arrangements for
+scrutiny of all the templates prepared by the branches. Where necessary, they should carry out
+corrections and ensure maintenance of the corrected templates in the records of the branch.
+
+--- Page 10 ---
+10
+
+
+After scrutiny of all templates (CL-1, CL-2, CL-3, CL-4, CL-5, CL-6, CL-7) prepared by
+branches and being satisfied with the results, they should prepare a consolidated position of
+classification and provisioning using template „CL-1‟ and send the same to the Department of
+Financial Institutions and Markets of Bangladesh Bank and upload in Enterprise Data
+Warehouse (EDW) of Bangladesh Bank. Financial Institutions are also advised to preserve the
+CL Statements in both their head offices and branches to be inspected by the Bangladesh Bank
+inspection team and Credit Information Bureau (CIB) of Bangladesh Bank.
+
+
+
+5. Financial Institutions will ensure reflection of the position of loan/lease classification and
+provisioning in Annual Financial Statements with the instructions laid out in this revised
+circular.
+
+These instructions will be effective from the quarter ended on September 2021.
+
+Instructions of FID Circular No-08, dated-03 August 2002, FID Circular No-11, dated-
+31 October 2005, FID Circular No-03, dated-03 May 2006, FID Circular No-06, dated-20
+August 2006, DFIM Circular Letter No-03, dated-29 April 2013 hereby stand superseded by
+this circular.
+
+Please acknowledge receipt.
+
+Yours Sincerely,
+
+
+(Md. Zulkar Nayn)
+General Manager
+Department of Financial Institutions and Markets
+Phone-9530178
+
+--- Page 11 ---
+CL-1
+BRANCH SUMMARY OF LOAN/LEASE CLASSIFICATION AND PROVISIONING AS OF………………..
+Ref : DFIM Circular No. 04/2021
+FI Name:
+Branch Name :
+
+
+
+SL.
+No.
+Categories of Loans
+Total
+Balance Outstanding
+Base for Provision
+Amount of
+Provision
+Required
+Amount of
+Actual
+Provision
+Interest Suspense On
+Unclassified (UC)
+Classified
+SMA
+SS
+DF
+B/L
+Unclassified (UC)
+Classified
+A/Cs
+Total
+STD
+SMA
+SS
+DF
+B/L
+STD (if any)
+SMA
+
+10
+11
+12
+13
+14
+15
+16
+17
+Short Term Finance (CL-2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Cottage, Micro, Small & Medium Enterprise Financing (CMSMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Other than CMSMEF & Consumer Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lease Finance (CL-3A)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Cottage, Micro, Small & Medium Enterprise Financing (CMSMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Finance (Except Housing Finance)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Other than CMSMEF & Consumer Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lease Finance (CL-3B)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Cottage, Micro, Small & Medium Enterprise Financing (CMSMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Finance (Except Housing Finance)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Other than CMSMEF & Consumer Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Term Finance (CL-4A)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Cottage, Micro, Small & Medium Enterprise Financing (CMSMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Finance (Except Housing Finance)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Other than CMSMEF & Consumer Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Term Finance (CL-4B)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Cottage, Micro, Small & Medium Enterprise Financing(CMSMEF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Consumer Finance (Except Housing Finance)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Other than CMSMEF & Consumer Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Housing Finance (CL-5A)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Real estate (Individual Consumer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Project/Commercial Housing Loan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Housing Finance (CL-5B)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Real estate (Individual Consumer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Project/Commercial Housing Loan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short Term Financing to the Subsidiaries and/or Sister Concerns, Brokerage House,
+Merchant Banks and Stock Dealers (CL-6A)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Short Term Financing to Own Subsidiaries and/or Sister Concerns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Short Term Financing to the Brokerage House/Merchant Banks/Stock Dealers etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Financing to the Subsidiaries and/or Sister Concerns, Brokerage House, Merchant
+Banks and Stock Dealers (CL-6B)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Financing to Own Subsidiaries and/or Sister Concerns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Financing to the Brokerage House/Merchant Banks/Stock Dealers etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+Financing to the Subsidiaries and/or Sister Concerns, Brokerage House, Merchant
+Banks and Stock Dealers (CL-6C)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Financing to Own Subsidiaries and/or Sister Concerns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) Financing to the Brokerage House/Merchant Banks/Stock Dealers etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+Sub-Total (1+2+3+4+5+6+7+8+9+10)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12 Staff Loan (CL-7A)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13 Staff Loan (CL-7B)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14
+Total Staff Loan (12+13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+Grand Total (11+14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16 Off-Balance Sheet Exposure
+
+--- Page 12 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-2
+RETURNS FOR CLASSIFICATION OF SHORT TERM FINANCE OF FINANCIAL INSTITUTIONS AS OF……..
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+
+
+
+
+(Amount in Taka)
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (17-22)
+Sub-standard
+(SS)
+Col. (18-23-25)
+Doubtful
+(DF)
+Col. (19-23-25)
+Bad/Loss
+(B/L)
+Col. (20-23-25)
+(Standard)
+(If any)
+SMA
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Name
+of
+Borrower &
+NID
+Nature of
+Facilities
+Loan
+Identification
+No.
+Loan
+Amount
+Date of
+Loan
+Execution
+DD/MM/YY
+Renewed
+Amount
+(if any)
+No. & Date of Last
+Renewal
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Period of Arrears
+(in months)
+(Base Date-Col.10)
+Preliminary Status of
+Classification
+Final Classification
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 13 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-3A
+RETURNS FOR CLASSIFICATION OF LEASE FINANCE OF FINANCIAL INSTITUTIONS
+(Repayable in more than 1 year but less than 5 years) AS OF…….....
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+
+
+
+
+Nature of Facilities:
+(Amount in Taka)
+
+
+
+
+Note :
+Col. 11 = Installment Frequency in months
+Col. 15 = (Col.14 X Col.11) ÷ Col.10
+
+
+
+
+Sl.
+No.
+
+Name
+of
+Borrower
+& NID
+
+Lease
+Identification
+No.
+Lease
+Amount
+Date of
+Lease
+Execution
+DD/MM/YY
+Rescheduled/
+Restructured
+Amount
+(if any)
+No. & Date of
+Last
+Rescheduling/
+Restructuring
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Installment
+Date of First
+Repayment
+Due
+DD/MM/YY
+Period since
+1st
+Repayment
+Due
+(Base Date –
+Col.12)
+(in months)
+Amount
+Paid since
+Sanctioning
+/Last
+Rescheduling/
+Last
+Restructuring
+Time
+Equivalent
+of Amount
+Paid
+(in months)
+Period of
+Arrears
+(in months)
+(Col.13-Col.15)
+Preliminary Status
+of Classification
+Final Classification
+Size Frequency
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference
+Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-
+Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (22-27)
+Sub-standard
+(SS)
+Col. (23-28-30)
+Doubtful
+(DF)
+Col. (24-28-30)
+Bad/Loss
+(B/L)
+Col. (25-28-30)
+(Standard)
+(If any)
+SMA
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 14 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-3B
+RETURNS FOR CLASSIFICATION OF LEASE FINANCE OF FINANCIAL INSTITUTIONS
+(Repayable in more than 5 Years) AS OF…….....
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+
+
+
+
+Nature of Facilities:
+(Amount in Taka)
+
+
+
+Note :
+Col. 11 = Installment Frequency in months
+Col. 15 = (Col.14 X Col.11) ÷ Col.10
+
+
+
+
+Sl.
+No.
+Name
+of
+Borrower
+& NID
+
+Lease
+Identification
+No.
+Lease
+Amount
+Date of
+Lease
+Execution
+DD/MM/YY
+Rescheduled/
+Restructured
+Amount
+(if any)
+No. & Date of
+Last
+Rescheduling/
+Restructuring
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Installment
+Date of First
+Repayment
+Due
+DD/MM/YY
+Period since
+1st
+Repayment
+Due
+(Base Date–
+Col.12)
+(in months)
+Amount Paid
+since
+Sanctioning
+/Last
+Rescheduling/
+Last
+Restructuring
+Time
+Equivalent
+of Amount
+Paid
+(in months)
+Period of
+Arrears
+(in months)
+(Col.13-Col.15)
+Preliminary Status
+of Classification
+Final Classification
+Size Frequency
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference
+Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-
+Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (22-27)
+Sub-standard
+(SS)
+Col. (23-28-30)
+Doubtful
+(DF)
+Col. (24-28-30)
+Bad/Loss
+(B/L)
+Col. (25-28-30)
+(Standard)
+(If any)
+SMA
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 15 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-4A
+RETURNS FOR CLASSIFICATION OF TERM FINANCE OF FINANCIAL INSTITUTIONS
+(Repayable in more than 1 year but less than 5 years) AS OF…….....
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+
+
+
+
+Nature of Facilities:
+(Amount in Taka)
+
+
+
+Note :
+Col. 11 = Installment Frequency in months
+Col. 15 = (Col.14 X Col.11) ÷ Col.10
+
+
+
+
+Sl.
+No.
+
+Name
+of
+Borrower
+& NID
+
+Loan
+Identification
+No.
+Loan
+Amount
+Date of
+Loan
+Execution
+DD/MM/YY
+Rescheduled/
+Restructured
+Amount
+(if any)
+No. & Date of
+Last
+Rescheduling/
+Restructuring
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Installment
+Date of First
+Repayment
+Due
+DD/MM/YY
+Period since
+1st
+Repayment
+Due
+(Base Date–
+Col.12)
+(in months)
+Amount Paid
+since
+Sanctioning
+/Last
+Rescheduling/
+Last
+Restructuring
+Time
+Equivalent
+of Amount
+Paid
+(in months)
+Period of
+Arrears
+(in months)
+(Col.13-Col.15)
+Preliminary Status
+of Classification
+Final Classification
+Size Frequency
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference
+Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-
+Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (22-27)
+Sub-standard
+(SS)
+Col. (23-28-30)
+Doubtful
+(DF)
+Col. (24-28-30)
+Bad/Loss
+(B/L)
+Col. (25-28-30)
+(Standard)
+(If any)
+SMA
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 16 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-4B
+RETURNS FOR CLASSIFICATION OF TERM FINANCE OF FINANCIAL INSTITUTIONS
+(Repayable in more than 5 Years) AS OF…….....
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+
+
+
+
+Nature of Facilities:
+(Amount in Taka)
+
+
+
+Note :
+Col. 11 = Installment Frequency in months
+Col. 15 = (Col.14 X Col.11) ÷ Col.10
+
+
+
+
+Sl.
+No.
+
+Name
+of
+Borrower
+& NID
+
+Loan
+Identification
+No.
+Loan
+Amount
+Date of
+Loan
+Execution
+DD/MM/YY
+Rescheduled/
+Restructured
+Amount
+(if any)
+No. & Date of
+Last
+Rescheduling/
+Restructuring
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Installment
+Date of First
+Repayment
+Due
+DD/MM/YY
+Period since
+1st
+Repayment
+Due
+(Base Date–
+Col.12)
+(in months)
+Amount Paid
+since
+Sanctioning
+/Last
+Rescheduling/
+Last
+Restructuring
+Time
+Equivalent
+of Amount
+Paid
+(in months)
+Period of
+Arrears
+(in months)
+(Col.13-Col.15)
+Preliminary Status
+of Classification
+Final Classification
+Size Frequency
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference
+Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-
+Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (22-27)
+Sub-standard
+(SS)
+Col. (23-28-30)
+Doubtful
+(DF)
+Col. (24-28-30)
+Bad/Loss
+(B/L)
+Col. (25-28-30)
+(Standard)
+(If any)
+SMA
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 17 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-5A
+RETURNS FOR CLASSIFICATION OF HOUSING FINANCE OF FINANCIAL INSTITUTIONS
+(Repayable in more than 1 year but less than 5 years) AS OF……....
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+
+
+
+
+Nature of Facilities:
+(Amount in Taka)
+
+
+
+Note :
+Col. 11 = Installment Frequency in months
+Col. 15 = (Col.14 X Col.11) ÷ Col.10
+
+
+
+
+
+Sl.
+No.
+Name
+of
+Borrower
+& NID
+
+Housing
+Finance
+Identification
+No.
+Housing
+Finance
+Amount
+Date of
+Housing
+Finance
+Execution
+DD/MM/YY
+Rescheduled/
+Restructured
+Amount
+(if any)
+No. & Date of
+Last
+Rescheduling/
+Restructuring
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Installment
+Date of First
+Repayment
+Due
+DD/MM/YY
+Period since
+1st
+Repayment
+Due
+(Base Date–
+Col.12)
+(in months)
+Amount Paid
+since
+Sanctioning
+/Last
+Rescheduling/
+Last
+Restructuring
+Time
+Equivalent
+of Amount
+Paid
+(in months)
+Period of
+Arrears
+(in months)
+(Col.13-Col.15)
+Preliminary Status
+of Classification
+Final Classification
+Size Frequency
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference
+Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-
+Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (22-27)
+Sub-standard
+(SS)
+Col. (23-28-30)
+Doubtful
+(DF)
+Col. (24-28-30)
+Bad/Loss
+(B/L)
+Col. (25-28-30)
+(Standard)
+(If any)
+SMA
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 18 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-5B
+RETURNS FOR CLASSIFICATION OF HOUSING FINANCE OF FINANCIAL INSTITUTIONS
+(Repayable in more than 5 Years) AS OF……....
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+
+
+
+
+Nature of Facilities:
+(Amount in Taka)
+
+
+
+Note :
+Col. 11 = Installment Frequency in months
+Col. 15 = (Col.14 X Col.11) ÷ Col.10
+
+
+
+
+
+Sl.
+No.
+
+Name
+of
+Borrower
+& NID
+
+Housing
+Finance
+Identification
+No.
+Housing
+Finance
+Amount
+Date of
+Housing
+Finance
+Execution
+DD/MM/YY
+Rescheduled/
+Restructured
+Amount
+(if any)
+No. & Date of
+Last
+Rescheduling/
+Restructuring
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Installment
+Date of First
+Repayment
+Due
+DD/MM/YY
+Period since
+1st
+Repayment
+Due
+(Base Date–
+Col.12)
+(in months)
+Amount Paid
+since
+Sanctioning
+/Last
+Rescheduling/
+Last
+Restructuring
+Time
+Equivalent
+of Amount
+Paid
+(in months)
+Period of
+Arrears
+(in months)
+(Col.13-Col.15)
+Preliminary Status
+of Classification
+Final Classification
+Size Frequency
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference
+Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-
+Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (22-27)
+Sub-standard
+(SS)
+Col. (23-28-30)
+Doubtful
+(DF)
+Col. (24-28-30)
+Bad/Loss
+(B/L)
+Col. (25-28-30)
+(Standard)
+(If any)
+SMA
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 19 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-6A
+RETURNS FOR CLASSIFICATION OF SHORT TERM FINANCING TO SUBSIDIARIES AND/OR SISTER CONCERNS,
+BROKERAGE HOUSE, MERCHANT BANKS AND STOCK DELEARS OF FINANCIAL INSTITUTIONS AS OF……..
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+
+
+
+
+(Amount in Taka)
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (17-22)
+Sub-standard
+(SS)
+Col. (18-23-25)
+Doubtful
+(DF)
+Col. (19-23-25)
+Bad/Loss
+(B/L)
+Col. (20-23-25)
+(Standard)
+(If any)
+SMA
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Name
+of
+Borrower &
+NID
+Types of
+Borrowers
+Loan
+Identification
+No.
+Loan
+Amount
+Date of
+Loan
+Execution
+DD/MM/YY
+Renewed
+Amount
+(if any)
+No. & Date of Last
+Renewal
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Period of Arrears
+(in months)
+(Base Date-Col.10)
+Preliminary Status of
+Classification
+Final Classification
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 20 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-6B
+RETURNS FOR CLASSIFICATION OF FINANCING TO SUBSIDIARIES AND/OR SISTER CONCERNS, BROKERAGE HOUSE,
+MERCHANT BANKS AND STOCK DELEARS (Repayable in more than 1 year but less than 5 years) AS OF…….....
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+
+
+
+
+
+Nature of Facilities:
+
+(Amount in Taka)
+
+
+
+Note :
+Col. 11 = Installment Frequency in months
+Col. 15 = (Col.14 X Col.11) ÷ Col.10
+
+
+
+
+Sl.
+No.
+
+Name
+of
+Borrower
+& NID
+
+Types of
+Borrowers &
+Loan
+Identification
+No.
+Loan
+Amount
+Date of
+Loan
+Execution
+DD/MM/YY
+Rescheduled/
+Restructured
+Amount
+(if any)
+No. & Date of
+Last
+Rescheduling/
+Restructuring
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Installment
+Date of First
+Repayment
+Due
+DD/MM/YY
+Period since
+1st
+Repayment
+Due
+(Base Date–
+Col.12)
+(in months)
+Amount Paid
+since
+Sanctioning
+/Last
+Rescheduling/
+Last
+Restructuring
+Time
+Equivalent
+of Amount
+Paid
+(in months)
+Period of
+Arrears
+(in months)
+(Col.13-Col.15)
+Preliminary Status
+of Classification
+Final Classification
+Size Frequency
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference
+Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-
+Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (22-27)
+Sub-standard
+(SS)
+Col. (23-28-30)
+Doubtful
+(DF)
+Col. (24-28-30)
+Bad/Loss
+(B/L)
+Col. (25-28-30)
+(Standard)
+(If any)
+SMA
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 21 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-6C
+RETURNS FOR CLASSIFICATION OF FINANCING TO SUBSIDIARIES AND/OR SISTER CONCERNS, BROKERAGE HOUSE,
+MERCHANT BANKS AND STOCK DELEARS (Repayable within 5 Years) AS OF…….....
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+Nature of Facilities:
+(Amount in Taka)
+
+
+
+Note :
+Col. 11 = Installment Frequency in months
+Col. 15 = (Col.14 X Col.11) ÷ Col.10
+
+
+
+
+
+Sl.
+No.
+
+Name
+of
+Borrower
+& NID
+
+Types of
+Borrowers
+&Loan
+Identification
+No.
+Loan
+Amount
+Date of
+Loan
+Execution
+DD/MM/YY
+Rescheduled/
+Restructured
+Amount
+(if any)
+No. & Date of
+Last
+Rescheduling/
+Restructuring
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Installment
+Date of First
+Repayment
+Due
+DD/MM/YY
+Period since
+1st
+Repayment
+Due
+(Base Date–
+Col.12)
+(in months)
+Amount Paid
+since
+Sanctioning
+/Last
+Rescheduling/
+Last
+Restructuring
+Time
+Equivalent
+of Amount
+Paid
+(in months)
+Period of
+Arrears
+(in months)
+(Col.13-Col.15)
+Preliminary Status
+of Classification
+Final Classification
+Size Frequency
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference
+Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-
+Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (22-27)
+Sub-standard
+(SS)
+Col. (23-28-30)
+Doubtful
+(DF)
+Col. (24-28-30)
+Bad/Loss
+(B/L)
+Col. (25-28-30)
+(Standard)
+(If any)
+SMA
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 22 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-7A
+RETURNS FOR CLASSIFICATION OF STAFF LOANS OF FINANCIAL INSTITUTIONS
+(Repayable within 5 Years) AS OF………………
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+
+
+
+Nature of Facilities:
+(Amount in Taka)
+
+
+
+Note :
+Col. 11 = Installment Frequency in months
+Col. 15 = (Col. 14 X Col.11) ÷ Col.10
+
+* The Loan/Lease Classification and Provisioning guidelines of regular loan/lease including short term finance and housing finance will be applicable for Consumer Finance (Car Loan,
+Computer Loan, Furniture Loan etc.), Short Term Finance and Housing Finance for staff. Moreover, Short Term Finance for staff should be reported in this template.
+
+
+
+Sl.
+No.
+Name
+of
+Borrower
+& NID
+
+Loan
+Identification
+No.
+Loan
+Amount
+Date of
+Loan
+Execution
+DD/MM/YY
+Rescheduled/
+Restructured
+Amount
+(if any)
+No. & Date of
+Last
+Rescheduling/
+Restructuring
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Installment
+Date of First
+Repayment
+Due
+DD/MM/YY
+Period since
+1st
+Repayment
+Due
+(Base Date–
+Col.12)
+(in months)
+Amount Paid
+since
+Sanctioning
+/Last
+Rescheduling/
+Last
+Restructuring
+Time
+Equivalent
+of Amount
+Paid
+(in months)
+Period of
+Arrears
+(in months)
+(Col.13-Col.15)
+Preliminary Status
+of Classification
+Final Classification
+Size Frequency
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference
+Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-
+Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (22-27)
+Sub-standard
+(SS)
+Col. (23-28-30)
+Doubtful
+(DF)
+Col. (24-28-30)
+Bad/Loss
+(B/L)
+Col. (25-28-30)
+(Standard)
+(If any)
+SMA
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 23 ---
+Ref : DFIM Circular No. 04/2021
+
+CL-7B
+RETURNS FOR CLASSIFICATION OF STAFF LOANS OF FINANCIAL INSTITUTIONS
+(Repayable in more than 5 Years) AS OF………………
+
+
+
+Page No.
+FI Name:
+Branch Name :
+
+
+
+
+
+
+Nature of Facilities:
+(Amount in Taka)
+
+
+
+
+Note :
+Col. 11 = Installment Frequency in months
+Col. 15 = (Col. 14 X Col.11) ÷ Col.10
+
+* The Loan/Lease Classification and Provisioning guidelines of regular loan/lease and housing finance will be applicable for Consumer Finance (Car Loan, Computer Loan, Furniture Loan
+etc.) and Housing Finance for staff.
+
+
+
+Sl.
+No.
+Name
+of
+Borrower
+& NID
+
+Loan
+Identification
+No.
+Loan
+Amount
+Date of
+Loan
+Execution
+DD/MM/YY
+Rescheduled/
+Restructured
+Amount
+(if any)
+No. & Date of
+Last
+Rescheduling/
+Restructuring
+(if any)
+DD/MM/YY
+Balance
+Outstanding
+as of
+Reference
+Date
+Date of
+Expiry
+DD/MM/YY
+Installment
+Date of First
+Repayment
+Due
+DD/MM/YY
+Period since
+1st
+Repayment
+Due
+(Base Date–
+Col.12)
+(in months)
+Amount Paid
+since
+Sanctioning
+/Last
+Rescheduling/
+Last
+Restructuring
+Time
+Equivalent
+of Amount
+Paid
+(in months)
+Period of
+Arrears
+(in months)
+(Col.13-Col.15)
+Preliminary Status
+of Classification
+Final Classification
+Size Frequency
+Objective
+Criteria
+Qualitative
+Judgment
+Classification
+Status
+Basis for
+Classification
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+No.
+Amount
+Cumulative Interest Suspense as of Reference
+Date
+Value of
+Eligible
+Collateral
+
+(to nearest
+amount)
+Base for Provision for
+Amount of
+Provision Required
+Remarks
+Unclassified (UC)
+Classified
+Standard
+SMA
+Sub-
+Standard
+(SS)
+Doubtful
+(DF)
+Bad/Loss
+(B/L)
+Unclassified (UC)
+Classified
+A/Cs
+Total
+SMA
+Col. (22-27)
+Sub-standard
+(SS)
+Col. (23-28-30)
+Doubtful
+(DF)
+Col. (24-28-30)
+Bad/Loss
+(B/L)
+Col. (25-28-30)
+(Standard)
+(If any)
+SMA
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+--- Page 24 ---
+CHECK LIST:
+
+
+
+RATE OF PROVISION:
+
+Form
+No
+No. of
+Page (s)
+Form
+No
+No. of
+Page (s)
+Form
+No
+No. of
+Page (s)
+
+Particulars
+CMSMEF
+Financing to the Subsidiaries and/or
+Sister Concerns/Brokerage
+House/Merchant Banks/Stock Dealers
+All Other Loans/Leases/
+Housing Finances/
+Staff Loans
+CL-2
+
+CL-4B
+
+CL-6B
+
+
+CL-3A
+
+CL-5A
+
+CL-6C
+
+
+CL-3B
+
+CL-5B
+
+CL-7A
+
+
+Unclassified
+STD
+0.25%
+CL-4A
+
+CL-6A
+
+CL-7B
+
+
+SMA
+
+NB: UC=Unclassified, STD=Standard, SMA=Special Mention Account,
+SS=Sub-Standard, DF=Doubtful, B/L=Bad/Loss.
+
+Classified
+SS
+20%
+20%
+20%
+
+DF
+50%
+50%
+50%
+
+B/L
+100%
+100%
+100%

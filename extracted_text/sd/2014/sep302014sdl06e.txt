@@ -1,0 +1,69 @@
+--- Page 1 ---
+Statistics Department
+
+
+Bangladesh Bank
+
+
+Head Office, Dhaka
+Website:
+www.bb.org.bd
+
+StD circular letter no.-06/2014 Dated: September 30, 2014
+
+
+Managing Director/CEO
+All Scheduled Banks in Bangladesh
+
+Dear sir,
+Submission of private sector long term external debt data through Rationalized Input
+Template (RIT) in parallel to hard copy according to revised timeline.
+
+Private sector long term (maturity more than one year) external debt statistics is being compiled
+by this department as part of its regular activities using Debt Management and Financial Analysis
+System (DMFAS) software provided by UNCTAD. General information, tranche information, drawing,
+payment schedule, repayments (principal, interest, commission etc.) of each loan has been registered in
+DMFAS software using the hard copy (ED-1 & ED-2) sent by AD banks/OBUs. The debt compilation
+on
+private
+sector
+long
+term
+external
+debt
+is
+being
+seriously
+hampered
+due
+to
+inconsistency/error/irrelevance in ED-1/ED-2 form and lack of full coverage in long term external debt
+(especially foreign borrowing of 100% foreign enterprises located in EPZ areas).
+
+Under this circumstances, banks will have to upload the relevant templates regarding private sector
+long term external debt including both foreign loan approved by Board of Investment (BOI) and foreign
+loan availed by industrial enterprises located in EPZ areas through RIT within one month after end of
+reference quarter and enclosed the confirmation page of uploaded template with the forwarding letter of
+the
+reference
+quarter.
+It
+is
+mentioned
+that
+three
+RITs
+(T_ME_Q_LTED_GENERAL_INFO,
+T_ME_Q_LTED_TRANCHE_INFO and T_ME_Q_LTED_SCHEDULE) will have to upload once (multiple times,
+if necessary) and two RITs will have to upload regularly on quarterly basis in the Bangladesh Bank
+website until the loan is settled. It is also stated that hard copies of ED-1/ED-2 form and loan
+agreements will have to submit the statistics department within one month after end of reference quarter
+instead of instructions given in the statistics department’s StD circular no.-03/2014, dated May 12,
+2014.
+Please acknowledge receipt.
+Yours faithfully
+Sd/-
+
+(Mrinal Kanti Sarker)
+Deputy General Manager
+Phone: 9530134

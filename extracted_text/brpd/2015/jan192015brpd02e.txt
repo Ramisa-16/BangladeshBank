@@ -1,0 +1,323 @@
+--- Page 1 ---
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+BRPD Circular No-02
+
+
+
+Date:
+D 19 January,2015
+06 Magh, 1421
+
+Managing Director/Chief Executive
+All bank-companies operating in Bangladesh
+
+Dear Sir,
+Guidelines on Outsourcing Arrangements
+
+Banking institutions throughout the world are increasingly using
+'outsourcing' as a means of both reducing costs and achieving strategic aims. When
+these third-party service providers conduct significant parts of the bank’s regulated
+and unregulated activities, it may impact on the ability of banks to manage their
+risks and monitor their compliance with regulatory requirements.
+Banks can mitigate these risks by taking steps to: draw up comprehensive
+and clear outsourcing policies, analyze the financial and infrastructure resources of
+the service provider, negotiate appropriate outsourcing contracts, require
+contingency planning by the outsourcing firm, and establish effective risk
+management programs.
+This Circular spells out in detail a set of guiding principles, to be followed
+by banks in Bangladesh when using outsourcing at home or abroad, that would
+help banks better mitigate the concerns.
+Definitions.
+Outsourcing: Outsourcing is when any activity of a bank-company or
+part thereof done by another party (Service Provider) from inside or outside the
+bank premises, from within Bangladesh or abroad irrespective of the term used for
+the relationship.
+Service Provider: An outsourcing Service Provider can be an office
+of the banking company situated outside Bangladesh, its holding or subsidiary
+company or any of its affiliates in Bangladesh or abroad, or an unrelated third
+party in Bangladesh or abroad.
+Sub-contracting: Sub-contracting is when a service provider uses any
+of its office situated outside Bangladesh, its holding or subsidiary company or any
+
+--- Page 2 ---
+of its affiliates in Bangladesh or abroad, or an unrelated third party in Bangladesh
+or abroad for any part of the activities outsourced to it.
+Confidential
+information:
+Confidential
+information
+includes
+information which can lead to identification of the customer, customer’s credit
+reports, customer’s balances and transactions, suspicious activity report and
+information, information not publicly available, and any other information
+considered confidential by laws and regulations in Bangladesh. It also includes
+regulators’ reports & instructions, ratings and price sensitive information of the
+bank.
+Outsourcing Policy.
+A bank seeking to outsource activities shall develop a comprehensive
+policy duly approved by its Board of Directors [Chief of Bangladesh operations in
+case of foreign banks]. The policy should include, inter-alia, identification of and
+the extent to which the relevant activities are appropriate for outsourcing, criteria
+for selecting suitable service providers, delegation of approval authorities for
+outsourcing depending on risks and materiality, risk mitigation measures and
+governance structure clearly defining roles and responsibilities of Board of
+Directors and management to monitor and review the operations.
+The Board [Chief of Bangladesh operations in case of foreign banks]
+has overall responsibility for ensuring that all ongoing outsourcing decisions taken
+by the bank, and activities undertaken by the service providers, are in keeping with
+its outsourcing policy. In addition, the officers responsible to manage a specific
+outsourcing arrangement shall also be personally responsible where personal
+liability needs to be assigned to individual bank officials for legal, regulatory or
+others purposes.
+Outsourced Activities.
+Generally, banks should only outsource the activities which can be
+effectively supervised by them and compliance with applicable legal and
+regulatory requirements can be ensured.
+Banks shall not outsource its core management functions, any of its
+risk management functions or core banking operations. However, in case of
+foreign banks, parts of its core management functions or risk management
+functions can be operated by any of its offices from outside the country subject to
+fulfilling conditions mentioned in Paragraph 8 (Outsourcing Abroad) of this
+Circular.
+
+--- Page 3 ---
+Statutory Audits, Legal and Professional Advisory Services,
+Drawing Arrangements, Foreign Correspondent Banking, and activities not related
+to banking services like usage of courier, housekeeping and janitorial services,
+catering, security of bank premises, utilities, telephone and telecommunication
+services, usage of media or firms for advertisements, printing of stationeries
+(except cheques, drafts, etc.) shall not be considered as outsourcing and the
+instructions of this Circular are not applicable to those activities.
+Banks can outsource the activities listed in Annexure-1 to Service
+Providers in Bangladesh without prior approval of Bangladesh Bank. Any bank
+may approach Bangladesh Bank for clarification if it is uncertain whether a
+particular arrangement falls within these activities.
+Sub-contracting by the service provider of material outsourcing
+arrangements both in case of local and abroad is not allowed. Material outsourcing
+arrangements are those, which if disrupted, have the potential to significantly
+impact the business operations, reputation or profitability.
+Moreover, an activity should not be outsourced if it would impair
+Bangladesh Bank’s right to assess, or its ability to supervise, the business of the
+bank.
+With regard to services related to Doorstep Banking, SME Service
+Centers, Mobile Financial Services, Agent Banking, or any other special activity
+endorsed and guided by specific circulars or guidelines issued by Bangladesh Bank,
+instructions of this Circular shall also be applicable to the extent possible.
+However, in case of any conflict, relevant provisions of the specific circular or
+guideline shall prevail over this Circular.
+Selecting Service Providers.
+Banks must develop criteria that enable them to assess, prior to
+selection, the service provider’s capacity and ability to perform the outsourced
+activities effectively, reliably and to a high standard, together with any potential
+risk factors associated with using a particular service provider.
+Appropriate due diligence should include at a minimum: (i) service
+provider’s legal status, formation documents and availability of required licenses
+or approvals for doing the outsourced activity (ii) experience and competence of
+service providers to perform outsourced work; (iii) service provider’s financial
+soundness to fulfill its obligations; (iv) performance standards, reputation,
+compliance culture, past regulatory measures and corrective actions, outstanding
+or potential litigation; (v) security and internal control; (vi) audit coverage,
+reporting & monitoring environment, business continuity planning; and (vii)
+
+--- Page 4 ---
+capability to meet special needs, such as servicing geographically dispersed
+activities.
+Outsourcing Agreement.
+Outsourcing relationships should be governed by legally enforceable
+written contracts that clearly describe all material aspects of the outsourcing
+arrangement, including the rights, responsibilities and expectations of all parties.
+At a minimum, the outsourcing agreement should address the
+following issues:
+Description of activities to be outsourced, including appropriate
+service and performance levels;
+(ii)
+Bank’s ability to access all books, records and information relevant
+to the outsourced activity in the service provider, and conduct audits
+thereof;
+(iii)
+Provision for continuous monitoring and assessment by the bank of
+the service provider so that any necessary corrective measures can be taken
+immediately;
+(iv)
+Termination clause and minimum periods to execute a termination
+provision, if deemed necessary;
+Provisions relating to insolvency or other material changes in the
+corporate form, and clear delineation of ownership of intellectual property
+following termination;
+(vi)
+Provisions for confidentiality of customer’s information, and
+transfers of information back to the bank and other duties that continue to
+have an effect after the termination of the contract;
+(vii) Where appropriate, conditions of subcontracting by the service
+provider for all or part of an outsourced activity;
+(viii) Establish and maintain contingency plans, including a plan for
+disaster recovery and periodic testing of backup facilities.
+(ix)
+Provisions to effect that Bangladesh laws will be the applicable law
+and Bangladesh courts will have exclusive jurisdiction over the agreement.
+The contract should neither prevent nor impede the bank from
+meeting its respective regulatory obligations. It should also include clauses to
+allow Bangladesh Bank to exercise its regulatory powers, including access to
+documents stored or processed by service provider and cause an inspection to be
+made.
+
+--- Page 5 ---
+The minimum wages declared by the Government of Bangladesh must be
+taken into consideration while determining the agreed rate of wages, salary, compensation,
+etc. to be paid against services provided by the staff employed by the service provider;
+and, details of such rates must be clearly stated in the contract. Banks should ensure that
+such wages, salary, compensation, etc. are paid to the staff by the service provider in
+proper amount and in timely manner through their respective bank accounts.
+Customer Interest Protection.
+Banks should ensure that all information prohibited from sharing by
+laws or regulations are not disclosed to service providers and take appropriate
+steps to require that service providers protect confidential information of both the
+bank and its clients from intentional or inadvertent disclosure to unauthorized
+persons.
+A bank should also consider whether it is appropriate to notify
+customers that customer data may be transmitted to a service provider, taking into
+account any statutory provisions that may be applicable.
+Banks and each of their service providers should ensure that it is
+clear to customers and other stakeholders whether they are interacting with a bank
+official or an outsourced service provider.
+Outsourcing arrangements should not affect the rights of a customer
+against the bank, including the ability of the customer to obtain redress as
+applicable under relevant laws.
+Banks should establish a well defined mechanism to redress the
+complaints of their customers regarding outsourced services and ensure that
+genuine grievances are addressed promptly.
+Monitoring and Control.
+Banks
+should
+establish
+comprehensive
+outsourcing
+risk
+management program for an ongoing monitoring and controlling of all relevant
+aspects of outsourcing arrangements and procedures guiding corrective actions to
+be taken when certain events occur.
+Banks should seek to ensure that service providers maintain
+appropriate IT security so that information with them and in transit between them
+and the bank is amply protected.
+Regular audits, at least annually for all outsourcing activities, should
+be conducted to assess the adequacy of outsourcing risk management practices of
+both the bank and its service providers.
+
+--- Page 6 ---
+Banks and each of their service providers should establish and
+maintain contingency plans, including a plan for disaster recovery and periodic
+testing of backup facilities.
+Banks should ensure that outsourcing activity does not violate anti-
+money laundering regimes of Bangladesh as well as foreign jurisdictions.
+Banks should ensure that the persons engaged by the service
+provider and sub-contractor for the outsourced services are adequately trained at
+least to the extent that an employee of the bank doing such activity would be
+subject to.
+Banks should also review the financial and technical capabilities of a
+service provider on regular intervals to assess its ability to continue to meet its
+outsourcing obligation.
+Outsourcing Abroad.
+When engaging service providers in a foreign country, banks should
+take into account and closely monitor government policies and political, social,
+economic and legal conditions in those countries, during the due diligence process
+and on a continuous basis after employing the service provider.
+Any outsourcing outside Bangladesh will require prior approval of
+Bangladesh Bank under Section 12 of the Bank Company Ain, 1991 regardless of
+the fact that the specified functions is conducted by or data is provided to an
+unrelated third party or any office of the banking company, its holding or
+subsidiary company or any of its affiliates. However, sharing of structured
+information of limited scope for management oversight of foreign banks shall not
+require such approval.
+All such request to Bangladesh Bank should include details of the
+functions to be outsourced, rationale for the outsourcing abroad, due diligence
+report of the proposed service provider, data to be transferred, legal opinion
+regarding confidentiality of data which should include opinion about the ability of
+authorities and courts abroad to seek or instruct data access, draft agreement with
+the service providers, description of the monitoring and control measures to be
+undertaken by the bank, list of already approved outsourcing abroad along with
+information of the service providers and activities outsourced, number of
+employees of the bank at year-end during the last three years, and plan for the
+employees if any job loss is expected due to proposed outsourcing.
+
+--- Page 7 ---
+No approval will be granted where the arrangement involves direct
+interaction or communication between the service provider and customers, or
+disclosure or transfer of confidential customer information to unrelated third party
+as service provider or sub-contractor.
+When engaging service providers in a foreign country, banks should
+ensure that necessary information is also available domestically for continuing
+operation in case of a communication disruption and for inspection by Bangladesh
+Bank as and when needed.
+Outsourcing arrangements abroad should include provisions to allow
+Bangladesh Bank or persons authorized by it, if required, to access and inspect the
+documents, records and other information stored or processed by the service
+provider.
+This circular is issued with the authority vested under section 12 and section
+45 of the Bank Company Ain, 1991, which shall take effect immediately. Banks
+can initiate new outsourcing engagements only after being able to fully comply
+with the instructions of this Circular. All existing engagements must be made
+compliant, including taking approval from Bangladesh Bank where necessary,
+within 2015.
+
+Yours faithfully,
+
+(Saiful Islam)
+Deputy General Manager
+Phone: 9530155
+
+--- Page 8 ---
+Annexure-1
+List of allowed Outsourcing Arrangements
+
+Storing or warehousing physical records and documents, electronic or virtual
+data.
+Printing of Cheques, Drafts, Pay-orders, and other similar banking
+instruments.
+Telephone operator or greeter.
+Address and Document verification.
+Call Center, Mail receiving and dispatch.
+Marketing Credit or Debit Cards, Consumer or SME loans upto the stage
+before credit request preparation.
+Credit related security verification, charge creation or registration, stock
+verification and valuation.
+Recruitment process before face-to-face interviews.
+Background checking and document verification of candidates and
+employees.
+10.
+Payroll processing and Employee Benefit Programs.
+11.
+CSR Programs.
+12.
+Customer, Industry and Market survey.
+13.
+Servicing cash in ATM, Booths, Utility bill collection booths.
+14.
+Development and maintenance of customized software.
+15.
+Maintenance of purchased software, hardware and other machines and
+equipment.
+16.
+System/application access management and user support.
+17.
+Installation
+and
+user
+support
+to
+customers
+for
+bank
+provided
+systems/applications.
+18.
+Procurement processing except the decision making and contracting on
+behalf of the bank.
+19.
+Sorting, filing and imaging records and documents.
+20.
+Market and industry information or commentary received through
+subscription or free.

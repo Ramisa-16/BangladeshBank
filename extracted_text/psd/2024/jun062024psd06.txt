@@ -1,0 +1,725 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাঙ্ক
+
+(সেন্ট্রাল ব্যাংক অব বাংলাদেশ)
+প্রধান SATA পেমেন্ট সিস্টেমস ডিপার্টমেন্ট
+মতিঝিল, ঢাকা-১০০০
+বাংলাদেশ | ০৬ জুন, ২০২৪
+পিএসডি সার্কুলার নং: ০৬/২০২৪ IC
+২৩ জ্যৈষ্ঠ, ১৪৩১
+ব্যবস্থপনা পরিচালক/ প্রধান নির্বাহী কর্মকর্তা
+Prepaid Instrument (7১1) ইস্যুকারী ও ইস্যু করতে ইচ্ছুক প্রতিষ্ঠানসমূহ
+প্রধান কার্যালয় |
+প্রিয় মহোদয়,
+
+‘Guidelines for issuing Prepaid Instrument (PI) by non-payment system entities, 2024’ প্রসঙ্গে |
+
+দেশে পণ্য/ সেবা ক্রয়-বিক্রয়ের ক্ষেত্রে সীমিত পরিসরে কর্পোরেট প্রতিষ্ঠান ও মা্কেটপ্লেসসমূহের ইস্যুকৃত বিভিন্ন ধরনের/ নামের
+ভাউচার, গিফট্‌ কার্ড ইত্যাদি প্রি-পেইড Bayard ব্যবহার করা হয়ে থাকে। প্রযুক্তির উন্নয়নের ফলে এ সকল প্রি-পেইড SOs
+ইস্যু ও অনলাইনে ক্রয়-বিক্রয়ের পরিসর দিন দিন বৃদ্ধি পাচ্ছে। এ ধরনের প্রি-পেইড ইন্সটুমেন্ট ইস্যু ও বিক্রয়ের মাধ্যমে গ্রাহক হতে
+অগ্িম অর্থ সংগ্রহের মাধ্যমে একদিকে বিক্রেতা প্রতিষ্ঠান উপকৃত হচ্ছে, অপরদিকে গ্রাহক এ সকল প্রি-পেইড ইন্সট্রুমেন্ট ব্যবহার করে
+পরবর্তীতে ছাড়কৃত মূলে পণ্য/ সেবা ক্রয়ের সুযোগ পাচ্ছেন। এ সুযোগে কিছু অসাধু ব্যবসায়ী কর্তৃক লোভনীয় ছাড়কৃত মূল্যে এ সকল
+প্রি-পেইড Byard ইস্যু ও বিক্রয়ের মাধ্যমে গ্রাহক হতে বিপুল পরিমাণ অর্থ অগ্রিম গ্রহণের পর গ্রাহককে এর বিনিময়ে কাংখিত
+পণ্য/সেবা সরবরাহ না করার বিষয়েও অভিযোগ রয়েছে। গ্রাহক স্বার্থ বিবেচনায় গণপ্রজাতন্ত্রী বাংলাদেশ সরকার-এর বাণিজ্য মন্ত্রণালয়
+কর্তৃক জারিকৃত ডিজিটাল কমার্স পরিচালনা নির্দেশিকা, ২০২১ এর ৩.১.৯ অনুচ্ছেদে সকল ধরনের ডিজিটাল ওয়ালেট, গিফ্ট কার্ড,
+ক্যাশ ভাউচার বা অন্য কোন মাধ্যম যা অর্থের বিকল্প হিসাবে ব্যবহৃত হতে পারে তা বাংলাদেশ ব্যাংকের বিদ্যমান নীতিমালা অনুসরণ
+এবং প্রয়োজনীয় ক্ষেত্রে বাংলাদেশ ব্যাংক এর অনুমতি ব্যতিরেকে তৈরি (Issue), ব্যবহার বা ক্রয়-বিক্রয় করা যাবে না মর্মে নির্দেশনা
+প্রদান করা হয়েছে। বর্ণিত প্রেক্ষাপটে প্রি-পেইড ইন্সটুমেন্ট-এর আর্থিক ও পরিচালন ঝুঁকি হ্রাস এবং গ্রাহক স্বার্থ সংরক্ষণের লক্ষ্যে এ
+ধরনের প্রি-পেইড Sard ইস্যুর বিষয়ে একটি নীতিমালা থাকা প্রয়োজন |
+
+০২. এক্ষণে, গ্রাহকের আর্থিক ঝুঁকি হাসের লক্ষ্যে সংযুক্ত ‘Guidelines for issuing Prepaid Instrument (PI) by non-
+payment system entities, 2024’ শীর্ষক নীতিমালা জারি করা হলো। ব্যাংক, আর্থিক প্রতিষ্ঠান বা বাংলাদেশ ব্যাংক কর্তৃক
+লাইসেন্স প্রাপ্ত প্রতিষ্ঠানসমূহ ব্যতিরেকে অন্যান্য সকল প্রতিষ্ঠানের ভাউচার বা গিফটু কার্ড বা অন্য কোন ধরনের/ নামের প্রিপেইড
+ইন্সট্রমেন্ট (যা অর্থের বিকল্প হিসাবে ব্যবহার হয় বা হওয়ার সুযোগ রয়েছে) ইস্যু এবং বিক্রয় করার ক্ষেত্রে নীতিমালাটি পরিপালনের
+জন্য সংশ্লিষ্ট সকলকে নির্দেশনা প্রদান করা হলো। এতদ্বিষয়ে ০৬ জুন ২০২৪ তারিখে জারিকৃত প্রজ্ঞাপন নং
+পিএসডি/এডিসিএন্ডএল(পলিসি)/১/২০২৪-১৫৪৭ এর অনুলিপি এতদৃসঙ্গে সংযুক্ত করা হলো।
+
+০৩. আপনাদের অবগতি ও প্রয়োজনীয় কার্যার্থে জারি করা হলো।
+
+(মৌ মোতাছিম বিল্লাহ)
+পরিচালক, পিএসডি
+ফোন: ৯৫৩০৩৩৪
+
+ফোন : ৮৮-০২-৯৫৫০৪৪৮, ৯৫৫৪৮৯৬, আইপি 3 ৮৮-০২-৫৫৬৬৫০০১-৬, ফ্যাক্স : ৮৮-০২-৯৫৩০৪৭৯, Web : www.bb.org.bd
+
+--- Page 2 ---
+বাংলাদেশ ব্যাংক
+প্রজ্ঞাপন
+
+তারিখ: ০৬ জুন ২০২৪ মোতাবেক ২৩ জ্যৈষ্ঠ ১৪৩১
+
+সূত্র নং পিএসডি/এডিসিএন্ডএল(পলিসি)/১/২০২৪-১৫৪৭ গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক প্রকাশিত “ডিজিটাল কমার্স
+পরিচালনা নির্দেশিকা ২০২১” এর ৩.১.৯ ক্রমিকের উদ্দেশ্য পূরণকল্পে এবং পরিশোধ ব্যবস্থায় গ্রাহকের আর্থিক ঝুঁকি হাসের লক্ষ্যে
+বাংলাদেশ ব্যাংক অর্ডার ১৯৭২ (২০০৩ পর্যন্ত সংশোধিত) এর ধারা ৭এ(ই), ১৬ (২৫), এবং ১৬ (২৬) এ প্রদত্ত ক্ষমতাবলে
+“Guidelines for issuing Prepaid Instrument (PI) by non-payment system entities, 2024” শীর্ষক
+নীতিমালা গত ০৬/০৫/২০২৪ তারিখের পিএসডি সার্কুলার নং ০৬/২০২৪ এর মাধ্যমে জারি করা হয়েছে।
+
+০২। “Guidelines for issuing Prepaid Instrument (PI) by non-payment system entities, 2024” শীর্ষক
+নীতিমালাটি বাংলাদেশ ব্যাংক কর্তৃক সার্কুলার জারির তারিখ হতে কার্যকর হবে এবং বাংলাদেশের অভ্যন্তরে কার্যরত সকল ধরনের
+প্রতিষ্ঠানের ভাউচার বা গিফট্‌ কার্ড বা অন্য কোন ধরনের/ নামের প্রিপেইড Bord (যা অর্থের বিকল্প হিসাবে ব্যবহার হয় বা
+হওয়ার সুযোগ রয়েছে) ইস্যু এবং বিক্রয় করার ক্ষেত্রে প্রযোজ্য হবে।
+
+কাজী ছাইদুর রহমান
+ডেপুটি গভর্নর
+
+--- Page 3 ---
+Page 1 of 15
+
+Guidelines for issuing Prepaid Instrument (PI)
+by non-payment system entities, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payment Systems Department
+Bangladesh Bank
+
+--- Page 4 ---
+Page 2 of 15
+
+June, 2024
+
+
+Amendment History
+
+Date
+Version
+Amendments
+June, 2024
+1.0
+Initial Document
+
+--- Page 5 ---
+Page 3 of 15
+
+Contents
+Clause
+Content
+Page
+Prepaid Instrument (PI)
+Classification of PI
+Scope
+Mandate
+Chapter-1: Closed Prepaid Instrument (PI)
+4-8
+Definition (Closed PI)
+Eligibilities for issuing closed PI
+Issuance of closed PI
+Application for approval
+Approval from Bangladesh Bank
+Restrictions on uses of closed PI
+PI authentication
+Selling points of closed PI
+Customer’s risk awareness
+10
+Liability of the issuer
+11
+Buyer identification
+12
+Face value
+13
+Limit for issuer
+14
+Individual and corporate limits
+15
+Expiry of closed PI
+16
+Provisions for expired PI
+17
+Discount
+18
+Dispute resolution
+19
+Reporting requirement
+20
+Supervision and penalty
+Chapter-2: Semi-closed Prepaid Instrument (PI)
+9-13
+21
+Definition (Semi-closed PI)
+22
+Eligibilities for issuing semi-closed PI
+23
+Issuance of semi-closed PI
+24
+Application for approval
+25
+Approval from Bangladesh Bank
+10
+26
+Restrictions on uses of semi-closed PI
+10
+27
+PI authentication
+10
+28
+Selling points of semi-closed PI
+10
+29
+Customer’s risk awareness
+10
+30
+Acceptability of semi-closed PI
+11
+31
+Liability of the issuer
+11
+32
+Buyer identification
+11
+33
+Face value
+11
+34
+Limit for issuer
+11
+35
+Individual and corporate limits
+12
+36
+Expiry of semi-closed PI
+12
+37
+Provisions for expired PI
+12
+38
+Discount
+12
+39
+Dispute resolution
+12
+40
+Reporting requirement
+13
+41
+Supervision and penalty
+13
+Annexure-A
+14
+Annexure-B
+15
+
+--- Page 6 ---
+Page 4 of 15
+
+Guidelines for issuing Prepaid Instrument (PI) by non-payment system entities, 2024
+Prepaid Instrument (PI): Prepaid Instrument (PI) is an instrument that represents a stored value in BDT
+acquired in exchange of money that enables the bearer/ person to make payments for goods and services.
+The stored value of such PI is accepted by the beneficiaries as an alternative to money.
+Classification of PIs:
+a) Closed Prepaid Instrument (PI)
+b) Semi-closed Prepaid Instrument (PI) and
+c) Open Prepaid Instrument (PI)
+Scope: Whatever is the name including but not limited to voucher, cash card, gift card, reward card and
+so on, if the instrument resembles to the definition of closed and semi-closed PI, issued by non-payment
+system (not licensed by Bangladesh Bank) and non-government entities shall be under the purview of
+these guidelines. On the other hand, only Banks, NBFIs, Mobile Financial Service (MFS) Providers, and
+Payment Service Providers (PSP) are authorized to issue open prepaid instrument (PI) and shall not be
+under the purview of these guidelines.
+Mandate: These Guidelines have been issued in exercise of the power conferred under clauses 7A (e),
+16(25) and 16(26) of the Bangladesh bank Order 1972, and clauses 3.1.9 and 3.1.10 of “Digital
+Commerce Porichalona Nirdeshika 2021” issued by the Ministry of Commerce on 04/07/2021.
+
+Chapter-1
+Closed Prepaid Instrument (PI)
+
+1. Definition (Closed PI):
+A closed prepaid instrument (PI), issued under these guidelines by a merchant, is an instrument
+that represents a stored value in BDT acquired in exchange of money that enables the bearer/
+person to make payments for goods and services from the issuer.
+
+2. Eligibilities for issuing Closed PI:
+a) A legal entity, registered under Company Act, 1994 and that has saleable goods and services in its
+stock, and satisfies the conditions of these guidelines shall be eligible for issuing closed PI.
+b) The entity should have business activity in Bangladesh for minimum 5 (Five) years.
+c) The entity shall have the audited financial statements for previous 5 (Five) years.
+d) The entity shall have a minimum paid-up capital of BDT 20 (Twenty) crores.
+
+3. Issuance of Closed PI:
+a) The eligible entities intending to issue closed PI shall take approval from Bangladesh Bank for
+issuing such PI.
+b) Closed PI can be issued in physical or digital forms.
+c) Closed PI shall not be reloadable.
+d) Issuer may issue and sell multiple types of closed PIs.
+e) Closed PI shall be activated within maximum 24 hours of the issuance.
+
+--- Page 7 ---
+Page 5 of 15
+
+f) The outstanding balance of the issued PI shall be reported separately as “unearned revenue from
+closed PI” in “current liability” segment of the issuer’s financial statement.
+g) Issuer shall not use the word “wallet” to represent the closed PI.
+
+4. Application for approval:
+a) Eligible entities shall apply to Payment System Department, Bangladesh Bank with required
+documents mentioned in sub-clause (b).
+b) The required documents shall include but not limited to
+1. Certificate of incorporation and registered mailing address
+2. Audited financial statements of last financial year
+3. A certificate from auditor citing eligibility of the entity as per these guidelines
+4. Net worth certificate of last financial year
+5. Bank solvency certificate of the applicant
+6. A list of saleable goods and services and location of the outlets.
+
+5. Approval from Bangladesh Bank:
+a) A committee headed by Director, PSD of Bangladesh Bank shall scrutinize the applications.
+b) The committee may ask for additional documents regarding financial strength of the applicant.
+c) The committee may also recommend for an aggregate outstanding limit of PI for an applicant.
+The recommended limit shall not exceed the maximum limit entitled for closed PI.
+d) Bangladesh Bank shall have the sole authority for approval of such application.
+
+6. Restrictions on uses of closed PI:
+a) Closed PI can only be used for purchasing goods and services from the PI issuer.
+b) Each PI shall be used at once to its full face value. Issuer shall not compel customer for fractional
+use of the PI.
+c) Customer shall have the right to pay the issuer in combination of PI(s) and other payment
+instrument.
+d) Closed PI shall only be used for merchant payment. Inter-PI balance transfer is not permissible.
+e) Converting closed PI value to BDT, by any means e.g. Cash-out, Bank Transfer, ATM
+withdrawal, is not permissible.
+f) Converting closed PI value to any other virtual currency or purchasing currency like value, e.g.
+Virtual Diamonds, Virtual Gold, MR Points, Coins, Gems etc. for the purpose of future purchases
+is not permissible.
+g) Closed PI shall not be used for purchasing or subscribing illegal digital contents, online gambling,
+betting, gaming etc.
+
+7. PI authentication:
+a) The PI must have adequate security features e.g. identical plastic card or paper or unique number
+or BAR/QR code or issued against email ID or mobile/NID number etc; so that buyer can check
+the authenticity of the PI.
+b) The Issuer may enforce additional layers of authentication e.g. Password or PIN or OTP or
+Electronic identification or biometric identification etc.
+c) The Issuer shall have an online arrangement for the buyers to check the authenticity of the PI.
+
+--- Page 8 ---
+Page 6 of 15
+
+
+8. Selling points of closed PI:
+Closed PI may be sold in the designated outlets and website of the PI issuer and, or through third
+party outlets or websites.
+
+
+9. Customer’s risk awareness:
+a) Issuers of closed PI are not directly regulated by Bangladesh Bank. These PIs are not backed by
+Trust Fund and are subject to the default risk of the issuer.
+b) Customers should be aware of the possible default risk of these PIs.
+c) Customers should verify company reputation, business tenure, possession, customer review etc.
+before buying closed PI to minimize possible default risk.
+d) Customers should not buy these PIs for investment purposes and for long holding.
+e) Issuer shall reveal all “Terms and conditions” to the buyer during the sale of PI digitally or
+manually.
+
+10. Liability of the issuer:
+a) Issuer shall be solely responsible for settling liability arising from outstanding PI.
+b) Outstanding PI is a part of the current liability of the issuer. In case of liquidation of the issuer,
+outstanding PI shall be settled as per liquidation rules of the Company Act, 1994.
+
+11. Buyer identification:
+a) Closed PI can be issued in favor of individuals or legal entities within the country.
+b) The issuer shall record name and mobile number of the individual buyer purchasing PIs.
+c) In case of corporate buyer, the issuer shall take a purchase order in official pad signed by
+authorized person of the corporate while selling the PI.
+
+12. Face value:
+a) The face value of a closed PI shall be the value inscribed on the PI in BDT that the buyer shall be
+entitled to purchase from the issuer using the PI.
+b) All the limits described in these guidelines and outstanding liability of the issuer for closed PI
+shall be computed in Face Value.
+
+13. Limit for issuer:
+a) The aggregate outstanding value of closed PI of an issuer, at any point of time, shall be limited to
+a maximum of 20% of its audited net worth of immediate previous financial year or BDT 25
+(Twenty five) crores which one is lower.
+
+Net Worth = Total Asset – Total Liability
+(Annexure-A can be followed for Net Worth computation)
+
+b) The maximum face value of a closed PI shall be BDT 10,000/- (Taka ten thousand only).
+
+14. Individual and corporate limits:
+a) The individual holding limit of closed PI of single issuer shall be BDT 100,000/- (Taka one lac
+only).
+
+--- Page 9 ---
+Page 7 of 15
+
+b) The corporate holding limit of closed PI of single issuer shall be BDT 20,00,000/- (Taka twenty
+lac only).
+
+15. Expiry of closed PI:
+a) Closed PI should have maximum expiry of one year.
+b) The issuer shall inscribe the expiry date and Face Value on the PI.
+c) In case of issuing multiple closed PI, each PI shall be treated separately.
+d) The issuer should send an SMS and, or email notification or application/website notification to
+the buyer prior 15 (Fifteen) days of expiry.
+e) Issuer may extend the expiry period upon request from the buyer/ bearer to maximum 1 (One)
+year from the first expiry date of the PI.
+f) Buyer/ bearer shall not have any claim on the issuer after the expiry of the PI. Issuer shall take
+such undertaking from the buyer of the PI in the “Terms and conditions” during sale.
+
+16. Provisions for expired PI:
+a) Issuer shall hold the selling amount of PI for 1 (One) year from the date of first expiry of the PI.
+b) Issuer shall prepare a list of expired PIs those satisfy the condition of 16(a) based on 31
+December of each year; and within April of the following year, issuer shall deposit the selling
+amount of expired PIs to Bangladesh Bank for the purpose of depositing to Government account.
+c) Issuer shall deposit the aforesaid amount with a Pay Order in favor of Executive Director,
+Motijheel Office, Bangladesh Bank through a forwarding letter and prepared list of the expired
+PIs; and shall submit a copy to Payment Systems Department of Bangladesh Bank.
+d) Motijheel Office, Bangladesh Bank shall deposit the amount received from the issuers for expired
+PIs to Government account by June of the same year and shall send a notification of deposit to
+Payment Systems Department for information; and the PI issuer shall be notified accordingly.
+
+17. Discount:
+Issuer shall not offer more than 20% discount on the face value of the closed PI.
+
+18. Dispute resolution:
+a) The issuer of closed PI shall have an online arrangement or call centre for receiving customer
+complaints.
+b) The issuer shall have a standard procedure for dispute resolution.
+c) The issuer shall ensure proper disclosure of “Terms and Conditions” and dispute resolution
+process.
+d) In a case of violation of “Terms and conditions” and non-agreement in the dispute resolution
+process, each party (Buyer or Seller) shall have the right to seek remedy under applicable law.
+
+19. Reporting requirement:
+a) The PI issuer shall submit a certificate attested by the audit firm assigned for its financial audit
+citing compliance of these guidelines for issuing PI to Payment Systems Department of
+Bangladesh Bank within 3 (three) months from end of the financial year.
+b) The certificate shall also contain total amount of issued closed PI, total amount collected by
+selling PI, discounted amount, total redemption amount, total outstanding amount and company’
+net worth.
+c) The issuer shall submit a monthly report according to the format given in Annexure-B.
+Bangladesh Bank may update the format from time to time.
+
+--- Page 10 ---
+Page 8 of 15
+
+
+20. Supervision and penalty:
+a) Bangladesh Bank may conduct special inspection to ensure proper compliance of these
+guidelines.
+b) Bangladesh Bank, if finds any irregularities in the function of the issuer, or deems necessary to
+protect customer interest,
+(i) shall have the right to cancel the approval for issuing such PI at any stage;
+(ii) may direct an issuer to buy back the outstanding PI within a particular period; and
+(iii) may request the related Government/ Law Enforcement agencies to take lawful action against
+the issuer.
+c) If an issuer of PI fails to supply promised products/services in exchange of the PI, the customer
+shall have the right to get remedy under The Consumers’ Right Protection Act, 2009.
+d) Government agencies, responsible for regulating issuer’s financial affairs and for protecting
+customers’ right, may also ensure the compliance of these guidelines by the issuer and buyer for
+the purpose of customer protection.
+
+--- Page 11 ---
+Page 9 of 15
+
+Chapter-2
+Semi-closed Prepaid Instrument (PI)
+
+21. Definition(Semi-closed PI):
+A semi-closed PI, issued under these guidelines, is an instrument that represents a stored value in
+BDT acquired in exchange of money that enables the bearer/ person to make payments for goods and
+services from a group of sellers registered by the Issuer.
+22. Eligibilities for issuing semi-closed PI:
+a) A legal entity, registered under Company Act, 1994 and that has agreements with a group of
+sellers regarding acceptance of its PI, and satisfies the conditions of these guidelines shall be
+eligible for issuing semi-closed PI.
+b) The entity should have business activity in Bangladesh for minimum 5 (Five) years.
+c) The entity shall have the audited financial statements for previous 5 (Five) years.
+d) The entity shall have a minimum paid-up capital of BDT 5 (Five) crores.
+
+23. Issuance of semi-closed PI:
+a) The eligible entities intending to issue semi-closed PI shall take approval from Bangladesh Bank
+for issuing such PI.
+b) Semi-closed PI can be issued in physical or digital forms.
+c) Semi-closed PI shall not be reloadable.
+d) Issuer may issue and sell multiple types of semi-closed PIs.
+e) Semi-closed PI shall be activated within maximum 24 hours of the issuance.
+f) The outstanding balance of the issued PI shall be reported separately as “unearned revenue from
+semi-closed PI” in “current liability” segment of the issuer’s financial statement.
+g) Issuer shall not use the word “wallet” to represent the semi-closed PI.
+
+24. Application for approval:
+a) Eligible entities shall apply to Payment System Department, Bangladesh Bank with required
+documents mentioned in sub-clause (b).
+b) The required documents shall include but not limited to
+1. Certificate of incorporation and registered mailing address
+2. Audited financial statements of last financial year
+3. A certificate from auditor citing eligibility of the entity as per these guidelines
+4. Net worth certificate of last financial year
+5. Bank solvency certificate of the applicant
+6. Outstanding PI status in current year (If applicable)
+7. A form of undertaking by at least 10 (Ten) sellers regarding acceptance of the PI
+
+--- Page 12 ---
+Page 10 of 15
+
+25. Approval from Bangladesh Bank:
+a) A committee headed by Director, PSD of Bangladesh Bank shall scrutinize the applications.
+b) The committee may ask for additional documents regarding financial strength of the applicant.
+c) The committee may also recommend for an aggregate outstanding limit of PI for an applicant.
+The recommended limit shall not exceed the maximum limit entitled for semi-closed PI.
+d) Bangladesh Bank shall have the sole authority for approval of such application.
+
+26. Restrictions on uses of semi-closed PI:
+a) Semi-closed PI can only be used for purchasing goods and services from registered (by
+agreement) sellers of the PI issuer.
+b) Each PI shall be used at once to its full face value. Issuer shall not compel customer for fractional
+use of the PI.
+c) Customer shall have the right to pay the sellers in combination of PI(s) and other payment
+instrument.
+d) Semi-closed PI shall only be used for merchant payment. Inter-PI balance transfer is not
+permissible.
+e) Converting semi-closed PI value to BDT, by any means e.g. Cash-out, Bank Transfer, ATM
+withdrawal, is not permissible.
+f) Converting semi-closed PI value to any other virtual currency or purchasing currency like value,
+e.g. Virtual Diamonds, Virtual Gold, MR Points, Coins, Gems, for the purpose of future
+purchases is not permissible.
+g) Semi-closed PI shall not be used for purchasing or subscribing illegal digital contents, online
+gambling, betting, gaming etc.
+
+27. PI authentication:
+a) The PI must have adequate security features e.g. identical plastic card or paper or unique number
+or BAR/QR code or issued against email ID or mobile/NID number etc; so that buyer can check
+the authenticity of the PI.
+b) The Issuer may enforce additional layers of authentication e.g. Password or PIN or OTP or
+Electronic identification or biometric identification etc.
+c) The Issuer shall have an online arrangement for the buyers to check the authenticity of the PI.
+
+28. Selling points of semi-closed PI:
+Semi-closed PI may be sold in the designated outlets and website of the PI issuer or through third
+party outlets or websites.
+
+29. Customer’s risk awareness:
+a) Semi-closed PIs are not backed by Trust Fund; and are subject to the default risk of the issuer.
+b) Customers should be aware of the possible default risk of these PIs.
+c) Customers should verify company reputation, business tenure, possession, customer review etc.
+before buying semi-closed PI to minimize possible default risk.
+d) Customers should not buy these PI for investment purposes and for long holding.
+e) Issuer shall reveal all terms and conditions to the buyer during the sale of such PI digitally or
+manually.
+
+--- Page 13 ---
+Page 11 of 15
+
+
+30. Acceptability of semi-closed PI:
+a) Issuer shall publish the list of sellers obliged by contract to accept its PI and update the list if any
+changes.
+b) The sellers giving undertaking regarding acceptance of the PI by contract shall be responsible for
+accepting the PI indiscriminately.
+c) In an event of non-acceptance of the PI by the sellers, issuer shall be solely responsible for
+settling liability arising from outstanding PI. Moreover, issuer shall be liable for possible
+customer harassment, and should compensate the customer accordingly.
+d) Issuer should take legal action against the sellers for violating the undertaking regarding
+acceptance of the PI.
+
+31. Liability of the issuer:
+a) Outstanding PI is a part of the current liability of the issuer.
+b) If an issuer becomes insolvent, sellers may refuse to accept the PI. In such a scenario, the bearer/
+buyer of the PI shall have the right to take legal action against the issuer for establishing his/her
+claim on the issuer; however, the bearer/ buyer shall not force the sellers to accept the PI.
+c) In case of liquidation of the issuer, outstanding PI shall be settled as per liquidation rules of the
+Company Act, 1994.
+
+32. Buyer identification:
+a) Semi-closed PI can be issued in favor of individuals or legal entities within the country.
+b) The issuer shall record name and mobile number of the individual buyer purchasing PIs.
+c) In case of corporate buyer, the issuer shall take a purchase order in official pad signed by
+authorized person of the corporate while selling the PI.
+
+33. Face value:
+a) The face value of a semi-closed PI shall be the value inscribed on the PI in BDT that the buyer
+shall be entitled to purchase using the PI.
+b) All the limits described in these guidelines and outstanding liability of the issuer for semi-closed
+PI shall be computed in Face Value.
+
+34. Limit for issuer:
+a) The aggregate outstanding value of semi-closed PI of an issuer, at any point of time, shall be
+limited to a maximum of 20% of its audited net worth of immediate previous financial year or
+BDT 25 (Twenty five) Crore which one is lower. The approval committee shall have the authority
+to decrease the aforesaid limit considering financial strength of the applicant.
+
+Net Worth = Total Asset – Total Liability
+(Annexure-A can be followed for Net Worth computation)
+
+b) The maximum face value of a semi-closed PI shall be BDT 10,000/- (BDT ten thousand only).
+
+--- Page 14 ---
+Page 12 of 15
+
+
+35. Individual and corporate limits:
+a) The individual holding limit of semi-closed PI of single issuer shall be BDT 100,000/- (Taka one
+lac only).
+b) The corporate holding limit of semi-closed PI of single issuer shall be BDT 20,00,000/- (Taka
+twenty lac only).
+
+36. Expiry of semi-closed PI:
+a) Semi-closed PI should have maximum expiry of one year.
+b) The issuer shall inscribe the expiry date and Face Value on the PI.
+c) In case of issuing multiple semi-closed PI, each PI shall be treated separately.
+d) The issuer should send an SMS and, or email or application/website notification to the customer
+prior 15 (Fifteen) days of expiry.
+e) Issuer may extend the expiry period upon request from the buyer/ bearer to maximum 1 (One)
+year from the first expiry date of the PI.
+f) Buyer shall not have any claim on the issuer after the expiry of the PI. Issuer shall take such
+undertaking from the buyer of the PI in “terms and condition” during sale.
+
+37. Provisions for expired PI:
+a) Issuer shall hold the selling amount of PI for 1 (One) year from the date of first expiry of the PI.
+b) Issuer shall prepare a list of expired PIs those satisfy the condition of 37(a) based on 31
+December of each year; and within April of the following year, issuer shall deposit the selling
+amount of the expired PIs to Bangladesh Bank for the purpose of depositing to Government
+account.
+c) Issuer shall deposit the aforesaid amount with a Pay Order in favor of Executive Director,
+Motijheel Office, Bangladesh Bank through a forwarding letter and prepared list of the expired
+PIs; and shall submit a copy to Payment Systems Department of Bangladesh Bank.
+d) Motijheel Office, Bangladesh Bank shall deposit the amount received from the issuers for expired
+PIs to Government account by June of the same year and shall send a notification of deposit to
+Payment Systems Department for information; and the issuer shall be notified accordingly.
+
+38. Discount:
+Issuer shall not offer more than 20% discount on the face value of the semi-closed PI.
+
+39. Dispute resolution:
+a) The issuer of semi-closed PI shall have an online arrangement or call centre for receiving
+customer complaints.
+b) The issuer shall have a standard procedure for dispute resolution.
+c) The issuer shall ensure proper disclosure of “Terms and Conditions” and dispute resolution
+process.
+d) In a case of violation of “Terms and conditions” and non-agreement in the dispute resolution
+process, each party (Buyer or seller) shall have the right to seek remedy under applicable law.
+
+--- Page 15 ---
+Page 13 of 15
+
+
+
+40. Reporting requirement:
+a) The PI issuer shall submit a certificate attested by the audit firm assigned for its financial audit
+citing compliance of these guidelines for issuing PI to Payment Systems Department of
+Bangladesh Bank within 3 (three) months from the end of the financial year.
+b) The certificate shall also contain total amount of issued semi-closed PI, total amount collected by
+selling those PI, discounted amount, total redemption amount, total outstanding amount and
+company’ net worth.
+c) The issuer shall submit a monthly report according to the format given in Annexure-B.
+Bangladesh Bank may update the format from time to time.
+
+41. Supervision and penalty:
+a) Bangladesh Bank may conduct special inspection to ensure proper compliance of these
+guidelines.
+b) Bangladesh Bank, if finds any irregularities in the function of the issuer, or deems necessary to
+protect customer interest,
+(i) shall have the right to cancel the approval for issuing such PI at any stage;
+(ii) may direct an issuer to buy back the outstanding PI within a particular period; and
+(iii) may request the related Government/ Law Enforcement agencies to take lawful action against
+the issuer.
+c) If an issuer of PI fails to supply promised products/services in exchange of the PI, the customer
+shall have the right to get remedy under The Consumers’ Right Protection Act, 2009.
+d) Government agencies, responsible for regulating issuer’s financial affairs and for protecting
+customers’ right, may also ensure compliance of these guidelines by the issuer and buyer.
+
+--- Page 16 ---
+Page 14 of 15
+
+Annexure-A
+Computation of net-worth
+Particulars
+Amount in BDT
+Share Capital (Common Share)
+
+
+
+Add:
+
+Preferred share (Compulsorily convertible)
+
+Share Premium (Paid-in Capital)
+
+Reserves
+
+Retained Earnings
+
+Other Equity Items (if any)
+
+
+
+Less:
+
+Revaluation Reserve
+
+Revaluation Gain (Any unrealized revaluation gain shown in
+Income Statement)
+
+Accumulated Losses
+
+Book Value of Intangible Assets
+
+Deferred Revenue
+
+
+
+Net-worth as on (date)
+
+--- Page 17 ---
+Page 15 of 15
+
+Annexure-B
+Reporting Format for PI Issuers
+Serial
+Particulars
+Amount in
+BDT/Numbers/etc.
+Reporting Month
+
+Number of types/categories of PI
+
+Number of PI issued during the reporting month
+
+Amount of PI issued during the reporting month
+
+Number of PI redeemed during the reporting month
+
+Amount of PI redeemed during the reporting month
+
+Number of unredeemed PI at the end of the previous month
+
+Amount of unredeemed PI at the end of the previous month
+
+Total number of unredeemed PI at the end of the reporting month
+(3+7-5)
+
+10
+Total amount of unredeemed PI at the end of the reporting month
+(4+8-6)
+
+11
+Total number of expired PI at the end of the reporting month
+
+12
+Total amount of expired PI at the end of the reporting month
+
+13
+Change in percentage of total number of PI issued during reporting
+month compared to that of previous month
+
+14
+Change in percentage of total amount of PI issued during reporting
+month compared to that of previous month
+
+
+------------End-----------

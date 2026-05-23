@@ -1,0 +1,267 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাংক
+
+(সেন্ট্রাল ব্যাংক অব বাংলাদেশ) পরিসংখ্যান বিভাগ
+প্রধান PRATT
+মতিঝিল, ঢাকা-১০০০
+বাংলাদেশ |
+২৯ ডিসেম্বর, ২০২৪
+পরিসংখ্যান বিভাগ সার্কুলার নং-০৩ তারিখ: ----_---
+১৪ পৌষ, ১৪৩১
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে STS সকল তফসিলি ব্যাংক |
+
+আমানত এবং আগামের ভারিতগড় সুদহার হিসাবায়ন সংক্রান্ত [২]7-তে নতুন কোড GSTS Fa, নতুন আমানত ও আগামের
+তথ্য/উপাত্ত WA ও RIT দাখিলের সময়সীমা পুনঃনির্ধারণ প্রসঙ্গে |
+
+ংলাদেশ ব্যাংকের পরিসংখ্যান বিভাগ কর্তৃক ০৫ আগষ্ট ২০১৮ তারিখে জারিকৃত এস.ডি. সার্কুলার নং-০৩ এর প্রতি আপনাদের
+দৃষ্টি আকর্ষণ করা যাচ্ছে।
+
+২। উল্লিখিত সার্কুলার মোতাবেক সংশ্লিষ্ট মাসের আমানত ও আগামের সুদ হারের বিবরণী “T_ME_M_DEPO_DRI” এবং
+“T ME M LNA RATES?” নামক ২টি াণা-এর মাধ্যমে পরবর্তী মাসের ১০ তারিখের মধ্যে বাংলাদেশ ব্যাংক ওয়েব পোর্টালের
+মাধ্যমে আপলোড করার জন্য আপনাদের নির্দেশনা প্রদান করা হয়।
+
+৩। এক্ষণে, আমানত এবং আগামের ভারিতগড় সুদহার হিসাবায়ন কার্যক্রম paw ও অধিকতর কার্ষকর করার লক্ষ্যে নিম্নবর্ণিত
+
+ক) আগাম সংক্রান্ত “T ME M LNA RATES” RIT-ce বিদ্যমান Product Type এর ৭টি কোডের পাশাপাশি
+Wholesale and Retail Trade, Export Financing, Import Financing, Share Trading, Lease Financing, etc.
+উদ্দেশ্যে বিতরণকৃত সকল আগামের পরিমাণ এবং সুদহার Trade and Commerce নামক নতুন একটি কোডের (24700) মাধ্যমে দাখিল
+করতে হবে | সকল Product Type এর তালিকা “Annexure-A” এ রয়েছে।
+
+2) “Annexure-B” অনুযায়ী রিপোর্টিং মাসের নতুন সংগৃহীত আমানত ও বিতরণকৃত আগামের তথ্য/উপাত্ত Excel
+Worksheet (.xIsx) এর মাধ্যমে পৃথকভাবে দাখিল করতে হবে।
+
+গ) চলমান RIT ও Annexure-B অনুযায়ী আমানত ও আগামের মাসিক সুদহার সংক্রান্ত বিবরণী পরবর্তী মাসের ৭ (সাত)
+কর্মদিবসের মধ্যে directorbanking.statistics@bb.org.bd এর মাধ্যমে দাখিল করতে হবে । এক্ষেত্রে চলমান RIT ২টি বাংলাদেশ
+ব্যাংক ওয়েব পোর্টালের মাধ্যমেও পরবর্তী মাসের ৭ কর্মদিবসের মধ্যে আপলোড করতে হবে |
+
+ঘ) এ নির্দেশনা ফেব্রুয়ারি, ২০২৫ হতে কার্যকর AA |
+
+(আশীষ কুমার রায়)
+পরিচালক (পরিসংখ্যান)
+ফোন: ৯৫৩০১৩৫।
+
+--- Page 2 ---
+Guidelines for Reportin
+Sl.
+Product Type
+Product
+Type ID
+De
+Agriculture
+22200
+Loans
+individ
+engage
+agricul
+(exclud
+industr
+Large Industry
+23910
+Loans
+provid
+industr
+(includ
+industr
+
+Consumer
+Financing/Credit
+24200
+Loans
+individ
+person
+consum
+needs (
+staff lo
+
+Credit Card
+24300
+Advan
+extend
+individ
+busine
+credit c
+Service
+24600
+Loans
+in the s
+Trade and
+Commerce
+24700
+Loans
+busine
+in trad
+comme
+activiti
+
+SME (Small and
+Medium
+Enterprises)
+50231
+Loans
+design
+cottage
+medium
+busine
+SMES
+2, Date
+Other Loans and
+Advances
+29900
+Loans
+that do
+proper
+above
+ng Loans and Advances Distributed by Rate o
+escription
+Examples
+provided to
+duals or entities
+ed in
+ltural activities
+ding agro-
+ries).
+1. Crop production loans (e.g., for food crops, c
+fertilizers, irrigation etc).
+2. Loans for purchasing agricultural equipment
+threshers, pumps, power tillers, etc).
+3. Livestock loans (e.g., for poultry, dairy farm
+etc).
+4. Loans for plantation, horticulture activities, f
+5. Agriculture loan disbursed through NGOs.
+and advances
+ded to major
+rial enterprises
+ding agro-
+ries).
+1. Loans for large-scale manufacturing industri
+garments, steel, cement, petrochemical, chemic
+power generation etc).
+2. Loans for infrastructure projects.
+3. Financing for industrial equipment, moderni
+4. Other loans and advances given to larges ind
+given to
+duals for
+nal
+mption or
+(excluding
+oans)
+1. Personal loans (e.g., for professional, medica
+purposes, etc).
+2. Auto loans (for purchasing vehicles).
+3. House building, flat purchase, home improve
+4. Household equipment loans (e.g., for buying
+appliances).
+5. Advances against deposits, FDR, DPS, secur
+nces or loans
+ded to
+duals or
+sses through
+cards.
+All types of credit card loans.
+to businesses
+service sector
+1. Financing for hotels, restaurants, villas, and
+2. Loans to beauty and healthcare providers (ho
+parlors, fitness centers).
+3. Loans to educational institutions.
+4. Financing for IT, telecommunications, or pro
+(e.g., legal, consulting, etc).
+5. Loans and advances to financial service prov
+(e.g., MFS, NBFI, NGO, etc.)
+6. Loans and advances given to any other servi
+industries.
+provided to
+sses involved
+ing or
+ercial
+ies.
+1. All types of import/export financing (includi
+etc).
+2. Working capital for trading companies.
+3. Trade credit, invoice financing, lease financi
+4. Loans for retail or wholesale businesses.
+
+specifically
+nated for
+e, small and
+m-sized
+sses defined by
+PD Circular –
+ed: 05/09/2019
+1. Term and working capital loans given to CM
+2. Equipment or machinery financing.
+3. Business expansion loans for SMEs.
+4. Any other loans and advances given to busin
+CMSME category.
+and advances
+o not fit
+rly into the
+categories.
+1. Loans to non-profit organizations or charitab
+2. All types of loans and advances given to ban
+3. Loans disbursed through refinance schemes
+Bank or government.
+4. Miscellaneous loans like those for public uti
+projects.
+5. Any other loans not specified elsewhere.
+Annexure A
+
+f Interest
+cash crops, seeds,
+t (e.g., tractors,
+ming, fishing, fisheries,
+forestry and logging.
+ies (e.g., ready-made
+cal, electronic goods,
+zation, or expansion.
+dustries.
+al, education, vacation
+ement loans etc.
+g furniture or
+rity etc.
+tourism businesses.
+ospitals, clinics,
+ofessional services
+viding institutions
+ce providing
+ing EDF, GTF, LTFF,
+ing, share trading, etc.
+MSMEs.
+nesses who fit into
+ble entities.
+nk staff.
+from Bangladesh
+lities or government
+
+--- Page 3 ---
+Annexure-B
+DATED
+FI_ID
+PRODUCT_TYPE_ID DEPOSIT_STATUS BALANCE_BDT
+INTEREST_RATE
+28-Feb-25
+28-Feb-25
+28-Feb-25
+28-Feb-25
+DEPOSIT_STATUS DEPOSIT STATUS CODE
+New
+Renewal
+DATE
+FI_ID
+PRODUCT_TYPE_ID LOAN_NATURE
+LOAN_CLASS_ID
+INTEREST_RATE ADVANCES_BDT
+28-Feb-25
+28-Feb-25
+28-Feb-25
+28-Feb-25
+LOAN_NATURE
+LOAN NATURE CODE
+New
+Renewal
+Rescheduled
+Restructured
+For deposit:
+For loans and advance:

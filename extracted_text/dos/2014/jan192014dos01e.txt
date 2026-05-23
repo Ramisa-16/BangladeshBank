@@ -1,0 +1,564 @@
+--- Page 1 ---
+BANGLADESH BANK
+Head Office
+Post Box No.-325
+Dhaka.
+
+DOS Circular No.-01 Date:19/01/2014
+
+Chief Executives
+All Scheduled banks in Bangladesh
+
+
+Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)
+
+
+All scheduled banks in Bangladesh have to maintain Cash Reserve Ratio (CRR) and Statutory
+Liquidity Ratio (SLR) in Compliance with the instructions given in clause (1) of Article 36 of
+Bangladesh Bank Order, 1972 (as amended upto 2003) and clause (1) of section 33 of ' e¨vsK-†Kv¤úvbx
+AvBb, 1991 (2013 ch©šÍ ms‡kvwaZ)' respectively. Pursuant to the recent amendment of section 33 of '
+e¨vsK-†Kv¤úvbx AvBb, 1991, and in order to facilitate the maintenance of CRR and SLR by the scheduled
+banks, and to clarify some related topics the following instructions are being issued:
+1. (a) Cash Reserve Ratio (CRR):
+Every scheduled bank has to maintain a balance in cash with BB the amount of which shall not
+be less than such portion of its total demand and time liabilities as prescribed by BB from time to
+time, by notification in the official Gazette.
+BB may also prescribe the procedure of maintenance of cash reserve pursuant to its monetary
+policy objectives.
+At present, the required CRR is 6% on bi-weekly average basis of the average total demand and
+time liabilities (ATDTL) with a provision of minimum 5.5% on daily basis of the same ATDTL.
+Banks are advised to follow the circular issued by Monetary Policy Department of BB in this
+regard.
+(b) Components of Cash Reserve:
+At present, banks are allowed to maintain cash reserve with local currency (Taka) only. The day
+end balances of the Taka current accounts maintained with different offices of BB will be
+aggregated to compute the maintained cash reserve of the day.
+The balance so maintained shall be un-encumbered in all aspect. The encumbered (lien against
+discounting facility, etc. and capital lien in case of foreign banks) portion of the balance will be
+deducted while computing both the maintained amount and excess of cash reserve.
+2. (a) Statutory Liquidity Ratio (SLR):
+Every scheduled bank has to maintain assets in cash or gold or in the form of un-encumbered
+approved securities the market value of which shall not be less than such portion of its total demand
+and time liabilities as prescribed by BB from time to time.
+BB may also prescribe the procedure of determination of assets and liabilities and percentages
+of maintainable assets in different classes.
+At present, the required SLR is 13% daily for conventional banks and 5.5% daily for Islamic
+Shari'ah based banks and Islamic Shari'ah based banking of conventional banks of their average
+total demand and time liabilities. Banks are advised to follow the circular issued by Monetary
+Policy Department of BB from time to time in this regard.
+
+
+
+Page 1 of 3
+Website:www.bb.org.bd
+Department of Off-Site Supervision
+
+--- Page 2 ---
+(b) (i) Components eligible for calculation of Statutory Liquidity Reserve:
+The eligible components for maintaining Statutory Liquidity Reserve are cash in tills (both local
+and foreign currency), gold, daily excess reserve (excess of Cash Reserve) maintained with BB,
+balance maintained with the agent bank of BB and un-encumbered approved securities as defined in
+section 5 clause ‘ka’ of 'e¨vsK-†Kv¤úvbx AvBb, 1991(2013 ch©šÍ ms‡kvwaZ)Õ, credit balance in Foreign
+Currency Clearing Account maintained with BB.
+Daily excess of Cash Reserve (if any) will be calculated using the following formula:
+Daily excess of Cash Reserve = (Day-end balance of un-encumbered cash maintained in Taka
+current accounts with BB – Required cash reserve on Bi-weekly average
+basis).
+
+(ii) Guidelines for use of Foreign Currency from Foreign Currency Clearing
+Account for SLR purpose:
+Banks may use foreign currency from Foreign Currency Clearing Account maintained with BB
+for SLR purpose as long as there is credit balance in the account. However, no interest will be paid
+on the used portion of foreign currency. Forex Reserve and Treasury Management Department
+(FRTMD) of BB will credit interest on the balance held in the account as usual. After getting the
+certification from Department of Off-site supervision (DOS) regarding the actual amount of foreign
+currency used for SLR purpose, FRTMD will adjust (if required) the interest amount.
+Banks should take utmost care while reporting the use of foreign currency in DB-5fc statement
+as any misreporting regarding the amount of foreign currency used for SLR purpose will attract a
+penalty two times of the amount of interest already credited for the misreported amount along with
+reversal of the interest credited.
+3. Computation of Demand and Time Liabilities:
+For the purpose of maintenance of CRR and SLR, demand and time liabilities should include all
+on-balance sheet liabilities excluding the items listed below:
+a) Paid up capital and reserves;
+b) Loans taken from BB;
+c) Credit Balance in Profit and Loss account;
+d) Inter-bank items;
+e) Repo, Special Repo and any kind of Liquidity Support taken from BB.
+A list of components, (which are not limited to) is attached with this circular (Annex-1). Banks
+are advised to approach BB for any doubt in reckoning a particular liability as demand or time
+liability for CRR and SLR computation.
+4. Classification and valuation of SLR eligible securities:
+Banks shall follow the instructions of DOS Circular Letter No.05/2008, DOS Circular Letter
+No.05/2009 and DOS Circular Letter No.21/2009 for classification and valuation of SLR eligible
+securities held under different portfolios.
+The maximum limit of holding approved Securities under Held to Maturity (HTM) portfolio
+were prescribed in DOS Circular Letter No.05/2008 and in the subsequent amendments by DOS
+Circular Letter No.17/2011, and DOS Circular Letter No.24/2011. However, the maximum limit is
+re-set as under which will be effective from February 01, 2014:
+For all non-Primary dealer banks: 110% of SLR
+For all Primary dealer banks: 125% of SLR
+
+Page 2 of 3
+
+--- Page 3 ---
+Instructions of DOS Circular Letter No-21/2009 and DOS Circular Letter No.-02/2012 will
+remain valid until further notification.
+5. Submission of Reports regarding maintenance of CRR and SLR:
+Banks shall submit hard copies of the monthly statements of "Maintenance of CRR", DB-4(C),
+DB-4(I), DB-5(C) and DB-5(I) along with the soft copies of others regarding monthly position of
+maintenance of CRR and SLR in the newly prescribed formats (attached) to Department of Off-site
+Supervision (DOS) within the 10th of the following month. The Reporting Formats attached with
+DOS Circular Letter No.05/2008 has been amended and the new formats will be effective from
+February 01, 2014. The soft copies of the formats are available for collection from DOS.
+6. Penalties:
+(a) Penal Interest (Bank Rate plus 5%) and Penalty will be charged according to the instructions
+of Bangladesh Bank Order, 1972 and DOS Circular No. 03/2010 for CRR related issues.
+(b) Penalty will be charged at the prevailing Special Repo Rate on the amount by which the SLR
+falls short daily.
+(c) Delay submission of statement regarding maintenance of CRR and all other statements
+regarding maintenance of SLR will attract daily penalty as stated in clause (6) of Article 36 of
+Bangladesh Bank Order, 1972 and clause (11) of section 109 of ' e¨vsK-†Kv¤úvbx AvBb, 1991 (2013 ch©šÍ
+ms‡kvwaZ)' respectively.
+7. Effectiveness:
+The instructions of this circular will become effective from February 01, 2014. Accordingly,
+DOS Circular Letter No.17/2011and DOS Circular Letter No.24/2011 shall be considered void, and
+DOS Circular Letter No.05/2008, where applicable, shall be considered amended, from February
+01, 2014.
+Please acknowledge receipt.
+
+
+
+
+Sincerely yours,
+
+Sd./-
+
+(S. M. Rabiul Hassan)
+General Manager
+Phone: 9530093
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 3 of 3
+
+--- Page 4 ---
+Annexure-1
+
+List of Demand and Time Liabilities
+
+
+
+Various items of demand and time liabilities which are reckonable for
+the computation of required CRR and SLR are listed below. The items listed
+are generic in nature and are applicable for both Conventional and Islami
+banking.
+
+Demand Liabilities:
+
+Demand Deposits (General)
+All Current Accounts except from banks.
+ii)
+All Cash Credit Accounts (Credit Balances)
+iii)
+Demand Portion of savings bank Accounts.
+iv)
+Overdue Fixed Deposits accounts.
+Call Deposits accounts other than from banks (on Demand)
+vi)
+Unclaimed balance accounts.
+vii)
+Interest accrued on above accounts.
+viii)
+All other Deposits payable to public on demand e.g.
+Outstanding Bills.
+Payment Orders.
+Telegraphic Transfers & M.T.
+Outstanding Drafts.
+Drafts payable Account.
+Demand Drafts.
+Hajj Deposits.
+Bonus scheme Remittances Payable.
+Branch Remittances Payable.
+10.
+Bills Payable.
+11.
+Certificates Payable.
+ix)
+Foreign Currency Deposit account
+Unsold balance of NFCD account.
+xi)
+Convertible Taka account.
+
+(b) Other Demand Liabilities.
+Margin on L/ cs.
+ii)
+Margin on Guaranties.
+iii)
+Lockers Key Security Deposits.
+iv)
+Unclaimed Dividend/ Dividend Payable
+Credit Balance and adjustment account.
+vi)
+Security Deposit accounts (amount deposited by Supplier
+of stationery and furniture etc. as security).
+vii)
+Sundry Deposits accounts.
+viii)
+Any other miscellaneous deposits payable on demand.
+
+--- Page 5 ---
+Annexure-1
+
+Time Liabilities:
+
+Time Deposits (General).
+Fixed Deposits from Customers other than from banks.
+ii)
+Special Notice Deposits other than those from other banks.
+iii)
+Time portion of the savings bank deposits.
+iv)
+Short term Deposit accounts.
+Recurring Deposits
+vi)
+Interest accrued on all above accounts.
+
+(b) Other Time Liabilities.
+Employees' Provident Fund Accounts.
+ii)
+Staff Pension Fund.
+iii)
+Employees' Security Deposits.
+iv)
+Staff Guarantee or Security Fund.
+Contribution towards Insurance Fund.
+vi)
+Any other miscellaneous liabilities payable on notice or after a
+specified period.
+vii)
+Margin account- Foreign Currency.
+viii)
+Liabilities towards Foreign banks/ Correspondence bank.
+ix)
+Bi-lateral trade liabilities.
+
+888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+
+--- Page 6 ---
+Figure in Thousand
+d = c - b
+f = c - e
+1st Bi-week
+2nd Bi-week
+ID No:
+ID No:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No:
+Mobile No:
+Bi-weekly
+excess/shortfall
+Statement Regarding Maintenance of CRR(C)
+Submitted under Article 36(3) of Bangladesh Bank Order, 1972
+(To be submitted monthly within the 10th of the following month)
+Daily Excess
+Reserve
+Excess /Shortfall
+Bi-weekly average
+Required CRR
+Name of the Bank:
+Date
+Daily Minimum
+Required CRR
+Balance with
+Bangladesh Bank in
+TK. Current a/c
+
+--- Page 7 ---
+Figure in Thousand
+d = c - b
+f = c - e
+1st Bi-week
+2nd Bi-week
+ID No:
+ID No:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No:
+Mobile No:
+Bi-weekly
+excess/shortfall
+Statement Regarding Maintenance of CRR(I)
+Submitted under Article 36(3) of Bangladesh Bank Order, 1972
+(To be submitted monthly within the 10th of the following month)
+Daily Excess
+Reserve
+Excess /Shortfall
+Bi-weekly average
+Required CRR
+Name of the Bank:
+Date
+Daily Minimum
+Required CRR
+Balance with
+Bangladesh Bank in
+TK. Current a/c
+
+--- Page 8 ---
+Month
+Year
+Bank Name:
+Branches:
+Tk in '000
+DATE:
+ATDTL
+#DIV/0!
+2. Deposit From Banks
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+2. Deposit From Banks
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+Year
+amount
+#DIV/0!
+amount
+#DIV/0!
+1. Daily minimum cash reserve to be maintained @
+2. CRR (average daily on bi-weekly basis) @
+Total of Countable Liabilities (i+ii)
+C. Statutory Reserve Obligations for the month of :
+3. Borrowing From Banks
+4. Deposit From Finantial Institution
+5. Borrowing From Finantial Institution
+6. Other Time Liabilities
+Sub-Total
+ii) Sub-Total of Countable Time
+Liabilities (1+4+5+6)
+3. Borrowing From Banks
+5. Borrowing From Finantial Institution
+Sub-Total
+4. Deposit From Finantial Institution
+6. Other Demand Liabilities
+i) Sub-Total of Countable Demand
+Liabilities (1+4+5+6)
+STATEMENT DB-4(c)
+Thursday Positions of Demand And Time Liabilities (For Conventional Banking)
+Submitted Under Bank Company Act, 1991 and Bangladesh Bank Order, 1972
+No. of Weeks reported:
+A. Demand Liabilities:
+1. Customer Deposit
+B. Time Liabilities:
+1. Customer Deposit
+amount
+#DIV/0!
+ID No.
+Name:
+Designation:
+Phone:
+Mobile No.
+3. SLR on daily basis @
+
+--- Page 9 ---
+Month
+Year
+Bank Name:
+Branches:
+Tk in '000
+DATE:
+ATDTL
+2. Deposit From Banks
+2. Deposit From Banks
+Year
+amount
+0.00
+amount
+0.00
+0 00
+STATEMENT DB-4(I)
+Thursday Positions of Demand And Time Liabilities (For Islamic Banking)
+Submitted Under Bank Company Act, 1991 and Bangladesh Bank Order, 1972
+No. of Weeks reported:
+A. Demand Liabilities:
+1. Customer Deposit
+B. Time Liabilities:
+1. Customer Deposit
+3. Borrowing From Banks
+5. Borrowing From Finantial Institution
+Sub-Total
+4. Deposit From Finantial Institution
+6. Other Demand Liabilities
+i) Sub-Total of Countable Demand
+Liabilities (1+4+5+6)
+Total of Countable Liabilities (i+ii)
+C. Statutory Reserve Obligations for the month of :
+3. Borrowing From Banks
+4. Deposit From Finantial Institution
+5. Borrowing From Finantial Institution
+6. Other Time Liabilities
+Sub-Total
+ii) Sub-Total of Countable Time
+Liabilities (1+4+5+6)
+1. Daily minimum cash reserve to be maintained @
+2. CRR (average daily on bi-weekly basis) @
+3 SLR
+d il b
+amount
+0.00
+ID No.
+Name:
+Designation:
+Phone:
+Mobile No.
+3. SLR on daily basis @
+
+--- Page 10 ---
+Other eligible
+securities
+Reverse-repo
+with BB
+T=c+e+f+g+h+i+j+k+i
+EL=T-b
+Authorized Officer:
+ID No.
+ID No.
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No.
+Mobile No.
+HFT
+Required
+SLR
+Others
+(TK. In thousand)
+(Only for branches of conventional banks operated under Islamic Shariah)
+Excess
+Reserve
+Un-encumbered Approved Securities
+HTM
+Statement DB-5(I) Regarding Maintenance of SLR under section 33(1) of Bank Company Act, 1991
+(To be submitted monthly within the 10th of the following month)
+Cash in
+hand
+Total
+Date
+Balance with
+Bangladesh
+Bank
+Balance with
+Sonali bank as
+an agent of BB
+F.C. used
+in BDT
+TT in
+Transit
+Excess/
+Shortfall
+Name of the Bank
+
+--- Page 11 ---
+Statement DB-5(C) Regarding Maintenance of SLR under section 33(1) of Bank Company Act, 1991
+(To be submitted monthly within the 10th of the following month)
+Name of Bank:
+Other eligible Reverse-repo
+Cash in
+hand
+Total
+Date
+Balance with
+Bangladesh
+Bank
+F.C. used
+in BDT
+TT in
+Transit
+Excess/
+Shortfall
+(TK. In thousand)
+Un-encumbered Approved Securities
+HTM
+HFT
+Required
+SLR
+Others
+Excess
+Reserve
+Balance with
+Sonali bank as
+an agent of BB
+securities
+with BB
+T=c+e+f+g+h+i+j+k+l
+EL=T-b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authorized Officer:
+ID No.
+ID No.
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:

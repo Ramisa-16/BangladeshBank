@@ -1,0 +1,456 @@
+--- Page 1 ---
+Payment Systems Department
+Bangladesh Bank
+Head office, Dhaka
+Website: http://www.bb.org.bd
+
+
+
+
+
+
+
+PSD Circular No:05
+Date:
+
+
+
+
+
+Managing Directors/CEOs
+All Scheduled Banks in Bangladesh
+
+
+
+Dear Sir,
+
+
+Guidelines on Agent Banking for the Banks
+
+
+You are hereby advised to download the newly formulated ‘Guidelines on Agent Banking
+for the Banks’ from the website of Bangladesh Bank for taking necessary action at your end.
+
+The guidelines will come into effect immediately.
+
+Please acknowledge receipt.
+
+
+
+
+
+
+
+
+
+
+
+Sincerely yours
+
+
+
+
+
+
+
+
+(Md. Humayun Kabir)
+
+
+
+
+
+
+
+
+General Manager
+
+
+
+
+
+
+
+
+Tel: +88-02-9530174
+
+25 Agrahayan,1420
+09 December, 2013
+
+--- Page 2 ---
+Guidelines on Agent Banking for the banks
+
+
+
+
+Guidelines on Agent Banking for the Banks
+1.0 Introduction
+
+Agent Banking means providing limited scale banking and financial services to the
+underserved population through engaged agents under a valid agency agreement, rather
+than a teller/ cashier. It is the owner of an outlet who conducts banking transactions on
+behalf of a bank. Globally these retailers are being increasingly utilized as important
+distribution channels for financial inclusion. Bangladesh Bank has also decided to promote
+this complimentary channel to reach to the poor segment of the society as well as existing
+bank customer with a range of financial services specially to geographically dispersed
+locations.
+
+With a view to ensuring the safety, security and soundness of the proposed delivery
+channel Agent Banking Guidelines have been framed by the Bangladesh Bank to permit
+banks to be engaged in agent banking.
+
+2.0 Authority
+
+Bangladesh Bank is issuing this guidelines as per authority conferred to it by Article 7A(e)
+of Bangladesh Bank Order, 1972, Section 45 of Bank Company Act, 1991 and Section 4 of
+Bangladesh Payment and Settlement Systems Regulations, 2009.
+
+3.0 Purpose
+
+The purposes of these guidelines are to:
+Provide regulatory framework for Agent Banking which will create an enabling
+environment for offering safe financial services to the new target group.
+II)
+Ensure compliance with Anti‐Money Laundering and Combating Financing of
+Terrorism (AML/CFT) standards set by AML/CFT rules, regulations, guidelines
+and instructions issued by Bangladesh Bank.
+
+4.0 Agent Banking Services
+
+4.1 The following services will be covered under Agent Banking:
+
+Collection of small value cash deposits and cash withdrawals (ceiling should be
+determined by BB from time to time );
+II.
+Inward foreign remittance disbursement;
+III.
+Facilitating small value loan disbursement and recovery of loans, installments;
+IV.
+Facilitating utility bill payment ;
+Cash payment under social safety net programme of the Government ;
+VI.
+Facilitating fund transfer(ceiling should be determined by BB from time to time);
+VII.
+Balance inquiry;
+
+--- Page 3 ---
+Guidelines on Agent Banking for the banks
+
+
+
+VIII.
+Collection and processing of forms/documents in relation to account opening,
+loan application, credit and debit card application from public;,
+IX.
+Post sanction monitoring of loans and advances and follow up of loan recovery.
+Receiving of clearing cheque.
+XI.
+Other functions like collection of insurance premium including micro‐ insurance
+etc
+
+4.2 An Agent must provide, as a minimum, cash deposit and cash withdrawal services.
+The agent's activities would be within normal course of banking business of the
+scheduled banks but conducted at places other than bank premises/ ATM booths.
+Agent must provide services in the designated business premises.
+
+4.3. Agents are not allowed to provide the following services on behalf of the banks:
+
+Giving final approval of opening of bank accounts and issuance of bank cards/
+cheques;
+II.
+Dealing with loan/ financial appraisal
+III.
+Encashment of cheques and
+IV.
+Dealing in Foreign currency.
+
+5.0 Eligible Entities
+
+The Banks may engage the following persons/ entities as their Agent:
+
+NGO‐MFI’s regulated by Micro credit Regulatory Authority of Bangladesh;
+II.
+Other registered NGOs;
+III.
+Cooperative Societies formed and controlled/ supervised under Cooperative
+Society Act,2001;
+IV.
+Post Offices;
+Courier and Mailing Service Companies registered under Ministry of Posts
+&Telecommunications ;
+VI.
+Companies registered under ‘The Companies Act, 1994’;
+VII.
+Agents of Mobile Network Operators;
+VIII.
+Offices of rural and urban local Government institutions;
+IX.
+Union Information and Service Centre (UISC);
+Educated Individuals capable to handle IT based financial services, agents of
+insurance companies, owners of pharmacies, chain shops and petrol pumps/ gas
+stations.
+
+6.0 Agent Banking Model
+
+6.1 An agent can act as agent of more than one bank at a time but at the customer
+end point a retail outlet or sub agent of an agent shall represent and offer banking
+services of only for a single bank. The written agreement between bank and the
+agent should be carefully defined and legally vetted. The agreement should also
+contain clauses related to confidentiality/safety/ soundness and accuracy of all the
+
+--- Page 4 ---
+Guidelines on Agent Banking for the banks
+
+
+
+transactions as well. Full financial disclosure, transparency and accountability of
+the agent must be ensured.
+
+6.2 The bank shall assign one of its branches/offices to be responsible for the agent
+operating in the designated area of the branch.
+
+6.3 The agents are to be equipped with IT device like point of sale (POS) with biometric
+features capturing and reading facilities, card reader, mobile phone, barcode
+scanner to scan bills for bill payment transactions, Personal Identification Number
+(PIN) pads and may have Personal Computers (PCs) that are to be connected with
+their bank's server using a personal dialup or other data connections. Clients may
+use magnetic stripe bank card or mobile phone to access their bank account.
+
+6.4 Identification of customers shall be done through a PIN/ biometrics.
+
+6.5 In the customer end the transaction should be operating through ICT devices that
+are continuously and uninterruptedly integrated to the systems developed by
+banks. The figures of the transactions must be reflected in ‘Core Banking Solution’
+(CBS) of the bank. The transactions should be executed on real time basis. No
+transactions can be performed in case of communication failure. At the end point
+the customer will get instant confirmation of their transaction through visual basis
+(screen based like SMS) and paper based (debit or credit slip) also.
+
+6.6 The bank shall brand agent banking business in such a clear manner so that the
+customer can realize that the agent is providing services on behalf of the bank.
+
+6.7 The agent of the concerned bank should deposit a fixed amount of money or should
+have a credit limit with the bank and upto that level the agent can make
+transactions with the clients. If any transaction is tried beyond that level, system
+will automatically stop the transaction.
+
+7.0 Regulatory Issues
+
+1. Without having approval from Bangladesh Bank no bank shall be allowed to
+undertake agent banking business.
+2. Banks willing to launch Agent Banking Business shall seek prior approval from
+Bangladesh Bank, with full details of the services including tentative
+implementation schedule.
+3. Transaction currency will be taka only.
+4. Banks shall have to submit copies of agreement(s)/MOU(s) signed between banks
+and their agents to Bangladesh Bank before launching the product.
+5. The agents shall be selected by the bank and a list of the agents with their names
+and addresses shall have to be submitted to the Green Banking and CSR
+Department, Bangladesh Bank and will be updated on monthly basis including
+changes, additions and deletions, if any.
+
+--- Page 5 ---
+Guidelines on Agent Banking for the banks
+
+
+
+6. The inward foreign remittance (credited to Nostro Accounts of Banks) transfer
+arrangement through designated agents will be used only for delivery in local
+currency.
+7. The system should not be used for any cross border outward remittance of funds
+8. Banks shall submit overall report on agent banking annually to its Board as well as
+to Bangladesh Bank
+9. Bangladesh Bank may withhold, suspend or cancel approval for providing agent
+banking services if it considers any action by any of the parties involved in the
+system is detrimental to the public interest.
+10. Bangladesh Bank can amend the guidelines as and when required.
+
+8.0 Charge for the Services
+Customers should not be charged directly by the agents for providing services to
+them. Bank shall pay reasonable fee/ commission to their agents. However, bank
+may charge commission/ fee/charge as applicable to its customers.
+
+9.0 Anti Money Laundering Compliance
+1. Banks and its partners shall have to comply with the prevailing Anti‐Money
+Laundering (AML)/Combating the Financing of Terrorism (CFT) related laws,
+regulations and guidelines issued by Bangladesh Bank from time to time.
+2. Banks shall have to follow KYC format issued by Bangladesh Financial Intelligence
+Unit (BFIU) of Bangladesh Bank for the agents and customers. Banks will be
+responsible for authenticity of the KYC of all the customers and agents.
+3. Banks shall ensure that suspected transactions can be isolated for subsequent
+investigation. Banks shall develop an IT based automated system to identify
+suspicious activity/transaction report (STR/SAR) before introducing the services.
+4. Banks shall immediately report to Anti‐Money Laundering Department of
+Bangladesh Bank regarding any suspicious, unusual or doubtful transactions
+likely to be related to money laundering or terrorist financing activities.
+
+10.0 Risk Mitigation
+
+1. Banks shall be responsible for mitigation of all kinds of risks such as liquidity,
+operational, fraud, cheating including money laundering and terrorist financing
+risks. Technical risks should be covered by the solution provider.
+2. The banks must bear all the liabilities that arise from any improper action on the
+part of their engaged agents.
+
+
+Technical Aspects and Data Security:
+
+It is anticipated that the technology currently available is able to provide adequate
+security for transmitting information from agent to bank’s end. The bank will develop
+mechanism that enables the agent to report any transaction as and when it occurs.
+However Banks need to establish internal policies, procedures, systems and controls to
+support agent banking at all stages, consistent with the Bangladesh Bank Guidelines on
+ICT security for Scheduled Banks and Financial Institutions. In establishing systems and
+
+--- Page 6 ---
+Guidelines on Agent Banking for the banks
+
+
+
+infrastructures to support agent banking banks have to ensure the systems comply with the
+following minimum requirements:
+
+i) IT infrastructure-
+a) able to support real time processing;
+b) able to provide a secured network including end to end encryption; and
+c) should be robust in managing infrastructure capacity to support agent banking
+services and
+d) at the end point, devices should not store the sensitive customer information e.g.
+PIN/ Password/ Biometrics etc.
+
+
+ii) Agent Banking Application:
+a) able to support host validation for PIN/Password/ biometrics authentication;
+b) able to provide device authentication during session activation and transaction
+processing at host level;
+c) has availability of limit management features for agents. customer transaction
+and other limit requirements;
+d) has transaction and system audit trail;
+e) able to provide auto reversal features for incomplete transactions, transactions
+acknowledgement and receipting;
+f) able to support time out features; and
+g) able to display sufficient error message to customer and able to handle error
+processing.
+
+12.0 Agent Selection Criteria
+
+Banks willing to launch Agent Banking Business shall formulate an agent banking policy
+addressing the following issues:
+i) Policies related to agent selection, management, monitoring, operations,
+compliance, conduct and service quality;
+ii) Customer protection measures, including awareness and education strategies;
+iii) Infrastructure to support agent banking including system and technology
+requirements;
+iv) Controls and monitoring to ensure compliance with relevant legislation and
+regulatory requirements; and
+v) Business Continuity Plan (BCP) and contingency arrangements to ensure continuity
+of agent banking services in the event of disruption.
+The policy should be approved by the Board of Directors under which it can appoint
+agents. The banks should apply due diligence to select and appoint agents.
+
+The following issues should be taken into consideration for selecting agents:
+
+1. Competence to implement and support the proposed activities;
+2. Financial soundness and cash handling capability;
+3. Ability to meet commitments under adverse conditions;
+4. Business reputation;
+5. Ability to offer technology based financial services;
+
+--- Page 7 ---
+Guidelines on Agent Banking for the banks
+
+
+
+
+6. Security and internal control, audit coverage, reporting and monitoring capacity.
+7. Loan defaulter or the convicted person can not apply for agencyship.
+
+13.0. Agency Agreement
+
+Banks intending to provide agent banking service must sign service level agreement with
+the agents. The agreement in addition to other conditions shall at least cover the
+following issues:
+
+• Define the rights, expectations and responsibilities of the parties entered into
+agreements;
+• Set the scope of fee structure logically and rationally;
+• State that this financial services are subject to regulatory review and that Bangladesh
+Bank inspecting officers shall be granted full and timely access to internal systems,
+documents, reports, records and interrogate staffs of the Agents;
+• State that the agents will not perform management functions, make management
+decisions, or act or appear to act in a capacity equivalent to that of a member of
+management or an employee of the banks;
+• Specify that the agents must ensure safe‐keeping of all relevant records, data and
+documents /files for at least six years; or alternately, such record is shifted to the bank
+at regular pre‐specified intervals which will then ensure safe‐keeping of these records
+for at least six years.
+• State that all information/data that the agents collects in relation to agent banking
+services, whether from the customers or the banks or from other sources, is the
+property of the banks, and banks will be provided with copies of related working
+papers/files it deems necessary, and any information pertaining to the banks must be
+kept confidential; and
+• Incorporate a condition for changing the terms of the service contract and stipulations
+for default and termination of the contract.
+
+
+
+14.0 Internal Audit and Monitoring
+
+The banks must formulate internal audit policy to monitor and control agents. They
+should visit the agent’s outlets at a regular interval to ensure that the agents are working
+in accordance with the terms and conditions of the agreement and following the rules,
+regulations and guidelines issued by the regulators.
+
+--- Page 8 ---
+Guidelines on Agent Banking for the banks
+
+
+
+
+15.0
+Customer Protection
+The banks shall offer products and services approved by their Board keeping
+conformity with the guidelines. The agents should not introduce any financial
+product or service at their discretion.
+II.
+There should be clear identification/logo and name of the bank with contact
+address/telephone number displayed in a visible manner on the premises of the
+retail agents/ agent’s service premises.
+III.
+The bank shall take necessary steps to ensure that the agents/retail agents/sub
+agents are known to the public in a specific area. The local branch manager may
+introduce the agent/retail agent or sub agent to the public, their activities and
+limitations in a clear manner.
+IV.
+The fees/charges for offering the services shall be published in the form of a
+brochure and be available in the outlets of the agents/ retailers or sub agents for
+client’s use and information.
+The bank shall take necessary steps for creating awareness among the customers
+(in local language) on agent banking which may contain the rights of the customers
+and safety measures to make transactions with agents.
+VI.
+The bank shall have a business continuity plan to ensure uninterrupted services to
+the customers in case of failure or termination of agents.
+VII.
+When a contract between bank and agent is terminated, bank shall issue a notice
+of the termination to be published within the locality where the agent was
+operating its business.
+VIII.
+If any agent works on behalf of more than one bank, it shall ensure that there are
+no amalgamations/overlapping/intermixing in the database of customers of
+different banks.
+IX.
+Customers may lodge complaints regarding agent banking to Customers’ Interests
+Protection Centre (CIPC) of Bangladesh Bank.
+
+16.0 Dispute Resolution
+
+The bank needs to ensure that adequate measures for customer protection, awareness
+and dispute resolution are in place. The bank must run a call centre to receive and process
+disputes 24 hours a day via telephone, SMS, IVR and mail. Each of the disputes received
+by the centre must be resolved within 3 working days. The bank should ensure that they
+are sufficiently equipped to keep track/log of all disputes and review status of each
+disputes and redressal of the same within stipulated time. The bank should widely
+publicize about the disputes/grievances redressal mechanisms through electronic and
+print media and will submit reports regarding disputes/grievances and redressal of the
+same to the Bangladesh Bank at a regular interval.

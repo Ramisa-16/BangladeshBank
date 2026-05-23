@@ -1,0 +1,83 @@
+--- Page 1 ---
+Department of Financial Institutions andMarkets
+Bangladesh Bank
+Head Office
+Dhaka-1000
+
+
+DFIM Circular No. 09
+
+
+Date:
+
+Chief Executives/ Managing Directors
+All Financial Institutions in Bangladesh
+
+Dear Sir,
+
+Regarding Submission of Liquidity Profile and Statement of Affairs
+“Managing Core Risks in Financial Institutions: Asset Liability Management” issued by
+Bangladesh Bank dated July 14, 2005 provides standard guidelines and tools to the management
+for assessing and monitoring the liquidity position of a financial institution (FI). The guidelines
+also contains adequate instructions regarding measuring and managing the net funding
+requirement. Hence, FIs are instructed to submit statement of Liquidity Profile and Statement of
+Affairs as per following instructions:
+Statement of Liquidity Profile:
+1. FIs shall submit projected Liquidity Profile to this department on a monthly basis, prepared
+as of the last working day of each month within 7 (seven) working days of the following
+month. Instructions given below shall be followed in preparing the statement:
+a) Considering the statement as the Aging Gap Analysis of assets and liabilities, in the
+‘Projected Figure’ column, FIs shall separately report the outflows and inflows against
+each assets and liabilities items without netting by placing all inflows and outflows in
+appropriate time buckets according to the expected timing of flows.
+b) Contingent liabilities and assets should be reported in appropriate time buckets while
+inserting the off-balance sheet items in the statement.
+c) The items in the “Actual Figure” column should not be netted off. FIs shall report the
+outflows and inflows separately in the “Outflows” and “Inflows” columns respectively.
+2. From November, 2015 FIs shall submit online Liquidity Profile statement through the web
+portal of Bangladesh Bank as follows:
+
+October 20, 2015
+Kartik 05, 1422
+Website: www.bb.org.bd
+Page-1/2
+
+--- Page 2 ---
+a) FIs shall log into the relevant BB web portal (http://ereturns.bb.org.bd/edwportal) using
+authorised User ID and download the T_PS_M_LIQDTY_FI template (with User
+Manual) and reference file. The Template and reference file should be kept in the same
+folder while filling in the template. ‘Macro’ and ‘Link’ options should be enabled before
+starting inputting the data;
+b) Taka amounts should be expressed in whole numbers; Rounding of numbers to
+thousands/lacs/crores shall not be accepted;
+c) After filling in the template, the authorised user shall save it and click the ‘Convert to
+CSV’ button in order to create a CSV file. That particular CSV file shall be uploaded to
+the BB web portal;
+d) Hard copies of the Statements for the months of October/2015, November/2015, and
+December/2015 shall be submitted to this department with forwarding in parallel to the
+online submission in BB web portal. Hereafter, FIs need not submit hard copy of the
+statement;
+e) In order to endorse the authenticity of information provided in the statement, FIs shall
+upload input templates in BB web portal after obtaining approval from Managing
+Director or his/her nominated/authorised officer;
+f) Actions will be taken as per DFIM Circular No. 05/2011 in case of failure to upload the
+input template properly in BB web portal within the stipulated time.
+Statement of Affairs
+FIs shall submit hard copy and soft copy through e-mail (gm.dfim@bb.org.bd) of Statement of
+Affairs to this department with forwarding on a quarterly basis within 15 days after the end of
+the respective quarter.
+Other applicable instructions mentioned in the “Managing Core Risks in Financial Institutions:
+Asset Liability Management” shall remain unchanged.
+DFIM Circular No. 06 dated July 26, 2011 and the subsequent DFIM Circular Letter Nos. 16 and
+21 dated October 24, 2011 and December 20, 2011 respectively, issued with reference to the
+aforementioned subject are hereby declared cancelled.
+This circular is issued with the authority vested under Section 18(chha) of Financial Institutions
+Act, 1993.
+Sincerely yours,
+
+
+
+(Md. Shah Alam)
+General Manager
+Phone: 9530178
+Page-2/2

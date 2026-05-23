@@ -1,0 +1,5380 @@
+--- Page 1 ---
+Bangladesh Bank
+Head Office, Dhaka
+Payment Systems Division
+18 Jaishtha, 1416
+PSD Circular No. 04/2009
+Date :
+01 June, 2009
+
+Managing Director/Chief Executive Officers
+All scheduled banks in Bangladesh
+
+
+
+
+Dear Sir,
+
+Bangladesh Automated Clearing House (BACH)
+at the expanded Dhaka Clearing Region.
+
+
+
+Further to PSD circular No-02/2009 dated 16th February 2009, we forward the functional
+specification for the Bangladesh Electronic Funds Transfer Network (BEFTN), the second
+component of the Automated Clearing House, which is attached herewith (Annexure-I) for
+necessary action at your end. Considering the request from State Owned Bank (SOB)s for an
+extension of time for implementation of the cheque processing system, the implementation
+timelines have been revised with a target to go live in and around Dhaka by early November,
+2009.
+
+EFT Specifications: BEFTN will operate as a processing and delivery centre for
+distribution and settlement of electronic credits and debits among all participating banks. Initially,
+EFT will start with credit transactions and eventually move towards debit transactions. This
+Network will operate in a real-time batch processing mode. Transaction files received from the
+banks during the day will be processed as they are received and items for receiving banks will be
+distributed. All payment instructions will be calculated into a single multilateral netting figure for
+each individual bank. Final settlement will take place using accounts maintained with Bangladesh
+Bank. It may be mentioned that the National Automated Clearing House Association (NACHA),
+USA prescribed application and file formats will be adopted for BEFTN.
+
+Revised Timeline: The project implementation timeframe has been rescheduled as under:
+
+Dead-lines (Dates)
+
+
+Activity
+BACPS
+BEFTN
+
+Issuing MICR encoded standard cheque and phasing
+out non-standard cheques.
+
+30-06-2009
+
+Select connectivity Vendor and inform Bangladesh
+Bank
+30-06-2009
+30-06-2009
+Communication links to be installed between banks and
+the Bangladesh Automated Clearing House
+15-09-2009
+15-09-2009
+Installing necessary hardware and software
+06-09-2009
+19-10-2009
+Supply PBM and train participating Banks from:
+27-09-2009
+27-09-2009
+PILOT
+06-10-2009 to
+07-11-2009
+20-10-2009 to
+31-12-2009
+Go LIVE
+08-11-2009
+04-01-2010
+
+Roll out to Regional Clearing Houses: After the successful implementation at Dhaka the
+automation process will move to the regional clearing houses, including Bangladesh Bank offices
+in Chittagong, Khulna, Rajshahi, Bogra, Sylhet, Barisal and Rangpur respectively. All these
+offices will have their ACH installed within 2009. In the mean time, the roll out plan in these
+regional offices has been taken to go live in the first half of 2010 and the specific dates for ACH
+roll out in these regional offices will be notified in due course. The banks are requested to take
+Contd..P/2
+
+--- Page 2 ---
+necessary preparations to issue MICR encoded cheques in all regions and install Hardware and
+Software and establish connectivity within this timeframe.
+Automated Clearing House Timing: The operating hours of the Automated Clearing
+House is an important factor as far as better service is concerned. So, to enhance banks’ ability to
+serve their customers better, the following operating timeframe for BACPS has been set:
+
+
+
+Cut Offs
+
+
+Clearing Window
+Presentment
+Return
+Settlement
+
+01. Regular Clearing
+12:00 Hrs
+17:00 Hrs
+17:01 Hrs
+02. High Value Clearing
+11:00 Hrs
+13:00 Hrs
+13:01 Hrs
+
+
+
+Operating sessions for EFT will be informed in due course.
+
+Inter Branch Connectivity: Banks which do not have their inter-branch connectivity are
+advised to build communication links among themselves as the Electronic Funds Transfer and the
+Automated Cheque Processing System are designed to perform better in an interconnected
+environment. All participating banks are also advised to adopt Centralized Core Banking Systems.
+
+It is, therefore, advised that member banks will update their preparations to be in line with
+the progress of BACH. The relevant rules and operating procedures will be released and
+forwarded to you in due course.
+
+Please acknowledge receipt.
+
+
+( Chowdhury Mohidul Haque )
+Executive Director
+Tel: 7167988, Fax: 7164233
+Email: edcmhbb@hotmail.com
+
+--- Page 3 ---
+Annexure - I
+
+Functional Specification
+
+Of
+
+Bangladesh Electronic Funds Transfer Network
+
+Version 1.0
+
+BEFTN
+
+--- Page 4 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page ii
+0 DOCUMENT CONTROL
+
+
+
+Document Control _______________________________________________ ii
+0.1
+Contents ________________________________________________________ ii
+0.2
+Document Approvals_______________________________________________ v
+0.3
+Change Control___________________________________________________ vi
+0.4
+Change History ___________________________________________________ vi
+0.5
+Comments and Revision Requests____________________________________ vi
+0.5.1
+Revision History________________________________________________________ vi
+0.6
+Other Related Documentation ______________________________________ viii
+0.6.1
+Related Document Cross Reference ______________________________________ viii
+0.7
+Terms, Abbreviations, and Conventions _______________________________ viii
+0.8
+Assumptions, Risks, and Issues _____________________________________ xii
+0.8.1
+Assumptions __________________________________________________________xii
+0.8.1.1
+Single Currency Processing __________________________________________xii
+0.8.2
+Risks ________________________________________________________________xii
+0.8.2.1
+Core Banking System_______________________________________________xii
+0.8.3
+Issues ______________________________________________________________ xiii
+0.8.3.1
+Archive Key Fields ________________________________________________ xiii
+General _______________________________________________________1
+1.1
+Purpose ________________________________________________________ 1
+1.2
+Introduction______________________________________________________ 1
+BEFTN Functional Overview _______________________________________3
+2.1
+Major Functions __________________________________________________ 3
+2.1.1
+General ______________________________________________________________ 3
+The Generic EFT File Format ______________________________________5
+3.1
+General_________________________________________________________ 5
+3.2
+EFT File ________________________________________________________ 5
+3.2.1
+Overview _____________________________________________________________ 5
+3.2.2
+EFT Data _____________________________________________________________ 5
+3.2.3
+Duplicate EFT Files_____________________________________________________ 5
+3.2.4
+Generic EFT File Structure _______________________________________________ 5
+3.2.5
+General Validation______________________________________________________ 6
+3.2.6
+Generic Record Structure ________________________________________________ 7
+3.2.7
+Generic Data Types ____________________________________________________ 7
+3.2.8
+Generic Field Types ____________________________________________________ 8
+3.3
+EFT File Structure and Contents______________________________________ 9
+3.3.1
+XML Header __________________________________________________________ 9
+3.3.2
+File Records __________________________________________________________ 9
+3.3.2.1
+EFT File Header Record <FHR> ______________________________________ 9
+3.3.2.2
+EFT File Control Record <FCR> _____________________________________ 10
+3.3.3
+Batch Records________________________________________________________ 10
+
+--- Page 5 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page iii
+3.3.3.1
+Batch Header Record <BHR> _______________________________________ 10
+3.3.3.2
+Batch Control Record <BCR> _______________________________________ 12
+3.3.4
+Entry Records ________________________________________________________ 13
+3.3.4.1
+ADV Entry Detail Record <EDR> _____________________________________ 13
+3.3.4.2
+CCD Entry Detail Record <EDR>_____________________________________ 15
+3.3.4.3
+CCD Addenda Record <ADR> _______________________________________ 15
+3.3.4.4
+CIE Entry Detail Record <EDR>______________________________________ 16
+3.3.4.5
+CTX Corporate Entry Detail Record <EDR> ____________________________ 17
+3.3.4.6
+PPD Entry Detail Record <EDR> _____________________________________ 18
+3.3.4.7
+TRX Entry Detail Record <EDR> _____________________________________ 19
+3.4
+File Acknowledgement ____________________________________________ 21
+3.4.1
+File Level Rejection ____________________________________________________ 21
+3.4.2
+Batch Level Rejection __________________________________________________ 21
+3.4.3
+Automatic File Rejection ________________________________________________ 21
+3.4.4
+Automatic Batch Rejection ______________________________________________ 22
+3.4.5
+Automatic Entry Detail Record Return _____________________________________ 23
+3.4.6
+Acknowledgement File Header <AFH>_____________________________________ 23
+3.4.6.1
+Acknowledgement Batch Record <ABR>_______________________________ 24
+3.5
+Return Entry ____________________________________________________ 25
+3.5.1
+Automated Return Entry ________________________________________________ 25
+3.5.2
+Return Entry Detail Record <ERD>________________________________________ 25
+3.5.3
+Return Corporate Entry Detail Record <CTX> _______________________________ 27
+3.5.4
+Return Addenda Record ________________________________________________ 28
+3.6
+Dishonoured Return Entries ________________________________________ 28
+3.6.1
+Dishonoured Return Batch Header Record <BHR> ___________________________ 29
+3.6.2
+Dishonoured Return Corporate Entry Detail Record <EDR> ____________________ 30
+3.6.3
+Dishonoured Return Entry Detail Record <EDR>_____________________________ 31
+3.6.4
+Dishonoured Return Entry Addenda Record <ADR> __________________________ 32
+3.7
+Automated Contested Dishonoured Return Entries ______________________ 33
+3.7.1
+Batch Header Record __________________________________________________ 33
+3.7.2
+Contested Dishonoured Return Corporate Entry Detail Record __________________ 34
+3.7.3
+Contested Dishonoured Return Entry Detail Record __________________________ 35
+3.7.4
+Contested Dishonoured Return Addenda Record_____________________________ 36
+3.8
+Corrected Return Entries __________________________________________ 37
+3.9
+Adjustment Entry_________________________________________________ 37
+3.10
+Reversing File___________________________________________________ 37
+3.10.1
+Reversing Entry_____________________________________________________ 37
+3.11
+Notification of Change (NOC) _______________________________________ 37
+3.11.1
+Automated Notification of Change ______________________________________ 37
+3.11.1.1
+Batch Header Record <BHR> _______________________________________ 37
+3.11.1.2
+Corporate Entry Detail Record <EDR>_________________________________ 38
+3.11.1.3
+Entry Detail Record <EDR> _________________________________________ 39
+3.11.1.4
+Addenda Record <ADR> ___________________________________________ 40
+3.12
+Refused Notification of Change _____________________________________ 41
+3.12.1
+Batch Header Record <BHR>__________________________________________ 41
+3.12.2
+Corporate Entry Detail Record <EDR>___________________________________ 42
+3.12.3
+Entry Detail Record <EDR> ___________________________________________ 43
+3.12.3.1
+Addenda Record <ADR> ___________________________________________ 44
+Archive ______________________________________________________45
+4.1
+Archive Storage and Retrieval ______________________________________ 45
+4.1.1
+File_________________________________________________________________ 45
+4.1.2
+Batch _______________________________________________________________ 45
+
+--- Page 6 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page iv
+4.1.3
+Entry _______________________________________________________________ 46
+4.1.4
+Addenda Record ______________________________________________________ 46
+4.2
+Storage ________________________________________________________ 46
+4.3
+Retrieval _______________________________________________________ 47
+Reports ______________________________________________________48
+Appendices ___________________________________________________51
+6.1
+Transaction Codes _______________________________________________ 51
+6.2
+Return Reason Codes ____________________________________________ 53
+6.3
+Tables of Change Codes __________________________________________ 54
+6.3.1
+Notification of Change Codes ____________________________________________ 54
+6.3.2
+Refused Notification of Change Codes _____________________________________ 55
+
+--- Page 7 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page v
+
+
+
+
+
+
+
+
+
+For and on Behalf
+of:
+Name and
+Position
+Date
+Signed
+
+--- Page 8 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page vi
+
+
+ 00 
+ /3  0  3 / 0 4
+ 5  4/64  3 / 4/- 
+ 04
+
+ 00
+3 /  +0
+-  3 3 4  
+64   4 4  04   
+  40 
+ 00 
+
+
+
+.4 0
+%  (00 
+%   &.%$ .4 0
+
+
+
+(    64 4    +0
+
+
+
+0.5.1
+REVISION HISTORY
+Rev
+Section
+Type
+Date
+Author
+Remarks
+
+
+
+Details
+0-2
+All
+New
+25th Mar
+2009
+J. Murray
+Initial Draft
+0-3
+Various
+Modified
+5th May 2009
+J. Murray
+Revision
+
+
+
+2 00 0  4
+
+
+
+
+
+
+
+
+
+
+
+
+(04> ?
+
+--- Page 9 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page vii
+Rev
+Section
+Type
+Date
+Author
+Remarks
+
+
+
+Details
+
+
+
+
+
+
+
+
+
+
+
+
+A# B 0 / A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94 B > ?
+
+
+
+94 +B  A B >
+
+
+
+
+
+
+4B > ?
+
+
+
+43 #B > ?
+
+
+
+
+
+
+
+
+
+0  4B > ?
+
+
+
+B A
+B A
+
+
+
+
+
+
+A) B > ?
+
+
+
+A)B > ?
+
+
+
+A).+B > ?
+
+
+
+A)B > ?
+
+
+
+A%B > ?
+
+
+
+A% +B A'3 +B >
+
+
+
+
+
+
+
+
+
+
+
+0 3 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A( &@0 %
+
+
+
+
+
+A(  4 4/
+
+--- Page 10 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page viii
+Rev
+Section
+Type
+Date
+Author
+Remarks
+
+
+
+Details
+
+
+
+
+
++ 1 F )3
+
+
+
+
+#  )4 0
+
+(+( 0 3 #(
+0-4
+
+Modified
+8th May 2009
+J. Murray
+Revision
+
+
+ 00 
+
+
+
+
+. /4 )0
+
+0-5
+
+Modified
+11th May ‘09
+J. Murray
+Revision
+
+
+
+
+
+
+
+
+
+
+
+0.6.1
+RELATED DOCUMENT CROSS REFERENCE
+Reference Document Title
+Version
+
+
+4 )64
+
+
+
+
+
+
+
+0 )4
+
+
+
+
+0  4 .4
+
+
+
+
+
+Term
+Meaning
+Addenda Record
+( &.%$  0    400   
+0 . +4   )
+
+Alpha Fill Character % 0
+
+$94
+ 3 44 /   /
+
+--- Page 11 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page ix
+Term
+Meaning
+Alphanumeric
+(04   
+9 " ( 9 G 9H / 
+0/ 0  3   (#++ 4 
+A04B    
+
+
+BACH
+ (4 #4
+Batch
+( 40 
+
+BCA
+
+BEFTN
+000 ) 
+00 / 4
+Byte
+( 64 
+C / >4  0   
+
+
+Category
+   3   0
+
+CBS
+
+Clearing
+0 4  4 
+ 4 0 
+ 0/ 4   
+
+4 >0?  4 
+
+CSV
+# 0 4
+
+   @  4    4 
+ 00
+   4I 9
+ / J#)KJ*.K
+
+Data Justification
+
+EFT
+EFT Transaction
+( &.%        4 4 
+   00 
+ 3  3  / 4  &.%   
+ @ 3 00  
+L 4   4 /3  &.% # 
+ L 4  /  
+ L 4    
+
+   L 4   
+
+L 4
+
+--- Page 12 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page x
+Term
+Meaning
+Endpoint
+(  40  0    3  
+
+Extraction
+( 0   0
+  04
+  4  04    05
+
+Fill Data
+ 44 /  
+
+Left justified
+
+Mandatory
+  A B
+ 00 4 I 0 
+A B
+  4   &.%$  3 4 
+ 3 / 4  
+ 3 / 0  
+  44 
+
+Numeric Fill
+Character
+
+ 3 44 /   /
+
+OB
+
+
+Off-us item
+
+On-Line Enquiry
+
+ &64   00  3  0  3
+ 0    4/ 
+
+On-Us Items
+/      3    /L 3
+
+Optional
+0B 
+
+
+Originatiing Bank
+(OB)
+%  /   / 3  0 4
+
+( /  00   &.%     /
+34     /5 3 
+
+Originating Bank
+%  /   / 3  0 4
+
+( /  00   &.%     /
+34     /5 3 
+
+Origination
+Clearing
+4  0 4
+ 04   0 
+
+--- Page 13 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page xi
+Term
+Meaning
+Originator
+%   44  0    
+
+  4L  
+0L 4
+  (OB)
+
+Participant Bank
+Module
+0   00 /  0
+
+
+   64  / 4 / 
+00   0 
+
+PBM
+0  4
+Receiver
+(    0IH 3  4H 
+  &.%    4  3  ) 
+(RB)
+
+Receiving Bank
+(RB)
+&.%$  0     4 
+
+Required
+ A)64B
+ 3  4   - 
+0 /4  4  -   )
+ ($, (4 $4/
+
+  )  4    4/ 
+  A)64B 4 / 4 / 
+
+   0   0/  
+
+Return
+( 4      /    L
+4 /4 3 3  0   4
+
+Reversal
+   AB   
+04  4  
+
+Right justified
+
+Rules
+)4M!N
+
+SEC
+
+  0 0
+
+TBC
+TBD
+
+--- Page 14 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page xii
+Term
+Meaning
+Transaction (EFT)
+00      &.%   
+'   3  3  / 4 
+3 00   L 4   4
+
+ &.% /      L 4  
+
+L 4
+
+
+Work Source
+( 3 4   40 
+/  44 
+3  04 0 
+ @0 0
+
+XML
+O/ 940 *4
+XML schema
+O *  @0  /4  3  
+ 4 4  / 00
+ 44    
+O * 4
+
+Zero
+ 4/ H >
+
+
+
+
+4 4   0/ 3 /    +4 )
+
+0.8.1
+ASSUMPTIONS
+0.8.1.1
+SINGLE CURRENCY PROCESSING
+
+   64
+
+
+0.8.2
+RISKS
+0.8.2.1
+CORE BANKING SYSTEM
+
+   4  0  64   00
+
++  &.%$  3 0 / 0 0  3 4
+40 
+ 0 64
+ 4 0
+
+--- Page 15 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Version 1.0
+CONFIDENTIAL
+Page xiii
+0.8.3
+ISSUES
+0.8.3.1
+ARCHIVE KEY FIELDS
+% 64 
+ M7
+
+--- Page 16 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 1
+1 GENERAL
+
+
+
+
+
+4 0
+00 
+   0    00 /
+
+ 3    0 &.%$  4 
+00 /
+
+% 4 4 /   -4 3  &.%$ )4 3
+
+
+
+ $3 >&.%$? 3 0  
+0    0
+
+   /    00 /
+3 0   9 / 0 
+  /      40  
+
+    004
+%   3   / 4
+
+
++ 0 / &.%$ 3 / /4    /
+ 3 / 4    4 
+.  3  0 4 4  
+
+
+0 /   &.% $3   &.%$ 0  3
+/ 9  4 
+
+ 0 / &.%$ 9  
+ # (   4/64  
+  # ( 3 / 0
+  &.%$ # ( >#(?  0  0
+3   3  64 
+
+
+/ 4 4/ 
+3 0     
+ &.% 5       0 I 90
+ &.%       3 % )4
+
+ 0  4
+
+--- Page 17 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 2
+4  0 
+
+ 3  0Q &.%$5  &.%$ #
+( 3 3 / / 3 0   9  
+
+--- Page 18 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 3
+2 BEFTN FUNCTIONAL OVERVIEW
+
+2.1.1
+GENERAL
+&.% 0 00
+00  
+# >&#? # 3 00   &.% /  4   
+0  09 
+    00
+
+
+ 04  
+400
+
+Consumer Applications
+
+CIE F #4 + &Q #4   
+   00 3  4  
+
+4   0   0
+
+
+4 3   0  0 0 @0 
+  4 /   + / 04 0
+
+PPD F
+Direct Deposit:  0    00 
+4   4L 4   
+4 / 0  0   
+
+04 4  0   0
+
+Preauthorized Bill Payment: ( 04H 0  
+/ 00
+#0 3 / 0 
+00   &.% 4   
+4H  4   0 4 
+ 0      4  / /
+% 0  0 00/  4 3
+ 4 /  4      4 4
+4 04   
+4H   4
+ / 3  4 
+ 4  4 0
+
+II.
+Corporate Applications
+a. CCD F #0 #  /Q % 00  /  
+   / 00 3
+4   /4 
+ /3 0 
+% 00  
+ /3 0    
+400   4 
+ /3 H >
+ 40
+
+--- Page 19 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 4
+b. CTX 9 #0 % &@Q % 00 400 
+
+4 >/  ? 3   0
+0  3
+ 3 /4 
+% 0  &.%$ 0  09
+  40    
+
+III.
+Other Applications
+a. ADV F (4 (4 (Q % &# # 0 
+0   / 0 / &.%
+4 4  
+
+--- Page 20 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 5
+3 THE GENERIC EFT FILE FORMAT
+
+    3  64 
+
++ 0 3   00
+ 3   O * 
+
+% 2 &.% . 0
+  0/  0   / 4
+
+3.2.1
+OVERVIEW
+  0 3  44 0
+% 44   
+4 64 O *
+
+% 2 &.% . 0  4/ 
+ 0 64  400
+
+ 0 64 
+
+3 0
+ 4  0
+% 4    P L
+ P)L
+ )64  P
+
+3.2.2
+EFT DATA
+&.%  4  C9/ (#++ 4 3 
+
+3.2.3
+DUPLICATE EFT FILES
+( 40 &.% .     -   
+  40 
+04 0 &.% .  
+   . # )   04 0
+3.2.4
+GENERIC EFT FILE STRUCTURE
+%  4 3
+  0   64
+  Q P L 5
+05 P)L )64
+
+--- Page 21 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 6
+ ) <FHR> > ?
+#0I
+ ) <BHR> 9  R
+) <EDR> > ?
+( ) <AR> >
+#0I # ) <BCR> 9  R
+#0I
+ ) <BHR>9  R! > ?
+) <EDR> > ?
+( ) <ADR> >
+#0I # ) <BCR> 9  R! > ?
+ R1
+ R7
+ R;   91
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ R9!
+ R9
+
+#0I
+ ) <BHR> 9  R > ?
+) <EDR> > ?
+( ) <ADR> >
+#0I # ) <BCR> F  R > ?
+. # ) <FCR> > ?
+
+3.2.5
+GENERAL VALIDATION
+&.% . 3   44      3 
+% 4 4  )45 3 
+/3  4   )4  )4  0
+
+
+3Q
+  A B 4 / 0  
+
+  A)64B 
+0 4  
+
+44   9 @0 3 4  &.% .  /
+
+--- Page 22 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 7
++9 @0 3 4  - 
+
+&.% . # % 4  3  4 
+/  04
+
+
+449 &.% . 3   4  0/ 0
+33  -      @4
+
+(  4 4/ 3 4 
+
++9   0
+
+( 4  0   4 3 4 
+
+3.2.6
+GENERIC RECORD STRUCTURE
+
+
+/ 04/   O *    / 4   &.%$ 
+
+ 4 90  
+
+3.2.7
+GENERIC DATA TYPES
+ 0   4   &  ) 3
+4 3   0
+
+3Q
+Type
+Description
+Values and Meaning
+P(L9LGL5 PL9LHL
+'00  3    4
+/3Q
+
+ @0 P(/L  0   P#L
+
+
+(04
+  0 (  %0 $
+
+(04 I
+  0 ($  %0 
+
+
+
+  0 0    /   
+
+
+
+
+
+
+
+
+
+
+% 4  P
+L F P"L
+
+$4 I 
+  0 $  %0 
+
+$4 I 0
+  0 $  %0 
+
+0    0/ (#++  3 
+. @4  0 ($  
+
+--- Page 23 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 8
+3.2.8
+GENERIC FIELD TYPES
+Type
+Description
+Data Fill and Justification
+
+
+(04
+
+(04 I
+
+$4 I 
+
+$4 I 0
+
+--- Page 24 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 9
+
+
+ 0 O *
+400 O *  3 / 0
+
+3 /   O *   3  / @Q
+@0 <EHR>   & 4
+ O *    bold     /Q
+<FieldName>
+4/9      bold   
+
+3      /4
+ @0Q
+S <SubElement>
+
+3.3.1
+XML HEADER
+% 4 0  '% 00 /
+
+<?xml version="1.0" encoding="UTF-8" ?>
+3.3.2
+FILE RECORDS
+3.3.2.1
+EFT FILE HEADER RECORD <FHR>
+
+
+Field XML Element
+Req Type Size
+Description
+
+
+<FHR>
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+4  0
+
+<PriorityCode>
+
+
+<ImmediateDestination>
+
+)4 $4/ 
+
+<ImmediateOrigin>
+
+)4 $4/ 
+
+<CreationDate>
+
+88 
+
+<CreationTime>
+
+
+
+
+
+
+<FileIdModifier>
+
+
+
+<FormatCode>
+
+
+
+
+<ImmediateDestinationNam
+
+
+JT1
+
+
+
+
+<ImmediateOriginName>
+
+
+JT1
+
+--- Page 25 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 10
+Field XML Element
+Req Type Size
+Description
+
+
+<ReferenceCode>
+
+
+
+
+3.3.2.2
+EFT FILE CONTROL RECORD <FCR>
+
+
+Field XML Element
+Req
+Type Size
+Description
+
+
+<FCR>
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+%  4  4
+
+<BatchCount>
+
+JTE
+&64   4/ 
+
+
+<EntryAddendaCount>
+
+JTC
+<EntryHash>
+
+
+
+
+
+3 4 
+
+
+
+<DebitAmount>
+
+JT!
+<CreditAmount>
+
+JT!
+3.3.3
+BATCH RECORDS
+
+% 00 0   /  &#   
+
+3.3.3.1
+BATCH HEADER RECORD <BHR>
+
+--- Page 26 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 11
+
+Field XML Element
+Req
+Type Size
+Description
+
+
+<BHR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+4  0 /
+
+<ServiceClassCode>
+
+<CompanyName>
+
+
+<CompanyDiscretionaryDat
+
+
+
+<CompanyID>
+
+
+
+
+( 464 
+
+<SECC>
+
+<CompanyEntryDesc>
+
+
+
+
+
+90
+
+
+<CompanyDescDate>
+
+
+
+90
+
+<EffectiveEntryDate>
+
+90
+
+
+
+<SettlementJDate>
+
+
+<OrigStatusCode>
+
+
+
+
+<OrigBank>
+
+
+ / )% 34 
+
+<BatchNumber>
+
+--- Page 27 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 12
+3.3.3.2
+BATCH CONTROL RECORD <BCR>
+% 4 /  #) 0 / 0   
+
+3.3.3.2.1 Standard Batch Control Record
+% #) 00   / 0 @0 (
+
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<BCR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 /
+
+
+<ServiceClassCode>
+
+
+<EntryAddendaCoun
+
+
+<EntryHash>
+
+
+
+
+C  )U% 4/  
+3 4 
+
+
+
+<TotalDebitAmount>
+
+
+
+<TotalCreditAmount
+
+
+
+<CompanyId>
+
+
+
+( 464 
+
+
+<MsgAuthCode>
+
+
+
+
+<OriginBank>
+
+
+
+
+
+
+<BatchNumber>
+
+--- Page 28 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 13
+3.3.3.2.2 ADV Batch Control Record
+Field XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ADVBCR>
+
+
+
+
+
+
+
+$Q %   64 
+ O * 45 3
+
+ 4  0 /
+
+
+<ServiceClassCode>
+
+
+<EntryAddendaCount>
+
+
+<EntryHash>
+
+
+
+
+
+
+<TotalDebitAmount>
+
+
+
+<TotalCreditAmount>
+
+
+
+<BEFTNData>
+
+
+
+
+<OriginBank>
+
+
+ / )% 34
+
+<BatchNumber>
+
+
+
+3.3.4
+ENTRY RECORDS
+4     &  ) J&)K
+0 / 0 ( ) J()K 3 64
+
+% 4 /  &) 0 &.% 
+
+3.3.4.1
+ADV ENTRY DETAIL RECORD <EDR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode>
+
+
+
+
+
+
+<ReceivingBank>
+
+) / )% 34 
+
+<CheckDigit>
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+--- Page 29 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 14
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+<AdviceRT>
+
+
+
+
+<FileId>
+
+
+
+<BEFTNData>
+
+
+
+
+&.%$90
+
+
+
+<ReceiverName>
+
+
+
+<DiscretionaryData>
+
+
+
+
+<ADRIndicator>
+
+
+
+
+
+
+<BEFTN_RT>
+
+
+<CreationJdate>
+
+:4     3
+
+
+<SeqNum>
+
+64 4/ 
+
+3.3.4.1.1 ADV Addenda Record <ADR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ADR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 (
+
+
+<AddendaTypeCode>
+
+
+<PaymentInfo>
+
+
+
+
+
+<AddendaSeqNum>
+
+64 4/ 
+
+
+( 64
+
+
+
+<EntryDetailSeqNum>
+
+--- Page 30 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 15
+3.3.4.2
+CCD ENTRY DETAIL RECORD <EDR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode>
+
+
+
+
+
+<ReceivingBank>
+
+) / )% 34 
+
+<CheckDigit>
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+
+<IDNumber>
+
+
+
+
+90
+
+<ReceiverName>
+
+<DiscretionaryData>
+
+
+
+90
+
+
+
+
+<ADRIndicator>
+
+
+
+
+
+
+
+<TraceNumber>
+
+
+ 64
+
+3.3.4.3
+CCD ADDENDA RECORD <ADR>
+3.3.4.3.1 CCD Addenda Record <ADR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ADR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 (
+
+
+<AddendaTypeCode>
+
+
+<PaymentInfo>
+
+--- Page 31 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 16
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+<AddendaSeqNum>
+
+64 4/ 
+
+
+( 64
+
+
+
+<EntryDetailSeqNum>
+
+
+
+
+3.3.4.4
+CIE ENTRY DETAIL RECORD <EDR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+< EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode>
+
+
+
+
+
+
+<ReceivingBank>
+
+) / )% 34 
+
+<CheckDigit>
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+
+<ReceiverName>
+
+
+
+<IndividualId>
+
+
+
+<DiscretionaryData>
+
+
+
+90
+
+
+
+<ADRIndicator>
+
+
+
+
+
+
+
+<TraceNumber>
+
+
+ 64
+
+--- Page 32 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 17
+3.3.4.4.1 CIE Addenda Record <ADR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ADR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 (
+
+
+<AddendaTypeCode>
+
+
+<PaymentInfo>
+
+
+
+
+
+<AddendaSeqNum>
+
+64 4/ 
+
+
+( 64
+
+
+
+<EntryDetailSeqNum>
+
+
+
+
+3.3.4.5
+CTX CORPORATE ENTRY DETAIL RECORD <EDR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode>
+
+
+
+
+
+
+<ReceivingBank>
+
+) / )% 34 
+
+<CheckDigit>
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+
+<IdNumber>
+
+
+
+
+90
+
+<ADRCount>
+
+
+<BEFTNData>
+
+
+
+
+&.%$90
+
+
+<ReceivingCompanyId
+
+
+<DiscretionaryData>
+
+--- Page 33 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 18
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+<ADRIndicator>
+
+
+
+
+
+
+<TraceNumber>
+
+
+ 64
+
+3.3.4.5.1 CTX Addenda Record <ADR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ADR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 (
+
+
+<AddendaTypeCode>
+
+
+<PaymentInfo>
+
+
+
+
+
+<AddendaSeqNum>
+
+64 4/ 
+
+
+( 64
+
+
+
+<EntryDetailSeqNum>
+
+
+
+
+3.3.4.6
+PPD ENTRY DETAIL RECORD <EDR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode>
+
+
+
+
+
+
+<ReceivingBank>
+
+) / )% 34 
+
+<CheckDigit>
+
+--- Page 34 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 19
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+
+<IndividualId>
+
+
+
+
+
+<IndividualName>
+
+
+<DiscretionaryData>
+
+
+
+
+
+
+<ADRIndicator>
+
+
+
+
+
+
+
+<TraceNumber>
+
+
+ 64
+
+
+3.3.4.6.1 PPD Addenda Record <ADR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ADR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 (
+
+
+<AddendaTypeCode>
+
+
+<PaymentInfo>
+
+
+
+
+
+<AddendaSeqNum>
+
+64 4/ 
+
+
+( 64
+
+
+
+<EntryDetailSeqNum>
+
+
+
+
+3.3.4.7
+TRX ENTRY DETAIL RECORD <EDR>
+Field XML Element
+Req
+Type
+Size
+Description
+
+--- Page 35 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 20
+Field XML Element
+Req
+Type
+Size
+Description
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+4  0 
+
+<TransactionCode>
+
+
+
+
+
+<ReceivingBank>
+
+) / )% 34 
+<CheckDigit>
+
+
+
+<DFIAccountNum>
+
+% )L 4 
+<Amount>
+
+
+<IdNumber>
+
+
+
+
+<ADRCount>
+
+
+<ReceivingCompany>
+
+
+
+
+
+<ItemTypeInd>
+
+
+
+
+
+<ADRIndicator>
+
+
+
+
+F $ ( ) 0
+
+F ( )  0
+
+<TraceNumber>
+
+
+ 4 4/
+   64
+
+
+3.3.4.7.1 TRX Addenda Record <ADR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+<ADR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 (
+
+
+<AddendaTypeCode>
+
+
+<PaymentInfo>
+
+
+
+
+
+<AddendaSeqNum>
+
+64 4/ 
+
+
+( 64
+
+
+
+
+
+<EntryDetailSeqNum>
+
+--- Page 36 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 21
+
+D*&2& &$%
+ 0  3 / 
+
+.    3 0/  / -     
+ -4  0/ / -
+
+
+3.4.1
+FILE LEVEL REJECTION
+(   34 64   /  / - 3 4 
+
+3.4.2
+BATCH LEVEL REJECTION
+(   34 64     /  / - 3
+
+3.4.3
+AUTOMATIC FILE REJECTION
+3   3 3 4  
+4 5
+3I
+
+
+  44 
+0 4 /
+
+  A49
+9/B 
+ 4     4 
+#0I # )    3  .
+
+  4 4/ 
+
+   400 (9G 
+
+
+
+% 64 
+
+  64   
+ 04 0
+
+--- Page 37 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 22
+3.4.4
+AUTOMATIC BATCH REJECTION
+3   3 4  /  / - 
+  3 4  
+
+
+   #0I
+4 4/ 
+
+%  # #   #0I
+
+     64 3 
+
+
+   &  )  94
+
+% 64 
+
+% /  A49
+9/B 
+#0I # )    3  4 
+
+
+% #0 $   0   H
+
+% #0 & 0   0   H
+
+   0   H
+
+
+%  & # #   #0I
+
+%  # #   #0I # )   
+     #0I
+
+ )4 $4/   0
+> 0? #0I
+
+# #   #0I
+
+ & # #   #0I
+ !E 1
+  1E
+
+)4  94      /
+
+)4 4 4 I  4 4
+
+%  $4/   #0I
+ )  94
+
+--- Page 38 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 23
+%  $4/   #0I # )  94
+
+%  $4/   #0I # )    
+   $4/   #0I
+
+3.4.5
+AUTOMATIC ENTRY DETAIL RECORD RETURN
+&.%$ )4 0
+
++00 &
+
+)4 $4/ #  &
+0  # %4
++00 / &
++00 # &
+%   3  4  
+  / - /4 3
+3 4      / 4 4  ( )
+3  ( %0 # 
+A""B
+
+ 4 4 4   /   3
+  (00@ . >)4 &?
+
+3.4.6
+ACKNOWLEDGEMENT FILE HEADER <AFH>
+& (3 . 3    4  (.
+
+
+3 /  (3  ) J()K
+
+
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ACK>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<ImmediateOrigin>
+
+
+
+<ImmediateOriginNa
+me>
+
+
+
+
+
+<FileCreationDate>
+
+--- Page 39 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 24
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+<FileCreationTime>
+
+
+
+
+
+<FileIdModifier>
+
+
+
+
+
+<FileEntryAddendaCo
+unt>
+
+
+
+
+<TotalDebitAmount>
+
+
+
+
+<TotalCreditAmount>
+
+
+
+
+
+
+<BatchCount>
+
+
+
+<ProcessDate>
+
+0 F 88 
+
+<ProcessTime>
+
+0 F
+
+
+
+<FileRejectStatus>
+
+
+
+
+F . 0  
+
+
+
+<RejectReason>
+
+
+
+<ABRCount>
+
+
+
+3.4.6.1
+ACKNOWLEDGEMENT BATCH RECORD <ABR>
+( ()  4   (3 .
+
+
+
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ABR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<OriginBankID>
+
+
+
+<OriginBankName>
+
+
+
+
+
+<CompanyName>
+
+
+
+<CompanyID>
+
+
+
+
+( 464 
+
+
+<BatchNumber>
+
+
+<EffectiveEntryDate>
+
+
+
+<EntryAddendaCount
+
+
+<TotalDebitAmount>
+
+
+
+
+
+<TotalCreditAmount>
+
+
+
+<RejectReason>
+
+--- Page 40 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 25
+3  &.%$ )4  4  000 )4 ) #  0
+
+3.5.1
+AUTOMATED RETURN ENTRY
+   /   00     3 3
+4   (4 )4 &   
+ 3       3 44 00  (4
+
++    (4 )4 &  / 00 /  &.%$ 
+
+D  (4 )4 &  00   #0I
+
+ )   &  )   #0I
+%&Q % 4 
+? % &#  A)&%B 
+
+% (4 )4 &     3   /4 
+  0   040
+4 /  3 /   4/ 3 
+
+  4 4 000     
+
+ 3    / 4 /
+
+ #0I
+
+ ) 3 3   
+ 4 00
+
+%   64  
+)I( ) 0  
+409 4
+
+
+3.5.2
+RETURN ENTRY DETAIL RECORD <ERD>
+%&Q . )4 & 
+    4 3 
+
+--- Page 41 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 26
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode> 1
+
+
+
+
+
+<ReceivingBank> 2
+
+) / )% 34 
+
+<CheckDigit> 3
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+
+<IDNumber> 4
+
+
+
+
+90
+
+<ReceiverName> 4
+
+<DiscretionaryData>
+
+
+
+90
+
+
+<ADRIndicator>
+
+
+
+
+
+<TraceNumber> 5
+
+
+ 64
+
+
+
+#   000 )4 & % #
+% # 4 4  A# 4B  (00@
+#   )4 $4/ 
+ 4   )4
+
+/   )4 $4/   0
+79
+
+
+
+. #+&  0 7
+9;7  4
+;9 +4
+$  0 ;;9=E  4
+  !!9 +4
+
+#   % $4/  /  4 00 
+(4 )4 &
+
+--- Page 42 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 27
+3.5.3
+RETURN CORPORATE ENTRY DETAIL RECORD <CTX>
+%&Q . )4 & 
+    4 3 
+
+Field XML Element
+Req
+Type
+Size
+Description
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+4  0 
+
+<TransactionCode> 1
+
+
+
+<ReceivingBank> 2
+
+) / )% 34 
+<CheckDigit> 3
+
+
+
+<DFIAccountNum>
+
+% )L 4 
+<Amount>
+
+
+<IdNumber>
+
+
+
+
+90
+<ADRCount>
+
+<BEFTNData>
+
+
+
+
+&.%$90
+
+
+
+<ReceivingCompanyId> )
+
+
+
+<DiscretionaryData>
+
+
+
+
+<ADRIndicator>
+
+
+
+
+F $ ( ) 0
+
+F ( )  0
+
+<TraceNumber> 4
+
+
+ 4 4/
+   64
+
+
+
+
+#   000 )4 & % #
+% # 4 4  A# 4B  % )4
+(00@ %3
+#   )4 $4/ 
+ 4   )4
+
+/   )4 $4/   J)K
+
+#   % $4/  /  4 4
+
+--- Page 43 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 28
+3.5.4
+RETURN ADDENDA RECORD
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ADR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 (
+
+
+<AddendaTypeCode>
+
+  P""L
+
+<ReturnReason>
+
+)4 )  0
+(00@ E
+
+<OriginalTraceNumbe
+r> 1
+
+
+
+
+<DateOfDeath> 2
+
+ 88 
+
+<OriginalReceivingBa
+nk> 3
+
+
+
+
+
+<AddendaInformation
+
+
+
+<TraceNumber>
+
+
+
+
+ J%$4/K &  )
+% / 4  3 )4 # )
+
+ J)K 
+
+
+4 )4 &   / 0 3  &.%$ )4
+
+3 @ 0
+ 00  4 )4 &Q
+& 4 )4 &  / 
+  64 
+
+
+
+ /    4 / 4
+
+% % # 4   &  ) 4 /  !
+
+  (4 1
+ 1E
+  (4 7
+ 7E
+2 * (4  ;
+
+( %0 # A""B 4 / 4     
+  4 4 
+
+  (4 4 )4 &Q
+ 1" 9 ;1   )4 % $4/
+
+--- Page 44 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 29
+ ;7 9 ;E   )4  
+ ;= 9 ;C   )4 ) #
+3.6.1
+DISHONOURED RETURN BATCH HEADER
+RECORD <BHR>
+%&Q .  )4 & 
+  )4 & 4 3 
+
+Field XML Element
+Req
+Type Size
+Description
+
+
+<BHR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+4  0 /
+
+<ServiceClassCode>
+
+<CompanyName>
+
+
+<CompanyDiscretionaryDat
+
+
+
+<CompanyID>
+
+
+
+
+( 464 
+
+<SECC>
+
+<CompanyEntryDesc>
+
+
+
+
+
+90
+
+
+<CompanyDescDate>
+
+
+
+90
+
+<EffectiveEntryDate>
+
+90
+
+
+
+<SettlementJDate>
+
+
+<OrigStatusCode> 1
+
+
+
+
+<OrigBank> 2
+
+
+ / )% 34 
+
+<BatchNumber> 3
+
+
+
+
+
+  )4 $4/ 
+
+#    $4/  /  4 00 
+
+--- Page 45 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 30
+3.6.2
+DISHONOURED RETURN CORPORATE ENTRY DETAIL
+RECORD <EDR>
+%&Q .  )4 & 
+  )4  4 3 
+
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode>
+
+
+
+
+
+<ReceivingBank> 1
+
+) / )% 34 
+
+<CheckDigit> 2
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+
+<IDNumber>
+
+
+
+
+90
+
+<ReceiverName>
+
+<DiscretionaryData>
+
+
+
+90
+
+
+
+
+<ADRIndicator>
+
+
+
+
+
+
+
+<TraceNumber> 3
+
+
+ 64
+
+
+
+#   )4 $4/ 
+
+/   )4 $4/   0
+79
+
+
+
+#   % $4/  /  4 00 
+
+--- Page 46 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 31
+3.6.3
+DISHONOURED RETURN ENTRY DETAIL
+RECORD <EDR>
+%&Q . 4 )4 & 
+  )4 & 4 3 
+
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode>
+
+
+
+
+
+<ReceivingBank> 1
+
+) / )% 34 
+
+<CheckDigit> 2
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+
+<IDNumber>
+
+
+
+
+90
+
+<ReceiverName>
+
+<DiscretionaryData>
+
+
+
+90
+
+
+
+
+<ADRIndicator>
+
+
+
+
+
+
+
+<TraceNumber> 3
+
+
+ 64
+
+
+
+#   )4 $4/ 
+4 )4 & >  
+
+/   )4 $4/   J)K
+
+#   % $4/  /  4 00 
+4 )4 & >   ) 
+
+--- Page 47 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 32
+3.6.4
+DISHONOURED RETURN ENTRY ADDENDA
+RECORD <ADR>
+Field XML Element
+Req
+Type
+Size
+Description
+
+
+<ADR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+4  0 ( )
+
+<AddendaTypeCode>
+
+  P""L
+<DishonouredReturnRea
+son>
+
+)4 )  0
+> (00@ E
+<OriginalTraceNumber>
+
+
+
+<OriginalReceivingBank
+
+
+<ReturnTraceNumber>
+
+
+
+<ReturnSettlementDate>
+
+<ReturnReason>
+
+)4 )  0
+> (00@ E
+<AddendaInformation> 3
+
+
+
+
+<TraceNumber> 4
+
+
+
+
+ J%$4/K 
+
+ J)K 
+
+ 3  4 )4 / )4 )
+D 4 )4 ) # )E" 
+4   000 >?
+   /3 0 /
+  >V? 3  ( +
+ (4 4 )4   
+
+>?  3   4Q
+
+
+
+
+)4 # + .+ (4 $4/
+
+
+
+
+)4 # +  (4
+
+
+)4 # + +4 +
+$4/I+
+
+
+
+
+)4 # + #0 +
+
+
+
+. @0Q
+
+1V
+
+--- Page 48 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 33
+. (4 4 )4   
+4  J%$4/K 
+
+
+3.7.1
+BATCH HEADER RECORD
+%&Q . # 4 )4 & 
+#0I
+)4 & 4 3 
+
+Field XML Element
+Req
+Type Size
+Description
+
+
+<BHR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+4  0 /
+
+<ServiceClassCode>
+
+<CompanyName>
+
+
+<CompanyDiscretionaryDat
+
+
+
+<CompanyID>
+
+
+
+
+( 464 
+
+<SECC>
+
+<CompanyEntryDesc>
+
+
+
+
+
+90
+
+
+<CompanyDescDate>
+
+
+
+90
+
+<EffectiveEntryDate>
+
+90
+
+
+
+<SettlementJDate>
+
+
+<OrigStatusCode> 1
+
+
+
+
+<OrigBank> 2
+
+
+ / )% 34 
+
+<BatchNumber> 3
+
+
+
+
+ # 4 )4 & >   ) 
+4 )4 &?
+
+--- Page 49 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 34
+  )4 $4/ 
+# 4 )4 & >   ) 
+4 )4 &?
+
+#    $4/  /  4 00 
+# 4 )4 &
+
+3.7.2
+CONTESTED DISHONOURED RETURN CORPORATE
+ENTRY DETAIL RECORD
+%&Q . # 4 )4 & 
+  4 )4 
+4 3 
+
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode>
+
+
+
+
+
+<ReceivingBank> 1
+
+) / )% 34 
+
+<CheckDigit> 2
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+
+<IDNumber>
+
+
+
+
+90
+
+<ReceiverName>
+
+<DiscretionaryData>
+
+
+
+90
+
+
+<ADRIndicator>
+
+
+
+
+
+<TraceNumber> 3
+
+
+ 64
+
+
+
+#   )4 $4/ 
+ 4 )4
+
+/   )4 $4/   J)K
+
+--- Page 50 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 35
+#   % $4/  /  4 00 
+# 4 )4 & >   ) 
+4 )4 &?
+
+3.7.3
+CONTESTED DISHONOURED RETURN ENTRY DETAIL
+RECORD
+%&Q . # 4 )4 & 
+  4 )4 & 4
+
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode>
+
+
+
+
+
+<ReceivingBank> 1
+
+) / )% 34 
+
+<CheckDigit> 2
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+
+<IDNumber>
+
+
+
+
+90
+
+<ReceiverName>
+
+<DiscretionaryData>
+
+
+
+90
+
+
+
+
+<ADRIndicator>
+
+
+
+
+
+
+
+<TraceNumber> 3
+
+
+ 64
+
+
+
+#   )4 $4/ 
+
+/   )4 $4/   0
+79
+
+
+
+#   % $4/  /  4 00 
+
+--- Page 51 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 36
+
+3.7.4
+CONTESTED DISHONOURED RETURN ADDENDA
+RECORD
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ADR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 (
+
+
+<AddendaTypeCode>
+
+  P""L
+
+<ContestedDishouner
+edRRC>
+
+# 4 )4
+
+<OriginalTraceNumbe
+r> 1
+
+
+
+
+<OriginalReturnDate>
+
+
+88 
+
+<OriginalReceivingBa
+nk> 2
+
+
+
+<OriginalSettlementD
+ate>
+
+
+<ReturnTraceNumber
+
+
+)4 % $4/
+
+<ReturnSettlementDat
+
+
+
+
+<ReturnReasonCode>
+
+)4 )  0
+> (00@ E
+
+
+<DishonouredRTN>
+
+
+4 )4 %
+
+<DishonouredRSD>
+
+4 )4 
+
+<DishonouredRRC>
+
+4 )4 )
+
+<TraceNumber> 3
+
+
+
+
+ J%$4/K 
+4 )4 &
+
+ J)K 
+4 )4 &
+
+. (4 # 4 )4   
+3 % $4/
+4  J%$4/K 
+
+--- Page 52 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 37
+  % )4  )    # )4 /  
+# 4 )4 3   A)=7
+  # 4 )4
+
+(-4   4H /  ) 3 40  
+)   /  3  3  0 44H
+
+(-4   0 3 
+
+
+
+
+     /  3 40  4
+
+% 4/9 J#0&K 
+)K 4   3 A)&&)(*B 3  /  
+
+3.10.1
+REVERSING ENTRY
+ / 4   3  000
+
+
+
+3.11.1
+AUTOMATED NOTIFICATION OF CHANGE
+3.11.1.1
+BATCH HEADER RECORD <BHR>
+ #0I
+
+    4 3
+
+Field XML Element
+Req
+Type Size
+Description
+
+
+
+<BHR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+4  0 /
+
+
+<ServiceClassCode>
+
+--- Page 53 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 38
+Field XML Element
+Req
+Type Size
+Description
+
+<CompanyName>
+
+
+
+<CompanyDiscretionaryDat
+
+
+
+
+<CompanyID>
+
+
+
+
+( 464 
+
+
+<SECC> 1
+
+
+<CompanyEntryDesc> 2
+
+
+
+
+
+90
+
+
+
+<CompanyDescDate>
+
+
+
+90
+
+
+<EffectiveEntryDate>
+
+90
+
+
+
+
+
+<SettlementJDate>
+
+
+
+
+<OrigStatusCode> 3
+
+
+
+
+
+<OrigBank> 4
+
+
+ / )% 34 
+
+
+<BatchNumber> 5
+
+
+
+
+
+
+
+  )4 $4/ 
+
+#   / 4/  /  4 00 
+
+3.11.1.2
+CORPORATE ENTRY DETAIL RECORD <EDR>
+    4 3
+
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode> 1
+
+--- Page 54 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 39
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+<ReceivingBank> 2
+
+) / )% 34 
+
+<CheckDigit> 3
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+ / H9
+
+
+<IdNumber>
+
+
+
+
+90
+
+<ADRCount>
+
+
+<BEFTNData>
+
+
+
+
+&.%$90
+
+
+<ReceivingCompanyId
+
+
+<DiscretionaryData>
+
+
+
+
+<ADRIndicator>
+
+
+
+
+
+
+<TraceNumber> 4
+
+
+ 64
+
+
+
+#   000 % #
+
+#   )4 $4/ 
+
+/   J)K )4 $4/
+
+#   % $4/  /  4 00 
+
+3.11.1.3
+ENTRY DETAIL RECORD <EDR>
+    4 3 
+
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode> 1
+
+
+
+
+
+
+<ReceivingBank> 2
+
+) / )% 34 
+
+<CheckDigit> 3
+
+--- Page 55 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 40
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+ / H9
+
+<IndividualId> 4
+
+
+
+
+
+<IndividualName> 4
+
+
+<DiscretionaryData>
+
+
+
+
+
+
+<ADRIndicator>
+
+
+
+
+
+
+
+<TraceNumber> 5
+
+
+ 64
+
+
+
+#   000 $
+> % # 4 4  A# 4B
+ (00@ %3
+#   )4 $4/ 
+
+/   )4 $4/   0
+79
+
+
+
+. #+&  J+4+K  4
+$  J+4$K 4
+
+#   % $4/  /  4 00 
+
+3.11.1.4
+ADDENDA RECORD <ADR>
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ADR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 (
+
+
+<AddendaTypeCode>
+
+  P"CL
+
+<ChangeCode>
+
+
+<OriginalEntryTN> 1
+
+
+
+
+<OriginalReceivingBa
+nk> 2
+
+
+
+
+<CorrectedData>
+
+--- Page 56 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 41
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+<AddendaSeqNum>
+
+64 4/ 
+
+
+( 64
+
+
+
+<EntryDetailSeqNum>
+
+
+
+
+
+ J%$4/K 
+
+ J)K 
+)L )4 $4/?
+
+
+3.12.1
+BATCH HEADER RECORD <BHR>
+ #0I
+#  4 3 
+
+Field XML Element
+Req
+Type Size
+Description
+
+
+<BHR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+4  0 /
+
+
+<ServiceClassCode>
+
+
+<CompanyName>
+
+
+
+<CompanyDiscretionaryDat
+
+
+
+
+<CompanyID>
+
+
+
+
+( 464 
+
+
+<SECC>
+
+
+<CompanyEntryDesc>
+
+
+
+
+
+90
+
+
+
+<CompanyDescDate>
+
+
+
+90
+
+
+<EffectiveEntryDate>
+
+90
+
+
+
+
+
+<SettlementJDate>
+
+
+
+
+<OrigStatusCode> 1
+
+
+
+
+
+<OrigBank> 2
+
+
+ / )% 34 
+
+--- Page 57 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 42
+Field XML Element
+Req
+Type Size
+Description
+
+
+<BatchNumber> 3
+
+
+
+
+
+
+
+  )4 $4/ 
+
+
+#    $4/  /  4 00 
+
+3.12.2
+CORPORATE ENTRY DETAIL RECORD <EDR>
+#  4 3 
+
+Fld
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode>
+
+
+
+
+
+
+<ReceivingBank> 1
+
+) / )% 34 
+
+<CheckDigit> 2
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+ / H9
+
+
+<IdNumber>
+
+
+
+
+90
+
+<ADRCount>
+
+
+<BEFTNData>
+
+
+
+
+&.%$90
+
+
+<ReceivingCompanyId
+
+
+<DiscretionaryData>
+
+
+
+
+<ADRIndicator>
+
+
+
+
+
+
+<TraceNumber> 3
+
+
+ 64
+
+--- Page 58 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 43
+
+
+
+#   )4 $4/ 
+
+
+/   )4 $4/   0
+79
+
+
+
+
+#   % $4/  /  4 00 
+
+3.12.3
+ENTRY DETAIL RECORD <EDR>
+    4 3 
+
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<EDR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 
+
+
+<TransactionCode>
+
+
+
+
+
+
+<ReceivingBank> 1
+
+) / )% 34 
+
+<CheckDigit> 2
+
+
+
+
+<DFIAccountNum>
+
+% )L 4
+
+<Amount>
+
+
+ / H9
+
+<IndividualId>
+
+
+
+
+
+<IndividualName>
+
+
+<DiscretionaryData>
+
+
+
+
+
+
+<ADRIndicator>
+
+
+
+
+
+
+
+<TraceNumber> 3
+
+
+ 64
+
+
+
+#   )4 $4/ 
+
+/   )4 $4/   0
+79
+
+
+
+#   % $4/  /  4 00 
+
+--- Page 59 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 44
+3.12.3.1
+ADDENDA RECORD <ADR>
+ 4  / 4   
+
+
+Field
+XML Element
+Req
+Type
+Size
+Description
+
+
+
+<ADR>
+
+
+
+
+
+
+$Q %   64  
+O * 45 3 
+
+ 4  0 (
+
+
+<AddendaTypeCode>
+
+  P"CL
+
+<RefusedCORCode>
+
+
+<OriginalEntryTN> 1
+
+
+
+
+<OriginalReceivingBa
+nk> 2
+
+
+
+
+<CorrectedData>
+
+
+
+<ChangeCode>
+
+
+<CORTraceSeqNum> 3
+
+
+3  @0 
+
+
+
+
+79
+
+  J%$4/K
+
+--- Page 60 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 45
+4 ARCHIVE
+ 3  0 /  &.%$ #
+
+
+
+
+  /    9  3 4  
+ &.%    64  
+ 4   4Q
+
+  )4 $4/
+3 / 4  4
+
+4.1.1
+FILE
+Source
+Field Id
+<FHR>
+<PriorityCode>
+<FHR>
+<ImmediateDestination>
+<FHR>
+<ImmediateOrigin>
+<FHR>
+<CreationDate>
+<FHR>
+<CreationTime>
+<FHR>
+<FileIdModifier>
+<FHR>
+<FormatCode>
+<FHR>
+<ImmediateDestinationName>
+<FHR>
+<ImmediateOriginName>
+<FHR>
+<ReferenceCode>
+<FCR>
+<BatchCount>
+<FCR>
+<EntryAddendaCount>
+<FCR>
+<EntryHash>
+<FCR>
+<DebitAmount>
+<FCR>
+<CreditAmount>
+4.1.2
+BATCH
+Source
+Field Id
+<BHR>
+<ServiceClassCode>
+<BHR>
+<CompanyName>
+<BHR>
+<CompanyDiscretionaryData>
+<BHR>
+<CompanyID>
+<BHR>
+<SECC>
+<BHR>
+<CompanyEntryDesc>
+<BHR>
+<CompanyDescDate>
+
+--- Page 61 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 46
+Source
+Field Id
+<BHR>
+<EffectiveEntryDate>
+<BHR>
+<SettlementJDate>
+<BHR>
+<OrigStatusCode>
+<BHR>
+<OrigBank>
+<BHR>
+<BatchNumber>
+<BCR>
+<TotalDebitAmount>
+<BCR>
+<TotalCreditAmount>
+<BCR>
+<CompanyId>
+4.1.3
+ENTRY
+Source
+Field Id
+<EDR>
+<TransactionCode>
+<EDR>
+<TraceNumber>
+<EDR>
+<ReceivingBank>
+<EDR>
+<CheckDigit>
+<EDR>
+<DFIAccountNum>
+<EDR>
+<Amount>
+<EDR>
+<AdviceRT>
+<EDR>
+<FileId>
+<EDR>
+<BEFTNData>
+<EDR>
+<ReceiverName>
+<EDR>
+<DiscretionaryData>
+<EDR>
+<ADRIndicator>
+<EDR>
+<BEFTN_RT>
+<EDR>
+<CreationJdate>
+<EDR>
+<SeqNum>
+4.1.4
+ADDENDA RECORD
+Source
+Field Id
+<ADR>
+<AddendaTypeCode>
+<ADR>
+<TraceNumber>
+<ADR>
+<PaymentInfo>
+<ADR>
+<AddendaSeqNum>
+<ADR>
+<EntryDetailSeqNum>
+<ADR>
+<ReturnReason>
+<ADR>
+<DishonouredReturnReason>
+<ADR>
+<OriginalTraceNumber> (Returns)
+<ADR>
+<AddendaInformation> (Returns)
+<ADR>
+<OriginalReceivingBank> (Returns)
+<ADR>
+<ReturnTraceNumber> (Returns)
+<ADR>
+<ReturnSettlementDate> (Returns)
+<ADR>
+<AddendaInformation> (Returns)
+<ADR>
+<ReturnTraceNumber> (Returns)
+3Q
+
+ )4 $4/
+) )4 $4/
+
+--- Page 62 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 47
+  /  / 4/ 4 0 4
+3     (+( 3  /  3 3
+000 4  0 4     4 
+
+--- Page 63 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 48
+5 REPORTS
+
+0   0 3 / 0 /  &.%$  
+D 000  0  /
+
+)0 3 4 
+3Q
+Summary of all files received
+ )4 $4/
+ & I ( #4
+File Detail (Summary of all batches in the file)
+3 / / 4 >0 /?
+o  $4/
+o #0 $
+o #0 +
+o #0 & 0
+
+ )4 $4/
+o & I ( #4
+o % / (4
+o % # (4
+Batch Detail
+3 /   >0 ?
+o % $4/
+
+--- Page 64 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 49
+o ) )4 $4/ >4 9?
+o ) (4 $4/
+o (4
+ ( 64
+o )4 (  >
+ ) )4 $4/
+o 4 )4 (  >
+ )4 % $4/
+ 4 )4 ) #
+ ) )4 $4/
+ ) (4 4/
+o 4 )4 (  >
+ )4 % $4/
+ # 4 )4 ) #
+ ) )4 $4/
+ ) (4 4/
+Summary of all files rejected
+ )4 $4/
+
+--- Page 65 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 50
+ & I ( #4
+Reject Batch Detail (Summary of all rejected batches in the file)
+3 / / 4 >0 /?
+o  $4/
+o #0 $
+o #0 +
+o #0 & 0
+
+ )4 $4/
+o & I ( #4
+o % / (4
+o % # (4
+Summary of file distribution
+ )4 $4/
+ & I ( #4
+Settlement Report
+ 4  0
+
+--- Page 66 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 51
+6 APPENDICES
+
+)4 M!N  4   4
+
+ #4 # ) >#4 0 (4?
+ #4 / ) >#4 0 (4?
+Demand Debit Records
+(4 )4  $
+G  3   >
+
+Savings Account Credit Records
+
+
+(4 )4  $
+  1! 11  17
+(4 0
+
+Savings Account Debit Records
+1E
+(4 )4  $
+  1= 1C  1"
+
+--- Page 67 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 52
+Financial Institution General Ledger Credit Records
+
+(4 )4  $
+  7! 71  77
+(4 2 * 0 >#?
+
+Loan Account Credit Records
+
+(4 )4  $
+  ;! ;1  ;7
+(4 * (4 0 >#?
+
+Loan Account Debit Records (for Reversals Only)
+(4 * (4 / >)
+(4 )4  $
+
+Automated Accounting Records (for use in ADV files only)
+
+These transaction codes represent accounting entries and
+not actual BEFTN transactions.
+
+C1
+C7
+CE
+CC
+
+--- Page 68 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 53
+
+ )4 M!N  4   4
+
+Codes To Be Used by the RB for Return Entries
+
+
+
+$ (4I'/  * (4
++ (4 $4/
+'4H /  #4 (4 ' #0 &# #
+)4 0
+L )64
+(4H ) / #4 >-4 ?
+
+ 00
+
+
+#4 ( $ (4H
+
+
+   '/  #4   #0
+(4 .H
+
+$9% (4
+
++ +4 + $4/
+40 &
+
+--- Page 69 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 54
+Codes To Be Used by the RB for Return Entries
+#0 #4 ( $ (4H
+
+BEFTN Operator Returns
++00 &
+
+)4 $4/ #  &
+
+0  # %4
+)17
++00 / &
++00 # &
+
+)4 M!N  4   4
+
+6.3.1
+NOTIFICATION OF CHANGE CODES
+
+Code
+Meaning
+
+
++  (4 $4/
++ )4 $4/
++ )4 $4/  +  (4 $4/
++ +4 $I) #0 $
+
+--- Page 70 ---
+Bangladesh Electronic Funds Transfer Network (BEFTN)
+Functional Specification
+
+
+Rev. 0-5
+CONFIDENTIAL
+Page 55
+Code
+Meaning
++  (4 $4/  + % #
++ )4 $4/ +  (4 $4/ 
+
+6.3.2
+REFUSED NOTIFICATION OF CHANGE CODES
+9#E"    / 4 3 
+
+Code
+Meaning
+
+#E1
+#E7
+ $4/I+
+#EE
+)4 $4/ $ .
+#EC
+ (4 $4/ $ .

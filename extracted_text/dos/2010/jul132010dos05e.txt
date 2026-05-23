@@ -1,0 +1,242 @@
+--- Page 1 ---
+Department of Off-site Supervision
+Bangladesh Bank
+Head Office
+Dhaka
+
+www.bangladeshbank.org.bd
+www.bb.org.bd
+Fax: +880-2-9550850
+29 Ashar,1417
+DOS Circular No. 05
+Date:
+13 July, 2010
+
+Chief Executive Officers
+All scheduled banks operating in Bangladesh
+
+Dear Sir
+
+Online submission of Weekly Statement of Position
+
+Please refer to the DBOD Circular No. 01, dated 01-01-2003, where instructions issued to
+banks related to submission of weekly statement of position through DB-1 format. As part of the
+ongoing automation in Bangladesh Bank, the format has been redesigned by incorporating
+necessary changes and it has been decided that henceforth banks shall submit the information
+directly through online. In terms of Article 36(3) of the Bangladesh Bank Order, 1972 the
+following guidelines have to be followed:
+
+2) The existing format for weekly statement of position i.e., DB-1 will be replaced by
+DOS WR-01(Excel format attached) where other instructions issued in the above circular
+will remain same.
+
+3) All scheduled banks will upload duly filled softcopy in Excel format through BB
+homepage under the menu Web Upload. Hardcopy of the same signed by two responsible
+officials along with a forwarding letter signed by Chief Financial Officer (CFO) or
+equivalent must be submitted to the Department of Off-site Supervision (DOS) within
+03(three) working days of the reporting Thursday.
+
+4) The segregated data on Islamic banking branches will have to be reported along with
+existing practice of consolidated reporting (Conventional plus Islami shahriah based) in
+weekly statement of position as furnished in the Excel format.
+
+5) Two additional statements as of 30 June and 31 December must be submitted every year
+in the same format excepting year end day happens to be Thursday.
+
+6) If any bank fails to submit the returns within the directed period of time and in any return
+wilfully or recklessly makes a statement false or omits to state a material particular shall
+be punishable with fine as laid down in the Article 36(6) and 36(7) of the Bangladesh
+Bank Order, 1972 respectively.
+
+7) Reporting in the new format will be effective from the weekend as of 5 August 2010.
+
+
+Meanwhile, you are requested to bring the matter to the notice of all concerned at your end.
+
+Please acknowledge receipt.
+
+
+Enclosure: As above.
+
+Yours sincerely,
+
+
+Sd/-
+(Sultan Ahmed)
+General Manager
+Phone- 7120376
+
+--- Page 2 ---
+Effective from August 2010
+NAME OF THE BANK
+DATE [dd/mm/yyyy]
+BANK CODE
+Item
+Code
+TOTAL Govt. Sector
+Other Public
+Sector
+Private Sector
+TOTAL
+(Islami shariah based)
+Govt. Sector
+Other Public
+Sector
+Private Sector
+1=2+3+4
+1=2+3+4
+1. DEMAND LIABILITIES IN BANGLADESH
+i) Deposits (General)
+001
+ii) Deposits from Banks
+002
+iii) Borrowing from Banks
+003
+iv) Borrowing from NBFIs
+004
+v) Other Demand Liabilities
+005
+2. TIME LIABILITIES IN BANGLADESH
+i) Deposits (General)
+011
+ii) Deposits from Banks
+012
+iii) Borrowing from Banks
+013
+iv) Other Time Liabilities
+014
+i) Against usance Bill
+021
+ii) Against Promissory Notes
+022
+iii) Against Approved Securities
+023
+iv) Other Borrowings (a+b+c+d+e)
+024
+Re-finance
+025
+Re-Discount
+026
+Repo of Treasury Bill
+027
+Rural Housing
+028
+Others
+029
+i) Against Counter Finance
+161
+ii) Against FC Loan (EDF)
+162
+iii) Against ADB/IDB Loan
+163
+Item
+Code
+Total Amount
+Govt. Sector
+Other Public
+Sector
+Private Sector
+Total Amount
+Govt. Sector
+Other Public
+Sector
+Private Sector
+1=2+3+4
+1=2+3+4
+1. CASH IN HAND
+Bangladesh Bank Notes (a+b+c+d+e+f+g)
+101
+Taka 5 Notes/Coins
+Taka 10 Notes
+Taka 20 Notes
+Taka 50 Notes
+Taka 100 Notes
+Taka 500 Notes
+Taka 1000 Notes
+ii) Bangladesh One Taka+Two Taka Notes/Coins
+102
+iii)
+103
+iv) Foreign Currency in hand eqv. BDT
+104
+2. BALANCE WITH BANGLADESH BANK
+i) Principal Office
+111
+ii) Other Offices and Branches
+112
+iii) Foreign Currency Clearing A/C
+113
+i) Sonali Bank (as agent of BB)
+121
+ii) Other Banks (including Sonali Bank Ltd.)
+122
+130
+APPROVED SECURITIES
+In Bangladesh Govt.Treasury Bill, Bangladesh
+Bank Bill,Treasury Bond, Islamic Bond, Prize
+Bond, Income Tax bond etc.
+141
+In Approved Securities in Bangladesh
+142
+ii) IN OTHERS
+143
+iii) Less: LIEN AGAINST APPROVED SECURITIES
+(if any)
+171
+6. CREDIT PROVIDED IN BANGLADESH
+Advances except those to other Banks
+151
+ii) Advances to other Banks
+152
+iii) Inland Bill purchased and discounted in Bangladesh
+153
+iv) Foreign Bill purchased and discounted in Bangladesh
+154
+Number of Reporting Branches (Total Consolidated)
+Number of Reporting Branches (Islami Shahriah banking)
+Signature
+Signature
+Name
+Name
+Designation
+Designation
+Telephone (D)
+Telephone (D)
+Mobile No.
+
+Mobile No.
+Fax
+Fax
+e-mail
+e-mail
+website
+website
+Govt. Sector
+Other Public
+Sector
+Private Sector
+BALANCES WITH OTHER BANKS IN BANGLADESH
+(in current account)
+MONEY AT CALL AND SHORT NOTICE IN BANGLADESH
+ITEM DESCRIPTION
+ASSETS
+Bangladesh Subsidiary Coins
+(upto nearest Taka)
+DOS WR-01
+WEEKLY STATEMENT OF POSITION (i.e. THURSDAY POSITION)
+OF SCHEDULED BANKS IN BANGLADESH
+ITEM DESCRIPTION
+Govt. Sector
+Other Public
+Sector
+Private Sector
+Only Islami Shahriah based banking data
+Consolidated Data (Conventional+Islami shahriah)
+(Figure in Thousand BDT)
+INVESTMENT IN SECURITIES
+(In Book Value)
+BORROWING FROM THE BANGLADESH BANK
+(IN FOREIGN CURRENCY)
+LIABILITIES
+BORROWING FROM THE BANGLADESH BANK
+(IN LOCAL CURRENCY)

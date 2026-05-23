@@ -1,0 +1,86 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+www.bb.org.bd
+
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+November 16, 2011
+BRPD Circular No-09 Date:---------------------------
+Agrahayan 02, 1418
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+Mapping of External Credit Assessment Institutions’ (ECAIs)
+rating scales with Bangladesh Bank (BB) Rating Grade
+
+Please refer to BRPD Circular No. 35 dated December 29, 2010 regarding the issuance of
+Guidelines on Risk Based Capital Adequacy (RBCA) for banks. According to the guidelines, Risk
+Weighted Asset (RWA) against Credit Risk is to be computed on the basis of credit rating conducted
+by External Credit Assessment Institutions (ECAIs) duly recognized by Bangladesh Bank (BB).
+Consequently, calculated RWA and Capital Adequacy Ratio (CAR) will be reported as per specific
+reporting formats enclosed in the RBCA guidelines.
+
+2) From this point of view, ARGUS Credit Rating Services Limited (ACRSL) has been
+recognized as an eligible ECAI in addition to existing 04 (Four) rating agencies (i.e. CRISL, CRAB,
+NCRL and ECRL). All the scheduled banks operating in Bangladesh may nominate any one or more
+rating agency (ies) for their own and counterparty credit rating for the purpose of calculating RWA
+against credit risk as per RBCA Guidelines.
+
+3) The mapping of rating scales of CRISL, CRAB, NCRL and ECRL with BB rating grades
+has already been specified in the Guidelines. Now, the rating scales of ARGUS have been mapped
+with BB rating grades as given below:
+
+
+
+Please acknowledge receipt.
+
+
+
+
+
+
+
+
+Yours Sincerely,
+
+
+(K. M. Abdul Wadood)
+General Manager
+Phone: 7117825
+
+Long Term
+Short Term
+BB’s Rating
+Grade
+Equivalent Notch/Notation of ACRSL
+BB’s Rating
+Grade
+Equivalent Notch/Notation of
+ACRSL
+AAA
+S1
+ST-1
+AA+, AA, AA-
+A+, A, A-
+S2
+ST 2
+BBB+, BBB, BBB-
+S3
+ST 3
+BB+, BB, BB-
+S4
+ST 4
+B+, B, B-,CC+,CC,CC-
+S5
+ST-5
+C+, C, C-, D
+S6
+ST-6
+* Includes Default Rating (DR)

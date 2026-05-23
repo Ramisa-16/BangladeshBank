@@ -1,0 +1,73 @@
+--- Page 1 ---
+RFTICT UIRT
+raT, 1-o00
+website: www.bb.org.bd
+9FTTD4TE ATFT R-od/2oRR
+TA:---
+NRM,
+P"GUIDELINES OF FC CLEARING THROUGH BD-RTGS SYSTEMS"
+7T3 3,
+(TATE WTT T)
+T-7(9NTANTG)
+T: O-tooc8e
+
+--- Page 2 ---
+GUIDELNES OF Fc CLEARING THROUGH BD-RTGS SYSTEM
+GUIDELINES OF FC CLEARING THROUGH BD-RTGS SYSTEM
+Bangladesh Bank has been providing clearing and settlement services for local currency as well as
+approved foreign currencies within the country since long time. Forex Reserve and Treasury Management
+Department of Bangladesh Bank executes clearing and settlement through maintaining FC accounts in
+approved currencies of scheduled banks. However, the whole FC Clearing and settlement process is still
+manual and paper instrument based which require physical movement of instruments and officials
+resulting in higher transaction cost and inconvenience. To overcome this problem, Bangladesh Bank has
+decided to introduce FC clearing and settlement through the RTGS system.
+To facilitate safe, secure and efficient interbank payment system, Bangladesh Bank launched Real
+Time Gross Settlement (BD-RTGS) system on 29h October 2015 as part of its inclusive digitization
+initiative. BD-RTGS opened a new horizon in the payment ecosystem, accommodating instant settlement
+of large value and time critical payments in the country. RTGS system is capable of operating both in
+local currency and foreign currency. Now Bangladesh Bank is introducing clearing and settlement in
+S(Five) foreign currency [US Dollar (USD), Great Britain Pound(GBP), Euro (EUR), Canadian Dollar
+(CAD), Japanese Yen (JPY)] transactions inside the country. Mentionable that, the Clearing & Settlement
+of Chinese Yuan (CNY) will be incorporated in the RTGS system soon. RTGS is a credit transfer system
+and operation of the FC in RTGS system is similar to that of local currency (BDT) settlement system. At
+the beginning of each business day, Banks' specific FC account will be debited and the related RTGS
+settlement account will be credited as per Standing Instruction of the participants. Then, as per instruction
+of participants, transactions will be settled instantly and fund will be transferred to the beneficiary's
+account. The transaction will be settled only when the RTGS settlement Account of a specif+c currency
+has sufficient balance. At the end of the business day, balance of settlement account of RTGS system will
+be transferred to Banks' specific FC account. Thus FC clearing through RTGS system will eliminate
+settlement risk as well as credit risk for the participants.
+The features and prerequisites for inland FC clearing through the RTGS system are as follows:
+BD-RTGS is a stand-alone system; no other payment platform is connected to this system.
+Page 1 of 2
+
+--- Page 3 ---
+GUIDELINES OF FC CLEARING THROUGH BD-RTGS SYSTEM
+Banks have to maintain FC Accounts with Bangladesh Bank to originate and receive FC
+transactions in RTGS system.
+RTGS system allows only currency-wise transaction; cross-currency transaction is not allowed.
+4. Any amount of FC transaction can be settled through RTGS system.
+AD branches and Head ofice clearing unit of banks can originate and receive FC transactions in
+RTGS system.
+SOD (Start of Day) Fund transfer, Top-Up and EOD (End of Day) reconciliation will be
+executed by Forex Reserve & Treasury Management Department of Bangladesh Bank.
+To execute customer transaction, Originating Bank has to mention the originator account type as
+well as beneficiary account type (such as ERQ, SFCAMS, RFCD, NFCD, PFCD, NRB FCY,
+Airlines, Shipping FCY, Intra-EPZ, Inter-EPZ etc) in the account information field of the
+instruction.
+Originating Bank has to mention the purpose of the transaction properly; this field will be treated
+as mandatory in case of FC settlement. Bank can also provide additional information in other
+fields of the message.
+9. Bank can charge maximum BDT100 (Including VAT) or equivalent FC for each transaction
+from the originator.
+10. Intraday Liquidity Facility (ILF) will not be available for FC transactions in RTGS system.
+11. Each Bank will prepare their BCP, operation procedure & guidelines and maintain separate
+reconciliation team for FC settlement.
+12. Banks shall follow the Guidelines of Foreign Exchange Transactions (GFET) while originating
+and posting a transaction as and when applicable.
+13. For FC transaction through RTGS system, section 4.2 of BD-RTGS System Rules will be
+relaxed but transaction shall be posted to the beneficiary account ithin 2 (Two) hours of the
+settlement instruction from BD-RTGS, otherwise to be returned.
+14. All other rules and procedures of local currency settlement as well as BD-RTGS system Rules
+will be applicable to FC settlement through the RTGS system.
+Page 2 of 2

@@ -1,0 +1,1920 @@
+--- Page 1 ---
+Payment Systems Department
+Bangladesh Bank
+Head Office, Dhaka­1000
+Website: http://www.bb.org.bd
+
+PSD Circular No. – 02/2012
+
+Date:
+November 7, 2012
+
+Managing Director/CEO
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+BIN List for Local Proprietary Cards
+
+Please refer to the DCMPS (PSD) Circular No. 02/2012 dated March 20, 2012 regarding
+Implementation of National Payment Switch Bangladesh (NPSB).
+
+Bangladesh Bank (BB) has already initiated implementation of NPSB in order to create a common
+platform for the card based payments, internet payments and mobile banking. The deadline to complete
+this work is December 31, 2012. By this time required hardware and standard software has been
+installed in the Data Center (DC) and Disaster Recovery (DR) site of Bangladesh Bank successfully and
+now the customization of switching software installation work is running in full swing.
+
+In order to create an enabling environment for implementing NPSB in projected time limit
+Implementation Monitoring Committee (IMC), the steering committee of NPSB, has decided to follow the
+undermentioned issues –
+
+1. From now on Bangladesh Bank will issue BINs for local proprietary cards issued by all banks.
+The format of which will be as under –
+
+Prefix
+Bank Code
+BIN Range
+9 (nine)
+3 digit Bank Code as used in
+existing Routing Numbers
+01 to 99 for up to 99 different products for
+every commercial bank, non‐bank financial
+institute and Bangladesh Post Office (BPO)
+
+For example, the BIN for ABC Bank’s Debit Card and Student Card are as follows –
+
+Product Name
+Prefix
+Bank Code
+BIN Range
+BIN
+Standard Debit Card
+333
+01
+933301
+Student Card
+333
+02
+933302
+
+As the BINs for existing local proprietary cards are already in use by a huge number of bank
+customers, NPSB would accommodate the existing BINs along with the newly defined BINs
+by the BB. The old BINs of the local proprietary cards should gradually be phased out.
+
+2. From now on only ‘Single Message System (SMS)’ should be following for local POS
+transactions going through NPSB. The swiped amount in the POS should be equal to the
+settlement amount.
+
+In this regards, commercial banks, non‐bank financial institutions and other entities i.e.
+Bangladesh Post Office are requested to do the following things –
+
+1. Apply to Payment Systems Department of Bangladesh Bank for assigning new BIN in order to
+introduce new card based products from the date of issuance of this circular onward;
+2. Gradually phase out existing BINs of the local proprietary that are already in use by their
+system.
+3. Follow ‘Single Message System (SMS)’ for local POS transactions to ensure that the swiped
+amount in the POS should be equal to the settlement amount.
+
+A compiled list of existing BINs of local proprietary cards and newly assigned BINs for the same
+is attached herewith for taking necessary action at your end.
+
+Treat this as very urgent.
+
+Please acknowledge receipt.
+
+--- Page 2 ---
+Existing and Assigned BINs for the Commercial Banks
+November 6, 2012
+
+Sl
+Bank
+Product
+Debit/Credit
+Currency
+Existing BIN
+of All
+Cards
+New BIN
+for
+Proprietary
+Cards
+Dutch‐Bangla Bank Limited
+DBBL Nexus
+Debit
+BDT
+100001
+909001
+Dutch‐Bangla Bank Limited
+DBBL Maestro
+Debit
+BDT/USD
+627959
+
+Dutch‐Bangla Bank Limited
+DBBL VISA Electron
+Debit
+BDT
+444519
+
+Dutch‐Bangla Bank Limited
+DBBL VISA Multi‐Currency Classic
+Credit
+BDT/USD
+444515
+
+Dutch‐Bangla Bank Limited
+DBBL VISA Local Classic
+Credit
+BDT
+444516
+
+Dutch‐Bangla Bank Limited
+DBBL VISA Multi‐Currency Gold
+Credit
+BDT/USD
+444517
+
+Dutch‐Bangla Bank Limited
+DBBL VISA Local Gold
+Credit
+BDT
+444518
+
+Dutch‐Bangla Bank Limited
+DBBL M‐Chip Debit
+Debit
+BDT/USD
+557667
+
+Dutch‐Bangla Bank Limited
+Bangladesh Bank
+Debit
+BDT
+100002
+909002
+Dutch‐Bangla Bank Limited
+DBBL M‐Chip Credit Classic
+Credit
+BDT
+542128
+
+Dutch‐Bangla Bank Limited
+DBBL M‐Chip Credit Gold
+Credit
+BDT/USD
+530865
+
+Dhaka Bank Limited
+VISA Credit
+Credit
+BDT
+424938
+
+Dhaka Bank Limited
+VISA Credit
+Credit
+BDT/USD
+424939
+
+Dhaka Bank Limited
+VISA Credit
+Credit
+BDT
+424940
+
+Dhaka Bank Limited
+VISA Credit
+Credit
+BDT/USD
+424941
+
+Dhaka Bank Limited
+VISA Debit
+Debit
+BDT
+488911
+
+Dhaka Bank Limited
+VISA Prepaid
+Prepaid
+BDT/USD
+489032
+
+Dhaka Bank Limited
+Proprietory Debit
+Debit
+BDT
+603590
+908501
+Standard Chartered Bank
+VISA Pre Paid Gift Card
+Pre‐paid
+BDT
+421452
+
+Standard Chartered Bank
+VISA Prepaid Travel Card
+Pre‐paid
+USD
+421451
+
+Standard Chartered Bank
+VISA Classic‐ USD
+Credit
+USD
+426376
+
+Standard Chartered Bank
+VISA Gold‐ USD
+Credit
+USD
+426378
+
+Standard Chartered Bank
+Visa Platinum ‐ USD
+Credit
+USD
+470691
+
+Standard Chartered Bank
+VISA Silver
+Credit
+BDT
+426377
+
+Standard Chartered Bank
+Visa Classic ‐ Global Card
+Credit
+BDT
+432155
+
+Standard Chartered Bank
+Visa Gold ‐ Global
+Credit
+BDT
+455445
+
+Standard Chartered Bank
+Visa Platinum ‐ Global
+Credit
+BDT
+486294
+
+Standard Chartered Bank
+Visa Signature Conventional
+Credit
+BDT
+457204
+
+Standard Chartered Bank
+VISA Classic‐Saadiq
+Credit
+BDT
+434923
+
+Standard Chartered Bank
+VISA Classic‐Saadiq
+Credit
+BDT
+434924
+
+Standard Chartered Bank
+Visa Platinum‐Saadiq
+Credit
+BDT
+470692
+
+Standard Chartered Bank
+Visa Signature Saadiq
+Credit
+BDT
+457205
+
+Standard Chartered Bank
+VISA DEBIT SILVER‐Priority
+Debit
+BDT
+421474
+
+Standard Chartered Bank
+VISA DEBIT SILVER‐ Regular
+Debit
+BDT
+421481
+
+Standard Chartered Bank
+VISA DEBIT PLATINUM
+Debit
+BDT
+436462
+
+Standard Chartered Bank
+VISA DEBIT‐RFCD
+Debit
+USD
+411144
+
+Standard Chartered Bank
+VISA DEBIT Gold
+Debit
+BDT
+484757
+
+Standard Chartered Bank
+Master Standard
+Credit
+BDT
+545091
+
+Standard Chartered Bank
+Master Std ‐ Global Card
+Credit
+BDT
+512815
+
+Standard Chartered Bank
+Master Gold Local
+Credit
+BDT
+546859
+
+Standard Chartered Bank
+Master Gold ‐ Global
+Credit
+BDT
+512760
+
+Standard Chartered Bank
+Master Platinum Local
+Credit
+BDT
+552079
+
+Standard Chartered Bank
+Master Platinum‐ Global
+Credit
+BDT
+524360
+
+Standard Chartered Bank
+VISA ATM Acquiring
+Credit
+BDT
+463729
+
+Standard Chartered Bank
+Visa POS Acquiring
+Credit
+BDT
+472147
+
+Standard Chartered Bank
+Visa Preferred Platinum
+Debit
+BDT
+469627
+
+Standard Chartered Bank
+Visa Platinum USD
+Debit
+USD
+469626
+
+Standard Chartered Bank
+MasterCard Acquiring
+Credit
+BDT
+520667
+
+Rupali Bank Ltd.
+Proprietory Debit
+Debit
+BDT
+140000
+918501
+Islami Bank BD Ltd.
+Proprietory Debit
+Debit
+BDT
+603588
+912501
+Eastern bank Ltd.
+VISA GOLD LOCAL
+Credit
+BDT
+434979
+
+--- Page 3 ---
+Sl
+Bank
+Product
+Debit/Credit
+Currency
+Existing BIN
+of All
+Cards
+New BIN
+for
+Proprietary
+Cards
+Eastern bank Ltd.
+VISA GOLD DUAL
+Credit
+BDT/USD
+434980
+
+Eastern bank Ltd.
+VISA CLASSIC LOCAL
+Credit
+BDT
+434977
+
+Eastern bank Ltd.
+VISA CLASSIC DUAL
+Credit
+BDT/USD
+434978
+
+Eastern bank Ltd.
+VISA PLATINUM DUAL
+Credit
+BDT/USD
+467922
+
+Eastern bank Ltd.
+VISA CORPORATE
+Credit
+BDT/USD
+469821
+
+Eastern bank Ltd.
+VISA SIGNATURE DUAL
+Credit
+BDT/USD
+437848
+
+Eastern bank Ltd.
+VISA DEBIT CARD
+Debit
+BDT
+437740
+
+Eastern bank Ltd.
+VISA LIFE STYLE DEBIT
+Debit
+BDT
+450088
+
+Eastern bank Ltd.
+VISA HAJJ DEBIT
+Debit
+USD
+428402
+
+Eastern bank Ltd.
+VISA TRAVEL DEBIT
+Debit
+USD
+428407
+
+Eastern bank Ltd.
+VISA GLOBAL DEBIT
+Debit
+USD
+484840
+
+Eastern bank Ltd.
+VISA CB CORPORATE DEBIT
+Debit
+BDT
+489339
+
+Eastern bank Ltd.
+VISA PAYROLL DEBIT
+Debit
+BDT
+489340
+
+Eastern bank Ltd.
+VISA PLATINUM DEBIT
+Debit
+BDT/USD
+470499
+
+Eastern bank Ltd.
+VISA SIGNATURE DEBIT
+Debit
+BDT/USD
+468537
+
+Eastern bank Ltd.
+VISA BUSINESS DEBIT
+Debit
+BDT
+470681
+
+Mercantile Bank Ltd.
+VISA VP
+Prepaid
+BDT/USD
+418153
+
+Mercantile Bank Ltd.
+VISA VDD
+Debit
+BDT
+422088
+
+Mercantile Bank Ltd.
+VISA VIC
+Credit
+BDT/USD
+422089
+
+Mercantile Bank Ltd.
+VISA VDC
+Credit
+BDT
+422090
+
+Mercantile Bank Ltd.
+VISA VIG
+Credit
+BDT/USD
+422091
+
+Mercantile Bank Ltd.
+VISA VDG
+Credit
+BDT
+422092
+
+Mercantile Bank Ltd.
+VISA Platinum
+Credit
+BDT/USD
+459874
+
+National Bank Ltd.
+VISA LOCAL
+Prepaid
+BDT
+409391
+
+National Bank Ltd.
+VISA DUAL
+Prepaid
+BDT/USD
+409390
+
+Shahjalal Islami Bank Ltd.
+VISA VE
+Debit
+BDT
+418129
+
+Shahjalal Islami Bank Ltd.
+VISA VP
+Prepaid
+BDT/USD
+418128
+
+Shahjalal Islami Bank Ltd.
+Q‐Cash Prepaid Card
+Prepaid
+BDT
+700701
+919001
+Shahjalal Islami Bank Ltd.
+Q‐Cash Prepaid Card
+Prepaid
+BDT
+700781
+919002
+Shahjalal Islami Bank Ltd.
+Q‐Cash Prepaid Card
+Prepaid
+BDT
+700791
+919003
+10
+Trust Bank Ltd.
+VISA VDC
+Credit
+BDT
+418116
+
+10
+Trust Bank Ltd.
+VISA VIC
+Credit
+BDT/USD
+418115
+
+10
+Trust Bank Ltd.
+VISA VDG
+Credit
+BDT
+418114
+
+10
+Trust Bank Ltd.
+VISA VIG
+Credit
+BDT/USD
+418112
+
+10
+Trust Bank Ltd.
+VISA VE
+Debit
+BDT
+418117
+
+10
+Trust Bank Ltd.
+VISA VP
+Prepaid
+BDT/USD
+484828
+
+10
+Trust Bank Ltd.
+Q‐Cash Digital Salary
+Debit
+BDT
+706937
+924001
+11
+Jamuna Bank Ltd.
+VISA VDC
+Credit
+BDT
+461987
+
+11
+Jamuna Bank Ltd.
+VISA VIG
+Credit
+BDT/USD
+461988
+
+11
+Jamuna Bank Ltd.
+VISA VE
+Debit
+BDT
+461989
+
+11
+Jamuna Bank Ltd.
+VISA VDG
+Credit
+BDT
+436374
+
+11
+Jamuna Bank Ltd.
+VISA VTC
+Prepaid
+BDT/USD
+436375
+
+11
+Jamuna Bank Ltd.
+VISA VGC
+Prepaid
+BDT
+436376
+
+11
+Jamuna Bank Ltd.
+Q‐Cash QCD General
+Debit
+BDT
+707170
+913001
+12
+IFIC Bank Ltd.
+VISA VP
+Prepaid
+BDT
+490258
+
+12
+IFIC Bank Ltd.
+VISA VIC
+Credit
+BDT/USD
+490259
+
+12
+IFIC Bank Ltd.
+VISA VDC
+Credit
+BDT
+490260
+
+12
+IFIC Bank Ltd.
+VISA VDD
+Debit
+BDT
+490262
+
+12
+IFIC Bank Ltd.
+VISA VIG
+Credit
+BDT/USD
+490263
+
+12
+IFIC Bank Ltd.
+VISA VDG
+Credit
+BDT
+490264
+
+12
+IFIC Bank Ltd.
+VISA VP INTERNATIONAL
+Prepaid
+BDT/USD
+458790
+
+12
+IFIC Bank Ltd.
+VISA VID
+Int. Debit
+USD
+458598
+
+13
+Pubali Bank Ltd.
+Q‐Cash General
+Debit
+BDT
+704700
+917501
+13
+Pubali Bank Ltd.
+Visa Classic
+Credit
+BDT/USD
+400460
+
+13
+Pubali Bank Ltd.
+Visa Gold
+Credit
+BDT/USD
+400461
+
+--- Page 4 ---
+Sl
+Bank
+Product
+Debit/Credit
+Currency
+Existing BIN
+of All
+Cards
+New BIN
+for
+Proprietary
+Cards
+13
+Pubali Bank Ltd.
+Visa Platinum
+Credit
+BDT/USD
+400462
+
+13
+Pubali Bank Ltd.
+Visa Signature
+Credit
+BDT/USD
+400463
+
+13
+Pubali Bank Ltd.
+Visa Business (Silver)
+Credit
+BDT/USD
+400464
+
+13
+Pubali Bank Ltd.
+Visa Business (Gold)
+Credit
+BDT/USD
+400465
+
+13
+Pubali Bank Ltd.
+Visa Business (Platinum)
+Credit
+BDT/USD
+400466
+
+13
+Pubali Bank Ltd.
+Visa Signature Business
+Credit
+BDT/USD
+400467
+
+13
+Pubali Bank Ltd.
+Visa Classic
+Debit
+BDT/USD
+400468
+
+13
+Pubali Bank Ltd.
+Visa Gold
+Debit
+BDT/USD
+400469
+
+13
+Pubali Bank Ltd.
+Visa Platinum
+Debit
+BDT/USD
+400470
+
+13
+Pubali Bank Ltd.
+Visa Signature
+Debit
+BDT/USD
+400471
+
+13
+Pubali Bank Ltd.
+Visa Business Gold
+Debit
+BDT/USD
+400472
+
+13
+Pubali Bank Ltd.
+Visa Business Platinum
+Debit
+BDT/USD
+400473
+
+13
+Pubali Bank Ltd.
+MasterCard
+Prepaid
+BDT/USD
+533625
+
+13
+Pubali Bank Ltd.
+MasterCard
+Debit
+BDT/USD
+539949
+
+13
+Pubali Bank Ltd.
+MasterCard Standard
+Credit
+BDT/USD
+548044
+
+13
+Pubali Bank Ltd.
+MasterCard Gold
+Credit
+BDT/USD
+548418
+
+13
+Pubali Bank Ltd.
+MasterCard Platinum
+Credit
+BDT/USD
+550093
+
+14
+Sonali Bank Ltd.
+Q‐Cash Staff
+Debit
+BDT
+701500
+920001
+14
+Sonali Bank Ltd.
+Q‐Cash Staff
+Debit
+BDT
+701501
+920002
+14
+Sonali Bank Ltd.
+Q‐Cash General
+Debit
+BDT
+701502
+920003
+14
+Sonali Bank Ltd.
+Q‐Cash General
+Debit
+BDT
+701503
+920004
+14
+Sonali Bank Ltd.
+QC Staff
+Credit
+BDT
+701570
+920005
+14
+Sonali Bank Ltd.
+Q‐Cash Prepaid
+Prepaid
+BDT
+701590
+920006
+15
+NCC Bank Ltd.
+VISA VE
+Debit
+BDT
+428457
+
+15
+NCC Bank Ltd.
+VISA ATM Acquiring
+Debit
+BDT
+474857
+
+15
+NCC Bank Ltd.
+VISA Classic Local
+Credit
+BDT
+440819
+
+15
+NCC Bank Ltd.
+VISA Gold Local
+Credit
+BDT
+440820
+
+15
+NCC Bank Ltd.
+VISA Gold Dual
+Credit
+BDT/USD
+458170
+
+15
+NCC Bank Ltd.
+VISA Gold Dual
+Credit
+BDT/USD
+458167
+
+15
+NCC Bank Ltd.
+VISA CB Dual
+Credit
+BDT/USD
+440893
+
+15
+NCC Bank Ltd.
+Q‐Cash Remit Prepaid Card
+Prepaid
+BDT
+705310
+916001
+15
+NCC Bank Ltd.
+Proprietory Debit
+Debit
+BDT
+995300
+916002
+16
+BASIC Bank Ltd.
+Q‐Cash Debit
+Debit
+BDT
+703500
+905501
+17
+Janata Bank Ltd.
+Q‐Cash Debit
+Debit
+BDT
+701220
+913501
+17
+Janata Bank Ltd.
+Q‐Cash Credit
+Credit
+BDT
+701292
+913502
+18
+Uttara Bank Ltd.
+Q‐Cash General
+Debit
+BDT
+704810
+925001
+18
+Uttara Bank Ltd.
+Q‐Cash Staff
+Debit
+BDT
+704811
+925002
+19
+ICB Islamic Bank Ltd.
+Q‐Cash Debit
+Debit
+BDT
+704904
+923001
+20
+Standard Bank Ltd.
+VISA VIC Dual
+Credit
+BDT/USD
+436473
+
+20
+Standard Bank Ltd.
+VISA VIG Dual
+Credit
+BDT/USD
+436474
+
+20
+Standard Bank Ltd.
+Proprietory Debit
+Debit
+BDT
+502915
+921001
+21
+Social Islami Bank Ltd.
+VISA Classic Dual
+Credit
+BDT/USD
+437594
+
+21
+Social Islami Bank Ltd.
+VISA Classic Local
+Credit
+BDT
+437595
+
+21
+Social Islami Bank Ltd.
+VISA Gold Dual
+Credit
+BDT/USD
+437596
+
+21
+Social Islami Bank Ltd.
+VISA Gold Local
+Credit
+BDT
+437597
+
+21
+Social Islami Bank Ltd.
+VISA Debit
+Debit
+BDT
+457565
+
+21
+Social Islami Bank Ltd.
+Q‐Cash DEBIT
+Debit
+BDT
+705803
+919501
+22
+Bangladesh Commerce Bank
+Ltd.
+Q‐Cash Credit
+Credit
+BDT
+504718
+903001
+23
+United Commercial Bank Ltd.
+VISA Local Classic
+Credit
+BDT
+439131
+
+23
+United Commercial Bank Ltd.
+VISA Dual Classic
+Credit
+BDT/USD
+439132
+
+23
+United Commercial Bank Ltd.
+VISA Local Gold
+Credit
+BDT
+439133
+
+23
+United Commercial Bank Ltd.
+VISA Dual Gold
+Credit
+BDT/USD
+439134
+
+23
+United Commercial Bank Ltd.
+VISA Debit
+Debit
+BDT
+462870
+
+23
+United Commercial Bank Ltd.
+VISA Platinum
+Credit
+BDT/USD
+436526
+
+--- Page 5 ---
+Sl
+Bank
+Product
+Debit/Credit
+Currency
+Existing BIN
+of All
+Cards
+New BIN
+for
+Proprietary
+Cards
+23
+United Commercial Bank Ltd.
+VISA Infinite
+Credit
+Not Issued Yet
+402501
+
+23
+United Commercial Bank Ltd.
+VISA Prepaid
+Prepaid
+Not Issued Yet
+462887
+
+23
+United Commercial Bank Ltd.
+MasterCard Standard
+Credit
+BDT/USD
+548321
+
+23
+United Commercial Bank Ltd.
+Prepaid MasterCard Unembossed
+Prepaid
+Not Issued Yet
+539627
+
+23
+United Commercial Bank Ltd.
+Gold MasterCard
+Credit
+BDT/USD
+530003
+
+23
+United Commercial Bank Ltd.
+Titanium MasterCard
+Credit
+Not Issued Yet
+524201
+
+23
+United Commercial Bank Ltd.
+Platinum MasterCard
+Credit
+Not Issued Yet
+521392
+
+23
+United Commercial Bank Ltd.
+Debit MasterCard Unembossed
+Debit
+Not Issued Yet
+519623
+
+24
+South East Bank Ltd.
+Visa Classic Local Credit Card
+Credit
+BDT
+486143
+
+24
+South East Bank Ltd.
+Visa Classic Dual Credit Card
+Credit
+BDT/USD
+486144
+
+24
+South East Bank Ltd.
+Visa Gold Local Credit Card
+Credit
+BDT
+486145
+
+24
+South East Bank Ltd.
+Visa Dual Gold Credit Card
+Credit
+BDT/USD
+486146
+
+24
+South East Bank Ltd.
+Visa Platinum Local Credit Card
+Credit
+BDT
+466552
+
+24
+South East Bank Ltd.
+Visa Platinum Dual Credit Card
+Credit
+BDT/USD
+466553
+
+24
+South East Bank Ltd.
+ATM/Debit Card (Proprietary)
+Debit
+BDT
+603591
+920501
+25
+First Security Islamic Bank Ltd.
+Q‐Cash Debit
+Debit
+BDT
+706710
+910501
+25
+First Security Islamic Bank Ltd.
+Q‐Cash Debit
+Debit
+BDT
+606386
+910502
+26
+Bank Asia Limited
+VISA VE
+Debit
+BDT
+463767
+
+26
+Bank Asia Limited
+Q‐Cash Bank Asia General
+Debit
+BDT
+603788
+907001
+26
+Bank Asia Limited
+Q‐Cash BURO Prepaid
+Prepaid
+BDT
+706890
+907002
+26
+Bank Asia Limited
+VISA VDC
+Credit
+BDT
+463763
+
+26
+Bank Asia Limited
+VISA VIC
+Credit
+BDT/USD
+463764
+
+26
+Bank Asia Limited
+VISA VDG
+Credit
+BDT
+463765
+
+26
+Bank Asia Limited
+VISA VIG
+Credit
+BDT/USD
+463766
+
+26
+Bank Asia Limited
+VISA Prepaid
+Prepaid
+USD
+476629
+
+27
+The City Bank Limited
+Visa Dual Classic
+Credit
+USD & BDT
+410516
+
+27
+The City Bank Limited
+Visa Dual Gold
+Credit
+USD & BDT
+410517
+
+27
+The City Bank Limited
+Visa Local Classic
+Credit
+BDT
+410518
+
+27
+The City Bank Limited
+Visa Local Gold
+Credit
+BDT
+410519
+
+27
+The City Bank Limited
+Visa Debit
+Debit
+BDT
+410520
+
+27
+The City Bank Limited
+Amex GreenBlue
+Credit
+USD & BDT
+376947
+
+27
+The City Bank Limited
+Amex Gold
+Credit
+USD & BDT
+376948
+
+27
+The City Bank Limited
+Amex Corporate
+Credit
+USD & BDT
+376949
+
+27
+The City Bank Limited
+MasterCard Debit
+Debit
+BDT
+519625
+
+27
+The City Bank Limited
+MasterCard Debit Platinum
+Debit
+USD & BDT
+517555
+
+27
+The City Bank Limited
+MasterCard Prepaid
+Prepaid
+BDT
+519507
+
+27
+The City Bank Limited
+MasterCard Prepaid
+Prepaid
+USD & BDT
+528631
+
+28
+Export‐Import Bank Limited
+Visa Classic
+Credit
+BDT
+464587
+
+28
+Export‐Import Bank Limited
+Visa Classic Dual
+Credit
+BDT & USD
+464588
+
+28
+Export‐Import Bank Limited
+Visa Gold
+Credit
+BDT
+464589
+
+28
+Export‐Import Bank Limited
+Visa Gold Dual
+Credit
+BDT & USD
+464590
+
+28
+Export‐Import Bank Limited
+VISA Prepaid
+Prepaid
+Not Yet Finilised
+459891
+
+28
+Export‐Import Bank Limited
+Visa Dedit
+Debit
+Not Yet Finilised
+498784
+
+28
+Export‐Import Bank Limited
+EXIM Propeietory
+Debit
+BDT
+630000
+910001
+29
+Prime Bank Limited
+Proprietary Debit Card
+Debit
+BDT
+606018
+917001
+29
+Prime Bank Limited
+Proprietary Pre‐paid Card
+Debit
+BDT
+101018
+917002
+29
+Prime Bank Limited
+Proprietary Smart Card
+Debit
+BDT
+101017
+917003
+29
+Prime Bank Limited
+Master Card Debit Card
+Debit
+BDT
+557660
+
+29
+Prime Bank Limited
+Visa Platinum Credit
+Credit
+BDT/USD
+457354
+
+29
+Prime Bank Limited
+Master Card Platinum Credit
+Credit
+BDT/USD
+550586
+
+29
+Prime Bank Limited
+Master Card Gold Local Credit
+Credit
+BDT
+554867
+
+29
+Prime Bank Limited
+Master Card Silver Local Credit
+Credit
+BDT
+554957
+
+29
+Prime Bank Limited
+Master Card Silver International Credit
+Credit
+USD
+554777
+
+29
+Prime Bank Limited
+Master Card Gold International Credit
+Credit
+BDT/USD
+554793
+
+29
+Prime Bank Limited
+Visa Silver International Credit
+Credit
+USD
+406751
+
+--- Page 6 ---
+Sl
+Bank
+Product
+Debit/Credit
+Currency
+Existing BIN
+of All
+Cards
+New BIN
+for
+Proprietary
+Cards
+29
+Prime Bank Limited
+Visa Gold International Credit
+Credit
+BDT/USD
+406752
+
+29
+Prime Bank Limited
+Visa Silver Local Credit
+Credit
+BDT
+406753
+
+29
+Prime Bank Limited
+Visa Gold Local Credit
+Credit
+BDT
+406754
+
+30
+BRAC Bank Limited
+Visa Universal Classic
+Credit Card
+BDT/USD
+432145
+
+30
+BRAC Bank Limited
+Visa Local Classic
+Credit Card
+BDT
+432146
+
+30
+BRAC Bank Limited
+Visa Universal Gold
+Credit Card
+BDT/USD
+432147
+
+30
+BRAC Bank Limited
+Visa Local Gold
+Credit Card
+BDT
+432148
+
+30
+BRAC Bank Limited
+Visa Platinum
+Credit Card
+BDT/USD
+458763
+
+30
+BRAC Bank Limited
+Visa Corporate Platinum
+Credit Card
+BDT/USD
+489035
+
+30
+BRAC Bank Limited
+Visa Classic Prepaid (hajj)
+Credit Card
+USD
+458735
+
+30
+BRAC Bank Limited
+Visa Classic Prepaid (Gift)
+Credit Card
+BDT
+458736
+
+30
+BRAC Bank Limited
+Visa Classic Prepaid (Travel)
+Credit Card
+USD
+458737
+
+30
+BRAC Bank Limited
+Visa Classic Debit RFCD
+Debit Card
+USD
+461123
+
+30
+BRAC Bank Limited
+Visa Classic Prepaid (Probashi)
+Credit Card
+BDT
+462245
+
+30
+BRAC Bank Limited
+Visa Classic Debit
+Debit Card
+BDT
+432149
+
+30
+BRAC Bank Limited
+Visa Classic Debit (Business)
+Debit Card
+BDT
+464573
+
+30
+BRAC Bank Limited
+Visa Platinum Debit
+Debit Card
+BDT
+436475
+
+30
+BRAC Bank Limited
+MasterCard Standard
+Credit Card
+BDT/USD
+545538
+
+30
+BRAC Bank Limited
+MasterCard Gold
+Credit Card
+BDT/USD
+545610
+
+30
+BRAC Bank Limited
+MasterCard Platinum
+Credit Card
+BDT/USD
+548895
+
+30
+BRAC Bank Limited
+MasterCard Standard Debit
+Debit Card
+BDT
+539932
+
+30
+BRAC Bank Limited
+Visa Classic Debit (Excel Banking)
+Debit Card
+BDT
+484096
+
+30
+BRAC Bank Limited
+Visa Gold Debit (Supreme Banking)
+Debit Card
+BDT
+484097
+
+30
+BRAC Bank Limited
+Proprietary Debit Card
+Debit Card
+BDT
+720000
+906001
+31
+AB Bank Limited
+Visa Debit
+Debit Card
+BDT
+410315
+
+31
+AB Bank Limited
+Visa Debit
+Debit Card
+BDT
+410316
+
+31
+AB Bank Limited
+MasterCard Debit Unembossed
+Debit Card
+BDT
+539930
+
+31
+AB Bank Limited
+MasterCard Gold
+Credit
+BDT
+545739
+
+31
+AB Bank Limited
+MasterCard Standard
+Credit
+BDT
+545858
+
+32
+Lanka Bangla Finance
+VISA VDC
+Credit
+BDT
+428645
+
+32
+Lanka Bangla Finance
+VISA VDG
+Credit
+BDT
+428646
+
+33
+Bangladesh Post Office
+Postal Cash Card
+Prepaid
+BDT
+700902
+900901
+33
+Bangladesh Post Office
+Postal Cash Card
+Prepaid
+BDT
+700903
+900902
+34
+Mutual Trust Bank Limited
+MTB VISA Debit Card
+Debit
+BDT
+462965
+
+34
+Mutual Trust Bank Limited
+MTB VISA Gold Credit Card
+Credit
+BDT
+489705
+
+34
+Mutual Trust Bank Limited
+MTB VISA Classic Credit Card
+Credit
+BDT
+489704
+
+34
+Mutual Trust Bank Limited
+MTB VISA Duel Currency Credit Card
+Credit
+USD
+462241
+
+34
+Mutual Trust Bank Limited
+MTB VISA Duel Currency Travel Card
+Prepaid
+USD
+489703
+
+34
+Mutual Trust Bank Limited
+MTB VISA Prepaid Card (Remittance)
+Prepaid
+BDT
+489702
+
+34
+Mutual Trust Bank Limited
+MTB VISA Base II POS acquiring
+POS
+BDT
+436482
+
+34
+Mutual Trust Bank Limited
+MTB VISA SMS ATM Acquiring
+ATM
+BDT
+436483
+
+35
+Commercial Bank Of Ceylon PLC
+VISA FLAG DEBIT
+Debit
+BDT
+413961
+
+35
+Commercial Bank Of Ceylon PLC
+VISA FLAG FOREIGN
+Debit
+Global
+413402
+
+35
+Commercial Bank Of Ceylon PLC
+VISA GLOBAL GOLD
+Credit
+Global
+464564
+
+35
+Commercial Bank Of Ceylon PLC
+VISA GOBAL CLASSIC
+Credit
+Global
+464565
+
+35
+Commercial Bank Of Ceylon PLC
+DOT COM
+DOT COM (Proprietary)
+BDT
+627965
+908001
+36
+HSBC
+ATM Debit/Cridit
+ATM
+BDT/USD
+603325
+911501
+37
+Bank Alfalah Limited
+VISA Debit
+Debit
+BDT
+463731
+
+38
+Agrani Bank
+ATM Debit
+Debit
+BDT
+627278
+901001

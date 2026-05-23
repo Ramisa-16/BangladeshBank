@@ -1,0 +1,981 @@
+--- Page 1 ---
+Bangladesh Bank
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh.
+Website: www.bb.org.bd
+
+FSD Circular No. 01 Date:
+
+Managing Director/Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+Revised Guidelines on Stress Testing
+
+Please refer to the DOS Circular No-01 of 23 February 2011 on the captioned subject.
+
+2. In view of burgeoning importance and evolving role of stress testing, changes in the importance
+of different risk factors, insights gained from the application of existing stress testing
+framework, and international best practices, Bangladesh Bank has revisited stress testing
+guidelines. It has been decided that henceforth banks shall carry out stress testing exercise and
+submit the report in line with the revised guidelines on quarterly basis, effective from
+December 2024.
+
+3. Additionally, banks are advised to simultaneously exercise and report stress test based on
+previous and revised templates only for the quarters ends on December 2024 and March 2025.
+
+4. Financial Stability Department (FSD) of Bangladesh Bank shall make the required reporting
+template available to the banks in due course. Banks are advised to submit their stress testing
+reports to FSD within the last business day of the following month of each quarter-end
+using specified MS Excel template (soft copy only) until further instructions.
+
+5. Instructions given in DOS Circular No-01/2011 will be superseded by this circular.
+
+6. This directive is issued in exercise of the power vested in the Section 45 of the Bank Companies
+Act, 1991 (amended up to 2023).
+Yours Faithfully,
+
+(Dipti Rani Hazra)
+Director (FSD)
+Phone: 57165905
+30 December, 2024
+15 Poush, 1431
+Financial Stability Department
+
+--- Page 2 ---
+Guidelines on Stress Testing
+December, 2024
+
+
+
+
+
+
+
+
+
+Financial Stability Department
+Bangladesh Bank
+
+--- Page 3 ---
+Guidelines on Stress Testing 2024
+
+
+
+
+Acronyms ................................................................................................................................................. ii
+Section 1: Overview
+1. Introduction ........................................................................................................................ 1
+2. Background ......................................................................................................................... 1
+3. Applicability ........................................................................................................................ 2
+4. Objectives ........................................................................................................................... 2
+5. Scope and Coverage ........................................................................................................... 3
+Section 2: Stress-testing Framework
+6. General ................................................................................................................................ 4
+7. Policies, Procedures and Documentation ........................................................................... 5
+8. Governance ......................................................................................................................... 5
+9. Infrastructure ...................................................................................................................... 6
+10. Stress Testing Approaches and Methodologies ................................................................. 7
+11. Use of Stress-testing results in Formulating Management Actions ................................... 9
+12. Reporting, Communication and Control of Stress-testing results ................................... 10
+Section 3: Sensitivity Analysis
+13. Credit Risk ......................................................................................................................... 11
+14. Market Risk ....................................................................................................................... 13
+15. Operational Risk ............................................................................................................... 15
+16. Liquidity Risk ..................................................................................................................... 15
+Annexure
+Annexure 1: District level CVI from highest vulnerability to lowest vulnerability .................... 18
+Table of Contents
+
+--- Page 4 ---
+Guidelines on Stress Testing 2024
+
+ii
+
+
+
+Acronyms
+BB
+Bangladesh Bank
+BIS
+Bank for International Settlements
+BL
+Bad and Loss
+BoD
+Board of Directors
+CRAR
+Capital to Risk-weighted Assets Ratio
+CRR
+Cash Reserve Ratio
+CVI
+Climate Vulnerability Index
+DF
+Doubtful
+DSIBs
+Domestic Systemically Important Banks
+HQLA
+High-Quality Liquid Assets
+LCR
+Liquidity Coverage Ratio
+MATs
+Management Action Triggers
+NPLs
+Non-performing Loans
+NPLIR
+NPL Inflow Ratio
+RMC
+Risk Management Committee
+RSA
+Rate Sensitive Assets
+RSL
+Rate Sensitive Liabilities
+SLR
+Statutory Liquidity Ratio
+SS
+Sub-Standard
+ST
+Stress Testing
+
+--- Page 5 ---
+Guidelines on Stress Testing 2024
+
+
+Section 1: Overview
+1. Introduction
+1.1 These stress testing guidelines have been issued by Bangladesh Bank (BB) under
+section 45 of the ‘Bank Company Act, 1991 (amended up to 2023)’ and extended a
+structured way of assessing the vulnerabilities of scheduled banks to extreme but
+plausible economic and financial conditions. These guidelines would enable banks to
+accurately identify, and measure key risks as well as define their ‘risk appetite’ and
+also provide critical information to senior management for decisions regarding capital
+allocation and contingency planning.
+1.2 Stress testing is an essential risk management tool used to assess a bank’s potential
+vulnerabilities during stressed economic and financial conditions. According to Bank
+for International Settlements (BIS), stress test is a forward-looking exercise that aims
+to evaluate the impact of severe but plausible adverse scenarios on the resilience of
+financial institutions. It involves the use of models and data at the individual financial
+institution level or system-wide level and may rely on historical or hypothetical
+scenarios. Through forward looking assessment of risks, it enables a bank to
+overcome the limitations of statistical models-based risk measures that consider
+historical data and assumptions. It helps senior management to understand the
+condition of a bank in the stressed situation and facilitates internal and external
+communication regarding banks’ financial condition.
+
+2. Background
+Considering the importance and complexity of the methodology of stress testing, BB
+issued the first guidelines on stress testing in 2010, which were mandatory for banks
+and finance companies. Later, the revised guidelines were issued in February 2011,
+which were solely applicable for schedule banks operationalizing in Bangladesh. The
+later guidelines were mainly designed to align with Basel III capital framework and
+also to address key weaknesses in stress testing practices that were highlighted after
+the global financial crisis. Since then, the role of stress testing has rapidly evolved and
+grown in importance in many jurisdictions including systemic risk and liquidity risk
+management. Now-a-days, stress testing is a critical element of risk management for
+financial institutions and a core tool to identify the vulnerabilities for macro-
+prudential authorities and banking supervisors. Moreover, the climate change related
+physical and transition risks have also been increased in recent times, which may
+affect the safety and soundness of individual banks as well as the banking system and
+
+--- Page 6 ---
+Guidelines on Stress Testing 2024
+
+
+could have broader implications on financial stability. In light of the above
+developments as well as the insights gained from the application of existing
+framework, BB has prepared a revised suite of stress testing guidelines and
+rationalized the shock scenarios to strengthen the existing stress testing framework
+in line with contemporary domestic and global developments.
+
+3. Applicability
+3.1 These guidelines shall be applicable to all scheduled banks in accordance with the
+following:
+(a) On an individual bank level, referring to the global operations of the bank (i.e.
+including its overseas branch operations) on a solo basis; and
+(b) On a consolidated level which includes entities covered under the entity level
+requirement, and the consolidation of all financial and non-financial subsidiaries.
+3.2 Scheduled banks shall perform the stress testing exercises in line with the revised
+stress testing guidelines on quarterly basis.
+
+4. Objectives
+4.1 The stress testing exercise shall be a forward-looking exercise and a primary tool of
+risk identification and monitoring at the individual financial institution level. Stress
+tests should complement the existing complex and quantitative models-based risk
+management approaches that are using historical data and estimated statistical
+relationships.
+4.2 The stress test results shall be reported to and discussed in the Risk Management
+Committee (RMC) and Board of Directors (BoD) on regular basis and shall be used as
+a crucial input in formulating strategic objectives and decisions. Banks shall use the
+stress testing results to calibrate risk appetite, capital planning, liquidity and funding
+risk assessment, contingency planning, and recovery/resolution planning. The results
+shall also be used to support internal capital and liquidity adequacy assessments,
+portfolio management and new product/trade approval processes.
+4.3 From the risk management perspective, the stress test analysis generally considers
+certain indicators, e.g. CRAR and liquidity ratios, to quantify the impact of relevant
+risks. These indicators should be compared to regulatory requirements in order to
+identify vulnerabilities. Other risk indicators may include change in level of profit,
+
+--- Page 7 ---
+Guidelines on Stress Testing 2024
+
+
+regulatory capital, risk-weighted assets, asset values, cash flows, loan loss provisions
+and level of non-performing loans. These would help in gauging the level and severity
+of emerging vulnerabilities and formulating suitable plans to address these potential
+weaknesses.
+
+5. Scope and Coverage
+5.1 The revised guidelines cover the significant activities undertaken by a bank and
+consider almost all material risks affecting the bank. Material risks refer to the risks
+that potentially have a significant adverse impact on any significant activity and
+overall financial condition of a bank. The shocks covered in this stress testing exercise
+could arise mainly due to credit, market, operational and liquidity risks.
+
+5.2 Although, the banks are encouraged to assess their business portfolios under stressed
+scenario(s) considering a range of relevant risk factors, they are required to conduct
+sensitivity analysis taking into account credit, market, operational and liquidity risks.
+The impact of shocks would be translated to the solvency through profitability and
+capital position of the bank. For assessment and inference, the after-shock capital
+adequacy ratio would be gauged against the relevant regulatory benchmarks.
+
+5.3 Macro-prudential stress test would cover some large and Domestic Systemically
+Important Banks (DSIBs), which shall be conducted by Bangladesh Bank. It aims to
+assess the impact of extreme but plausible macroeconomic scenarios on the bank’s
+risk profile using econometric modeling techniques.
+
+5.4 The risk identification and assessment process should cover every aspect of banks’
+risk profile including sector, borrower and depositor specific risk, on- and off-balance
+sheet exposures, etc.
+
+5.5 Beside regular iterations of ST analysis prescribed by these guidelines, these are
+flexible enough to facilitate banks to conduct ad-hoc stress tests for situational or
+institutional specific demand. Banks are encouraged to conduct ad-hoc and more
+frequent stress tests on specific risk areas in response to emerging risks and during
+periods of heightened market volatility and economic uncertainty.
+
+--- Page 8 ---
+Guidelines on Stress Testing 2024
+
+
+Section 2: Stress-testing Framework
+6. General
+6.1 Every schedule bank shall establish a rigorous and forward-looking stress testing
+framework that is commensurate with the nature, size and complexity of its business
+operations and risk profile.
+6.2 Stress testing should be integral part of a bank’s internal risk management and capital
+adequacy assessment process. The quality and comprehensiveness of data being used
+for stress tests, the robustness of methodologies, involvement of business lines,
+control and compliance functions in the design and implementation of the stress test
+program, and the use of stress test results to inform business and risk strategies are
+some essentials to ensure this process.
+6.3 Specific uses of stress testing include:
+(a) Providing an impact assessment of risk exposures under stressed situations and
+enabling the development of appropriate management actions and contingency plans
+(including recovery and resolution arrangements) across a range of stressed
+scenarios or sensitivity analyses;
+(b) Setting as an input in the banks’ risk appetite and determining whether its risk
+exposures are within the stated risk appetite under stressed conditions;
+(c) Complementing risk assessments by capturing potential extreme losses (tail risk)
+beyond those calculated by risk measurement models that rely on historical data and
+assumptions;
+(d) Assessing the appropriateness of the bank’s capital management plans;
+(e) Identifying, measuring and controlling risk concentrations;
+(f) Strategic planning and forecasting;
+(g) Managing portfolio in a proactive procedure;
+(h) Management of assets and liabilities considering their maturity profiles; and
+(i) Supporting internal and external communications regarding the bank’s financial
+and liquidity condition, particularly during the periods of heightened market volatility
+and economic uncertainty.
+
+--- Page 9 ---
+Guidelines on Stress Testing 2024
+
+
+7. Policies, Procedures and Documentation
+7.1 The stress testing program shall be supported by appropriately documented internal
+policies and procedures.
+
+7.2 A bank shall establish following policies and procedures to govern its stress testing
+program:
+(a) Types of stress testing and the major objectives of each component of the stress
+testing program;
+(b) Oversight arrangements including the roles and responsibilities of the board,
+senior management and relevant department heads including risk management,
+treasury, compliance and internal audit departments;
+(c) Frequency of stress testing exercises consistent with the size and nature of the
+business, and the types of stress testing and their purpose;
+(d) Methodologies used for stress testing incorporating different types of risk and
+development of relevant scenarios; and
+(e) A range of Management Action Triggers (MATs) and remedial actions envisaged
+corresponding to the purpose, type and results of stress test.
+
+7.3 A bank shall retain accurate, and up-to-date documentation on all aspects of its stress
+testing program, including:
+(a) Description of the underlying assumptions and fundamental elements of each
+stress testing scenario. These include the reasoning and judgments behind the chosen
+scenarios and their degree of severity;
+(b) Results of stress testing exercises according to different level of shock scenarios;
+and
+(c) Board and senior management’s deliberations and decisions on the appropriate
+management actions to address the risks and vulnerabilities identified from the stress
+testing exercise.
+8. Governance
+8.1 The ultimate responsibility for overall stress testing program rests with the board of
+directors of the bank and with the Chief Executive Officer/Country Head in case of
+foreign banks. Senior management shall be accountable for the ST program's
+implementation, management and oversight.
+
+--- Page 10 ---
+Guidelines on Stress Testing 2024
+
+
+8.2 The board should actively participate and contribute in setting objectives of stress
+testing, defining scenarios, discussing the results of stress tests in the context of
+bank’s risk profile, assessing potential actions and decision making.
+
+8.3 Senior management should make the BoD aware about the methodologies used and
+the limitations of underlying assumptions of stress testing program, and the impact of
+stress tests. It is thus important that senior management participates in the review
+and identification of potential stress scenarios and contributes to risk mitigating
+strategies.
+
+8.4 To promote risk identification and control, stress testing should be included in risk
+management activities of a bank at various levels of aggregation or complexity. This
+includes the use of stress testing for the risk management of individual or group of
+borrowers, portfolio risk management, as well as risk management of business lines
+or business strategy. In summary, it should be used to address both existing and
+potential enterprise-wide risk exposures and concentrations.
+
+8.5 Stress tests should be used as an input for setting the risk appetite of the bank or
+setting exposure limits and to support the evaluation of strategic choices when
+undertaking and discussing longer term business planning. Importantly, stress tests
+should be integral part of the capital and liquidity planning process.
+
+9. Infrastructure
+9.1 The data utilized in stress testing should be accurate, complete and accessible in a
+timely manner. The granularity level of data depends on the types and frequency of ST
+exercise. The data infrastructure should be flexible enough to support targeted and
+customized stress tests. Banks should regularly assess the quality and reliability of the
+data and IT infrastructure as part of continual review of their stress testing
+framework. The Board of Directors (BoD) shall ensure that effective policies,
+procedures and tools are in place to identify and address material information
+deficiencies.
+
+9.2 The Risk Management Committee (RMC) should ensure that an appropriate
+organizational structure is in place to properly execute the ST framework on regular
+basis. Any observed shortcomings in the ST structure and framework should be
+brought to the attention of the BoD. Importantly, the ST staffs need to be adequately
+skilled and have the access to resources/tools needed to perform assigned tasks
+effectively. Especially, the ST team should have sound knowledge on risk
+
+--- Page 11 ---
+Guidelines on Stress Testing 2024
+
+
+management, macroeconomic aspects, financial accounting, econometrics, and be
+conversant with rules and regulations issued by regulators. The delegation of tasks
+and responsibilities should be well documented and conveyed to the entire team.
+
+10. Stress Testing Approaches and Methodologies
+10.1 Stress testing exercise must cover a wide range of scenarios, including foreseeable
+changes in the bank's portfolio composition, new information, developments in
+operating conditions, and emerging risks that are not necessarily covered by
+historical events.
+
+10.2 The stressed parameters must be conservative and up-to date in order to prevent
+underestimation of risk. For instance, a bank's risk profile may become more
+vulnerable due to entering into new markets or high-risk segments. Macro-financial
+trends (for example, rising policy rate over time) may abruptly increase the risk
+profile of a bank's credit portfolio in the future, which may not be adequately
+captured by prior shock scenarios.
+
+10.3 The identification of significant stress events, the use of sound modelling techniques,
+and the proper implementation of stress testing results necessitate the participation
+of several senior experts inside a bank. The unit in charge of implementing the stress
+testing program should organize appropriate dialogue among those experts, challenge
+their opinions, check them for consistency (e.g., with other relevant stress tests), and
+make decisions on the ST framework design and implementation, ensuring a balance
+of usefulness, accuracy, comprehensiveness, and tractability.
+
+10.4 The stress testing framework is generally based on quantitative measurement
+approach. A bank shall develop quantitative techniques to risk measurement that
+accurately reflect industry-accepted methodologies and standards. Risk and loss
+estimates should be based on accurate data.
+
+10.5 Banks must ensure that the data utilized for stress testing is reflective of and contains
+risk characteristics of the bank's unique products or risk profile. Proxy estimates can
+be utilized when there is insufficient or limited data. However, the bank shall apply a
+margin of conservatism based on expert judgment to the proxy estimates.
+
+10.6 These revised ST guidelines cover two strands of methodologies: Sensitivity Analysis
+and Scenario Analysis. Usually, however, macroprudential stress testing framework of
+Bangladesh Bank will apply the scenario analysis.
+
+--- Page 12 ---
+Guidelines on Stress Testing 2024
+
+
+
+10.7 Sensitivity analysis is used to provide an initial assessment of a portfolio's
+vulnerability to a single risk factor or a group of closely related risks. The risk factors
+are subjected to varying degrees of severity to better understand the bank's true
+weaknesses and the non-linear influence of events on loss profiles of the institution.
+The severity is either assumed hypothetically or calculated from historical
+maximums or minimums.
+
+10.8 Sensitivity analysis assesses the effect of predefined changes in a single risk factor,
+such as NPL Inflow Ratio (NPLIR), interest rates, exchange rates, or equity prices, on
+a bank's financial condition. In most sensitivity analyses, the source of the shock on
+risk variables is not identified, and the underlying relationship or correlation
+between different risk factors is either not considered or discarded. For instance, the
+adverse impacts of changes in interest rates and exchange rates on bank’s
+profitability are considered independently, disregarding their interconnection, to
+simplify the stress testing process. These tests are relatively quick to execute and
+provide an approximation of the bank's vulnerability to predefined changes in
+specific risk factors or combination of risk factors.
+
+10.9 Banks should identify relevant risk drivers in particular: credit risk drivers (e.g.
+impact of credit concentration in specific sector or single borrower, a significant
+increase or shift in NPLIR, etc.), market risk drivers (e.g. increasing volatility in
+interest rates, foreign exchange rates and stock markets, etc.), liquidity risk drivers
+(e.g. deposit withdrawal by top depositors or in excess of normal withdrawal, etc.)
+and operational risk drivers (e.g. natural disaster, cyber-attack, failure of
+communication systems across the entire region/country, etc.).
+
+10.10 Banks should then assess the impact of identified risk drivers in adverse condition
+with varying degrees of severities: minor, moderate, and major.
+
+10.11 The banks should evaluate the levels of after-shock CRAR. If the after-shock CRAR
+found to be below the regulatory limits under minor credit, market and operational
+scenarios, banks may consider taking risk management actions to improve their risk
+profiles. Likewise, if the after-shock level of liquid assets becomes negative, and/or
+the Liquidity Coverage Ratio (LCR) falls below their regulatory minimums in
+liquidity scenarios, banks should take risk mitigation actions to strengthen their
+liquidity profiles.
+
+--- Page 13 ---
+Guidelines on Stress Testing 2024
+
+
+11. Use of Stress-testing results in Formulating Management Actions
+11.1 The stress testing results must be discussed in the Risk Management Committee
+(RMC). Apart from discussions in the RMC, the bank must present detailed findings
+along with methodologies to the Board of Directors (BoD), following the preparation
+and reporting of the stress testing results.
+
+11.2 The senior management of the bank must assess the impact of stress testing on
+accounting profit and loss, regulatory capital and risk weighted assets, liquidity and
+funding positions.
+
+11.3 Banks shall set triggers and formulate realistic management actions based on stress
+testing results, having concerns to:
+(a) Types of actions and specific circumstances, such as external factors, that make
+management actions difficult to materialize;
+(b) Whether the actions would be aligned with the risk appetite or risk tolerance level
+set by the board;
+(c) Whether the bank has sufficient financial resources and operational capabilities to
+undertake such management actions; and
+(d) Supervisory or regulatory obligations, as well as market limits, might impose
+constraints.
+
+11.4 Management actions of banks should be based on careful analyses and deliberation by
+the board and senior management. The range of management actions/interventions
+may vary depending on the extent of impact and likelihood of stressed
+scenarios/events. Management actions should be proportionate to the severity of the
+stress tests' impact, and they may include:
+(a) Reviewing the risk appetite or risk tolerance limits and business strategies;
+(b) Restructuring, liquidating, unwinding or hedging exposures;
+(c) Seeking additional collateral, reducing risk exposures to specific sectors,
+borrowers and regions;
+(d) Reorganizing the asset and liability composition;
+(e) Building additional capital or liquidity buffers;
+(f) Re-sourcing to central bank funding facilities; and
+(g) Implementing contingency plans (including recovery or resolution arrangements).
+
+--- Page 14 ---
+Guidelines on Stress Testing 2024
+
+10
+
+
+11.5 Management actions must be approved by the board and senior management, and
+properly documented. Senior management must ensure effective monitoring
+mechanisms are in place to promptly activate management actions based on
+predetermined Management Action Triggers (MATs). Roles and responsibilities must
+be clearly defined and assigned to ensure prompt reporting to the board and senior
+management upon the occurrence of any trigger event. RMC will perform periodic
+reviews of management action activation protocols/procedures to ensure that such
+management actions are carried out in a timely and orderly manner.
+12. Reporting, Communication and Control of Stress-testing results
+12.1 The scheduled banks must conduct stress testing at least on quarterly basis i.e. on
+March 31, June 30, September 30 and December 31. Banks must submit their stress
+testing reports within the last business day of the following month of each quarter-
+end by using the specified excel format provided by Bangladesh Bank. The report
+must include the name, designation, and contact information (preferably cell number)
+of two concerned officials in case further inquiries arise.
+
+12.2 Banks should properly disseminate the ST framework and findings within the
+institution to seek feedback from appropriate levels of the hierarchy. Banks should
+also ensure that the interpretation of ST findings is easily understandable and
+transparent at all levels.
+
+12.3 Banks are encouraged to include the stress test results, at least those in regard to
+market risk, in their annual reports to demonstrate their sensitivity and resilience to
+various types and levels of shocks.
+
+12.4 Banks are advised to keep proper records regarding data used for stress testing and
+their outcomes, RMC and/or BoD meeting minutes, measures taken to resolve
+material vulnerabilities, and so on for random verification by Bangladesh Bank
+inspection teams.
+
+--- Page 15 ---
+Guidelines on Stress Testing 2024
+
+11
+
+Section 3: Sensitivity Analysis
+13. Credit Risk
+13.1 The purpose of stress test for the credit risk is to evaluate how both macroeconomic
+and bank-specific factors affect the bank's financial performance, including capital
+adequacy and profitability. During an economic downturn, banks face increased risk
+from several factors such as increase in repayment risk, decline in asset quality, and
+reduction in collateral value. Conversely, in an economic upturn, there may be a
+tendency toward underpricing of risks, leading to rapid credit growth in certain high-
+risk sectors. To manage these, banks should consider adjusting provisions or
+increasing risk weights on exposures in these sensitive sectors, particularly to
+account for heightened sectoral credit growth during economic upturns. Given this
+context, banks should, at a minimum, conduct the following stress tests on their credit
+portfolios to evaluate resilience against these potential risks.
+13.2 Steps for Addressing Credit Risk Shocks by Banks
+1. For each shock scenario, determine the additional provisioning requirements,
+taking into account any eligible collateral that may offset the defaulted portfolio.
+2. Apply provisioning rates by classification category in adherence to the regulatory
+requirements set by Bangladesh Bank from time to time.
+3. Compute after-shock Capital to Risk-weighted Assets Ratio (CRAR).
+Shock 1: Increase in NPLs
+This shock estimates the impact of downgrading a portion of the total performing
+loans directly to bad and loss category by applying the following three levels of
+hypothetical shocks:
+(i) Minor shock: Increase in Non-performing Loans (NPLs) by either ‘03 percent’ or
+‘an average of the latest five (05) quarters NPL inflow ratio (NPLIR) of the respective
+bank’, whichever is higher;
+(ii) Moderate shock: Increase in NPLs by two times of the percentage determined in
+the subsection (i) of Shock 1; and
+(iii) Major shock: Increase in NPLs by three times of the percentage determined in the
+subsection (i) of Shock 1.
+
+--- Page 16 ---
+Guidelines on Stress Testing 2024
+
+12
+
+Following formula should be used to calculate NPL inflow ratio (NPLIR) of each
+quarter:
+
+
+Here,
+NPLIt = NPL inflow or new NPLs during the quarter t
+Loanst-1 = Total outstanding loans at the end of previous quarter (t-1)
+NPLst-1 = Total NPLs at the end of previous quarter (t-1)
+
+Shock 2: Increase in NPLs in top 02 sectors
+This shock is applied to the concentration risk particularly in top two (02) sectors,
+where the bank has the highest investment or exposure. The scenarios of this shock
+are constituted assuming that a certain portion of performing loans of the top 02
+sectors directly downgraded to bad and loss category by applying the following three
+levels of hypothetical shocks:
+(i) Increase in Non-performing Loans (NPLs) by either ’03 percent’ or ‘an average of
+the latest five (05) quarters’ NPLIR of the respective bank’, whichever is higher
+(Minor);
+(ii) Increase in NPLs by two times of the percentage determined in the subsection (i)
+of Shock 2 (Moderate); and
+(iii) Increase in NPLs by three times of the percentage determined in the subsection
+(i) of Shock 2 (Major).
+
+Shock 3: Increase in NPLs due to default of top borrowers
+This shock intends to ascertain the risk of credit concentration by assuming that a
+number of top borrowers of a bank may default due to various reasons creating a
+shocking event to the bank. Banks should estimate the additional provisioning against
+the default of their top 2 (Minor), top 3 (Moderate), and top 5 (Major) performing
+borrowers, selected based on the amount of on- and off-balance sheet exposure. Bank
+shall calculate the exposure of top borrowers by applying the conversion factors
+stated in BRPD Circular No.01 dated January 16, 2022. In all cases the performing
+loans of the respective borrowers are assumed to be directly downgraded to bad and
+loss category.
+
+NPLIRt =
+NPLIt
+Loanst-1 – NPLst-1
+
+--- Page 17 ---
+Guidelines on Stress Testing 2024
+
+13
+
+Shock 4: Depletion in collateral
+This includes three (03) standard scenarios assuming different levels of shocks i.e.
+depletion in the value of eligible collateral creating shock events to the bank. The
+standard levels of shocks are 30% (Minor), 40% (Moderate), and 50% (Major)
+decrease in the value of eligible collateral.
+
+Shock 5: Negative shift in the NPLs categories
+The scenarios of this shock are constituted assuming that negative shifts in existing
+NPLs categories i.e. Sub-Standard (SS) to Doubtful (DF), and DF to Bad and Loss (BL)
+take place due to some unfavorable domestic and/or cross border incident creating
+shocking events for the bank which results in some more provision requirements.
+Three (03) standard shocks are 10% (Minor), 15% (Moderate), and 20% (Major)
+downward shift in the NPLs’ categories.
+
+Shock 6: Negative shift in rating categories
+In a downturn, a bank’s counterparties may suffer credit rating downgrade awarded
+by an external credit rating agency or internal credit officers. Banks should estimate
+the additional provisioning against the negative shift in the rating categories of on-
+and off-balance sheet exposure by 10% (Minor), 20% (Moderate), and 30% (Major).
+
+14. Market Risk
+The stress test for market risk aims to assess the impact of adverse market
+conditions on the banks’ income statement.
+
+Shock 1: Changes in interest rate
+Interest rate risk is the potential that the value of the on-balance sheet and the off-
+balance sheet positions of the bank would be negatively affected by the change in the
+interest rates. The vulnerability of the bank towards the adverse movements of the
+interest rate can be gauged by using 2% (Minor), 3% (Moderate), and 4% (Major)
+changes in interest rate. Banks shall consider only Held-for-Trading (HFT) portion of
+the securities while calculating the re-pricing impact.
+
+--- Page 18 ---
+Guidelines on Stress Testing 2024
+
+14
+
+The banks should follow the steps mentioned below in carrying out the interest rate
+stress tests:
+ Calculate all Rate Sensitive Assets (RSA) and Rate Sensitive Liabilities (RSL);
+ Plot the RSA and RSL into different time buckets on the basis of maturity;
+ Calculate maturity GAP by deducting RSL from RSA (GAP= RSA - RSL); and
+ Calculate the impact of interest rate change (∆i) on net interest income (NII)
+by using the formula of ∆NII =∆i(GAP).
+
+Shock 2: Exchange Rate Shock
+The stress test for exchange rate assesses the impact of change in the exchange rate
+on bank’s balance sheet. To assess foreign exchange risk, the overall net exchange
+position of the bank, including the on-balance sheet and off-balance sheet exposures,
+shall be charged by 20%, 30% and 40% for minor, moderate and major levels
+respectively. The overall net exchange position shall be the 'total of the net long
+positions' or the 'total of the net short positions' whichever is higher following the FE
+Circular No.03 dated February 07, 2022. The impact of the respective shocks shall be
+calibrated in terms of the CRAR.
+
+Shock 3: Equity Price Shock
+The stress test for equity price risk assesses the impact of a decline in the stock
+market index on a bank's balance sheet. For this assessment, shocks are applied to all
+securities listed on stock exchanges, including shares, bills/bonds/debentures,
+mutual funds, and other similar instruments, whether on-balance sheet or off-balance
+sheet. The shocks assume a decrease in current market value by 30%, 40%, and 50%
+for minor, moderate, and major stress levels, respectively. The impact of resultant loss
+shall be calibrated in the CRAR.
+
+Combined Shock
+Banks shall assess the combined shock by aggregating the results of all credit risk and
+market risk-related shocks. Different weights shall be applied on the changes in CRAR
+due to different types of shocks. Weights for Increase in NPLs, Increase in NPLs in top
+02 sectors, Default of top borrowers, Depletion in collateral, Negative shift in the NPLs
+categories and Negative shift in rating categories shall be 25%, 0%, 45%, 10%, 10%
+and 10%, respectively. 100% weight shall be applied for each market risk-related
+shocks.
+
+--- Page 19 ---
+Guidelines on Stress Testing 2024
+
+15
+
+15. Operational Risk
+Operational risk usually arises from four different sources: people, processes,
+systems, or external events. In many cases, operational risk occurs outside the
+banking company (e.g. natural disasters for climate change). Operational risk can
+never be fully eliminated, and bank management must identify the tolerable level of
+operational risk. These guidelines, for the time being, kept the adverse impact from
+such risk beyond consideration of calibration in the CRAR.
+Shock 1: Impact of Climate Shock
+Bangladesh is one of the most vulnerable countries to the adverse impacts of climate
+change. Natural disasters like floods may adversely impact the loan portfolio of the
+banks if they invest in flood-prone areas without taking into account mitigation
+strategies. This shock assumes that 3% (Minor), 6% (Moderate), and 9% (Major) of
+climate-vulnerable loans are directly downgraded to bad and loss category.
+The banks should follow the steps mentioned below in carrying out the climate risk
+stress tests:
+i) Calculate the total amount of climate vulnerable loans by applying district-wise
+climate vulnerability index (CVI) mentioned in annexure-1. All the performing
+loans in a district should be considered to apply the CVI using the following
+formula:
+Bank loans vulnerable to Climate Change = CVI x Total outstanding of
+performing loans and advances in the respective district
+ii) Apply different levels of shocks to determine the amount of additional provision
+requirement.
+
+16. Liquidity Risk
+A bank's liquidity adequacy largely depends on its ability to fulfill obligations during a
+funding crisis. Therefore, in addition to conducting cash-flow projections to monitor
+net funding requirements under normal business conditions, banks should perform
+stress tests regularly by conducting projections based on “what if” scenarios on their
+liquidity positions to ensure that current liquidity risk exposures remain in
+accordance with the established liquidity risk tolerance and identify sources of
+potential liquidity strain.
+
+--- Page 20 ---
+Guidelines on Stress Testing 2024
+
+16
+
+Shock 1: Withdrawal of deposits over a given period
+This shock delineates how many days a bank would be able to withstand a liquidity
+drain without resorting to liquidity support from outside (other banks or the central
+bank). The considerable terms for liquidity stress test are as follows:
+ Chronic withdrawal of demand and time deposits both in local and foreign
+currency.
+ A bank would be considered as a liquid bank if it could survive consecutive five
+working days under the stressed situation.
+The shock assumes withdrawal of the deposits (both demand and time deposits) in
+addition to bank's normal withdrawal1 for consecutive five working days as per the
+following:
+ Additional 2% withdrawal of remaining deposits on Day 1;
+ Additional 3% withdrawal of remaining deposits on Day 2;
+ Additional 4% withdrawal of remaining deposits on Day 3;
+ Additional 5% withdrawal of remaining deposits on Day 4; and
+ Additional 6% withdrawal of remaining deposits on Day 5.
+The deposit withdrawal amount (cash outflows) should be deducted from the liquid
+assets (cash inflow), net of CRR and SLR. The remaining level of liquid assets needs to
+be calculated at the end of each day to assess the bank's liquidity position.
+Shock 2: Withdrawal by top depositors
+This scenario estimates the impact of deposit concentration on the resilience of a
+bank by assuming a withdrawal by top depositors. Three different levels of shocks
+assume complete withdrawals by top 10 (Minor), top 15 (Moderate), and top 20
+(Major) depositors respectively. In order to meet the assumed withdrawals, liquid
+assets would be utilized, and after-shock liquid assets to total assets ratio shall be
+calculated to assess bank’s ability to withstand the shock.
+
+1Normal withdrawal refers to average daily withdrawal of demand and time deposits during the
+reporting quarter.
+
+--- Page 21 ---
+Guidelines on Stress Testing 2024
+
+17
+
+Shock 3: Shock to Liquidity Coverage Ratio
+The LCR is defined as
+
+
+
+Banks should calculate after-shock LCR by using each of the following three scenarios:
+(i) Applying 5% haircut to the value of investments in Government Securities while
+calculating HQLA and increasing the amount of ‘Total Net Cash Outflows’ by 5%
+(Minor);
+(ii) Applying 10% haircut to the value of investments in Government Securities while
+calculating HQLA and increasing the amount of ‘Total Net Cash Outflows’ by 10%
+(Moderate); and
+(iii) Applying 15% haircut to the value of investments in Government Securities while
+calculating HQLA and increasing the amount of ‘Total Net Cash Outflows’ by 15%
+(Major).
+LCR =
+High-Quality Liquid Assets (HQLA)
+Total Net Cash Outflows over the next 30 Calendar Days
+
+--- Page 22 ---
+Guidelines on Stress Testing 2024
+
+18
+
+Annexure
+Annexure 1: District level CVI from highest vulnerability to lowest vulnerability
+Serial No.
+District
+CVI
+Serial No.
+District
+CVI
+Patuakhali
+0.44
+33
+Lakshmipur
+0.51
+Bandarban
+0.46
+34
+Narail
+0.47
+Barishal
+0.52
+35
+Pabna
+0.51
+Bhola
+0.44
+36
+Rajshahi
+0.51
+Gaibandha
+0.47
+37
+Manikganj
+0.50
+Rangamati
+0.53
+38
+Jashore
+0.50
+Khulna
+0.51
+39
+Chandpur
+0.49
+Bagerhat
+0.43
+40
+Habiganj
+0.44
+Cox’s Bazar
+0.53
+41
+Meherpur
+0.47
+10
+Khagrachari
+0.48
+42
+Rajbari
+0.46
+11
+Netrokona
+0.49
+43
+Magura
+0.47
+12
+Nilphamari
+0.46
+44
+Natore
+0.49
+13
+Barguna
+0.48
+45
+Gopalganj
+0.52
+14
+Dinajpur
+0.51
+46
+Chattogram
+0.48
+15
+Jamalpur
+0.51
+47
+Shariatpur
+0.48
+16
+Kurigram
+0.50
+48
+Kushtia
+0.49
+17
+Mymensingh
+0.47
+49
+Lalmonirhat
+0.44
+18
+Rangpur
+0.53
+50
+Cumilla
+0.47
+19
+Satkhira
+0.45
+51
+Jhenaidah
+0.48
+20
+Sunamganj
+0.53
+52
+Chuadanga
+0.52
+21
+Naogaon
+0.55
+53
+Faridpur
+0.47
+22
+Pirojpur
+0.52
+54
+Joypurhat
+0.47
+23
+Sherpur
+0.51
+55
+Dhaka
+0.46
+24
+Tangail
+0.50
+56
+Sylhet
+0.47
+25
+Thakurgaon
+0.43
+57
+Moulvibazar
+0.46
+26
+Bogura
+0.52
+58
+Feni
+0.46
+27
+Kishoreganj
+0.57
+59
+Narsingdi
+0.52
+28
+Noakhali
+0.44
+60
+Gazipur
+0.46
+29
+Panchagarh
+0.49
+61
+Madaripur
+0.46
+30
+Sirajgonj
+0.51
+62
+Brahmanbaria
+0.44
+31
+Chapainawabganj
+0.50
+63
+Narayanganj
+0.42
+32
+Jhalakathi
+0.47
+64
+Munshiganj
+0.41
+Source: Climate Vulnerability Index (CVI) for Bangladesh, United Nations Development Program.

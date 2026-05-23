@@ -1,0 +1,135 @@
+--- Page 1 ---
+Page-1of 3
+
+Website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+
+Department of Financial Institutions & Markets
+Bangladesh Bank
+Head Office
+Dhaka.
+
+24 Chaitra, 1419
+DFIM Circular No.-01 Date : -----------------
+07 April, 2013
+
+Chief Executives/Managing Directors,
+All Financial Institutions in Bangladesh.
+
+Dear Sir,
+
+Formation of Risk Management Forum (RMF) & Risk Analysis Unit (RAU)
+in the Financial Institutions (FIs).
+
+With a view to facing the ongoing challenges of increased competition and expansion of diversified
+financial business of the FIs in Bangladesh under the recent global recession, Bangladesh Bank has
+issued several prudent guidelines on Risk Management for the FIs which includes Risk based
+Capital Adequacy, Stress Testing and five Core Risks Management. Introduction of Basel II (and
+subsequently Basel III) requires more multifaceted method to calculate regulatory capital
+requirements. Therefore, its implementation entails that the FIs should adopt improved policies and
+procedures in line with international best practices for its risk management framework.
+Considering the heat and upheaval of the globalized economic system, the financial interrelation it
+has, become vital to explore the ways of being more resilient. For ensuring a sound financial
+system, Proactive Risk Management is getting more emphasis day by day.
+In order to manage all the risks in a prudent and organized way, the FIs operating in Bangladesh are
+advised to follow the instructions as mentioned below:
+A. Risk Management Forum:
+
+Each FI must have an effective Risk Management Forum (RMF). It should be headed by the Chief
+Risk Officer (CRO) and comprised with the heads of the Credit, Treasury, ICC, MIS, Operation
+Division, ALCO or any other related divisions. The responsibilities of RMF include the following:
+
+a) Designing overall risk management strategy of the FI;
+b) Communicating views of the board and senior management regarding the Risk Management
+Culture and Risk Appetite all over the FI;
+c) Preparing risk management policies and procedures;
+d) Monitoring the prescribed/threshold limits of Risk Appetite set by the regulator and/or by
+the FI itself;
+e) Developing, testing, and observing the use of models to measure and monitor the risks;
+f) Developing and overseeing implementation of stress testing;
+
+--- Page 2 ---
+Page-2of 3
+
+g) Overseeing the Capital Management functions in accordance with the Risk Based Capital
+Adequacy measurement accord i.e. BASEL-II /III;
+h) Determining the most cost-effective way to minimize the risks;
+Highlighting the risky portfolios and deficiencies of the FIs on timely manner and reporting
+these analyses to the Managing Director as well as the Board of Directors with specific
+recommendations and suggestions;
+Reviewing the market conditions, identifying the external threats and providing with
+recommendations for precautionary measures accordingly; and
+k) Developing overall information system/MIS to support risk management functions of the FI.
+
+
+B. Risk Analysis Unit:
+Broadly, Risk Analysis Unit (RAU) will be responsible solely to identify and analyze all sorts of
+risks appropriately and timely. It (RAU) will act as the secretariat of Risk Management Forum.
+However, it must also be independent from all other units/divisions of the FI, e.g. no member of this
+unit will be involved in any sort of ratings of transactions, or setting/working to achieve any target
+imposed by the FI. S/He will not also be involved in the process of determining any standard or
+threshold ranges for risk management goals. This unit will be responsible only for the followings:
+a) Collecting all relevant data related to the risk indicators from different models and
+information system at the earliest;
+b) Assessing the quality, completeness and correctness of those data;
+c) Identifying and quantifying the risks and their exposures to material loss;
+d) Preparing Risk Management Paper (RMP) in monthly basis; and
+e) Conducting periodic Stress Testing.
+
+C. Reporting of Risk Management activities
+
+a) RAU will prepare a Risk Management Paper (RMP) with a detailed analysis including trend
+analysis of all categories of risk with adequate updated data every month.
+b) The RMP will be placed in the Monthly Meeting (if necessary, more than one meeting may
+be arranged) of the Risk Management Forum.
+c) After detailed discussion RMF will recommend some specific action plans for mitigating
+the identified risks.
+d) Name of the responsible division/unit who will implement the task along with a given
+timeline will have to be mentioned.
+e) The updated data of any month will be collected by RAU by the 15th of the next month.
+f) The meeting of RMF may be conducted within 20th of the same month. The Risk
+Management Paper along with the Minutes of the RMF meeting (both hard copy and soft
+copy) will then be submitted to the Department of Financial Institutions & Markets by the
+end of that month. [For example: Data as on 30th April must be collected by RAU within 15th May; RMF meeting
+must be held within 20th May and the RMP and minutes of that meeting must be submitted to Bangladesh Bank by the end
+of May.]
+
+--- Page 3 ---
+Page-3of 3
+
+
+For the purpose of Risk analysis, FIs may incorporate (but not limited to) the following risk
+categories:
+
+1. Credit Risk
+2. Market Risk
+a. Interest Rate Risk
+b. Equity/Investment in Share Risk
+3. Liquidity Risk
+4. Operational Risk
+5. Reputational Risk
+6. Oversee the Capital Management Function
+7. Stress Testing Results and Implication
+
+
+The FIs are advised to form and establish RMF & RAU by 15th of April, 2013 and inform
+Bangladesh Bank (detailed with the name of the Committee members & contact person) by 21st of
+April, 2013. The RAU will have to prepare their first Risk Management Paper based on 30th April,
+2013.
+
+The Risk Management Framework prescribed in this circular will hereby replace the provision of
+‘Preferred Risk Management Structure & Responsibilities’ as mentioned in the Credit Risk
+Management guidelines circulated for Managing Core Risks of FIs on 21st July, 2005.
+
+This Circular shall come into force with immediate effect.
+
+
+
+Yours sincerely,
+
+
+
+
+(Md. Sohrawardy)
+General Manager
+Phone: 9530178

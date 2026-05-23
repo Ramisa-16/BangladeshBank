@@ -1,0 +1,109 @@
+--- Page 1 ---
+Foreign Exchange Policy Department-1
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+
+FEPD-1 Circular No. 01 Date: January 06, 2026
+
+All Authorized Dealers in
+foreign exchange in Bangladesh
+
+Electronic presentation of export documents under documentary collection arrangements
+
+Dear Sirs,
+
+
+Attention of Authorized Dealers (ADs) is invited to the need for enabling secure electronic
+submission and processing of export documents under Documentary Collection arrangements. To align
+export procedures with ongoing digitalization initiatives, it has been decided that ADs may process
+export documents through bank-to-bank electronic means, upon receipt of the underlying paper
+documents from exporters under both Documents against Payment (DP) and Documents against
+Acceptance (DA) modes, subject to compliance with the instructions outlined in this circular.
+
+02. Scope: These instructions shall apply to export documents handled under the Uniform Rules
+for Collections (URC 522) Supplement for Electronic Presentation (eURC), where documents are
+presented electronically in accordance with the latest version of eURC. To facilitate the bank-to-bank
+handling of export collections, ADs should ensure that:
+
+(a) Prior mutual agreement exists between respective ADs and their overseas counterparts, such
+as collecting and/or presenting banks.
+(b) ADs shall also agree on the format in which each electronic record will be issued and
+presented, and the designated place of presentation to collecting or presenting banks.
+
+03. Sales Contracts: Sales contracts should indicate that documentary collection will be handled
+electronically, guided by the Uniform Rules for Collections (URC 522) Supplement for Electronic
+Presentation (eURC).
+
+04. Electronic documents: Electronic documents shall include all documents required under
+export contracts and accompanying collection instructions, including title documents to cargo, bill of
+exchange (draft), as mutually agreed. ADs shall adhere to the following:
+
+(a) Where the local law of collecting and/or presenting banks permits Electronic
+Transferable Records (ETRs): ADs may present all documents electronically, in an agreed format, and
+at a mutually designated place of presentation. ADs shall ensure that the title, transferability, and all
+associated legal attributes of any ETR remain fully preserved and unaltered when transitioning from
+physical to electronic form or when issued electronically; or
+
+(b) Where the local law does not permit ETRs: ADs may present all documents, other than the
+documents related to title to goods or possessing transferability features (such as, but not limited to, bill
+of lading, promissory note, and bill of exchange (draft)) electronically, in an agreed format and at a
+mutually designated place of presentation. Documents title to goods or possessing transferability features
+shall be sent physically to the delivery address as mutually agreed; or
+
+Continued to page-02
+
+--- Page 2 ---
+-02-
+
+
+
+
+
+(c) Where collecting banks require physical documents in addition to electronic
+presentation: ADs may additionally provide authenticated electronic copies marked “Electronically
+Received-Authenticated Copy.” Where electronic submission is not acceptable to counterpart banks or
+jurisdictions, the traditional mode of submission shall apply.
+
+(d) Legal validity of ETRs: In all cases, ADs shall ensure that any ETR retains all features
+equivalent to paper-based documents and remains fully valid and legally enforceable.
+
+05. Endorsement of title documents: ADs may endorse title documents in a practical and
+secure manner. For electronic transport documents issued through recognized electronic platforms, ADs
+may endorse using digital signatures or platform-based endorsement tools, with platform-generated audit
+trails serving as valid proof of endorsement. For scanned or electronically submitted transport
+documents, ADs may issue a Digitally Signed Endorsement Certificate (DSEC) referencing the relevant
+document. Where acceptable to collecting banks, SWIFT-based endorsement messages may also be
+used.
+
+06. Transmission to collecting/presenting banks: Electronic document sets may be transmitted
+to collecting banks through secure and mutually acceptable channels, ensuring compliance with
+collection instructions and maintaining full traceability of dispatch.
+
+07. Realization and monitoring: Upon receipt of payment or acceptance advice from collecting
+banks, ADs shall deal with export proceeds in accordance with prevailing foreign exchange regulations
+and shall monitor DA bills for realization within prescribed timelines.
+
+08. Record maintenance and security: ADs shall maintain a complete audit trail of electronic
+submissions and endorsements, store electronic documents securely for the period required under
+existing regulations. ADs shall verify digital signatures in accordance with the regulations in force in this
+regard. ADs are encouraged to align their systems progressively with recognized information security
+standards.
+
+
+09. Implementation: ADs may commence electronic processing of export documents under
+Documentary Collection arrangements on a pilot basis and expand the coverage gradually. Adoption
+shall follow a risk-based and phased approach to ensure a smooth transition while maintaining
+operational integrity, legal enforceability, and security of processes. ADs shall inform Bangladesh Bank
+promptly the initiation of piloting activities.
+
+Please bring the contents of this circular to the notice of all relevant constituents.
+
+Yours faithfully,
+
+
+
+(Md. Harun-Ar-Rashid)
+Director (FEPD-1)
+Phone: 9530123

@@ -1,0 +1,76 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাঘ্ক
+
+(সেন্ট্রাল ব্যাংক অব বাংলাদেশ)
+মতিঝিল, ঢাকা-১০০০
+
+বাহলাদেশ।
+Website: www.bb.org.bd
+
+তারিখঃ _২১ মে ২০২৪ ইংরেজি
+
+সিআইবি সার্কুলার নং-০১ ৭৮. ৩৭ জ্যৈষ্ঠ ১৪৩১ বাংলা
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক এবং ফাইন্যান্স কোম্পানি
+
+সিআইবি ডাটাবেইজে ইচ্ছাকৃত খেলাগী খণ গ্রহীতার তথ্য দাখিল করা প্রসঙ্গে
+
+উপর্যুক্ত বিষয়ে বিআরপিডি সার্কুলার নং-০৬, তারিখ: ১২/০৩/২০২৪ এবং ডিএফআইএম সার্কুলার নং-০৪, তারিখঃ
+০৩/০৪/২০২৪ এর প্রতি আপনাদের দৃষ্টি আকর্ষণ করা যাচ্ছে।
+
+২। বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক এবং ফাইন্যান্স কোম্পানিকে উল্লিখিত সার্কুলারদ্বয়ের ৮৫১) নং অনুচ্ছেদ এ
+কোন “ইচ্ছাকৃত CATA খণ গ্রহীতা” শনাক্ত ও চুড়ান্তকরণের পর এ সংক্রান্ত তথ্য ক্রেডিট ইনফরমেশন ব্যুরো (সিআইবি) তে রিপোর্ট
+
+৩। “ইচ্ছাকৃত খেলাপী খণ গ্রহীতা”র তথ্য “সংযোজনী-ক” এর নির্দেশনা অনুসরণপূর্বক আগামী ০১ জুলাই ২০২৪ তারিখ
+হতে সিআইবি ডাটাবেইজে এন্ট্র বা Bulk আকারে Real Time-4 রিপোর্ট করতে হবে।
+
+8 | Bangladesh Bank Order, 1972 (P.O No. 127 of 1972) এর article 44(1) এ প্রদত্ত ক্ষমতাবলে এ
+
+¢ | ৩০ জুন ২০২৪ ভিত্তিক তথ্য/উপাত্ত অনুযায়ী উল্লিখিত নির্দেশনা আগামী ০১ জুলাই ২০২৪ তারিখ হতে বাস্তবায়ন করতে
+Re |
+
+আপনাদের বিশ্বস্ত,
+সতযুক্তি: বর্ণনা মোতাবেক।
+
+(মুন্সী মোহাম্মদ ওয়াকিদ)
+পরিচালক (সিআইবি)
+ফোন : ৯৫৩০১৩৩
+
+ফোন £ ৮৮-০২-৯৫৫০৪৪৮, ৯৫৫৪৮৯৬, আইপি £ ৮৮-০২-৫৫৬৬৫০০১-৬, ফ্যাক্স 3 ৮৮-০২-৯৫৩০৪ ৭৯, www.bb.org.bd
+2 ১০০-১৩৬০ ৬ এ
+
+--- Page 2 ---
+ক্রেডিট ইনফরমেশন ব্যুরো
+
+সংযোজনী-ক
+
+ব্যাংক/ফাইন্যান্স কোম্পানি হতে ইচ্ছাকৃত খেলাপী খণ গ্রহীতার তথ্য সংগ্রহ করার পদ্ধতিঃ
+
+ব্যাংক/ফাইন্যা্স কোম্পানি কর্তৃক সিআইবি ডাটাবেইজে বর্তমানে কোন খণের Default Status এর তথ্য নিম্নোক্ত Domain
+Table এর মাধ্যমে দাখিল করা হয়ঃ
+
+Table Default Status
+
+Value Description
+Y Yes
+N | No
+
+২) সিআইবি ডাটাবেইজে ব্যাংক/ফাইন্যান্স কোম্পানি কর্তৃক কোন খণের ‘Default and Willful Default Status’ রিপোর্ট
+করার লক্ষ্যে এক্ষণে উপরিল্লিখিত Domain Table নিম্নোক্ত Domain Table দ্বারা প্রতিস্থাপিত হবেঃ
+
+Table Default and Willful Default Status
+Value Description
+Y Default=“ Yes” but Willful Default="No”
+N Default=“No” and Willful Default=“No”
+L W | Default=“ Yes” and Willful Default= “ Yes”
+
+Footnotes:
+i) “Y” in Default and Willful Default Status means borrower/Co-borrower/Guarantor 15
+Defaulter but not Willful Defaulter.
+
+ii) “N” in Default and Willful Default Status means borrower/Co-borrower/Guarantor is not
+Defaulter neither Willful Defaulter.
+
+ili) “W” in Default and Willful Default Status means borrower/Co-borrower/Guarantor is
+Defaulter and also Willful Defaulter.

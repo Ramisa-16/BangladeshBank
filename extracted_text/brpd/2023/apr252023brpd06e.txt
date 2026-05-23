@@ -1,0 +1,178 @@
+--- Page 1 ---
+Page 1 of 4
+
+
+
+Bangladesh Bank
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+website: www.bb.org.bd
+
+
+Banking Regulation &
+Policy Department
+
+
+
+25 April 2023
+BRPD Circular No. 06 Date: ----------------------
+
+
+
+
+
+
+12 Baishakh 1430
+
+Managing Director/Chief Executives
+All Scheduled Banks in Bangladesh.
+
+Dear Sir,
+Policy on Off-Balance Sheet (OBS) Exposure
+Please refer to BRPD Circular No. 14 dated 25 June 2003 regarding the First Schedule of the
+Bank Companies Act, 1991 and BRPD Circular No. 14 dated 23 September 2012, BRPD
+Circular No. 07 dated 21 June 2018, BRPD Circular No. 13 dated 18 October 2018 on Loan
+Classification and Provisioning.
+2. Banks were instructed to maintain General Provision @1% on the ‘Off-Balance Sheet’
+(henceforth OBS) exposures vide BRPD Circular No. 14/2012. Later the provision
+requirement for the bills for collection and the bank guarantees with counter-guarantee of
+Multilateral Development Banks/International Banks have been modified respectively through
+BRPD Circular No. 07/2018 and BRPD Circular No. 13/2018. The OBS items are being
+illustrated in tables (as recommended through BRPD Circular No. 14/2003) of the first
+schedule of the Bank Company Act, 1991.
+3. The OBS exposures are contingent claims or contracts that generate fee income for a bank.
+While a loan is an asset on a bank's balance sheet, a promise to make a loan is a contingent
+liability which creates a potential funding obligation in the future. Hence, it does not affect the
+balance sheet until exposed as funded. Indeed, a bank has limited control over its obligation of
+commitments of funds. Thus, certain types of portfolio risk are involved with OBS activities
+of the banks; i.e. credit risk, interest rate risk, exchange rate risk, liquidity risk, etc.
+4. With a view to strengthening risk management of escalating OBS business operations of
+banks and thereby further enhancing the stability of banking sector, the following instructions
+shall be followed:
+
+--- Page 2 ---
+Page 2 of 4
+
+5. Components of Off-Balance Sheet Exposure:
+A. Contingent Liabilities:
+i) Acceptances & Endorsements: Any irrevocable off-balance sheet obligation which
+carries the same credit risk as a direct extension of credit, such as an undertaking to
+make a payment to a third party in the event that a counterparty fails to meet a
+financial obligation or an undertaking to a counterparty to acquire a potential claim
+on another party in the event of default by that party. (i.e. the risk of loss depends on
+the creditworthiness of the counterparty or the party against whom a potential claim is
+acquired). This includes potential credit exposures arising from the issue of credit
+derivatives (selling credit protection), securities and any other financial liabilities, and
+bills endorsed under bill endorsement lines (but which are not accepted by, or have
+the prior endorsement of, another bank).
+ii) Letters of Guarantee: An irrevocable obligation to pay a third party in the event
+that counterparty fails to fulfill or perform a contractual non-monetary obligation,
+such as delivery of goods by a specified date etc (i.e. the risk of loss depends on a
+future event which need not necessarily be related to the creditworthiness of the
+counterparty involved). This includes issue of standby letters of credit in relation to a
+non-monetary obligation of counterparty under a particular transaction. This also
+includes potential credit exposures arising from the issue of guarantees.
+iii) Irrevocable Letters of Credit:
+ Short-term self-liquidating trade letters of credit arising from the movement of
+goods (e.g. documentary credits collateralized by the underlying shipment), for
+both issuing and confirming banks.
+ Others including LC used as guarantee or confirmation.
+iv) Bills for Collection: Bills for Collection are instruments designed for the settlement
+of a payment obligation between a buyer and a seller. As opposed to LC, Bills for
+Collection do not constitute any commitment or obligation on the part of the Bank to
+pay the seller if the buyer does not have available funds to effect payment.
+v) Other Contingent Liabilities:
+ Other contingent liabilities not listed above.
+B. Other Commitments:
+Documentary credits and short term trade-related transactions;
+ii) Forward assets purchased and forward deposits placed;
+iii) Undrawn note issuance and revolving underwriting facilities;
+iv) Undrawn formal standby facilities, credit lines and other commitments.
+
+--- Page 3 ---
+Page 3 of 4
+
+6. Provisioning Requirements:
+Banks shall maintain provision against the total OBS exposure (amount of cash margin or
+value of eligible collateral shall not be deducted while computing such exposure), which has
+end maturity, in the following way-
+A. Contingent Liabilities-
+Acceptances and Endorsements: 1.00%.
+ii)
+Letters of Guarantee:
+ Provisioning requirement against letters of guarantee: 1.00%.
+ Considering the risk mitigating effect of guarantees against which government
+has issued counter-guarantee: banks will not have to maintain any provision
+against such guarantees, i.e., NIL (0%).
+ The provisioning requirement for the bank guarantees, against which a counter-
+guarantee has been issued, is stated as follows:
+BB rating grade equivalence of the
+Bank/financial institution/organization
+providing the counter-guarantee
+Provisioning requirement
+(% of the exposure amount)
+NIL
+0.50%
+3 or 4
+0.75%
+iii)
+Irrevocable Letters of Credit:
+ Short-term self-liquidating trade L/C: 0.50%
+ Other LCs including L/C used as guarantee or confirmation: 1.00%
+iv)
+Bills for Collection: NIL
+Other Contingent Liabilities:
+ With an original maturity up to one year: 0.50%.
+ With an original maturity over one year: 1.00%.
+B. Other Commitments :
+ Unconditionally cancellable – NIL
+ With certain drawdown - 1.00%
+ Others with an original maturity up to one year - 0.50%.
+ Others with an original maturity over one year – 1.00%.
+C. Additional provisioning:
+i) Banks shall maintain additional provision over the provision requirement mentioned
+in paragraph 6(A) & 6(B) against OBS exposure, which maturity has end, in the
+following way:
+
+--- Page 4 ---
+Page 4 of 4
+
+Criteria
+Additional
+provisioning
+requirement (%)
+OBS exposures
+remaining
+overdue for-
+03 (three) months or beyond but less
+than 12 (twelve) months.
+12 (twelve) or beyond but less than
+24 (twenty four) months.
+24 (twenty four) months or beyond.
+
+ii) In case of OBS exposure under litigation, banks have to maintain additional 5%
+provision over the provision requirement mentioned in paragraph 6(A) & 6(B).
+7. Monitoring & Reporting:
+i) Bank shall have proper monitoring system to measure and control the risks of its OBS
+exposures.
+ii) Banks are required to review the adequacy of the provisions for OBS exposures on a
+continuous basis to ensure that the provisions set aside are reflective of their potential
+losses.
+iii) Each bank shall continue to submit quarterly statement of OBS to the Banking
+Regulation and Policy Department of Bangladesh Bank as per instructions of BRPD
+Circular No. 14/2012 and subsequent relevant Circulars/Circular letters.
+8. Instructions of BRPD Circular No. 14/2012 and subsequent all Circulars/Circular letters on
+the captioned subject hereby stand superseded by this circular.
+9. This directive has been issued by Bangladesh Bank in exercise of its power conferred on it
+under Section 45 of the Bank Company Act, 1991, as amended.
+10. This circular will come into force immediately.
+
+Yours faithfully,
+
+
+
+
+(Md. Ali Akbar Faraji)
+Director (BRPD)
+Phone: 9530252

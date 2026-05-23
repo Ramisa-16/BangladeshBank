@@ -1,0 +1,436 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+
+
+
+
+
+
+
+
+
+13 April 2021
+BRPD Circular No-07
+
+
+
+
+Date -----------------------
+
+
+
+
+
+
+
+
+
+
+30 Choitra 1427
+
+Managing Directors/ Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+Guidelines on Country Risk Management (GCRM) for Banks
+With the enhanced international exposure of Bangladesh resulting from gradual economic
+development, the banking sector is increasingly getting involved in cross border placements,
+lending and investments that making the banks exposed to country and transfer risk.
+As a result, it is imperative that banks have sound risk management policies and practices
+in place to proactively manage the risks. In this regard, Guidelines on Country Risk
+Management (GCRM) for Banks has been prepared for addressing the risk of both on and off
+balance sheet exposures to loss of banks cuased by adverse events in a foreign country.
+To comply with the international best practices and to build the banking industry more
+resilient to shocks, all the scheduled banks are hereby directed to take necessary measures and
+maintain appropriate provisions against the country risk as per the instructions set out in this
+guidelines.
+These guidelines will come into force from January 2022.
+
+Yours Sincerely
+
+
+
+
+
+
+(Md. Nazrul Islam)
+General Manager
+Phone-9530252
+E-mail: nazrul.islam122@bb.org.bd
+
+--- Page 2 ---
+Bangladesh Bank
+
+GUIDELINES ON COUNTRY RISK
+MANAGEMENT (GCRM) FOR BANKS
+
+--- Page 3 ---
+Guidelines on Country
+Risk Management (GCRM) for Banks
+
+
+Advisor
+Abu Farah Md. Nasser, Deputy Governor
+
+Coordinators
+Md. Shahidul Islam, Executive Director
+Md. Nazrul Islam, General Manager, BRPD
+
+Team Members
+Mohammad Shahriar Siddiqui, Deputy General Manger, BRPD
+Md Shah Naoaj, CFA, Deputy Director, BRPD
+Mir Md Moyazzem Hosen, Deputy Director, BRPD
+
+--- Page 4 ---
+Foreword
+The economy of Bangladesh experienced a persistent GDP growth of 7 percent in the last
+decade, resulting from a fast-growing manufacturing sector—which includes the second-
+largest ready-made garment industry in the world—and solid remittance inflows. In line with
+the economic development of the country, the banking sector also developed significant cross
+border relationships. Indeed, as country risk may arise due to the risk of exposure to any loss
+caused by events in a foreign country, and transfer risks may arise because of exchange
+restrictions imposed by the foreign country, it is imperative to have sound risk management
+policies and practices in place to safeguard the banks from these risks. In this regard,
+Bangladesh Bank has prepared this ―Guidelines on Country Risk Management (GCRM)‖ for
+Banks in line with international best practice under principle 21 of Basel Core Principles
+(BCPs) for Effective Banking Supervision 2012.
+The GCRM sets out the minimum requirements and supervisory perspective of Bangladesh
+Bank to ensure that banks have adequate policies and processes in place to identify, measure,
+evaluate, monitor, report and control or mitigate country risk in their placements, lending and
+investments. The GCRM will make the overall country risk management of banks more
+appropriate and efficient.
+We believe the GCRM shall be a valuable addition to the banks‘ risk management policies,
+practices and process. This is an evolving matter, which will regularly be reviewed by
+Bangladesh Bank to capture the changing dynamics of the economy and business
+environment as well as cross-border relationship.
+Abu Farah Md. Nasser
+
+
+Deputy Governor
+Bangladesh Bank
+
+--- Page 5 ---
+Introduction:
+This Guidelines on Country Risk Management (GCRM) for Banks sets out the minimum
+requirements and supervisory perspective of the Bangladesh Bank (BB) with regard to
+ensuring that banks have adequate structures, policies and processes in place to identify,
+measure, evaluate, monitor, report and control or mitigate country risk in their cross-border
+placements, lending and investments and for maintaining appropriate capital and/or
+reserves against such risks on a timely basis. This GCRM is issued under section 45 of the
+Banking Company Act, 1991 following the Principle 21 regarding ‗country and transfer
+risk‘ of Core Principles for Effective Banking Supervision 2012 of the Bank for
+International Settlements (BIS).
+Country risk refers to the possibility that a foreign obligor may be incapable or unwilling to
+fulfill his obligations due to country-specific economic, political, social or ecological
+conditions. These may include the consequences of exchange control, currency
+devaluation, official government actions or significant socio-political changes in the
+country where placements, lending and investments made, largely unpredictable events
+such as natural disasters or external shocks arising from global phenomena such as
+international treaties and agreements, financial or oil price shock. Indeed, country risk does
+not include individual counter-party risk but discharge from country-specific issues and is
+measured and monitored according to where the risk is domiciled rather than where the
+obligor is domiciled.
+2. Definitions
+Country Risk: Country Risk is the risk of both on and off balance sheet exposures to
+loss caused by events in a foreign country1. The concept is broader than Sovereign
+Risk, which is a sub-set of Country Risk, as all forms of lending or investment activity
+whether to/with individuals, corporates, banks or governments are covered. It includes
+contagion risk, currency risk, indirect country risk, macro-economic risk and transfer
+risk.
+3. Categories of Country Risk
+The main categories of Country Risk comprise Sovereign, Contagion Risk, Contagion
+Risk, Currency Risk, Indirect Country Risk, Macroeconomic Risk, and Transfer Risk.
+
+1 Reference document: BIS document on Core Principles for Effective Banking Supervision, 2012.
+
+--- Page 6 ---
+a) Sovereign Risk is the risk that a foreign government may not have the capacity or
+willingness to repay its direct and indirect (i.e., guaranteed) foreign currency
+obligations;
+b) Contagion Risk is the risk that developments in one country lead to a downgrade or
+adverse credit conditions not only for that country but also other countries in its
+region.
+c) Currency Risk is the risk that a borrower‘s holdings of domestic cash and income
+streams become inadequate to service its foreign currency obligations due to a
+devaluation of the domestic currency;
+d) Indirect Country Risk is the risk that the repayment ability of a domestic borrower
+is adversely affected by any event occurs in a foreign country where the borrower has
+business interests; and
+e) Macroeconomic Risk is the risk that a borrower in a foreign country may suffer from
+economic policies of the government in that foreign country, e.g. higher interest rates
+or taxes, which adversely affects its repayment ability.
+f) Transfer Risk: Transfer Risk is the risk that a borrower may not be able to convert
+local currency into foreign exchange and so may be unable to make debt service
+payments in foreign currency. The risk normally arises due to exchange restrictions
+imposed by the government in the borrower‘s country. 2
+4. General Requirements:
+Banks should formulate appropriate, well documented and clearly defined 'Country
+Risk Management' (GCRM) policies, with the approval of the respective Boards. The
+GCRM policy should address the issues of identifying, measuring, monitoring and
+controlling country exposure risks. The Policy should specify the responsibility and
+accountability of the various levels for the country risk management decisions. Banks
+should also put in place procedures for ensuring that necessary steps are taken in
+accordance with the GCRM policy. The GCRM policy should be periodically
+reviewed by the Board on the basis of the experience gained.
+
+2 Reference document: IMF paper on External Debt Statistics – Guide for compilers and users, 2003.
+
+--- Page 7 ---
+Banks should institute appropriate procedures for dealing with country risk problems.
+They should have in place contingency plans and clear exit strategies, which would be
+activated at times of crisis. Appropriate systems/ procedures should be laid down with
+the approval of the Board to handle situations involving significant changes in
+conditions in any country. For the present, only in respect of the country, where a
+bank‘s net funded exposure is 2 percent or more of its total assets, the bank is required
+to formulate the GCRM policy for dealing with that country risk problems.
+5. Specific Requirements:
+Banks should reckon both funded and non-funded exposures from their domestic as
+well as foreign branches while identifying, measuring, monitoring and controlling
+country risks. In the case of foreign banks operating in Bangladesh, the scope would
+be confined to their branches in Bangladesh.
+Banks should take into account indirect country risk. For example, exposures to a
+domestic commercial borrower with a large economic dependence on a certain
+country may be considered as subject to indirect country risk. Indirect exposures may
+be reckoned at 50 % of the exposure for the purpose of these guidelines. For the
+present, only in respect of the country, where a bank‘s net funded exposure is 2
+percent or more of its total assets, the bank is required to reckon indirect country risk
+for measuring, monitoring and controlling with that country risk.
+Exposures should be computed on a net basis i.e., gross exposure ‗minus‘ collaterals,
+guarantees, insurance etc. Netting may be permitted for cash collaterals, bank
+guarantees and credit insurance available in/ issued by countries in a lower risk
+category than the country on which exposure is assumed.
+Banks may put in place appropriate systems to move over to internal assessment of
+country risk. Banks should evolve sound systems for measuring and monitoring
+country risk. The system should be able to identify the full dimensions of country
+risk as well as incorporating features that acknowledge the links between credit and
+market risk. Banks should use a variety of internal and external sources as a means to
+measure country risk. Banks should not rely solely on rating agencies or other
+external sources as their only country risk-monitoring tool. Banks should also
+incorporate information from the relevant country managers of their foreign branches
+
+--- Page 8 ---
+into their country risk assessments. However, the rating accorded by a bank to any
+country should not be better than the rating of that country by an international rating
+agency. For the present, only in respect of the country, where a bank‘s net funded
+exposure is 2percent or more of its total assets, the bank is required to undertake
+internal assessment of country risk rating.
+The frequency of periodic reviews of country risk ratings should be at least once a
+year with a provision to review the rating of specific country, based on any major
+events in that country, where bank exposure is high, even before the next periodical
+review of the ratings is due.
+6. Exposure limits
+Bank Boards may set country exposure limits in relation to the bank‘s regulatory
+capital (Tier 1) with sub-limits, if considered necessary for products, branches,
+maturity etc. The basis for setting the limits for the country/ category shall be left to
+the discretion of the banks‘ Boards. The country exposure limits set by the Board
+should be reviewed periodically and in any case should be at least once a year.
+Exposure limit for any country should not exceed its regulatory capital, except in the
+case of insignificant risk category. In respect of foreign banks, the regulatory capital
+would be the capital (Tier I) held in their Bangladesh‘s books.
+Banks may also set up regional exposure limits for country groups, at the discretion of
+their Boards. The Board may decide on the basis for grouping of countries and also
+lay down the guidelines regarding all aspects of such regional exposure limits.
+BB may, if it becomes necessary, prescribe a prudential aggregate country exposure
+limit for the higher risk categories.
+7. Monitoring of exposures
+Banks should have a system in place to monitor current conditions in each of the
+countries where it is significantly exposed. The level of resources devoted to
+monitoring conditions within a country should be proportionate to the level of
+exposure and the perceived level of risk. If any bank maintains an in-country office,
+reports from the local staff are an obviously valuable resource for monitoring country
+conditions.
+
+--- Page 9 ---
+Boards should review the country risk exposures at an annual basis. The review
+should include progress in establishing internal country rating systems, compliance
+with the regulatory and the internal limits, results of stress tests and the exit options
+available to the banks in respect of countries belonging to ‗high risk & above‘
+categories. In case, any significant deterioration takes place in respect of any
+particular country risk or overall exposure, banks should report to the Board such
+developments in its next meeting, without waiting for the quarterly review by the
+Board.
+Country risk management processes employed by banks would require adequate
+internal controls that include audits or other appropriate oversight mechanisms to
+ensure the integrity of the information used by senior officials in overseeing
+compliance with policies and limits.
+8. Risk Rating
+Country risk ratings summarize the conclusions of the country risk analysis process.
+The ratings are an important component of country risk management because they
+provide a framework for establishing country exposure limits that reflect the banks‘s
+tolerance for risk.
+Banks may put in place appropriate systems to move over to internal assessment of
+country risk. Banks should evolve sound systems for measuring and monitoring
+country risk. The system should be able to identify the full dimensions of country risk
+as well as incorporating features that acknowledge the links between credit and
+market risk.
+Banks should use a variety of internal and external sources as a means to measure
+country risk. Banks should not rely solely on rating agencies or other external sources
+as their only country risk-monitoring tool. Banks should also incorporate information
+from the relevant country managers of their foreign branches into their country risk
+assessments. As a minimum, Bank should analyze the Macroeconomic, Social,
+Political and Legal Factors while analyzing country risk (see annex 1). However, the
+rating assigned by a bank to any country should not be better than the rating of that
+country by an international rating agency.
+Bank should classify the country under following five categories:
+
+--- Page 10 ---
+Insignificant
+ii.
+Low
+iii.
+Marginal
+iv.
+Moderate
+High
+
+The mapping of the risk categories with the sovereign rating3 of S&P, Fitch and
+Moody are given below:
+Risk Categories
+Equivalent Rating of S&P and Fitch
+Equivalent Rating of Moody
+Insignificant
+AAA to AA
+Aaa to Aa
+Low
+Marginal
+BBB
+Baa
+Moderate
+BB to B
+Ba to B
+High
+Below B
+Below B
+
+For the present, only in respect of the country, where a bank‘s net funded exposure is
+2 percent or more of its total assets, the bank is required to undertake internal
+assessment of country risk rating.
+9. Provisioning / Capital requirement
+Banks shall make general provisions, with effect from the first quarter of 2022, on the
+net funded country exposures on a graded scale ranging from 0. 25 to 20 percent. To
+begin with, banks shall make provisions as per the following schedule:
+Risk category
+Provisioning requirement
+Insignificant
+Low
+0.25%
+Marginal
+Moderate
+High
+20%
+For the present, only in respect of the country, where a bank‘s net funded exposure is
+2 percent or more of its total assets, the bank is required to make provision for dealing
+
+3 For the countries for which sovereign rating is conducted by credit rating companies other than S&P, Fitch
+and Moody, Bank should develop its own policy to map with the risk categories mentioned in point
+8(e).
+
+--- Page 11 ---
+10
+
+with that country risk exposure. However, exposure of foreign banks at their home
+country may be excluded in this regard.
+The provision for country risk shall be in addition to the provisions required to be
+held according to the asset classification status of the asset. In the case of ‗bad loans‘,
+provision held, including provision held for country risk, may not exceed 100% of the
+outstanding.
+10. Stress Testing
+Banks should periodically stress-test their foreign exposures and report the results to
+the board of directors and senior management. As used here, stress testing does not
+necessarily refer to the use of sophisticated financial modeling tools, but rather to the
+need for all institutions to evaluate in some way the potential impact of different
+scenarios on their country risk profiles.
+11. Disclosures, Reporting and Monitoring
+Banks shall disclose as a part of the 'Notes on Accounts' to the Balance Sheet as on
+31st March each year,
+the risk category-wise country exposures, and
+ii.
+the extent of aggregate provisions held against the country risk.
+Banks shall routinely submit the assessment of Country Risk under ICAAP reporting.
+Bangladesh Bank will routinely determine under onsite inspection and Supervisory
+Review and Evaluation Process (SREP) that bank‘s policies and processed give due
+regard to the identification, measurement, evaluation, monitoring, reporting and
+control or mitigation of country risk risk. BB will also determine that the processes
+are consistent with the risk profile, systemic importance and risk appetite of the bank,
+taking into account market and macroeconomic condition, and provide a
+comprehensive bank-wide view of country risk exposures. BB will also evaluate
+whether exposures (including, where relevant, intra-group exposures) are identified,
+monitored and managed on a regional and an individual country basis (in addition to
+the end borrower/ end-counterparty basis).
+
+--- Page 12 ---
+11
+
+Annex 1: Factors Affecting Country Risk
+Macroeconomic Factors
+The first of these factors is the size and structure of the country‘s external debt in relation to
+its economy. More specifically:
+The current level of short-term debt and the potential effect that a liquidity crisis
+would have on the ability of otherwise creditworthy borrowers in the country to
+continue servicing their obligations.
+To the extent the external debt is owed by the public sector, the ability of the
+government to generate sufficient revenues, from taxes and other sources, to service its
+obligations.
+The condition and vulnerability of the country‘s current account is also an important
+consideration, including: The level of international reserves, including forward market
+positions of the country‘s monetary authority (especially when the exchange rate is fixed).
+The level of import coverage provided by the country‘s international reserves.
+The importance of commodity exports as a source of revenue, the existence of any
+price stabilization mechanisms, and the country‘s vulnerability to a downturn in either
+its export markets or the price of an exported commodity.
+The potential for sharp movements in exchange rates and the effect on the relative
+price of the country‘s imports and exports.
+The role of foreign sources of capital in meeting the country‘s financing needs is another
+important consideration in the analysis of country risk, including:
+The country‘s access to international financial markets and the potential effects of a
+loss of market liquidity.
+The country‘s relationships with private sector creditors, including the existence of
+loan commitments and the attitude among bankers toward further lending to borrowers
+in the country.
+The country‘s current standing with multilateral and official creditors, including the
+ability of the country to qualify for and sustain an International Monetary Fund or
+other suitable economic adjustment program.
+
+--- Page 13 ---
+12
+
+The trend in foreign investments and the country‘s ability to attract foreign investment
+in the future.
+The opportunities for privatization of government-owned entities.
+The degree to which the economy of the country may be adversely affected through
+the contagion of problems in other countries.
+
+Past experience has highlighted the importance of a number of other important
+macroeconomic considerations, including:
+The degree to which the economy of the country may be adversely affected through
+the contagion of problems in other countries.
+The size and condition of the country‘s banking system, including the adequacy of the
+country‘s system for bank supervision and any potential burden of contingent
+liabilities that a weak banking system might place on the government.
+The extent to which state-directed lending or other government intervention may have
+adversely affected the soundness of the country‘s banking system, or the structure and
+competitiveness of the favored industries or companies.
+For both in-country and cross-border exposures, the degree to which macroeconomic
+conditions and trends may have adversely affected the credit risk associated with
+
+2. Social, Political and Legal Factors
+The analysis of country risk should also take into consideration the country‘s social, political
+and legal climate, including:
+The willingness and ability of the government to recognize economic or budgetary
+problems and implement appropriate remedial action.
+The degree to which political or regional factionalism or armed conflicts are adversely
+affecting government of the country.
+Any trends toward government-imposed price, interest rate, or exchange controls.
+The degree to which the country‘s legal system can be relied upon to fairly protect the
+interests of foreign creditors and investors.
+The accounting standards in the country and the reliability and transparency of
+financial information.
+
+--- Page 14 ---
+13

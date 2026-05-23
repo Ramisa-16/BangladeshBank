@@ -1,0 +1,3847 @@
+--- Page 1 ---
+ 70
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08
+
+--- Page 4 ---
+011&!$
+
+
+345"%" #
+
+
+
+
+
+97:
+
+--- Page 6 ---
+0(1
+
+--- Page 7 ---
+314
+
+
+0 1 1&!$
+
+
+
+
+
+
+
+
+,F"GF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3545"%" #
+
+
+
+
+
+
+
+ !F" #!F
+
+
+
+
+  314 
+
+
+
+
+
+
+
+
+
+-F"!F
+
+
+
+ 314
+
+--- Page 8 ---
+,F"GF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0(1
+
+*$(0(1I*$(+*$4
+
+J3%%IJ0(1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0(1
+
+
+
+
+
+
+
+
+
+
+F"#F"
+
+--- Page 9 ---
+L "I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 8
+7 8
+
+--- Page 10 ---
+MN
+
+
+
+
+
+
+MN
+
+
+
+
+
+MN
+
+
+MN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#$1I
+
+
+
+#$1&P Q
+
+--- Page 11 ---
+ 2F".3F
+ .2F
+
+
+
+
+
+
+
+
+43H
+.2-35-63.3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .3F" 63F
+ 53F
+
+--- Page 12 ---
+ 6F" 5F
+ 8F
+
+
+
+
+
+
+
+
+
+
+ 414"
+ 414
+
+
+
+
+ 414
+414 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GGF
+G2F  "
+
+
+
+
+ GGF   & 
+ G2F   &   
+
+--- Page 13 ---
+6 O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1I
+
+
+T R
+T R
+!T R 
+
+
+
+
+"!UT
+
+--- Page 14 ---
+97:
+
+--- Page 15 ---
+NAME OF THE BANK
+STRESS TEST: SENSITIVITY ANALYSIS
+Quarter
+Q1
+Year
+2010
+Table A1. Balance sheet data
+Total assets
+12,807.71
+Cash
+243.48
+Balance with Bangladesh Bank
+785.41
+Money at Call
+11.95
+Balance with Other Banks and Fis
+88.43
+T-bills
+862.53
+Market Value Of investment in listed shares, debentures & bonds, MFU
+(Own Portfolio)
+551.57
+Long-term government bonds
+235.95
+Total loans
+8,904.52
+Other assets
+1,123.87
+Total Liabilities and Shareholder's equity
+12,807.71
+Total liabilities
+11,383.50
+Deposits
+9,885.22
+Demand deposits
+3,775.63
+Domestic currency
+3,775.63
+Foreign currency
+0.00
+Time deposits
+6,109.59
+Domestic currency
+6,109.59
+Foreign currency
+0.00
+Other Liabilities
+1,498.28
+Total capital (equity)
+1,424.21
+Table A2. Other input data
+Capital adequacy calculation
+Regulatory capital
+1,499.94
+Risk weighted assets
+13,460.88
+CAR (%)
+11.14
+Credit risk data
+Performing loans
+8,722.66
+Unclassified
+8,617.90
+Special mention Account
+104.76
+Non performing loans (NPLs), gross
+181.86
+Substandard loans
+11.44
+Doubtful loans
+6.78
+Bad/Loss
+163.64
+Provisions held
+179.31
+Collateral reported against:
+Substandard loans
+3.59
+Doubtful loans
+2.78
+Bad/Loss
+114.18
+Unclassified
+6,735.39
+Structure of Unclassified Lons:
+Loans for which no collateral is held
+1,683.82
+Loans for which collateral is held
+6,934.08
+Sectoral structure of lending
+loans for which
+Collateral is held
+loans for which no
+Collateral is held
+Value of collateral
+Reported
+Total loans
+10,770.52
+5,186.00
+5,584.52
+1,100.00
+Agriculture
+709.02
+200.00
+509.02
+100.00
+RMG
+4,890.00
+2000.00
+2890.00
+1000.00
+Textile
+1,181.69
+1000.00
+181.69
+Ship Building
+2,282.00
+1200.00
+1082.00
+Ship Breaking
+927.00
+527.00
+400.00
+Other Manufacturing Industry
+609.00
+209.00
+400.00
+SME loans
+0.00
+Construction
+0.00
+Power, Gas
+0.00
+Transport, Storage and Communication
+0.00
+Trade Service
+0.00
+Commercial real estate financing
+0.00
+Residential real estate financing
+0.00
+Consumer Credit
+0.00
+Capital Market (loan provided for brokerage or merchant banking, to
+stock dealer or any kind of capital market activities)
+171.81
+50.00
+121.81
+Non-bank financial institutions
+0.00
+Others
+0.00
+
+--- Page 16 ---
+NAME OF THE BANK
+STRESS TEST: SENSITIVITY ANALYSIS
+Quarter
+Q1
+Year
+2010
+Nonperforming loans
+2,693.36
+Agriculture
+214.21
+RMG
+1,230.00
+Textile
+357.01
+Ship Building
+476.13
+Ship Breaking
+259.62
+Other Manufacturing Industry
+103.42
+SME loans
+52.98
+Construction
+Power, Gas
+Transport, Storage and Communication
+Trade Service
+Commercial real estate financing
+Residential real estate financing
+Consumer Credit
+Capital Market (loan provided for brokerage or merchant banking)
+Non-bank financial institutions
+Others
+Largest borrowers(Descending)
+Loans for which
+Collateral is held
+Loans for which no
+Collateral is held
+Value of collateral
+Reported
+Total Loan to 10 borrowers
+186.87
+87.28
+99.59
+15.00
+50.51
+20.51
+30.00
+15.00
+43.77
+23.77
+20.00
+33.67
+13.00
+20.67
+30.30
+20.00
+10.30
+28.62
+10.00
+18.62
+0.00
+0.00
+0.00
+0.00
+0.00
+Interest rate risk data
+Total Risk Sensitive Assets (by time to repricing or maturity
+whichever comes first)
+7,502.00
+< 3 months
+6,199.12
+3-6 months
+1,020.97
+6-12 months
+281.91
+Total risk sensitive liabilities (by time to repricing or maturity
+whichever comes first)
+10,724.48
+< 3 months
+9,217.12
+3-6 months
+1,494.81
+6-12 months
+12.56
+Structure of the bond portfolio
+Long-term government bonds
+235.95
+Average duration of bonds held
+1.89
+Liquid assets
+2,227.75
+Short-term liabilities
+3,775.63
+Demand deposits
+3,775.63
+other
+0.00
+Exchange rate risk data
+Net open position
+155.73
+Net US$ position
+-108.01
+Net euro position
+95.48
+Net GBP position
+60.25
+Net positions in other curr.
+-14.15
+FX loans
+2,564.00
+
+--- Page 17 ---
+BANK NAME
+Stress Testing: Liquidity
+Quarter
+Q1
+Year
+2010
+Average daily withdrawal of deposit (%)
+Demand deposits (domestic currency)
+3,775.63
+Minor
+Moderate
+Major
+Withdrawn per day (%)
+Demand deposits (foreign currency)
+0.00
+Minor
+Moderate
+Major
+Withdrawn per day (%)
+Time deposits (domestic currency)
+6,109.59
+Minor
+Moderate
+Major
+Withdrawn per day (%)
+Time deposits (foreign currency)
+0.00
+Minor
+Moderate
+Major
+Withdrawn per day (%)
+Liquid assets
+2,227.75
+Minor
+Moderate
+Major
+Available per day (%)
+Non-liquid assets
+10,579.96
+Minor
+Moderate
+Major
+Available per day (%)
+Day:1
+Minor
+Moderate
+Major
+Demand deposits (domestic)
+3775.63
+3775.63
+3775.63
+Demand deposits (foreign)
+0.00
+0.00
+0.00
+Time deposits (domestic)
+6109.59
+6109.59
+6109.59
+Time deposits (foreign)
+0.00
+0.00
+0.00
+New cash outflow (during day 1)
+0.00
+0.00
+0.00
+Liquid assets (after day 1)
+2227.75
+2227.75
+2227.75
+Non-liquid assets (after day 1)
+10579.96
+10579.96
+10579.96
+New cash inflow (during day 1)
+0.00
+0.00
+0.00
+Net cash inflow since beginning of run
+0.00
+0.00
+0.00
+Liquid? (1=yes, 0=no)
+Day:2
+Minor
+Moderate
+Major
+Demand deposits (domestic)
+3775.63
+3775.63
+3775.63
+Demand deposits (foreign)
+0.00
+0.00
+0.00
+Time deposits (domestic)
+6109.59
+6109.59
+6109.59
+Time deposits (foreign)
+0.00
+0.00
+0.00
+New cash outflow (during day 2)
+0.00
+0.00
+0.00
+Liquid assets (after day 2)
+2227.75
+2227.75
+2227.75
+Non-liquid assets (after day 2)
+10579.96
+10579.96
+10579.96
+New cash inflow (during day 2)
+0.00
+0.00
+0.00
+Net cash inflow since beginning of run
+0.00
+0.00
+0.00
+Liquid? (1=yes, 0=no)
+Day:3
+Minor
+Moderate
+Major
+Demand deposits (domestic)
+3775.63
+3775.63
+3775.63
+Demand deposits (foreign)
+0.00
+0.00
+0.00
+Time deposits (domestic)
+6109.59
+6109.59
+6109.59
+Time deposits (foreign)
+0.00
+0.00
+0.00
+New cash outflow (during day 3)
+0.00
+0.00
+0.00
+Liquid assets (after day 3)
+2227.75
+2227.75
+2227.75
+Non-liquid assets (after day 3)
+10579.96
+10579.96
+10579.96
+New cash inflow (during day 3)
+0.00
+0.00
+0.00
+Net cash inflow since beginning of run
+0.00
+0.00
+0.00
+Liquid? (1=yes, 0=no)
+Time deposits (f)
+Demand deposits (d)
+Demand deposits (f)
+Time deposits (d)
+
+--- Page 18 ---
+BANK NAME
+Stress Testing: Liquidity
+Quarter
+Q1
+Year
+2010
+Day:4
+Minor
+Moderate
+Major
+Demand deposits (domestic)
+3775.63
+3775.63
+3775.63
+Demand deposits (foreign)
+0.00
+0.00
+0.00
+Time deposits (domestic)
+6109.59
+6109.59
+6109.59
+Time deposits (foreign)
+0.00
+0.00
+0.00
+New cash outflow (during day 4)
+0.00
+0.00
+0.00
+Liquid assets (after day 4)
+2227.75
+2227.75
+2227.75
+Non-liquid assets (after day 4)
+10579.96
+10579.96
+10579.96
+New cash inflow (during day 4)
+0.00
+0.00
+0.00
+Net cash inflow since beginning of run
+0.00
+0.00
+0.00
+Liquid? (1=yes, 0=no)
+Day:5
+Minor
+Moderate
+Major
+Demand deposits (domestic)
+3775.63
+3775.63
+3775.63
+Demand deposits (foreign)
+0.00
+0.00
+0.00
+Time deposits (domestic)
+6109.59
+6109.59
+6109.59
+Time deposits (foreign)
+0.00
+0.00
+0.00
+New cash outflow (during day 5)
+0.00
+0.00
+0.00
+Liquid assets (after day 5)
+2227.75
+2227.75
+2227.75
+Non-liquid assets (after day 5)
+10579.96
+10579.96
+10579.96
+New cash inflow (during day 5)
+0.00
+0.00
+0.00
+Net cash inflow since beginning of run
+0.00
+0.00
+0.00
+Liquid? (1=yes, 0=no)
+Authoeized Signature:
+Name:
+Designation:
+Phone:
+
+--- Page 19 ---
+BANK NAME:
+Stress Testing
+Quarter
+Q1
+Year
+2010
+FEX SHOCK
+Regulatory Capital
+1,499.94
+Total RWA
+13,460.88
+CAR before shock (%)
+11.14
+Net open position
+155.73
+Net US$ position
+-108.01
+Net euro position
+95.48
+Net GBP position
+60.25
+Net positions in other curr.
+-14.15
+Currency Depreciation
+Minor
+Moderate
+Major
+Assumed change
+Extra provision required
+0.00
+0.00
+0.00
+Regulatory Capital after shock
+1,499.94
+1,499.94
+1,499.94
+RWA after shock
+13,460.88
+13,460.88
+13,460.88
+CAR after shock (%)
+0.00
+0.00
+0.00
+Changes in CAR after shock
+0.00
+0.00
+0.00
+Currency Appreciation
+Minor
+Moderate
+Major
+Assumed change
+Extra provision required
+0.00
+0.00
+0.00
+Regulatory Capital after shock
+1499.94
+1499.94
+1499.94
+RWA after shock
+13460.88
+13460.88
+13460.88
+CAR after shock (%)
+0.00
+0.00
+0.00
+Changes in CAR after shock
+0.00
+0.00
+0.00
+Authoeized Signature:
+Name:
+Designation:
+Phone:
+Please Use Currency Appreciation Format
+
+--- Page 20 ---
+BANK NAME:
+Stress Testing
+Quarter
+Q1
+Year
+2010
+EQUITY PRICE SHOCK
+Regulatory Capital
+1,499.94
+Total RWA
+13,460.88
+CAR before shock (%)
+11.14
+Market Value Of investment in
+listed shares, debentures &
+bonds, MFU (Own Portfolio)
+551.57
+Equity Shock
+Minor
+Moderate
+Major
+Assumed fall in price
+Fall in MTM value
+0.00
+0.00
+0.00
+Regulatory Capital after shock
+1,499.94
+1,499.94
+1,499.94
+RWA after shock
+13,460.88
+13,460.88
+13,460.88
+CAR after shock (%)
+11.14
+11.14
+11.14
+Changes in CAR after shock
+0.00
+0.00
+0.00
+Authoeized Signature:
+Name:
+Designation:
+Phone:
+
+--- Page 21 ---
+BANK NAME:
+Stress Testing : Interest Rate
+Quarter
+Q1
+Year
+2010
+Maturity buckets
+Gap
+< 3 months
+-3,018.00
+3-6 months
+-473.84
+6-12 months
+269.35
+Cummulative gap
+< 3 months
+-3,018.00
+<6 months
+-3,491.83
+<12 months
+-3,222.48
+CAR before-shock (%)
+11.14
+Interest Rate Stress Test
+Minor
+Moderate
+Major
+Assumed change in Interest Rate
+Net interest income impact
+<12 months
+0.00
+0.00
+0.00
+Capital after-shock
+1499.94
+1499.94
+1499.94
+CAR after-shock (%)
+11.14
+11.14
+11.14
+Change in CAR after-shock (%)
+0.00
+0.00
+0.00
+Repricing impact
+Change in the value of the bond portfolio
+0.00
+0.00
+0.00
+Capital after-shock
+1,499.94
+1,499.94
+1,499.94
+CAR after-shock (percent)
+11.14
+11.14
+11.14
+Change in CAR after-shock (%)
+0.00
+0.00
+0.00
+Overall change in CAR (NII and repricing impact,%)
+0.00
+0.00
+0.00
+Authoeized Signature:
+Name:
+Designation:
+Phone:
+
+--- Page 22 ---
+BANK NAME:
+Stress Testing
+Quarter
+Q1
+Year
+2010
+CREDIT SHOCK: INDIVIDUAL
+Total loans (gross)
+8,905
+Performing loans
+8,723
+Unclassified
+8,618
+Special mention loans
+105
+Non performing loans (NPLs), gross
+182
+Substandard loans
+11
+Doubtful loans
+Bad/Loss
+164
+Provisions held
+179
+Regulatory capital
+1,500
+Risk-weighted assets (RWA)
+13,461
+Capital adequacy ratio (CAR) pre-shock
+11.14
+NPLs (gross)/total loans (gross)
+2.04
+(NPLs-provisions)/capital
+0.17
+Collateral Reported against:
+Substandard loans
+Doubtful loans
+Bad/Loss
+114
+Unclassified
+6,735
+Structure of Unclassified Lons:
+Loans for which no collateral is held
+1,684
+Loans for which collateral is held
+6,934
+RMG
+Sector
+a) Loan without collateral
+2890
+UC
+SMA
+SS
+DF
+B/L
+Existing rate of Provisioning
+Assumed increase in NPLs
+Minor
+Moderate
+Major
+Additional NPLs
+0.00
+0.00
+0.00
+Provisions needed
+0.00
+0.00
+0.00
+Provisions held
+0.00
+0.00
+0.00
+Extra provisions to be made
+0.00
+0.00
+0.00
+Capital post-shock
+1,499.94
+1,499.94
+1,499.94
+RWA post-shock
+13,460.88
+13,460.88
+13,460.88
+Capital adequacy post-shock
+11.14
+11.14
+11.14
+Capital adequacy change
+0.00
+0.00
+0.00
+Shock 1(1): Stress on sectoral concentration: performing loan directly downgraded to B/L
+RESULT
+
+--- Page 23 ---
+BANK NAME:
+Stress Testing
+Quarter
+Q1
+Year
+2010
+CREDIT SHOCK: INDIVIDUAL
+RMG
+Sector
+b) Loan for which collateral is held
+2000
+Collateral held
+1000
+UC
+SMA
+SS
+DF
+B/L
+Existing rate of Provisioning
+Assumed increase in NPLs
+Minor
+Moderate
+Major
+Additional NPLs
+0.00
+0.00
+0.00
+Propotionate value of collateral
+0.00
+0.00
+0.00
+Provisions needed
+0.00
+0.00
+0.00
+Provisions held
+0.00
+0.00
+0.00
+Extra provisions to be made
+0.00
+0.00
+0.00
+Capital post-shock
+1,499.94
+1,499.94
+1,499.94
+RWA post-shock
+13,460.88
+13,460.88
+13,460.88
+Capital adequacy post-shock
+11.14
+11.14
+11.14
+Capital adequacy change
+0.00
+0.00
+0.00
+Sector Name:
+Capital Market (loan provided for brokerage or merchant banking, to stock dealer or any kind of capital ma
+a) Loan without collateral
+121.81
+UC
+SMA
+SS
+DF
+B/L
+Existing rate of Provisioning
+Assumed increase in NPLs
+Minor
+Moderate
+Major
+Additional NPLs
+0.00
+0.00
+0.00
+Provisions needed
+0.00
+0.00
+0.00
+Provisions held
+0.00
+0.00
+0.00
+Extra provisions to be made
+0.00
+0.00
+0.00
+Capital post-shock
+1,499.94
+1,499.94
+1,499.94
+RWA post-shock
+13,460.88
+13,460.88
+13,460.88
+Capital adequacy post-shock
+11.14
+11.14
+11.14
+Capital adequacy change
+0.00
+0.00
+0.00
+Shock 1(1): Stress on sectoral concentration: performing loan directly downgraded to B/L
+Shock 1(2): Stress on sectoral concentration: performing loan directly downgraded to B/L
+RESULT
+RESULT
+
+--- Page 24 ---
+BANK NAME:
+Stress Testing
+Quarter
+Q1
+Year
+2010
+CREDIT SHOCK: INDIVIDUAL
+Sector Name:
+Capital Market (loan provided for brokerage or merchant banking, to stock dealer or any kind of capital market act
+b) Loan for which collateral is held
+50
+Collateral held
+UC
+SMA
+SS
+DF
+B/L
+Existing rate of Provisioning
+Assumed increase in NPLs
+Minor
+Moderate
+Major
+Additional NPLs
+0.00
+0.00
+0.00
+Propotionate value of collateral
+0.00
+0.00
+0.00
+Provisions needed
+0.00
+0.00
+0.00
+Provisions held
+0.00
+0.00
+0.00
+Extra provisions to be made
+0.00
+0.00
+0.00
+Capital post-shock
+1,499.94
+1,499.94
+1,499.94
+RWA post-shock
+13,460.88
+13,460.88
+13,460.88
+Capital adequacy post-shock
+11.14
+11.14
+11.14
+Capital adequacy change
+0.00
+0.00
+0.00
+a) Loan for which no collateral is held
+50.00
+50.00
+50.00
+UC
+SMA
+SS
+DF
+B/L
+Existing rate of Provisioning
+Assumed increase in NPLs
+100.0%
+100.0%
+100.0%
+Number of Defaulters
+Minor
+Moderate
+Major
+Additional NPLs
+50.00
+50.00
+50.00
+Provisions needed
+0.00
+0.00
+0.00
+Provisions held
+0.00
+0.00
+0.00
+Extra provisions to be made
+0.00
+0.00
+0.00
+Capital post-shock
+1,499.94
+1,499.94
+1,499.94
+RWA post-shock
+13,460.88
+13,460.88
+13,460.88
+Capital adequacy post-shock
+11.14
+11.14
+11.14
+Capital adequacy change
+0.00
+0.00
+0.00
+RESULT
+RESULT
+Shock 1(2): Stress on sectoral concentration: performing loan directly downgraded to B/L
+Shock 2(1): Increase in NPLs due to default of Top large loan borrowers
+
+--- Page 25 ---
+BANK NAME:
+Stress Testing
+Quarter
+Q1
+Year
+2010
+CREDIT SHOCK: INDIVIDUAL
+a) Loan for which collateral is held
+44.28
+44.28
+44.28
+Collateral value reported
+15.00
+15.00
+15.00
+UC
+SMA
+SS
+DF
+B/L
+Existing rate of Provisioning
+Assumed increase in NPLs
+100.0%
+100.0%
+100.0%
+Number of Defaulters
+Minor
+Moderate
+Major
+Additional NPLs
+44.28
+44.28
+44.28
+Propotionate value of collateral
+15.00
+15.00
+15.00
+Provisions needed
+0.00
+0.00
+0.00
+Provisions held
+0.00
+0.00
+0.00
+Extra provisions to be made
+0.00
+0.00
+0.00
+Capital post-shock
+1,499.94
+1,499.94
+1,499.94
+RWA post-shock
+13,460.88
+13,460.88
+13,460.88
+Capital adequacy post-shock
+11.14
+11.14
+11.14
+Capital adequacy change
+0.00
+0.00
+0.00
+Authoeized Signature:
+Name:
+Designation:
+Phone:
+RESULT
+Shock 2(1): Increase in NPLs due to default of Top large loan borrowers
+
+--- Page 26 ---
+BANK NAME:
+Stress Testing
+Quarter
+Q1
+Year
+2010
+CRIDIT SHOCK: COMBINED
+Total loans (gross)
+8,905
+Performing loans
+8,723
+Unclassified
+8,618
+Special mention loans
+105
+Non performing loans (NPLs), gross
+182
+Substandard loans
+11.44
+Doubtful loans
+Bad/Loss
+164
+Provisions held
+179
+Total loan loss provision
+0.00
+Unclassified
+0.00
+Special mention loans
+0.00
+Substandard loans
+0.00
+Doubtful loans
+0.00
+Bad/Loss
+0.00
+Others
+179.31
+Regulatory capital
+1,500
+Risk-weighted assets (RWA)
+13,461
+Capital adequacy ratio (CAR) pre-shock
+11.14
+NPLs (gross)/total loans (gross)
+2.04
+(NPLs-provisions)/capital
+12.12
+Collateral Reported against:
+Substandard loans
+Doubtful loans
+Bad/Loss
+114
+Unclassified
+6,735
+Structure of Unclassified Lons:
+Loans for which no collateral is held
+1,684
+Loans for which collateral is held
+6,934
+Result Of the Combined Shock:
+Minor
+Moderate
+Major
+Capital adequacy change
+0.00
+0.00
+0.00
+CAR post-shock (%)
+11.14
+11.14
+11.14
+Authoeized Signature:
+Name:
+Designation:
+Phone:
+
+--- Page 27 ---
+BANK NAME:
+Stress Testing
+Quarter
+Q1
+Year
+2010
+CRIDIT SHOCK: COMBINED
+UC
+SMA
+SS
+DF
+B/L
+Existing rate of Provisioning
+Decrease in FSV of the Collateral by
+Minor
+Moderate
+Major
+Collateral value after applying the shock:
+Substandard loans
+3.59
+3.59
+3.59
+Doubtful loans
+2.78
+2.78
+2.78
+Loss loans
+114.18
+114.18
+114.18
+Provisions needed
+0.00
+0.00
+0.00
+Provisions held
+0.00
+0.00
+0.00
+Extra provisions to be made
+0.00
+0.00
+0.00
+Capital post-shock
+1,499.94
+1,499.94
+1,499.94
+RWA post-shock
+13,460.9
+13,460.9
+13,460.9
+CAR post-shock (%)
+11.14
+11.14
+11.14
+Capital adequacy change
+0.00
+0.00
+0.00
+UC
+SMA
+SS
+DF
+B/L
+Existing rate of Provisioning
+Assumed increase in NPLs (%)
+Minor
+Moderate
+Major
+Additional NPLs
+0.00
+0.00
+0.00
+Provisions needed
+0.00
+0.00
+0.00
+Provisions held
+0.00
+0.00
+0.00
+Extra provisions to be made
+0.00
+0.00
+0.00
+Capital post-shock
+1,499.94
+1,499.94
+1,499.94
+RWA post-shock
+13,460.88
+13,460.88
+13,460.88
+CAR post-shock (%)
+11.14
+11.14
+11.14
+Capital adequacy change
+0.00
+0.00
+0.00
+RESULT
+RESULT
+Shock 1: Decrease in the FSV of the Collateral
+Shock 2(a): Increase in NPLs of loans for which no collateral is held
+
+--- Page 28 ---
+BANK NAME:
+Stress Testing
+Quarter
+Q1
+Year
+2010
+CRIDIT SHOCK: COMBINED
+UC
+SMA
+SS
+DF
+B/L
+Existing rate of Provisioning
+Assumed increase in NPLs
+Minor
+Moderate
+Major
+Additional NPLs
+0.00
+0.00
+0.00
+Propotionate value of collateral after shock
+0.00
+0.00
+0.00
+Provisions needed
+0.00
+0.00
+0.00
+Provisions held
+0.00
+0.00
+0.00
+Extra provisions to be made
+0.00
+0.00
+0.00
+Capital post-shock
+1,499.94
+1,499.94
+1,499.94
+RWA post-shock
+13,460.88
+13,460.88
+13,460.88
+CAR post-shock (%)
+11.14
+11.14
+11.14
+Capital adequacy change
+0.00
+0.00
+0.00
+Result (Shock 2a + Shock 2b)
+Capital adequacy change
+0.00
+0.00
+0.00
+Capital adequacy post-shock
+11.14
+11.14
+11.14
+UC
+SMA
+SS
+DF
+B/L
+Existing rate of Provisioning
+Assumed shift in NPLs categiries
+Minor
+Moderate
+Major
+SS after shift
+11.44
+11.44
+11.44
+DF after shift
+6.78
+6.78
+6.78
+B/L after shift
+163.64
+163.64
+163.64
+Propotionate value of collateral after shift:
+SS
+3.59
+3.59
+3.59
+DF
+2.78
+2.78
+2.78
+B/L
+114.59
+114.59
+114.59
+Propotionate provision after shift:
+SS
+0.00
+0.00
+0.00
+DF
+0.00
+0.00
+0.00
+B/L
+0.00
+0.00
+0.00
+Extra provisions to be made
+0.00
+0.00
+0.00
+Capital post-shock
+1,499.94
+1,499.94
+1,499.94
+RWA post-shock
+13,460.88
+13,460.88
+13,460.88
+CAR post-shock (%)
+11.14
+11.14
+11.14
+Capital adequacy change
+0.00
+0.00
+0.00
+RESULT
+RESULT
+Shock 2(b): Increase in NPLs of loans for which collateral is held
+Shock 3: Negative Shift in NPLs categories
+
+--- Page 29 ---
+Quarter Q1
+Year
+2010
+#DIV/0!
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Minimum Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Claims on Banks and NBFIs (denominated
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+ii) Original maturity less than 3 months 20
+20
+1000
+200
+1000
+200
+Total
+3800.00
+2620.00
+3800.00
+2620.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+1000
+200
+1000
+200
+50
+1000
+500
+1000
+500
+3,4
+100
+500
+500
+500
+500
+5,6
+150
+800
+1200
+800
+1200
+Unrated
+125
+1200
+1500
+1200
+1500
+Total
+4500.00
+3900.00
+4500.00
+3900.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+75%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+100%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+50%
+100.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+100%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+0.00
+0.00
+0.00
+#DIV/0!
+#DIV/0!
+Capital Adequacy Ratio after shock (%)
+i) Original maturity over 3 months
+Total RWA after shock
+Total retail & small enterprise loan
+Exposure
+Shock
+Applied (%)
+Exposure
+RWA
+BB’s
+Rating
+Risk
+Weight (%)
+Claims on Multilateral Development Banks
+(MDBs) other than IBRD , IFC, ADB, AfDB,
+EBRD, IADB, EIB, EIF, NIB, CDB, IDB,
+CEDB.
+Risk
+Weight (%)
+Before Shock
+Total Consumer loan
+Shift of Performing loan to SMA, Shock Applied
+Risk
+Weight (%)
+NEGATIVE SHIFT IN RATING CATEGORIES (Balance sheet Exposure): Shock 1
+RWA
+Total RWA
+Capital Adequacy Ratio
+Total Capital Maintained
+Before Shock
+Exposure Type
+Exposure
+Risk
+Weight (%)
+Exposure
+RWA
+Provision
+Held (UC))
+Risk
+Weight (%)
+Exposure
+RWA
+Rate of Provision (UC)
+Under Stress Condition
+Before Shock
+Under Stress Condition
+RWA
+Sl.
+Exposure
+Claims Categorized as retail portfolio &
+small enterprise (excluding consumer
+finance and staff loan)
+Shift of Performing loan to SMA, Shock Applied
+RWA
+Provision
+Held (UC))
+Rate of Provision (UC)
+Under Stress Condition
+Before Shock
+Under Stress Condition
+Bank Name:
+Claims on public sector entities
+(excluding equity exposure)
+Claims on Corporate (excluding equity
+exposures)
+MCR
+Provision
+Held (UC))
+Exposure
+Total increase in RWA after shock
+Total increase in Capital requirement after shock
+Exposure
+Risk
+Weight (%)
+Exposure
+RWA
+Change in CAR (%)
+Claims fully secured by Commercial real
+estate (excluding staff loan/Investment)
+Total loan
+Rate of Provision (UC)
+Risk
+Weight (%)
+Under Stress Condition
+Risk
+Weight (%)
+RWA
+Risk
+Weight (%)
+Exposure
+RWA
+Provision
+Held (UC))
+RWA
+Shift of Performing loan to SMA, Shock Applied
+Total loan
+Rate of Provision (UC)
+Before Shock
+Shift of Performing loan to SMA, Shock Applied
+Claims fully secured by residential
+property (excluding staff loan/Investment)
+Consumer Finance
+
+--- Page 30 ---
+Quarter Q1
+Year
+2010
+Bank Name:
+0.00
+0.00
+#DIV/0!
+0.00
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Minimum Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Claims on Banks and NBFIs (denominated
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+ii) Original maturity up to 3 months 20
+20
+1000
+200
+1000
+200
+Total
+3800.00
+2620.00
+3800.00
+2620.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+1000
+200
+1000
+200
+50
+1000
+500
+1000
+500
+3,4
+100
+500
+500
+500
+500
+5,6
+150
+800
+1200
+800
+1200
+Unrated
+125
+1200
+1500
+1200
+1500
+Total
+4500.00
+3900.00
+4500.00
+3900.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+75%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+100%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+50%
+100.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+100%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+0.00
+0.00
+0.00
+#DIV/0!
+#DIV/0!
+Claims on public sector entities
+(excluding equity exposure)
+NEGATIVE SHIFT IN RATING CATEGORIES (Balance sheet Exposure): Shock 2
+RWA
+RWA
+Total Capital Maintained
+BB’s
+Rating
+Exposure
+Risk
+Weight (%)
+Shock
+Applied (%)
+Sl.
+Exposure Type
+Claims on Multilateral Development Banks
+(MDBs) other than IBRD , IFC, ADB, AfDB,
+EBRD, IADB, EIB, EIF, NIB, CDB, IDB,
+CEDB.
+Total RWA
+Capital Adequacy Ratio
+MCR
+Before Shock
+Provision
+Held (UC))
+i) Original maturity over 3 months
+Claims on Corporate (excluding equity
+exposures)
+Risk
+Weight (%)
+Rate of Provision (UC)
+Exposure
+Risk
+Weight (%)
+Under Stress Condition
+RWA
+Exposure
+RWA
+Shift of Performing loan to SMA, Shock Applied
+Before Shock
+Consumer Finance
+Shift of Performing loan to SMA, Shock Applied
+Total Consumer loan
+Under Stress Condition
+Provision
+Held (UC))
+Risk
+Weight (%)
+Before Shock
+RWA
+Exposure
+RWA
+Rate of Provision (UC)
+Risk
+Weight (%)
+RWA
+Provision
+Held (UC))
+Exposure
+Risk
+Weight (%)
+Capital Adequacy Ratio after shock (%)
+Change in CAR (%)
+Total increase in RWA after shock
+Total increase in Capital requirement after shock
+Total RWA after shock
+Claims fully secured by residential
+property (excluding staff loan/Investment)
+Shift of Performing loan to SMA, Shock Applied
+Before Shock
+Under Stress Condition
+RWA
+Exposure
+Total loan
+Risk
+Weight (%)
+Rate of Provision (UC)
+Total loan
+Claims Categorized as retail portfolio &
+small enterprise (excluding consumer
+finance and staff loan)
+Exposure
+Shift of Performing loan to SMA, Shock Applied
+Total retail & small enterprise loan
+Before Shock
+Exposure
+RWA
+Exposure
+Claims fully secured by Commercial real
+estate (excluding staff loan/Investment)
+Under Stress Condition
+Provision
+Held (UC))
+Risk
+Weight (%)
+Rate of Provision (UC)
+Under Stress Condition
+Risk
+Weight (%)
+RWA
+Exposure
+
+--- Page 31 ---
+Quarter Q1
+Year
+2010
+Bank Name:
+0.00
+0.00
+#DIV/0!
+0.00
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Minimum Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Claims on Banks and NBFIs (denominated
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+ii) Original maturity up to 3 months 20
+20
+1000
+200
+1000
+200
+Total
+3800.00
+2620.00
+3800.00
+2620.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+1000
+200
+1000
+200
+50
+1000
+500
+1000
+500
+3,4
+100
+500
+500
+500
+500
+5,6
+150
+800
+1200
+800
+1200
+Unrated
+125
+1200
+1500
+1200
+1500
+Total
+4500.00
+3900.00
+4500.00
+3900.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+75%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+100%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+50%
+100.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+100%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+0.00
+0.00
+0.00
+#DIV/0!
+#DIV/0!
+i) Original maturity over 3 months
+Claims on Multilateral Development Banks
+(MDBs) other than IBRD , IFC, ADB, AfDB,
+EBRD, IADB, EIB, EIF, NIB, CDB, IDB,
+CEDB.
+Before Shock
+Risk
+Weight (%)
+Exposure
+RWA
+Shock
+Applied (%)
+Exposure
+NEGATIVE SHIFT IN RATING CATEGORIES (Balance sheet Exposure): Shock 3
+Under Stress Condition
+MCR
+Capital Adequacy Ratio
+Total Capital Maintained
+Total RWA
+Claims on public sector entities
+(excluding equity exposure)
+RWA
+Sl.
+Exposure Type
+BB’s
+Rating
+Claims Categorized as retail portfolio &
+small enterprise (excluding consumer
+finance and staff loan)
+Shift of Performing loan to SMA, Shock Applied
+Total retail & small enterprise loan
+Rate of Provision (UC)
+Before Shock
+Under Stress Condition
+Risk
+Weight (%)
+Exposure
+Claims on Corporate (excluding equity
+exposures)
+Consumer Finance
+Shift of Performing loan to SMA, Shock Applied
+Total Consumer loan
+Rate of Provision (UC)
+Before Shock
+Under Stress Condition
+RWA
+Provision
+Held (UC))
+RWA
+Provision
+Held (UC))
+Exposure
+RWA
+Risk
+Weight (%)
+RWA
+RWA
+Risk
+Weight (%)
+Exposure
+Exposure
+Risk
+Weight (%)
+Exposure
+Claims fully secured by residential
+property (excluding staff loan/Investment)
+Shift of Performing loan to SMA, Shock Applied
+Total loan
+Rate of Provision (UC)
+Before Shock
+Under Stress Condition
+Risk
+Weight (%)
+Exposure
+RWA
+Provision
+Held (UC))
+Risk
+Weight (%)
+Claims fully secured by Commercial real
+estate (excluding staff loan/Investment)
+Shift of Performing loan to SMA, Shock Applied
+Total loan
+Rate of Provision (UC)
+Before Shock
+Under Stress Condition
+Risk
+Weight (%)
+Risk
+Weight (%)
+RWA
+Exposure
+RWA
+Provision
+Held (UC))
+Exposure
+Capital Adequacy Ratio after shock (%)
+Change in CAR (%)
+Total increase in RWA after shock
+Total increase in Capital requirement after shock
+Total RWA after shock
+
+--- Page 32 ---
+STRESS TEST: SENSITIVITY ANALYSIS
+Quarter
+Q1
+Year
+2010
+9.00
+11.14
+Minor
+Moderate
+Major
+Changes in
+CA
+Changes in
+CA
+Changes
+in CA
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+0.00
+11.14
+Minor
+Moderate
+Major
+Changes in
+CA
+Changes in
+CA
+Changes in
+CA
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+11.14
+11.14
+11.14
+Minor
+Moderate
+Major
+Changes in
+CA
+Changes in
+CA
+Changes in
+CA
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+Minor
+Moderate
+Major
+Changes in
+CA
+Changes in
+CA
+Changes in
+CA
+0.00
+0.00
+2625.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2625.00
+#DIV/0!
+#DIV/0!
+0.00
+#DIV/0!
+#DIV/0!
+#DIV/0!
+Minor
+Moderate
+Major
+Day:1
+Day:2
+Day:3
+Day:4
+Day:5
+Head Of Risk Management
+Managing Director
+Capital Adequacy Ratio after shock (%)
+Change in CAR (%)
+Total increase in RWA after shock
+Total increase in Capital requirement after shock
+Interest Rate
+FEX : Currency Appreciation
+Increase in NPLs
+Total RWA after shock
+Credit Shock Under Basel II (Balance Sheet Exposure)
+Total Change
+CAR after shock (%)
+Interest Rate
+FEX : Currency Appreciation
+Equity Shock
+Negative Shift in NPLs categories
+Increase in NPLs due to default of Top large loan borrowers
+CAR after
+Shock (%)
+Regulatory CAR (%)
+Negative Shift in NPLs categories
+CAR after
+Shock (%)
+Individual Shocks
+CAR after
+Shock (%)
+Liquid? (1=yes, 0=no)
+Decrease in the FSV of the Collateral
+Equity Shock
+Combined Shock
+Decrease in the FSV of the Collateral
+Performing loan directly downgraded to B/L :Sectoral Concentration 2
+Liquid? (1=yes, 0=no)
+Capital Adequacy Ratio after shock (%)
+Total Changes in CAR
+Total RWA after shock
+NAME OF THE BANK
+Liquidity Stress: 5 working days
+Credit Shock Under Basel II (Off Balance Sheet Exposure)
+Total increase in RWA after shock
+Total increase in Capital requirement after shock
+Stress Test Results:
+Changes in Capital adequacy at different shock levels
+CAR before shock (%)
+Performing loan directly downgraded to B/L :Sectoral Concentration 1
+Signature
+Measures Taken To Reduce Risk:
+Liquid? (1=yes, 0=no)
+Liquid? (1=yes, 0=no)
+Signature
+President Of the Board
+Signature
+Liquid? (1=yes, 0=no)
+
+--- Page 33 ---
+Quarter Q1
+Year
+2010
+0.00
+0.00
+#DIV/0!
+0.00
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Minimum Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Claims on Banks and NBFIs (denominated
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+ii) Maturity less than 3 months
+20
+1000
+200
+1000
+200
+Total
+3800.00
+2620.00
+3800.00
+2620.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+1000
+200
+1000
+200
+50
+1000
+500
+1000
+500
+3,4
+100
+500
+500
+500
+500
+5,6
+150
+800
+1200
+800
+1200
+Unrated
+125
+1200
+1500
+1200
+1500
+Total
+4500.00
+3900.00
+4500.00
+3900.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+75%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+100%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+50%
+100.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+100%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+0.00
+0.00
+0.00
+#DIV/0!
+#DIV/0!
+Capital Adequacy Ratio after shock (%)
+Change in CAR (%)
+Claims against retail portfolio & small
+enterprise (excluding consumer loan)
+Rate of Provision (UC)
+Before Shock
+Under Stress Condition
+Risk
+Weight (%)
+Shift of Performing loan to SMA, Shock Applied
+Risk
+Weight (%)
+Claims fully secured by residential
+property
+Consumer Finance
+RWA
+Risk
+Weight (%)
+Exposure
+RWA
+Provision
+Held (UC))
+Claims on Corporate
+MCR
+Claims fully secured by Commercial real
+estate
+Claims on Multilateral Development Banks
+(MDBs) other than IBRD , IFC, ADB, AfDB,
+EBRD, IADB, EIB, EIF, NIB, CDB, IDB,
+CEDB.
+Before Shock
+Under Stress Condition
+Total loan
+Rate of Provision (UC)
+Risk
+Weight (%)
+RWA
+Exposure
+RWA
+Provision
+Held (UC))
+Exposure
+Shift of Performing loan to SMA, Shock Applied
+i) Maturity over 3 months
+Bank Name:
+Claims on public sector entities (other
+than Government) in Bangladesh
+NEGATIVE SHIFT IN RATING CATEGORIES (Off Balance sheet Exposure): Shock 1
+RWA
+Provision
+Held (UC))
+Risk
+Weight (%)
+Rate of Provision (UC)
+Risk
+Weight (%)
+Risk
+Weight (%)
+Total retail & small enterprise loan
+Exposure
+RWA
+Rate of Provision (UC)
+Under Stress Condition
+Before Shock
+Under Stress Condition
+RWA
+Shift of Performing loan to SMA, Shock Applied
+Exposure
+Before Shock
+Total RWA
+Capital Adequacy Ratio
+Total Capital Maintained
+Before Shock
+Under Stress Condition
+Sl.
+Exposure Type
+Exposure
+Shock
+Applied (%)
+Exposure
+RWA
+BB’s
+Rating
+Risk
+Weight (%)
+RWA
+Exposure
+Provision
+Held (UC))
+Exposure
+Total Consumer loan
+Risk
+Weight (%)
+Total increase in RWA after shock
+Total increase in Capital requirement after shock
+Total loan
+Shift of Performing loan to SMA, Shock Applied
+Exposure
+RWA
+Total RWA after shock
+
+--- Page 34 ---
+Quarter Q1
+Year
+2010
+Bank Name:
+0.00
+0.00
+#DIV/0!
+0.00
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Minimum Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Claims on Banks and NBFIs (denominated
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+ii) Maturity less than 3 months
+20
+1000
+200
+1000
+200
+Total
+3800.00
+2620.00
+3800.00
+2620.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+1000
+200
+1000
+200
+50
+1000
+500
+1000
+500
+3,4
+100
+500
+500
+500
+500
+5,6
+150
+800
+1200
+800
+1200
+Unrated
+125
+1200
+1500
+1200
+1500
+Total
+4500.00
+3900.00
+4500.00
+3900.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+75%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+100%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+50%
+100.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+Total
+100%
+150.00%
+Increase in RWA
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+#DIV/0!
+0.00
+0.00
+0.00
+#DIV/0!
+#DIV/0!
+Risk
+Weight (%)
+Exposure
+RWA
+Provision
+Held (UC))
+Total increase in RWA after shock
+Total increase in Capital requirement after shock
+Total RWA after shock
+Capital Adequacy Ratio after shock (%)
+Change in CAR (%)
+Exposure
+Risk
+Weight (%)
+Total loan
+Rate of Provision (UC)
+Before Shock
+Under Stress Condition
+RWA
+Claims fully secured by residential
+property
+RWA
+Risk
+Weight (%)
+Exposure
+Total loan
+Rate of Provision (UC)
+Shift of Performing loan to SMA, Shock Applied
+Claims fully secured by Commercial real
+estate
+Shift of Performing loan to SMA, Shock Applied
+Exposure
+RWA
+Provision
+Held (UC))
+Exposure
+Provision
+Held (UC))
+Exposure
+Risk
+Weight (%)
+NEGATIVE SHIFT IN RATING CATEGORIES (Off Balance sheet Exposure): Shock 2
+Total Capital Maintained
+Total RWA
+Exposure
+Risk
+Weight (%)
+RWA
+Provision
+Held (UC))
+Under Stress Condition
+Before Shock
+Consumer Finance
+Shift of Performing loan to SMA, Shock Applied
+Total Consumer loan
+Rate of Provision (UC)
+Before Shock
+Under Stress Condition
+Risk
+Weight (%)
+RWA
+Risk
+Weight (%)
+Claims on Corporate
+Claims against retail portfolio & small
+enterprise (excluding consumer loan)
+Shift of Performing loan to SMA, Shock Applied
+Total retail & small enterprise loan
+Rate of Provision (UC)
+Before Shock
+Under Stress Condition
+Risk
+Weight (%)
+Exposure
+RWA
+Exposure Type
+i) Maturity over 3 months
+RWA
+Claims on public sector entities (other
+than Government) in Bangladesh
+Capital Adequacy Ratio
+RWA
+Claims on Multilateral Development Banks
+(MDBs) other than IBRD , IFC, ADB, AfDB,
+EBRD, IADB, EIB, EIF, NIB, CDB, IDB,
+CEDB.
+MCR
+Before Shock
+Under Stress Condition
+BB’s
+Rating
+Risk
+Weight (%)
+Exposure
+RWA
+Shock
+Applied (%)
+Exposure
+Sl.
+
+--- Page 35 ---
+Quarter Q1
+Year
+2010
+Bank Name:
+0.00
+0.00
+#DIV/0!
+0.00
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Minimum Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+Total
+2800.00
+2420.00
+2800.00
+2420.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+Claims on Banks and NBFIs (denominated
+20
+100
+20
+100
+20
+2,3
+50
+200
+100
+200
+100
+4,5
+100
+500
+500
+500
+500
+150
+800
+1200
+800
+1200
+Unrated
+50
+1200
+600
+1200
+600
+ii) Maturity less than 3 months
+20
+1000
+200
+1000
+200
+Total
+3800.00
+2620.00
+3800.00
+2620.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+20
+1000
+200
+1000
+200
+50
+1000
+500
+1000
+500
+3,4
+100
+500
+500
+500
+500
+5,6
+150
+800
+1200
+800
+1200
+Unrated
+125
+1200
+1500
+1200
+1500
+Total
+4500.00
+3900.00
+4500.00
+3900.00
+Increase in RWA
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+#DIV/0!
+10.00%
+1000
+Total
+75%
+1500
+1125
+1500
+150.00%
+2250
+Increase in RWA
+1125
+Increase in Capital requirement
+Capital Adequacy Ratio after shock
+0.00%
+Total
+100%
+1000
+1000
+1000
+150.00%
+1500
+Increase in RWA
+500
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+0.00%
+Total
+50%
+1000
+500
+1000
+100.00%
+1000
+Increase in RWA
+500
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+0.00%
+Total
+100%
+1000
+1000
+1000
+150.00%
+1500
+Increase in RWA
+500
+Increase in Capital requirement
+0.00
+Capital Adequacy Ratio after shock
+0.00%
+2625.00
+0.00
+2625.00
+0.00
+#DIV/0!
+Capital Adequacy Ratio
+NEGATIVE SHIFT IN RATING CATEGORIES (Off Balance sheet Exposure): Shock 3
+Total Capital Maintained
+Total RWA
+MCR
+Before Shock
+Under Stress Condition
+Sl.
+Exposure Type
+BB’s
+Rating
+Risk
+Weight (%)
+Exposure
+RWA
+Shock
+Applied (%)
+Exposure
+RWA
+Claims on Multilateral Development Banks
+(MDBs) other than IBRD , IFC, ADB, AfDB,
+EBRD, IADB, EIB, EIF, NIB, CDB, IDB,
+CEDB.
+Claims on public sector entities (other
+than Government) in Bangladesh
+i) Maturity over 3 months
+RWA
+Claims on Corporate
+Under Stress Condition
+Claims against retail portfolio & small
+enterprise (excluding consumer loan)
+Exposure
+Shift of Performing loan to SMA, Shock Applied
+Total retail & small enterprise loan
+Rate of Provision (UC)
+Before Shock
+Risk
+Weight (%)
+Risk
+Weight (%)
+RWA
+Provision
+Held (UC))
+Exposure
+Consumer Finance
+Shift of Performing loan to SMA, Shock Applied
+Total Consumer loan
+Rate of Provision (UC)
+Before Shock
+Under Stress Condition
+Exposure
+Risk
+Weight (%)
+RWA
+Provision
+Held (UC))
+Exposure
+Risk
+Weight (%)
+Exposure
+RWA
+Provision
+Held (UC))
+Exposure
+Provision
+Held (UC))
+Exposure
+Risk
+Weight (%)
+Total loan
+Rate of Provision (UC)
+Before Shock
+Under Stress Condition
+Before Shock
+Under Stress Condition
+Risk
+Weight (%)
+Exposure
+RWA
+Risk
+Weight (%)
+Capital Adequacy Ratio after shock (%)
+RWA
+Claims fully secured by Commercial real
+estate
+Shift of Performing loan to SMA, Shock Applied
+Total loan
+Rate of Provision (UC)
+Claims fully secured by residential
+property
+Shift of Performing loan to SMA, Shock Applied
+Change in CAR (%)
+RWA
+Total increase in RWA after shock
+Total increase in Capital requirement after shock
+Risk
+Weight (%)
+Total RWA after shock
+RWA

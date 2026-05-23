@@ -1,0 +1,2598 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+
+FE Circular No. 31
+
+
+
+
+
+
+Date: July 31, 2025
+
+All Authorized Dealers in
+Foreign Exchange in Bangladesh
+
+Dear Sirs,
+Foreign exchange regulations - export trade transactions
+
+Foreign exchange transactions on export of goods and services are regulated by the
+Foreign Exchange Regulation (FER) Act, 1947 and subsequent circulars issued there against. To
+bring ease in conducting export transactions, the existing regulations compiled at one place with
+modifications as necessitated are attached herewith. Existing instructions regarding export
+transactions available in the Guidelines for Foreign Exchange Transactions-2018 (GFET), Vol.-1
+and its subsequent circulars shall stand repealed with issuance of this circular excepting monthly
+reporting instructions contained in GFET, Vol.-2.
+
+
+02. This circular is issued with the authority vested to Bangladesh Bank under Section
+20(3) of the FER Act, 1947.
+
+03. The instructions of this circular will remain valid for one year from the date of its
+issuance. However, instructions to be issued within this period will be read with this circular.
+
+Please bring the instructions to the notice of your constituents.
+
+
+
+
+Encl. As stated.
+
+Yours faithfully,
+
+
+(Md. Harun-Ar-Rashid)
+Director (FEPD)
+Phone: 9530123
+
+--- Page 2 ---
+Foreign exchange regulations - export trade transactions
+CONTENTS
+Part-A: GENERAL GUIDELINES
+Page No
+Introduction
+Foreign exchange regulations
+International trade rules
+Registration of exporters
+Declaration and repatriation of proceeds
+Prescribed form for declaring exports
+Export exempted from declaration and repatriation of export proceeds
+Prescribed period to realize export proceeds
+Method of receiving payments against exports
+10
+Retention of export proceeds in foreign currency accounts
+11
+EXP Forms
+12
+Electronic EXP Form
+13
+Export transactions and proceeds realization guidelines for ADs
+14
+Making out and delivery of shipping documents
+15
+Endorsement of shipping documents by the ADs
+16
+Dispatch of export documents
+17
+Negotiation of export documents by using shipping documents issued by
+freight forwarders
+18
+Disposal of EXP Form
+
+--- Page 3 ---
+ii
+
+Part-A: GENERAL GUIDELINES
+Page No
+19
+Deductable charges
+20
+Use of appropriate incoterms
+21
+Receipts of advance remittances against exports
+22
+Short shipments and shipments shut out entirely
+23
+Shipments lost or damaged in transit
+24
+Shipments on FOB basis
+10
+25
+Reporting of overdue cases
+10
+26
+Online reporting
+10
+27
+Export proceed realization certificate against direct and deemed exports
+10
+28
+Discounting of direct and deemed export bills in foreign exchange
+10
+29
+Right to assignment of export bills
+11
+30
+Insurance coverage against financing to exporters
+11
+
+Part-B: EXPORT FROM THE SPECIALIZED ZONES
+Page No
+31
+Principles and procedures
+12
+32
+Declaration of export
+12
+33
+Disposal of export proceeds
+12
+34
+Discounting of accepted usance bills of specialized zones’ enterprise (Type
+A and B)
+12
+35
+Sale of Bangladeshi goods to enterprises in specialized zones
+12
+
+--- Page 4 ---
+iii
+
+Part-C: EXPORT TRADE TRANSACTIONS, APPROPRIATE SAFEGUARDS
+Page No
+36
+Regulations for cross-border banking and AML/CFT compliance
+14
+37
+Safeguards for export trade transactions
+14
+38
+Guidance for exporters in case of transaction issues
+15
+
+Part-D: EXPORT UNDER OPEN ACCOUNT CREDIT TERMS
+Page No
+39
+Open account credit terms for exports
+16
+40
+Financing and payment terms
+16
+41
+Competitive export pricing
+16
+42
+Counterparty arrangements and membership requirements
+16
+43
+Issuance and handling of transport documents
+17
+44
+Timeline for submission of export documents
+17
+45
+Early payment facilities for exporters
+17
+46
+Assignment of export proceeds
+17
+47
+Verification of export and compliance with KYC/AML standards
+17
+48
+Consultation on international factoring guidelines
+17
+
+Part-E: EXPORT OF SERVICES INCLUDING INFORMATION
+TECHNOLOGY ENABLED SERVICES
+Page No
+49
+Export of software and data entry/ processing services
+18
+50
+Business process outsourcing
+18
+51
+Business services
+19
+
+--- Page 5 ---
+iv
+
+Part-E: EXPORT OF SERVICES INCLUDING INFORMATION
+TECHNOLOGY ENABLED SERVICES
+Page No
+52
+Time limit for repatriation of export earnings
+19
+53
+Export proceeds and retention abroad
+19
+
+Part-F: EXPORT PROCEED REALIZATION SERVICES
+Page No
+54
+Acquiring services
+20
+55
+Repatriation of proceeds against export traded under E-Commerce
+20
+56
+Repatriation of export proceeds through OPGSPs
+20
+57
+Repatriation of ICT related service income through international card
+22
+58
+Repatriation of export proceeds through payment service providers
+22
+59
+Repatriation of income from IT related services through MFSPs and PSPs
+23
+60
+Retention of foreign currency and outward remittance
+25
+
+Part-G: EXPORT THROUGH E-COMMERCE
+Page No
+61
+Business-to-Consumer export through sales orders against receipt in
+advance
+26
+62
+Electronic declaration for E-Commerce export
+26
+63
+Business-to-Consumer export through sales orders against cash on
+delivery/payment on shipment terms
+26
+64
+Small value export under Business-to-Consumer on e-Commerce website
+without EXP
+27
+
+Part-H: RE-EXPORT, ENTRE-POT AND MERCHANTING TRADE
+Page No
+65
+Re-export and entre-pot trade
+28
+
+--- Page 6 ---
+Part-H: RE-EXPORT, ENTRE-POT AND MERCHANTING TRADE
+Page No
+66
+Foreign exchange transactions for merchanting trade
+28
+67
+Settlement of import and export transactions through counter-trade
+arrangements
+29
+
+Part-I: EXPORT OF CURRENCY NOTES AND COINS, FOREIGN
+EXCHANGE, GOLD, SILVER, JEWELLERY AND SECURITIES ETC.
+Page No
+68
+Definition of foreign exchange
+31
+69
+Export of foreign exchange
+31
+70
+Export of local currency
+31
+71
+Export of Securities
+31
+72
+Definition of jewellery and precious stones
+32
+73
+Export of gold jewellery and silver jewellery
+32
+74
+Cost of imported inputs prepaid abroad
+32
+75
+Export of jewellery on consignment basis
+32
+
+Part-J: EXPORTERS' RETENTION QUOTA (ERQ) ACCOUNT
+Page No
+76
+Retention quota limits
+33
+77
+Eligible currency and utilization
+34
+78
+International card
+35
+
+Part-K: FOREIGN CURRENCY ACCOUNTS FOR ENTERPRISES
+OPERATING IN SPECIALIZED ZONES
+Page No
+79
+Disposal of proceeds
+36
+
+--- Page 7 ---
+vi
+
+
+Part-L: APPENDIX
+Appendix-1
+EXP Form
+Appendix-2
+Export Register
+Appendix-3
+Certificate of AD for carrier company
+Appendix-4
+Information relating to export orders with foreign agent commission
+Appendix-5
+Application for approving remittance of discount on account of readymade
+garments and leather goods
+Appendix-6
+Advance receipt voucher
+Appendix-7
+PRC Direct Export
+Appendix-8
+PRC Deemed Export
+Appendix-9
+Certificate of AD for carrier company
+Appendix-10
+Form-C
+Appendix-11
+Form-C (ICT)
+Appendix-12
+Certificate by AD against IT related services
+Appendix-13
+Form TM
+Appendix-14
+Form of Undertaking
+
+--- Page 8 ---
+Part-A
+GENERAL GUIDELINES
+
+1. Introduction
+Export from Bangladesh is regulated by Import and Export (Control) Act, 1950, Export
+Policy, and Public Notices issued from time to time by the Ministry of Commerce and
+the Office of the Chief Controller of Imports and Exports (CCI&E).
+
+2. Foreign exchange regulations
+Authorized Dealers (ADs) may conduct foreign exchange transactions on export in
+conformity with the instructions contained in this circular and to be issued by Bangladesh
+Bank from time to time in exercise of the powers conferred by Section 20(3) of the
+Foreign Exchange Regulation (FER) Act, 1947 (As amended in 2015). Nothing in the
+foreign exchange regulations relieves ADs and exporters from the necessity of complying
+with the Export Trade Regulations prescribed by the Government and relevant other
+regulations such as AML/CFT.
+
+3. International trade rules
+ADs shall observe best practices in accordance with applicable international trade rules
+such as Uniform Customs and Practice (UCP), Uniform Rules for Collections (URC),
+Incoterms, etc. ADs are required to ensure that the terms of the Letters of Credit (LCs)
+are in conformity with the rules of prevailing UCP for exports from Bangladesh. While
+executing export transactions under sales contracts on documentary collection basis, ADs
+are advised to observe the latest version of URC. Local regulations will, however, prevail
+in case of contradiction.
+
+4. Registration of exporters
+ADs should ensure that exporters are registered under the Importers, Exporters and
+Indentors (Registration) Order, 2023.
+
+5. Declaration and repatriation of proceeds
+Government Notifications No. 1(6)/ECS/48 and 1(7)/ECS/48 dated July 01, 1948 issued
+pursuant to Section 12 of the FER Act, 1947 prohibit export of any goods directly or
+indirectly to any place outside Bangladesh, unless a declaration is furnished by the
+exporter to the Customs Authority or to such other authority as specified by Bangladesh
+Bank. The declaration must confirm that the full export value of the goods has been, or
+will be, disposed of in accordance with the manner and within the time frame specified
+by Bangladesh Bank.
+
+6. Prescribed form for declaring exports
+All exports unless otherwise exempted must be declared on the EXP Form (Appendix-1).
+On the Form, exporters shall undertake to repatriate full export proceeds within the
+period specified by Bangladesh Bank in terms of the FER Act, 1947.
+
+--- Page 9 ---
+7. Export exempted from declaration and repatriation of export proceeds
+The regulations mentioned above do not apply to the export of:
+(1) bonafide trade samples as per Export Policy in force;
+(2) personal effects of travelers whether accompanied or unaccompanied;
+(3) ships stores and transhipment cargo;
+(4) goods shipped under the orders of the Government of Bangladesh, or any officers
+designated by the Government or by the Military, Naval, or Air Force authorities in
+Bangladesh for their respective requirements;
+(5) gift packets accompanied by a declaration from the sender confirming that the
+contents' value is below the Export Policy limit in force and no foreign exchange
+transaction is involved;
+(6) where the packet is covered by a certificate issued by Bangladesh Bank to the effect
+that the export of the parcel does not involve any transaction in foreign exchange;
+(7) E-Commerce exports up to USD 500.
+
+Exemptions as above will be allowed by the customs authorities after being satisfied that
+the relative exports qualify for such exemptions.
+
+8. Prescribed period to realize export proceeds
+(1) The prescribed period for repatriating export proceeds is four months (vide
+Bangladesh Bank Notification No. FE 1/77-BB dated April 16, 1977). If the full
+proceeds of any shipment are not received within this period, without special or
+general authorization from Bangladesh Bank, exporters will be subject to action under
+the FER Act, 1947.
+(2) In respect of export of raw jute and jute goods, the repatriation period may be up to
+360 days against irrevocable confirmed LC or under open account as outlined in Part-
+D of this circular. ADs shall conduct extended due diligence while executing export
+under usance terms, including satisfying themselves to the effect that export price
+quoted is internationally competitive and that the usance interest loaded is at a rate
+commensurate with the prevailing interest rate in the concerned currency.
+
+9. Method of receiving payments against exports
+Payment for goods and services exported from Bangladesh may be received through an
+AD:
+(1) in freely convertible foreign currency, including Chinese Yuan (CNY);
+(2) in Taka from a non-resident Taka Account;
+(3) from Escrow accounts under countertrade arrangements as detailed in Part-H;
+(4) under ‘Acquiring Service’ in the realization of proceeds against export through the
+internet;
+(5) from Online Payment Gateway Service Providers (OPGSPs) and other legitimate
+operators as detailed in Part-F.
+
+--- Page 10 ---
+10. Retention of export proceeds in foreign currency accounts
+Exporters are allowed to retain foreign exchange in foreign currency accounts known as
+Exporters’ Retention Quota (ERQ) account at the prescribed limit out of the repatriated
+export proceeds as detailed in Part-J of this circular. In addition, export proceeds may also be
+retained in single pool for settlement of import liabilities as outlined in relevant instructions.
+11. EXP Forms
+Export of goods from Bangladesh is subject to declaration by exporters on EXP Form. ADs
+may provide Online Export Monitoring System (OEMS) user ID to their customers to
+generate electronic EXP Forms. The EXP Form shall contain 11 digits as shown below:
+EXP
+NO.
+AD’s Code
+Serial Number
+Serial Year
+
+
+
+
+
+
+
+
+
+
+
+
+The first four boxes of EXP number will bear the branch code prescribed by Bangladesh
+Bank for each AD branch, the next 5 boxes are meant for mentioning the serial number of
+the Export Register (Appendix-2) of the branch and the last two boxes are meant for
+mentioning the last two digits of the year of registration.
+
+12. Electronic EXP Form
+(1) Electronic option to submit EXP Form is acceptable in Bangladesh Bank OEMS for
+export of goods prior to customs formalities. Accordingly, ADs shall accept EXP
+Form submitted electronically by their exporter-customers, information of which will
+subsequently be available in customs electronic system for onward formalities.
+(2) Exporters shall execute export formalities with the Customs Authority for issuance of
+Bill of Export based on information of EXP Form available in customs electronic
+system. Immediately on completion of shipment of goods from Bangladesh, exporters
+shall report/submit transport/shipping information in Bangladesh Bank OEMS to
+close the procedure. For on time submission of shipment information, ADs need to
+follow up with exporters so that they can report shipment information immediately on
+completion of shipment of goods. In case of non-reporting, ADs shall complete the
+reporting formalities on receipt of documents from exporters within 14 days from the
+date of shipment.
+(3) Bill of Export issued by the Customs Authority to permit the shipment will suffice the
+requirement of existing customs assessment as necessary on paper based EXP Form.
+Hence, certification by Customs Authority shall not be required on EXP Form
+submitted electronically by exporters.
+(4) Within 14 days from the date of shipment of goods from Bangladesh, exporters shall
+submit a signed hardcopy of the electronically submitted EXP Form together with Bill
+of Export duly certified by the Customs Authority and relevant shipping documents
+covering export of goods to ADs for compliance in accordance with paragraph 18 of
+this circular.
+
+--- Page 11 ---
+(5) Signed hardcopy of EXP Form submitted by exporters to ADs as per (4) above shall
+be treated as original. ADs shall post-facto certify the same and observe subsequent
+formalities including passing documents abroad for collection and disposal thereof
+with routine reports.
+(6) Electronic EXP Form is applicable only for export through customs houses having
+electronic system of Bill of Export issuance. The paper based EXP Form submission
+may continue for exports through customs houses without having electronic
+arrangement.
+(7) Bangladesh Bank assigns User IDs and Passwords to exporters upon request through
+their ADs. In this regard, ADs need to upload the requests containing authenticated
+information of exporters to OEMS.
+
+13. Export transactions and proceeds realization guidelines for ADs
+(1) Before execution of export transactions, ADs shall satisfy themselves with regard to the
+followings:
+(a) Arrangements have been made for realization of export proceeds within the
+prescribed period;
+(b) Arrangements have been made for receipt of title to goods like Bill of Lading,
+Airway Bill, etc. by ADs on shipment of the underlying goods;
+(c) ADs shall justify bonafide of buyers/consignees abroad and their credentials etc.
+where necessary; ADs should make discreet inquiries in this regard through its
+correspondents abroad etc., greater care should be taken particularly in cases of
+shipments against contract alone and shipments on CAD/DA basis. ADs should
+report promptly to Bangladesh Bank, where ADs doubt the bonafides and standing of
+the buyers/consignees abroad or where owing to common interest or otherwise they
+suspect collusion with the intent of' delaying or avoiding repatriation of export
+proceeds. Similarly, ADs should report to Bangladesh Bank cases where it comes to
+their knowledge that exporters are directly or indirectly connected with or have any
+financial or other interest in the buyer/consignee abroad. If necessary, discreet
+enquiry about the bonafides and credentials of the charter party should also be made,
+if shipment is to be made against a charter party Bill of Lading.
+(2) For delay in repatriation or non-realization of export proceeds, exporters will render
+themselves liable to punitive action under the FER Act, 1947. Besides, in the event of non-
+realization or short realization of export proceeds against shipment within the stipulated
+period, ADs shall obtain from the exporters and furnish to Bangladesh Bank full explanation
+as to the circumstances resulting in non-realization/short realization. Therefore, in their own
+interest, both exporters and ADs should be alert and active in ensuring timely repatriation of
+export proceeds.
+(3) ADs are responsible for meticulously complying with relevant regulatory instructions
+while processing export transactions. In the event of delay in realization or non-
+
+--- Page 12 ---
+realization/short realization of export proceeds due to non-compliance of the regulatory
+instructions, ADs and their respective officials will be held liable to punitive action under the
+FER Act, 1947.
+
+14. Making out and delivery of shipping documents
+In exercise of the powers vested in Bangladesh Bank under Section 20(3) of the FER Act,
+1947 all carriers whether common or private (Railway, Shipping, or Airline companies), and
+their agents are directed as under:
+(1) Transport documents, title to export of goods, must be drawn to the order of an AD in
+respect of exports of goods from Bangladesh (excluding exports from Type A industrial
+enterprise located in specialized zones) via land or sea routes. These documents shall be
+handed over to the authorized representatives of the designated AD only.
+(2) If the goods reach the beneficiary port before the transport documents reach the foreign
+importer, the AD may request shipping companies to issue Delivery Order to deliver the
+goods to the order of AD's correspondent in the buyer’s country. The AD also needs to
+send instructions through authenticated channel to its overseas correspondent to hand
+over Delivery Order to the consignee, and stating the amount to be realized from the
+consignee before the Delivery Order is released.
+(3) In respect of export of goods from Bangladesh (excepting exports from Type A
+industrial enterprise located in specialized zones) to foreign countries by air, the Airway
+Bills and any other documents of title to cargo should be drawn to the order of a bank in
+the country of import nominated by the AD designated for this purpose by the
+respective exporter and delivered to the authorized representative of AD. The above
+directions shall not apply to exports exempted from repatriation of export proceeds as
+listed in paragraph 7 of this circular. Exports of fresh fish, vegetables, fruits, poultry
+and other goods of perishable nature are also exempted from this direction.
+(4) Railway Receipts, Bill of Lading, Airway Bill and other documents of title to cargo
+may be drawn to the order of importer or other designated parties only if (a) the
+shipment is being made against full payment received in advance by the exporter
+through AD and (b) it is a requirement of export LC/contract. In this context, designated
+AD shall issue a certificate in the prescribed form (as per Appendix-3) to be produced
+to the carrier company, enabling them to draw the shipping documents accordingly.
+
+15. Endorsement of shipping documents
+(1) ADs to whose order the relative Railway Receipts, Bills of Lading, etc. are drawn shall
+endorse the same to the order of their foreign correspondents but in no case, they shall
+make any blank endorsement or endorse it to the order of the consignee unless they have
+obtained specific or general approval of Bangladesh Bank thereof. However, in the cases
+of export from Type A industrial enterprises located in specialized zones, Bill of
+Lading/Airway Bill/other documents of title to cargo drawn to the order of ADs may be
+
+--- Page 13 ---
+blank endorsed or endorsed in favor of the consignees as per terms of the export LC/
+contract.
+(2) In case of export proceeds received after shipment but before sending export documents
+abroad for collection, it does not warrant documents to be sent abroad for collection.
+ADs may endorse transport documents of title to cargo in favor of the importer or other
+designated party and deliver the same as per stipulations of export LC/contract only if
+full export proceeds are received through normal banking channel before sending export
+documents to counterpart bank abroad for collection.
+
+16. Dispatch of export documents
+ADs may allow exporters to dispatch export documents (excluding original transport
+document of title to cargo) directly to importers or their agents abroad through secured
+media, subject to observance of following instructions:
+(1) The underlying LC/contract provides for such direct dispatch of export documents.
+(2) ADs shall be satisfied with the arrangement of realization of export proceeds within the
+statutory period as per paragraph 8 of this circular.
+(3) ADs shall endorse original transport documents retained with them on receipt of
+payment against relevant export.
+(4) ADs shall, within 14 days from the date of shipment, obtain EXP Form from exporters
+to comply with regulatory instructions, including routine reporting to Bangladesh Bank.
+(5) Exporters’ accounts with ADs are fully compliant with KYC/AML/CFT guidelines in
+force.
+
+17. Negotiation of export documents using shipping documents issued by freight
+forwarders
+In case of negotiation of export bills using FCRs, HBLs, or HAWBs issued by freight
+forwarders, the following additional conditions are to be fulfilled:
+(1) The export LC/contract specifically provides for negotiation of export bill against
+FCR/HBL/HAWB (as the case may be) issued by a freight forwarder;
+(2) The freight forwarder issuing the FCR/HBL/HAWB is operating in Bangladesh with
+license from the Customs Authority;
+(3) ADs will be responsible for satisfying themselves about the arrangement for timely
+repatriation of proceeds of export bill negotiated against FCR/HBL/HAWB.
+
+18. Disposal of EXP Form
+(1) The electronic EXP Form is to be considered disposed of after online reporting of export
+proceeds repatriation. However, the hard copy of EXP Form is to be disposed of in usual
+manner.
+Submission of export documents to ADs
+(2) The exporter must submit EXP Form along with the invoices and other export documents
+to the AD through whom payment for the goods exported is to be received. In the event of
+
+--- Page 14 ---
+payment being received through an AD other than the designated AD of exporters, the
+AD negotiating or collecting or repatriating proceeds against relative export should
+convey the particulars of the EXP Form to the designated AD of exporter to enable the
+latter to make a suitable note in the relative export register.
+(3) ADs executing export transactions need to receive foreign currency from AD having
+repatriated export proceeds. In this context, ADs repatriating export proceeds needs to
+transfer the fund in foreign currency to ADs designated for export transactions. In case of
+payment against export bill discounting or early payment arrangement in foreign currency
+by other ADs or offshore banking units (OBUs), the foreign currency fund shall be
+transferred to designated AD. Export proceeds repatriated through ADs of buying agents
+shall also be transferred in foreign currency to exporter’s AD. While making transfer,
+ADs shall keep records of the transactions suitably for proper reconciliation.
+The transfer is to be executed by the following business day on completion of the relevant
+transactions through Bangladesh Bank FC clearing service. On receipt of the fund,
+designated ADs shall convert the encashable portion of foreign currency in Taka
+following the relevant instructions and make the same available to exporter’s account
+maintained with them. In all cases, conversion of export proceeds is required to be
+executed through designated ADs by the following business day, unless otherwise
+exempted, on receipt of the fund in their respective accounts either from other ADs/OBUs
+or abroad. However transfer of foreign currency to exporter’s ADs is not mandatory for
+jute export facilitated by traders nominated by BJMC.
+(4) All shipping documents covering goods exported from Bangladesh and declared on EXP
+Form must be passed through ADs within 14 days from the date of shipment. The copy
+(signed copy in case of electronic EXP) of the EXP Form and the shipping documents etc.
+should be submitted to ADs in time to enable them to report to Bangladesh Bank within
+14 days from the date of shipment of the goods covered by the Form.
+
+Scrutiny of documents
+(5) On receipt of the EXP Form and the documents covering the exports, ADs shall verify the
+shipping documents using online EGM of Customs Authority. ADs shall conduct the
+tracking of shipments through tracking system recognized by competent authority for the
+cases where EGM data is not available.
+ADs should compare the relative bill and/or documents with the relative EXP Form and
+satisfy themselves that the declaration made on the Form is correct. In no case, the
+invoice value should be less than the value declared for customs purposes. Special care
+should be exercised in checking the invoices with a view to detecting misinvoicing of
+exports. Any suspicious circumstance should be reported to Bangladesh Bank.
+(6) If the difference between the values stated on the EXP Form and the amount of the
+bill/invoice is small and accounted for legitimate trade charges etc. ADs may accept the
+bill/documents for negotiation/collection. The details of such adjustments must be given
+
+--- Page 15 ---
+on the relative form and must be authenticated by ADs under their stamp and signatures.
+(7) After negotiation of the bill or acceptance of the documents for collection, ADs should
+keep record in export registers.
+(8) ADs shall retain the signed EXP Form with them for record and eventual inspection for a
+period of 5(five) years. However, in respect of cases which are under investigation by
+Bangladesh Bank inspection team/other Government agencies, the EXP Form and full set
+of export documents shall be disposed of only after obtaining clearance from the
+inspection team/Government agency concerned.
+
+19. Deductable charges
+(1) Commission or brokerage due to be paid to foreign importers or to agents by exporters in
+Bangladesh relating to the particular shipment may be deducted from the relative bill
+amount or the amount of the sale proceeds or remitted from Bangladesh after the full
+proceeds have been realized only up to a maximum of 5(five) percent of the value of the
+goods. In exceptional cases or where it is customary in any particular trade to pay
+commission in excess of 5(five) percent by deduction from the invoice value of exports,
+Bangladesh Bank may consider applications by exporters through their ADs and may
+grant a standing authority to permit payment of commission in excess of 5(five) percent
+of the invoice value. While applying to Bangladesh Bank for such permission, ADs shall
+attach application of exporter along with prescribed format at Appendix-4. The
+supporting documents have to be preserved by ADs up to prescribed period for
+presentation to Bangladesh Bank/inspection team as and when required.
+(2) ADs may allow bank charges/trade charges as per stipulation of concerned export
+LCs/contracts. Bank charges/trade charges, not specifically stipulated in export
+LCs/contracts, may also be settled in accordance with the instructions of UCP and other
+applicable international trade rules.
+(3) In the case of export of books, journals, and magazines published in Bangladesh,
+exporters can allow up to 33.5% discount of the invoice value without prior approval of
+Bangladesh Bank.
+(4) Cases of discounts claimed by the importers in respect of shipment of readymade
+garments and leather goods should be submitted (as per Appendix-5) to the Discount
+Committee through Foreign Exchange Policy Department for recommendation/decision.
+However, before referring such case to the Committee, ADs must be satisfied about the
+genuineness and merit of the case.
+
+
+20. Use of appropriate incoterms
+EXW, FCA, FOB, FAS, CFR, CIF, CPT and CIP incoterms issued by the International
+Chamber of Commerce are allowed to use in export from Bangladesh provided those are
+stipulated in the relevant LC/contract. Inconsistency, if any, in respect of use of incoterms,
+should be informed immediately to the LC issuing bank for necessary amendment with
+
+--- Page 16 ---
+intimation to the beneficiary. ADs shall also keep their exporter customers informed of the
+appropriate terms and conditions against applicable Incoterms for export so that they can
+insist foreign buyers to get LC/contract issued accordingly.
+
+21. Receipts of advance remittances against exports
+Before paying out money against remittances received from abroad, where purpose of the
+remittance is stated as advance receipt for goods to be exported from Bangladesh, ADs
+should obtain a declaration from the beneficiary on the ‘Advance Receipt Voucher (ARV)’,
+as per Appendix-6, certifying the purpose of the remittance with report to the ‘Online ARV
+Reporting Module’. ADs shall also comply with following instructions before
+accommodating the transaction:
+(1) The exporter has received confirmed export LC/contract to execute export against
+advance payment;
+(2) The previous export performance of the exporter is satisfactory and the exporter shall
+have adequate capability to execute the export order;
+(3) The payment in advance shall not bear any interest;
+(4) At least 10% of the payment received in advance shall be retained in the subsidiary
+ledger of ADs which will be released on execution of the export;
+(5) The instruction in (4) above will not be applicable for advance payment received
+against performance bonds or bank guarantees/standby LCs;
+(6) Export needs to be executed within a period not exceeding one year from the date of
+receipt of advance payment;
+(7) In case of non-execution of export including issuance of EXP Form against advance
+payment, ADs may allow refund of advance payment. In this case, ADs shall utilize
+funds from Exporters’ Retention Quota (ERQ) account first and remainder from Taka
+accounts.
+
+22. Short shipments and shipments shut out entirely
+Shipping information which is available in online system of Bangladesh Customs shall be
+treated as final for reporting in OEMS. ADs shall check authenticity of the shipping
+information from online system of Bangladesh Customs Authority before sending any
+correction request, if necessary, to Bangladesh Bank.
+
+23. Shipments lost or damaged in transit
+If shipments from Bangladesh are lost in transit for which payment has not already been
+received either by a direct remittance or by negotiation of bills under an LC, the AD must see
+that an insurance claim is made as soon as the loss is known. The relative EXP Form should
+contain a statement on the reverse thereof, under the stamp and signature of the AD that the
+shipment has been lost, together with the following particulars regarding the insurance
+covering the shipment:
+(1) Amount of insurance (including currency in which drawn).
+
+--- Page 17 ---
+10
+
+(2) Name of the Insurance Company.
+(3) Place where the claim is payable.
+Where the claims are payable in a currency other than Taka, they should be realized through
+the designated ADs who, on satisfaction of the claim, should certify note on the EXP Form
+and report to Bangladesh Bank.
+
+24. Shipments on FOB basis
+In cases where freight has been paid in Bangladesh but export documents are on FOB basis
+should be reported to Bangladesh Bank.
+
+25. Reporting of overdue cases
+ADs are required to upload information on overdue EXP Forms to OEMS by the 10th day of
+each month, including the reason for the overdue status, actions taken to realize export
+proceeds, and litigation status (if applicable).
+
+26. Online reporting
+ADs will report export transactions to OEMS of Bangladesh Bank on regular basis.
+
+27. Export proceeds realization certificate (PRC) against direct and deemed exports
+ADs shall follow the instructions in case of issuance of PRCs as under:
+(1) ADs shall use prescribed proforma in Appendix-7 to issue PRCs for proceeds realized
+against direct exports while prescribed proforma in Appendix-8 shall be used to issue
+PRCs for proceeds realized against deemed exports. PRC is to be issued using OEMS.
+(2) Head Office/Principal Branch of the AD shall send updated list of its officials along
+with their specimen signatures, PA nos. and phone numbers who are authorized to sign
+PRCs to the Offices of the 'Bond Commissionerate' and 'Duty Exemption and
+Drawback Office (DEDO)' from time to time for verifying the genuineness of issued
+PRCs.
+(3) ADs are advised to exercise utmost caution in issuing PRCs to avoid any possible
+misuse. Any irregularity shall be treated as violation of Bangladesh Bank's instructions.
+ADs are also advised to extend their full co-operation to different government agencies
+regarding verification of any PRC if approached.
+
+28. Discounting of direct and deemed export bills in foreign exchange
+Beneficiaries of usance export bills against direct and deemed exports of products produced
+in Bangladesh may arrange to discount bills for immediate financing through their ADs,
+subject to compliance with the following instructions:
+(1) ADs shall have to be ensured that the usance bills presented for discounting are derived
+from bonafide direct/deemed export transactions;
+(2) ADs may arrange fund against the discounting of usnace bills in foreign exchange
+through their own fund/OBUs/correspondent banks, financial institutions abroad or
+international financing institutions;
+
+--- Page 18 ---
+11
+
+(3) Expenses of the customers for discounting bills shall not exceed mark-up of 4.00
+percent over benchmark rate, e.g. SOFR, Euribor etc. (all in cost) including all types of
+commissions/charges/fees/interests;
+(4) Proceeds from such discounting may be retained in relevant single pool for import
+payments/back to back liabilities. Type C enterprise of specialized zones can avail this
+facility under the stipulations in this regard.
+
+29. Right to assignment of export bills
+General permission is granted to assign an exporter’s rights to a usance export bill in favor of
+a licensed bank or financing institution abroad, provided the institution has fully prepaid the
+usance bill as a final and without-recourse settlement, subject to adherence with the
+instructions outlined in paragraph 28 of this circular.
+
+30. Insurance coverage against financing to exporters
+(1) ADs may, at their option, safeguard their financing against bill discounting on recourse
+basis by appropriate insurance coverage available from insurance companies locally as
+an extra comfort. Before obtaining insurance coverage, ADs should take consent from
+exporters in this regard.
+(2) Besides post shipment financing, the proposition of offsetting the default risk by
+appropriate insurance coverage may be adopted against funded or non-funded facilities
+to exporters at pre-shipment stage.
+(3) Financing safeguard by insurance coverage will not give waiver from realization of
+export proceeds. Hence, export proceeds need to be repatriated as per requirement of
+foreign exchange regulations in force.
+
+--- Page 19 ---
+12
+
+Part-B
+EXPORT FROM THE SPECIALIZED ZONES
+
+31. Principles and procedures
+There are different specialized zones operating in Bangladesh. They are Export Processing
+Zones (EPZs) established by the Bangladesh Export Processing Zones Authority Act, 1980,
+Private Export Processing Zones (PEPZs) established by the Bangladesh Private Export
+Processing Zones Authority Act, 1980, Economic Zones (EZs) established by the Bangladesh
+Economic Zones Act, 2010, Hi-Tech Parks (HTPs) established by the Bangladesh Hi-Tech
+Park Authority Act, 2010. The following types of industrial enterprises operate in the
+specialized zones:
+(1) Type A: 100 percent foreign owned including those owned by Bangladeshi nationals
+ordinarily resident abroad;
+(2) Type B: Joint venture projects between foreign and Bangladesh entrepreneurs
+resident in Bangladesh;
+(3) Type C: 100 percent Bangladeshi entrepreneurs resident in Bangladesh.
+Developers and different service providing companies (water supply/treatment, cleaning,
+dust management, effluent treatment plant, etc.) operating in specialized zones, exclusively
+formed and registered to serve a particular zone will be treated as industrial enterprises of
+zones for foreign exchange regulation purposes.
+32. Declaration of export
+Exports from specialized zones are subject to the usual requirement of declaration of exports
+in EXP Form and repatriation of export proceeds.
+
+33. Disposal of export proceeds
+Export proceeds against export of exporting enterprises will be released to their foreign
+currency accounts in accordance with Part-K of this circular.
+
+34. Discounting of accepted usance bills of specialized zones’ enterprises (Type A and B)
+Balances in Non-Resident Foreign Currency Deposit (NFCD) accounts may be utilized for
+discounting usance bills drawn by Type A and Type B enterprise of specialized zones for
+supplying raw materials under back to back arrangement and accepted by ADs operating
+outside specialized zones. However, utilization of NFCD fund for the above purpose
+including payment for back to back sight LCs as instructed will not exceed 50% of total
+NFCD balance of the concerned AD.
+
+35. Sale of Bangladeshi goods to enterprises in specialized zones
+Sales of Bangladeshi goods or raw materials to the enterprises in specialized zones against
+payment in foreign currency shall be treated as exports from Bangladesh and normal foreign
+exchange regulations concerning declaration of exports on EXP Forms and repatriation of
+proceeds is applicable to these exports to zones’ enterprises.
+
+--- Page 20 ---
+13
+
+
+Exports to specialized zone areas shall be considered as imports by respective enterprises. In
+such cases, ADs of zone enterprises may report such import transactions to Bangladesh Bank
+in monthly schedule E-2 under Statement-10 or Statement-11 (as the case may be)
+mentioning the number of concerned EXP forms to which the payment in foreign currency
+relate. This procedure of mentioning EXP numbers will also be applicable for transactions
+between EPZ enterprises and intra EPZ enterprises. The above procedure will be applicable
+for reporting in online web portal. Usual IMP Form reporting procedures will, however, be
+applicable for imports by EPZ enterprises from abroad.
+
+National Board of Revenue (NBR) vide its order no. 288/2017/Customs/529 dated December
+21, 2017 effects relevant amendment in the Customs (Economic Zones) Procedures, 2017 to
+waive export/import formalities (EXP/IMP) for transactions between enterprises operating in
+Domestic Processing Area (DPA) of EZs and in Tariff Area (TA) of Bangladesh.
+Accordingly, EXP Form procedure will not be applicable for such EZ enterprises to sell
+goods in Taka to TA. Hence, transactions by DPA enterprises in EZs irrespective of their
+ownership status are allowed to settle their liabilities for imports and other permissible
+expenses out of the fund held in their Taka accounts.
+
+--- Page 21 ---
+14
+
+Part-C
+EXPORT TRADE TRANSACTIONS, APPROPRIATE SAFEGUARDS
+
+36. Regulations for cross-border banking and AML/CFT compliance
+ADs are permitted to maintain accounts in freely convertible/permissible currencies with
+their correspondents/branches abroad. The relevant regulation requires ADs to comply with
+AML/CFT regulations for maintaining relationship, opening of nostro accounts, and
+transactions with correspondents. In addition, different regulatory instructions are in place for
+containment of risk factors against cross-border transactions, such as:
+(1) Procedures are contained in ‘Core Risk Management in Banking: Foreign Exchange
+Risk Management’ to maintain cross-border correspondent banking relationships,
+including observance of applicable extended due diligence and restriction to maintain
+any correspondent relationship with shell banks, inter alia;
+(2) Circular No. 26 issued by Bangladesh Financial Intelligence Unit (BFIU) on June 16,
+2020, including its subsequent circulars outlines instructions to be followed regarding
+selection of customers and establishment of correspondent relations with banks abroad,
+inter alia. The instructions contained therein restrict to establish and conduct
+transactions with shell banks;
+(3) Preventive measures are available in Guidelines for Prevention of Trade Based Money
+Laundering issued by BFIU, etc.
+
+37. Safeguards for export trade transactions
+To ensure safeguards in export trade, ADs need to observe appropriate measures before
+execution of transactions as noted here under:
+
+(1) ADs shall facilitate export transactions under LCs routed through authenticated
+channels from banks with whom appropriate relations are in place;
+(2) ADs shall, in addition to be ensured of apparent authenticity of LCs, satisfy themselves
+of bonafide of applicant banks/issuing banks in case of LCs received through
+authenticated channels from third banks. In this case, ADs need to be ensured that
+applicant banks/issuing banks will receive export documents directly from respective
+ADs or through third banks/other authenticated banks with whom respective ADs
+maintain appropriate relationship;
+(3) In case of transferred LCs, ADs shall satisfy themselves of bonafide of first beneficiary
+and transferring bank in addition to the LC applicant banks/issuing bank;
+(4) ADs shall satisfy bonafide of importers abroad as per paragraph 13(1)(c) of this
+circular;
+(5) ADs shall conduct due diligence regarding importers’ banks designated for the
+transactions under sales contracts for being ensured of their step by step responsibilities
+regarding release of export documents to importers and procedural arrangement of
+
+--- Page 22 ---
+15
+
+payment as per prevailing regulations and relevant provisions of the URC in force. In
+this case, ADs need to be ensured that importer’s banks will receive export documents
+directly from respective ADs or through third banks/other authenticated banks with
+whom respective ADs maintain appropriate relationship;
+(6) ADs shall adopt other measures as deemed necessary.
+
+38. Guidance for exporters in case of transaction issues
+In case of 37 above in trouble to be executed, and/or any doubt regarding the transactions,
+ADs shall guide exporters so that they can take appropriate measures for execution of the
+transactions, such as:
+(1) to change designated banks of importers acceptable to ADs;
+(2) to bring the transactions under external payment guarantees as per paragraph 39 of this
+circular; and
+(3) to make other suitable arrangements.
+
+--- Page 23 ---
+16
+
+Part-D
+EXPORT UNDER OPEN ACCOUNT CREDIT TERMS
+
+39. Open account credit terms for exports
+ADs may allow exporters to ship goods on sales contracts under open account credit terms
+within the statutory period, if otherwise not extended, from the date of shipment, subject to
+compliance with following instructions:
+(1) Exports shall be executed against payment undertaking/payment risk coverage for
+settlement of export bills/receivables within the permissible statutory period by
+international factoring companies/foreign banks/foreign financial institutions/trade
+financiers/insurance entities (hereinafter referred to as designated institutions) arranged
+in association with importers and/or exporters.
+(2) Payment undertaking/payment risk coverage by designated institutions abroad shall be,
+in case of default by importers, received in such a way so as to be ensured of payment
+on priority basis in accordance with appropriate underlying arrangements for settlement
+on the basis of physical/electronic presentation of export invoices/bills/documents.
+(3) Payment undertaking/payment risk coverage from designated institutions abroad may
+contain option for early payment arrangement before maturity against the relative
+export bills/receivables. Early payment shall be arranged on non-recourse basis from
+designated
+institutions
+or
+designated
+financiers
+based
+on
+the
+payment
+undertaking/payment risk coverage.
+
+40. Financing and payment terms
+ADs shall satisfy themselves that exporters are appropriately financed. Expenses to exporters
+for guarantee commission against payment undertaking/payment risk coverage, and interest
+with relevant charges for early payment against export bills/receivables shall not exceed
+mark-up of 4.00 percent over benchmark rate, e.g., SOFR, Euribor etc. (all in cost) annually.
+These will, however, not include normal bank charges required for transactions. For
+calculation of FOB export value, such charges need to be adjusted. Additionally, ADs may, in
+case of export claims, exercise the permissible authorization on outward remittances for
+effecting the respective payments.
+
+41. Competitive export pricing
+Export price declared in EXP Form shall be competitive in consideration of necessary costs
+for underlying periods of export under open account credit terms.
+
+42. Counterparty arrangements and membership requirements
+ADs should have counterparty arrangements/relations for such transactions with designated
+institutions of repute with acceptable credit ratings operating under the licenses of central
+banks/competent authorities, for which they may join globally recognized professional bodies
+having representation for the services. Payments on account of membership/affiliation/
+
+--- Page 24 ---
+17
+
+subscription required for joining such bodies are remittable abroad subject to deduction of
+applicable taxes.
+
+43. Issuance and handling of transport documents
+ADs may allow transport documents to be issued in accordance with underlying
+arrangements among the parties. In case of issuance of transport documents in the name of
+importers or other nominated parties as per arrangements, ADs may give instructions (as per
+Appendix-9) to carrier companies. Export invoices/bills/documents can be sent abroad
+through banking channel/electronic platform/suitable arrangements directly to designated
+institutions/importers/other relevant parties as per requirement of the underlying
+arrangements.
+
+44. Timeline for submission of export documents
+The process to send the export invoices/bills/documents abroad as noted at 43 of this circular
+need to be completed within 14 days from the date of shipment. Within this period, exporters
+shall submit a full set of export documents, including signed EXP Form to ADs for
+regulatory compliance as referred to paragraph 18 of this circular.
+
+45. Early payment facilities for exporters
+Subject to observance of relevant instructions noted herein, ADs may extend early payment
+facilities to exporters on non-recourse basis out of their own funds against payment
+undertaking/payment risk coverage from designated institutions abroad. ADs shall ensure
+that the fund used for early payment is not committed for otherwise use. Payment guarantee
+commission payable abroad shall be within the all-in-cost limit to be charged to exporters as
+per paragraph 40 of this circular.
+
+46. Assignment of export proceeds
+In case of exercise of early payment option, relevant portion of export proceeds may be
+assigned to designated institutions or designated financiers abroad as per arrangements in
+terms of paragraph 29 of this circular.
+
+47. Verification of export and compliance with KYC/AML standards
+ADs shall be satisfied with the bonafide of underlying exports shipped from Bangladesh for
+which export invoices are to be financed and shall comply with KYC and AML/CFT
+standards, including applicable tax regulations on relevant expenses payable abroad.
+
+48. Consultation on international factoring guidelines
+ADs may, for technical support, consult with the Guidelines on International Factoring
+prepared by the technical committee on factoring.
+
+--- Page 25 ---
+18
+
+Part-E
+EXPORT OF SERVICES INCLUDING INFORMATION
+TECHNOLOGY ENABLED SERVICES
+
+49. Export of software and data entry/processing services
+Foreign exchange earnings from export of computer software and data entry/data processing
+services through internet or other electronic media shall be realized and reported to
+Bangladesh Bank by ADs as per following counts:
+(1) Where export is undertaken in physical form
+As in the case of merchandise exports, EXP procedure as described in paragraph 12 of
+this circular shall be followed where export is undertaken in physical form, that is,
+where computer software and data entry/data processing services are exported in
+compact disk, flash drive, tape, etc.
+(2) Where export is undertaken in non-physical form
+EXP procedure will not be applicable for export undertaken in non-physical form such
+as internet or other electronic media. For collection of proceeds against exports in non-
+physical forms, instructions mentioned in this Part and Part-F shall have to be followed
+by ADs and exporters concerned.
+
+50. Business process outsourcing
+Besides firms/companies, individuals may also provide services outsourced by non-residents
+through internet. The payment against the services is normally due on delivery of the services
+and it may not necessarily require documents for collection of export proceeds. In this case,
+ADs are free to credit to the account of the relevant service exporter in equivalent local
+currency after retention of foreign currency in ERQ account maintained in the name of the
+exporter subject to observance of the following terms and conditions:
+(1) ADs shall satisfy themselves on examination of the relevant documents (such as e-mail
+communication) and the message relating to the inward remittance that the payment has
+been received from the respective non-resident customers to whom services have been
+delivered in accordance with specific arrangements;
+(2) ADs shall ensure that the individual beneficiaries have necessary capacities to provide
+the underlying services;
+(3) ADs shall encash the inward remittance on receipt of online Form-C (Appendix-10)
+duly filled through electronic means from the individual beneficiaries. To mention,
+separate Form-C (ICT) (Appendix-11) shall be used for reporting inward remittance on
+account of ICT related services for easy codification of the purpose and usual report to
+Bangladesh Bank in relevant statement/schedule and online reporting module. ADs are
+instructed to adhere to the instructions enumerated in the Form while reporting inward
+remittances on account of ICT related services. However, inward remittance up to USD
+20,000 (twenty thousand) or equivalent against service exports may be credited in the
+respective accounts of service exporters without obtaining declaration on Form-C. In
+this context, ADs shall satisfy themselves of the bonafide of the transactions based on
+
+--- Page 26 ---
+19
+
+the notation of the relevant message. In case of non-availability of required information,
+ADs shall contact the beneficiaries through e-mail about the purpose of transactions;
+(4) ADs shall have secured electronic communication channels for Form-C under internet
+banking network, with customers. ADs shall execute transactions after being satisfied
+with the electronic information received through authenticated channels regarding
+Form-C. Afterwards, ADs shall take a printout of Form-C and get it signed by
+beneficiaries within 30 days for preservation. Signature will not be required if Form-C
+is
+received
+automatically
+through
+designated
+‘app’
+having
+appropriate
+security/protection measures. ADs shall, however, preserve information contained in
+electronic Form-C. In case of inward remittances received favoring beneficiaries
+maintaining accounts with different ADs, remittance receiving ADs are advised to
+transfer the same immediately to relevant ADs through ‘FC Clearing BD-RTGS
+System’;
+(5) ADs shall ensure deduction of applicable taxes, if any;
+(6) ADs shall exercise due diligence in respect of the transactions and comply with foreign
+exchange regulations, AML/CFT standards and other relevant laws/regulations in force;
+and
+(7) ADs shall keep records in support of the transactions and report the same in relevant
+monthly schedules/statement to Bangladesh Bank.
+
+51. Business services
+There are other service exports such as business services, professional/research and advisory
+services, etc. rendered from Bangladesh against which payments in foreign exchange are
+received through ADs. Remittances from abroad as payments against these and all other non-
+agency service exports in non-physical form may also be credited to local currency accounts
+and ERQ accounts in the names of the concerned exporters, subject to observance of the same
+instructions as stated above.
+
+52. Time limit for repatriation of export earnings
+The instructions to repatriate export proceeds against goods as noted at 8(1) of this circular
+are equally applicable to repatriation of export proceeds against services as defined at Section
+2(bbb) of the FER Act, 1947.
+
+53. Export proceeds and retention abroad
+Part-F of this circular outlines operational modalities on services delivered in non-physical
+form relating to ICT and other businesses. Service exporters can maintain notional/merchant
+accounts to repatriate their income through concerned ADs in Bangladesh as per paragraph
+56 and 58 of this circular. Excepting these authorized accounts, retention of export proceeds
+abroad in any form without limiting to equity/portfolio investment, purchase of physical
+assets/virtual assets, maintenance of accounts regardless of currencies including
+cryptocurrencies constitutes contravention of Section 5(1)(e)(i) of the FER Act, 1947 and is
+subject to cognizance under Section 23(1) of the said Act as per SRO No. 59-LAW/2021
+dated March 08, 2021.
+
+--- Page 27 ---
+20
+
+Part-F
+EXPORT PROCEED REALIZATION SERVICES
+
+54. Acquiring services
+In addition to transmission of IT enabled products through internet, or other electronic
+media, IT/Software exporting firms may sell their products/services to customers abroad
+through web/internet. In the context of web based trade, ADs may work as ‘Acquiring
+Banks’ for realization of internet/web generated payment through International Credit Card
+favoring IT/Software firms registered and operating in Bangladesh subject to compliance
+with following terms and conditions:
+(1) ADs shall have merchant agreements with the beneficiaries having necessary approval
+from the competent authorities and necessary arrangements for safe internet
+transactions;
+(2) ADs shall have to be satisfied that online payment is relevant to the nature of business
+of the beneficiaries;
+(3) ADs shall make the payment, credited to their nostro accounts, available to
+beneficiaries’ accounts on receipt of Form-C (if applicable) duly filled in from the
+beneficiaries. The ERQ accounts of the beneficiaries may be credited to the extent of
+permissible limit from the total payment provided that the transactions deserve such
+credits;
+(4) ADs shall comply with the instructions stated contained in paragraph 50 of this circular;
+(5) ADs shall keep records of the transactions with documentary evidence in support of the
+payment.
+(6) ADs shall have to comply with the applicable regulations of foreign exchange
+transactions, AML/CFT, Payment and Settlement Systems and other relevant
+laws/regulations in force and report the transactions with monthly returns to Bangladesh
+Bank in the relevant schedules/statements.
+
+55. Repatriation of proceeds against export traded under E-Commerce
+ADs may enter into merchant agreements with eligible exporters to provide ‘Acquiring
+Service’ in repatriating export proceeds received through ICC on internet against sales of
+exportable goods concluded on web platform under cross border E-Commerce. Details of the
+transaction are outlined in paragraph 61 of this circular.
+
+56. Repatriation of export proceeds through OPGSPs
+ADs are permitted to facilitate the repatriation of remittances against small value service
+exports in non-physical form such as data entry/data process, off-shore IT service, business
+process outsourcing, etc. through OPGSPs, subject to compliance with the following
+instructions:
+(1) ADs shall enter into standing arrangements with internationally recognized OPGSPs
+and maintain separate nostro collection account for each OPGSP to repatriate the
+above-mentioned service export related payments. Service exporters availing of this
+
+--- Page 28 ---
+21
+
+facility shall open notional accounts with only those OPGSPs having arrangements
+with ADs in Bangladesh. It shall be ensured that no funds are retained in such accounts
+and all receipts shall be automatically swept and pooled into the nostro collection
+account maintained by the ADs. In no way, income in foreign exchange by residents
+can be retained in notional accounts like resident bank accounts. OPGSPs shall observe
+it with strict compliance.
+(2) This facility shall only be available for service export in non-physical form of value
+not exceeding USD 10,000 per transaction.
+(3) The following debits will only be permitted to the nostro collection account opened
+and maintained under this arrangement:
+(a) Repatriation of funds representing service export (as mentioned in the
+opening paragraph) proceeds to Bangladesh for payment to service
+exporters;
+(b) Payment of fee/commission to OPGSP as per the predetermined rates/
+frequency/arrangement; and
+(c) Charge back to the service recipient/importer where the service exporter has
+failed in discharging the obligations as per specifications.
+(4) ADs shall repatriate the balances held in the nostro collection account and arrange to
+credit the respective exporter’s account with a bank in Bangladesh on being confirmed
+that the export proceeds have been swept and pooled into the nostro collection account
+from the exporter’s notional account.
+(5) ADs shall satisfy themselves as to the bonafide of the transactions on examination of
+relevant documents and credit the amount in ERQ account of exporters up to the
+permissible limit at their options. The remainder (or up to full, at exporter’s option)
+shall mandatorily be credited in local currency accounts after conversion. ADs shall
+also ensure deduction of applicable taxes, if any and payment thereof.
+(6) Besides online reporting and monthly reporting in schedules/statements of the
+transactions to Bangladesh Bank with appropriate purpose codes, ADs shall submit all
+the relevant information/documents relating to any transaction under this arrangement
+to Bangladesh Bank, as and when advised to do so.
+(7) Each nostro collection account shall be subject to reconciliation and audit on a
+quarterly basis as per regulatory requirements.
+(8) Resolution of all payment related complaints of exporters/service providers in
+Bangladesh shall remain the responsibility of OPGSPs concerned.
+(9) ADs entering into arrangements with any OPGSPs shall report to the Foreign
+Exchange Policy Department, Bangladesh Bank, Head Office, Dhaka with necessary
+details. The arrangements are subject to strict compliance by OPGSPs with the
+instructions contained in this circular.
+(10) As usual, ADs shall exercise due diligence in respect of the transactions with OPGSPs
+and comply with the foreign exchange regulations, AML/CFT regulations and any
+other relevant laws/regulations in force.
+
+--- Page 29 ---
+22
+
+
+57. Repatriation of ICT related service income through international card
+ADs may provide facilities to credit inward remittances received in international card
+numbers/accounts against the services provided by individual developers/freelancers of
+mobile Apps and Games having acknowledgements/training/boot-camps/hackathons/course
+participation certificates on mobile application development arranged by government
+authority/BASIS, or its member organization and any other recognized training/academic
+institutes. In this context, ADs shall issue to individual developers/freelancers international
+cards (termed as 'Freelancer Card') having duel currency units with features of being prepaid
+from abroad and observe the following instructions:
+(1) On receipts of the payment, up to eligible ERQ portion may be credited at the options of
+beneficiaries in foreign currency unit of the card, the remainder mandatorily in local
+currency unit after conversion at prevailing exchange rate.
+(2) The balance held in foreign currency unit of the card as ERQ is usable for payment,
+through usual banking channel, on international current account transactions for
+bonafide business expenses including legitimate expenses for personal purposes. The
+cards may be used for permissible online transactions from Bangladesh. Outward
+remittances from foreign currency balance are subject to fulfillment of taxes payment
+obligations, if any.
+(3) Inward receipt exceeding USD 20,000 (Twenty thousand) or equivalent is subject to
+declaration on Form-C (ICT).
+(4) ADs shall report the transactions to Bangladesh Bank in relevant statement/schedule
+and online reporting system mentioning appropriate code relevant to ICT/computer
+services.
+
+58. Repatriation of export proceeds through payment service providers
+(1) In addition to paragraph 56 of this circular, ADs may allow their service exporter-
+customers to enter into arrangements, including maintenance of merchant accounts,
+with international market places/platforms. In addition to such accounts, service
+exporters may maintain notional accounts, without limiting to licensed OPGSPs, with
+internationally reputed payment service aggregators, payment facilitators, digital
+wallets or other legitimate payment systems licensed by the regulatory authorities
+concerned. Accordingly, ADs shall facilitate repatriation of service income deposited
+in their nostro accounts by international market places/platforms including eligible
+foreign payment operators, regardless of having arrangements and maintaining
+separate nostro collection accounts. In this context, ADs shall obtain-
+(a) detailed information from their service exporter-customers regarding maintenance
+of merchant accounts with international market places/platforms and/or notional
+accounts with eligible foreign payment operators;
+(b) declaration on the nature of services to be provided by service exporter-customers
+with supporting information and documents thereon;
+
+--- Page 30 ---
+23
+
+(c) undertaking from their customers to the effect that they will arrange repatriation of
+the service income within statutory period either by way of (i) concerned market
+places/platforms or eligible foreign payment operators, or (ii) credit to their
+merchant/notional accounts for immediate transfer to Bangladesh. Accordingly,
+customers’ due diligences and other regulatory compliances need to be observed.
+(2) While on receipt of inward remittances in nostro accounts on account of service income
+by way of international market places/platforms or eligible foreign payment operators as
+per above, ADs shall observe following procedures:
+(a) ADs shall credit the receipts in equivalent local currency to respective bank
+accounts, or arrange to transfer the same to digital wallets maintained with Mobile
+Financial Service Providers licensed by Bangladesh Bank. At the option of their
+service exporter-customers, ADs may make the fund available to ERQ accounts
+up to the permissible limit before transfer the equivalent local currency to
+respective bank accounts/digital wallets.
+(b) In case exporters’ ADs are different, at the option of service exporters for
+maintaining ERQ accounts, ADs repatriating service income shall transfer the
+repatriated fund through nostro/clearing accounts of Bangladesh Bank to
+concerned ADs in invoicing currency. For such transfer, beneficiary ADs will
+follow reporting routine to Bangladesh Bank.
+(c) Regulations on deductions of applicable taxes and payment thereof need to be
+complied with.
+
+(3) Service income is to be repatriated in permissible currencies as per paragraph 9 and
+within statutory period as prescribed in paragraph 52 of this circular. Service exporters
+can operate no accounts abroad for store of value other than merchant or notional
+accounts as per above.
+(4) At the option of international market places/platforms and eligible foreign payment
+operators, ADs may maintain KYC and AML/CFT compliant foreign currency accounts
+and non-resident Taka accounts in their names as per general authorization of foreign
+exchange regulations for payments on account of service income by debit to the accounts,
+subject to observance of relevant instructions as noted at (2) above.
+(5) ADs shall observe reporting routine to Bangladesh Bank with appropriate codification
+and comply with the relevant foreign exchange regulations, AML/CFT norms and any
+other relevant laws/regulations in force.
+
+59. Repatriation of income from IT related services through MFSPs and PSPs
+(1) Mobile Financial Service Providers (MFSPs) and Payment Service Providers (PSPs)
+licensed by Bangladesh Bank are allowed for repatriation of export proceeds in
+association with internationally recognized OPGSPs/digital wallets and/or aggregators
+having operations in multiple countries (hereinafter referred to as foreign payment service
+providers, PSPs). Accordingly, MFSPs and PSPs shall –
+
+--- Page 31 ---
+24
+
+(a) have standing arrangements with foreign PSPs.
+(b) maintain settlement accounts in equivalent Taka with ADs, under agreements for
+this particular purpose, through whom repatriation of export proceeds shall be
+channeled by foreign PSPs.
+(c) make funds available to digital wallets of eligible exporters upon credit of the
+fund in settlement accounts.
+(d) maintain electronic records of transactions in detail and make them available to
+Bangladesh Bank as and when required.
+
+(2) ADs shall observe, in connection with operation of the transactions, the following
+instructions:
+(a) ADs shall transfer the fund, on receipt in their nostro accounts, to settlement
+accounts in equivalent Taka of MFSPs and PSPs. While executing the transfer,
+ADs shall comply with deduction and payment of taxes, if applicable.
+(b) As an alternative to (a) above, ADs may maintain accounts in the name of foreign
+PSPs at their desire in foreign currency/Taka as per foreign exchange regulations
+to facilitate the said transfer by debit the accounts. Overdraft facilities may be
+allowed for the accounts so maintained provided that ADs shall have payment
+guarantees from banks acceptable to them for the adequate amounts based on the
+transaction flows.
+(c) ADs may maintain ERQ accounts in the name of ITES exporters to be arranged in
+association with MFSPs and PSPs up to the extent of permissible limit from
+repatriated proceeds. In this case, ADs shall make funds available to ERQ
+accounts as per standing arrangement in foreign currency before transfer of the
+funds to settlement accounts of MFSPs and PSPs.
+
+(3) MFSPs and PSPs entering into arrangements with foreign PSPs shall intimate through
+their designated ADs to Payment Systems Department and Foreign Exchange Policy
+Department at Bangladesh Bank head office with necessary details. They shall observe
+admissible procedures to execute transactions in accordance with regulatory instructions
+issued by Bangladesh Bank from time to time.
+
+(4) Due diligence in respect of the transactions needs to be observed regarding foreign
+exchange/payment systems regulations, KYC and AML/CFT standards and relevant
+laws/regulations in force.
+
+(5) ADs maintaining settlement accounts may issue encashment certificates in support of
+remittances on request from MFSPs and PSPs electronically. In this case, the request
+needs to be supported by auto-generated information – beneficiary’s name, wallet account
+number, amount in Taka, and date of credit from remittance service provider abroad.
+Based on their own screening parameters regarding the information, designated ADs shall
+generate electronic encashment certificate (as per Appendix-12) with QR code accessible
+
+--- Page 32 ---
+25
+
+to beneficiaries through MFSPs and PSPs. The above-mentioned certificate is intended to
+be used for Income Tax purposes only.
+
+60. Retention of foreign currency and outward remittance
+ADs need to intimate individual beneficiaries regarding their option for retention in foreign
+currency in ERQ accounts before encashment of inward remittances. Without their consent,
+ADs should not outrightly encash inward remittances for credit in Taka accounts. ADs should
+also guide their customers on facilities of outward remittances out of retention amount for
+bonafide current account transactions as per relevant ERQ regulations.
+
+--- Page 33 ---
+26
+
+Part-G
+EXPORT THROUGH E-COMMERCE
+
+61. Business-to-Consumer export through sales orders against receipt in advance
+In order to promote Business-to-Consumer export by hosting goods on E-Commerce website
+accessible through internet to foreign buyers, ADs are allowed to provide acquiring services
+to eligible exporters for repatriation of export proceeds against sales orders of exportable
+goods received on E-Commerce website. In this context, ADs shall observe the operational
+procedures as outlined below:
+(1) ADs shall have the merchant agreement with the exporters having necessary
+arrangements for safe internet transactions;
+(2) This facility shall only be available for small value export of value in Cost and Freight
+(CFR) term not exceeding USD 5,000 per transaction. Transport documents for
+shipment of the goods with EXP Form procedure may be issued in the name of foreign
+buyer;
+(3) On receipt of internet settled full export proceeds in convertible foreign currency in
+nostro accounts, EXP Form formalities can be observed. Procedure for ARV needs not
+to be observed in this regard;
+(4) Settlement may be executed by way of international cards, OPGSPs, digital wallets, and
+other legitimate payment systems licensed by the concerned regulatory authorities. ADs
+shall observe due diligence for secured arrangements with foreign counterparts by
+which the payments so received need to be credited in their nostro accounts before
+making the fund available to customers;
+(5) ADs shall, on receipt of electronic EXP Form from exporters not exceeding 14 days of
+shipment, credit export proceeds to the respective accounts (up to permissible limit to
+ERQ account and remainder in Taka account) of exporters and report the execution of
+export with proceeds realized in the online reporting system. ADs shall also observe
+routine procedures to report the transactions to Bangladesh Bank in usual monthly
+returns, and
+(6) In case of failure to execute the export, the payment credited in nostro accounts may be
+refunded to foreign buyers.
+(7) ADs shall exercise due diligence in respect of the transactions and comply with relevant
+laws/regulations in force.
+
+62. Electronic declaration for E-Commerce export
+Electronic declaration of EXP Form by exporters submitted in accordance with relevant
+instructions shall be acceptable to ADs providing acquiring services for repatriation of
+proceeds against export of goods concluded on E-Commerce website.
+
+63. Business-to-Consumer export through sales orders against cash on delivery/payment
+on shipment terms
+ADs may allow business-to-consumer exports of each sale on E-Commerce website up to
+USD 500 or equivalent under cash on delivery/payment on shipment terms subject to:
+
+--- Page 34 ---
+27
+
+(1) ADs shall have counterparty arrangements with foreign payment service providers to
+realize the payments by debit their foreign currency accounts or Taka accounts
+maintained with ADs in terms of general authorization;
+(2) Overdraft facilities will be allowed for the accounts so maintained in Bangladesh
+provided that ADs shall have payment guarantees, from banks acceptable to them, for
+the adequate amounts based on the transaction flows.
+
+64. Small value export under Business-to-Consumer on E-Commerce website without
+EXP
+Declaration on EXP Form to Customs Authority will not be required for small value export
+up to USD 500 or equivalent concluded on E-Commerce website against payment received
+prior to shipment. In this context, ADs shall observe following provisions:
+(1) ADs shall obtain a declaration from their customers executing export under Business-
+to-Consumer on E-Commerce website to the effect that (i) they will export goods at fair
+value, (ii) they will provide shipment details like online orders, Bill of Export, courier
+receipts, etc. immediately from date of shipment, (iii) they will give details of
+nominated express/courier service providers having valid licenses from competent
+authority, and (iv) they will observe relevant provisions of the FER Act, 1947 and
+circulars issued thereunder;
+(2) Nominated express/courier service providers shall observe formalities with Customs
+Authority and arrange issuance of Bill of Export against the relevant shipments;
+(3) Inward remittances received prior to shipment through legitimate channels against
+orders concluded at website need to be retained in margin accounts in the name of
+exporters till receipt of Bill of Export and other relevant documents;
+(4) On receipt of Bill of Export, ADs shall make fund available to customers’ accounts in
+equivalent Taka excluding retention portion which may be credited in ERQ accounts at
+the option of exporters;
+(5) ADs shall report the transactions to Bangladesh Bank reporting system under E-
+Commerce with reference to Bill of Export extracting from customs electronic system;
+(6) ADs may allow export under Business-to-Consumer on home delivery basis (DDP
+term) provided that sufficient amount payable to nominated express/courier service
+providers on account of relevant costs at destinations along with transport and other
+charges are realized from consumers abroad;
+(7) ADs shall make customers’ due diligence including compliance with KYC norms and
+AML/CFT standards before onboarding exporters;
+(8) ADs shall maintain customer-wise electronic records of transactions which need to be
+made available to Bangladesh Bank or its inspection team as and when asked for.
+(9) ADs shall intimate details of E-Commerce customers including express/courier service
+providers to Foreign Exchange Policy Department (Divison-1) and Foreign Exchange
+Operation Department (Divison-2) of Bangladesh Bank, Head office within 7 days of
+allowing exporters to execute export under this framework.
+
+--- Page 35 ---
+28
+
+Part-H
+RE-EXPORT, ENTRE-POT, MERCHANTING TRADE AND COUNTER TRADE
+
+65. Re-export and entre-pot trade
+Re-export and entre-pot trade by exporters of Bangladesh are subject to the guidelines of the
+Ministry of Commerce disseminated through Import Policy Order and Export Policy in force
+published from time to time. However, ADs will abide by the following instructions in
+conducting foreign exchange transactions in such cases:
+(1) Compliance with relevant instructions of Ministry of Commerce including prescribed
+minimum value addition requirement is to be ensured;
+(2) In case of re-export, import value (including freight) will be met from repatriated export
+value only. Besides, usual IMP and EXP procedures will have to be followed in import
+(including freight) and export of goods respectively;
+(3) In case of entre-port, import value (including freight) will be met from repatriated
+export value only. Declaration in 'Form-C', and 'Form TM' (Appendix-13) shall be used
+for reporting receipts of export value and making import payments (including freight)
+respectively.
+
+66. Foreign exchange transactions for merchanting trade
+(1) In accordance with Export Policy in force, a trade in which goods/services procured
+from a country are shipped/delivered directly to a third country is defined as
+merchanting trade. To facilitate transactional services by ADs to their merchanting
+traders-customers, a set of operational guidelines has been formulated as outlined
+below:
+(a) Regulatory instructions applicable to exports (except EXP Form) and imports
+(except IMP Form) shall be complied with for export-leg and import-leg
+respectively, with reporting routine on Form-C (at export-leg) and Form TM (at
+import-leg). Requirement of EXP Form and IMP Form respectively for export and
+import of goods will not be applicable;
+(b) ADs shall satisfy themselves with the bonafides of the transactions, including
+adherence to KYC and AML/CFT guidelines while handling such transactions.
+The counterparties to merchanting trades shall be from FATF compliant countries.
+(c) The entire merchanting trade is to be routed through the same AD. The designated
+AD shall verify the documents and satisfy themselves about the genuineness of
+the trade. The designated AD should, if necessary, make online verification of
+transport documents (in case of goods) through acceptable tracking system;
+(d) In case of the receipt of transferable LCs to execute merchanting trade, the same
+may be transferred favoring suppliers of relevant countries in terms of relevant
+provisions of UCP in force for procurement of goods/services to be sold to
+respective customers of third countries. The payment for the procurement will be
+settled in observance of the procedure laid down in UCP;
+
+--- Page 36 ---
+29
+
+(e) In case fresh LCs from Bangladesh to suppliers abroad for import-leg are issued,
+import payments need to be settled out of receipts from export-leg. Import
+settlement, however, may be arranged by traders before receipts of payments from
+export-leg under short term buyers' credit from external sources. Traders can
+assign the receivables from export-leg for the credits. ADs shall not issue any
+forms of payment undertaking/commitments/acceptance for the credits.
+(f) Receipts from export-leg, on encashment of mark-up including deposit to
+retention quota accounts at traders’ option, shall be retained in margin accounts
+maintained in foreign exchange till the settlement of payments under import-leg
+including charges. Discounted proceeds, if any realized before maturity, can also
+be retained in the said margin accounts.
+(2) Agency commission/service charge is allowed from the receipts of export-leg retained
+in margin accounts provided that the payment does not result the transactions ending
+in shortfall of settlement of payments to suppliers abroad. The agency commission is
+subject to deduction and payment of applicable taxes.
+(3) ADs shall satisfy themselves about merchanting traders of goods and services
+regarding their overall capabilities to perform the said trade.
+(4) ADs shall satisfy themselves to the effect that payments for import-leg are to be met
+out of receipts from export-leg other than buyers’ credit as per 66(1)(e) above. ADs
+shall, in no way, execute payments from their own sources. The difference between
+inward receipts and outward payments including relevant all charges shall be
+reasonably satisfactory for meeting local expenses and profits. ADs shall comply with
+regulations regarding deductions of applicable taxes for the transactions.
+(5) Merchanting traders will be entitled to have retention quota facility on realized
+proceeds, net of outward remittances, in accordance with rate applicable for service
+exports as per paragraph 76 of this circular.
+(6) Reporting for merchanting trade transactions to Bangladesh Bank shall be done on
+gross basis with purpose as ‘merchanting services’ at both legs.
+
+67. Settlement of import and export transactions through counter-trade arrangements
+(1) Bangladeshi parties (exporters/importers/traders) may voluntarily enter into counter-trade
+arrangements with counterparts abroad for settlement of import payments into
+Bangladesh against proceeds of goods exported from Bangladesh. Banks may open and
+maintain Escrow accounts in relevant approved currency, with intimation to Bangladesh
+Bank, in the name of foreign counterparts or jointly with Bangladeshi parties, to execute
+the settlement of payments. Operational procedures for settlement of payments under
+counter-trade arrangements are as follows:
+(a) Credits to Escrow accounts can be made out of import payments in approved
+foreign currencies received from importers through local banking channel
+supported by documentary evidences.
+
+--- Page 37 ---
+30
+
+(b) The accounts can be debited for export payments, net of permissible commission/
+service charges, supported by documentary evidences to exporters through local
+banking channel.
+(c) Agreed commission/service charges, on deduction of applicable taxes, will be
+payable to Bangladeshi parties in equivalent Taka from the Escrow accounts.
+(2) No interest/profit will be payable on balances held in Escrow accounts but unencumbered
+balances can be transferred, at the instructions of account holders, to other Escrow
+accounts in Bangladesh for facilitating payments against exports under counter-trade
+arrangements.
+(3) In case of underlying agreement between parties, Escrow accounts as per authorization in
+paragraph 67(1) above may be opened and maintained in Bangladeshi Taka. In this case,
+import payments can be credited to the accounts against import payments received in
+Taka from importers’ banks. The balances held in Taka accounts can be used for
+settlement of local disbursement as per 1(b) and 1(c) above. As usual, the accounts will
+bear no interest/profit.
+(4) Bangladeshi parties shall follow up with their counterparts so that the position in Escrow
+accounts can be balanced within periodical intervals.
+(5) Subject to approval from Bangladesh Bank, Bangladeshi parties can open and maintain
+Escrow accounts in the countries of their counterparts for settlement of trade transactions
+under counter-trade arrangements.
+(6) All imports and exports are subject to relevant regulatory compliance and shall be
+competitive in price. ADs executing transactions on behalf of importers and making
+payments to Escrow accounts as per above instructions shall report the same to
+Bangladesh Bank in IMP Form procedures with suitable mark as ‘Counter-trade’ along
+with matching formalities. Usual EXP formalities need to be observed for export
+transactions including reporting of proceeds realization with suitable mark as ‘Counter-
+trade’.
+(7) Banks shall be satisfied with the bonafides of the underlying transactions and shall
+comply with KYC and AML/CFT standards, including reporting routines to Bangladesh
+Bank on related Online Systems and relevant schedule of statements.
+(8) The above instructions, however, shall not be applicable for transactions through the
+ACU mechanism.
+
+--- Page 38 ---
+31
+
+Part-I
+EXPORT OF CURRENCY NOTES AND COINS, FOREIGN EXCHANGE,
+GOLD, SILVER, JEWELLERY AND SECURITIES ETC.
+68. Definition of foreign exchange
+The term foreign exchange as defined under Section 2 of the FER Act, 1947 includes
+cheques, drafts, travellers' cheques, letters of credit, bills of exchange and promissory notes
+expressed or drawn in foreign currency, or in Bangladesh currency but payable in foreign
+currency.
+
+69. Export of foreign exchange
+(1) Any person may take out of Bangladesh with him foreign exchange issued to him by an
+AD and endorsed on his passport.
+(2) General permission has been granted:
+(a) to the ADs to send out of Bangladesh cheques, drafts or bills of exchange which
+have been acquired by them in their normal course of business and within the
+terms of their authorization ; and
+(b) to a foreign national who is resident in Bangladesh, but is not domiciled in
+Bangladesh to take or send out of Bangladesh drafts or cheques drawn on their
+foreign currency accounts.
+(3) Currency which has been brought into Bangladesh in the safes of vessels or aircraft or
+which has been taken on board vessel or aircraft with the permission of the Bangladesh
+Bank may be taken out of Bangladesh.
+(4) Any person ordinarily resident in Bangladesh may take out foreign exchange not
+exceeding USD 10,000 (Ten thousand) or its equivalent which was brought in without
+declaration at the time of returning from abroad.
+(5) Any person not ordinarily resident in Bangladesh including Bangladesh nationals
+working abroad may take out of Bangladesh any amount in foreign exchange not
+exceeding the amount declared by him to the Customs Authorities on arrival in
+Bangladesh. However, such a person may take out at the time of leaving Bangladesh
+foreign exchange not exceeding USD 10,000 (Ten thousand) or its equivalent brought in
+without declaration to the Customs Authorities on his arrival in Bangladesh.
+(6) It is not permissible to send currency notes and coins out of Bangladesh by post/courier
+or any other means.
+
+70. Export of local currency
+Any person may take out of Bangladesh, Bangladeshi legal tender notes and coins not
+exceeding Taka 10,000 (Ten thousand) only in value at any one time.
+
+71. Export of Securities
+Under Section 13(l)(a) of the FER Act, 1947 it is not permissible for any person to take or
+send out any security to any place outside Bangladesh except with permission of the
+Bangladesh Bank. Residents in Bangladesh who are holders of foreign securities and who
+
+--- Page 39 ---
+32
+
+wish to send these securities to bank, brokers or agents abroad for purposes of sale, transfer
+etc., should apply to Bangladesh Bank through an AD for the necessary export permit.
+Permission for transfer of foreign securities will be granted provided the AD gives an
+undertaking that the securities will be received back in Bangladesh within a specified period
+or in the case of sale, the foreign currency proceeds will be remitted to Bangladesh.
+
+72. Definition of jewellery and precious stones
+The terms jewellery and precious stone are deemed to include all articles made wholly or
+mainly of gold, platinum, diamonds of all kinds, precious or semi-precious stones, pearls,
+whether or not mounted, set or strung and articles set or mounted with diamonds, precious or
+semi-precious stones or pearls.
+
+73. Export of gold jewellery and silver jewellery
+Export of gold jewellery and silver jewellery from Bangladesh may be effected by exporters
+registered with the office of the CCI&E as per normal EXP procedure. Back to back import
+LCs may be established by ADs for import of gold, silver and precious stones for
+manufacture and export of jewellery against export LCs received by registered jewellery
+exporters operating under the bonded warehouse system, subject to observance of the
+minimum domestic value addition requirement prescribed in the Jewellery Export Policy
+formulated by the Ministry of Commerce (10% for gold jewellery, 15% for stone- studded
+gold jewellery and 25% for silver jewellery). Back to back imports may also be effected
+against firm export orders in cases where import costs are met out of advances received by
+the exporter from the foreign buyer, or where the import payment is settled abroad directly by
+the foreign buyer.
+74. Cost of imported inputs prepaid abroad
+If the cost of imported inputs are prepaid abroad by the foreign buyer or met out of advances
+received from the foreign buyer, exporters shall be required to repatriate export proceeds to
+the extent of the local value addition only. In such cases, ADs shall maintain the records of
+the total export value and the cost of imported inputs separately during the EXP reporting.
+
+75. Export of jewellery on consignment basis
+Prior permission of Bangladesh Bank will be required for export of jewellery on consignment
+basis or for sale in exhibitions abroad.
+
+--- Page 40 ---
+33
+
+Part-J
+EXPORTERS' RETENTION QUOTA (ERQ) ACCOUNT
+
+76. Retention quota limits
+(1) Retention quota for merchandise exporters
+Merchandise exporters are entitled to foreign exchange retention quota of 30 (thirty)
+percent of the repatriated FOB value for exports of high domestic value-added
+merchandise. However, for merchandise exports of goods having high import content,
+such as apparels using imported woven fabric, POL products including naphtha, furnace
+oil and bitumen, electronic goods, etc., the retention quota is 7.5 (Seven and a half)
+percent of the repatriated FOB value.
+(2) Retention quota for deemed exporters
+Retention quota account may also be opened and maintained in the names of deemed
+exporters for supplying inputs against inland back to back LC denominated in foreign
+currency. Since foreign exchange earned from direct export is to be shared among direct
+and deemed exporters, ADs are obliged to meticulous compliance with the following:
+
+(a) the total amount credited to the direct exporter's retention quota account together
+with foreign exchange paid to the deemed exporter against supply of input must not
+exceed the net repatriated FOB export value of the direct exporter; and
+(b) retention quota accounts can be credited up to the permissible limit in the percentage
+of proceeds realized under inland back to back LCs.
+(3) Retention quota for export of software, data entry/processing, and other ICT-related
+services
+Exporters of software, data entry/processing, and other ICT-related services may retain 35
+(Thirty five) percent of net export earnings repatriated in foreign exchange in ERQ
+accounts.
+(4) Retention quota for other service exporters
+Service exporters other than those mentioned at para (3) above may retain 30 (Thirty)
+percent of their repatriated export receipts in ERQ accounts against service rendered in
+non-physical form.
+
+(5) Retention quota for agents/trade facilitators
+Resident companies/firms working as agents/trade facilitators may retain 10 (Ten) percent
+of the commission earning receipts from the export proceed in foreign currency, subject
+to having valid permissions from competent authorities, if applicable, and are active
+members of trade associations representing the relevant sectors.
+
+However, foreign exchange earnings on account of indenting commission or agency
+commission originating from Bangladesh sources cannot be credited to such accounts.
+
+--- Page 41 ---
+34
+
+77. Eligible currency and utilization
+(1) Eligible currency
+Foreign exchange out of the retention quota may be maintained in foreign currency
+accounts with the concerned ADs in US Dollar, Pound Sterling, Euro, Japanese Yen, or
+Chinese Yuan upon realization of the export proceeds.
+(2) Utilization
+Balances in these accounts may be used by the exporters for bonafide business purposes,
+such as business visits abroad, participation in export fairs and seminars, establishment,
+and maintenance of offices abroad, import of raw materials, machinery, and spares,
+repayment of authorized foreign loan, etc. without prior approval of Bangladesh Bank. In
+addition, ADs on request by the IT/Software exporting firms can remit international
+alliance/software registration fees, domain registration/hosting fees, server maintenance
+fees, account verification/remittance test fees, etc. from the ERQ account of the applicant
+without prior approval of Bangladesh Bank. Foreign exchange from the ERQ account can
+be used by the exporter for investment abroad with prior approval as per Capital Account
+Transaction (Overseas Equity Investment) Rules, 2022.
+Transfer of unencumbered foreign currency between the ERQ accounts of the same
+exporter maintained out of export receipts with different ADs is permissible for bonafide
+transactions as mentioned above. Besides, funds from the ERQ accounts of the exporters
+may be used for settlement of import liability and repayment of authorized foreign loans
+of their subsidiaries/sister concerns. However, funds from ERQ accounts of the exporters
+held at other ADs may be used for (1) settlement of import liability of the exporters and
+(2) settlement of import liability & repayment of authorized foreign loan of exporters'
+subsidiaries/sister concerns under compliance with the following instructions:
+
+(a) Fund transferring AD
+ADs shall be satisfied that the fund will be used only for imports and repayment of
+foreign loans of the exporters or their subsidiaries/sister concerns by other ADs and the
+fund is unencumbered.
+Transfer will be executed by BB-RTGS System through Bangladesh Bank clearing
+accounts of ADs. This instruction shall not be applicable for fund transfers and
+receipts in the same AD.
+(b) Fund receiving AD
+ADs shall retain the fund in the margin account till the settlement of import
+payments and repayment of foreign loans.
+ADs shall settle the import payments in compliance with the Import Policy Order in
+force, foreign exchange regulations, and other import related instructions. For
+repayment of foreign loans, concerned instructions mentioned about borrowing
+abroad by residents and the loan approval letter of the competent authority shall
+have to be followed.
+
+--- Page 42 ---
+35
+
+(3) Term deposit and interest thereon
+Foreign exchange out of ERQ account may also be kept as interest bearing renewable
+term deposits with the concerned ADs in Bangladesh in US Dollar, Pound Sterling, Euro,
+Japanese Yen, or Chinese Yuan with minimum balances of USD 2,000 (two thousand) or
+its equivalent. Periods of such term deposits may be determined in accordance with
+normal banking practices/normal banking considerations. Interest on such deposits may
+be allowed at rates comparable to the prevailing euro deposit rates for the relevant
+currency.
+(4) Advance payment against import using ERQ accounts
+ADs may effect advance payment not exceeding USD 25,000 (twenty five thousand) or
+its equivalent from the ERQ account against bonafide business purposes provided the
+relevant contract/proforma invoice stipulates for such payment subject to the following
+terms and conditions:
+(a) The ADs shall have to be satisfied that repayment guarantee is not obtainable
+from the supplier against the remittance to be made in advance;
+(b) IPO in force shall have to be meticulously followed;
+(c) The ADs shall, at their own responsibility, have to arrange for repatriation of the
+remittance made in advance in case the entry of goods into the country is not
+effected within the stipulated time;
+(d) While opening back to back LC, the ADs should adjust the value of advance
+payment to ensure that the value addition requirement as stipulated in the IPO is
+not breached; and
+(e) Before effecting the advance payment, the ADs must obtain Form of Undertaking
+(Appendix-14) duly signed by the importer.
+(5) Outward remittance without balances held in ERQ accounts
+ADs may allow remittance facilities to exporters for bonafide service payments to
+beneficiary’s bank account abroad up to USD 5,000 or equivalent, subject to observance
+of the following instructions:
+(a) The facility will be useable provided that adequate funds is not available in ERQ
+account;
+(b) Requests from the exporter are supported by invoices specifying details of
+services and deduction & payment of applicable taxes thereon;
+(c) The foreign exchange so remitted under this facility shall be adjusted with
+subsequent export proceeds by deduction from retainable amount in ERQ/margin
+account and encashment the same in Taka account of the exporter.
+
+78. International card
+International cards may be issued to the exporters against balances held in ERQ and ARQ
+accounts. The arrangements for issuance of international cards and use thereof by exporters
+are described in chapter 19 of GFET-2018 and subsequent circulars.
+
+--- Page 43 ---
+36
+
+Part-K
+FOREIGN CURRENCY ACCOUNTS FOR ENTERPRISES
+OPERATING IN SPECIALIZED ZONES
+
+79. Disposal of proceeds: The following procedures shall apply to release of foreign
+exchange to the enterprises against exports made from specialized zones:
+
+(1) 100 (hundred) percent of repatriated export proceeds of a Type A industrial enterprises in
+specialized zones may be retained in foreign currency accounts in the name of the enterprises
+with ADs or OBUs in Bangladesh. Balances in foreign currency accounts may freely be used
+to meet all foreign payment obligations including import payment obligations of the
+enterprise and payment obligations in foreign exchange to respective zone authorities.
+Balances from foreign currency accounts will also be freely encashable for local
+disbursements or for crediting Taka account maintained with ADs for meeting Taka payment
+obligations like wages, rents, rates, taxes etc. Taka accounts maintained with ADs by Type A
+enterprises in specialized zones may be credited only with encashments of funds from foreign
+currency accounts or of other inward remittances from abroad. However, receipts from Taka
+sales of factory refuses and of unusable portion of raw materials of Type A enterprise may be
+credited to Taka accounts provided the permission letter of respective zone authorities for the
+sale and evidence of payment of duties/taxes on sale proceeds are produced to the AD. In
+addition, ADs may credit legitimate receipts against short weight claim, quality claim, freight
+charge of sample, insurance claims, reimbursement of expenses for samples from buyers or
+parents etc. received in foreign currency or local currency accounts of the enterprises. ADs
+shall observe due diligence in compliance with KYC, AML/CFT standards while crediting
+accounts under the above mentioned grounds based on documentary evidences. Balances in
+these Taka accounts cannot be converted to foreign exchange and may only be used for
+meeting local expenses.
+
+(2) Balances held in foreign currency accounts of Type A industrial enterprises of specialized
+zone may be used for purchase of shares in zone areas or outside zone areas in Bangladesh.
+ADs receiving funds on account of share purchase shall observe all instructions including
+issuance of certificate and reporting routine contained in chapter 9 of GFET-2018 and its
+subsequent circulars. As such, dividend income out of such investment, and disinvestment
+proceeds (if any) approved by Bangladesh Bank, where required, may also be credited to
+their foreign currency accounts, subject to regulatory compliances including taxes
+regulations.
+
+(3) Up to 80 (eighty) percent of the repatriated export proceeds of Type B and Type C
+enterprises other than those in the garments sector may be retained in foreign currency
+accounts maintained in the names of the enterprises with their ADs; for a Type B or Type C
+enterprise in the garments sector, up to 75 (seventy five) percent of the repatriated export
+proceeds may be credited to foreign currency accounts maintained in the name of the
+
+--- Page 44 ---
+37
+
+enterprises with ADs. The remainder of the export proceeds should be encashed to taka at the
+prevailing exchange rate. Besides, Taka accounts of Type B and Type C industrial enterprises
+may also be credited with authorized payment received in Taka in accordance with same
+instructions as stipulated in paragraph 79(1) above. All foreign payment obligations of Type
+B and Type C enterprises including import payment and repayments of foreign loans may be
+met out of the balances in their foreign currency accounts; payment obligations in foreign
+exchange of a type B enterprise to respective zone authority may also be settled from
+balances in its foreign currency account. Balances in foreign currency accounts of Type B
+and Type C enterprises are freely encashable to Taka for local disbursements.
+
+(4) Equity from foreign shareholders of Type A and B enterprises and authorized loan
+received in foreign currency by Type A, B and C enterprises may be credited in foreign
+currency accounts of enterprises of specialized zones. Issuance of shares to foreign
+shareholders is subject to compliance with the provisions of chapter 9 of GFET-2018 and its
+subsequent circulars.
+
+(5) To facilitate business travel abroad by the officials of enterprises located in specialized
+zones, balances of such accounts may be used through international debit/pre-paid cards also
+as per relevant provision of chapter 19 of GFET-2018 and subsequent circulars.
+
+--- Page 45 ---
+FE Circular No. 31, dated July 31, 2025
+
+Part-L
+APPENDIX
+Part-A: GENERAL GUIDELINES
+
+Appendix-1
+EXP Form
+
+Appendix-2
+Export Register
+
+Appendix-3
+Certificate of AD for carrier company
+
+Appendix-4
+Information relating to export orders with foreign agent
+commission
+
+Appendix-5
+Application for approving remittance of discount on account
+of readymade garments and leather goods
+
+Appendix-6
+Advance receipt voucher
+
+Appendix-7
+PRC Direct Export
+
+Appendix-8
+PRC Deemed Export
+Part-D: EXPORT UNDER OPEN ACCOUNT CREDIT TERMS
+
+Appendix-9
+Certificate of AD for carrier company
+Part-E: EXPORT OF SERVICES INCLUDING INFORMATION TECHNOLOGY
+ENABLED SERVICES
+
+Appendix-10
+Form-C
+
+Appendix-11
+Form-C (ICT)
+Part-F: EXPORT PROCEED REALIZATION SERVICES
+
+Appendix-12
+Certificate by AD against IT related services
+Part-H: RE-EXPORT, ENTRE-POT, MERCHANTING TRADE AND COUNTER TRADE
+
+Appendix-13
+Form TM
+Part-K: EXPORTERS' RETENTION QUOTA (ERQ) ACCOUNT
+
+Appendix-14
+Form of Undertaking
+
+--- Page 46 ---
+Paragraph 6, Part-A
+Appendix-1
+EXP Form
+(Submitted electronically by exporters)
+
+Statutory declaration to be furnished by exporters under the Foreign Exchange Regulation Act, 1947
+before shipment of goods. An incorrect declaration constitutes offence under the said Act.
+EXP/Electronic Declaration No. and date_______________________________________________________
+Name and address of Authorized Dealer _______________________________________________________
+
+Details of export
+Sl.
+No.
+Items
+Particulars (to be filled
+in by Exporter)
+Code No. (to be filled in by
+Authorized Dealer)
+
+Commodity to be exported
+
+
+
+
+
+
+Country of destination
+
+
+
+
+
+
+Port of destination
+
+
+
+
+
+
+Quantity
+Unit (bales/tons/lbs. etc.)
+
+
+
+
+
+
+Volume (Weight/number etc.)
+
+
+
+
+
+
+Value
+Currency
+
+
+
+
+
+
+Incoterm Used
+
+
+
+
+
+
+Invoice Value
+
+FOB
+Insurance
+Freight
+
+
+
+CMT Value (if applicable)
+
+
+
+
+
+
+Terms of sale (Firm Contract/LC or Consignment
+sale)
+
+
+
+
+
+
+Name & address of importer/consignee
+
+
+
+
+
+
+Name of carrying vessel
+
+
+
+
+
+
+Bill of Lading/Railway Receipt/Airway
+Bill/Truck Receipt/Post Parcel Receipt
+No.:
+Date:
+
+
+
+
+
+10.
+Port of shipment/Post Office of despatch
+
+
+
+
+
+
+11.
+Land Custom Post
+
+
+
+
+
+
+12.
+Shipment date
+
+
+
+
+
+
+13.
+Name of the Exporter (in block letter) with
+address
+
+
+
+
+
+
+
+14.
+CCI&E’s Registration Number of the exporter
+and date
+
+
+
+
+
+
+15.
+Sector (Public or Private) under which the
+exporter falls
+
+
+
+
+
+
+Declaration and undertaking by exporter
+I/We, the undersigned hereby declare that I/we am/are the sellers/consignors of the goods described above in respect of
+which this electronic declaration is made out through Bangladesh Bank online reporting portal and that the particulars given in
+this electronic form are true and that the invoice value declared in the form in case of firm contract is full value as contracted
+with the buyers; and in case of consignment sale, is a fair value of the goods which are being shipped on consignment sale.
+
+I/We do hereby undertake to repatriate full proceeds of the export within the period specified by Bangladesh Bank in terms
+of FER Act.
+
+Date_________________
+Authorized Signature and
+Stamp of Exporter
+Certificate of Authorized Dealer
+Certified that the above exporter(s) is/are known to us, that he/they is/are bonafide business person(s) in Bangladesh, and
+that he/they has/have made arrangements with us for the realization of the export proceeds of the goods shipped from
+Bangladesh as per their electronic declaration within the stipulated period and that we are satisfied with the said
+arrangements. We have also satisfied ourselves with the bonafides of the importers/consignees abroad and their credentials
+etc.
+
+*We undertake that for export shipments on consignment sale, we shall obtain from the exporter(s) and furnish to the
+Bangladesh Bank a fully documented account sale certified by the consignees/Chamber of Commerce of the country of
+import.
+
+*We further undertake that in the event of non-realization or short realization of export proceeds against shipment within the
+stipulated period, we shall obtain from the exporter(s) and furnish to the Bangladesh Bank full explanation as to the
+circumstances resulting in non-realization/short realization.
+
+*(Strike out the portion not applicable and authenticate with initials).
+
+Date_________________
+Stamp and Signature of
+Authorized Dealer
+
+--- Page 47 ---
+Paragraph 11, Part-A
+
+Appendix-2
+EXPORT REGISTER
+SI
+Number of
+Name and address
+Commodity
+Amount declared on
+Date of
+Initials of
+Date of
+Bill No.
+No.
+EXP Form
+of the exporter
+EXP Form
+certification
+the certifying
+shipment
+officials
+Date of negotiation or
+sending abroad for collection
+of export proceeds
+Date of reporting of
+shipping information to
+BB online
+
+Date of
+realization
+Amount realized in
+foreign currency
+Taka amount paid
+to the exporter and
+rate of exchange applied
+
+Date of reporting of
+realization to BB online
+10
+11
+12
+13
+14
+15
+
+--- Page 48 ---
+Paragraph 14(4), Part-A
+Appendix-3
+
+CERTIFICATE OF AUTHORIZED DEALER TO BE PRODUCED
+BY THE EXPORTER TO CARRIER COMPANY
+
+
+CERTIFIED THAT shipment against EXP Form No.…................................................................
+dated......................................... by M/s. ...........................................................................................
+(Name and address of the exporter)
+to M/s...............................................................................................................................................
+(Name and address of the importer or designated party as per LC/valid contract)
+is being made against full payment received in advance by us and there is no objection for bill of
+lading, airway bill, railway receipt, and other documents of title to cargo being drawn to the order
+of...............................
+
+
+
+
+Signature of the Authorized Official:
+Full Name:
+Designation:
+Phone No.
+
+
+Seal: Date:
+
+--- Page 49 ---
+Paragraph 19(1), Part-A
+Appendix-4
+
+--- Page 50 ---
+Paragraph 19(4), Part-A
+Appendix-5
+
+APPLICATION FOR APPROVING REMITTANCE OF DISCOUNT
+
+ON ACCOUNT OF READYMADE GARMENTS AND LEATHER GOODS
+Part -1
+
+(i) Name and address of the exporter: ........................................................................................................
+
+(ii) Particulars of discount allowed to the same exporter in last 3 years : ..................................................
+
+Export LC/
+Export
+Amount/
+Amount of
+Discount
+Sl. No.
+contract No
+Bill Value
+Value of
+Discount
+Allowing
+Rate of
+& Value
+Repatriation
+Allowed
+Authority
+Discount
+and Date
+
+3. Export performance of the same exporter in last 3 years:
+
+Sl. No.
+Export LC/
+Export Bill
+EXP No
+Invoice No
+Realised
+Amount of
+Contract No
+No. & Date
+& Date
+& Value
+Value
+Discount
+& Value
+
+Part -2: Required information to be submitted with supporting documents/necessary papers:
+
+Reason(s) for claiming discount by foreign buyer(s) and particulars of correspondences with the
+buyer(s);
+(ii)
+Number, date, and value of Back to Back LC(s);
+(iii)
+Date of receiving of imported goods, bill no, bill date, and bill value;
+(iv)
+Amount of import liability and date of payment;
+No. of master export LC & date, value and date of shipment, etc.
+(vi)
+Quantity of exported Readymade Garments and invoice value;
+(vii)
+New sales price if goods are proposed to be sold to a new buyer;
+(viii)
+Amount and rate of discount claimed on consignment/bill basis
+(ix)
+Name, address, and particulars of license/registration of the Buying House and Freight Forwarder.
+
+--- Page 51 ---
+Paragraph 21, Part-A
+Appendix-6
+
+--- Page 52 ---
+Paragraph 27(1), Part-A
+
+Appendix-7
+
+--- Page 53 ---
+Paragraph 27(1), Part-A
+
+Appendix-8
+
+--- Page 54 ---
+Paragraph 43, Part-D
+Appendix-9
+
+--- Page 55 ---
+Paragraph 50(3), Part-E
+Appendix-10
+
+FORM-C
+DECLARATION FOR REMITTANCE RECEIVED FROM FOREIGN
+COUNTRY OF AMOUNT EXCEEDING USD 20,000 OR EQUIVALENT
+
+I/We do hereby declare that I/we have received remittance of
+
+
+(Amount and Currency in figures and in words)
+remitted or
+to be remitted by
+on account of
+(name and address of remitting bank)
+
+for the purpose of
+name and address of remitter)
+(purpose of remittance)
+(Name of Applicant)
+Nationality
+Date .....................
+Address
+Signature and Stamp of the applicant
+
+From-C : Inward Remittance exceeding USD 20,000 (Twenty thousand) or equivalent.
+
+Month
+Country of Ordering
+Purpose
+Amount in
+Customers
+(State Currency)
+
+Coded by
+
+Checked by
+
+
+Purpose of remittance
+
+We hereby certify that we are satisfied as to the identity of the applicant and that we have seen
+documentary evidence which satisfies us as to the bonafides of the declaration made on this form.
+
+
+
+Date ...........................
+
+Signature and Stamp of the
+Authorised Dealer
+
+
+
+
+
+Contd, P/2
+
+--- Page 56 ---
+Page-2
+
+(Space for use by the Bangladesh Bank)
+BANGLADESH BANK
+Foreign Exchange Policy Department
+Diate oes Assistant Director
+
+Note: Full details must be given for all remittances which are of capital nature. In the case of amounts
+for mvestment in Bangladesh in shares or business, the reasons why the investment is required must be
+clearly indicated. In the case of the remittance of the sale proceeds of securities the name of the true
+
+ADCode| Ref Year AD Code) Ref ‘Year
+
+--- Page 57 ---
+Paragraph 50(3), Part-E
+Appendix-11
+
+
+FORM-C(ICT)
+
+DECLARATION FOR INWARD REMITTANCE ON ACCOUNT OF ICT
+RELATED SERVICES OF AMOUNT EXCEEDING USD 20,000 OR EQUIVALENT
+
+I/We do hereby declare that I/we have received remittance of ………………… (amount) which is a fair
+value against ICT related services described below in respect of which this declaration is made out and
+that the particulars given below are true:
+
+a) Remitter's name and address:
+b) Remitting bank and address:
+c) Reference No (contract/invoice/electronic communication etc.)
+d) Purpose (please tick):
+
+ Information Technology Enabled Services (IT Enabled Services) and Business Process
+ Outsourcing (BPO) services-code 2410
+ Computer and Information Technology consultancy and management services-code 2411
+ Export of computer software including turn-key basis (customized)-code 2412
+ Export of computer software including turn-key basis (non-customized) - code 2413
+ Installation services concerning hardware and software maintenance and repairs of computers and
+peripheral equipment services - code 2414
+ ………………………… (please specify
+
+Note: Please see the "Code lists for Reporting of External Sector transactions by the Authorised dealers"
+for explanatory notes of above purposes
+
+Signature with name of applicant: …………………………………………………………………………..
+Address:……………………………………………………………………………………………………...
+Date:………………………………………………………………………………………………………….
+
+(for AD's use only)
+Month
+Country of ordering
+customer
+Purpose
+
+Amount in
+(state currency)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inward ID
+AD Code
+Ref.
+Year
+
+
+Coded by: …………………………….
+
+Checked by: ………………………….
+
+Purpose of remittance: ……………….
+
+
+Signature and stamp of Authorized Dealer:
+Date:
+Outward Reference
+AD Code
+Ref.
+Year
+
+--- Page 58 ---
+Paragraph 59(5), Part-F
+Appendix-12
+
+--- Page 59 ---
+Paragraph 65(3), Part-H
+Appendix-13
+
+--- Page 60 ---
+Page-2
+
+(a) That live recognise that im the event of any misrepresentation or suppression of any matenial fact,
+foreign country/countnes for
+*(7) my/our living and travelling expenses for business purposes.
+*(1) nry/our enroute expenses for travel abroad.
+(c) We amare aware that exchange issued to me/us under this form for travel purposes may only
+(d) That if the travel has not been undertaken for the purpose mentioned above, or if any unspent
+utilised for the purpose for which it was granted, will be sold by me/us to an Authorised Dealer in
+*(e) 1 We declare that the payment mentioned agaist 'b’ above is due to be made by me/us for which
+evidence is enclosed and assume full responsibility for complying with the
+
+documentary
+provisions of the Foreign Exchange Regulation Act, 1947 and mules, orders and directives issued
+thereunder.
+
+Signature of the applicant
+
+Certificate of approval of the Bangladesh Bank (if required).
+(Valid for 30 (thirty) days from the date of approval]
+
+Date of approval. Seal & Signature of the Bangladesh Bank Official
+(Certificate by Authorised Dealer)
+*(a) We have issued Notes & Coms লিলি oh] Cee | | Caen
+Total... .. আও per Bangladesh Bank approval dated_.... - and
+
+endorsed the amount released in the traveller's passport after examining the ticket covering the passage.
+
+--- Page 61 ---
+Page-3
+
+Cage to be completed by Authorised Dealer indicating Code No. as per Code list circulated by the
+Bangladesh Bank.
+
+Signature and Stamp of the
+Authorised Dealer
+
+[। we hereby certify having recerved the exchange issued to me/us as above.
+
+Signature(s) of the Applicant(s}
+
+* Strike out items not applicable
+
+--- Page 62 ---
+Paragraph 77(4), Part-J
+Appendix-14
+
+BANGLADESH BANK
+
+FOREIGN EXCHANGE POLICY DEPARTMENT
+
+FORM OF UNDERTAKING
+
+
+(To be furnished by the importer for making advance remittances for permissible imports of goods
+and services).
+
+In
+consideration
+of
+Bangladesh
+Bank
+permitting
+me/us
+an
+advance
+
+remittance
+of................................to..........................................................
+I/we hereby undertake that the
+amount so remitted by me/us will be used solely for the purpose of payment for the goods/services
+described below to be imported into Bangladesh from ....................................in accordance with the
+regulations in force regarding such imports. I/We declare that the goods/services will be imported by
+me/us on or about............................. and I/we undertake to produce to the Bangladesh Bank
+documentary evidence in respect of goods/services so imported including the authenticated copy of
+the Customs Bill of Entry for goods and supplier's invoice in original. I/We further declare that the
+amount paid by me/us in advance will be deducted from the invoice value of the goods
+(CFR)/services imported and that the deduction will be shown on the invoice.
+
+I/We do undertake to be held fully responsible under FER Act, 1947 if I/We fail to produce to the
+Bangladesh Bank documentary evidence in respect of service or the Exchange Control Copy of the
+Customs Bill of Entry in respect of goods in original within the stipulated time or bring back the
+remitted foreign currency into Bangladesh as the case may be.
+
+Name and address
+Invoice Value
+Description
+Country of
+Particulars of
+of the supplier
+origin
+L.C. Authoriza-
+tion Form
+Goods Services
+Goods Services
+Goods Services
+Goods Services
+
+Signature and Stamp of the
+Importer
+
+Name of the Importer
+
+
+Address
+
+
+Registration Number with CCI & E
+
+
+
+Date
+Signature and Stamp of the

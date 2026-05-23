@@ -1,0 +1,226 @@
+--- Page 1 ---
+www.bangladeshbank.org.bd
+www.bb.org.bd
+
+পেমেন্ট সিস্টেমৃস ডিপার্টমেন্ট
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা
+১১ মার্চ ২০১৯
+পিএসডি সার্কুলার লেটার নং ৪ ০১ /২০১৯ তারি
+২৭ ফাল্গুন ১৪২৫
+
+ব্যবস্থাপনা পরিচালক/ প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক
+
+Guidelines for National Payment Switch Bangladesh (7১১73) Logo প্রসঙ্গে |
+
+ন্যাশনাল পেমেন্ট স্যুইচ বাংলাদেশ (NPSB) এর আওতাধীন ব্যাংকসমূহে তথ্য-প্রযুক্তি-নির্ভর আন্তঃব্যাংক সেবা ত্রমাগত বৃদ্ধি
+পাওয়ায় ট7১373-কে পৃথকভাবে চিহিত ও পরিচিত করার মাধ্যমে গ্রাহক সেবা বৃদ্ধির লক্ষ্যে বাংলাদেশ ব্যাংক NPSB Logo প্রণয়ন
+করেছে। প্রণয়নকৃত 1.0£০-টি NPSB-at আওতাধীন ব্যাংকসমূহের ইলেক্ট্রনিক রিটেইল পেমেন্ট-সংশ্রিষ্ট কার্যত্রমে ব্যবহৃত Payment
+Channel (যেমন, ATM বুথ, POS মেশিন, ই-কমার্স Acquiring সাইট, অনলাইন ইলেকট্রনিক পেমেন্ট গেটওয়ে প্রভৃতি) এবং
+Payment Instrument তথা কার্ডসমূহে (ডেবিট কার্ড, প্রি-পেইড কার্ড) ব্যবহার করা যাবে। এ প্রেক্ষিতে বাংলাদেশ ব্যাংক অর্ডার ১৯৭২
+(সংশোধিত ২০০৩)-এর 7 A(e) ধারায় প্রদত্ত ক্ষমতাবলে Guidelines for National Payment Switch Bangladesh (NPSB)
+Logo জারি করা হলো (এতদৃসংযুক্ত)। এতদ্যতীত, উল্লিখিত লোগোটির wes কপি পেমেন্ট সিস্টেমৃস ডিপার্টমেন্ট, বাংলাদেশ ব্যাংক হতে
+সংগ্রহ করতঃ গাইডলাইন্সটি যথাযথভাবে অনুসরণ/পরিপালন করার জন্য আপনাদেরকে নির্দেশনা প্রদান করা হলো।
+
+এছাড়া NPSB Logo ব্যবহারের বিষয়ে fixie বিষয়সমূহ বাস্তবায়নের জন্য আপনাদেরকে নির্দেশ দেয়া যাচ্ছেঃ
+
+১. ৩১ শে জুলাই, ২০১৯ তারিখের মধ্যে সকল ব্যাংকের ATM Booth, POS Terminal, Digital 10190)18)-তে
+
+NPSB Logo প্রদর্শনের ব্যবস্থা করতে হবে;
+
+২. ০১ আগষ্ট, ২০১৯ তারিখ হতে নতুন ইস্যুকৃত সকল Proprietory Card এ NPSB Logo ব্যবহার করতে হবে।
+পর্যায়ক্রমে পুরাতন সকল Proprietory Card 4 NPSB Logo ব্যবহারের জন্য প্রয়োজনীয় ব্যবস্থা গ্রহণ করতে হবে;
+
+©. Branded Card এর ক্ষেত্রে ব্যাংক কর্তৃক International Payment Scheme (IPS) এর সাথে চুক্তি নবায়নের সময়
+NPSB Logo ব্যবহারের বিষয়টি অন্তর্ভুক্ত করার জন্য প্রয়োজনীয় ব্যবস্থা গ্রহণ করতে হবে; এবং
+
+8. NPSB 1,9৪০-টি কার্ডের সম্মুখভাগের নিচে ডানদিকে প্রদর্শনের ব্যবস্থা গ্রহণ করতে হবে |
+
+এ নির্দেশ অবিলম্ষে কার্যকর হবে।
+
+আপনাদের বিশ্বস্ত
+
+( বদিউজ্জামান দিদার)
+
+উপমহাব্যবস্থাপক
+ফোন £ ৯৫৩০৬১১
+
+--- Page 2 ---
+Guidelines for National
+Payment Switch Bangladesh
+(NPSB) Logo
+
+
+
+Version – 1.0
+
+--- Page 3 ---
+Bangladesh National Payments Switch Logo Guidelines
+
+
+
+Version 1.0
+
+
+
+
+Page 1 of 4
+Introduction:
+Bangladesh Bank has introduced National Payment Switch Bangladesh (NPSB) in
+order to facilitate card based interbank electronic payments originating from
+different electronic delivery channels like Automated Teller Machines (ATM),
+Point of Sales (POS), Internet Banking, Mobile Devices based Banking etc. The
+main objective of NPSB is to create a common electronic platform to facilitate the
+expansion of the electronic retail payment networks substantially and promote e-
+commerce throughout the country.
+
+NPSB Logo:
+The NPSB logo is a registered trademark of Bangladesh Bank. This logo is more
+than just a corporate identity; it is a service mark for interbank electronic retail
+payment systems. It represents the brand which is commonly exposed to the
+service and excellence that the corporate entity wishes to be associated with.
+Therefore, the NPSB identity has the singular objective of representing a unique
+competency that is proprietary to Bangladesh Bank.
+
+Description of the Logo:
+The logo is based on the short form of National Payment Switch Bangladesh
+(NPSB), which is a calligraphic design. In the beginning it has three strokes
+(Green, Red, Golden), where green and red representing the Bangladesh which is
+taken from the national flag and the Golden representing the wealth.
+
+Colour Code:
+
+Green
+stroke : C 100, M 100, Y 0, K 0
+Red
+stroke : C 0, M 98, Y 100, K 0
+Golden
+stroke : C 0, M 20, Y 60, K 20
+
+Letter N
+: C 40, M 40, Y 0, K 60
+Letter P : C 60, M 60, Y 0, K 0
+Letter S
+: C 100, M 100, Y 0, K 0
+Letter B
+: C 0, M 0, Y 0, K 60
+
+The colour code of the logo should be followed by Given CMYK instruction.
+
+--- Page 4 ---
+Bangladesh National Payments Switch Logo Guidelines
+
+
+
+Version 1.0
+
+
+
+
+Page 2 of 4
+Logo Size:
+Height : Width :: 1.0 : 1.972
+Orientation of outer line is rounded rectangular and the ratio is 1.0:1.972. Ratio of
+logo cannot be changed and stretched from any side. The logo can be scaled up or
+down to suit each application but its proportions must always remain constant.
+Area of Non-Interference:
+The area indicates the space that must be free of imagery, text, graphic elements
+etc. To maximize its impact and legibility, the logo requires the free space around
+it at all times. The area is equivalent to the height of the letters ‘NPSB’ as the
+diagram below illustrates. The minimum size of the area of noninterference should
+not be less than 4 mm.
+
+
+Logo in Background:
+Whenever possible, use the logo in its full corporate colours on a white
+background adhering to the ‘area of noninterference’ rule. However, if it is
+necessary for the logo to appear on a colour background, for aesthetic reasons, the
+logo may be used in the manner shown below without requiring an ‘area of
+noninterference’.
+
+--- Page 5 ---
+Bangladesh National Payments Switch Logo Guidelines
+
+
+
+Version 1.0
+
+
+
+
+Page 3 of 4
+
+
+
+
+
+Usage of the NPSB logo:
+The NPSB logo is designated for all domestic card payment transactions in
+Bangladesh. The logo may not be used without prior completion of the NPSB
+membership process and the member being accepted. This provision applies,
+without limitation, to:
+Use the NPSB logo in advertising and promotional pieces
+Show the logo on cards (subject to the card design being approved for NPSB
+use by BB) in the front side.
+Show the logo on ATMs, Kiosks and Digital display.
+Show the logo on POS terminals
+Show the logo on QR display.
+When displaying the logo mark next to other company logos, do not make it
+smaller than the other logos.
+
+Terms & Conditions:
+Only affiliate merchants authorized by acquiring bank may use the logo mark.
+Such merchants are strictly forbidden from giving, loaning, selling or otherwise
+disposing of the logo mark to a third party or from duplicating the logo mark.
+Unauthorized persons may not receive, rent, use or duplicate the logo or copy
+thereof.
+Any use of the NPSB logo must not degrade, devalue or denigrate the NPSB
+branding. It must comply with the applicable operating rules, applicable policies,
+usage and artwork standards as may be published by BB from time to time. The
+right to use the NPSB logo and branding cannot be sublicensed or assigned
+
+--- Page 6 ---
+Bangladesh National Payments Switch Logo Guidelines
+
+
+
+Version 1.0
+
+
+
+
+Page 4 of 4
+whether by sale, consolidation merger, amalgamation, operation of law or
+otherwise, except with the written permission of BB. However, do ensure the
+proportion of the logo such as height/width ratio design, colour, text etc is correct
+when applied on such an item.
+
+Misuse of the NPSB logo:
+Each member must inform BB promptly, whenever any misuse of the NPSB logo
+or branding is discovered, or about any attempt to copy or infringe the NPSB logo
+and branding or any portion thereof. Members shall abide by the BB instructions
+as to correction of anything or to stop any act if, in the opinion of the BB, it
+constitutes misuse of the logo.
+
+Display of the NPSB logo:
+Each member must display the NPSB logo in accordance with the rules, all
+applicable policies, and all reproduction, usage, and artwork standards. A Member
+must not advertise or display the NPSB logo in a false, deceptive or misleading
+manner. All advertisement and signage used by the member with respect to the
+NPSB logo must comply with all applicable laws, regulations and rules.
+
+Display on cards:
+The NPSB logo will be placed on all debit cards issued in Bangladesh in
+combination with other regional and/or international service marks. All cards
+issued in Bangladesh and bearing the NPSB logo will be treated as domestic cards
+with local clearing and settlement of transactions at the level of NPSB.
+
+Display at Acquiring Channels:
+The NPSB logo must appear on the Acquiring Channel (i.e. ATM, Kiosks, POS
+terminal, QR display etc.) and must be applied in such a way that cardholders can
+immediately recognize that the device provides NPSB acquiring services. The
+acquiring member is also eligible to put the NPSB logo on the POS terminal,
+provided that it is clear to the cardholder that the POS terminal is equally treating
+all cards with NPSB logo, as domestic transactions.

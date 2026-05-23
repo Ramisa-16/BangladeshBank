@@ -1,0 +1,2853 @@
+--- Page 1 ---
+www.bb.org.bd
+Payment Systems Department
+Bangladesh Bank
+Head Office
+Dhaka-1000
+
+
+PSD Circular No-07 Date:
+
+
+Managing Director/Chief Executive Officer
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+
+Bangladesh Automated Cheque Processing System (BACPS) Operating Rules and Procedures.
+
+Please refer to PSD Circular No. 01, dated January 17, 2010 on the captioned subject.
+
+Bangladesh Automated Cheque Processing System (BACPS) Operating Rules and Procedures
+issued vide PSD Circular No. 01/2010 has been reviewed further with a view to facilitating the banks in
+clearing and settlement operations under the upgraded BACPS system.
+
+All scheduled banks that participate in the Bangladesh Automated Clearing House (BACH) are
+hereby advised to follow the attached BACPS Operating Rules and Procedures V 2.0 for their clearing
+and settlement operation with immediate effect.
+
+Please acknowledge receipt.
+
+
+
+Enclosure:
+Bangladesh Automated Cheque
+Processing System (BACPS)
+Operating Rules & Procedures V2.0
+
+Yours sincerely,
+
+Md. Mezbaul Haque
+General Manager
+Phone: 9530174
+
+
+
+
+
+20 Agrahayan 1426
+05 December 2019
+
+--- Page 2 ---
+Bangladesh Automated Cheque Processing System (BACPS) V 2.0
+
+Operating Rules & Procedures
+
+--- Page 3 ---
+2 | P a g e
+
+
+
+
+
+
+PART I: OPERATING RULES
+
+--- Page 4 ---
+3 | P a g e
+
+TABLE OF CONTENTS
+
+PAGE NO
+Table of contents
+3-6
+List of acronyms
+
+PART I: OPERATING RULES
+
+
+CHAPTER 1: BACPS Overview
+8-9
+1.1
+INTRODUCTION
+1.2
+SCOPE
+1.3
+OBJECTIVES
+1.4
+MEMBERSHIP
+
+A. ACCESS CRITERIA
+B. PROCEDURES FOR MEMBERSHIP
+C. SUSPENSION
+D. TERMINATION
+Figure
+Clearing Process of Paper Based Instruments through BACPS
+10
+1.5
+DEFINITIONS
+11-14
+
+CHAPTER 2
+GENERAL RULES
+15-21
+2.1
+GENERAL PRINCIPLE
+15
+2.2
+APPROVED PAYMENT ITEMS
+15
+2.3
+PRESENTING BANK
+15
+
+2.3.1 SENDING APPROVED PAYMENT ITEMS
+15
+
+2.3.2 SECURITY PROCEDURES
+15-16
+
+2.3.3 PRESENTING BANK'S RESPONSIBILITY
+16-17
+2.4
+PROCESSING OF ITEMS
+17
+2.5
+DELIVERY & RECEIPT OF ITEMS UNDER SPECIAL CIRCUMSTANCES
+17
+2.6
+SECURITY OF ELECTRONIC DATA FILE
+17
+2.7
+CORRESPONDENT BANK
+17
+2.8
+TIME SCHEDULE, SETTLEMENT DATES AND EXTENSION OF TIME
+LIMITS
+17-18
+2.9
+DESIGNATION OF SETTLEMENT ACCOUNT
+18
+2.10
+SETTLEMENT
+18
+2.11
+POSTING OF TRANSACTION/CREDITING CUSTOMERS' ACCOUNT
+18
+2.12
+PAYING BANK
+18-19
+
+2.12.1 PAYING BANK'S RESPONSIBILITY
+19
+
+2.12.2 RETURN OF ITEMS AND FUNDS
+19
+2.13
+RECORDS
+19
+2.14
+FEES
+20
+2.15
+PENALTY
+20
+2.16
+BANGLADESH BANK LIABILITY
+20
+2.17
+MEASURE OF DAMAGES
+21
+2.18
+RIGHT TO AMEND
+21
+
+CHAPTER-3
+GENERAL REQUIREMENTS
+22
+3.1
+GENERAL RULES
+22
+3.2
+CURRENCIES TO BE CLEARED
+22
+3.3
+ELIGIBLE ITEMS AND INSTRUMENTS
+22
+
+
+CHAPTER-4
+REQUIREMENTS FOR IMAGE CAPTURE
+23-24
+4.1
+GENERAL STANDARD
+23
+
+--- Page 5 ---
+4 | P a g e
+
+4.2
+IMAGE CAPTURE
+23
+4.3
+IMAGE USABILITY STANDARD
+23
+4.4
+RETURN PROCESS
+23
+4.5
+POOR SOURCE DOCUMENTS
+23
+4.6
+PIGGY BACK ITEMS
+23-24
+4.7
+LIABILITY OF PRESENTING BANK
+24
+
+4.7.1 USABILITY
+24
+
+4.7.2 PIGGY-BACK
+24
+
+CHAPTER-5
+CREATION AND EXCHANGE OF BACPS CHEQUE ENVELOPE
+25
+5.1
+BACPS CHEQUE ENVELOPE CREATION
+25
+5.2
+BACPS CHEQUE ENVELOPE TRANSMISSION
+25
+5.3
+CLASSIFICATION OF BACPS CHEQUE ENVELOPE
+25
+5.4
+ACCEPTING AS BACPS-ELIGIBLE ITEM
+25
+5.5
+RESPONSIBILITIES OF RECEIVING POINT
+25
+
+CHAPTER-6
+PRESENTMENT, RETURN AND EXCEPTION PROCESSING
+26-28
+6.1
+INTRODUCTION
+26
+6.2
+SCOPE
+26
+6.3
+PRESENTMENT
+26
+6.4
+RETURN BY PAYING BANK
+26
+6.5
+TIME LIMITATION
+26
+6.6
+ITEMS WITH FORGED OR UNAUTHORIZED SIGNATURE AND FORGED
+ENDORSEMENT
+26
+6.7
+REPRESENTED ITEMS AND RIGHTS OF PAYING BANK
+26
+6.8
+METHOD AND ROUTING OF RETURN
+26
+6.9
+IMAGES IN A BACPS RETURN CHEQUE ENVELOPE
+26
+6.10
+BACPS ELIGIBLE ITEMS WITH INCOMPLETE/MISSING
+ENDORSEMENTS
+27
+6.11
+FORGED ENDORSEMENTS OR MATERIAL ALTERATIONS
+27
+6.12
+MISDIRECTED RETURNED BACPS ITEMS
+27
+6.13
+PIGGY BACK ITEMS
+27
+6.14
+WORDS AND FIGURES DIFFER
+27
+6.15
+STALE DATED ITEMS
+27
+6.16
+RE PRESENTMENT
+27
+6.17
+GENUINENESS OF CHEQUE
+27
+6.18
+BUSINESS CONTINUITY PLAN
+28
+
+CHAPTER-7
+DISPUTE RESOLUTION MECHANISM
+29-32
+7.1
+Dispute Resolution
+29
+7.2
+COMPOSITION OF PANEL
+29
+7.3
+LODGEMENT OF ARBITRATION
+30
+7.4
+PRESENTMENT OF ARBITRATION
+30
+7.5
+CONVENING THE PANEL AND INVITING THE PARTIES
+30
+7.6
+ADDITIONAL MEETING OF THE PANEL
+30
+7.7
+THE DISPUTE FILE
+30
+7.8
+RECORD KEEPING
+30-31
+7.9
+DECISION/AWARD
+31
+7.10
+ACCEPTANCE OF THE PANEL'S DECISION
+31
+7.11
+ADDITIONAL CLARIFICATION BY A SPECIAL PANEL
+31
+7.12
+THE PROCEDURES FOR DISCUSSION IN THE PANEL AND FOR
+INITIATING CLARIFICATION
+31
+7.13
+COSTS
+31
+7.14
+PROPOSALS FOR CHANGES IN RULES
+31
+7.15
+PUBLICATION OF THE HIGHLIGHTS OF THE CLARIFICATION
+31
+
+--- Page 6 ---
+5 | P a g e
+
+7.16
+INDEMNIFICATION OF ARBITRATION PANEL
+31
+Figure
+Dispute Resolution Cycle
+32
+
+
+
+
+
+PART II: OPERATING PROCEDURES
+
+PAGE NO.
+BACPS Operating Procedure
+33
+CHAPTER 1:
+OPERATIONAL OVERVIEW
+34
+1.1
+INTRODUCTION
+34
+1.2
+JURISDICTION
+34
+1.3
+CLEARING SESSIONS
+34
+
+CHAPTER 2
+OVERVIEW OF CLEARING PROCEDURE UNDER IMAGING AND
+TRUNCATION ENVIRONMENT
+35-36
+2.1
+TRUNCATION POINT
+35
+2.2
+SETTLEMENT
+35
+2.3
+DIGITAL SIGNATURES
+35
+2.4
+USE OF SECURE NETWORK
+35
+2.5
+STORAGE AND ARCHIVING SYSTEM
+35
+2.6
+SCANNING STANDARD
+36
+
+CHAPTER 3
+PRESENTMENT FOR CLEARING PROCEDURE AT THE PRESENTING
+BANK
+37-40
+3.1
+PRESENTING BANKS DUE DILIGENCE REQUIREMENTS
+37
+3.2
+SORTING OF INSTRUMENT
+37
+3.3
+STAMPING
+37
+3.4
+CAPTURE OF IMAGES AND DATA
+37
+3.5
+REJECT REPAIR AND BALANCING
+38
+3.6
+DIN (DOCUMENT IDENTIFICATION NUMBER) ENDORSEMENT
+38
+3.7
+RE PRESENTED CHEQUES
+38
+3.8
+VALIDATION
+38
+3.9
+CLEARING INFORMATION SYNCHRONIZATION
+38
+3.10
+IMAGE QUALITY CHECKING
+39
+3.11
+HANDLING IQA FAILURE
+39
+3.12
+PRESENTING BANKS SUBMITTING ELECTRONIC DATA AND
+IMAGES
+39
+3.13
+FREQUENCY OF SUBMISSION
+39
+3.14
+ALTERNATIVE DELIVERY MEDIA
+40
+3.15
+ELECTRONIC FILES ACCEPTED BY THE BACPS
+40
+3.16
+ELECTRONIC FILES NOT ACCEPTED BY THE BACPS
+40
+3.17
+INTERNAL CONTROL
+40
+
+CHAPTER 4
+PROCESSING AT PARTICIPATING BANK MODULE: OUTWARD
+CLEARING
+41-42
+4.1
+PARTICIPATING BANK MODULE (PBM)
+41
+4.2
+DUPLICATION CHECKING
+41
+4.3
+RECEIVING OUTWARD PRESENTMENT
+41
+4.4
+IMAGE QUALITY ANALYSIS AND FAILURE HANDLING
+41
+4.5
+ITEM PROCESSING
+41
+4.6
+SESSION ATTACHMENT
+41
+4.7
+USE OF PKI
+42
+4.8
+REGIONAL HOLIDAY & BLOCKAGE
+42
+4.9
+RECONCILIATION OF OUTWARD PRESENTATION
+42
+
+--- Page 7 ---
+6 | P a g e
+
+
+CHAPTER 5
+PROCESSING AT PARTICIPATING BANK MODULE: INWARD
+CLEARING
+43
+5.1
+RECEIPT OF INWARD DATA/IMAGES
+43
+5.2
+VALIDATION
+43
+5.3
+CONTROL MECHANISM
+43
+
+CHAPTER 6
+PROCESSING AT BRANCHES/BANK’S IN CLEARING SYSTEM
+44-45
+6.1
+DUPLICATION CHECKING
+44
+6.2
+DIGITAL CERTIFICATE VALIDATION
+44
+6.3
+PAYMENT PROCESSING
+44
+6.4
+RETURNED CHEQUES
+44
+6.5
+EXTENSION REQUEST FOR RETURNS
+45
+6.6
+REQUESTS FOR PAPER
+45
+6.7
+INTERNAL CONTROL
+45
+6.8
+RECONCILIATION OF CLEARING DIFFERENCES
+45
+
+CHAPTER 7
+TYPE OF FILES
+46
+7.1
+SPECIFICATIONS FOR ELECTRONIC EXCHANGE OF CHEQUES
+46
+7.2
+ELECTRONIC CHEQUE ENVELOPE
+46
+7.3
+OUTWARD ELECTRONIC CHEQUE ENVELOPE
+46
+7.4
+OUTWARD RETURN ELECTRONIC CHEQUE ENVELOPE
+46
+7.5
+INWARD ELECTRONIC CHEQUE ENVELOPE
+46
+7.6
+INWARD RETURN ELECTRONIC CHEQUE ENVELOPE
+46
+7.7
+ACKNOWLEDGEMENT ELECTRONIC CHEQUE ENVELOPE
+46
+7.8
+ONLINE INQUIRY
+46
+
+ANNEXURE 1
+BACPS PARTICIPANT AGREEMENT AND INDEMNITY (On Tk. 150
+Judicial Stamp)
+47
+ANNEXURE 2
+Return Reason Codes
+48
+
+--- Page 8 ---
+7 | P a g e
+
+: List of Acronyms:
+
+
+
+
+ACE
+Archive Electronic Cheque Envelope
+AICS
+Active Image Clearing and Settlement System
+BACH
+Bangladesh Automated Clearing House
+BACPS :
+Bangladesh Automated Cheque Processing System
+BCV
+Batch Control Voucher
+CD
+Compact Disc
+CE
+Cheque Envelope
+CH
+Clearing House
+CHM
+Clearing House Module
+DIN
+Document Identification Number
+DVD
+Digital Versatile/Video Disc
+ECE
+Electronic Cheque Envelope
+ECP
+Electronic Cheque Presentment
+FC
+Foreign Currency
+ICE
+Inward Electronic Cheque Envelope
+IQA
+Image Quality Analysis
+IRE
+Inward Return Electronic Cheque Envelope
+KYC
+Know Your Customer
+MICR
+Magnetic Ink Character Recognition
+OACK
+Outward Acknowledgement
+OCE
+Outward Cheque Envelope
+ORE
+Outward Return Electronic Cheque Envelope
+PBM
+Participating Bank Module
+PKI
+Public Key Infrastructure
+PSD
+Payment Systems Department
+
+--- Page 9 ---
+8 | P a g e
+
+
+CHAPTER I: BACPS OVERVIEW
+
+
+1.1 INTRODUCTION
+
+Bangladesh Automated Clearing House (BACH) is the first automated national payment infrastructure
+established in 2010. BACH has proved its significance in country's payment and settlement system
+over last ten years by reducing time and risks of payment and settlement in the country.
+
+Improvisation of such national infrastructure with the advent of new technology and business
+requirement is an ongoing process. Hence, Bangladesh Automated Cheque Processing System has
+undergone significant improvements including the introduction of FC clearing in recent days. The new
+system aims to replace the existing Automated Cheque Clearing Systems.
+
+This foreign currency clearing and settlement will only cover the domestic foreign currency
+transactions within the jurisdiction of Bangladesh and will not cover overseas or cross-border cheque
+clearing and settlement service.
+
+These operating rules highlights the system architecture for a general user and the roles and
+responsibilities of the various stakeholders within the legal and regulatory framework to achieve a safe,
+secure and efficient inter-bank image exchange cheque clearing and settlement system.
+
+1.2 SCOPE
+
+This rule will apply to all paper-based payment instruments, both in local and foreign currency
+denomination within the territory of Bangladesh and those are eligible for BACPS as set out in
+section 3.3 of Chapter 3.
+
+1.3 OBJECTIVES
+
+1. To facilitate the clearing and settlement of paper-based payment instruments among Scheduled
+Banks operating in Bangladesh;
+2. To reduce time and cost of domestic clearing and settlement cycle and to protect the customer
+interest;
+3. Minimize paper handling and manual intervention at the cheque clearing process;
+4. Ensure timely, accurate and efficient transfer of funds among participants (i.e. Bank customers)
+using paper-based instruments and
+5. Maintain proper risk mitigation measures and dictate storage and retrieval of image and
+information of all transactions for future reference.
+
+1.4 MEMBERSHIP
+
+A. Access Criteria:
+
+Upon application, BACPS membership will be open for the scheduled banks licensed by the
+Bangladesh Bank which meets the following criteria:
+Must conform the technical requirement to connect with the Bangladesh Automated Clearing
+House;
+ii.
+Must maintain current account with the Government that is maintained in the Bangladesh
+Bank.
+
+B. Procedures for Membership:
+
+Agreement for membership shall be signed between concern bank and Bangladesh Bank as per
+Annex 1 of these rules.
+
+--- Page 10 ---
+9 | P a g e
+
+C. Suspension:
+
+A member shall be suspended from BACPS in case of any of the following events:
+
+a) In breach of a prudential requirement;
+b) If the member proved to be not acted in the highest principles and interest of the clearing and
+settlement procedures;
+c) An event occurs which affects, or may affect, the ability of the participant to participate in sending
+and receiving the payment instructions and
+d) The participant breaches its obligations under these Rules or the applicable procedures and fails
+to rectify the breach or to provide an acceptable justification;
+e) Any other reason for which the BB authority may deemed appropriate to suspend the bank from
+automated cheque clearing facility.
+
+The suspended participant may be reinstated after the reasons for suspension have been rectified.
+Bangladesh Bank as the Clearing House authority will, as soon as reasonably possible, notify all
+participants of re-commencement date of operation for the suspended participant.
+
+D. Termination:
+
+A participant‟s membership shall be terminated from BACPS upon:
+
+a) Withdrawal of membership;
+b) Becoming insolvent in terms of the provisions of the Bank Company Act, 1991 (amended in
+2013); and
+c) Termination by the Clearing House in accordance with these Rules.
+
+--- Page 11 ---
+10 | P a g e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig: Clearing process of paper based payment instruments through BACPS
+
+
+
+
+
+
+
+
+
+
+
+Drawer Pays by
+Cheque of 'X'
+Bank
+Receiver accepts
+payment by
+cheque
+Receiver deposited the
+cheque to their bank `Y'
+[Presenting Bank]
+Bank `Y' Scan the
+Cheque and Create
+'OCE'
+'OCE' received
+by BACPS
+Clearing house send the
+file as ICE to bank `X'
+Paying Bank
+Bank `X' scrutinize
+the cheque
+Bank 'X' honored
+the cheque
+Create ORE with
+proper return
+reason code
+`ORE' file sent to
+BACPS
+BACPS sent
+the file to bank
+`Y' as 'IRE'
+Accept
+Reject
+Bank 'X' debit
+drawer account
+
+--- Page 12 ---
+11 | P a g e
+
+
+1.5 Definitions
+
+In these Rules,
+
+1. “Account” means an account with reserve and/or clearing balances on the books of the
+Bangladesh Bank.
+
+2. “Approved Payment Item” means a payment item that meets the requirements of BACPS- Eligible
+Item.
+
+3. “Archive” means a repository used to store and index Images and associated information for
+necessary retention and accessibility.
+
+4. “BACH” means the central system and facility that supports the Exchange and settlement of
+payment instruments and instructions between Participating Banks.
+
+5. “BACPS” means the facility that clears and settles cheques and other approved paper-based
+payment instruments for participating Banks.
+
+6. “BACPS-Eligible Item” means an electronic copy of a paper-based Payment instrument that the
+Presenting Bank certifies is a copy of the original instrument acceptable for clearing under Image-
+Exchange System and is listed as one of the instruments in Chapter 3, section 8 of these Rules.
+
+8. “Participating Bank Module” means the software and associated hardware that manages the
+transmission and receipt of BACPS Cheque Envelopes, acknowledges receipt of BACPS Cheque
+Envelopes, and interfaces with particpating Banks‟ host systems.
+
+9. “BACPS Cheque Envelope” means an electronic file contains electronic information representing
+BACPS-Eligible Items that is exchanged between a Sending and a Receiving Point.
+
+10. `Bangladesh Bank' means central bank of Bangladesh established under the Bangladesh Bank
+order, 1972.
+
+11. “Bank”: means a Bank company established under The Bank Company Act, 1991.
+
+12. "Batch" means the transmission or processing of payment items/instruments collectively in a
+group.
+
+13. "Batch Control Voucher (BCV)" is a document that precedes a batch of physical instrument. BCV
+contains information such as number of instruments and total amount of that batch.
+
+14. “Business Day” means a Banking Day including all days except weekly holidays and all approved
+Bank Holidays.
+
+15. “Cheque” is a bill of exchange drawn on a specified banker and not expressed to be payable
+otherwise than on demand, as defined in Negotiable instrument Act 1881.
+16. “Cheque Image” means a digital representation of the front and back of a cheque.
+17. "Cheque in the electronic form" means a cheque which contains digital representation of the front
+and back of a paper cheque (cheque image), and is generated, written and signed in a secure
+
+--- Page 13 ---
+12 | P a g e
+
+system ensuring the minimum safety standards prescribed by Bangladesh Computer Council for
+the use of digital signature.
+18. “Cheque Truncation” means the process by which the physical movement of a cheque, for clearing
+and settlement purpose, among participating bank of BACPS is stopped and is replaced by the
+exchange of images and corresponding electronic information.
+
+19. “Clearing” means the exchange of payment instructions between payment system participants or
+between payment systems, and includes without limitation, the processes associated with
+clearing, sorting, editing, netting and prioritizing such instructions or orders in whatever form these
+take.
+
+20. "Clearing Cycle" is a pre-determined activity schedule, consisting of presentment cut off, return
+cut-off and the settlement timing.
+
+21. "Clearing House Module" is a suite of components installed at the Clearing House that validates
+the data while receipt of inward cheque envelope and delivery of outward cheque envelope.
+22. “Clearing System” means a set of procedures whereby participants present and exchange
+information relating to the transfer of funds or securities to other participants through a centralized
+system or at a single location and includes mechanisms for the calculation of participants‟
+positions on a bilateral or multilateral basis with a view to facilitating the settlement of their
+obligations.
+
+23. “Convenience Amount” means the amount that appears on a paper instrument that is normally
+written in numeric values.
+
+24. “Correspondent Bank” means a participating bank acting on behalf of another Participating Bank to
+send and received approved payment items to and from Bangladesh Bank.
+
+25. “Counterfeit Item” means an Item that appears to be original or genuine, but has fraudulently being
+built by tampering or forging any part or the item as a whole in order to misappropriate fund.
+
+26. "Cut-off" means a designated time beyond which certain BACPS functions cannot be performed.
+
+27. "Digital Signature" is a computer algorithm, generated and authenticated generally by a Public Key
+Infrastructure, used to validate the contents and the sender's identity of electronically transmitted
+documents that are exchanged among participating banks.
+
+28. "Electronic Cheque": is an electronic version of a paper cheque, generally cheque image, that
+resembles the physical cheque and are used for the purpose of clearing and settlement.
+
+29. “Electronic Cheque Presentment (ECP)” means the electronic transmission, by an institution
+authorized to draw a cheque, of an image and payment information of the cheque, to the payee
+institution on which it is drawn.
+30. "Endorsement" is a system and/or method to ensure that a payment instrument is came from a
+particular presenting bank.
+31. "Endorsement line" is a printed line on the back of a instrument which shall be the unique identifier
+for the instrument.
+
+32. “Exchange” means the delivery and receipt of Payment Items.
+
+--- Page 14 ---
+13 | P a g e
+
+
+33. “Forged or Unauthorized Signature” means (i) a signature on the face of an Item that is not the
+signature of the person (the drawer) that it purports to be, or (ii) a signature that is written on or
+applied to an Item without the drawer‟s authority.
+
+34. “Force Majeure” means any event beyond the control of a Participating Bank that could not be
+avoided by the exercise of standard care as is reasonable in the circumstances, including natural
+calamities (earthquakes, natural floods, storms), fire, explosion, war, insurrection, riot and civil
+disorder.
+
+35. “High Value Items” means payment items amounting taka 5.00 (Five) lacks and above or
+otherwise declared by BB under this clause for the purpose of presentment in high value session
+of BACPS.
+
+36. “Instrument” means either a negotiable instrument (i.e. Cheque, Payment Order, Demand Draft
+etc.) or other instrument (such as government cheque) that are eligible under BACPS
+environment for processing for payment.
+
+37. “Item” means an instruction for payment via an approved payment instrument that is processed by
+BACPS under these rules.
+
+38. “Legal Amount” means the amount of an instrument that is normally written in words.
+
+39. “Magnetic Ink Character Recognition (MICR) means the machine readability of numeric data
+printed with magnetically charged ink in the instrument.
+
+40. “Material Alteration” means an unauthorized change to one or more of the completed details of an
+instrument including those mentioned in the Negotiable Instruments Act,1881 which are
+alterations: (i) to the date, (ii) to the sum payable, (iii) of the time of payment, (iv) of the place of
+payment, or (v) of the addition of a place of payment without the acceptor‟s assent where an
+instrument has been accepted generally, as well as any alteration of the Paying Bank or of the
+payee name.
+41. "Misdirected Return" means the outward return file send to wrong destination by the Paying Bank
+due to diverse error.
+42. “Netting” means the determination of the net payment obligations or the determination of the net
+termination value of settlement obligations between two or more system participants within a
+system.
+43. “Net Settlement” means a settlement procedure in which final settlement of transfer instructions
+occurs on a net basis at one or more discrete, pre-specified time during the processing day.
+
+44. “Participating Bank” means a Bank who is a participant in the BACPS.
+
+45. “Paying Bank” means the Bank upon which an instrument is drawn on.
+
+46. "Payment Instructions" mean an electronic message including image of an instrument requesting
+the transfer of funds on a payer to the order of payee.
+
+47. "Person” means a legal person is any human or non-human entity (i.e. any human being, firm, or
+government agency) that is recognized as having privileges and obligations, such as having the
+ability to enter into contracts, to sue, and to be sued.
+48. “Positive Pay” means banks compare a personal or company's record of cheque issued with
+cheque presented for payment;
+
+--- Page 15 ---
+14 | P a g e
+
+49. “Presenting Bank” means the Bank that presents a Cheque or other instruments in BACPS for
+collection.
+
+50. "Proprietary CA (certification authority) is an entity that issues digital certificates, however without
+keeping connected with a root CA. A digital certificate certifies the ownership of a public key by
+the named subject of the certificate. This allows other participants in a system to rely upon
+signatures or on assertions made about the private key that corresponds to the certified public
+key.
+
+51. “Public Key Infrastructure” is the framework of encryption and cyber security that protects
+communications among the parties of a system. PKI ensures data authenticity, integrity and non-
+repudiation. It works by using two different cryptographic keys, a public key and a private key and
+are based on digital certificates.
+52. BACPS Return Item” means the corresponding payment information of a BACPS-Eligible Item that
+is returned to the Presenting Bank in accordance with and for any reason permitted by these
+Rules.
+53. "Return Reason Code" is a code to indicate the reason for returning a payment as Unpaid or
+Unapplied.
+
+54. “Sending Point/Receiving Point” means a bank will have one single point of connectivity with
+BACPS which will be termed as sending/receiving point. The PBM will be located at this point.
+55. "Settlement" is a central bank function through which participating banks are discharged from their
+obligation in respect to payments for items that are cleared through BACPS. This function is
+completed when concerned central bank department/section posts the net settlement amounts to
+participating banks' account maintained at the central bank after each clearing cycle.
+
+56. “Settlement Account” means participating bank‟s account at the Bangladesh Bank (generally
+current account) that are being used for the purpose of BACPS settlement.
+
+57. “Settlement Date” means the date for settlement of an item as provided in these Rules.
+
+58. “Settlement System” means a System established and operated by Bangladesh Bank or any other
+System for the discharge of payment obligations as well as of settlement of obligations in relation
+to securities
+
+59. “Service Branch” is a branch which will act as a sending and receiving point, for each individual
+bank there will be only one service branch for each bank (generally Local Office).
+
+60. “Truncation Point” is a point from which physical movement of an instrument is stopped, here the
+image and data will be captured and transmitted to the service branch/BACPS. A bank may have
+multiple truncation points.
+
+61. “Unqualified Item” refers to an item which does not meet the criteria of a BACPS-eligible Item.
+
+62. “Unusable Image” means an Image that does not meet the requirements of the BACPS Image
+Usability Standard.
+
+--- Page 16 ---
+15 | P a g e
+
+
+CHAPTER II: General Rules
+
+
+2.1 GENERAL PRINCIPLE
+The BACPS Rules govern the clearing and settlement procedures of approved paper based payment
+instruments to be processed through the Bangladesh Automated Cheque Processing System (BACPS).
+
+a. The BACPS Rules are issued pursuant to Regulations 9 of the Bangladesh
+Payments and Settlement Systems Regulation, 2014. These rules are obligatory on
+a Presenting Bank that sends items to the BACPS, a Paying Bank that receives
+items from the BACPS and on account holders who have agreed to settle for items
+under these rules.
+
+b. Any BACPS approved payment item that is sent to the Bangladesh Bank for clearing
+and settlement is subject to the provisions of these Rules. The Bangladesh Bank
+processes such items as a BACPS operator and does not collect, present, or return
+such items as a “collecting” or “returning” Bank, except in its performance of its
+responsibilities as banker to the Government and as banker to the banks and for its
+own payments.
+
+2.2 Approved Payment Items
+
+Paper-based payment items that are specified in the BACPS rules and that conform to the
+following requirements may be exchanged for the purpose of clearing and settlement service:
+
+a. they are drawn on a participating Bank;
+
+b. they are payable on demand;
+
+c. they are identified in accordance with BACPS formats and the rules;
+
+d. they conform to the requirements set out in these rules, including those relating to
+the value and value date; and,
+e. Paper-based payment items drawn on Government of the Peoples Republic of
+Bangladesh and payable at Bangladesh Bank or any pre-specified Scheduled Bank.
+
+2.3 Presenting Bank
+
+2.3.1
+Sending Approved Payment Items
+
+A Participating Bank that maintains a Current Account (may be termed as a Settlement Account
+as well) at the Bangladesh Bank, may send an approved payment item to the Bangladesh Bank
+for clearing and settlement. The item must be in the format and media that the Bangladesh Bank
+prescribes and are in conformity with the applicable BACPS rules.
+
+2.3.2
+Security Procedures
+
+The security procedures that Bangladesh Bank follows to verify the authenticity of the source of an
+item are as follows:
+
+a. All Outward Cheque Envelopes will be digitally signed and encrypted by the Presenting Bank
+before transmission to BACPS and all inward Cheque Envelopes for the Paying Banks will be
+digitally signed and encrypted by BACPS before being transmitted to the Paying Bank.
+Participating bank must ensure that the instruments processed and transmitted from
+
+--- Page 17 ---
+16 | P a g e
+
+CBS/CPS to PBM are secured and the information of these instruments has not been
+tampered or altered in the way of transmission.
+b. Each Participating Bank shall prevent any disclosure of any aspects of the security
+procedures offered by Bangladesh Bank. The Participating Bank shall notify Bangladesh Bank
+immediately if the confidentiality of these security procedures is compromised, and shall act to
+prevent the security procedure from being further compromised.
+
+2.3.3
+Presenting Bank's Responsibility
+
+By presenting an approved BACPS-Eligible Item for payment to Bangladesh Bank, the Presenting
+Bank:
+
+a) agrees to comply with the applicable BACPS rules and agrees that those rules will govern
+the relationships among all of the participants.
+b) certifies that the front and back images of the BACPS-Eligible Item is a copy of the
+original instrument;
+c) verifies the prima facie genuineness of the instrument with due diligence and with
+ordinary care. The due diligence and ordinary care includes verification of the presence of
+all important fields such as date, amount in word & figure, signature and the valid tenor of
+the instrument; the physical feel of the instrument and thereby try to detect evidence of
+material alteration (if any) that is visible to the naked eye. In addition presenting banks
+have to ensure the use of magnifying glass and a UV detector for detecting any distortion
+of the important fields that may be detectable via the absence of erasable UV ink.
+Besides all these compulsory due diligences, banks may decide to employ additional risk
+management techniques for high value instruments, alerts for new account etc.
+d) agrees to bear the responsibility for any types of loss that is occurred through lack of
+practicing due diligence as mentioned in para 2.3.3(c) on the part of the presenting bank ;
+e) upon realization of the proceeds of an instrument, the bank shall pass the same to their
+customer account on the date of settlement ;
+agrees to make the original BACPS eligible item available within seven (07) calendar
+days for inspection during normal business hours, if requested by the Paying Bank.
+g) agrees that, failure to meet the request of the Paying Bank to present the original
+negotiable instrument will result in non-payment of that instrument. And in case of
+properly producing, the original instrument will remain with the Paying Bank and the
+liability for preservation of that instrument will be shifted to the Paying Bank;
+h) authorizes the Bangladesh Bank to use the current account (settlement account) to settle
+the amount for items presented and received under each clearing cycle ;
+bears the responsibility to reconcile their entire presentation and receipts by collating the
+information from files received through BACPS within the clearing cycle ;
+should have the capacity of completing/rectifying any mis-read MICR line data (if any)
+on items that experienced it. However, the bank may only rectify/amend a maximum of
+three (3) digits of the total MICR line data of an instrument;
+k) agrees to pay charges for clearing instruments as per the policy of Bangladesh Bank and
+also ensure all parties concern that they are not overcharging their customer ;
+agrees to mark stop payment instantly on items for which a stop payment request
+(through letter or email as well as over phone from designated person/BACPS Manager)
+has been received from a paying bank within the return cut-off. Upon receipt of such
+request later than the stipulated time the presenting bank shall stop the payment
+immediately subject to non-payment of the customer's account;
+m) agrees to inform BACPS within 30 minutes of settlement if any mismatch found; and
+
+--- Page 18 ---
+17 | P a g e
+
+n) agrees to indemnify the participating banks including Bangladesh Bank for any loss or
+expense (including attorneys fees and expenses of litigation) incurred as a result of the
+Presenting Bank‟s negligence or non compliance with any of the clauses of the BACPS
+Operating Rules and Procedures. This however, does not limit any other agreement,
+authorization or indemnity, not inconsistent with these Rules, made by a Bank, its
+Correspondent Bank, or the Bangladesh Bank.
+
+2.4 Processing of Items
+As an operator of BACPS, Bangladesh Bank clears and settles items in accordance with the applicable
+BACPS rules. Bangladesh Bank may reject, or may impose conditions to its clearing and settlement of
+any approved payment item for any reason. Bangladesh Bank will not act on instructions other than
+information required by specific format applicable to BACPS rules. Except as expressly provided in
+these rules, Bangladesh Bank does not have or assume any responsibility for a Participating Bank's
+non-compliance with applicable BACPS rules.
+
+All items, except local demand drafts and Foreign Taka/FC Demand Draft sent to be processed through
+the BACPS must contain the Paying Bank‟s MICR encoded routing number as well as other information
+as required in the BACPS operating rules. It is the presenting Bank‟s responsibility to enter the correct
+routing number in the item‟s data field for local/foreign taka demand drafts. Bangladesh Bank may
+process an item on the basis of a routing number of a Participating Bank appearing in prescribed form
+on the approved payment item when received.
+
+
+2.5 Delivery and receipt of Items under special circumstances
+
+Generally, Bangladesh Bank will receive as well as deliver approved payment items through authorized
+communication channel. In case of emergency situation, a presenting Bank or Paying Bank may use
+corrupt-free removable storage media, as prescribed and acceptable by Bangladesh Bank, to deliver
+and/or receive items to and from BACPS.
+
+2.6 Security of electronic data file
+
+The electronic file of payment items shall be encrypted using the PKI infrastructure specified by the
+BACPS and be transmitted electronically or exceptionally delivered on a corrupt-free acceptable
+removable storage media. If delivered on removable storage media, a letter signed by an authorized
+bank signatory shall accompany this. The removable storage media and the letter shall be placed to
+Bangladesh Bank in a sealed envelope well before the concern cut-off time.
+
+2.7 Correspondent Bank
+
+A Participating Bank with prior approval from Bangladesh Bank may designate another Participating
+Bank (Correspondent Bank) for sending and/or receiving payment items from BACPS on its behalf. It is
+the Participating Bank‟s responsibility to ensure that the Correspondent Bank complies with the
+obligations under these Rules.
+
+2.8 Time Schedules, Settlement Dates And Extension of Time Limits
+
+BACPs will operate on normal banking days. At the beginning of the year, the holiday calendar will be
+duly broadcasted to the participant bank by the BACPS system. Any changes in working days/ holidays
+or in the time schedules will be broadcasted electronically by the BACPS system as and when required.
+
+The BACPS will have two separate clearing windows for presentment and return having separate time
+schedules for High Value Items, Regular Value Items and Foreign Currency items. If because of
+circumstances beyond the Bangladesh Bank‟s control, the time schedule is delayed, the time for acting
+may be extended. The time for acting is extended upto the time necessary to complete the action,
+provided the Bangladesh Bank exercises such diligence as the circumstances required.
+
+--- Page 19 ---
+18 | P a g e
+
+
+Extension of existing cut-offs is also allowed as per request of a participating bank, however only as a
+diligent exercise and under unavoidable and emergency circumstances stipulated in the BACPS rules.
+
+2.9 Designation of Settlement Account
+
+As part of membership requirement before the commencement of operation and as participant under
+BACPS arrangement, a Participating Bank must open/designate a Current Account at Bangladesh
+Bank for BACPS transactions. Participating Bank uses the local currency current account to settle the
+local currency instruments while for the Foreign Currency (FC) instruments they will use FC accounts
+(for that designated currency) maintained with the Bangladesh Bank for settlement.
+
+As per the provision of these rules, participating bank authorizes the Bangladesh Bank to post to their
+accounts at Bangladesh Bank any Consolidated Net Settlement Positions of amounts (both in local and
+foreign currency) that shall occur directly or indirectly as a result of the clearing of Eligible Items and the
+actions of the BACPS, and will at all times maintain funds in these accounts adequate to cover such
+settlement of payments in eligible currencies.
+
+By designating a Settlement Account, a Bank authorizes the Bangladesh Bank to debit or credit the
+designated Account on the Settlement Date with the value of the items sent by the Bank to the
+Bangladesh Bank and to debit and credit to the designated Settlement Account the amount of other
+transactions (including fees, unless otherwise agreed) with respect to BACPS Items. The Bangladesh
+Bank may in its discretion, recover the unpaid balance of the Participating Bank‟s obligation with
+respect to an item from the Participating Bank respectively without prior notice.
+
+2.10 Settlement
+
+The Bangladesh Bank will post the settlement amount to Participating Banks‟ designated Settlement
+Account at a pre-fixed time (generally at the end of each clearing cycle). Settlement among
+participating banks will occur on a net basis and will be final and irrevocable when posted.
+
+2.11 Posting of Transaction/Crediting Customers' Account
+
+On receipt of the Net Settlement Positions of the member banks from the BACPS, the concerned
+department of Bangladesh Bank shall arrange settlement for the participants. Participating Banks must
+post the transaction (debit or credit) to their customers‟ account on the Settlement Date.
+
+2.12 Paying Bank
+
+2.12.1 Paying Bank's Responsibility
+
+The Paying Bank should examine the cheque's image and other electronic information from the inward
+cheque envelope sent by the Presenting Bank and shall verify the following information:
+The drawer bank, branch
+Name of drawer
+Payee's name must be present
+Valid date (must not be stale or post-dated)
+Amounts in words and figures match
+MICR Code line must be present
+Alterations are counter-signed
+Crossings are present
+
+--- Page 20 ---
+19 | P a g e
+
+The drawer's signature in the electronic scanned copy should be identical to the authorized
+signature at the bank
+
+A Paying Bank, by maintaining or using an Account with the Bangladesh Bank for settlement of
+items or by accepting an item from the Bangladesh Bank agrees to:
+comply with the applicable BACPS rules and agrees that those rules govern the relationships
+among the parties relevant to the transaction;
+process the item in accordance with these Rules ; i.e .will check the fund availability of the
+account and will verify the customer's signature mentioned on the presented item;
+verify via positive pay instructions before payment of items carrying the value of the required
+limit as set by the Bangladesh Bank from time to time and bear the responsibilities of losses
+incurred by other BACPS participants due to non-compliance of performing Paying Bank‟s
+responsibility (i.e. positive pay instruction) ;
+authorize the Bangladesh Bank to post the amount of a payment item to the Paying Bank‟s
+Settlement Account on the Settlement Date; also ensure sufficient balance in the settlement
+account for meeting the payment obligations arise out of cheque clearing activities;
+use appropriate return reason code for non- payment of any clearing instrument.
+provide notice of stop payment [via e-mail, phone or any other media] to the Presenting Bank
+in the case of failure to return an item within the return cut- off [due to unavoidable
+circumstances or technical issues and on the same business day]. If the Paying Bank identify
+the issue on a later stage , the bank shall immediately request the Presenting Bank to stop the
+payment;
+verify that all the inward items have been received, therefore ensure that there has been no
+data loss in the transmission process from BACPS. If any files are corrupted/lost in the time of
+transmission the bank may request the Bangladesh Bank for retransmission of images and
+data;
+ensure that their host application can prevent the payment of a duplicate instrument;
+agrees to inform BACPS within 30 minutes of settlement if any mismatch found;
+indemnify the participants (including Bangladesh Bank) for any loss or expense (including
+attorneys‟ fees and expenses of litigation) incurred as a result of non-performing the
+responsibility on the part of the Paying Bank.
+the proposition that the agreements, authorization and indemnity do not limit any other
+agreement, authorization or indemnity not inconsistent with these Rules, made by a Paying
+Bank to a Presenting Bank, the Bangladesh Bank or other person(s).
+
+2.12.2 Return of Items and Funds
+
+A Paying Bank may return an approved payment item to the Bangladesh Bank in accordance with
+the applicable BACPS rules adhering to the deadline set forth in the rules. The Paying Bank is
+accountable for the amount of the payment item if the returned item is not received by that deadline.
+
+The Bangladesh Bank processes a returned payment item it receives from a Paying Bank and
+sends it or makes it available to the Presenting Bank in accordance with the provisions of these
+Rules.
+
+2.13 Records
+
+1. Presenting banks are responsible for preserving original paper instruments (physical
+instruments) for six years from the settlement date to permit resolving issues that may arise
+concerning the handling of instruments. If the instrument is sent to Paying bank [as per the
+request of the Paying bank], the Paying bank will also preserve the item for 6 years from the
+settlement date.
+
+--- Page 21 ---
+20 | P a g e
+
+
+2. Bangladesh Bank will preserve the electronic information (image and data) of all clearing
+instruments in its central Archive for 12 years. Bangladesh Bank may decide to preserve the
+information both online and offline mode and can split the timeline of 12 years accordingly.
+
+2.14 Fees
+
+The Bangladesh Bank shall charge fees for processing payment instruments (i.e. cheque, pay
+orders, demand drafts and other eligible items) and will provide notification to participating banks of
+such fees from time to time. In addition, Bangladesh Bank may impose a penalty to a Participating
+Bank for violating Rules and other instructions in this connection. These fees may be charged
+directly from concerned banks current account.
+
+2.15 Penalty
+
+The Bangladesh Bank may impose penalties under section 109 of the Bank Company Act, 1991
+(amended on 2013) for misuse and non-compliance of the operating rules or/and on:
+Customer complaints, such as delayed sending payment instrument and delayed credit to
+the customer's account;
+Participant Complaints-such as Incorrect Return Reason;
+Any other situation Bangladesh Bank authority deems fit for applying penalties.
+
+Other than these, the Bangladesh Bank may charge fines on participating banks on different
+grounds like, non-standard cheques, cheque alteration, unpaid transaction, delayed data
+transmission, wrong stamping, late availability, late settlement, insufficient fund etc.
+
+The extent of penalties may be imposed on the member banks considering the degree of non-
+compliance. Moral suasion and fine may be the initial form of penalty. For breach of prudential
+requirements, the BB can suspend the participation of member bank in BACPS for a while which
+may be reinstated after the reason for suspension have been rectified. And if the member bank
+repeatedly and/or reluctantly creates such offence, termination of the membership from BACPS
+would be the final step.
+
+2.16 Bangladesh Bank Liability
+
+
+The liability of Bangladesh Bank is limited by the following:
+
+a. Bangladesh Bank is responsible or liable to a Participating Bank, only for its own failure to
+exercise ordinary care, or for its own or its employees‟ willful gross misconduct ;
+b. Other than Government payment items, Bangladesh Bank does not act as the agent or
+subagent of another Bank or person and is not liable for the insolvency, neglect, misconduct,
+mistake or default of another Bank or person ;
+c. Bangladesh Bank does not make any warranty with respect to an item it processes or settles
+for under these Rules, and
+d. No person may make a claim for an item against Bangladesh Bank for loss resulting from
+Bangladesh Bank‟s clearing of or settling after one year from the Settlement Date of the
+item. If a Bank does not send written objection to an advice of debit to Bangladesh Bank
+resulting from clearing activity within thirty (30) calendar days after receipt of the advice, it is
+deemed to approve the debit.
+
+--- Page 22 ---
+21 | P a g e
+
+
+2.17 Measure of Damages
+
+The measure of damages for Bangladesh Bank‟s failure to exercise ordinary care, or for its
+own or its employees‟ willful misconduct, for a payment item (including a returned item), is
+limited to the amount of the item reduced by an amount that could not have been realized by
+the use of ordinary care. Where there is willful misconduct with respect to an instrument, the
+measure of damages must not include other damages that are attributable directly and
+immediately to the willful misconduct, even if such consequences were foreseeable at the time
+of such misconduct.
+
+2.18 Right to Amend
+
+The Bangladesh Bank reserves the right to amend these rules from time to time.
+
+--- Page 23 ---
+22 | P a g e
+
+CHAPTER III: General Requirements
+
+3.1 GENERAL RULES
+
+1. Each BACPS-eligible Item shall be Exchanged, Cleared and Settled in accordance with these Rules.
+
+2. All instruments except for BDT Demand Drafts, foreign taka Demand Drafts and FC Demand Drafts
+must contain MICR encoded routing number along with other essential MICR information in order to be
+eligible for BACPS.
+
+3. An Image of each BACPS-eligible Item shall be captured prior to truncation in accordance with these
+Rules.
+
+4. Each Presenting Bank shall retain original paper Items (source documents) for a period of six years
+from the settlement date.
+
+5. Each Presenting Bank may destroy source documents following the expiration date of the source
+document (i.e. six years from the settlement date).
+
+6. Where a Bank uses a Correspondent Bank to perform a particular function, the Bank shall ensure
+that the Correspondent Bank will comply with the requirements applicable to that Bank as set out in
+these Rules. Each Bank shall remain responsible and liable for the functions performed by its
+Correspondent Bank.
+
+3.2 CURRENCIES TO BE CLEARED
+
+The currencies to be cleared are Bangladeshi Taka (BDT), United States Dollar (USD), United
+Kingdom Pound (GBP), European Union and its territories currency - Euro (EUR), Japanese Yen
+(JPY), Canadian Dollar (CAD) and any other currency that may be added by Bangladesh Bank from
+time to time.
+
+3.3 Eligible items and instruments
+
+The following MICR encoded payment items are eligible for clearing in accordance with these rules:
+
+1. Savings Bank Account
+Pay Order
+2. Current Account Cheque
+Government Cheque
+3. Cash Credit Account Cheque
+Credit Card Cheque
+4. Dividend Warrant
+10.
+Foreign Taka Demand Draft
+5. Demand Draft
+11.
+Foreign Currency Cheque
+6. Refund warrant
+12.
+Foreign Currency Demand Draft
+
+--- Page 24 ---
+23 | P a g e
+
+
+
+
+CHAPTER IV : Requirements for Image Capture
+
+4.1 General Standard
+
+
+Each Presenting Bank shall capture Images in accordance with the BACPS Image Usability
+Standard and BACPS Active Image Clearing Specifications (AICS).
+
+4.2 Image Capture
+
+
+Two (2) Image segments shall be captured for all BACPS-eligible items:
+
+a. Black and White Image of the front
+
+b. Black and White Image of the back
+
+4.3 Image Usability Standard
+
+
+An Image is considered usable if it meets the following standards:-
+
+Legible: The Image is legible if it can be read or deciphered by a human viewer.
+Viewable: The Image is viewable if there is perceived content in the field and the content can
+be viewed without obstruction.
+Usable Image: Image usability is of key importance for allowing a Paying Bank to process an
+item on the basis of an Image. A usable Image is a clearly represented digital picture of an
+instrument. An Image is usable when all of the following criteria are met:
+the date field must be legible on the image of the instrument ;
+ii.
+the MICR line must be legible on the Image of the item ;
+iii.
+the account number in the MICR line is Legible on the Image of the instrument ;
+iv.
+the payer information must be Legible on the Image of the instrument ;
+the Convenience Amount must be Legible on the Image of the instrument ;
+vi.
+the Legal Amount must be Legible on the Image of the instrument ;
+vii.
+the payer‟s signature must be Legible on the Image of the instrument ;
+viii.
+the payee name, if present on the instrument, and required for stop payment
+processing, is Viewable on the Image , and
+ix.
+the payee endorsement(s), if present on the instrument, is Viewable on the Image
+of the item.
+
+4.4 Return Process:
+
+If an Image of an item is not usable according to the above definition of a usable Image, the
+item may be returned within the time frames citing appropriate return reason.
+
+ii.
+The Presenting Bank has the option to re-scan the source instrument and transmit the Image
+as a new item to the Paying Bank.
+
+
+4.5 Poor Source Documents:
+
+If the Image of an instrument is not usable due to the quality of the source document, the
+Presenting Bank may:
+i. Return the physical instrument to its customer.
+
+--- Page 25 ---
+24 | P a g e
+
+ii. Forward the source document itself to the Paying Bank for payment (i.e., put it on for
+collection outside the clearing house).
+
+4.6 Piggy Back Items
+
+A piggy-back situation occurs when an instrument is Image-captured with another instrument or
+instrument(s) with the appearance of forming one Item. Where a piggy-back situation occurs, the
+Presenting Bank shall correct the situation by re-capturing multiple instruments separately, as the
+case may be.
+
+4.7 Liability of Presenting Bank
+
+4.7.1
+Usability
+
+Each Presenting Bank shall be responsible to the Paying Bank for the usability of each Image that
+it captures and presents up to the end of one consecutive Exchange Cycle commencing on the
+Date of Presentment at which point the Paying Bank assumes responsibility and liability for the
+usability of the Image.
+
+4.7.2
+Piggy Back
+
+Where a Presenting Bank receives a Returned BACPS Item as a result of a piggy-back situation
+(Section 4.6) and is unable to locate the original Instrument for re-capture, the presenting Bank
+shall be responsible and liable for any loss.
+
+--- Page 26 ---
+25 | P a g e
+
+CHAPTER V: Creation and Exchange of BACPS Cheque Envelope
+
+
+5.1 BACPS Cheque Envelope Creation
+
+Each BACPS Cheque Envelope shall be created in accordance with the BACPS Active Image
+Clearing Specifications (AICS).
+
+5.2
+BACPS CHEQUE ENVELOPE TRANSMISSION
+
+Each BACPS Cheque Envelope shall be transmitted and received in accordance with the times set out
+in Part II (Operating Procedure).
+
+5.3
+CLASSIFICATION OF BACPS ELECTRONIC CHEQUE ENVELOPE CREATION
+
+The following collection types shall be used for the classification of presented items during the BACPS
+Cheque Envelope creation process:
+
+'01' : Outward Cheque Envelope (for regular value)
+
+'21' : Outward Return Cheque Envelope (for regular value)
+
+'09' : Outward Cheque Envelope (for high value)
+
+'29' : Outward Return Cheque Envelope (for high value)
+
+
+For Foreign currency transaction the applicable codes will be as follows:
+
+Type of
+Instrument
+(Cheque)
+Transaction
+Code
+
+Type of Instrument
+(Demand Draft)
+Transaction
+Code
+USD Cheque
+61
+USD Demand Draft
+71
+GBP Cheque
+62
+GBP Demand Draft
+72
+EUR Cheque
+63
+EUR Demand Draft
+73
+JPY Cheque
+64
+JPY Demand Draft
+74
+CAD Cheque
+65
+CAD Demand Draft
+75
+
+
+5.4 ACCEPTING AS BACPS ELIGIBLE ITEM
+
+Each Participating Bank shall identify each BACPS-eligible Item by populating the appropriate
+identification fields in the BACPS Cheque Envelope as set out in the AICS. The High Value
+collection type can only be indicated when the item meets the value.
+
+a. for any item, a Presenting Bank will capture the information of the MICR line and will add
+the amount field thereto. In case of MICR misread, the Presenting Bank will not repair
+more than three (3) digits of MICR information.
+b. where more than three (3) digits of unread MICR information would be found on an
+instrument, the Presenting Bank shall classify the item as „Unqualified‟ for processing and
+shall return the same to the customer.
+a Presenting Bank may enter account number which doesn‟t exist in pre-printed MICR line
+for Government cheques only.
+
+5.5 RESPONSIBILITIES OF RECEIVING POINT
+
+Each Receiving Point:
+
+a. shall receive BACPS Cheque Envelopes delivered to it via BACPS.
+b. for BACPS-eligible Items Exchanged and Cleared in collection type "High-Value/Regular
+Value/ FC", shall verify the contents of the BACPS Cheque Envelope and if necessary
+return the item in accordance with the return cut-off established in the BACPS rules.
+
+--- Page 27 ---
+26 | P a g e
+
+
+CHAPTER VI: Presentment, Return and Exception Processing
+
+
+6.1 Introduction
+This Part contains the rules applicable to presentment, return and exception processing for BACPS
+eligible items. Nothing in this Part precludes a Paying Bank or a Presenting Bank from exercising its
+rights and seeking recourse outside of the Rules. Before taking such actions, however, it is
+recommended that the parties concern first lodge complaint with Payment Systems Department of
+Bangladesh Bank and seek mediation thereto.
+
+6.2 SCOPE
+
+The return procedures, timeframes and responsibilities set out in this Part shall apply to all
+Participating Banks and shall limit the degree to which they can seek recourse from other Bank.
+
+6.3 PRESENTMENT
+
+A BACPS-eligible Item is presented to the Paying Bank when a Cheque Envelope containing the
+BACPS-eligible Item is accessible by the Paying Bank on the Participating Bank Module (PBM).
+
+6.4 RETURN BY PAYING BANK
+
+Where payment of a BACPS-eligible Item is refused, the Paying Bank may initiate a return file with the
+appropriate return reason code contained in Annexure-2 and submit the same within the deadline and
+adhering to BACPS Operating Procedures.
+
+6.5 TIME LIMITATION
+
+I. Each Returned BACPS Item shall be send back to the Presenting Bank as soon as possible but no
+later than the return cut-offs contained in the BACPS Operating Procedures. Returns that are
+presented beyond the return cut-off will be automatically rejected by BACPS.
+
+II. The Presenting Bank shall ensure that the system is accessible as soon as the Returned BACPS
+Item is available.
+III. The Correspondent Bank shall ensure that an Image of each BACPS-eligible Item and all relevant
+Returned BACPS Item information is accessible by the Presenting Bank as soon as possible.
+
+6.6 ITEMS WITH FORGED OR UNAUTHORIZED SIGNATURE AND FORGED ENDORSEMENT
+
+For greater certainty, where an item contains a „Forged or Unauthorized Signature‟ and either a
+„Forged Endorsement‟ or the intended Payee(s) was not paid, the Item shall be returned in accordance
+with section 6.5 (I) of these rules. And in addition the paying bank should inform the issue to
+Presenting Bank and Bangladesh Bank separately via mail.
+
+6.7 REPRESENTED ITEMS AND RIGHTS OF PAYING BANK
+
+A Returned BACPS Item that has been send back for any reason by the Paying Bank shall not be
+presented by the Presenting Bank a fourth time, i.e. third representment,
+
+6.8 METHOD AND ROUTING OF RETURN
+
+Where a BACPS-eligible Item is presented using BACPS Cheque Envelope, the corresponding
+Returned BACPS Item shall send back using the same information such as cheque details, routing
+number etc. and shall be returned using the applicable return reason code(s) in accordance with the
+BACPS Operating Procedure and AICS specification.
+
+--- Page 28 ---
+27 | P a g e
+
+6.9 IMAGES IN A BACPS RETURN CHEQUE ENVELOPE
+
+Where a Returned BACPS Item is send back within the time set out in the BACPS Operating
+Procedures, no image segment shall be included in the BACPS Cheque Envelope.
+
+6.10 BACPS ELIGIBLE ITEMS WITH INCOMPLETE/MISSING ENDORSEMENTS
+
+Where the Endorsement on a BACPS-eligible Item is missing or incomplete the item can be returned
+for the reason “Incomplete or Missing Endorsement” using the return reason code in Annexure 2.
+
+6.11 MISDIRECTED RETURNED BACPS ITEMS
+
+Each Misdirected Returned BACPS Item shall be forwarded by the recipient to the Presenting Bank
+using the return reason code specified in Annexure 2.
+
+6.12 PIGGY BACK ITEMS
+
+If any item is received by a paying bank as piggyback item, the paying bank must return the item to the
+presenting bank.
+
+
+6.13 WORDS AND FIGURES DIFFER
+
+Where the amount expressed in words on the face of an Item differs from the amount written in
+figures, the Item shall be returned for the reason “Amount in figure and word differs” within the
+timeframe stipulated in section 6.5 I.
+
+6.14 STALE DATED ITEMS
+
+Each BACPS-eligible Item dated (presentment date is) more than six months from the issuing date
+may be returned unpaid for the reason “Cheque out of date”.
+
+6.15 RE PRESENTMENT
+
+1. Where a Presenting Bank receives a return for the reason “Insufficient fund”, the Presenting
+Bank, or its Correspondent Bank, may represent the Returned BACPS Item within the validity
+period of the check following the first presentment time;
+
+2. If representing a Returned BACPS Item, the Presenting Bank shall create a BACPS Cheque
+Envelope in accordance with AICS Functional Specifications;
+
+3. A Returned BACPS Item that is eligible for re-presentment may only be represented twice; and
+
+4. A Returned BACPS Item that is represented may not be subsequently returned for the reason
+“Unusable Image”.
+
+6.16
+GENUINENESS OF CHEQUE
+
+1. The Presenting Bank shall verify the prima facie genuineness of the instrument to be truncated
+and attempt to detect any fraud, forgery or tampering apparent on the face of the instrument
+that can be verified with due diligence and with ordinary care (using UV detector) and other
+device if required.
+
+
+2. The Presenting bank shall be responsible for detecting the genuineness of the cheque leaf,
+material alteration of payee name, amount or date. In such cases where genuineness cannot
+be verified or material alteration is detected; the presenting bank should not submit such
+cheque(s) to the BACPS and take proper measures in consultation of bank authorities as well
+as with the Paying bank and Bangladesh Bank to bring the fraudsters under justice.
+
+--- Page 29 ---
+28 | P a g e
+
+
+3. Payment Instrument issuing banks must follow set physical security standards properly as
+prescribed by the Bangladesh Bank. If any security features of the instruments are missing or
+the design is not as per the approved specification, the issuing bank will be solely responsible
+for any fraudulent activities resulting from the violation of the approval.
+
+
+6.18 BUSINESS CONTINUITY PLAN:
+
+1. Participants shall be required to have Business Continuity Plan to ensure uninterrupted clearing
+of payment instructions which shall include:
+(i.) Timely replication of primary site operations to a secondary site, and
+(ii.) Ability to timely operate from the Secondary site in case the primary site is not available.
+2. Participants shall periodically test their Business Continuity Process and maintain testing
+reports.
+3. The BACPS shall provide contingency facility (alternative delivery media) for BACPS
+participants to send and receive BACPS files in the event participants are facing connectivity
+problems on their site.
+
+For example, the business continuity plan would be as follows:
+Scenario-1: The member shall immediately inform their concerned officials to investigate and
+provide an immediate resolution. At the same time, the bank must inform the BACPS of that
+failure and the progress for resolution in written form.
+
+Scenario-2: In case of operating the clearing function from primary BACPS the manager of
+BACPS shall immediately inform all the participants of the failure via telephone, fax or e-mail.
+The Bangladesh Bank will activate the business continuity site and restart the BACPS from the
+business continuity site. BB shall inform all participants when the services are restarted. The
+member bank must reconnect their CPS workstations to the business continuity site and
+resume processing.
+
+
+In switching the service to the business continuity site, the participants must reconcile their
+pending cheques and presented/returned cheques at the business continuity system, and if
+necessary, to perform re-capture of any paper cheques which are not identified in the business
+continuity system.
+
+Scenario-3: The BACPS is a fully web based system. In case of any BACPS workstation failure,
+participants shall reconnect to BACPS from any working workstation with the necessary
+configuration and web browser.
+
+Banks shall also have at least one backup CPS scanner for their respective branch. Banks
+shall use the backup scanner in case of a prolonged failure occurs to the primary scanner.
+
+--- Page 30 ---
+29 | P a g e
+
+CHAPTER VII: DISPUTE RESOLUTION MECHANISM
+
+
+7.1 Dispute Resolution:
+
+This rule outlines the procedures for settlement of disputes among participating banks that arises out of the
+clearing of BACPS payment items.
+
+All disputes in respect of the Rules are to be dealt at a managerial level preferably through BACH managers
+by the participating banks. The participating bank that disputes a returned item/settled item shall inform the
+other clearing bank within five (05) working days following the returned item/settlement. The report shall
+inform in writing, clearly explaining the nature of the dispute. Queries raised by a member bank on another
+bank should be timely responded to at least within a maximum of five (05) working days. Matters which
+cannot be settled amicably shall be referred promptly to the higher managerial level of the respective
+Bank‟s Head Offices.
+
+Arbitration:
+
+Where the dispute cannot be resolved between the participating banks, the parties may proceed to
+Arbitration. Arbitration rule applies equally to paper as well as electronic payments.
+The guiding principle in case of a paper-based instrument is that a Presenting Bank and its
+customer is not relieved from their normal liabilities in respect of any Eligible Item merely because
+the Paying Bank has failed to carry out any of the Rules relating to the handling of the Items. A
+Presenting Bank may refuse to accept Eligible Items in respect of such cases where the provisions
+of the rules have not been followed;
+Upon receipt of a valid request from the payer about a possible fraud, a Paying Bank will request the
+presenting bank to withdraw the funds from the payee's account of a settled instrument. The
+Presenting Bank shall reverse the transaction and send the proceeds back to the Paying Bank. The
+amount would be blocked by the Paying Bank on its customers account until the decision is awarded
+by the Arbitration Panel;
+Any Bank involved in a dispute with another Bank, which cannot prima facie be settled by mutual
+agreement at the Head Office level, may submit the relevant facts to the Payment Systems
+Department (PSD) of the Bangladesh Bank for the Arbitration alongwith complete details of the
+dispute within fifteen (15) working days from the date of receipt of the complaint from the customer.
+In this regard, the following steps shall be followed:
+i. An interim reply shall be given to customer within fifteen (05) working days from the date of receipt
+of complaint.
+ii. The PSD shall convene a meeting with the Banks under dispute and resolve the disputes by
+mutual agreement within ten (10) working days after receiving the notice of Arbitration. Additional
+meeting may be arranged if necessary.
+iii. All such disputes shall not take more than sixty (60) working days from the date of receipt of
+complaint for their resolution. However, in case of lack of direct or circumstantial evidence or if
+further investigation is needed, additional time may be taken to make the decision which must be
+rational.
+7.2. Composition of Panel:
+An Arbitration Panel may be constituted to rule on and settle disputes arising under these rules between
+participating Banks. The panel would be consisted of at least three (3) persons from the Bangladesh Bank.
+The panel would be presided by a Deputy General Manager (DGM) and two (2) other members should be
+
+--- Page 31 ---
+30 | P a g e
+
+from business team and ICT team of Bangladesh Bank. For co-ordination of arbitration each member bank
+should nominate at least two officers at their end to act as primary and secondary contact points.
+
+7.3. Lodgment of Arbitration
+
+Any party wishing to lodge an arbitration case under these Rules shall file a written Notice of Reference
+("the Notice of Arbitration") which shall include the followings:
+
+1. A request that the dispute be referred to arbitration;
+2. The names and addresses of the parties to the dispute;
+3. The amount, time, date, instrument/reference number (and other relevant details) of the
+transaction ;
+4. A brief statement describing the nature and circumstances of the dispute and
+5. The relief or remedy sought
+
+The process of bringing a dispute to arbitration will begin with a written notice to the PSD as required by
+these Rules shall be addressed to:-
+The General Manager
+Payment Systems Department
+Bangladesh Bank
+Head Office
+Dhaka-1000.
+
+7.4. Presentment of Arbitration:
+
+Subject to the requirement, the Arbitration process would be fair and efficient and that all relevant
+information would be properly considered. Arbitration proceedings shall follow the procedures as set out
+hereunder-
+A claimant serves a Notice of Reference to Arbitration upon a Respondent (s) in the prescribed
+form or,
+The parties to any dispute have jointly signed a reference indicating their intention that the dispute
+be referred to Arbitration for resolution.
+The endorsement of the Notice of Reference to Arbitration or the jointly signed reference and the
+endorsement of any response shall state at the minimum the following particulars:
+A statement of the claim made by the Claimant and/or a statement of the defence and counterclaim
+of the Respondent as the case may be;
+A statement of the facts surrounding the claim, defence or counterclaim as the case may be;
+Identification of the documentary evidence sought to be relied upon and where practicable copies
+of the documentary evidence should be appended to the Reference;
+A statement of the BDT amount of damages or the relief sought;
+Any other information or arguments that may be relevant.
+
+The coordinator of the Arbitration Panel will transfer the request and the response to the members of the
+panel in a “Dispute File” and will assign it a file number.
+
+7.5. Convening the panel and inviting the parties
+
+The Coordinator [as decided by the concerned department of Bangladesh Bank] will determine the time and
+place for the panel to meet and will provide early notice of the meeting to the parties. In the case of an
+agreed-upon panel, the Chairman of the panel has the authority to set the time and place of the panel‟s
+meeting and to invite the parties.
+
+7.6. Additional meeting of the panel
+
+The panel will endeavor to decide the matter within one meeting. In special cases, when a decision cannot
+be reached, the chairman of the panel will – prior to the conclusion of the first meeting – decide on an early
+date for an additional meeting to complete the clarification. The number of additional meeting will be
+decided by the chairman of the panel as it seems necessary.
+
+--- Page 32 ---
+31 | P a g e
+
+7.7. The Dispute File
+
+The dispute file organized by the Co-ordinator of the Arbitration Panel will have the following characters-
+All the material brought before the panel will be contained in a Dispute File, which will also contain
+the protocol of the panel meeting
+ii.
+The Chairman of the panel will see to it that a protocol is recorded which includes the main points
+of the dispute, a summary of the arguments of each side, the conclusions of the panel and its
+decision. The Coordinator will present a copy of the protocol to each side on request
+iii.
+The request and the response in the protocol or the Dispute File shall not include information that
+violates banking confidentiality.
+
+7.8. Record keeping:
+For record keeping relating to complaints, banks are required to follow instructions stated in the BACPS
+operating rules. However, CCTV footage is considered part of circumstantial evidence and it must be
+retained at least for six (06) months. For complaints escalated to Courts, all the related evidences should be
+retained till the final decision.
+
+7.9. Decision/Award:
+The decision shall be made promptly by the panel within stipulated time (mentioned in section of 7.1). The
+panel need not state the reasons for the decision.
+The panel may award simple or compound interest on any sum awarded at such rate or rates and in respect
+of such period or periods ending not later than the date of the award as the panel considers just.
+All awards must be issued through the Chairman. The panel must deliver to the Co-ordinator a number of
+original copies of the decision sufficient for the parties and for filing purpose.
+The Co-ordinator shall release the decision to the parties upon the full settlement of fees and expenses.
+The award shall be final, binding and enforceable according to its terms and the parties undertake to carry
+out the award without delay.
+
+7.10. Acceptance of the panel’s decision
+The member banks will accept the decision of the panel to which a dispute between them is brought for
+clarification. Nonetheless, it is hereby clarified that the procedure in this section should not be viewed as
+agreement to engage in legal clarification.
+
+7.11. Additional clarification by a special panel
+The decision of a panel is final. In special cases, which will be considered as exceptions, the Chairman of
+the Panel will have the authority to bring a dispute for additional clarification before a special panel that he
+will convene.
+7.12. The procedures for discussion in the panel and for initiating clarification
+The Chairman of the Panel has the authority to determine the panels' procedures for discussion and
+additional procedures for bringing a dispute before a panel for discussion.
+
+7.13. Costs:
+The panel shall specify in the final meeting the costs of the arbitration and decide which party shall bear
+them and in what proportion. The "costs of the arbitration" shall include:
+The fees of the panel [for a single meeting it would be BDT 5,000.00] would be fixed by the
+Bangladesh Bank from time to time;
+ii.
+The costs of expert advice or of other assistance rendered; and
+iii.
+All expenses which are reasonably incurred by the BB in connection with the arbitration.
+The panel has power to order in its award, that all or part of the legal or other costs of one party shall be
+paid by the other party. Such costs shall, unless the award otherwise fixes or directs, be taxable by the Co-
+ordinator.
+
+7.14. Proposals for changes in the rules
+On the basis of its experience in arbitrating the disputes, each panel can propose changes in the Clearing
+House rules to the payment Systems Department of Bangladesh Bank.
+
+7.15. Publication of the highlights of the clarification
+The Chairman of the Panel has the authority to publish the panel decisions.
+
+--- Page 33 ---
+32 | P a g e
+
+7.16. Indemnification of Arbitration Panel
+Where they can be deemed to be acting in good faith the members of the Arbitration Panel shall have no
+liability whatsoever, whether for acts or omissions or with respect to any other matter, arising directly under
+Arbitration. The parties to the Arbitration expressly agree to this and further expressly hereby agree to
+indemnify the parties to be dispute of the Arbitration Panel and each of them and keep each of them
+harmless from any and all claims, which could arise in connection therewith.
+
+
+
+Dispute Resolution:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure : Dispute Resolution Cycle
+
+Dispute
+identified
+by/informed to
+Bank `A'
+Bank 'A' sent
+written notice
+to Bank 'B'
+•[within 05 working
+days]
+Bank 'B'
+responds to
+Bank 'A' in
+written
+•[within 05 working
+days]
+Dispute
+resolved
+Dispute not resolved
+Presenting bank will reverse the
+settlement and send the proceeds to
+the Paying bank upon the request
+received (in case of possible fraud).
+The participating bank individually or
+jointly can send the notice of reference
+for Arbitration (withing 15 working
+days from the dispute identified)
+An interim reply
+will be sent to the
+customer
+• [within 05 working days]
+Convene a
+meeting with
+Arbitration Panel
+and both the
+parties
+• [within 10 working days]
+Decision/Award
+
+--- Page 34 ---
+33 | P a g e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BACPS Operating Procedure
+
+--- Page 35 ---
+34 | P a g e
+
+Chapter-1: OPERATIONAL OVERVIEW
+
+1.1 Introduction
+These operational procedures are intended for the use of operational staff within Participating Banks
+engaged in the preparation and submission of Outward payment items to the Clearing House and in the
+receipt and verification of Inward items from the Clearing House.
+Here the document is a reference to additional documents which are generally technical in nature and
+contain specific system details. These procedures deal mainly with the operational issues for image based
+instrument processing and have to be read with and subject to the Bangladesh Payments and Settlement
+Systems Regulation 2014, the BACPS Operating Rules or any other law(s) shall come into effect time to
+time.
+
+1.2 JURISDICTION
+
+The image exchange cheque clearing process will be applicable for cheque clearing operation throughout
+Bangladesh. Any bank that has been allowed to act as a member of the BACPS has to follow this process
+for cheque clearing.
+This document deals principally with the operational procedures for banks utilizing an automated image
+based cheque clearing solution and has to be read with and are subject to the Bangladesh Payment and
+Settlement Systems Regulation 2014.
+
+1.3 CLEARING SESSIONS
+
+The Cheque Truncation System is capable of supporting different types of clearing. Each type of clearing
+will have a separate clearing window known as clearing sessions. Initially there will be three presentation
+and three corresponding return clearing sessions (two for local currency and one for Foreign Currency)
+per day. The presentment, return and settlement cut-offs for these sessions are:
+
+Clearing Window
+Cut Offs
+Presentment
+Return
+Settlement
+Regular Value Instrument
+12:30 hrs
+17:00 hrs
+17:01 hrs
+High Value Instrument
+12.00 hrs
+15.00 hrs
+15.01 hrs
+Foreign currency Instrument
+12.00 hrs
+15:00 hrs
+15:01 hrs
+
+Clearing sessions may be rescheduled and communicated to member banks by the Clearing House
+(BACPS) authority from time to time. In case of High Value items, if presented after the presentment cut-
+off and before the presentment cutoff of RV instruments, will be processed in the regular value session
+(and follow the regular value timing for return and settlements) while HV items presented after RV
+presentment cut-off will processed in next available HV session. In case of RV and Foreign Currency
+session-missed items, the files will be processed in available corresponding sessions.
+
+--- Page 36 ---
+35 | P a g e
+
+Chapter-2
+OVERVIEW OF CLEARING PROCEDURE UNDER IMAGING AND
+TRUNCATION ENVIRONMENT
+
+2.1 TRUNCATION POINT
+
+The presenting bank, on its own discretion decides about the point of truncation. A bank may have
+multiple points of truncation but will have one single point of connection with BACPS which will be
+termed as sending/receiving point. And the PBM will be located at this point. Nevertheless, the
+bank must exhibit proper authorization process as well as ensure due diligence on all the
+instruments presented as mentioned in Section 131 of the NI Act and Section 2.3.3 (Presenting
+Bank's Responsibility) of this rule. Due care and secure handling is to be exercised in movement
+of instruments from counters of the presenting bank to the point of truncation.
+
+2.2 SETTLEMENT
+
+Settlement shall be made on the basis of the electronic cheque data including the amount that
+accompanies the image and that is contained in cheque return data. The specifications that qualify
+cheques for image based clearing must be strictly adhered to.
+
+2.3 DIGITAL SIGNATURES
+
+The use of the Public Key Infrastructure (PKI) will ensure data authenticity, integrity and non-
+repudiation, adding strength to the entire system. The PBM of the presenting bank will affix digital
+signature on each file from the sending point. The image and data must be secured using the PKI
+throughout the entire transmission cycle between the presenting bank, the clearing house and the
+paying bank. It is the responsibility of the presenting and paying banks to ensure that the
+movement of electronic files from their host capturing systems to the PBM is secured with the
+highest level. Access to the bank‟s PBM must be limited to authorized personnel only.
+
+2.4 USE OF SECURE NETWORK
+
+Participating Banks will ensure that, all electronic files will be duly validated, encrypted & digitally
+signed, will travel over a secure communication link connecting each bank with the Clearing
+House. All acknowledgement messages will be transmitted via the same link.
+
+
+2.5 STORAGE AND ARCHIVING SYSTEM
+
+A sound storage and archiving system of images is an integral part of BACPS which ensures that
+all relevant data is immediately available to resolve disputes, complaints, reconciliation etc. The
+physical instrument (truncated items) must be sequentially preserved for six (6) years by the
+presenting bank and may (optionally) maintain an image archive for their items only.
+
+
+The contents of the national archive shall be available to both the presenting and paying Bank for
+12 years through online and offline access. Bangladesh Bank has the authority to decide the
+timeline for both online and offline access. Any item processed by BACPS will be made available
+to the parties of the transaction via the archive. Images in the central archive will be available for
+viewing after the closing of the current business day.
+
+--- Page 37 ---
+36 | P a g e
+
+
+
+2.6 SCANNING STANDARD
+
+The scanning will conform to the prescribed standards which are bi-tonal (black and white), 200
+DPI to 300 DPI TIFF format image. The image quality assurance is required at the scanning stage
+so that the images meet the processing quality standards. The image specifications are:
+
+Side No.
+Image Type
+Minimum DPI
+Format
+compression
+Front Black & White
+200-300 DPI
+TIFF
+CCITT G4
+Reverse Black & White
+200-300 DPI
+TIFF
+CCITT G4
+
+The background of the cheques should be image-friendly; there should be no dark background.
+
+--- Page 38 ---
+37 | P a g e
+
+Chapter-3
+PRESENTMENT FOR CLEARING PROCEDURE AT THE PRESENTING BANK
+
+3.1 PRESENTING BANKS DUE DILIGENCE REQUIREMENTS
+
+As settlement will be done on the basis of data, conducting due diligence therefore is the
+responsibility of the presenting bank to verify the prima facie genuineness of the cheque to be
+truncated.
+The banks should observe all precautions which a prudent banker takes under normal circumstances
+with a view to employing suitable risk management techniques, it includes:
+Enforcement of KYC (Know Your Customer) norms prescribed by Bangladesh Bank from
+time to time;
+Close monitoring of credits and debits of accounts based on risk categorization, including
+new account alerts ;
+Ensure that the physical feel of the instrument meets the paper and design standards used
+for MICR cheques;
+Check the apparent tenor of the instrument;
+Detect and reject a cheque if any type of discoloration, material alteration or tampering is
+visible to the naked eye ;
+Examination under UV lamp to detect the tampering (attempt).
+For enhanced attention, based on experience, the banks may deploy additional levels of
+checking for high value and Foreign Currency instruments.
+The presenting bank takes full responsibility for collecting on behalf of the intended payee and
+exercises due diligence as per the conditions laid down in the Operating Procedure.
+
+3.2 SORTING OF INSTRUMENT
+
+Instruments that are drawn on the presenting bank itself (on us) should not be come to BACPS and
+be settled internally. Apart from segregating “on-us” instruments, the presenting bank should also
+segregate instruments according to their processing window (i.e. RV, HV and FC) and also
+according to their presentment status (i.e. for first presentment through second re-presentment) as
+well as any of the instruments which are torn and would require separate process of handling by the
+bank. Foreign currency instruments will be sorted accordingly, i.e. segregation for different foreign
+currency will be put in separated bundles.
+
+3.3 STAMPING
+
+Crossing will be allowed at the top left corner of the instrument without hampering the material part of
+the instrument. All instruments received for collection over the bank‟s counters are required to be
+branded on the rear (Bank/Branch of first deposit) of the instrument with the banks stamp prior to
+scanning. The suggested dimension and the position of the stamp are given in back side of all
+payment instruments. The beneficiary name and account number will have to be recorded on the
+back side of the instrument (Payee area). The banks should take care so that the stamping may not
+interfere with any material portion of the instrument. However, in an automated environment, the
+machine endorsement serves the purpose of a stamp and therefore it is discouraged to not to return
+an instrument only due to not having a stamp at the back. In case of placement of machine
+endorsement especially for represented items the presenting bank should take care about the
+placement of the lines so that those are not overlapped.
+
+3.4 CAPTURE OF IMAGES AND DATA
+
+The images of all instruments in a batch must be duly captured along with MICR data using
+scanners setup for the purpose. The amount and necessary elements of MICR line needs to be
+captured/keyed in to complete the data record. The ideal number of instruments in one batch should
+be no more than 50 items; however smaller batches will improve the speed of balancing and the
+bank should determine the ideal batch size for its own processing.
+
+--- Page 39 ---
+38 | P a g e
+
+
+3.5 REJECT REPAIR AND BALANCING
+
+The solutions adopted by the banks should have the capability of completing the routing number on
+any item experiencing a MICR line misread. Repairing of up to three (03) digits of a MICR line is
+allowed as long as they are located in different fields of the MICR line. If the number of MICR
+misread is more than three (03) digits, the bank must refrain from sending that item to BACPS rather
+may return the item to the presenter or send it to the paying bank directly on short collection basis.
+
+All batches of items sent to the BACPS should be in a reconciled state i.e. the total of the debit items
+matches the total shown on the Batch Control Voucher (BCV).
+
+3.6 DIN (DOCUMENT IDENTIFICATION NUMBER) ENDORSEMENT
+
+At the time of scanning the instrument, the reader sorter/scanner will print a single line endorsement
+on the back of each instrument which shall be the unique identifier for that instrument. It shall consist
+of Presentment Date of the item (6 digit) in DDMMYY format, Item Sequence/Running Number (8
+digit), Routing Number of the Branch of First Deposit (9 digit).
+The application of the endorsement stamp and the printing of the DIN imply that the collecting bank
+undertakes to credit the payee's account upon realization of the cheque and that the instrument
+deposited is a genuine one and is being collected for a bona fide customer of the bank. Therefore,
+either of these two (i.e. stamp or Endorsement Line) may serve the purpose and should not be
+returned due to missing of one of these two.
+As regards the confirmation/certification of endorsements, the member banks may be informed that
+the clearing stamp affixed would be considered as the collecting banks' confirmation of all the
+previous endorsements and that it undertakes to credit the beneficiaries' account on realization and
+no additional/specific endorsement/certificate of confirmation to this effect on the instrument is
+considered necessary.
+
+3.7 REPRESENTED CHEQUES
+
+Any item that is eligible for re-presentment may only be presented three times in total, the original
+presentment and a maximum of two re-presentments. In the case of represented instruments the
+endorsement will be made in a different position to avoid overlapping.
+All unpaid items that are represented will be processed electronically and must be passed to the
+BACPS in separate batches from normal outward clearing items. The capture systems would have
+control procedures to monitor such representations. All unpaid items must have an assigned return
+reason code (Annexure-2).
+If an item fails to clear after reaching the maximum number of re-presentments (i.e. being re-
+presented two times) the instrument is to be marked as „cancelled‟ and is to be returned to the
+depositing customer.
+
+3.8 VALIDATION
+
+The data elements captured by the banks capture system will be validated by the presenting bank‟s
+PBM before transmission to BACPS.
+
+3.8 CLEARING INFORMATION SYNCHRONIZATION
+
+The master table information, such as routing number, transaction code and calendar etc., of the
+capture system should be synchronized with that of Clearing House Master Table. Master Table
+Synchronization is an automated function between the Clearing House and the bank‟s PBM. Any
+change in the clearing house table will be automatically updated online on the PBMs, and it shall be
+the bank‟s responsibility to update its capture system immediately. PBM supervisors should monitor
+whether the Clearing House Table has been updated successfully. Any error related to Clearing
+House Table updates is reflected in the system monitor screen of the PBM.
+
+--- Page 40 ---
+39 | P a g e
+
+
+3.10 IMAGE QUALITY CHECKING
+
+The bank needs to perform IQA validation at the capture system. Each image shall have an IQA
+indicator tag; this is a flag on the item record in the electronic envelope indicating the outcome of the
+IQA test carried out by the capture system.
+
+The threshold values for different IQA parameters are given in Active Image Clearing and Settlement
+System Functional Specification. The bank should take care to synchronize the IQA parameters at
+the capture system, to avoid excessive rejection at the PBM.
+
+3.11 HANDLING IQA FAILURE
+
+The member bank must ensure that its equipment meets the requirements of the IQA standards.
+When items fail IQA standards, it will be the responsibility of the bank to ensure that the hardware is
+repaired or collaborated to achieve the highest levels of performance. IQA failure is a hardware
+performance issue and must be rectified without creating a burden on other BACPS participants.
+
+3.12 PRESENTING BANKS SUBMITTING ELECTRONIC DATA AND IMAGES
+
+The operational steps of item processing are noted as follows:
+
+1. An instrument is accepted for depositing customer account by the presenting bank.
+
+2. The instrument and optionally a deposit slip (associated) are passed for in house processing.
+
+3. The bank manually endorses the rear of the instrument in the designated area with the Bank
+stamp.
+
+4. All instruments are retained at the presenting banks location of choice.
+
+5. The front and rear images of the instrument and the MICR code line data are captured within
+groupings referred to as batches.
+
+6. At the point of cheque processing and scanning, the presenting bank‟s capture device will put an
+endorsement line on the rear of the instrument (Please see section 3.3 for details )
+
+7. All batches must be presented to the BACPS in a reconciled state i.e. the batch must contain a
+batch total to which all instruments are balanced. Code line correction must have been carried
+out to ensure that the routing number and transaction code are present and amount entry made
+to assign an amount electronically to each instrument.
+
+8. Batches must be packaged into an electronic files referred to as a Cheque Envelope [CE] in
+accordance with the already published standard for presentation to the BACPS.
+
+9. The presenting bank system will pass the CE, in this case referred to as an OCE (Outward CE),
+to the PBM embedded within its own system for preliminary validation and transmission.
+
+10. The PBM will validate the structure of the OCE and the contents of records within the OCE.
+
+11. The PBM will reject, prior to transmission to the BACPS, any files failing validation.
+
+12. Files passing validation will be encrypted and assigned a Digital Signature by the PBM indicating
+the identity of the presenting bank.
+
+13. Files will be passed from the PBM application via the banks own chosen communication link to
+the BACPS.
+
+--- Page 41 ---
+40 | P a g e
+
+
+3.13 FREQUENCY OF SUBMISSION
+
+It is recommended that banks submit OCE files to the BACPS approximately in every 30 minutes,
+unless the recommended maximum item count within a file of 50 items is reached sooner. It is also
+recommended that banks submit most of the files 30 minutes before the published Cut-off time to
+ensure receipt within the current clearing session.
+
+3.14 ALTERNATIVE DELIVERY MEDIA
+
+The PBM contains facility to write files to alternative media such as a CD or DVD. Files delivered by
+a bank to the BACPS on this media will be accepted subject to the same acceptance criteria as files
+received via a communications link.
+
+3.15 ELECTRONIC FILES ACCEPTED BY THE BACPS
+
+Files received at the BACPS will initially be validated by a version of the PBM titled the Clearing
+House Module (CHM). This module will carry out structure and content validation and where no
+failure is detected and the digital signature is verified the file will be accepted and decrypted.
+
+Accepted files are passed to the BACPS where they are decrypted and repackaged to extract items
+for distribution to any paying bank whose cheques are included in the file. When a file has been
+accepted an acknowledgement message is sent to the presenting bank via the communications link
+to confirm acceptance.
+
+3.16 ELECTRONIC FILES NOT ACCEPTED BY THE BACPS
+
+When electronic files are received by the BACPS they undergo processing similar to that carried out
+at the PBM stage i.e. they are subjected to validation, confirmation of the digital signature assigned
+and decrypted. If an item fails validation for any reason the file will be rejected and an
+acknowledgment shall be issued and sent to the presenting bank via the communication link.
+
+3.17 INTERNAL CONTROL
+
+The banks should document the process flow and ensure that adequate control mechanisms are in
+place. Special care and adequate quality controls should be in place during rescanning of
+instruments and representation of instruments.
+
+The banks must have a mechanism to generate internal control reports at the end of the session/day
+to effectively reconcile the presentation made and the credit received by it from Clearing House. In
+case of any discrepancy, the same should be sorted out immediately. The service branches of the
+banks following distributed outward model may keep the branch clearing control reports for
+verification of actual credit received from the Clearing House.
+
+--- Page 42 ---
+41 | P a g e
+
+
+
+Chapter-4
+PROCESSING AT PARTICIPATING BANK MODULE: OUTWARD
+CLEARING
+
+4.1 PARTICIPATING BANK MODULE (PBM)
+
+The BACPS Participating Bank Module (PBM) provides cheque envelope validation and provides an
+interface for sending and receiving cheque envelopes from and to BACPS.
+
+4.2 DUPLICATION CHECKING
+
+Any duplicate cheque envelope that is detected will be rejected in its entirety by the Clearing House.
+A cheque envelope is considered a duplicate if the content of the following envelope header record
+fields match a previously processed cheque envelope that does not have its resend indicator set to
+„Y‟ (Please ref 2.2.3of AICS spec):
+
+Destination Routing Number
+
+Origin Routing Number
+
+File Creation Date
+
+File Creation Time
+
+File ID Modifier
+
+All duplicate items detected during Clearing House processing will be rejected.
+
+4.3 RECEIVING OUTWARD PRESENTMENT
+
+The PBM will receive the duly balanced outward clearing files containing cheque image and
+electronic data from the capture system of the bank.
+
+4.4 IMAGE QUALITY ANALYSIS AND FAILURE HANDLING
+
+All outward images are subjected to IQA validations. Any image failing IQA validation will result in
+the rejection of the cheque envelope by the presenting bank PBM with an appropriate response file.
+The bank may rescan and resubmit as many times as is necessary to meet the IQA requirements.
+
+
+4.4 ITEM PROCESSING
+
+The outward cheque envelopes presented by the capture system are validated by the PBM against
+the validation property indicated in the PBM Specifications. The PBM after validation generates
+response files which contain information related to acceptance or rejection of each file and the items
+present in each file with appropriate reason codes.
+
+4.5 SESSION ATTACHMENT
+
+The items are assigned to an appropriate clearing sessions that is open based on parameters fixed
+for a session by the Clearing House. These parameters are passed on to the capture system through
+the PBM. The item inherits „session date‟ that is the business date of the session and session type
+(i.e. Regular, High value and FC). If there is no appropriate session that is open, the items/bundles
+wait at the PBM until such a session opens.
+
+--- Page 43 ---
+42 | P a g e
+
+
+
+
+4.6 USE OF PKI
+
+Bangladesh Bank is in the process of establishing a Certification Authority (CA) under the national
+certification authority. Until, the process is established, Bangladesh Bank will continue to run the
+proprietary CA for BACH operation.
+
+4.7 Regional Holiday and Blockage
+
+Blockage and Holiday Marking function in the system has been designed to handle different holidays,
+for a `value date'. The blockage prevents other banks to present any cheques on the branch/bank
+put under blockage. In addition, it gives extension to all unexpired items drawn on such branches
+and banks for the blockage period. The branches/banks under blockage cannot lodge any fresh
+presentation during the blockage period. Banks seeking to block their branches or the entire bank
+may request the CH for its approval. This functionality may also be extended to address other
+operational situations as deemed necessary by CH.
+
+
+4.8 RECONCILIATION OF OUTWARD PRESENTATION
+
+After End of Session at the Clearing House, BACPS generates consolidated net settlement report
+and member bank net settlement report containing the details of items those have been accepted for
+settlement at the Clearing House. It shall be the responsibility of presenting bank to reconcile their
+entire presentation by collating the information from these reports.
+
+--- Page 44 ---
+43 | P a g e
+
+CHAPTER-5
+PROCESSING AT PARTICIPATING BANK MODULE: INWARD CLEARING
+
+5.1 RECEIPT OF INWARD DATA/IMAGES
+
+The inward processing deals with accepting inward presentment data and images from the Clearing
+House and providing data in the form of files for use within the (paying) bank‟s in-clearing system. The
+PBM will receive digitally signed inward electronic data and image exchange files from the Clearing
+House.
+
+5.2 VALIDATION
+
+The PBM shall authenticate and load the exchange file data into the system. The PBM will send an
+acknowledgement exchange file to the Clearing House if the inward data exchange file or image
+exchange file is accepted.
+
+5.3 CONTROL MECHANISM
+
+The receiving point should verify that all the inward bundles/items have been received by it to ensure that
+there is no data loss in the transmission from clearing house to the PBM. The PBM supervisor shall
+compare the relevant information available from the „clearing house processing monitor‟ and „inward
+exchange file screen‟ for this purpose. The paying bank will not be able to generate posting files unless all
+the inward bundles/items have been actually received at the PBM.
+
+If any file is lost in transmission the bank may request the Clearing House for retransmission of
+images/data.
+
+--- Page 45 ---
+44 | P a g e
+
+
+CHAPTER 6
+
+PROCESSING AT BRANCHES/BANK’S IN CLEARING SYSTEM
+
+
+6.1 DUPLICATION CHECKING
+
+The Cheque Processing System itself detects duplicate items based on MICR code line on the data
+for the configured number of days. The duplicate items are indicated in the Exceptions Report
+generated by the presenting bank's CPS and it is the responsibility of Presenting Bank CPS to have
+processes in place to take necessary caution/control while processing such items.
+
+6.2 DIGITAL CERTIFICATE VALIDATION
+
+PBM shall verify the digital certificate of CHM. Whereas it has been made mandatory for presenting
+banks to apply digital signatures at the capture point itself.
+
+6.3 PAYMENT PROCESSING
+
+The paying bank shall do the payment processing based on image and electronic data of the
+instruments following all the prudent practices including signature verification, account balance
+verification, verification of endorsements etc.
+
+6.4 RETURNED CHEQUES
+
+Items that fail paying bank approval and are therefore not to be honoured, are required to be
+returned to the BACPS in electronic format as defined in the AICS specification within the stipulated
+return period. For return items the image is not to be included in the return item file.
+
+It will be the responsibility of the paying banks in-clearing system to collate all the return items from
+different branches and create Outward Return Envelope (ORE) as per specifications provided in
+AICS specifications document. The paying banks‟ in-clearing system shall put such OREs to PBM for
+onward transmission to BACPS.
+
+Returned items are to be marked with the appropriate return reason code from the list published by
+Bangladesh Bank which is attached at Annexure 2.
+
+Return item files are to be transmitted to the BACPS via the paying bank PBM where the files will be
+validated, encrypted and digitally signed and sent to the Clearing House provided they meet the
+necessary validation criteria.
+
+Invalid files will be rejected by the PBM for correction by the paying bank.
+
+Return item files received by the BACPS will be validated and an acknowledgment shall be issued to
+the generating bank indicating their acceptance or rejection.
+
+Return items accepted by the BACPS will be passed to the presenting bank and an appropriate
+posting made to the settlement system.
+
+Any item not received by the BACPS within the stipulated return period will be deemed to have been
+accepted by the paying bank.
+
+Any return item not received by the BACPS within the stipulated time period will be treated as an
+honored item and accordingly the settlement files will be prepared and posted. If the paying bank
+detects such item which misses the return cutoff then the paying bank will have to contact directly
+with the presenting bank and they may resolve the issue outside BACPS framework.
+
+--- Page 46 ---
+45 | P a g e
+
+
+
+6.5 EXTENSION REQUEST FOR RETURNS
+
+A paying bank can request an extension on the return period for a branch/bank by applying to the General
+Manager of the Payment Systems Department of Bangladesh Bank. Depending on the severity of the
+situation Bangladesh Bank may grant extension as per the request. On grant of extension to a
+bank/branch, the clearing length of all the items drawn on it would correspondingly increases by the
+extension hours. Extension can be requested by the senior level official i.e. Deputy Managing Director
+(DMD) of the paying banks before the session closure.
+
+6.6 REQUESTS FOR PAPER
+
+As per Regulations 9 (iii) of Bangladesh Payment and Settlement Systems Regulations, 2014 and
+the BACPS Operating Rules, the paying bank may, request a physical instrument from the
+presenting bank; if it believes that the item is not genuine or has questions about its validity.
+
+
+6.7 INTERNAL CONTROL
+
+In addition to the inward instruments drawn on branches of a bank, the reports generated by the
+Clearing House would contain the summary position of the total number of instruments and the total
+value thereof.
+
+6.8 RECONCILIATION OF CLEARING DIFFERENCES
+
+In BACPS clearing, the image and data will be received in separate files that are linked and hence
+the possibility of a bank being debited without receiving an image shall not arise. In the case of a
+bank receiving cheques of another bank (due to a data entry error or so) the item should immediately
+be returned to the BACPS with appropriate return reason code.
+
+In case of a cheque listed for a value different from the actual value of the cheque (due to a data
+entry error), the cheque should also be returned with the` incorrect amount' return reason code.
+
+--- Page 47 ---
+46 | P a g e
+
+CHAPTER 7
+
+
+7.1 SPECIFICATIONS FOR ELECTRONIC EXCHANGE OF CHEQUES
+
+The following section describes the types of Electronic Cheque Envelopes (ECE). The
+specifications are incorporated into the BACPS Rules and reflected in the Active Image Clearing
+Specifications.
+
+The Electronic Cheque Envelope (ECE) currently identified are as follows:
+
+Outward Electronic Cheque Envelope (OCE)
+Outward Return Electronic Cheque Envelope(ORE)
+Inward Electronic Cheque Envelope (ICE)
+Inward Return Electronic Cheque Envelope (IRE)
+Archive Electronic Cheque Envelope (ACE)
+
+7.2 ELECTRONIC CHEQUE ENVELOPE
+
+The Electronic Cheque Envelope encapsulates outward clearing items, inward clearing items,
+return items and acknowledgments. The specifications for all electronic cheque envelopes are
+contained in the AICS.
+
+
+7.3 OUTWARD ELECTRONIC CHEQUE ENVELOPE
+
+The Outward Cheque Envelope is generated by the presenting bank in accordance with AICS. It
+encapsulates the outward clearing items for that bank that are to be distributed as Inward
+Clearing to the issuing banks for each item.
+
+7.4 OUTWARD RETURN ELECTRONIC CHEQUE ENVELOPE
+
+The Return Cheque Envelope (ORE) is generated by the paying bank in accordance with AICS.
+It has the same fundamental structure and format as the OCE.
+
+7.5 INWARD ELECTRONIC CHEQUE ENVELOPE
+
+Inward Electronic Cheque Envelopes (ICE) are generated in accordance with AICS. They have
+the same structure and format as Outward Electronic Cheque Envelopes; however, Inward
+Electronic Cheque Envelopes are Bank-specific and only contain Cheque Detail Records for a
+single Bank, the paying Bank for those cheques.
+
+7.6 INWARD RETURN ELECTRONIC CHEQUE ENVELOPE
+
+Inward Return Electronic Cheque Envelopes (IRE) are generated in accordance with AICS. They
+have the same structure and format as the Outward Return Electronic Cheque Envelopes;
+however, Inward Return Electronic Cheque Envelopes are presenting Bank-specific and only
+contain return data records for cheques they presented and are now being returned. No Image is
+returned.
+
+7.7 ACKNOWLEDGEMENT ELECTRONIC CHEQUE ENVELOPE
+
+The Acknowledgement Electronic Cheque Envelope is generated by member Banks. It has the
+same structure and format as Outward Electronic Cheque Envelopes; however, the
+Acknowledgement Electronic Cheque Envelope only contains Cheque Detail Records for
+cheques issued by that Bank. The items presented in Acknowledgement Electronic Cheque
+Envelopes are intended solely for archive and will not contribute in any way to the clearing and
+settlement process.
+
+7.8 ONLINE INQUIRY:
+An archive is maintained in the BACPS for all the payment instruments cleared through the
+system. Member banks can trace any cheque transactions previously occurred through the
+`Online Inquiry ' window of the BACPS.
+
+--- Page 48 ---
+47 | P a g e
+
+Annexure 1
+
+
+PARTICIPATION AGREEMENT FOR BANGLADESH AUTOMATED CHEQUE PROCESSING
+SYSTEM (BACPS) & BANGLADESH ELECTRONIC FUNDS TRANSFER NETWORK (BEFTN)
+(on TK. 300 Non-Judicial Stamp)
+
+This agreement is made on the date of ----th ---- of 20-- between Bangladesh Bank (BB,
+hereinafter referred to as the “Central Bank of Bangladesh”) and . . . . . . . . Bank LTD
+(hereinafter referred to as the “Participating Banking Company”).
+
+In consideration of the undersigned being admitted as a Participating Banking Company in the
+Bangladesh Automated Clearing House (BACH) constituting Bangladesh Automated Cheque
+Processing System (BACPS) and Bangladesh Electronic Funds Transfer Network (BEFTN) of
+the BB providing settlement and other services and of the mutual indemnification of the
+undersigned by each other Participating Banking Company of BACPS and BEFTN. The
+undersigned, which intends to act as a Participating Banking Company of BACPS and BEFTN
+hereby agrees with the BB, and with each other Participating Banking Company:
+
+1. to comply with and be subject to the BACPS Operating Rules and Procedures (collectively
+referred to as the "BACPS Rules") and BEFTN Operating Rules (collectively referred to as
+the "BEFTN Rules") including descriptive requirements, as in effect from time to time;
+2. to make all payments in time required by the BACPS Rules and BEFTN Rules including fees
+and charges set by BB from time to time;
+3. to comply with all directions/guidelines issued by BB from time to time for smooth operation
+of BACH and national interest;
+4. to indemnify and hold harmless the BB and each other Participating Banking Company from
+any and all costs, charges, claims, demands, expenses (including costs of investigation and
+attorneys' fees and expenses of litigation), losses, liabilities, damages, judgments, fines,
+penalties, interest, and amounts paid in settlement (each referred to herein as a "cost")
+arising from any failure on the part of the undersigned to exercise ordinary care or to comply
+with any of the provisions of the BACPS Rules and BEFTN Rules;
+5. to comply with decision of the arbitration panel formed in BB to which a dispute between
+member banks (Participating Banking Company) are brought for resolution;
+6. to accept the instruction of suspension either temporary or permanently from the operation of
+BACH by BB due to noncompliance of the instruction/guidelines/rules of BB for the
+continuous and smooth operation of BACH.
+
+This agreement shall be governed by and construed in accordance with the laws of the People‟s
+Republic of Bangladesh.
+
+This agreement shall be binding on the undersigned and its successors and assigns, except no
+Participating Banking Company may transfer or assign its rights or obligations hereunder except
+as expressly provided in the BACPS Rules and BEFTN Rules.
+
+Date
+(Participating Banking Company)
+
+
+By:
+Title:
+
+
+(Signature)
+
+
+Accepted this _____________________________ day of _____________, _______
+Bangladesh Bank:
+
+By:
+Title:
+
+
+(Signature)
+
+--- Page 49 ---
+48 | P a g e
+
+
+Annexure 2: Return Reason Codes
+
+
+CODE
+REASON
+RE-PRESENTABLE (R)
+NON RE-PRESENTABLE (N)
+
+
+Insufficient fund
+Amount in figure and word differs
+Stale Cheque
+Post Dated Cheque/Undated Cheque
+Drawers signature differs/Missing
+Payment stopped by Drawer
+Item represented too often/More than 03 times
+Incomplete or missing endorsement
+Forged endorsement
+10.
+Material alteration-Payee
+name/Amount/Date/Account Number
+11.
+Forged or unauthorized signature
+12.
+Missing Corporate Stamp
+13.
+Incorrect Amount/Cheque Number/ Account
+Number
+14.
+Item sent to the wrong bank/branch
+15.
+Account Closed/Dormant/Blocked
+16.
+Advice not received
+17.
+Duplicate Item-Previously Paid
+18.
+Incorrect Payee(Mismatch with advice)
+19.
+High value item presented to an ineligible
+branch
+20.
+Cheque not Activated/Intimation not received
+21.
+Cheque and Advice Data Mismatch
+22.
+07 (seven) Days Notice Required
+23.
+Test key required/differs
+24.
+Not Arranged for/Credit Limit Exceed
+25.
+Revenue Stamp Required/Not Sufficient
+26.
+Signature and Seal Required on the Stamp
+27.
+Budget Required/ Refer to the Issuer
+28.
+Item Required Re-validation
+29.
+MICR Data and Image Mismatch

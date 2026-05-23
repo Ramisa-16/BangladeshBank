@@ -1,0 +1,670 @@
+--- Page 1 ---
+BANGLADESH BANK
+HEAD OFFICE
+POST BOX NO. 325
+DHAKA.
+
+
+
+DOS Circular No.- 06 Date: 15/07/2010
+
+
+DEPARTMENT OF OFF-SITE SUPERVISION
+Web:
+www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+
+
+Chief Executive
+All Scheduled Banks in Bangladesh.
+
+
+Dear Sir,
+Uniform Accounting Procedure for REPO Transactions
+
+Banks in Bangladesh are free to engage in repo transactions with Bangladesh Bank and with
+other banks and financial institutions which maintain a current account with Bangladesh Bank.
+Although there are several circulars and circular letters on repo operational procedure, it has been
+observed that some confusion still remain regarding the accounting treatment of repo transactions.
+Considering the inherent risk involved in repo operation and its implications in the financial
+statements, Bangladesh Bank (BB) has decided to introduce a uniform accounting procedure for
+repo operation as a prudential measure aimed at better risk management. From now on, banks are
+advised to comply with the following guidelines relating to repo operation in government securities:
+
+1. Requirement for a Master Agreement:
+
+A separate Master Agreement shall be executed with each counterparty (banks and financial
+institutions), with whom the bank is willing to conduct repo operation. The Master Agreement shall
+be prepared considering the credit worthiness of the counterparty, transfer of legal title of the
+security, timing of payments, default procedures and the consequential rights and obligations of the
+counterparties, etc. The terms and conditions shall be approved by the Board of Directors/CEO (in
+case of foreign banks) of the bank and shall be reviewed as and when required.
+Banks shall conduct inter-bank repo under such Master Agreements from 1 January 2011.
+
+2. Requirement for disclosure:
+
+According to the General instructions for preparation of financial statements contained in
+4(Ka) of Article 38 (1st schedule) of "e¨vsK †Kv¤úvbx AvBb, 1991", banks are required to disclose the
+amount of securities put under repo separately. To disclose their continuous interest in the securities
+under repo and the obligation against the securities acquired under repo (reverse repo), banks are
+advised to provide details of their outstanding repo and reverse repo transactions in the financial
+statements in the format attached in Annexure-1.
+
+
+
+
+
+P.T.O.
+
+--- Page 2 ---
+3. Eligibility of securities to be put under repo:
+
+1. Securities having 3 (three) days to coupon payment or 3 (three) days to maturity shall not be
+put under any category of repo.
+2. Securities acquired under reverse repo shall not be put under repo or liened for any purpose or
+sold by the buyer unless the counter party defaults.
+
+4. Eligibility of securities under repo for maintaining SLR:
+
+1. As the security under repo will be excluded from the investment portfolio of the seller (in 1st
+leg), it will not be eligible for SLR purpose for the seller.
+2. The security acquired under reverse repo will be eligible for SLR purpose initially at its clean
+price (in case of coupon bearing security) or at its market value (in case of non-coupon bearing
+security) by the buyer. If the revaluation date falls within the repo period, then the new market value
+will be eligible for SLR purpose.
+
+5. Accounting procedure:
+
+1. The security shall exit (in the 1st leg of repo) at the book value and enter (in the 2nd leg of
+repo) into the seller's book at the market value determined in the 1st leg.
+2. The cash consideration for the 1st leg of repo will be the market value of the security (plus
+coupon interest accrued up to the previous date of the repo agreement in case of coupon bearing
+security).
+3. The cash consideration for the 2nd leg of repo will be the 1st leg cash consideration plus repo
+interest.
+4. In case of repo of both coupon and non-coupon bearing (Treasury bill) security, the seller
+shall adjust the Revaluation Reserve Account for HFT securities and respective reserve account for
+HTM securities and the weekly revaluation (if the revaluation date falls within the repo period) of
+the same security shall be stopped.
+5. In case of repo of a coupon bearing security, the seller shall stop the accrual of the coupon
+interest and as there is no possibility of coupon payment during the period under repo; the buyer
+shall also not accrue the coupon interest.
+6. The buyer shall revalue the coupon bearing security acquired under repo in case the
+revaluation date falls within the repo period.
+7. The buyer shall not revalue the non-coupon bearing security acquired under repo as the short
+term securities have lower susceptibility to interest rate movement.
+8. The following accounts shall be opened: a) in the seller's book- i) Coupon Interest
+Expenditure Account and ii) Repo Interest Expenditure Account b) in the buyer’s book- i)
+Coupon Interest Adjustment Account, ii) Repo Interest Income Account.
+9. At the end of the accounting period, debit balances in the Coupon Interest Expenditure
+Account and Repo Interest Expenditure Account and credit balance in the Repo Interest Income
+Account shall be taken into profit & loss Account.
+P.T.O.
+
+--- Page 3 ---
+10. To reflect the accrual of interest in respect of the outstanding repo/reverse repo transactions
+at the end of the accounting period, appropriate entries shall be passed in the profit and loss account
+of the seller's and buyer's books. Such entries shall be reversed on the first working day of the next
+accounting period.
+11. The purchase of treasury securities under reverse repo shall have to be reported in DB-5d
+statement.
+12. A comprehensive accounting procedure with necessary accounting entries and explanation is
+given in Annexure-2.
+
+All other instructions contained in the DOS circular letter No.-05/2008 and DOS circular letter
+No.-05/2009 shall remain valid except the changes made by this circular.
+This will have an effect from 1 September 2010. Repo agreements made before the effective
+date of this circular shall continue till the maturity.
+Please acknowledge receipt.
+
+Yours sincerely,
+Sd:/-
+(Sultan Ahmed)
+General Manager
+Phone: 7120376
+
+--- Page 4 ---
+Annexure-1
+
+a.(i) Disclosure regarding outstanding Repo as on 31 December:
+
+Sl.
+no.
+Counter party name
+Agreement Date
+Reversal Date
+Amount
+(1st leg cash consideration)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+(ii) Disclosure regarding outstanding Reverse Repo as on 31 December:
+
+Sl.
+no.
+Counter party name
+Agreement Date
+Reversal Date
+Amount
+(1st leg cash consideration)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+b. Disclosure regarding overall transaction of Repo and Reverse repo:
+
+
+Minimum
+outstanding
+during the year
+Maximum
+outstanding
+during the year
+Daily average
+outstanding during
+the year
+
+
+
+
+Securities sold under repo:
+i) with Bangladesh Bank
+ii) with other banks & FIs
+
+
+
+
+
+
+
+Securities purchased
+under reverse repo:
+i) from Bangladesh Bank
+ii) from other banks & FIs
+
+--- Page 5 ---
+Annexure-2
+
+
+A. Repo of Coupon Bearing HFT Securities
+REPO 1st Leg
+
+
+Face Value of the bond under
+Repo
+100,000,000.00
+Book Value as on 23/12/2009
+106,695,338.42
+Balance in Revaluation Reserve
+a/c
+
+6,695,338.42
+Coupon
+10.60%
+Coupon Payment Dates
+
+1 Jan & 1 July
+Repo agreement Date
+
+24/12/2009
+Repo Maturity
+
+26/12/2009
+Tenor
+
+3 days
+Accrued Coupon upto 23/12/2009 d = c*176*a/365
+5,111,232.88
+Market yield as on 24/12/2009
+
+9.5441%
+Market Value as on 24/12/2009
+(clean price)
+105,033,930.56
+Cash consideration for 1st leg
+(Market value of the bond +
+accrued coupon interest)
+f = e + d
+110,145,163.44
+REPO 2nd Leg
+
+Repo Interest rate
+4.50%
+Repo Interest
+h = f*Tenor*g/364
+40,850.54
+Total cash consideration for 2nd
+leg
+i = f + h
+110,186,013.98
+
+Seller’s book :
+
+Date
+Description
+Debit
+Credit
+24/12/2009 1st Leg
+
+
+
+Cash Account
+110,145,163.44
+
+Revaluation Reserve Account
+6,695,338.42
+
+Treasury Bond Account
+106,695,338.42
+
+P/L Account
+5,033,930.56
+
+Coupon Interest Account
+5,111,232.88
+27/12/2009 2nd Leg
+
+
+Treasury Bond Account
+105,033,930.56
+
+Coupon Interest Expenditure Account
+5,111,232.88
+
+Repo Interest Expenditure Account
+40,850.54
+
+Cash Account
+110,186,013.98
+
+Buyer’s book:
+
+Date
+Description
+Debit
+Credit
+24/12/2009 1st Leg
+
+
+Treasury Bond Account
+105,033,930.56
+
+Coupon Interest Adjustment Account
+5,111,232.88
+
+Cash Account
+
+110,145,163.44
+27/12/2009 2nd Leg
+
+
+Cash Account
+110,186,013.98
+
+Treasury Bond Account
+105,033,930.56
+
+Repo Interest Income Account
+
+40,850.54
+
+Coupon Interest Adjustment Account
+5,111,232.88
+
+--- Page 6 ---
+B. Repo of HFT Treasury Bill
+REPO 1st Leg
+
+
+Face Value of the bill under Repo
+100,000,000.00
+Acquisition price
+
+90,000,000.00
+Book Value
+99,953,650.28
+Balance in Revaluation Reserve a/c
+173,431.00
+Repo agreement Date
+
+24/12/2009
+Repo Maturity
+
+26/12/2009
+Tenor
+
+3 days
+Market value as on 24/12/2009
+99,949,803.32
+Cash consideration for 1st leg
+(Market value of the bill as on
+24/12/2009)
+d = c
+99,949,803.32
+REPO 2nd Leg
+
+Repo Interest rate
+4.50%
+Repo Interest
+f = d*Tenor*e/364
+37,069.30
+Total cash consideration for 2nd leg g = d + f
+99,986,872.62
+Seller’s book :
+
+Date
+Description
+Debit
+Credit
+24/12/2009 1st Leg
+
+
+Cash Account
+99,949,803.32
+
+Revaluation Reserve Account
+173,431.00
+
+Treasury Bill Account
+99,953,650.28
+
+P/L Account
+169,584.04
+
+2nd Leg
+
+
+Treasury Bill Account
+99,949,803.32
+
+Repo Interest Expenditure Account
+37,069.30
+
+Cash Account
+
+99,986,872.62
+
+Buyer’s book:
+
+Date
+Description
+Debit
+Credit
+24/12/2009 1st Leg
+
+
+Treasury Bill Account
+99,949,803.32
+
+Cash Account
+
+99,949,803.32
+27/12/2009 2nd Leg
+
+
+Cash Account
+99,986,872.62
+
+Treasury Bill Account
+
+99,949,803.32
+
+Repo Interest Income Account
+
+37,069.30
+
+--- Page 7 ---
+C. Repo of Coupon Bearing HTM Securities
+REPO 1st Leg
+
+
+Face Value of the bond under Repo
+100,000,000.00
+Book Value
+91,500,065.86
+Balance in reserve for HTM
+securities
+
+1,500,065.86
+Coupon
+10.60%
+Coupon Payment Dates
+
+1 Jan & 1 July
+Repo agreement Date
+
+24/12/2009
+Repo Maturity
+
+26/12/2009
+Tenor
+
+3 days
+Accrued Coupon upto 23/12/2009
+d = c*176*a/365
+5,111,232.88
+Market yield
+
+9.5441%
+Market Value as on 24/12/2009
+(clean price)
+105,033,930.56
+Cash consideration for 1st leg
+(Market value of the bond + accrued
+coupon interest)
+f = d + e
+110,145,163.44
+REPO 2nd Leg
+
+Repo Interest rate
+4.50%
+Repo Interest
+f*Tenor*g/364
+40,850.54
+Total cash consideration for 2nd leg
+i = f + h
+110,186,013.98
+
+Seller’s book :
+
+Date
+Description
+Debit
+Credit
+24/12/2009 1st Leg
+
+
+Cash Account
+110,145,163.44
+
+Reserve for HTM Securities Account
+1,500,065.86
+
+Treasury Bond Account
+91,500,065.86
+
+P/L Account
+15,033,930.56
+
+Coupon Interest Account
+5,111,232.88
+27/12/2009 2nd Leg
+
+
+Treasury Bond Account
+105,033,930.56
+
+Coupon Interest Expenditure Account
+5,111,232.88
+
+Repo Interest Expenditure Account
+40,850.54
+
+Cash Account
+
+110,186,013.98
+
+Buyer’s book:
+
+Date
+Description
+Debit
+Credit
+24/12/2009 1st Leg
+
+
+Treasury Bond Account
+105,033,930.56
+
+Coupon Interest Adjustment Account
+5,111,232.88
+
+Cash Account
+
+110,145,163.44
+27/12/2009 2nd Leg
+
+
+Cash Account
+110,186,013.98
+
+Treasury Bond Account
+105,033,930.56
+
+Repo Interest Income Account
+
+40,850.54
+
+Coupon Interest Adjustment Account
+5,111,232.88
+
+--- Page 8 ---
+D. Repo of HTM Treasury Bill
+REPO 1st Leg
+
+Face Value of the bill under Repo
+100,000,000.00
+Issue Date
+
+01/07/2009
+Book Value
+
+94,000,000.00
+Balance in reserve for HTM securities
+Repo agreement Date
+
+24/12/2009
+Repo Maturity
+
+26/12/2009
+Tenor
+
+3 days
+Market value as on 24/12/2009
+98,286,047.29
+Cash consideration for 1st leg
+(Market value of the bill as on
+24/12/2009)
+d = c
+98,286,047.29
+REPO 2nd Leg
+
+Repo Interest rate
+4.50%
+Repo Interest
+f =d*Tenor*e/364
+36,452.24
+Total cash consideration for 2nd leg
+g = d + f
+98,322,499.53
+
+Seller’s book :
+
+Date
+Description
+Debit
+Credit
+24/12/2009 1st Leg
+
+
+Cash Account
+98,286,047.29
+
+Reserve for HTM Securities Account
+
+Treasury Bill Account
+94,000,000.00
+
+P/L Account
+4,286,047.29
+27/12/2009 2nd Leg
+
+
+Treasury Bill Account
+98,286,047.29
+
+Repo Interest Expenditure Account
+36,452.24
+
+Cash Account
+
+98,322,499.53
+
+Buyer’s book:
+
+Date
+Description
+Debit
+Credit
+24/12/2009 1st Leg
+
+
+Treasury Bill Account
+98,286,047.29
+
+Cash Account
+
+98,286,047.29
+27/12/2009 2nd Leg
+
+
+Cash Account
+98,322,499.53
+
+Treasury Bill Account
+
+98,286,047.29
+
+Repo Interest Income Account
+
+36,452.24

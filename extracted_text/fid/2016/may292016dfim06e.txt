@@ -1,0 +1,570 @@
+--- Page 1 ---
+Department of Financial Institutions & Markets
+Bangladesh Bank
+Head Office, Dhaka
+
+DFIM Circular No.- 06
+Date:
+
+May 29, 2016
+
+Managing Director/Chief Executive Officer
+All Financial Institutions in Bangladesh.
+
+
+Dear Sir,
+
+
+Guidelines on Commercial Paper for Financial Institutions
+Now-a-days Commercial Paper (CP) is emerging as a new money market instrument
+to corporate houses in Bangladesh and subsequently Financial Institutions along with
+banks are getting involved in CP in different ways. Considering these diversified
+roles, it is inevitable to issue some directives regarding the activities of FIs concerning
+CP. The "Guidelines on Commercial Paper for Financial Institutions” has been issued to
+set some standards that will facilitate Financial Institutions to perform different roles
+regarding CP in an organized way.
+The instructions of the guidelines shall come into effect immediately.
+
+Yours sincerely,
+
+(Md. Shah Alam)
+General Manager
+Phone: 9530178
+
+--- Page 2 ---
+Guidelines on Commercial Paper for
+Financial Institutions
+May 2016
+
+
+
+
+
+
+
+DEPARTMENT OF FINANCIAL INSTITUTIONS AND MARKETS
+BANGLADESH BANK
+
+--- Page 3 ---
+Editorial Panel
+Md. Shah Alam
+General Manager
+
+Md. Rafiqul Islam
+Deputy General Manager
+
+Md. Abdul Wahab
+Joint Director
+
+Mohammad Abul Hashem
+Joint Director
+
+Sharmin Rahman
+Joint Director
+
+Md. Saifuzzaman
+Joint Director
+
+Farid Uddin Ahmed
+Deputy Director
+
+Md. Tariqul Islam
+Deputy Director
+
+--- Page 4 ---
+Page | 1
+
+1. Background
+Generally the fixed-income securities are divided into two main categories. One is
+capital market security with comparatively longer maturity period and the other is
+money market security which includes all fixed income instruments that mature
+relatively in shorter period of time (maximum one year). Commercial Paper (CP) falls
+into the latter category. It is typically issued by large corporations and financing
+institutions to cover short-term receivables and meet short-term financial
+obligations. This short-term instrument is a viable alternative to retail fixed-income
+investors who are looking for a better rate of return on their money. CP usually
+refers to an unsecured short-term debt instrument issued by corporate at a discount
+from face value that reflects prevailing market interest rates.
+CP was introduced over 100 years ago, when New York merchants began to sell their
+short-term obligations to dealers that acted as middlemen. These dealers would
+purchase the notes at a discount from their par value and then pass them on to
+banks or other investors. The borrower would then repay the investor an amount
+equal to the par value of the note. Consequently the Federal Reserve Bank began
+trading CP along with treasury bills from that time until World War II to control the
+level of monetary reserves circulating among banks. After the war, CP began to be
+issued by a growing number of companies, and eventually it became the premier
+debt instrument in the money market. Nowadays CP is becoming popular as one of
+the major sources of short-term financing all over the world. Accordingly it is
+emerging as popular short term funding instrument in this subcontinent also. India
+has been exercising CP as short-term money market instrument since 1990. The
+Securities and Exchange Commission of Pakistan has approved Regulations regarding
+CP in 2013.
+2. Commencing of CP in Bangladesh
+CP is emerging as a new money market instrument to corporate houses in
+Bangladesh and subsequently Financial Institutions1
+FIs operating in Bangladesh contain some distinctive characteristics other than
+commercial banks. They are not allowed to receive demand deposit like banks and
+(FIs) along with commercial
+banks are getting involved in CP in different ways. Since there are no regulations
+regarding CP, FIs are doing their business in a scattered way.
+
+1 Financial Institutions refers to the institutions licensed under the Financial Institutions Act, 1993.
+
+--- Page 5 ---
+Page | 2
+
+are not permitted to receive term deposits of less than 3 months. For this, they face
+difficulties to meet short-term demand for fund frequently.
+In order to meet this shortage of fund, FIs depends on bank borrowings and call
+money market. They can reduce this dependency by collecting fund directly from
+fixed income seekers through issuing CP. Besides the above, FIs may also act as
+investor, guarantor and issuing & paying agent of CP. Considering these diversified
+roles it is inevitable to issue some directives for FIs concerning CP.
+3. Legal Framework and Scope
+The guidelines have been issued under section 18(chha) of Financial Institutions Act,
+1993 in order to provide the legal framework and procedure regarding CP.
+The guidelines shall be applicable to all FIs operating in Bangladesh licensed under
+Financial Institutions Act, 1993.
+4. Definition of Commercial Paper (CP)
+For the purpose of the guidelines, CP refers to a promissory note with a maturity of
+not less than 30 days and not more than 1 (one) year that is sold at a fixed rate of
+interest or discount from face value. To ensure the interest of the investors CP may
+be backed by guarantee.
+5. Purpose of Issuance of CP
+CP provides a convenient financing method because it allows issuers to avoid the
+difficulties and expenses of business loans. Issuance of CP will help to develop and
+broaden money market and will widen the option for investments. The purposes of
+issuance of CP are as follows:
+Having fund at a lower cost alternative to loans from bank/FI;
+ii.
+Eliminating the short term mismatch of assets and liabilities;
+iii.
+Bridge financing until longer term securities are sold or until money is
+expected to be received;
+iv.
+Taking the advantage of short term interest fluctuations in the market.
+
+--- Page 6 ---
+Page | 3
+
+6. Eligibilities of FIs as Investor, Issuer, Guarantor and Issuing & Paying Agent
+(IPA)
+
+FIs may act as issuer, investor, guarantor and IPA of CP. FIs shall have to follow
+specific terms and conditions for such distinctive roles.
+
+
+6.1 Investor
+
+The FIs shall comply the following terms and conditions while investing in CP-
+a. The total investment in CP of any FI shall not exceed 30% of its total
+capital. But no FI shall invest more than 10% of its total capital in a
+single company's CP;
+b. The current ratio of the company (other than FIs and Bank Company2
+c. The debt-equity ratio of the company, in which FIs intend to invest,
+must be maximum 70:30 as per latest audited balance sheet;
+in which FIs shall invest, must be at least 1:1 as per latest audited
+balance sheet;
+d. The equity of the company, in which FIs intend to invest, shall not be
+less than BDT 300 million;
+e. FIs shall have to obtain post-facto approval from Bangladesh Bank3
+
+(BB).
+FIs shall apply to BB for such approval within 10 days after investing in
+CP;
+f. Credit rating of the issuer must be at least 03 for both ‘Short’ and
+‘Long’ term rating, as per BB rating grade [Please refer to Guidelines on
+Risk Based Capital Adequacy (Revised Regulatory Capital Framework for
+banks in line with Basel III) vide BRPD Circular No.18, dated: December
+21, 2014 and any subsequent changes of the said guidelines];
+g. Credit Information Report of the company, in which FIs shall invest,
+
+must be clean for last six months.
+6.2 Issuer
+
+The FIs shall comply the following terms and conditions while issuing CP-
+a. The paid up capital of FIs shall be BDT. 1000 million or more or as
+set by BB from time to time. Capital Adequacy Ratio, Tier-1 and Tier-
+
+2 Banking Company refers to a company as defined in the Bank Company Act, 1991(amended till 2013).
+3 Bangladesh Bank refers to the Bank established under Bangladesh Order, 1972 ( P.O. No. 127 of 1972)
+
+--- Page 7 ---
+Page | 4
+
+2 capital must be maintained in accordance with the requirement of
+‘Capital Adequacy and Market Discipline (CAMD) guideline for FIs’;
+b. The combined zonal position in stress testing report must be at least
+in yellow zone;
+c. Classification rate of loans and leases will be 5% or below;
+d. Composite CAMELS rating will be at least 3 for the last 3 consecutive
+half yearly report;
+e. The aggregate amount of CP issued by any FI shall not exceed
+30% of its total capital;
+f. Credit rating of the issuer must be at least 03 for both ‘Short’ and
+‘Long’ term rating as per BB rating grade [Please refer to Guidelines
+on Risk Based Capital Adequacy (Revised Regulatory Capital
+Framework for banks in line with Basel III) vide BRPD Circular No.18,
+dated: December 21, 2014 and any subsequent changes of the said
+guidelines];
+g. FIs shall obtain prior approval from BB before issuing CP. They shall
+also obtain no objection certificate from other regulatory authority
+(such as Bangladesh Securities and Exchange Commission, The
+Registrar of Joint Stock Companies and Firms etc.), if applicable.
+
+6.3 Guarantor
+FIs shall comply the following terms and conditions while providing guarantee
+against CP-
+a. They shall apply to BB in order to obtain post-facto approval within
+10 days after providing such guarantee;
+b. The credit rating of the guarantor shall be at least equal to the
+issuer;
+c. The guarantor shall disclose to issuer its net worth and list of the
+companies to which it has provided similar guarantees;
+d. The guarantee to a single party by any FI shall be maximum 30% of
+its total capital. But total amount of such guarantee shall not exceed
+100% of its total capital;
+e. Guarantee and its conditions offered by the guarantor shall be
+irrevocable.
+Besides the above, as guarantor, FIs shall ensure the followings of the issuer-
+Credit Information Report of the issuer must be clean for the last six
+months;
+
+--- Page 8 ---
+Page | 5
+
+ii.
+The current ratio of the issuing company (other than FIs and
+Banking Company) must be at least 1:1 and debt-equity ratio will be
+maximum 70:30;
+iii.
+The equity of the issuing company shall not be less than BDT 300
+million;
+iv.
+Credit rating of the issuer must be minimum 03 for both ‘Long’ and
+‘Short’ term as per BB rating grade [Please refer to Guidelines on
+Risk Based Capital Adequacy (Revised Regulatory Capital Framework
+for banks in line with Basel III) vide BRPD Circular No.18, dated:
+December 21, 2014 and any subsequent changes of the said
+guidelines].
+
+
+6.4 Issuing & Paying Agent (IPA)
+
+All the FIs operating in Bangladesh may act as IPA of CP. As IPA, FIs shall follow
+all the duties and responsibilities laid down in the guidelines.
+7. Duties and Responsibilities of FIs as Issuer and IPA
+7.1 Issuer
+
+a. Issuer must disclose its latest financial position as per the
+standard market practice to the potential investors.
+b. Every issuer must appoint an IPA for issuing CP.
+c. Issuer shall ensure that the procedures for issuance of CP are
+strictly adhered to.
+
+
+
+7.2 Issuing & Paying Agent (IPA)
+
+a. IPA shall ensure that the issuer qualifies the terms and conditions as
+stipulated by regulators and the amount mobilized through issuance of
+CP is within the amount as approved by its Board of Directors.
+b. IPA shall certify the investors that it has valid agreement with the issuer
+as specified in Annexure C.
+c. IPA shall verify all the documents submitted by the issuer.
+d. Certified copies of all documents shall be held in the custody of IPA.
+e. IPA shall maintain the KYC (Know Your Customer) of the investor.
+
+--- Page 9 ---
+Page | 6
+
+8. Form of the Instrument, Mode of Issuance and Redemption
+
+8.1 Form
+CP shall be issued in the form of a promissory note as specified in Annexure A
+or B.
+8.2 Size and Denomination
+CP shall be issued in denominations of BDT. 10,00,000 and multiples thereof.
+
+8.3 Tenor
+
+a. CP shall be issued for maturities between a minimum of 30 (thirty)
+days and a maximum of 1 (one) year from the date of issue.
+b. The validity of credit rating shall be a minimum of 45 days from the
+date of issuance.
+
+8.4 Payment by Investor
+
+The investor shall pay the discounted value or face value to the account of
+
+the issuer.
+
+
+8.5 Redemption
+
+On maturity of CP, the investor of the CP shall present the instrument for
+payment to the IPA and upon recipt it the issuer shall release money to the
+account of investor.
+9. Restrictions on Holdings of CP
+FIs shall not invest in any CP issued by the organization in which its sponsor
+shareholders or their affiliates have interest.
+10. Reporting Requirement
+a. FIs shall report the position of investment, issuance and guarantee of CP
+quarterly to Department of Financial Institutions and Markets (DFIM), BB as
+specified in Annexure D;
+b. IPA shall report immediately, on occurrence, full particulars of defaults in
+repayment to DFIM, BB as specified in Annexure E.
+
+--- Page 10 ---
+Page | 7
+
+Annexure A
+Proforma of Interest Bearing CP
+
+[To be stamped as per the applicable
+rate in force in Bangladesh]
+
+
+(NAME OF THE ISSUING COMPANY/INSTITUTION)
+
+SERIAL NO. -----------
+
+1. Issued at
+
+: (Place)
+2. Date of Issue
+3. Date of Maturity
+(If such date happens to fall on a holiday, payment shall be made on the
+immediate preceding working day)
+
+4. Date of interest payment: _________________________.
+5. For value received:
+
+( Name of the Issuing Company/Institution) hereby promises to pay
+(Name of the Investor) the principal amount of BDT. (taka in words) on
+maturity date upon presentation and surrender of this CP to (Name of
+the IPA)
+
+on above mentioned maturity date.
+ii. (Name of the Issuing Company/Institution) also promises to pay
+interest @-----% of face value of CP to (Name of the Investor). The
+accrued interest will be paid on (monthly/quarterly/half yearly/yearly)
+basis and the amount of each payment is BDT
+
+. (taka in words ).
+
+For and on behalf of:
+
+(Name of the Issuing Company/Institution)
+
+
+
+
+
+
+
+(Authorised Signatory/Signatories)
+All endorsements upon this commercial paper must be clean and distinct. Each
+endorsement should be written within the space allotted.
+
+--- Page 11 ---
+Page | 8
+
+Annexure B
+Proforma of Discounted CP
+[To be stamped as per the applicable
+rate in force in Bangladesh]
+
+(NAME OF THE ISSUING COMPANY/INSTITUTION)
+
+SERIAL NO.
+
+1. Issued at : (Place)
+
+
+2. Date of Issue : ________________________
+3. Date of Maturity: _________________________.
+(If such date happens to fall on a holiday, payment shall be made on the
+immediate preceding working day)
+4. For value received:
+(Name of the Issuing Company/Institution) hereby promises to pay (Name of
+the Investor) BDT. ______________ (taka in words
+
+) upon presentation and
+surrender of this CP to (Name of the IPA) on above mentioned maturity date.
+For and on behalf of:
+
+(Name of the Issuing Company/Institution)
+
+
+
+
+(Authorised Signatory/Signatories)
+
+
+All endorsements upon this commercial paper must be clean and distinct. Each
+endorsement should be written within the space allotted.
+
+--- Page 12 ---
+Page | 9
+
+Annexure C
+Certificate of Issuing & Paying Agent (IPA)
+1. We have a valid IPA agreement with the (Name of Issuing company/Institution)
+2. We have verified the documents (board resolution, certificate issued by Credit
+Rating Agency, guarantor's certificate etc.) submitted by
+
+[Name of the Issuing
+Company/Institution]
+3. We also hereby certify that the signatures of the executants of the attached
+Commercial Paper bearing Sr. No. ______________ dated _______________ for
+BDT.________ (
+and certify that the documents are in order. Certified copies of
+all original documents are held in our custody.
+Taka in words)
+(Authorized Signatory/Signatories)
+tally with the specimen signatures filed by [ Name of
+the issuing Company/Institution ].
+(Name and address of Issuing & Paying Agent)
+Place :
+Date :
+
+--- Page 13 ---
+Page | 10
+
+Annexure D
+Reporting Format
+a. Investment in Commercial Paper
+SL No.
+Name of
+Issuing
+Company
+Date of
+Issue
+Date of
+Expiry
+Amount
+Invested (in
+BDT)
+Total
+investment as
+% of Total
+Capital
+Remarks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b. Issuance of Commercial Paper
+SL No.
+Amount Issued
+(in BDT)
+Date of
+Issue
+Date of Expiry
+% of
+Total
+Capital
+Total
+Issuance as
+% of Total
+Capital
+Remarks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c. Guarantee against Commercial Paper
+SL No.
+Name of the
+Company against
+which Guarantee
+is Issued
+Date of
+Issue
+Date of
+Expiry
+Guarantee
+as % of Total
+Capital
+Total amount of
+Guarantee as %
+of Total Capital
+Remarks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Authorized Signatory/Signatories]
+
+--- Page 14 ---
+Page | 11
+
+Annexure E
+
+Details of Defaults on Repayment
+
+[Authorized Signatory/Signatories]
+
+
+
+
+
+
+
+Name of
+the issuer
+Date of
+issue
+Amount
+(in BDT.)
+Due date of
+repayment
+Whether the
+CP enjoyed a
+guarantee
+facility
+If so, the name of
+the entity
+providing the
+facility indicated
+at Col. (5)
+Whether the
+facility at Col (5)
+has been
+honored and
+payment made.
+Remarks

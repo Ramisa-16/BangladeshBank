@@ -1,0 +1,171 @@
+--- Page 1 ---
+www.bb.org.bd
+
+
+এফইওিড সা̲ȟলার পɖ নͯর ০১
+
+
+
+
+
+তািরখঃ
+তািরখঃ
+
+Εব̝াপনা পিরচালক/ɛধান িনবȟাহী কমȟকতȟা/কািˁ Ζােনজার
+বাংলােদেশ কাযȟরত সকল তফিসিল এিড Εাংক
+
+
+িɛয় মেহাদয়,
+আমদািন ঋণপɖ/ҙিɳপেɖর িবপরীেত নͯর ɛদান পʺিত সামʛΝকরণ (Harmonized) ɛসেʊ।
+
+
+শীষȟক িবষেয় ǰবেদিশক ӑɘা নীিত িবভােগর ০১/১১/২০০১ তািরেখর সা̲ȟলার পɖ নং- এফইিপিড(কম)২০৪/
+২০০১-১৭৯০ ও ফেরন এɼেচʛ অপােরশন িডপাটȟেমে˂র ০৭/০৩/২০১৬ তািরেখর পɖ নং- এফইওিড/ইমেপাটȟ ǯɑড/৯২/
+২০১৬-১১৩৭ এর ɛিত আপনােদর মেনােযাগ আকষȟণ করা যােʑ।
+
+০২) মা̙ার এɼেপাটȟ এলিস’র িবপরীেত ɪɪ/ǯসলস কˁাɰ-এর মাΒেম পΏ আমদািনর জΓ Online Import
+Monitoring System এ ০৪ɪ নҶন এলিস Nature Code (যথাɈেম ফেরন Εাক ҧ Εাক কˁাɰ-এর ǯɻেɖ ǯকাড
+নং- ৩১ ও ৩২ এবং ǯলাকাল Εাক ҧ Εাক কˁাɰ-এর ǯɻেɖ ǯকাড নং- ৩৩ ও ৩৪) চাӗ করা হেয়েছ এবং সংি̈̌ তΐ
+িরেপােটȟর ǯɻেɖ মা̙ার এɼেপাটȟ এলিস’র ǯরফাের˓ Εবহােরর িবষয়ɪ বাΒতাӒলক করা হেয়েছ।
+
+
+০৩) উɳ ০৪ɪ নҶন Code অˉӏȟɳ হওয়ায় আমদািন ঋণপɖ/ҙিɳপেɖর ধরণ অӂযায়ী িসে̙েম সবȟেমাট ৩২ɪ
+Nature Code Εবহার করা যােব। এর মেΒ ǰবেদিশক আমদািনর জΓ ২৪ɪ (০১, ০২, ০৫, ০৬, ০৭, ০৮, ০৯, ১০, ১১,
+১২, ১৫, ১৬, ১৯, ২০, ২১, ২২, ২৩, ২৪, ২৫, ২৬, ২৭, ৩১, ৩২ ও ৯৯) এবং ̝ানীয় আমদািনর জΓ ০৯ɪ (০৩, ০৪, ১৩,
+১৪, ১৭, ১৮, ৩৩, ৩৪ ও ৯৯) Code বরাʸ করা হেয়েছ। উে̂΋ ǯয, ৯৯ Code উভয় ǯɻেɖ ɛেযাজɇ হেব। ǰবেদিশক
+আমদািনর ǯɻেɖ ӆেবȟর Γায় ১২-অংক িবিশ̌ (৯ম ǯথেক ১২তম অব̝ান Serial Number এর জΓ) এবং ̝ানীয়
+আমদািনর ǯɻেɖ ১৩-অংক িবিশ̌ (৯ম ǯথেক ১৩তম অব̝ান Serial Number এর জΓ) আইিড ΕবΉত হেব। Code
+অӂযায়ী ঋণপɖ/ҙিɳপেɖর ɛҍিতর বণȟনা অপর Ӈ̎ায় িবӍত হল।
+
+০৪) আপনােদর এিড শাখাসӒহ কҸȟক উɳ ǯকাডসӒহ Εবহার কের িসে̙েম যথাযথভােব িরেপাɪ ȟং িনি̃ত
+করার পরামশȟ ɛদান করা হল।
+
+
+
+
+
+
+
+
+
+
+
+আপনােদর িব͵̜,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(ǯমাঃ বােয়জীদ সরকার)
+
+
+
+
+
+
+
+পিরচালক (এফইওিড)
+
+
+
+
+
+
+
+ǯফানঃ +৮৮ ০২ ৯৫৩০১২৭
+
+
+
+
+
+
+
+০৭ ǰজɇ̎ ১৪৩১বাং
+২১ ǯম ২০২৪ ইং
+
+--- Page 2 ---
+ফেরন এɼেচʛ অপােরশন িডপাটȟেম˂
+(ইমেপাটȟ ǯɑড শাখা)
+
+
+LC/Contract Harmonized Code List
+
+Foreign LC/Contract (12 digit)
+01
+Cash L/C(Sight)
+02
+Cash L/C(Usance)
+05
+Foreign BTB L/C(Sight)
+06
+Foreign BTB L/C(Usance)
+07
+L/C Under AID/Loan
+08
+L/C Under Special Trading Arrangement (STA)
+09
+Import From EPZ (Cash L/C)(Sight)
+10
+Import From EPZ (Cash L/C)(Usance)
+11
+Import From EPZ (BTB L/C)(Sight)
+12
+Import From EPZ (BTB L/C)(Usance)
+15
+Foreign Contract(DP)
+16
+Foreign Contract(DA)
+19
+Import by EPZ company from outside EPZ within country (Sight)
+20
+Import by EPZ company from outside EPZ within country (Usance)
+21
+Import by EPZ company from outside country (Sight)
+22
+Import by EPZ company from outside country (Usance)
+23
+Import by deemed exported manufacturing units under EDF facility
+24
+Foreign BTB LC by EPZ (Sight)
+25
+Foreign BTB LC by EPZ (Usance)
+26
+Import from Bangladesh by EPZ companies under BTB LC (Sight)
+27
+Import from Bangladesh by EPZ companies under BTB LC (Usance)
+31
+Foreign BTB Contract (BBDP)
+32
+Foreign BTB Contract (BBDA)
+99
+Others(L/C)
+
+Local LC/Contract (13 digit)
+03
+Inland BTB L/C(Sight)
+04
+Inland BTB L/C(Usance)
+13
+Local Contract(DP)
+14
+Local Contract(DA)
+17
+Import by EPZ company from EPZ company (Sight)
+18
+Import by EPZ company from EPZ company (Usance)
+33
+Inland BTB Contract (LBBDP)
+34
+Inland BTB Contract (LBBDA)
+99
+Others(L/C)

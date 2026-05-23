@@ -1,0 +1,410 @@
+--- Page 1 ---
+BANGLADESH BANK
+Head Office
+Post Box No.-325
+Dhaka.
+
+DOS Circular No.-01 Date: 01/01/2015
+
+Chief Executives
+All Scheduled banks in Bangladesh
+
+
+Implementation of Basel III Liquidity Ratios
+
+Bangladesh Bank has declared the road map for implementing the Revised Regulatory Capital
+Framework for banks in line with Basel III in Bangladesh starting from the year 2015. According to
+the revised road map issued vide BRPD Circular No. 18/2014, banks have to maintain the
+minimum standard Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio (NSFR) from
+January 2015. The minimum standard for LCR shall be greater than or equal to 100 and for NSFR
+it shall be greater than 100. It may be mentioned that, all scheduled banks are already familiar
+with these ratios since they have reported these several times, although in an experimental
+basis, in 2014. In order to further facilitate the reporting process, a “Guidance Note on Liquidity
+Coverage Ratio (LCR) & Net Stable Funding Ratio (NSFR)” is attached with this circular (Annexure-
+1). Banks have to submit information (both soft and hard copy) to Department of Off-site
+Supervision (DOS) regarding LCR and NSFR in the following manner :
+a) Statement Regarding Liquidity Position- to be submitted monthly, based on the balances of
+last day of the reporting month, within 15th of the following month.
+b) Statement Regarding Funding Position- to be submitted quarterly, based on the balances of
+last day of the reporting quarter, within 15th of the following month.
+Two reporting formats (Macro) have been prepared for this purpose and banks are advised to
+collect the formats from DOS.
+This circular is issued with immediate effect.
+
+
+Sincerely yours,
+
+Sd./-
+
+(S. M. Rabiul Hassan)
+General Manager
+Phone: 9530093
+
+
+
+
+
+
+
+
+
+
+
+
+Website:www.bb.org.bd
+Department of Off-site Supervision
+
+--- Page 2 ---
+Annexure-1
+
+Bangladesh Bank
+(Department of off-site Supervision)
+
+Guidance Note on Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio (NSFR)
+
+Liquidity Coverage Ratio:
+LCR or Liquidity Coverage Ratio is a new liquidity standard introduced by the Basel Committee.
+This standard is built on the methodologies of traditional liquidity coverage ratio used by banks
+to assess exposure to contingent liquidity events. LCR aims to ensure that a bank maintains an
+adequate level of unencumbered, high-quality liquid assets that can be converted into cash to
+meet its liquidity needs for 30 calendar days. LCR goes beyond measuring the need for liquid
+assets over the next 30 days in a normal environment. It measures the need for liquid assets in a
+stressed environment, in which deposits and other sources of funds (both unsecured and
+secured) run off, to various extents, and unused credit facilities are also drawn down in various
+magnitudes. These runoffs are in addition to contractual outflows.
+The equation:
+
+Definitions for the LCR:
+The calculation of the LCR requires three important quantities to be defined:
+A. Total value of stock of high quality liquid assets
+B. Total cash outflows, next 30 days (stressed scenario)
+C. Total cash inflows, next 30 days (stressed scenario)
+
+LCR requirement is met if A is greater than B – C; that is, if high quality liquid assets
+exceed net cash outflows under the stressed scenario. (To make the metric even more
+conservative, C is capped at 75 percent of B.)
+Stock of high quality liquid asset (SHQLA):
+The following components are included in the computation of SHQLA -
+1. Cash on hand (Lcy + Fcy)
+2. Balance with BB (Lcy+ Fcy, excluding lien)
+3. Un-encumbered approved securities (excluding lien)
+Capital maintained with BB by the foreign banks in the form of local currency, foreign
+currency or Govt. securities will not be included in the computation of SHQLA (Stock of high
+quality liquid asset).
+
+
+Page 1/8
+
+--- Page 3 ---
+Net Stable Funding Ratio:
+NSFR or Net Stable Funding Ratio is another new standard introduced by the Basel Committee.
+The NSFR aims to limit over-reliance on short-term wholesale funding during times of abundant
+market liquidity and encourage better assessment of liquidity risk across all on- and off-balance
+sheet items. The minimum acceptable value of this ratio is 100 percent, indicating that available
+stable funding (ASF) should be at least equal to required stable funding (RSF). ASF consists of
+various kinds of liabilities and capital with percentage weights attached given their perceived
+stability. RSF consists of assets and off-balance sheet items, also with percentage weights
+attached given the degree to which they are illiquid or “long-term” and therefore requires stable
+funding. The time horizon of the NSFR is one year. Like the LCR, the NSFR calculations assume a
+stressed environment.
+The equation:
+
+Definitions of the NSFR:
+The calculation of the NSFR requires two quantities to be defined:
+A. available stable funding (ASF) and
+B. required stable funding (RSF).
+
+NSFR is met if ASF exceeds RSF, that is if ASF/RSF > 1 or 100%.
+To facilitate the calculation and reporting of LCR and NSFR, Bangladesh Bank will provide a
+reporting template (macro) with necessary instructions. The standard "Run-off factors" and
+"Weight factors" are generally applicable for all banks, which for the time being are not
+disclosed. Banks are advised to develop methodology to determine their own "Run-off factors"
+and "Weight factors" for future use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 2/8
+
+--- Page 4 ---
+Liquidity Coverage Ratio (LCR)
+
+1. Customer Deposit (excluding Financial Institutions):
+
+a. Current:
+
+All deposits from customer those are current in nature and 10% of Savings deposit shall
+be included.
+
+b. Savings:
+90% of customer’s saving account balance shall be reported.
+c. Fixed (less than1 month):
+Fixed deposits from customer with maturity one month or less, without considering the
+renewal option, shall be reported.
+d. Fixed (more than 1 month):
+All fixed deposits from customer with maturity one month and above shall be reported.
+Note: Interest accrued on above accounts shall be included.
+2. Deposit from Financial Institutions:
+a. Current:
+All deposits from financial institution those are current in nature shall be reported.
+b. Fixed (less than1 month):
+Fixed deposits from financial institution with maturity one month or less, without
+considering the renewal option, shall be reported.
+c. Fixed (more than 1 month):
+All fixed deposits from financial institution with maturity one month and above shall be
+reported.
+Note: Interest accrued on above accounts shall be included.
+3. REPO:
+Interbank REPO amount and REPO with Bangladesh Bank, drawn portion of ALS (Assured
+Liquidity Support), ELA (Emergency Liquidity Assistance) shall be reported.
+4. Other borrowings and placement received:
+Call and other borrowings (in home and in abroad) in the form of placement or any other
+way shall be reported.
+5. All other monetary liabilities issued by the bank that do not fit into one of the above
+categories:
+Demand Liabilities
+Outstanding Bills, Payment Orders, Telegraphic Transfer & MT, Outstanding Drafts, Draft
+Payable Account, Demand Draft, Hajj Deposit, Bonus scheme Remittance Payable, Branch
+Remittance Payable, Bills Payable, Certificate Payable, Foreign Currency Deposit account,
+Unsold balance of NFCD account, Convertible Taka account, Margin on L/Cs, Margin on
+
+
+
+Page 3/8
+
+--- Page 5 ---
+Guaranties, Security Deposit accounts, Unclaimed Dividend/Dividend Payable, Credit
+Balance and adjustment account, Sundry deposit accounts, any other miscellaneous
+deposit payable on demand.
+Time Liabilities
+Employees’ Provident Fund Account, Staff Pension Fund, Staff Guarantee or Security
+Fund, Contribution towards Insurance Fund, Margin account-Foreign Currency, Liabilities
+towards Foreign banks/Correspondence bank, Bi-lateral trade liabilities, any other
+miscellaneous liabilities payable on notice or after a specific period.
+6. Undrawn portion of lines of credit (continuous loans):
+Undrawn portion of Cash Credit (CC) and Overdraft (OD) shall be reported.
+7. Undrawn portion of lines of credit (Term loans):
+Undrawn portion of fixed term loan shall be reported.
+8. Amounts outstanding of commercial letters of credit (settlement date within the next
+30 days):
+Outstanding L/C maturing within next 30 days and total outstanding sight L/C (without
+considering other options) shall be reported.
+9. Amounts outstanding of guarantees, standby letters of credit, performance bonds, bid
+bonds, Acceptances and similar instruments.
+10. All contractual cash outflows within the next 30 days:
+The contractual outflows such as dividend, vendor payment, payment for construction
+etc. shall be reported. Outflows related to operating cost and payment obligations
+(interest etc.) for deposits shall not be included.
+11. Loans to financial institutions, such as reverse repos, backed by assets that are
+considered high-liquid:
+The amount of loans provided (e.g. interbank reverse repo etc.) to financial institution
+those are secured by high liquid assets shall be reported here. High Liquid Assets are
+Government Securities (T. Bills and T. Bonds).
+12. Loans to financial institutions backed by assets that are not considered high-liquid:
+The amount of loans provided to financial institution those are secured by assets (e.g.
+fixed deposit receipt) shall be reported.
+13. Principal and interest receivables, on performing Term loans, from all non-financial
+customers within the next 30 days:
+Principal and Interest receivable (according to loan repayment scheduled) on performing
+term loans provided to customers (other than Banks & NBFIs) shall be reported.
+14. Cash on hand (Lcy+Fcy):
+Cash on hand in the form of both Local and Foreign Currency (equivalent BDT) shall be
+reported.
+15. Balance with Bangladesh Bank:
+(All balances shall be reported without any deduction)
+Page 4/8
+
+--- Page 6 ---
+a. Local Currency Total (Total TK. current account balance with BB)
+Lien with BB as Capital
+Lien with BB for other purposes
+b. Foreign Currency Total (Total FC clearing account balance with BB)
+Lien with BB as Capital
+16. Book value of unencumbered eligible GOVT. Securities in HTM portfolio (T. bill & T.
+bond):
+(All balances shall be reported without any deduction)
+Book value of unencumbered Government Treasury bill, Treasury bond, and Bangladesh
+Bank bill classified as Held-to-maturity (HTM) shall be reported.
+Book value of securities marked as Capital with BB
+
+17. Book value of other unencumbered eligible GOVT. Securities in HTM portfolio:
+Other securities, eligible for SLR and BGIIB (Bangladesh Government Islami Investment
+Bond) shall be reported. Balance Kept with Islamic Refinance Account (only for banks
+based on Islami Shariah) and Reverse repo with Bangladesh Bank shall also be reported.
+18. Market Value of unencumbered eligible GOVT. Securities in HFT portfolio (T. bill & T.
+bond):
+Unencumbered Government Treasury bill, Treasury bond, and Bangladesh Bank bill
+classified as Held-for-trading (HFT) shall be reported.
+Market Value of securities acquired under Reverse repo:
+Securities acquired under reserve repo as mentioned in serial No. 11 shall be reported.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 5/8
+
+--- Page 7 ---
+Net Stable Funding Ratio (NSFR)
+
+1. Regulatory Capital (consolidated):
+Regulatory Capital as on last quarter under Basel-II (excluding all revaluation reserves)
+shall be reported.
+2. Customer Deposit (excluding Financial Institutions):
+a. Current:
+All deposits from customer those are current in nature and 10% of Savings deposit shall
+be included.
+b. Savings:
+90% of customer’s saving account balances shall be reported.
+c. Fixed (1 month or less):
+Fixed deposits from customer with maturity one month or less, without considering the
+renewal option, shall be reported.
+d. Fixed (more than 1 month to less than 1 year):
+All fixed deposits from customer with maturity one month and above shall be reported.
+Note: Interest accrued on above accounts shall be included.
+3. Deposit from Financial Institutions:
+a. Current:
+All deposits from financial institution those are current in nature shall be reported.
+b. Fixed (1 month or less):
+Fixed deposits from financial institution with maturity one month or less, without
+considering the renewal option, shall be reported.
+c. Fixed (more than 1 month to less than 1 year):
+All fixed deposits from financial institution with maturity more than one month and
+above shall be reported.
+Note: Interest accrued on above accounts shall be included.
+4. Liabilities with a remaining maturity of one year or more (excluding those mentioned in
+2, 3, 5 and 6):
+Employees’ Provident Fund Account, Staff Pension Fund, Employees’ Security Deposits, Staff
+Guarantee or Security Fund, Contribution towards Insurance Fund, Margin account-Foreign
+Currency, Liabilities towards Foreign banks/Correspondence bank, Bi-lateral trade liabilities,
+any other miscellaneous liabilities payable on notice or after a specific period.
+5. All other monetary liabilities (excluding those mentioned in 2,3,4 above and amounts
+owed to financial institutions):
+Outstanding Bills, Payment Orders, Telegraphic Transfer & MT, Outstanding Drafts, Draft
+Payable Account, Demand Draft, Hajj Deposit, Bonus scheme Remittance Payable, Branch
+Remittance Payable, Bills Payable, Certificate Payable, Foreign Currency Deposit account,
+Unsold balance of NFCD account, Convertible Taka account, Margin on L/Cs, Margin on
+Guaranties, Lockers Key Security Deposits, Security Deposit accounts (amount deposited by
+
+Page 6/8
+
+--- Page 8 ---
+Supplier of stationary and furniture etc. as security), Unclaimed Dividend/Dividend Payable,
+Credit Balance and adjustment account, Sundry deposit accounts, any other miscellaneous
+deposit payable on demand.
+6. Amount owed to financial institutions:
+Call money or similar type (e.g. Placement received) borrowing shall to be reported.
+7. Residential Mortgages, regardless of maturity, those qualify for the 50% RW under Basel
+ll Standardized Approach:
+Claims fully secured by residential property (excluding staff loans/Investment) that carry
+50% risk weight under Basel II capital requirement for credit risk on balance sheet
+exposures shall be reported.
+8. Loans to non-financial client other than natural persons or small businesses with a
+residual maturity of less than a year:
+Amount of loan provided to non-financial corporate customers shall be reported.
+9. Other Loans to non-financial clients with remaining maturity of one year or more, those
+qualify for the 50% RW under Basel ll Standardized Approach:
+Claims on public sector entities (excluding equity exposure) and claims on corporate
+(excluding equity exposure) that carry 50% risk weight under Basel II capital requirement
+for credit risk on balance sheet exposures shall be reported.
+10. Loans to natural persons or small businesses with a residual maturity of less than a
+year:
+Amount of loan provided to Individual Customer and Small Business shall be reported.
+11. All loans (excluding those mentioned from 7 to 10 and 21 to 22) with a residual maturity
+of one year or more:
+12. Cost price of debt securities (excluding those issued by other FIs) with a residual
+maturity of one year or more:
+Debt securities include Treasury Bonds (BGTB) and other Treasury Bonds as well as
+Bangladesh Govt. Islami Investment Bond (if any).
+13. Cost price of debt securities (excluding those issued by other FIs) with a residual
+maturity of less than one year:
+These include Treasury Bills, Treasury Bonds (BGTB) and other Treasury Bonds as well as
+Bangladesh Govt. Islami Investment Bonds with a residual maturity of less than 1 year.
+14. Undrawn portion of lines of credit (continuous loans):
+Undrawn portion of Cash Credit (CC) Loan and Overdraft (OD) Loan shall be reported.
+15. Undrawn portion of lines of credit (Term loans):
+Only undrawn portion of fixed term loan shall be reported here.
+16. Amounts outstanding of commercial letters of credit:
+Outstanding L/Cs (including sight L/C), without considering other options shall be
+reported.
+Page 7/8
+
+--- Page 9 ---
+17. Amounts outstanding of guarantees, standby letters of credit, performance bonds, bid
+bonds, acceptances and similar instruments:
+18. Debt securities, regardless of maturity, issued by other financial institutions/corporate
+or individual institutions (cost price):
+Investment in sub-debt instruments, corporate bonds, commercial papers and similar
+instruments issued by other financial institutions shall be reported.
+19. Fixed assets (Cost Price):
+Fixed assets at cost price stated in last audited balance sheet shall be reported.
+20. Other Investments:
+a. Non traded equity securities (cost price)
+Non traded equity securities such as; preference share, sponsor share, CDBL share
+etc. are to be reported.
+b. Mutual Fund Unit (cost price)
+c. Capital provided to own subsidiaries
+d. Publicly-traded equity securities (cost price)
+21. Loans to, and deposits in, other financial institutions in Bangladesh:
+a. Loans
+Loans provided to other financial institutions including own subsidiary shall be
+reported.
+b. Deposits/Placement
+Funds deposited/Placement with other financial institutions including own subsidiary
+shall be reported.
+22. Loans to, and deposits in, other financial institutions outside Bangladesh:
+a. Loans
+Loans provided to other financial institutions outside Bangladesh including own
+subsidiary and Off-shore Banking Unit (OBU) shall be reported.
+b. Deposits/Placement
+Funds deposited/Placement with other financial institutions including own subsidiary
+and Off-shore Banking Unit (OBU) shall be reported.
+23. Claims on Bangladesh Bank:
+Funding under refinancing scheme, such as; EDF, Agricultural loan etc. shall be reported.
+24. Cash on hand (Lcy+Fcy):
+Cash on hand in the form of both Local and Foreign Currency (equivalent BDT) shall be
+reported.
+25. All other assets not mentioned above:
+Balance with BB plus other financial assets not mentioned above shall be reported.
+
+
+
+
+Page 8/8

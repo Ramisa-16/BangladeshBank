@@ -1,0 +1,1158 @@
+--- Page 1 ---
+Foreign Exchange Investment Department
+Bangladesh Bank
+Head Office
+Dhaka.
+Website: www.bb.org.bd
+
+FEID Circular Letter No. 04/2014
+
+
+
+
+
+Date: 30/06/2014
+
+Head Offices /Principal Offices of
+All Authorized Dealers (ADs) in Bangladesh
+
+Dear Sirs,
+
+Online submission of application along with necessary documents
+for permission under Section 18B of Foreign Exchange Regulation (FER) Act, 1947.
+
+
+Pursuant to Section 18B of the FER Act, 1947, an organization not incorporated in
+Bangladesh needs to take general or special permission from Bangladesh Bank to set up a Branch/
+Liaison Office or any other business place in Bangladesh. In order to obtain permission under the
+aforesaid Section, necessary measures have been taken for the submission of application along with
+other documents to Bangladesh Bank through online. Hence, the following decisions will come into
+force with immediate effect:
+
+(1) In conformity with the instructions given in App. 6/3 of Guideline for Foreign Exchange
+Transactions (Vol.-1), 2009 and FEID Circular Letter No. 02/2010 dated 23/11/2010, the respective
+applicant will have to submit his application along with relevant documents signed by their
+designated officer to the AD bank for getting permission from this office
+
+(2) A forwarding letter prepared in accordance with the format as stated in Annexure-1 of FEID
+Circular Letter No-04/2013 dated 20/03/2013 and all other documents of the applicant institution will
+have to be submitted by the AD Bank to Bangladesh Bank through online following the system
+described in the FEID Circular Letter -05/2013 dated 03/04/2013. For more information and
+necessary assistance in this regard, a user manual v0.4 (Executive User Manual V0.4) is attached
+herewith in annexure-1.
+
+It is to be mentioned that the User ID and Password earlier provided to the AD banks while
+submission of application through online for permission under section 18A of FER Act, 1947 shall
+be applicable for online submission of application for permission under section 18B of FER Act,
+1947. There is no necessity to collect new User ID and Password for this purpose.
+
+(3) To get permission under Section 18A of FER Act, 1947 the non residents working in the
+Branch / Liaison Office / other business places permitted under Section 18B of FER Act, 1947, the
+application and relevant documents are required to be submitted only in hardcopy as before. The
+instructions regarding online submission of application for getting permission under Section 18B of
+FER Act 1947 are not applicable in this case.
+
+(4) The conventional system of submitting application in hardcopy to Bangladesh Bank vis-à-vis
+the aforesaid online submission of application for obtaining permission to set up Branch / Liaison
+Office / business place in Bangladesh shall remain effective up to the date of 02/10/2014. Once the
+deadline is over, no application in hardcopy shall be allowed; all applications along with necessary
+documents will have to be submitted exclusively through online.
+P.T.O.
+
+--- Page 2 ---
+-02-
+
+(5) For obtaining permission to set up Branch / Liaison Office / other business place, the
+provisions mentioned in articles 02 & 04 of FEID Circular Letter No. 04/2013 dated 20/03/2013 with
+regard to submission of electronic copy of AD bank’s forwarding letter only, getting ad-hoc
+permission through email and cancellation of that ad-hoc permission will remain unchanged.
+
+(1) All the above-mentioned provisions will also be applicable for other area offices of
+Bangladesh Bank.
+
+(2) The following email address may be contacted to get clarification on any point of this
+circular or for any information:
+gm.feid@bb.org.bd
+Furthermore, in case of emergence of any problem related to IT and software; to get
+clarification on any point or for any information, the ADs may contact to the following email
+addresses:
+imtiaz.kabir@bb.org.bd
+amirul.islam2203@bb.org.bd
+
+ADs are advised to play active role in implementing the decisions stated above and bringing
+those to the notice of all concerned. In this context, concerned Ads will be brought under punitive /
+disciplinary action if any kind of business function including export-import is hampered or if any
+complaint regarding customer harassment is proved due to their negligence / slackness.
+
+Please acknowledge receipt.
+
+
+
+
+
+
+
+
+
+
+Yours faithfully
+
+
+
+
+
+
+
+
+
+
+s/d.
+
+
+
+
+
+
+
+
+
+( Nurun Nahar)
+
+
+
+
+
+
+
+
+Deputy General Manager
+
+
+
+
+
+
+
+
+
+Phone: 9530488
+
+--- Page 3 ---
+FEID ʹ Online Agent Information Management System
+Executive User Manual v0.4
+
+
+
+
+
+
+
+
+
+
+
+
+IT Operation & Communication Department
+^2iYbGSd-w
+
+--- Page 4 ---
+Preface
+The Executive User Manual v0.4 is the immediate version of v0.1. There are no other release in
+between. The fact is that though there are many internal changes and adjustments are done,
+the executive user interface viewpoint doesn't effected that much and hence we didn't produce
+any immediate release of the manual in between. But this release has gone through some
+major modification (such as addition of 18B interface) which will appear as new inclusion for
+users. For the convenience of reader chapters in this manual are subdivided into three groups.
+Group one consists of Chapter 2, 3, 5, 8; Group two consists of Chapter 6, 9; and Group three
+consists of Chapter 4, 7, 10. By reading only one chapter from each group one can envision the
+overall functionality of the whole system.
+
+--- Page 5 ---
+Table of Contents
+
+1. Introduction ............................................................................................................................................ 5
+2. Agent Information Manager .................................................................................................................. 9
+3. Principal Information Manager ............................................................................................................ 13
+4. Principal Permission Manager ............................................................................................................. 17
+5. Airlines Office Information Manager ................................................................................................... 29
+6. Airlines Branch Information Manager ................................................................................................. 33
+7. Airlines Branch Permission Manager ................................................................................................... 37
+8. Other Office Information Manager ...................................................................................................... 49
+9. Other Branch Information Manager .................................................................................................... 53
+10. Other Office Permission Manager ....................................................................................................... 57
+11. Frequently Asked Questions ................................................................................................................ 69
+
+--- Page 6 ---
+(this page is intentionally left blank)
+
+--- Page 7 ---
+1. Introduction
+
+1.1. FEID-Online Agent Information Management System (OAIMS) is developed to manage the
+online applications of various agents and foreign companies along with their principles and
+local branch offices respectively. The system also automates the internal application processing
+system of FEID. The business process of this software system is depicted below:
+
+Foreign Company
+Agent
+Bank
+Branch
+Permission
+Principle 1
+Documents
+18A
+18B
+Principle N
+Branch
+18A
+18B
+File No / Order No,
+Permission Details
+
+
+The picture above shows the fundamental relationship among strong entities. The creation of
+application depends on some data of agent or foreign companies and its associated documents.
+To submit an application one have to create an agent / home office ĨŝƌƐƚ;ŝĨŝƚ͛ƐĂŶĞǁĐŽŵƉĂŶǇͿ
+then the principals / local branches it want to be associated with (if the principals / branches
+are also new) and finally some documents to validate the business.
+
+--- Page 8 ---
+1. Introduction
+
+1.2. The link of FEID-OAIMS is hosted on Bangladesh Bank web site www.bb.org.bd. To go to
+FEID-OAIMS browse Bangladesh Bank web site then click on to Services menu item and click E-
+Services, finally click Online Agent Information Management System
+
+
+
+
+
+
+
+
+
+
+
+
+After clicking Online Agent Information Management System following web page will appear:
+
+--- Page 9 ---
+1. Introduction
+
+1.3. After using Email Address, Password field and then by pressing LOGIN button, user will be
+able to Sign In the system. Executive users will get a summary of his branch in the home page.
+
+--- Page 10 ---
+1. Introduction
+
+Here the first table is showing the number of companies that are permitted by Bangladesh Bank
+and operating under the Motijheel C/A Branch of Test Bank Ltd.
+Please note the numbers presented in second and
+third table, are the summary in terms of the number
+of principals / branch offices, not the number of
+agents / home offices.
+For example the first row of second table meaning
+that there are 9 active, 7 saved, 11 submitted and 3
+rejected principals in the Motijheel C/A Branch of
+Test Bank Ltd that are used by different agents to get
+permission with.
+And first row of second table meaning that there are
+8 active, 7 saved, 3 submitted and 2 rejected
+principals in the Motijheel C/A Branch of Test Bank
+Ltd that are used by different buying agents to get
+permission with.
+The figure on the left showing the left menu of
+executive user. From v0.4 we have incorporated two
+sets of menu items. One for 18A Permission and
+another of 18B Permission.
+18A Permission menu is currently designed to deal
+with every type of 18A related permissions except
+Foreign Expatriate*.
+18B Permission menu is designed to deal with
+permissions of Airlines and all Other types of foreign
+companies.
+Details of the submenu items under 18A and 18B are
+provided in the following chapters.
+
+
+* The application procedure and operation of Foreign Expatriate currently kept out of the scope of v0.4, hopefully we will
+incorporate it in next version.
+
+--- Page 11 ---
+2. Agent Information Manager
+2.1. The submenu item Agent Information Manager is designed to manage information of
+companies that want to get permission under FERA 18A act. Using this menu an executive user
+can list previously created agents and create new agents if necessary.
+An agent can be created in the system by
+using add new (
+) button of Agent
+Information Manager.
+BĞĨŽƌĞ ĐƌĞĂƚŝŽŶ ŝƚ͛Ɛ Ă ŐŽŽĚ ƉƌĂĐƚŝĐĞ ƚŽ
+check whether someone else have
+already created it, or it already exists.
+This checking will help and prevent
+executive users from creating duplicate
+information in the system.
+List of agents can be found from the search box. Please note the output of search is listed in the
+descending order of create date.
+
+--- Page 12 ---
+2. Agent Information Manager
+10
+2.2. If the desired agent is not present in the list then one can create it by clicking the add new
+) button.
+
+In the creation screen fields preceded with (*) marks are mandatory. At any form/screen,
+movement towards backward of action sequence can be done by using back sequence links.
+
+--- Page 13 ---
+2. Agent Information Manager
+11
+2.3. Details of an agent can be seen from view (
+) link of the list.
+2.4. From view screen, information of an agent can be printed in pdf format using print (
+link.
+
+--- Page 14 ---
+2. Agent Information Manager
+12
+Listed information can also be printed in pdf format or exported in excel file using respective
+search ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+A user can customize the headers of excel file using ƌĞƐƉĞĐƚŝǀĞƉĂŐĞ͛Ɛ customize (
+) link.
+
+--- Page 15 ---
+3. Principal Information Manager
+13
+3.1. Principals information can be managed in the system using Principal Information Manager
+sub menu item under 18A Permission menu.
+A principal can be created in the system
+by using add new (
+) button of Principal
+Information Manager.
+Before creation iƚ͛Ɛ Ă ŐŽŽĚ ƉƌĂĐƚŝĐĞ ƚŽ
+check whether someone else have
+already created it, or it already exists.
+This checking will help and prevent
+executive users from creating duplicate
+information in the system.
+List of principals can be found from the search box. Please note the output of search is listed in
+the descending order of create date.
+
+--- Page 16 ---
+3. Principal Information Manager
+14
+3.2. If the desired principal is not present in the list then one can forward towards the creation
+process by clicking the add new (
+) button.
+In the creation screen fields preceded with (*) marks are mandatory. At any form/screen,
+movement towards backward of action sequence can be done by using back sequence links.
+
+--- Page 17 ---
+3. Principal Information Manager
+15
+3.3. Details of a principal can be seen from view (
+) link of the list.
+3.4. From view screen, information of a principal can be printed in pdf format using print (
+link.
+
+--- Page 18 ---
+3. Principal Information Manager
+16
+Listed information can also be printed in pdf format or exported in excel file using respective
+search ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+
+--- Page 19 ---
+4. Principal Permission Manager
+17
+4.1. The Principal Permission Manager submenu, under 18A Permission menu is designed to
+facilitate and manage online application of agents, according to FERA 18A act.
+From this submenu, on behalf of agents
+Banker's can apply for permission by
+associating an agent with some principals
+and uploading the necessary documents in
+pdf format.
+Any numbers of agents or principals can
+be created in the system by using Agent
+Information
+Manager
+or
+Principal
+Information
+Manager.
+But
+those
+companies
+will
+not
+be
+treated
+as
+permitted entities under FERA 18A act, until or unless their applications are being submitted
+with valid documents through Principal Permission Manager submenu and are activated.
+Any agent that have an Active existence under this submenu will be treated as permitted by
+Bangladesh Bank under FERA 18A. Details of Active, Submitted, Saved and Rejected status were
+discussed in subsequent sections.
+4.2. The application process begins from the add new (
+) button.
+
+--- Page 20 ---
+4. Principal Permission Manager
+18
+
+At the beginning of the process the user has to select a map. There are different mandatory
+document requirements for different types of application based on permission act (18A / 18B),
+permission type (new / inclusion / renewal etc), agent type (buying / indenting etc). The type of
+agent and its ownership type are usually associated with agent name (during the time of
+creation, agent type and ownership type were declared within).
+Please note,
+agents those
+exists / created
+under Agent
+Information
+Manager should
+be available in
+the dropdown
+list. The
+unavailability of
+a target agent
+means it doesn't
+exists under
+Agent
+Information
+Manager and
+hence should be
+created in the
+Agent
+Information
+Manager first.
+
+After selection of necessary information one can proceed towards the creation of application
+by pressing Proceed button. According to permission act, permission type, company type and
+ownership type there will be a list of mandatory documents that should be uploaded.
+
+--- Page 21 ---
+4. Principal Permission Manager
+19
+
+--- Page 22 ---
+4. Principal Permission Manager
+20
+
+In creation page principal names can be selected from the dropdown list. Multiple principals
+can be checked and added here under a single agent. Please note only principals those exist /
+created under Principal Information Manager will be available here. The unavailability of a
+target principal means it doesn't exists under Principal Information Manager and hence
+should be created in the Principal Information Manager first.
+
+
+
+
+
+
+
+
+
+From the Application Office drop down list, the nearest Bangladesh Bank branch can be
+selected in which the AD Branch of Bank wants to submit application (usually the selection of
+Bangladesh Bank branch should be based on the address of the Agent in trade license). In the
+creation screens fields preceded with (*) marks are mandatory.
+
+--- Page 23 ---
+4. Principal Permission Manager
+21
+
+After selection of Principals, Application Office and careful attachment of documents, by
+clicking the create button at the bottom of the form, the application can be saved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please note the application will not be submitted to Bangladesh Bank until someone submits
+it using the submit button. The saved applications will show a comment at the top of the form
+with the date of creation.
+
+--- Page 24 ---
+4. Principal Permission Manager
+22
+
+--- Page 25 ---
+4. Principal Permission Manager
+23
+
+The submitted application will show relevant comment at the top of form and there will be no
+further process button on the page for submitted applications.
+
+--- Page 26 ---
+4. Principal Permission Manager
+24
+
+4.3. From the search page one can search for different applications (Active, Saved, Submitted
+and Rejected) using various criteria or a mix of them. Please note the output of search is listed
+in the descending order of create date. In the result list there will be a summary of existing
+record with their status. An executive user can only delete the rejected and saved applications.
+
+--- Page 27 ---
+4. Principal Permission Manager
+25
+4.4. Details of an application can be viewed from view (
+) link of the list. The active
+applications are applications that are approved and hence will show file number, permission
+number, permission start and end date etc. From view screen, information of an agent can be
+printed in pdf format using print (
+) link.
+
+--- Page 28 ---
+4. Principal Permission Manager
+26
+
+--- Page 29 ---
+4. Principal Permission Manager
+27
+
+The rejected applications will show the rejection details and by re-uploading all necessary
+documents they can be re-submitted.
+
+--- Page 30 ---
+4. Principal Permission Manager
+28
+4.5. Listed information can be printed in pdf format or exported in excel file using respective
+ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+Also the headers of excel file and information on listed output can be customized using
+ƌĞƐƉĞĐƚŝǀĞƉĂŐĞ͛Ɛ customize (
+) link.
+
+--- Page 31 ---
+5. Airlines Office Information Manager
+29
+5.1. The submenu item Airlines Office Information Manager is designed to manage information
+of foreign airlines that want to get permission under FERA 18B act. Using this menu an
+executive user can list previously created airline offices and create new offices if necessary.
+An airline office can be created in the
+system by using add new (
+) button of
+Airlines Office Information Manager.
+BĞĨŽƌĞ ĐƌĞĂƚŝŽŶ ŝƚ͛Ɛ Ă ŐŽŽĚ ƉƌĂĐƚŝĐĞ ƚŽ
+check
+whether someone else have
+already created it, or it already exists.
+This checking will help and prevent
+executive users from creating duplicate
+information in the system.
+List of airlines can be found from the search box. Please note the output of search is listed in
+the descending order of create date.
+
+--- Page 32 ---
+5. Airlines Office Information Manager
+30
+5.2. If the desired airline office is not present in the list then one can create it by clicking the
+add new (
+) button.
+In the creation screen fields preceded with (*) marks are mandatory. At any form/screen,
+movement towards backward of action sequence can be done by using back sequence links.
+
+--- Page 33 ---
+5. Airlines Office Information Manager
+31
+5.3. Details of an airline office can be seen from view (
+) link of the list.
+5.4. From view of screen, information of an airline office can be printed in pdf format using
+print (
+) link.
+
+--- Page 34 ---
+5. Airlines Office Information Manager
+32
+Listed information can also be printed in pdf format or exported in excel file using respective
+search ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+A user ĐĂŶĐƵƐƚŽŵŝǌĞƚŚĞŚĞĂĚĞƌƐŽĨĞǆĐĞůĨŝůĞƵƐŝŶŐƌĞƐƉĞĐƚŝǀĞƉĂŐĞ͛ƐĐƵƐƚŽŵŝǌĞ;
+) link.
+
+--- Page 35 ---
+6. Airlines Branch Information Manager
+33
+6.1. Airlines local branch information can be managed in the system using Airlines Branch
+Information Manager sub menu item under 18B Permission menu.
+An airline branch can be created in the
+system by using add new (
+) button of
+Airlines Branch Information Manager.
+BĞĨŽƌĞ ĐƌĞĂƚŝŽŶ ŝƚ͛Ɛ Ă ŐŽŽĚ ƉƌĂĐƚŝĐĞ ƚŽ
+check whether someone else have
+already created it, or it already exists. This
+checking will help and prevent executive
+users
+from
+creating
+duplicate
+information in the system.
+List of branches can be found from the search box. Please note the output of search is listed in
+the descending order of create date.
+
+--- Page 36 ---
+6. Airlines Branch Information Manager
+34
+6.2. If the desired airline branch is not present in the list then one can forward towards the
+creation process by clicking the add new (
+) button.
+In the creation screen fields preceded with (*) marks are mandatory . At any form/screen,
+movement towards backward of action sequence can be done by using back sequence links.
+Please note, the creation of branch requires existence o f airlines home office, if a particular
+airline home office is missing in drop down list then one have to create it in Airlines Office
+Information Manager first.
+
+--- Page 37 ---
+6. Airlines Branch Information Manager
+35
+6.3. Details of a branch office can be seen from view (
+) link of the list.
+6.4. From view of screen, information of a branch office can be printed in pdf format using print
+) link.
+
+--- Page 38 ---
+6. Airlines Branch Information Manager
+36
+Listed information can also be printed in pdf format or exported in excel file using respective
+search ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+
+--- Page 39 ---
+7. Airlines Branch Permission Manager
+37
+7.1. The Airlines Branch Permission Manager submenu, under 18B Permission menu is designed
+to facilitate and manage online application of airline branches, according to FERA 18B act.
+From this submenu, on behalf of airlines
+Banker's can apply for permission by
+associating
+an
+airline
+with
+local
+office/branch and uploading the necessary
+documents in pdf format.
+Any numbers of airline or branch can be
+created in the system by using Airlines
+Office Information Manager or Airlines
+Branch Information Manager. But those
+companies
+will
+not
+be
+treated
+as
+permitted entities under FERA 18B act, until or unless their applications are being submitted
+with valid documents through Airlines Branch Permission Manager submenu and are
+activated.
+Any airline branch that have an Active existence under this submenu will be treated as
+permitted by Bangladesh Bank under FERA 18B. Details of Active, Submitted, Saved and
+Rejected status were discussed in subsequent sections.
+7.2. The application process begins from the add new (
+) button.
+
+--- Page 40 ---
+7. Airlines Branch Permission Manager
+38
+
+At the beginning of the process the user has to select a map. There are different mandatory
+document requirements for different types of application based on permission act (18A / 18B),
+permission type (new / inclusion / renewal etc), office type (airline home office). The office type
+of airline and its ownership type are usually associated with airline name (during the time of
+creation, office type and ownership type were declared within).
+Please note,
+airlines those
+exists / created
+under Airline
+Office
+Information
+Manager should
+be available in
+the dropdown
+list. The
+unavailability of a
+target airline
+means it doesn't
+exists under
+Airline Office
+Information
+Manager and
+hence should be
+created in the
+Airline Office
+Information
+Manager first.
+
+After selection of necessary information one can proceed towards the creation of application
+by pressing Proceed button. According to permission act, permission type, office type and
+ownership type there will be a list of mandatory documents that should be uploaded.
+
+--- Page 41 ---
+7. Airlines Branch Permission Manager
+39
+
+--- Page 42 ---
+7. Airlines Branch Permission Manager
+40
+
+In creation page branch names can be selected from the dropdown list. Please note only
+branches those exist / created under Airlines Branch Information Manager (for selected
+airlines) will be available here. The unavailability of a target branch means it doesn't exists
+under Airlines Branch Information Manager (or is not a branch of selected airline) and hence
+should be created in the Airlines Branch Information Manager first.
+
+
+
+
+
+
+
+
+
+From the Application Office drop down list, the nearest Bangladesh Bank branch can be
+selected in which the AD Branch of Bank wants to submit application (usually the selection of
+Bangladesh Bank branch should be based on the address of the airline branch). In the creation
+screens fields preceded with (*) marks are mandatory.
+
+--- Page 43 ---
+7. Airlines Branch Permission Manager
+41
+
+After selection of Branch, Application Office and careful attachment of documents, by clicking
+the create button at the bottom of the form, the application can be saved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please note the application will not be submitted to Bangladesh Bank until someone submits
+it using the submit button. The saved applications will show a comment at the top of the form
+with the date of creation.
+
+--- Page 44 ---
+7. Airlines Branch Permission Manager
+42
+
+--- Page 45 ---
+7. Airlines Branch Permission Manager
+43
+
+The submitted application will show relevant comment at the top of form and there will be no
+further process button on the page for submitted applications.
+
+--- Page 46 ---
+7. Airlines Branch Permission Manager
+44
+
+7.3. From the search page one can search for different applications (Active, Saved, Submitted
+and Rejected) using various criteria or a mix of them. Please note the output of search is listed
+in the descending order of create date. In the result list there will be a summary of existing
+record with their status. An executive user can only delete the rejected and saved applications.
+
+--- Page 47 ---
+7. Airlines Branch Permission Manager
+45
+
+--- Page 48 ---
+7. Airlines Branch Permission Manager
+46
+7.4. Details of an application can be viewed from view (
+) link of the list. The active
+applications are applications that are approved and hence will show file number, permission
+number, permission start and end date etc. From view screen, information of an airline can be
+printed in pdf format using print (
+) link.
+
+--- Page 49 ---
+7. Airlines Branch Permission Manager
+47
+
+The rejected applications will show the rejection details and by re-uploading all necessary
+documents they can be re-submitted.
+
+--- Page 50 ---
+7. Airlines Branch Permission Manager
+48
+7.5. Listed information can be printed in pdf format or exported in excel file using respective
+ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+Also the headers of excel file and information on listed output can be customized using
+ƌĞƐƉĞĐƚŝǀĞƉĂŐĞ͛Ɛ customize (
+) link.
+
+--- Page 51 ---
+8. Other Office Information Manager
+49
+8.1. The submenu item Other Office Information Manager is designed to manage information
+of all foreign companies (except airlines) that want to get permission under FERA 18B act. Using
+this menu an executive user can list previously created foreign company offices and create new
+offices if necessary.
+
+A foreign company home office can be
+created in the system by using add new (
+button
+of
+Other
+Office
+Information
+Manager.
+BĞĨŽƌĞĐƌĞĂƚŝŽŶŝƚ͛ƐĂŐŽŽĚƉƌĂĐƚŝĐĞƚŽcheck
+whether
+someone
+else
+have
+already
+created it, or it already exists. This checking
+will help and prevent executive users from
+creating duplicate information in the
+system.
+List of foreign companies can be found from
+the search box. Please note the output of
+search is listed in the descending order of
+create date.
+
+--- Page 52 ---
+8. Other Office Information Manager
+50
+8.2. If the desired foreign company office is not present in the list then one can create it by
+clicking the add new (
+) button.
+In the creation screen fields preceded with (*) marks are mandatory. At any form/screen,
+movement towards backward of action sequence can be done by using back sequence links.
+
+--- Page 53 ---
+8. Other Office Information Manager
+51
+8.3. Details of a foreign company can be seen from view (
+) link of the list.
+8.4. From view of screen, information of a foreign company can be printed in pdf format using
+print (
+) link.
+
+--- Page 54 ---
+8. Other Office Information Manager
+52
+Listed information can also be printed in pdf format or exported in excel file using respective
+search ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+A user can customize the headers of excel file using resƉĞĐƚŝǀĞƉĂŐĞ͛ƐĐƵƐƚŽŵŝǌĞ;
+) link.
+
+--- Page 55 ---
+9. Other Branch Information Manager
+53
+9.1. Foreign companies' local branch information can be managed in the system using Other
+Branch Information Manager sub menu item under 18B Permission menu.
+A local branch of any foreign company can
+be created in the system by using add new
+) button of Other Branch Information
+Manager.
+BĞĨŽƌĞ ĐƌĞĂƚŝŽŶ ŝƚ͛Ɛ Ă ŐŽŽĚ ƉƌĂĐƚŝĐĞ ƚŽ
+check whether someone else have already
+created it, or it already exists. This
+checking will help and prevent executive
+users from creating duplicate information
+in the system.
+List of branches can be found from the
+search box. Please note the output of
+search is listed in the descending order of
+create date.
+
+--- Page 56 ---
+9. Other Branch Information Manager
+54
+9.2. If the desired branch is not present in the list then one can forward towards the creation
+process by clicking the add new (
+) button.
+In the creation screen fields preceded with (*) marks are mandatory. At any form/screen,
+movement towards backward of action sequence can be done by using back sequence links.
+Please note, the creation of branch requires existence of company home office, if a particular
+company home office is missing in drop down list then one have to create it in Other Office
+Information Manager first.
+
+--- Page 57 ---
+9. Other Branch Information Manager
+55
+9.3. Details of a branch office can be seen from view (
+) link of the list.
+9.4. From view of screen, information of a branch office can be printed in pdf format using print
+) link.
+
+--- Page 58 ---
+9. Other Branch Information Manager
+56
+Listed information can also be printed in pdf format or exported in excel file using respective
+search ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+
+--- Page 59 ---
+10. Other Branch Permission Manager
+57
+10.1. The Other Branch Permission Manager submenu, under 18B Permission menu is designed
+to facilitate and manage online application of company branches other than airline, according
+to FERA 18
+B act.
+From this submenu, on behalf of foreign
+companies
+Banker's
+can
+apply
+for
+permission by associating a company with
+local office/branch and uploading the
+necessary documents in pdf format.
+Any numbers of foreign companies or
+branch can be created in the system by
+using Other Office Information Manager
+or Other Branch Information Manager.
+But those companies will not be treated
+as permitted entities under FERA 18B act,
+until or unless their applications are being
+submitted with valid documents through
+Other
+Branch
+Permission
+Manager
+submenu and are activated.
+Any airline branch that have an Active
+existence under this submenu will be treated as permitted by Bangladesh Bank under FERA
+18B. Details of Active, Submitted, Saved and Rejected status
+were discussed in subsequent
+sections.
+10.2. The application process begins from the add new (
+) button.
+
+--- Page 60 ---
+10. Other Branch Permission Manager
+58
+
+At the beginning of the process the user has to select a map. There are different mandatory
+document requirements for different types of application based on permission act (18A / 18B),
+permission type (new / inclusion / renewal etc), office type (other home office). The office type
+and ownership type are usually associated with company name (during the time of creation,
+office type and ownership type were declared within).
+Please note,
+companies those
+exists / created
+under Other
+Office
+Information
+Manager should
+be available in
+the dropdown
+list. The
+unavailability of
+a target company
+means it doesn't
+exists under
+Other Office
+Information
+Manager and
+hence should be
+created in the
+Other Office
+Information
+Manager first.
+
+After selection of necessary information one can proceed towards the creation of application
+by pressing Proceed button. According to permission act, permission type, office type and
+ownership type there will be a list of mandatory documents that should be uploaded.
+
+--- Page 61 ---
+10. Other Branch Permission Manager
+59
+
+--- Page 62 ---
+10. Other Branch Permission Manager
+60
+
+In creation page branch names can be selected from the dropdown list. Please note only
+branches those exist / created under Other Branch Information Manager (for selected
+company) will be available here. The unavailability of a target branch means it doesn't exists
+under Other Branch Information Manager (or is not a branch of selected company) and hence
+should be created in the Other Branch Information Manager first.
+
+
+
+
+
+
+
+
+
+From the Application Office
+drop down list, the nearest Bangladesh Bank branch can be
+selected in which the AD Branch of Bank wants to submit application (usually the selection of
+Bangladesh Bank branch should be based on the address of the local office). In the creation
+screens fields preceded with (*) marks are mandatory .
+
+--- Page 63 ---
+10. Other Branch Permission Manager
+61
+
+After selection of Branch, Application Office and careful attachment of documents, b y clicking
+the create button at the bottom of the form, the application can be saved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please note the application will not be submitted to Bangladesh Bank until someone submits
+it using the submit button. The saved applications will show a comment at the top of the form
+with the date of creation.
+
+--- Page 64 ---
+10. Other Branch Permission Manager
+62
+
+--- Page 65 ---
+10. Other Branch Permission Manager
+63
+
+The submitted applicat ion will show relevant comment at the top of form and there will be no
+further process button on the page for submitted applications.
+
+--- Page 66 ---
+10. Other Branch Permission Manager
+64
+
+10.3. From the search page one can search for different applications (Active, Saved, Submitted
+and Rejected) using various criteria or a mix of them. Please note the output of search is listed
+in the descending order of create date. In the result list there will be a summary of existing
+record with their status. An executive user can only delete the rejected and saved applications.
+
+--- Page 67 ---
+10. Other Branch Permission Manager
+65
+
+--- Page 68 ---
+10. Other Branch Permission Manager
+66
+10.4. Details of an application can be viewed from view (
+) link of the list. The active
+applications are applications that are approved and hence will show file number, permission
+number, permission start and end date etc. From view screen, information of an office can be
+printed in pdf format using print (
+) link.
+
+--- Page 69 ---
+10. Other Branch Permission Manager
+67
+
+The rejected applications will show the rejection details
+and by re-uploading all necessary
+documents they can be re-submitted.
+
+--- Page 70 ---
+10. Other Branch Permission Manager
+68
+10.5. Listed information can be printed in pdf format or exported in excel file using respective
+ƉĂŐĞ͛ƐƉƌŝŶƚ;
+) link.
+Also the headers of excel file and information on listed output can be customize d using
+ƌĞƐƉĞĐƚŝǀĞƉĂŐĞ͛Ɛ customize (
+) link.
+
+--- Page 71 ---
+11. Frequently Asked Questions
+69
+
+11.1. I have saved my applications to submit them later. How can I retrieve them and submit ?
+From the search pane of (Principal / Airlines Branch / Other Branch ) Permission Manager one
+can find the saved application by searching with ^ƚĂƚƵƐс͚^ĂǀĞĚ͛͘
+
+
+
+
+
+
+
+
+
+
+
+11.2. How can I view / list the approved and rejected
+applications?
+From the search pane of (Principal / Airlines Branch / Other Branch) Permission Manager one
+can find the approved and rejected applications by searching with ^ƚĂƚƵƐс͚Active͛ and Status =
+͚ZĞũĞĐƚĞĚ͛ZĞƐƉĞĐƚĨƵůůǇ.
+11.3. How can I list approved applications for Buying Agent?
+ǇĐŚŽŽƐŝŶŐĐŽŵďŝŶĂƚŝŽŶŽĨĚŝĨĨĞƌĞŶƚƐĞĂƌĐŚĐƌŝƚĞƌŝĂ͛Ɛone can find a list of desired permissions.
+For example to find approved applications for Buying Agents seĂƌĐŚǁŝƚŚŐĞŶƚdǇƉĞс͚ƵǇŝŶŐ
+ŐĞŶƚ͛ĂŶĚ^ƚĂƚƵƐс͚ĐƚŝǀĞ͛ in Principal Permission Manager.
+
+--- Page 72 ---
+11. Frequently Asked Questions
+70
+
+11.4. W
+hat are the implication of different date wise search fields in search page
+There are four types of date wise search input fields used in the system.
+
+
+
+
+Here,
+x Order From and Order To targets
+on the order date of an active permission.
+x Permission From and Permission To targets on the start date of a n active permission.
+x Validity From and Validity To targets on the end date of a
+n active permission.
+x From Cr eate Date and To Create Date targets on the create date of a
+n application.
+
+--- Page 73 ---
+11. Frequently Asked Questions
+71
+
+11.5. How can I change my password or update profile?
+By clicking the profile link in top menu one can get the profile or password update page.
+
+--- Page 74 ---
+11. Frequently Asked Questions
+72
+
+11.6. There are a lots of navigations on my left menu; all of them are not relevant to my job
+description. How can I hide or remove them and also how can I retrieve a removed one?
+By clicking the customize menu link on top menu you can get menu customization pa
+ge. Please
+note this customization information stored in local browser cookies.

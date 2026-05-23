@@ -1,0 +1,573 @@
+--- Page 1 ---
+Banking Regulation & Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+December 20, 2005
+BRPD Circular No.20
+
+
+
+
+
+Date : ------------------------
+
+
+
+
+
+
+
+
+
+
+Poush 06, 1412
+
+
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+Prudential Guidelines for Consumer Financing
+and Small Enterprise Financing
+
+
+
+Please refer to our BRPD Circular No. 07, dated 03 November, 2004 on the captioned
+subject through which two separate guidelines, namely Guidelines for Small Enterprise
+Financing and Guidelines for Consumer Financing were forwarded for implementation. It is to
+be mentioned that amendments were made in Regulation-13 & Appendix X of Small Enterprise
+Financing and Regulation- 4 & Appendix XXI of Consumer Financing vide BRPD Circular No.
+10, dated 20 August, 2005 where-in loans were classified into 4 categories namely 1. Special
+Mention Account (SMA) 2. Substandard (SS), 3.Doubtful (DF) and 4. Loss (BL) along with
+some other amendments.
+
+
+The issue has been reviewed further and it has been decided that loans will have to be
+classified into 8 (eight) categories 1. Superior (SUP), 2.Good (GD), 3. Acceptable (ACCPT)
+4.Marginal/Watchlist (MG/WL), 5. Special Mention Account (SMA) 6. Substandard (SS),
+7.Doubtful (DF) and 8. Loss (BL) instead of the existing four categories. The revised Appendix
+X containing guidelines for Small Enterprise Financing and Appendix XXI containing
+guidelines for Consumer Financing are enclosed herewith.
+
+
+
+Please acknowledge receipt.
+
+Yours sincerely,
+
+Enclo: 04 (four)
+(Naba Gopal Banik)
+General Manager
+Phone : 7117825
+
+--- Page 2 ---
+Please replace the existing appendix-X by this revised appendix .
+Guidelines for Small Enterprise Financing
+
+APPENDIX X
+GUIDELINES IN THE MATTER OF CLASSIFICATION
+AND PROVISIONING FOR ASSETS (REGULATIONS R-I3)
+
+CONTINUOUS /DEMAND LOAN FACILITIES:
+
+CLASSIFICATION
+DETERMINANT
+TREATMENT OF
+INCOME
+PROVISIONS TO BE
+MADE
+1.Superior (SUP)
+1. Fully secured by cash
+/cash equivalent collateral.
+2. Fully secured by Govt.
+Guarantee.
+not applicable
+Banks will be required
+to
+make
+general
+provision @2% on the
+outstanding balance.
+2.Good (GD)
+Fully secured by collateral
+other than cash collateral..
+not applicable
+as above
+3. Acceptable (ACCPT)
+Where mark-up/interest or
+principal is overdue (past
+due) for 1 to 59 days.
+not applicable
+as above
+4.Marginal/Watchlist
+(MG/WL)
+Where mark-up/interest or
+principal is overdue (past
+due) for 60 to 89 days.
+not applicable
+as above
+5. Special Mention
+Account (SMA)
+Where mark-up/interest or
+principal is overdue (past
+due) by 90 days or more
+from the due date.
+Unrealized
+mark-
+up/interest to be put in
+suspense Account and
+not to be credited to
+income
+Account
+except when realized
+in cash.
+Provision @5% of the
+difference
+resulting
+from
+the
+outstanding
+balance of loan account
+less
+the
+amount
+of
+Interest suspense
+6. Substandard (SS)
+Where mark-up/interest or
+principal is overdue (past
+due) by 180 days or more
+from the due date.
+Unrealized
+mark-
+up/interest to be put in
+suspense Account and
+not to be credited to
+income
+Account
+except when realized
+in cash.
+Provision @20% of the
+difference
+resulting
+from
+the
+outstanding
+balance of loan account
+less
+the
+amount
+of
+Interest suspense and
+the value of eligible
+securities.
+7. Doubtful (DF)
+Where mark-up/interest or
+principal is overdue (past
+due) by 270days from the
+due date.
+Unrealized
+mark-
+up/interest to be put in
+suspense Account and
+not to be credited to
+income
+Account
+except when realized
+in cash.
+Provision @50% of the
+difference
+resulting
+from
+the
+outstanding
+balance of loan account
+less
+the
+amount
+of
+Interest suspense and
+the value of eligible
+securities.
+8. Loss (BL)
+Where mark-up/interest or
+principal is overdue by 12
+months or more from the
+due date.
+As above.
+Provision @ 100% of
+the difference resulting
+from
+the
+outstanding
+balance of loan account
+less
+the
+amount
+of
+Interest suspense and
+the value of eligible
+securities.
+
+--- Page 3 ---
+Guidelines for Small Enterprise Financing
+
+(II)
+SHORT/MEDIUM TERM LOAN FACILITIES (UP TO 5 YEARS):
+
+CLASSIFICATION
+DETERMINANT
+TREATMENT OF
+INCOME
+PROVISIONS TO BE
+MADE
+1.Superior (SUP)
+1. Fully secured by cash
+/cash equivalent
+collateral.
+2. Fully secured by Govt.
+Guarantee.
+not applicable
+Banks will be required to
+make general provision
+@2% on the outstanding
+balance.
+2.Good (GD)
+Fully secured by
+collateral other than cash
+collateral..
+not applicable
+as above
+3. Acceptable
+(ACCPT)
+Where mark-up/interest
+or principal is overdue
+(past due) for
+1 to 59 days.
+not applicable
+as above
+4.Marginal/Watchlist
+(MG/WL)
+Where mark-up/interest
+or principal is overdue
+(past due) for 60 to 89
+days.
+not applicable
+as above
+5. Special Mention
+Accounts (SMA)
+Where mark-up/interest
+or principal is overdue
+(past due) by 90 days or
+more from the due date.
+Unrealized mark-
+up/interest to be put
+in suspense Account
+and not to be credited
+to income Account
+except when realized
+in cash.
+Provision @5% of the
+difference resulting from
+the outstanding balance
+of loan account less the
+amount of Interest
+suspense
+6. Substandard (SS)
+Where mark-up/interest
+or principal is overdue
+(past due) by 180 days or
+more from the due date.
+Unrealized mark-
+up/interest to be put
+in suspense Account
+and not to be credited
+to income Account
+except when realized
+in cash.
+Provision @20% of the
+difference resulting from
+the outstanding balance
+of loan account less the
+amount of Interest
+suspense and the value of
+eligible securities.
+7. Doubtful (DF)
+Where mark-up/interest
+or principal is overdue
+(past due) by 12 months
+from the due date.
+Unrealized mark-
+up/interest to be put
+in suspense Account
+and not to be credited
+to income Account
+except when realized
+in cash.
+Provision @50% of the
+difference resulting from
+the outstanding balance
+of loan account less the
+amount of Interest
+suspense and the value of
+eligible securities.
+8. Loss (BL)
+Where mark-up/interest
+or principal is overdue by
+18 months or more from
+the due date.
+As above.
+Provision @ 100% of the
+difference resulting from
+the outstanding balance
+of loan account less the
+amount of Interest
+suspense and the value of
+eligible securities.
+
+--- Page 4 ---
+Guidelines for Small Enterprise Financing
+
+(III)
+LONG TERM LOAN FACILITIES (OVER 5 YEARS):
+
+CLASSIFICATION
+DETERMINANT
+TREATMENT OF
+INCOME
+PROVISIONS TO BE
+MADE
+1.Superior (SUP)
+1. Fully secured by cash
+/cash equivalent collateral.
+2. Fully secured by Govt.
+Guarantee.
+not applicable
+Banks will be required
+to make general
+provision @2% on the
+outstanding balance.
+2.Good (GD)
+Fully secured by collateral
+other than cash collateral..
+not applicable
+as above
+3. Acceptable
+(ACCPT)
+Where mark-up/interest or
+principal is overdue (past
+due) for
+1 to 59 days.
+not applicable
+as above
+4.Marginal/Watchlist
+(MG/WL)
+Where mark-up/interest or
+principal is overdue (past
+due) for 60 to 89 days.
+not applicable
+as above
+5. Special Mention
+Accounts (SMA)
+Where mark-up/interest or
+principal is overdue (past
+due) by 90 days or more
+from the due date.
+Unrealized mark-
+up/interest to be put in
+suspense Account and
+not to be credited to
+income Account except
+when realized in cash.
+Provision @5% of the
+difference resulting
+from the outstanding
+balance of loan
+account less the
+amount of Interest
+suspense
+6. Substandard (SS)
+Where mark-up/interest or
+principal is overdue (past
+due) by 12 months or
+more from the due date.
+Unrealized mark-
+up/interest to be put in
+suspense Account and
+not to be credited to
+income Account except
+when realized in cash.
+Provision @20% of the
+difference resulting
+from the outstanding
+balance of loan
+account less the
+amount of Interest
+suspense and the value
+of eligible securities.
+7. Doubtful (DF)
+Where mark-up/interest or
+principal is overdue (past
+due) by 18 months from
+the due date.
+Unrealized mark-
+up/interest to be put in
+suspense Account and
+not to be credited to
+income Account except
+when realized in cash.
+Provision @50% of the
+difference resulting
+from the outstanding
+balance of loan
+account less the
+amount of Interest
+suspense and the value
+of eligible securities.
+8. Loss (BL)
+Where mark-up/interest or
+principal is overdue by 24
+months or more from the
+due date.
+As above.
+Provision @ 100% of
+the difference resulting
+from the outstanding
+balance of loan
+account less the
+amount of Interest
+suspense and the value
+of eligible securities.
+
+--- Page 5 ---
+Please replace the existing appendix-XXI by this revised appendix .
+Guidelines for Consumer Financing
+
+APPENDIX XXI
+
+GUIDELINES IN THE MATTER OF CLASSIFICATION
+AND PROVISIONING FOR ASSETS (REGULATION- 4)
+
+
+CLASSIFICATION
+DETERMINANT
+TREATMENT
+OF INCOME
+PROVISIONS TO BE
+MADE
+1.Superior (SUP)
+1. Fully secured by cash /cash
+equivalent collateral.
+2. Fully secured by Govt.
+Guarantee.
+not applicable
+Banks will be required to
+make general provision
+@5% on the outstanding
+balance.
+2.Good (GD)
+Fully secured by collateral
+other than cash collateral..
+not applicable
+as above
+3. Acceptable (ACCPT)
+Where mark-up/interest or
+principal is overdue (past
+due) for 1 to 59 days.
+not applicable
+as above
+4.Marginal/Watchlist
+(MG/WL)
+Where mark-up/interest or
+principal is overdue (past
+due) for 60 to 89 days.
+not applicable
+as above
+5. Special Mention
+Account (SMA)
+Where mark-up/interest or
+principal is overdue (past
+due) by 90 days or more from
+the due date.
+Unrealized mark-
+up/interest to be
+put in suspense
+Account and not
+to be credited to
+income Account
+except
+when
+realized in cash.
+Provision @5% of the
+difference resulting from
+the outstanding balance of
+loan account less the
+amount
+of
+Interest
+suspense
+6. Substandard (SS)
+Where mark-up/interest or
+principal is overdue (past
+due) by 180 days or more
+from the due date.
+Unrealized mark-
+up/interest to be
+put in suspense
+Account and not
+to be credited to
+income Account
+except
+when
+realized in cash.
+Provision @20% of the
+difference resulting from
+the outstanding balance of
+loan account less the
+amount
+of
+Interest
+suspense and the value of
+eligible securities.
+7. Doubtful (DF)
+Where mark-up/interest or
+principal is overdue (past
+due) by 270days from the due
+date.
+Unrealized mark-
+up/interest to be
+put in suspense
+Account and not
+to be credited to
+income Account
+except
+when
+realized in cash.
+Provision @50% of the
+difference resulting from
+the outstanding balance of
+loan account less the
+amount
+of
+Interest
+suspense and the value of
+eligible securities.
+8. Loss (BL)
+Where mark-up/interest or
+principal is overdue by 12
+months or more from the due
+date.
+As above.
+Provision @ 100% of the
+difference resulting from
+the outstanding balance of
+loan account less the
+amount
+of
+Interest
+suspense and the value of
+eligible securities.

@@ -1,0 +1,90 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org
+www.bb.org.bd
+
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+October 25 , 2010
+BRPD Circular No. 31 Date:----------------------------
+Kartik 10 , 1417
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+Mapping of External Credit Assessment Institutions’ (ECAIs)
+rating scales with Bangladesh Bank (BB) rating Grade
+
+Please refer to BRPD Circular No. 24 dated August 03, 2010 regarding the issuance of
+Guidelines on Risk Based Capital Adequacy (RBCA) for banks. According to the guidelines, Risk
+Weighted Asset (RWA) against Credit Risk is to be computed on the basis of credit rating conducted
+by an External Credit Assessment Institutions (ECAIs) duly recognized by Bangladesh Bank (BB).
+Consequently, calculated RWA and Capital Adequacy Ratio (CAR) will be reported as per specific
+reporting formats enclosed in the RBCA guidelines.
+
+2) From this point of view, National Credit Rating Ltd. (NCRL) and Emerging Credit Rating
+Ltd. (ECRL) have been recognized as eligible ECAIs in addition to existing two rating agencies (i.e.
+CRISL and CRAB). All the scheduled banks operating in Bangladesh may nominate any one or more
+rating agency (ies) for their own and counterparty credit rating for the purpose of calculating RWA
+against credit risk as per RBCA guidelines.
+
+3) The mapping of rating scales of CRISL and CRAB with BB rating grades has already been
+specified in the Guidelines. Now, the rating scales of NCRL and ECRL have been mapped with BB
+rating grades as given below:
+
+BB Rating Grade
+Equivalent Rating of
+NCRL
+Equivalent Rating of
+ECRL
+AAA
+AAA
+AA+, AA
+AA+, AA, AA-
+AA-, A+
+A+, A
+A, A-
+A-, BBB+, BBB, BBB-, BB+
+BBB+, BBB
+BB, BB-
+BBB-, BB+, BB, BB-, B+, B, B-, C+, C, C-, D
+B+, B, B-, C, D
+Short-Term Rating Category Mapping
+S1
+N1
+ECRL-1
+S2
+N2
+ECRL-2
+S3
+N3
+ECRL-3
+S4
+N4
+ECRL-4
+S5
+N5
+S6
+
+
+
+Please acknowledge receipt.
+
+
+
+
+
+
+
+
+Yours Sincerely,
+
+Sd/-
+
+(Md. Jahangir Alam)
+General Manager
+Phone: 7117825

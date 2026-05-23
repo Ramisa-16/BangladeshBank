@@ -1,0 +1,187 @@
+--- Page 1 ---
+Bangladesh Bank
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+website: www.bb.org.bd
+
+
+Banking Regulation &
+Policy Department- 1
+
+
+
+
+
+
+11 May 2026
+BRPD-1 Circular No.- 11 Date: ----------------------
+
+
+
+
+28 Baishakh 1433
+
+Managing Director/Chief Executives
+All Scheduled Banks operating in Bangladesh
+Dear Sir/Madam,
+Commercial launching of “e-loan”
+In order to ensure inclusive and sustainable economic development through diversification of
+financial services, Bangladesh Bank has undertaken various initiatives. In recent years, with the
+rapid expansion of internet and mobile network coverage, the use of digital devices in banking
+operations has increased significantly. The ease of access to technology has led to a growing
+demand for digital lending services (e.g., through internet banking, mobile applications, mobile
+financial services, e-wallets, etc.) among customers of scheduled banks. The availability of such
+services can play a vital role in promoting financial inclusion, familiarizing marginal populations
+with digital financial services, and achieving the vision of a cashless society. In this context,
+commercial launching of ‘e-loan’ is expected to contribute significantly to strengthening these
+ongoing initiatives of Bangladesh Bank.
+2. In this context, scheduled banks may commercially launch ‘e-loan’ as a new service in
+compliance with the following instructions:
+a) The term ‘e-loan’ shall be included in the service name;
+b) A customer may avail maximum of BDT 50,000 (Taka Fifty Thousand) as an e-loan at a
+time, with a maximum tenure of 12 (twelve) months;
+c) Banks shall set market-based interest rates on e-loan; however, the rate shall not exceed 9%
+if refinancing facilities under BRPD Circular No. 11/2022 are availed;
+d) All activities related to e-loans (from customer onboarding to loan recovery) shall be
+conducted through an end-to-end digital process;
+e) In place of physical signatures on loan applications, sanction letters, and charge documents,
+customer identity shall be verified using biometric data and consent shall be obtained
+accordingly. Agents or third parties of banks shall not store biometric data;
+f) Prior to commercial launching, banks shall successfully complete a piloting of at least
+06(six) months. Based on the evaluation and feedback from the piloting, banks shall prepare
+the Product Program Guidelines (PPG) and obtain approval from their Board of Directors.
+Banks shall notify this office, along with the evaluation report and the approved PPG, within
+15 (fifteen) days of launching;
+
+--- Page 2 ---
+g) Existing Bangladesh Bank policies regarding interest rates, processing fees, early settlement
+fees (irrespective of nomenclature), loan classification, provisioning, write-off, and penal
+interest shall be applicable to e-loan;
+h) Bank shall comply with BRPD Circular No. 27/2010 regarding interest calculation, display,
+and disclosure;
+i) Loan features (e.g., nature, annual interest rate, tenure, disbursement, repayment method,
+etc.) shall be properly communicated to customers prior to obtaining their consent.
+Necessary steps shall be taken to enhance customer-level financial literacy;
+j) Until API-based automated Credit Information Bureau (CIB) system becomes fully
+operational (24/7), real-time CIB inquiries shall remain temporarily relaxed. However, CIB
+inquiry reports must be collected and preserved immediately after loan approval/
+disbursement;
+k) If any borrower avails an e-loan by concealing information, the loan must be adjusted
+immediately upon detection of adverse CIB report or such concealment;
+l) No CIB inquiry charge shall be imposed for e-loans;
+m) In compliance with the section 27(AA) of the Bank Company Act, 1991, banks shall place
+appropriate measures to prevent disbursement of e-loan to defaulted borrowers. In this
+regard, prior to loan disbursement, information regarding loans from other banks, finance
+companies, and mobile financial services (if applicable) shall be collected;
+n) Customer on boarding shall be conducted using bank-approved platforms and registered
+mobile SIMs. Customer identity shall be verified through OTP (One-Time Password) along
+with Two-Factor Authentication (2FA) or Multi-Factor Authentication (MFA), where
+necessary;
+o) Outsourcing guidelines under BRPD Circular No. 2/2015 shall be complied in case of
+engagement of third parties;
+p) In accordance with the Guidelines on Cloud Computing (BRPD Circular No. 5/2023) and
+the Cybersecurity Framework (BRPD-2 Circular No. 2/2026), customer and loan-related
+data must be stored in data warehouses located within Bangladesh. To ensure data security
+and privacy, banks shall comply with the Personal Information Security Act, 2026; the
+National Data Protection Act, 2026; the Cybersecurity Act, 2026, and all other relevant
+regulations issued by Bangladesh Bank and the Government;
+q) Risk management practices, loan disbursement procedures and ciculars issued by
+Bangladesh Bank from time to time, and prevailing laws and regulations shall be duly
+complied with;
+r) Anti-Money Laundering (AML) and Counter-Terrorism Financing (CFT) regulations shall
+be complied with in case of account opening; and
+s) Information on e-loans shall be reported quarterly to this department using ‘Annexure-Ka’
+and monthly to the Statistics Department using the prescribed RIT template.
+
+--- Page 3 ---
+3. Prior to the final launch of e-loan, banks shall conduct piloting for at least six (06) months.
+Based on the evaluation, positive and viable outcome, and feedback from the piloting, the
+Product Program Guidelines (PPG) for the e-loan shall be finalized, and the product may be
+launched commercially with the approval of the Board of Directors.
+4. This directive has been issued by Bangladesh Bank in exercise of the power conferred under
+Section 45 of the Bank Company Act, 1991.
+5. This circular shall come into force immediately and shall supersede any previous instructions
+issued in this regard.
+
+
+
+Yours faithfully,
+
+(Gazi Md. Mahfuzul Islam)
+Director (BRPD)
+Phone: 9530252
+
+--- Page 4 ---
+Quarterly Statement for e-Loan
+Name of Bank:
+Quarter:
+SL
+Product Name
+Date of
+Commercial
+Launch of the
+Product
+Disbursed Amount (in BDT
+Crore)
+Refinanced Amount (in BDT
+Crore)
+Outstanding
+Amount (in
+BDT Crore)
+Overdue
+Amount
+(in BDT
+Crore)
+CL (%)
+Current
+Quarter
+Cumulative
+(up to ….
+Quarter)
+Current
+Quarter
+Cumulative
+(up to ….
+Quarter)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total

@@ -1,0 +1,1941 @@
+--- Page 1 ---
+বিআরপিডি সার্কুলার নং-১৬
+
+website: www.bb.org.bd
+
+ব্যাংকিং প্রবিধি ও নীতি বিভাগ
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা |
+৩০ অক্টোবর ২০১৮
+তারিখ 8 ------------------
+১৫ কার্তিক ১৪২৫
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক |
+
+Guidelines on Internal Credit Risk Rating System for Banks প্রসঙ্গে |
+
+Coe বিষয়ে অত্র বিভাগের বিআরপিডি সার্কুলার নং ১৮, তারিখঃ ১১ ডিসেম্বর ২০০৫ এর প্রতি দৃষ্টি আকর্ষণ করা যাচ্ছে।
+
+০২। খণ ঝুঁকি সঠিকভাবে চি
+
+হিতকরণ এবং যথাযথভাবে ব্যবস্থাপনার লক্ষ্যে উক্ত সার্কুলারের মাধ্যমে “ক্রেডিট রিস্ক গ্রেডিং
+
+ম্যানুয়াল” জারি করা হয়। উক্ত স
+
+STAT মাধ্যমে জারিকৃত ম্যানুয়াল ও সংশ্লিষ্ট ফিন্যা্সিয়াল মডেল পর্যালোচনাপূর্বক ব্যাংকের খণ
+
+ঝুঁকি ব্যবস্থাপনা অধিকতর কার্যকর ও সময়োপযোগী করার লক্ষ্যে এ পর্যায়ে নতুন আঙ্গিকে "Guidelines on Internal Credit
+
+Risk Rating System for Banks" জারি করা হলো |
+
+০৩। জারিকৃত গাইডলাইন্স ও এতদসংযুক্ত মডেলটির যথাযথ ব্যবহার নিশ্চিত করা হলে উপযুক্ত ব্যক্তি/প্রতিষ্ঠান খণপ্রাপ্তির
+
+যোগ্যতা অনুযায়ী খণ সুবিধা গ্রহণ করতে পারবে | এছাড়া, ব্যাংকিং খাতে খেলাপি খণের পরিমাণ হ্রাসকরণেও মডেলটি অধিকতর
+
+সহায়ক ভূমিকা পালন করবে | মডেলটিতে ০৪ টি প্রধান খাতের আওতায় সর্বমোট ২০ টি উপ খাত রয়েছে এবং প্রতিটি উপ খাতের
+
+বৈশিষ্ট্য, ঝুঁকি, আর্থিক সক্ষমতা ও ব্যবস্থাপনার দক্ষতা বিবেচনায় নিয়ে ২০ টি স্বতন্ত্র মডেল অন্তর্ভূক্ত করা হয়েছে। নতুন প্রণীত
+
+গাইডলাইন ও মডেলটি খণগহীতার ক্রেডিট রিস্ক রেটিং করার ক্ষেত্রে ন্যুনতম মানদন্ড হিসেবে বিবেচিত হবে |
+
+০৪। বিআরপিডি সার্কুলার নং ১৮/২০০৫ এর মাধ্যমে জারিকৃত “ক্রেডিট রিস্ক গ্রেডিং ম্যানুয়াল” এর পাশাপাশি "Guidelines
+on Internal Credit Risk Rating System for Banks" ও এতদ্সতযুক্ত মডেলটি আগামী ৩০ জুন ২০১৯ তারিখ পর্যন্ত
+
+যুগপৎ চালু থাকবে । আগামী ০১ জুলাই ২০১৯ তারিখ থেকে নতুন প্রণীত গাইডলাইন্স ও মডেলটির বাস্তবায়ন বাধ্যতামূলকভাবে
+
+নিশ্চিত করতে হবে।
+
+০৫। এতদসংক্রান্ত মডেলের সফ্ট-কাঁপ আপানাদের ই-মেইল ঠিকানায় প্রেরণ করা হলো।
+
+আপনাদের বিশ্বস্ত,
+
+(আবু ফরাহ মোঃ নাছের)
+
+মহাব্যবস্থাপক
+ফোন: ৯৫৩০২৫২।
+
+--- Page 2 ---
+BANGLADESH BANK
+GUIDELINES ON
+INTERNAL CREDIT RISK RATING
+SYSTEM FOR BANKS
+
+--- Page 3 ---
+GUIDELINES ON
+INTERNAL CREDIT RISK RATING SYSTEM FOR BANKS
+
+
+
+
+Advisors
+Mr. S. M. Moniruzzaman
+Deputy Governor, Bangladesh Bank
+Mr. Ahmed Jamal
+Deputy Governor, Bangladesh Bank
+
+Chairman
+Mr. Md. Abdur Rahim
+Executive Director, Bangladesh Bank
+
+Coordinators
+Mr. Abu Farah Md. Nasser
+General Manager, Bangladesh Bank
+Mr. Md. Shah Naoaj, CFA
+Deputy Director, Bangladesh Bank
+
+Members
+Dr. Mahmood Osman Imam, FCMA
+Professor, University of Dhaka
+Ms. Husne Ara Shikha
+Deputy General Manager, Bangladesh Bank
+Dr. Prashanta Kumar Banerjee
+Professor, Bangladesh Institute of Bank Management
+Mr. Md. Ala Uddin
+Deputy General Manager, Bangladesh Bank
+Mr. Zakir Hossain
+DMD, Mercantile Bank Limited
+Ms. Dipti Rani Hazra
+Deputy General Manager, Bangladesh Bank
+Mr. Shadab Hossain
+Head of Wholesale Credit & Market Risk, HSBC
+Mr. Amitabh Chakraborty
+Joint Director, Bangladesh Bank
+
+--- Page 4 ---
+Foreword
+Credit risk is the risk of losses arising from borrowers' failure to repay the loans or meet contractual
+obligations. In order to establish a sound credit risk management, adopting a modern rating mechanism
+is important.
+Bangladesh Bank (BB) introduced the Lending Risk Analysis (LRA) framework in 1993, for all
+lending exposures of the banks in excess of Bangladesh Taka (BDT )10 million. The LRA framework,
+however, made no attempt to introduce a Risk Grading System (RGS) for unclassified loan accounts.
+As an advancement in this area, BB made the Core Risk Management Guidelines (CRMG) mandatory
+in 2003, introducing the requirement of grading unclassified accounts. In 2005, Bangladesh Bank, vide
+its BRPD Circular No.18, advised all scheduled banks to implement Credit Risk Grading (CRG) for
+their borrowing clients. It is to note that the CRG-2005 was applicable for all exposures (irrespective of
+amount) except consumer loans, small enterprises financing, short-term agri loans and micro-credit.
+During the last couple of years, industry characteristics have changed a lot. Besides, necessity has
+evolved to review different weights applied in the CRG framework. In order to deal with growing
+complexities in a more dynamic banking industry, Bangladesh Bank feels the necessity to update the
+Credit Risk Grading mechanism. Bangladesh Bank formed a ten-member review committee headed by
+the executive director responsible to oversee the affairs of BRPD and comprising the officials from
+Banking Regulation and Policy Department, Financial Stability Department, Department of Banking
+Inspection as well as officials from the banking industry and academicians from the University of
+Dhaka and Bangladesh Institute of Bank Management (BIBM). The purpose of the committee was to
+revamp the policy on the credit grading mechanism and to develop a modern and effective rating
+technique. This guideline is the outcome of the hard works and relentless efforts of the committee,
+which has cautiously considered the various aspects before developing this “Internal Credit Risk
+Rating System”.
+“Internal Credit Risk Rating System” comprises with 20 (twenty) different rating templates for 20
+(twenty) industries/sectors instead of just one template for all the sectors like previous CRG model.
+Different yardsticks have been used for assessing the borrowers of corresponding sectors. The
+assessment criteria for each of these sectors are unique and the ideal assessment parameters for each
+criterion are defined based on the analysis of historical three-year data of 220 (two hundred and
+twenty) audited financial statements of the firms/companies/institutions collected from 22 (twenty-two)
+scheduled banks. Moreover, data from annual financial statements of 54 (fifty-four) companies listed
+on Dhaka Stock Exchange (DSE) have also been analyzed for the aforesaid purpose and a rigorous
+validation has been conducted with real-time analysis from 4 (four) scheduled banks. Importantly,
+comments /feedback on the draft input templates has been collected from 26 (twenty six) banks.
+We believe this guidelines and enclosed model will be a valuable addition to the credit risk
+management tools and help the banks in developing and maintaining a better-quality credit portfolio.
+This is an evolving matter, which will regularly be reviewed by Bangladesh Bank to capture the
+changing dynamics of the economy and business environment.
+
+
+
+Md. Abdur Rahim
+Executive Director
+Bangladesh Bank
+
+--- Page 5 ---
+Table of Contents
+1.1
+Introduction .......................................................................................................................... - 2 -
+1.2
+Definition of Internal Credit Risk Rating System and Internal Credit Risk Rating ............ - 2 -
+1.3
+Use of Internal Credit Risk Rating (ICRR) .......................................................................... - 2 -
+1.4
+Functions of Internal Credit Risk Rating System: ............................................................. - 3 -
+1.5
+General Instructions ............................................................................................................. - 3 -
+1.6
+Frequency of Credit Risk Scoring: ....................................................................................... - 4 -
+1.7
+Selected Sectors ................................................................................................................... - 4 -
+1.8
+Credit Risk Ratings Scores .................................................................................................. - 5 -
+1.9
+Definitions of Credit Risk Rating ........................................................................................ - 5 -
+1.10
+Management Action Triggers: ............................................................................................. - 6 -
+1.11
+Exceptions to Credit Risk Scoring ....................................................................................... - 7 -
+Chapter 2: Credit Risk Rating Components ..................................................................................... - 8 -
+2.1
+Components of Credit Risk Rating ...................................................................................... - 8 -
+2.2
+Quantitative indicators and associated weights .................................................................... - 8 -
+2.3
+Qualitative indicators and associated weights ...................................................................... - 9 -
+Chapter 3: Credit Risk Rating Process ........................................................................................... - 10 -
+3.1
+Input primary information of borrower and select sector/industry of the borrower: ......... - 10 -
+3.2
+Input data of balance sheet, profit and loss statement and cash flow statement ................ - 11 -
+3.3
+Qualitative Analysis ........................................................................................................... - 12 -
+3.4
+Generating Score: ............................................................................................................... - 15 -
+
+--- Page 6 ---
+1.1 Introduction
+The aim of credit risk management is to maximize a bank’s risk-adjusted rate of return by
+maintaining credit risk exposure within acceptable levels. Banks need to manage the credit risk
+inherent in the entire portfolio as well as the risk in individual borrower transaction. The
+effective management of credit risk is a critical component of a comprehensive approach to risk
+management and essential to the long-term success of any banking organization.
+
+Since exposure to credit risk continues to be the leading source of problems in banks, banks
+should have a keen awareness of the need to identify, measure, monitor and control credit risk as
+well as to determine that they hold adequate capital against these risks and they are adequately
+compensated for risks incurred. The Internal Credit Risk Rating System describes the
+creditworthiness of the borrower of a particular sector based on the assessment criteria set for
+that sector. Since the leverage, liquidity, profitability, as well as other quantitative and qualitative
+indicators, vary significantly from sector to sector, the ICRRS is developed to calibrate such
+diversities into the rating system. Moreover, relevant and appropriate numbers of financial ratios
+are used in Internal Credit Risk Rating System for assessing the strengths of the borrowers. The
+set of the qualitative questioners used in the process are also more robust. This will effectively
+ensure that the borrowers from different sectors and industries are assessed based on the unique
+characteristics of those sectors.
+1.2 Definition of Internal Credit Risk Rating System and Internal Credit Risk Rating
+1.2.1 Internal Credit Risk Rating System refers to the system to analyze a borrower's repayment
+ability based on information about a customer's financial condition including their liquidity,
+cash flow, profitability, debt profile, market indicators, industry and operational background,
+management capabilities, and other indicators.
+1.2.2 The summary indicator derived from the system will be called Internal Credit Risk
+Rating (ICRR)- a key reference for credit risk assessment and decision making.
+1.3 Use of Internal Credit Risk Rating (ICRR)
+Internal Credit Risk Rating System will be an integral part of credit risk management for the
+banks. The key uses of these guidelines are as follows:
+a) To provide a granular, objective, transparent, consistent framework for the
+measurement and assessment of borrowers’ credit risk.
+b) To facilitate the portfolio management activities
+c) to assess the quality of individual borrower to help the banks to determine the quality
+of the credit portfolio, line of business, the branch or the Bank as a whole.
+d) To be used for individual credit selection, credit pricing, and setting credit limit and
+terms and conditions.
+
+--- Page 7 ---
+1.4 Functions of Internal Credit Risk Rating System:
+a) Internal Credit Risk Rating System is a fully automated credit risk scoring system that
+calibrates the characteristics of different sectors and industries in one single model;
+b) To get the appropriate rating and score, the analyst shall select the appropriate sector
+or industry from the dropdown list given in the top page of the template; If the right
+sector or industry is not selected; the rating will not reflect the unique characteristics
+of the particular sector or industry.
+c) If the borrower is in multiple lines of business, the sector should be used assessing the
+line of business generating the highest portion of the revenue &/or profit. If there is
+no particular line of businesses can be singled out- the ICRRS should be conducted
+using "other industry- if manufacturing" or "other service-if service".
+1.5 General Instructions
+a) Banks shall strictly follow this guidelines and rating system issued by Bangladesh
+Bank without making any change, extension, modification or deletion.
+b) The ICRR shall be applicable for all exposures (irrespective of amount) except
+consumer loans, small enterprises having total loans exposures less than BDT 50
+(fifty) lac, short-term agri loans, micro-credit and lending to bank, NBFI and
+Insurance.
+c) The quantitative part of the ICRR exercise shall be conducted by a credit officer/ an
+analyst. The Relationship Manager/ Branch Manager shall complete the qualitative
+assessment part to generate the total scores.
+d) ICCR shall be an integral part of the credit approval process.
+e) The credit risk function of the bank is responsible for the accuracy and integrity of the
+rating as the second line of defense.
+f) The executive summary report of the ICRR of the borrower shall be approved and
+signed by the Chief Risk Officer (CRO) and for those loans that are approved below
+the CRO level e.g zonal office or branch office, the executive summary report of the
+ICRR shall be approved and signed by the final approval authority.
+g) Banks shall use the latest audited financial statements of the borrower for generating
+the quantitative rating under ICRR.
+h) All credit proposals whether new, renewal or enhancement shall be gone through the
+ICRR process and a set of the ICRR report shall be retained in the loan file.
+i) The Relationship Manager shall pass the approved ICRR report to the related
+department for updating their MIS/record.
+j) Banks shall conduct the routine internal audit to check whether the Internal Credit
+Risk Rating System is functioning as per the instructions laid down in the guidelines.
+
+--- Page 8 ---
+1.6 Frequency of Credit Risk Scoring:
+ICRR shall be conducted for all credit proposals including new, renewal and
+enhancement of the existing proposal;
+For existing credit relationship, the ICRR shall be reviewed at least annually at
+the time of annual/regular credit review.
+1.7 Selected Sectors
+To ensure the current system useful, the following sectors are selected considering the size of
+exposures of banks in these industries.
+A. Industry
+1. Ready Made Garments (RMG)
+2. Textile (including spinning, knitting, weaving)
+3. Food and Allied Industries
+4. Pharmaceutical
+5. Chemical
+6. Fertilizer
+7. Cement
+8. Ceramic
+9. Ship building
+10. Ship breaking
+11. Jute Mills
+12. Steel Engineering
+13. Power and Gas
+14. Other industry (only to be selected if the borrower falls under industry but does
+not fit with other 13 specific sub-categories)
+B. Trade and Commerce
+C. Agro Base and Agro Processing
+D. Service
+1. Housing and Construction
+2. Hospitals and Clinics
+3. Telecommunication
+4. Other service
+
+--- Page 9 ---
+1.8 Credit Risk Ratings Scores
+The ICRR consists of 4-notched rating system covering the Quantitative and Qualitative
+parameters. The ratings and scores are mentioned below:
+Rating
+Scores Aggregate
+Excellent
+≥80%
+Good
+≥70% to <80%
+Marginal
+≥60% to <70%
+Unacceptable
+<60%
+
+1.9 Definitions of Credit Risk Rating
+The features of the different categories of Credit Risk Ratings are given below:
+a) Excellent
+Aggregate score of 80 or greater in ICRR.
+Strong repayment capacity of the borrower evident by the high liquidity, low
+leverage, strong earnings, and cash flow
+Borrower has well established strong market share.
+Very good management skill & expertise.
+b) Good
+Aggregate score of 70 or greater but less than 80 and the quantitative score of at
+least 30.
+These borrowers are not as strong as "Excellent "borrowers, but still demonstrate
+consistent earnings, cash flow and have a good track record.
+Borrower is well established and has strong market share.
+Very good management skill & expertise.
+c) Marginal
+Aggregate score of 60 or greater but less than 70 and the quantitative score of at
+least 30.
+• This grade has potential weaknesses that deserve management’s close attention. If
+left uncorrected, these weaknesses may result in a deterioration of the repayment
+prospects of the borrower.
+d) Unacceptable
+• Aggregate score of less than 60
+
+--- Page 10 ---
+• Financial condition is weak and no capacity or inclination to repay.
+• Severe management problems exist.
+• Facilities should be downgraded to this grade if sustained deterioration in financial
+condition is noted (consecutive losses, negative net worth, excessive leverage).
+
+1.10
+Management Action Triggers:
+a) Banks are allowed lending to a borrower if the borrower's ICRR is "Excellent" or
+"Good". However, for the "Marginal "cases, the bank shall take cautionary measures
+in renewing the facilities or lending new money to the customers. While assessing
+credit proposals, banks must satisfy themselves on the future prospect of the business,
+additional collateral coverage etc. Banks shall take heightened measures for
+monitoring these accounts including but not limited to regular client visits,
+monitoring of the improvement plans, close monitoring of the repayment
+performances, timely review of the facilities, oversight on the improvement areas etc.
+b) No loan shall be sanctioned to borrowers whose ICRR is "Unacceptable" unless the
+loan is 100% cash covered or fully guaranteed by the Government or Multilateral
+Development Banks (MDBs) or the loan is for any state-owned organization or state-
+owned project.
+c) For the quantitative and qualitative risk analysis, if the ICRR falls under "Marginal"
+or "Unacceptable" for any risk criteria (among 16 quantitative and 18 qualitative);
+whatever the aggregate score is, the relationship manager shall evaluate what would
+be the impacts of such on loan repayment and justify how those risks are mitigated;
+and in loan proposal the approval authority should review that justifications
+thoroughly and make necessary evaluations on it and should be documented in the
+loan file.
+d) In deriving ICRR, whatever score a borrower gets in the qualitative analysis if the
+score in the quantitative part is less than 50%, the borrower’s ICRR shall be
+"Unacceptable".
+e) Bank can make renewal and enhancement of existing loans for maximum 2 (two)
+times if the borrower's ICRR is "Unacceptable".
+f) In conducting qualitative analysis, justifications for all criteria are required to be
+documented.
+g) Bank must maintain portfolio level data base for the asset base with "Excellent",
+"Good"
+“Marginal”
+and
+“Unacceptable”
+category
+and
+maintains
+risk
+appetite/tolerance level for portfolio.
+
+--- Page 11 ---
+1.11
+Exceptions to Credit Risk Rating
+a) For a newly established company with no meaningful financial statements, the bank
+can apply a rating based on the projected financial statements and the rating of the
+borrower shall not be better than Marginal. However, the bank must run the rating
+module once the full year audited financial statements became available reflecting
+customer's full-fledged business operation.
+b) For the companies under large business conglomerate, rating substitution is allowed
+based on the rating of Corporate Guarantor of the performing concern of the same
+group or holding company. In case of rating substitution based on the corporate
+guarantor, the guarantee must be legally enforceable, irrevocable and unconditional.
+In this regard, a full-fledged ICRR shall be conducted on the guarantor to determine
+whether the guarantor has the ability to the support the borrower at the time of need.
+c) Rating generation is discouraged using outdated financial statements (i.e available
+audited financial statements are more than 18 months old). In exceptional cases where
+there is valid reason for delay in audited financial publication, out dated financial
+statements can be accepted only if up to date unaudited financial statement is
+submitted, but the rating shall not be better than “Marginal”. In this case, the
+conditioned mentioned in para 1.10(a) is to be followed.
+d) Rating shall be downgraded if there is any internal/external factors or information that
+have not been captured in the rating/financial statements (because they are post
+balance sheet events) having the material impact on the customer's business operation
+and loan repayment. A conservative and consistent approach should be used in
+employing judgments in the case of events like the death of key sponsor, prolonged
+factory shut down, deteriorating financial profile reported in interim financial
+statements, change in tax structure/duty, large expansions funded by debt, excessive
+leverage ratio, merger-acquisition etc.
+e) For the proprietorship & partnership concern where preparation of the audited
+financial statements are not mandatory, un audited financial statement can be used for
+rating generation but due diligence should be conducted on the accuracy of the
+financial statements with high-level checking of the bank statements recording the
+sales collection, stock/receivable position, peer analysis, bank liabilities etc.
+f) If the customer is in multiple lines of business, the most appropriate sector/industry
+shall be the line of business generating revenue more than 50% of total revenue. If
+there is no particular line of businesses can be singled out- the rating for "other
+industry" or "other services" should be used.
+g) This guideline and enclosed model will be the minimum standard of risk rating; and
+banks may adopt more sophisticated risk rating model in line with the size and
+complexity of their business.
+
+--- Page 12 ---
+Chapter 2: Credit Risk Rating Components
+2.1 Components of Credit Risk Rating
+In the previous version of Credit Risk Grading Manual, 50 percent weights were assigned for
+quantitative indicators while 50 percent weights were for subjective judgment. In the ICRR,
+these weights have been revised; 60 percent weights are assigned for quantitative indicators
+while 40 percent are assigned for qualitative indicators.
+2.2 Quantitative indicators and associated weights
+Quantitative indicators in ICRR fall into six broad categories; leverage, liquidity, profitability,
+coverage, operational efficiency, and earning quality. Details indicators under these categories
+and associated weights are furnished below:
+Quantitative Indicators
+Weight
+Definition
+1.Leverage (10%)
+
+a) Debt to Tangible Net
+Worth (DTN)
+
+Total Interest-bearing liabilities or
+Financial Debt/ Total Tangible Net
+Worth1
+b) Debt to Total Assets
+(DTA)
+Total Interest-Bearing Liabilities or
+Financial Debt/ Average Total Assets
+2.Liquidity (10%)
+
+a) Current Ratio (CR)
+
+Current Assets/ Current Liabilities
+b) Cash Ratio (Cash)
+Cash and easily marketable securities/
+Current Liabilities
+3.Profitability
+(10%)
+a) Net Profit Margin
+(NPM)
+Net profit after tax/ Net Sales
+b) Return on Assets (ROA)
+Net profit after tax/ Average Total
+Assets
+c) Operating Profit to
+Operating Assets (OPOA)
+Operating Profit/ Average Operating
+Assets
+4.Coverage (15%)
+
+a) Interest Coverage (IC)
+Earnings Before Interest and
+Tax/Interest Expense
+b) Debt Service Coverage
+Ratio (DSCR)
+
+Earnings Before Interest Tax
+Depreciation Amortization/ Debts to be
+Serviced
+c) Financial Debt to
+Operating Cash Flow
+(FDOCF)
+Financial Debt / Operating Cash Flow
+d) Cash flow Coverage
+Ratio (CCR)
+Cash flow from operation / Debts to be
+Serviced
+5.Operational
+Efficiency (10%)
+
+a) Stock Turnover Days
+(STD)
+(Total Inventory/Cost of Goods
+Sold)*360
+b) Trade Debtor Collection
+Days (TDCD)
+(Total Accounts Receivable/
+
+1 Total Tangible Net Worth= Total Equity-Intangible Assets.
+
+--- Page 13 ---
+Sales)*360
+c) Asset Turnover (AT)
+Sales /Average Total Assets
+6.Earning Quality
+
+a) Operating Cash Flow to
+Sales (OCFS)
+Operating Cash flow / Sales
+b) Cash flow based accrual
+ratio (CAR)
+
+=NI-(CFO+CFI) /Average Net
+Operating Assets
+
+2.3 Qualitative indicators and associated weights
+Qualitative indicators covers six broad aspects of the firms/institutions to be rated, namely
+business/industry risk, credit quality enhancement, performance behavior, management risk,
+relationship risk, and compliance risk. Noteworthy that aggregate weights against the qualitative
+indicators stand at 40 percent. Detail indicators and associated weights are appended below in
+details:
+Indicators
+Weights
+1. Performance Behavior
+10
+Performance Behavior With Banks Borrowings
+Performance Behavior With Suppliers/ Creditors
+2. Business and Industry Risk
+Sales Growth
+Age Of Business
+Industry Prospects
+Long-Term External Credit Rating Of The Borrower
+3. Management Risk
+Experience Of The Management
+Existence Of Succession Plan
+Auditing Firms
+Change In Auditors In Last 4 Years
+4. Security Risk
+11
+Primary Security
+Collateral
+Collateral/ Security Coverage
+Type Of Guarantee
+5. Relationship Risk
+Account Conduct
+6. Compliance Risk
+Compliance With Environmental Rules, Regulations And Covenants
+Corporate Governance
+Total
+40
+
+--- Page 14 ---
+- 10 -
+
+Chapter 3: Credit Risk Rating Process
+After the risk identification & weight assignment process (as mentioned in chapter 2), the next
+steps will be to input actual parameters in the score sheet to arrive at the scores corresponding to
+the actual parameters.
+These guidelines also provide a well programmed MS Excel-based credit risk scoring system to
+arrive at a total score on each borrower. The excel program requires inputting data accurately in
+particular cells for input and will automatically calculate the risk grade for a particular borrower
+based on the total score obtained. The following steps are to be followed while using the MS
+Excel program.
+a) Open the MS XL file named, ICRRS
+b) The entire XL model named, ICRRS is protected except the particular cells to input data.
+c) Some input cells contain DROP DOWN LIST for some criteria corresponding to the Key
+Parameters. Click to the input cell and select the appropriate parameters from the DROP
+DOWN LIST as shown below.
+
+All the cells provided for input must be filled in order to arrive at accurate risk grade.
+
+The following step-wise activities outline the detail process for arriving at Credit Risk Rating.
+3.1 Input primary information of borrower and select sector/industry of the borrower:
+Bank's Name
+ABC Bank Limited
+Branch Name
+Gulshan
+File/ Reference No
+10000/100/10/1
+Borrower Name
+XYZ Limited
+Group Name, if any
+PQR
+Type of Industry/ Sector
+1. RMG
+Industry Code
+101
+Ownership Type
+Sole Proprietorship
+Registration No/Trade License No
+123
+CIB Status
+Standard
+
+--- Page 15 ---
+- 11 -
+
+Financials Audit Status:
+Audited
+Name of Audit Farm
+MNO
+Analyst Name, Designation
+PQR
+Verifier Name, Designation
+UBW
+Date of Financials
+
+04-01-2018
+Date of Analysis (DD-MM-
+YYYY)
+04-01-2018
+Date of Verification (DD-MM-
+YYYY)
+04-01-2018
+
+3.2 Input data of balance sheet, profit and loss statement and cash flow statement
+In the input sheet of the balance sheet, profit, and loss statement and cash flow statement, Input
+must be given to all cells that are marked with yellow colors. Moreover, while providing input to
+the balance sheet, profit and loss statement and cash flow statement following issues should be
+taken care of:
+a) Current Portion of Long-Term Borrowing/Loan
+• Input must be given to this cell. This cell is crucial to calculate "debt service coverage
+ratio". If "Current Portion of Long-Term Borrowing/Loan" is not found in the balance
+sheet, the analyst shall communicate this to the borrower and determine the amount
+based on other material information including notes and communication with the
+borrower.
+• If the amount is already added with the total loans in the balances sheet then "Current
+Portion of Long-Term Borrowing/Loan" must be deducted from the total loans and
+must insert the split figures in related cells.
+• If the figure is still zero, it means the borrower has no existing long-term borrowings;
+which is unusual. If found so, the analyst should interview the borrower.
+• If the analyst becomes certain that the borrower has no existing borrowings, then 0.01
+shall be inserted in the corresponding cell.
+b) Other Current Liabilities:
+• To make the balance sheet balance i.e as sets = liabilities + equity, deduct amount
+0.01 in this cell, if the same is inserted in row 56: Current Portion of Long-Term
+borrowing/ Loan.
+c) Financial/Interest Expenses
+• Input must be given to this cell. If not found in the P&L, the analyst shall look into
+the notes of financial statement and communicate with the borrower to determine the
+amount.
+
+--- Page 16 ---
+- 12 -
+
+• If the figure is zero, it means the borrower has no existing borrowings; which is
+unusual.
+• If the analyst becomes certain that the borrower has no existing borrowings, then
+figure 1 must be inserted in the corresponding cell.
+3.3 Qualitative Analysis
+After providing input to the balance sheet, profit and loss statement and cash flow statement, the
+rigorous qualitative analysis shall be conducted. The qualitative analysis shall be conducted by
+the relationship manager. The details qualitative analysis are as follows:
+Performance Behavior
+
+10
+G.1
+Performance behavior with lending
+banks
+
+
+G.1.1
+How many times the borrower was
+adversely classified in last 3 years
+
+
+
+[ Aversely classified means the
+borrower's loans classified as per BB
+loan classifications policy i.e SS, DF,
+BL]
+
+
+
+0 time
+
+1 time
+
+2 times
+
+3 times
+
+>3 times
+G1.2
+How many times the borrower's loans
+was rescheduled/ restructured in last 3
+years
+
+
+
+
+0 time
+
+
+1 time
+
+
+2 times
+
+
+3 times
+
+
+>3 times
+G.2
+Performance behavior with
+suppliers/ Creditors
+
+
+
+Did The Borrower Pay Its Suppliers/
+Creditors Regularly In Last 1 Year
+Yes
+
+
+No
+Business and Industry Risk
+
+H.1
+Sales Growth
+
+
+
+* Sales growth means annual sales
+growth
+>10%
+
+The formula for calculating sales
+growth is [(current year sales -
+previous year sales)/ previous year
+sales]*100
+5%-10%
+
+Less than 5%
+H.2
+Age of Business
+
+--- Page 17 ---
+- 13 -
+
+
+The number of years the borrower
+>10 years
+
+engaged in this line of business
+7 to 10 years
+1.5
+
+
+5 to 7 years
+
+
+4 to 5 years
+0.5
+
+
+<4 years
+H.3
+Industry Prospects
+
+
+
+Critical assessment of 5 (five) years
+prospect of industry and borrower's
+sales volatility
+Growing and Low Volatility
+
+* Volatility denotes sales volatility
+Stable
+0.75
+
+Growing but High Volatility
+0.5
+
+Declining
+H.4
+Long-Term External Credit Rating
+of the Borrower
+
+
+
+
+
+Rating Grade should be assigned in
+line with BB Rating Mapping as per
+BRPD circular 18/2014 on Risk-Based
+Capital Adequacy in line with Basel III
+(see annex 2)
+2&3
+1.5
+
+
+0.5
+
+
+Unrated
+
+
+
+
+Management Risk
+
+I.1
+Experience of the Management
+
+
+
+Quality of the management based on
+total number of years of experience of
+the senior management in the Industry.
+More than 10 years in the related
+line of business
+
+* Senior Management means MD and
+next two tiers
+5–10 years in the related line of
+business
+
+
+Less than 5 years
+I.2
+Existence of Succession Plan
+
+
+
+
+Yes, with good capability of
+successor
+
+
+Yes, but questionable capacity of
+successor
+
+
+No successor
+I.3
+Auditing Firms
+
+
+
+BSEC listed auditors are considered as
+recognized
+Recognized Auditors
+
+Other Auditors
+
+Un audited
+I.4
+Change In External Auditors In
+Last 4 Years
+
+
+
+
+Yes
+
+
+No
+Security Risk
+
+11
+
+--- Page 18 ---
+- 14 -
+
+J.1
+Primary Security
+
+
+
+
+Fully Pledged Facilities
+
+
+Registered Hypothecation (1st
+Charge/1st Pari Passu Charge)
+1.5
+
+
+2nd Charge/Inferior Charge
+
+
+No Security
+J.2
+Collateral
+
+
+
+
+Registered Mortgage On Municipal
+Corporation/Prime Area Property
+
+
+Registered Mortgage On
+Pourashava/Semi-Urban/ Union
+Parishad Area Property
+1.5
+
+
+Equitable Mortgage Or No Property
+But Plant And Machinery As
+Collateral
+
+
+No Collateral
+J.3
+Eligible Collateral Coverage
+
+
+
+The formula of eligible collateral
+coverage is [eligible collateral / total
+loans]
+>100%
+
+
+80% to 100%
+
+* Forced sale value should be
+determined as per BRPD circular no
+14 issued on September 23, 2012 (Para
+07: Eligible Collateral) (Annex 3)
+70% to 80%
+
+50% to 70%
+
+<50%
+J.4
+Type of Guarantee
+
+
+
+
+Strong Corporate Guarantee means the
+credit rating of the guarantor should be
+at least 1 or 2 as per BB rating
+mapping mentioned in BRPD circular
+18/2014 on Risk Based Capital
+Adequacy in line with Basel III. (see
+annex 2)
+
+Government Guarantee and/or Bank
+Guarantee
+
+Strong Corporate Guarantee
+1.5
+
+Personal Guarantees or Corporate
+Guarantee without Strong Financial
+Strength
+
+
+No support/guarantee
+Relationship Risk
+
+K.1
+Account Conduct
+More than 3 years Accounts with
+Faultless Record
+
+
+Less than 3 years Accounts with
+faultless record
+
+
+Accounts having satisfactory
+dealings with some late payments.
+
+
+Frequent Past dues & Irregular
+dealings in account
+Compliance Risk
+
+L.1
+Compliance with environmental rules,
+
+--- Page 19 ---
+- 15 -
+
+regulations and covenants
+
+
+Yes
+
+
+No
+L.2
+Corporate Governance
+
+
+
+Independence of Management
+Good Corporate Governance
+
+
+Questionable Corporate Governance
+
+Total
+
+40
+
+
+
+
+
+3.4 Generating Score:
+After providing inputs to the balance sheet, profit and loss statement, cash flow statement and
+qualitative analysis, the detail management report and executive summary report will
+automatically be generated. In the detail management report and executive summary report, four-
+color coding are used. The detail of the color coding are as follows:
+Color
+Rating
+Green
+Excellent
+Blue
+Good
+Yellow
+Marginal
+Red
+Unacceptable
+
+The analyst should meticulously review all color coding and rating. For the quantitative and
+qualitative risk analysis, if the ICRR falls under "Marginal" or "Unacceptable" for any risk
+criteria (among 16 quantitative and 20 qualitative); whatever the aggregate score is, the
+relationship manager shall evaluate what would be the impacts of such on loan repayment and
+justify how those risks are mitigated; and in loan proposal the approval authority should review
+that justifications thoroughly and make necessary evaluations on it and should be documented in
+the loan file.
+In the executive summary report, the movement of the key quantitative indicators for last three
+years are also disclosed.
+The details of the executive summary are as follows:
+
+--- Page 20 ---
+File / Reference No: 10000/100/10/1 \N Tm
+
+ee কী
+Borrower Name XYZ Limited Total Score = 87.9% a
+
+Excellent
+
+rr [
+Group Name (if any) PQR Coane”
+
+রি ০৪ ০০ Quantitative Scor® 93.3% &
+
+98167 ক
+an”
+
+my
+টার রা uaittative scorns, 18.8%
+_Date of Financials AB 6791 হে
+Assessment Criteria: Greater than or equal to 85%= Excellent; 70%-84% = Good; Ya ow”
+60% to 74% = Marginal; Less than 60% = Unacceptable ‘a
+
+2015 2016 2017 5000% x 1,500 হি
+0.0 300০% a
+7 1,000
+20.0 3000% সপ শি ০৯ তি
+3০০ 2000% 500
+eee eee. 1000%
+40.0
+0% 9
+2015 2016 2017 2015 2016 2017
+— += DebtEquity ১৮০৩১ ররর Cashflow Coverage
+০০০০০৪৪ Operating Profit to Operating Assets — + =pscr
+— — Cash Ratio Current Ratio eS A Return on Asset —©— interest Coverage
+
+LEVERAGE & LIQUIDITY on COVERAGE
+0 180
+
+রাত এ -
+
+Excellent
+
+Excellent
+
+100.0%
+
+-16-
+
+--- Page 21 ---
+- 17 -
+
+Annexure 1.
+1. Detail Management Report
+
+File / Reference No:
+10000/100/10/1
+Assessment Criteria:
+Greater than or equal to 80%= Excellent; 75%-
+80% = Good; 60% to 70% = Marginal; Less than
+60% = Unacceptable
+Borrower Name
+XYZ Limited
+Group Name (if any)
+PQR
+Industry Name
+1. RMG
+Latest CIB Status
+Standard
+Indicators
+Score
+Obtained
+Risk Rating
+Audit Status
+Audited
+Quantitative
+56
+Excellent
+Auditor Name
+MNO
+93.3%
+Analyst Name, Designations
+nbv
+Qualitative
+31.5
+Good
+Verifier Name, Designation
+xyz
+78.8%
+Aggregate
+87.5
+Excellent
+Date of Analysis
+1/4/2018
+87.5%
+Date of Financials
+1/4/2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outcome
+Score
+Obtained
+Scale
+Percentage
+Risk Rating
+Quantitative Assessments
+56
+60
+93.3%
+Excellent
+Leverage
+
+10.00
+10.00
+100.0%
+Excellent
+A.1
+1. Financial Debt to
+Tangible Net Worth
+(DTN)
+-36.00
+7.00
+100.0%
+Excellent
+B.2
+2. Financial Debt to
+Total Assets (DTA)
+0.07
+3.00
+100.0%
+Excellent
+Liquidity
+
+10
+80.0%
+Good
+B.1
+1. Current Ratio (CR)
+5.43
+7.00
+100.0%
+Excellent
+B.2
+2. Cash Ratio (Cash)
+0.10
+1.00
+33.3%
+Unacceptable
+Profitability
+
+10
+10
+100.0%
+Excellent
+C.1
+1. Net Profit Margin
+(NPM)
+0.70
+5.00
+100.0%
+Excellent
+C.2
+2. Return on Assets
+(ROA)
+0.52
+3.00
+100.0%
+Excellent
+C.3
+3. Operating Profit to
+Operating Assets
+(OPOA)
+0.62
+2.00
+100.0%
+Excellent
+Coverage
+
+15
+15
+100.0%
+Excellent
+D.1
+1. Interest Coverage
+(IC)
+8.00
+3.00
+100.0%
+Excellent
+
+--- Page 22 ---
+- 18 -
+
+D.2
+2. Debt Service
+Coverage Ratio (DSCR)
+6.15
+5.00
+100.0%
+Excellent
+D.3
+3. Operating Cashflow
+to Debt Ratio (CDR)
+176.33
+4.00
+100.0%
+Excellent
+D.4
+4. Cashflow Coverage
+Ratio (CCR)
+122.08
+3.00
+100.0%
+Excellent
+Operational Efficiency
+
+10
+80.0%
+Good
+E.1
+1. Stock Turnover Days
+(STD)
+18.00
+4.00
+100.0%
+Excellent
+E.2
+2. Trade Debtor
+Collection Days (TDCD)
+3.64
+3.00
+100.0%
+Excellent
+E.3
+3. Asset Turnover (AT)
+0.74
+1.00
+33.3%
+Unacceptable
+Earning Quality
+
+5.00
+100.0%
+Excellent
+F.1
+1. Operating Cash Flow
+to Sales (CFS)
+16.03
+3.00
+100.0%
+Excellent
+F.2
+2. Cashflow based
+accrual ratio (CAR)
+-0.28
+2.00
+100.0%
+Excellent
+Qualitative Assessments
+31.5
+40
+78.8%
+Good
+Performance Behavior
+
+10
+60.0%
+Marginal
+G.1.1
+How many times the
+borrower got adversely
+classified in last 5 years
+0 time
+5.00
+100.0%
+Excellent
+G.1.2
+How many times the
+borrower's loans got
+rescheduled/
+restructured in last 5
+years
+>3 times
+0.00
+0.0%
+Unacceptable
+G.2
+Did the borrower pay
+its Suppliers/ Creditors
+regularly in last 1 year
+Yes
+1.00
+100.0%
+Excellent
+Business and Industry
+Risk
+
+6.5
+92.9%
+Excellent
+H.1
+Sales Growth
+>10%
+2.00
+100.0%
+Excellent
+H.2
+Age of Business
+>10 years
+2.00
+100.0%
+Excellent
+H.3
+Industry Prospects
+Growing but High
+Volatility
+0.50
+50.0%
+Unacceptable
+H.4
+Long Term External
+Credit Rating of the
+Borrower
+1.00
+2.00
+100.0%
+Excellent
+Management Risk
+
+100.0%
+Excellent
+I.1
+Experience of the
+Management
+More than 10 years
+in the related line of
+business
+2.00
+100.0%
+Excellent
+
+--- Page 23 ---
+- 19 -
+
+I.2
+Existence of Succession
+Plan
+Yes, with good
+capability of
+successor
+2.00
+100.0%
+Excellent
+I.3
+Auditing Firms
+Recognized
+Auditors
+2.00
+100.0%
+Excellent
+I.4
+Change in Auditors in
+last 3 years
+Yes
+1.00
+100.0%
+Excellent
+Security Risk
+
+11
+81.8%
+Good
+J.1
+Primary Security
+Fully Pledged
+facilities
+2.00
+100.0%
+Excellent
+J.2
+Collateral
+Registered
+Mortgage on
+Municipal
+corporation/Prime
+Area property
+2.00
+100.0%
+Excellent
+J.3
+Collateral Coverage
+>100%
+5.00
+100.0%
+Excellent
+J.4
+Guarantee
+Personal
+Guarantees or
+Corporate
+Guarantee without
+Strong Financial
+Strength
+FALSE
+0.0%
+Unacceptable
+Relationship Risk
+
+1.00
+33.3%
+Unacceptable
+K.1
+Account Conduct
+Accounts having
+satisfactory
+dealings with some
+late payments.
+1.00
+33.3%
+Unacceptable
+Compliance Risk
+
+2.00
+100.0%
+Excellent
+L.1
+Compliance with
+environmental rules,
+regulations and
+covenants
+Yes
+1.00
+100.0%
+Excellent
+L.2
+Corporate Governance
+and CSR activities
+Good Corporate
+Governance
+1.00
+100.0%
+Excellent
+
+--- Page 24 ---
+20
+
+Annex 2: ECAI’s Credit Rating Categories Mapped with BB’s SME Rating Grade
+
+
+BB
+Rating
+Grade
+Equivalent
+Rating of S&P
+and Fitch
+Equivalent
+Rating of
+Moody
+Equivalent
+Rating of
+CRISL
+Equivalent
+Rating of
+CRAB
+Equivalent
+Rating of
+NCRL
+Equivalent
+Rating of
+ECRL
+Equivalent
+Rating of
+ACRSL
+Equivalent
+Rating of
+ACRL
+Equivalent
+Rating of
+WASO
+AAA to AA
+Aaa to Aa
+AAA,
+AA+, AA,
+AA-
+AAA,
+AA1, AA2,
+AA3
+AAA,
+AA+, AA,
+AA-
+AAA,
+AA+, AA,
+AA-
+AAA,
+AA+, AA, AA-
+AAA,
+AA+, AA, AA-
+AAA
+AA1, AA2,
+AA3
+A+, A, A-
+A1, A2, A3
+A+, A, A-
+A+, A, A-
+A+, A, A-
+A+, A, A-
+A1, A2, A3
+BBB
+Baa
+BBB+,
+BBB, BBB-
+BBB1,
+BBB2,
+BBB3
+BBB+,
+BBB, BBB-
+BBB+,
+BBB, BBB-
+BBB+, BBB,
+BBB-
+BBB+, BBB,
+BBB-
+BBB1,
+BBB2, BBB3
+BB to B
+Ba to B
+BB+, BB,
+BB-
+BB1, BB2,
+BB3
+BB+, BB,
+BB-
+BB+, BB,
+BB-
+BB+, BB, BB-
+BB+, BB, BB-
+BB1, BB2,
+BB3
+Below B
+Below B
+B+, B, B-,
+CCC+, CCC,
+CCC-,
+CC+, CC,
+CC-
+B1, B2, B3,
+CCC1,
+CCC2,
+CCC3,
+CC
+B+, B, B-
+
+B+, B, B-
+
+B+, B, B-,
+CC+,CC,CC-
+B+, B, B-,
+CCC
+B1, B2, B3,
+CCC
+C+, C, C-, D
+C, D
+C+, C, C-,
+C+, C, C-, D
+CC+,CC,CC-,
+C+, C, C-, D
+CC1, CC2,
+CC3, C+, C,
+C-, D
+Short-Term Rating Category Mapping
+
+
+
+S1
+F1+
+P1
+ST-1
+ST-1
+N1
+ECRL-1
+ST-1
+AR-1
+P-1
+S2
+F1
+P2
+ST-2
+ST-2
+N2
+ECRL-2
+ST-2
+AR-2
+P-2
+S3
+F2
+P3
+ST-3
+ST-3
+N3
+ECRL-3
+ST-3
+AR-3
+P-3
+S4
+F3
+
+NP
+ST-4
+ST-4
+N4
+ECRL-4
+ST-4
+AR-4
+P-4
+S5,S6
+B,C, D
+ST-5, ST-6
+ST-5, ST-6
+N5
+ST-5, ST-6
+AR-5, AR-6
+P-5, P-6
+
+--- Page 25 ---
+21
+
+Annex 3: List of Eligible Collateral (as per BRPD circular no 14/2012 on Loan
+Classification and Provisioning):
+
+• 100% of deposit under lien against the loan.
+• 100% of the value of government bond/savings certificate under lien.
+• 100% of the value of guarantee given by Government or Bangladesh Bank
+• 100% of the market value of gold or gold ornaments pledged with the bank.
+• 50% of the market value of easily marketable commodities kept under control of the
+bank.
+• Maximum 50% of the market value of land and building mortgaged with the ban
+50% of the average market value for last 06 months or 50% of the face value, whichever
+is less, of the shares traded in stock exchange.
+
+--- Page 26 ---
+22
+
+Annex 4: Detail Quantitative Analysis
+
+
+Quantitative Analysis
+File / Reference No:
+10000/100/10/1
+
+
+
+
+Borrowe Name
+xyx
+
+
+
+Group Name (if any)
+ABC
+
+
+
+Industry Name
+14. Other Industries
+
+
+Latest CIB Status
+Standard
+
+
+
+Audit Status
+Audited
+
+
+Auditor Name
+EFG
+
+
+
+Analyst Name, Designations
+Naoaj
+
+
+
+Verifier Name, Designation
+PQR
+
+
+
+Date of Analysis
+43104
+
+
+
+Date of Financials
+43104
+
+
+
+
+
+
+
+
+Quantitative Indicators (60)
+Criteria
+Parameter
+Scale
+Actual
+Parameter
+Score Obtained
+A. Leverage
+
+10
+
+4.00
+1. Financial Debt to Tangible
+Net Worth (DTN)
+
+3.14
+2.00
+
+
+
+
+
+2. Financial Debt to Total
+Assets (DTA)
+
+0.64
+2.00
+
+
+
+
+
+B. Liquidity
+
+10
+
+1. Current Ratio (CR)
+
+1.08
+6.00
+
+
+
+
+
+2. Cash Ratio (Cash)
+
+0.01
+0.00
+
+
+
+
+
+C. Profitability
+
+10
+
+1. Net Profit Margin (NPM)
+
+0.46%
+0.00
+
+
+
+
+
+2. Return on Assets (ROA)
+
+0.41%
+0.00
+
+
+
+
+
+3. Operating Profit to
+Operating Assets (OPOA)
+
+5.59%
+1.00
+
+
+
+
+
+D. Coverage
+
+15
+
+1. Interest Coverage (IC)
+
+1.26
+1.00
+
+
+
+
+
+2. Debt Service Coverage
+Ratio (DSCR)
+
+0.84
+1.00
+
+--- Page 27 ---
+23
+
+
+
+
+
+
+3. Operating Cashflow to Debt
+Ratio (CDR)
+
+0.04
+1.00
+
+
+
+
+
+4. Cashflow Coverage Ratio
+(CCR)
+
+0.38
+2.00
+
+
+
+
+
+E. Operational Efficiency
+
+10
+
+1. Stock Turnover Days (STD)
+
+
+260
+0.00
+
+
+
+
+
+2. Trade Debtor Collection
+Days (TDCD)
+
+
+45
+3.00
+
+
+
+
+
+3. Asset Turnover (AT)
+
+
+88.15%
+2.00
+F. Earning Quality
+
+
+1. Operating Cash Flow to
+Sales (CFS)
+
+2.82%
+1.00
+
+
+
+
+
+2. Cashflow based accrual
+ratio (CAR)
+
+0.03
+0.00
+Total
+
+60
+
+22
+Percentage
+
+37%

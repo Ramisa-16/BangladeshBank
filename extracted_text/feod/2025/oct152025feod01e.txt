@@ -1,0 +1,92 @@
+--- Page 1 ---
+Foreign Exchange Operation Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+
+
+FEOD Circular No-01
+
+
+
+
+Date: 15 October 2025
+
+
+
+
+
+
+
+
+
+All Authorized Dealers in
+Foreign Exchange in Bangladesh
+
+
+
+Dear Sir,
+
+Reporting of information from Commercial Invoice and other relevant
+documents through Online Import Monitoring System.
+
+
+
+Authorized Dealers (ADs) are reporting import transaction and information in
+Online Import Monitoring System (OIMS) of Bangladesh Bank. To facilitate import
+OIMS has been integrated with designated Online Systems of the National Board of
+Revenue (NBR) through Application Programming Interface (API).
+
+02. For further ease in import trade process, it has been decided to introduce a new
+reporting tab titled ÔCommercial Invoice’ in the OIMS, under which ADs are required to
+report information from commercial invoice and other relevant documents. In this
+context, ADs are advised to report those information following the procedures uploaded
+in Documents>Other Documents/Guidelines>Commercial Invoice Data Entry/Upload
+Manual of OIMS.
+03. This circular is issued under Section 20 (3) of Foreign Exchange Regulation
+Act, 1947 and Section 45 (1) (Gha) of Bank Company Act, 1991, and will be effective
+from 01 November, 2025.
+04. Please bring the above instructions to the notice of your concerned clientele.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yours Faithfully,
+
+
+
+
+
+
+
+
+
+(Kamal Hossain)
+Director (FEOD)
+
+
+
+
+
+
+
+
+
+Phone: 9530127

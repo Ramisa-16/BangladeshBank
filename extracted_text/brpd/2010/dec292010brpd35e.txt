@@ -1,0 +1,329 @@
+--- Page 1 ---
+Website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+www.bb.org.bd
+
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+December 29 , 2010
+BRPD Circular No. - 35
+
+Date: -----------------------
+
+
+Poush 15 , 1417
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+
+
+Amendment in Guidelines on Risk Based Capital Adequacy (RBCA) for Banks
+
+Please refer to BRPD Circular No. 24 dated August 3, 2010 through which “Revised Guidelines
+on Risk Based Capital Adequacy (RBCA) for Banks”, August 2010 have been issued.
+To make some instructions of the guidelines more specific and transparent, the following
+directives have been rephrased and revised:
+
+SL
+No.
+Reference Chapter and
+paragraphs
+Amendments
+Inclusion in Para-1.4 (e),
+Chapter -1, Page - 3
+Limitation of Tier 3: A minimum of about 28.5% of market risk needs
+to be supported by Tier 1 capital. Supporting of Market Risk from Tier
+3 capital shall be limited up to maximum of 250% of a bank’s Tier 1
+capital that is available after meeting credit risk capital requirement.6
+Correction in Para 1.5 (f),
+Chapter -1
+Page - 4
+Holding of equity shares in any form exceeding the approved limit
+under section 26(2) of Ôe¨vsK †Kv¤úvbx AvBb, 1991Õ (Bank Company Act,
+1991). The additional/unauthorized amount of holdings will be
+deducted at 50% from Tier 1 capital and 50% from Tier 2 capital.
+Correction in Para 1.9
+(c), Chapter -1
+Page - 5
+BB may impose penalty as per Ôe¨vsK †Kv¤úvbx AvBb, 1991Õ
+Replacement of “small
+enterprise" by "SME”
+in Para-2.2.9
+Chapter-2, Page-8
+Loans and advances to and investments (excluding equity exposure) in
+corporate. “Corporate” refers to any proprietorship, partnership or
+limited company that is neither PSE, bank, NBFI nor borrower within
+the definition of retail portfolio and SME (having exposure within the
+limit stipulated in the section below).
+Replacement of “small
+enterprise" by "SME”
+in Para-2.2.10
+Chapter-2, Page:8-9
+Claims categorized as retail portfolio and SME
+Correction in Para-2.2.10
+Chapter-2, Page-9
+Exposure limit: The maximum aggregate exposure will be limited to
+BDT 1.00 (one) crore.
+Contd. page/2
+
+--- Page 2 ---
+Correction in Para-2.2.16
+Chapter-2, Page-9
+Venture capital is provided as funding to early-stage, high-potential,
+growth companies in the interest of generating a return through an
+eventual realization event.
+Correction in Para-2.2.17
+Chapter-2, Page:9-10
+d) Claims on Off-shore Banking Units (OBU)
+e) Other asset (if any other items which are not specified above).
+Revision in Table – 1,
+Chapter – 2 , Page - 10
+Please see Annex-1.
+10
+Inclusion in Table – 2,
+Chapter – 2 , Page - 13
+n. Capital Market Exposures – Risk Weight 125%
+11
+Correction in Table-2
+Chapter-2, Page-13
+Sl.
+Exposure Type
+
+Risk Weight
+All other assets
+
+
+iv) Claims on Off-shore Banking Units (OBU)
+100
+
+12
+Revision in Table – 3,
+Chapter – 2, Page - 14
+Risk Weight for Short Term Exposures
+BB’s Rating Grade
+S1
+S2, S3
+S4
+S5, S6
+Risk Weight (%)
+20
+50
+100
+150
+13
+Table – 7, Chapter – 2
+Page - 17
+Short-term self-liquidating trade letters of credit arising from the
+movement of goods (e.g. documentary credits collateralized by the
+underlying shipment), for both issuing and confirming banks.
+14
+Correction in Last Row,
+Table – 8,
+Chapter – 2, Page - 21
+Same as minimum CAR
+15
+Para 2.6.7, Chapter – 2
+Page - 24
+In case of non-market related OBS transactions in foreign currency, the
+notional amount will be adjusted by an add-on factor of 5% for
+exchange rate fluctuation.
+
+For example, in case of a short term self liquidating letter of credit in
+USD equivalent to BDT 50 lac with cash margin BDT 5 lac, the
+notional amount will be BDT 52.5 lac [i.e. BDT 50 lac × (1+5%)], and
+the net notional amount will be BDT 47.5 lac [i.e. BDT 52.5 lac - BDT
+5 lac]. So the on balance sheet equivalent will be BDT 9.5 lac [i.e. BDT
+47.5 lac × 20%] as the CCF for this transaction is 20%.
+16
+Revision of Definition of
+Market Risk ,
+Para-3.2.1,
+Chapter – 3, Page - 26
+Generally, investments which are held for trading and readily available
+for sale are major parts of the trading book. To be mentioned that all
+listed shares have to be included in the trading book. In addition,
+positions should be prudently and accurately valued, and the portfolio
+should be actively managed.
+17
+Correction in Table – 11,
+Chapter – 3,
+Colum – 4, Page -30
+Banks may use the following formula to measure interest rate
+sensitivity of the instrument:
+U MVE = -DGAP*[Ui/(1+y)]* Total asset
+18
+Correction in Para-3.5.6.2
+Chapter-3, Page-35
+The capital charge will be at the rate of the required minimum capital
+adequacy ratio of the overall net open position. For example, we may
+assume that a bank has long and short positions in Yen, Euro, GBP,
+Australian dollar and US dollar and the minimum capital adequacy ratio
+is 8% as given below in Table 15.
+Contd. page/3
+
+--- Page 3 ---
+19. Replacement of ‘Model
+Risk’ by ‘Evaluation of
+Core Risk Management’
+in Para 5.5.3
+Chapter 5, Page 47
+Evaluation of Core Risk Management: Core risk management
+guidelines are provided with the banks with a view to enhance
+knowledge, skill and to introduce uniform risk management system in
+the banks. No-compliance of core risk management comes out of
+under-estimation of assessment procedure, valuation, level of
+implementation etc. and leads to the bank’s financial losses. It may be
+caused by the negligence, knowledge limits, insufficient data or
+changes which make approaches imperfect. To check these issues
+management of core risks and its rating could be evaluated and
+disregard of core risks management may be linked with the additional
+capital requirement. The bank should assess the potential deficiencies
+of the applied methods and take them into consideration during the
+SRP. If BB finds the capital requirement of the bank calculated with the
+applied methods insufficient to cover its risks at the time of its review,
+it may require the banks to take specific action or raise additional
+capital determined through the SRP-SREP dialogue.
+20. Deletion of ‘Country
+Risk’ in Para 5.5.5
+Chapter 5, Page 48
+“Deleted”
+19. Inclusion in Reporting
+Format, Eligible Capital:
+Row – 2.9, Page - 68
+Deductions if any (e.g. Investments in subsidiaries which are not
+consolidated - 50%)
+
+The above amendments along with the necessary changes in the reporting format have been
+included in the “Revised Guidelines on Risk Based Capital Adequacy (RBCA) for Banks”,
+December 2010 which will replace the earlier RBCA guideline, August 2010.
+This circular along with the revised guidelines are available on the websites of Bangladesh
+Bank.
+Please acknowledge receipt.
+
+
+Encl as stated above.
+Yours Sincerely,
+
+(K.M. Abdul Wadood)
+General Manager (In Charge)
+Phone : 7117825
+
+--- Page 4 ---
+Annex-1
+Short Term Rating Category Mapping
+S1
+F1+
+P1
+ST-1
+ST-1
+N1
+ECRL-1
+S2
+F1
+P2
+ST-2
+ST-2
+N2
+ECRL-2
+S3
+F2
+P3
+ST-3
+ST-3
+N3
+ECRL-3
+S4
+F3
+
+NP
+ST-4
+ST-4
+N4
+ECRL-4
+S5, S6
+B,C ,D
+
+ST-5, ST-6
+ST-5 ,ST-6
+N5
+
+
+
+Long Term Rating Category Mapping
+BB’s
+Rating
+Grade
+Equivalent
+Rating of S&P
+and Fitch
+Equivalent
+Rating of
+Moody
+Equivalent Notch/Notation of
+CRISL
+Equivalent Notch/Notation of
+CRAB
+Equivalent Notch/Notation of
+NCRL
+Equivalent
+Notch/Notation of
+ECRL
+
+
+AAA to AA
+Aaa to Aa
+AAA
+AAA
+AAA
+AAA
+AA+, AA, AA-
+AA1, AA2, AA3
+AA+, AA, AA-
+AA+, AA, AA-
+A+, A, A-
+A1, A2, A3
+A+, A, A-
+A+, A, A-,
+BBB
+Baa
+BBB+, BBB, BBB-
+BBB1, BBB2, BBB3
+BBB+, BBB, BBB-
+BBB+, BBB, BBB-
+
+BB to B
+
+Ba to B
+
+BB+,BB, BB-
+BB1, BB2, BB3,
+
+BB+, BB, BB-,
+
+BB+, BB, BB-
+
+
+Below B
+Below B
+B+, B, B-
+CCC+, CCC, CCC-
+CC+, CC, CC-
+B1, B2, B3
+CCC1, CCC2, CCC3
+CC
+B+, B, B-
+
+B+, B, B-
+
+C+, C, C-, D
+
+C, D
+C+, C, C-, D
+C, D

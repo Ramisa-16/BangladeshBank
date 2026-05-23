@@ -1,0 +1,377 @@
+--- Page 1 ---
+www.bb.org.bd
+
+পেমেন্ট সিস্টেমস্‌ ডিপার্টমেন্ট
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা
+০৬ মে, ২০২১
+পিএসডি সার্কুলার নং ৪ ০৬/২০২১ তারিখ ৪ --------------২
+২৩ বৈশাখ, ১৪২৮
+
+ব্যবস্থপনা পরিচালক/ প্রধান নির্বাহী কর্মকর্তা
+
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক, মোবাইল ফিন্যান্সিয়াল সার্ভিসেস্‌ এমএফএস) প্রোভাইডার, পেমেন্ট সার্ভিস প্রোভাইডার
+(পিএসপি), এবং পেমেন্ট সিস্টেম অপারেটর (পিএসও)
+প্রধান কার্যালয়, ঢাকা |
+
+‘Guidelines for trust fund management
+
+in payment and settlement services’ Ata প্রসঙ্গে |
+
+মোবাইল ফিন্যান্সিয়াল সার্ভিসেস্‌ (এমএফএস) প্রোভাইডার, পেমেন্ট সার্ভিস প্রোভাইডার (পিএসপি), এবং পেমেন্ট সিস্টেম
+অপারেটর (পিএসও)-সমূহ পরিশোধ (Payment) ও লেনদেন নিষ্পত্তি (Settlement) সেবা প্রদানের প্রক্রিয়ায় গ্রাহকের/
+
+মার্চেন্টের অর্থ কিছু সময়ের জন্য নিজেদের জিম্মায় ধারণ করে থাকে । সেবা প্রদানকারী প্রতিষ্ঠানসমূহ কর্তৃক ধারণকৃত উক্ত অর্থের
+
+নিরাপত্তা বিধান এবং সংশ্লিষ্ট পক্ষসমূহের স্বার্থ রক্ষার্থে এতদ্সঙ্গে সংযুক্ত ‘Guidelines for trust fund management in
+
+payment and settlement services’ শীর্ষক নীতিমালাটি প্রণয়ন করা হলো। এক্ষণে উক্ত নীতিমালাটি পরিপূর্ণভাবে
+
+পরিপালনের জন্য আপনাদেরকে নির্দেশ প্রদান করা হলো।
+
+এ নির্দেশ অবিলম্ষে কার্যকর হবে।
+আপনাদের বিশ্বস্ত,
+
+(মোঃ মেজবাউল হক)
+মহাব্যবস্থাপক
+ফোন: ৯৫৩০১৭৪
+ই-মেইল: mezbaul.haque @ bb.org.bd
+
+--- Page 2 ---
+Version 1
+
+Page 1 of 11
+
+
+
+
+
+
+GUIDELINES FOR TRUST FUND MANAGEMENT
+IN
+PAYMENT AND SETTLEMENT SERVICES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payment Systems Department
+Bangladesh Bank
+
+--- Page 3 ---
+Version 1
+
+Page 2 of 11
+May 2021
+
+
+Revision History
+
+Date
+Version
+Amendment / Change Description
+May 2021
+1.0
+Initial publication
+
+--- Page 4 ---
+Version 1
+
+Page 3 of 11
+TABLE OF CONTENTS
+
+1. Introduction ................................................................................................................................. 5
+2. Mandate....................................................................................................................................... 5
+3. Scope ........................................................................................................................................... 5
+4. Definitions................................................................................................................................... 5
+5. Establishment of the Trust Fund ................................................................................................. 7
+6. Instances of the establishment of Trust Fund ............................................................................. 7
+7. Establishment of Trust Cum Settlement Account (TCSA) ......................................................... 8
+8. The balance between outstanding liability and the Trust Fund .................................................. 8
+9. Investment of Trust Fund ........................................................................................................... 9
+10. Interest on Trust Fund ............................................................................................................... 9
+11. Operation of Trust Cum Settlement Account (TCSA) ............................................................. 9
+12. Disclosure ............................................................................................................................... 10
+13. Audit & Oversight .................................................................................................................. 10
+14. Penalties for violation of condition 11
+
+--- Page 5 ---
+Version 1
+
+Page 4 of 11
+LIST OF ABBREVIATIONS
+
+AML
+Anti Money Laundering
+BPSSR
+Bangladesh Payment and Settlement Systems Regulations
+CFT
+Combating Financing of Terrorism
+E-money
+Electronic Money
+E-wallet
+Electronic Wallet
+FDR
+Fixed Deposit Receipt
+MFS
+Mobile Financial Services
+NOC
+No Objection Certificate
+PSO
+Payment System Operator
+PSP
+Payment Service Provider
+TCSA
+Trust Cum Settlement Account
+TCSB
+Trust Cum Settlement Bank
+
+--- Page 6 ---
+Version 1
+
+Page 5 of 11
+Guidelines for trust fund management in payment and settlement services
+1. Introduction
+Bangladesh Bank, under clause 5 of Bangladesh Payment and Settlement Systems Regulations
+2014, issues licenses to nonbank entities those desire to provide payment and settlement services
+in Bangladesh. In the process of facilitating payment and settlement services, these entities hold
+money that does not belong to them rather belongs to their customers and, or payment
+participants. A Trust Fund, within the scope of these guidelines, will comprise of any such
+money that creates a liability of the service providing entity to its customers and, or participants
+in the process of mutual business arrangement. Hence, these guidelines are aimed at protecting
+the interest of the customers, who have a lawful claim on such fund at any point in time.
+2. Mandate
+These Guidelines have been issued in exercise of the power conferred by clause 7A (e) of the
+Bangladesh bank Order 1972, clause 49(1)(Uma) of the Bank Company Act 1991 and clause
+13(2) of Bangladesh Payment and Settlement Systems Regulations (BPSSR) 2014.
+3. Scope
+These guidelines shall be applicable for Mobile Financial Services (MFS), Payment Service
+Provider (PSP), Payment System Operator (PSO), and any other nonbank entity authorized by
+Bangladesh Bank to provide payment and, or settlement services that require to hold Trust Fund
+against the payment and, or settlement obligation created by the entity to its customers and, or
+participants. The relevant clauses of these guidelines shall also be applicable for scheduled banks
+that open and maintain Trust Cum Settlement Account for the Trustee.
+4. Definitions
+Company means an entity established under the Companies Act, 1994 which can be liquidated
+following the same Act.
+Customer means a person or an organization-
+a) who has a business relationship with a Payment Service Provider or a Payment Systems
+Operator or a Payment Systems Participant;
+b) for whom a bank or a Payment Service Provider or a Payment Systems Operator or a
+Payment Systems Participant is assigned to or willing to provide service;
+c) who is interested in conducting transactions using a bank account, a debit, credit or
+prepaid card, a e-wallet, or any other approved means.
+
+--- Page 7 ---
+Version 1
+
+Page 6 of 11
+Electronic Money means electronically stored monetary value issued against or as an alternative
+to legal tender; which can be used as a mode of payment; and is accepted by any person
+including its issuer.
+E-Wallet is a virtual store/wallet where electronic money is preserved.
+Legal Tender means the paper notes and coins issued by Bangladesh Bank or by the
+Government, and that is legally accepted as a means of payment for goods, services, and to repay
+debt.
+Payment means the process of transferring the obligation by the payer to a third party acceptable
+by the receiver. This transfer may be done through fiat money, electronic money, or through
+Central bank Digital Currency.
+Payment Instrument is an electronic or paper-based instrument through which the customer
+provides instruction for transfer of funds to its Payment System Operator or Payment Service
+Provider or Payment System Participant.
+Payment Services include deposit & withdrawal of cash, transfer of funds, issuance of payment
+instruments, issuance of electronic money, and other related services.
+Payment System Operator (PSO) means an entity licensed by Bangladesh Bank to operate a
+payment system for the participants or assist otherwise to ease the payment function of its
+customers.
+Payment System Participants are entities who participate or in cases operate a payment and
+settlement system to exchange, clear and settle funds and government securities for themselves
+or on behalf of its customers.
+Payment Service Provider (PSP) means an entity licensed by Bangladesh Bank to provide
+electronic money services to its customers and keep the aggregate balance of the issued e-money
+to a Trust Cum Settlement Account in a scheduled bank.
+Trust cum Settlement Bank (TCSB) means a scheduled commercial bank that opens trust cum
+settlement account for the participant of a system to hold funds and to settle transactions between
+participants in the systems.
+Trust cum Settlement Account (TCSA) means a custody account where the legal tender shall
+be stored against the issuance of e-money by a Payment Service Provider, or where the legal
+tender that received from the service recipient of the payment system operator or any other
+authorized entity for maintaining such account, and the balance of the account shall not be used
+for any purpose other than the approved ones.
+Trust Fund, within the scope of these guidelines, will comprise of any fund held by a payment
+service participants or any entity authorized by Bangladesh Bank to do so, that creates a liability
+of the service providing entity to its customers and, or participants.
+
+--- Page 8 ---
+Version 1
+
+Page 7 of 11
+5. Establishment of the Trust Fund
+5.1 The money received by MFS, PSP, PSO, or any other nonbank entity from its customers and,
+or participants for issuing e-money/ payment instrument and, or settlement of transactions or
+sales proceeds or any other fund directed by Bangladesh Bank shall be held in the Trust
+Fund.
+5.2 The MFS, PSP, PSO, or the nonbank entity that holds the Trust Fund, or any other person or
+entity authorized by Bangladesh Bank, shall be the Trustee.
+5.3 The customers and, or participants who have lawful payment and settlement claims on the
+fund shall be the beneficiary of the Trust Fund.
+5.4 Bangladesh Bank shall be the Overseer of the Trust Fund on behalf of the beneficiaries.
+Without limiting the powers that the Overseer may have in law or otherwise, the powers shall
+include the following:
+(a) The Overseer may, if requires, enforce the terms of the Trust on behalf of the
+Beneficiaries;
+(b) The Overseer, if requires, may ask for documents from Bank or Trustee and may conduct
+offsite/onsite inspection related to the Trust Fund;
+(c) The Overseer may direct Bank or Trustee to amend any part(s) of the Trust Cum
+Settlement Account Agreement that may be deemed necessary to protect beneficiaries’
+interests within the scope of the applicable laws;
+(d) The Overseer, if deems necessary to protect beneficiaries’ interests, may remove existing
+Trustee(s) and appoint a new Trustee(s); and
+(e) The Overseer may take any other lawful measures to protect beneficiaries’ interests.
+6. Instances of the establishment of Trust Fund
+6.1 PSPs or MFS Providers are authorized to issue e-money and, or payment instruments in
+exchange for an equal amount of legal tender. The e-money and, or payment instrument
+creates a liability of the issuer to the bearer. Hence, the issuer holds the legal tender on trust
+against its liability arises from the issuance of e-money and, or payment instrument.
+6.2 PSO providing merchant acquiring/ collection services holds merchants’ sale proceeds on
+trust for an agreed-upon time before settlement. Therefore, the money reflects a liability of
+the PSO to its actual owner i.e. the merchants.
+
+--- Page 9 ---
+Version 1
+
+Page 8 of 11
+6.3 Any other nonbank entity that facilitates payment and, or settlement services and is required
+to hold fund of its customers and, or participants on trust in accordance with the approval of
+Bangladesh Bank.
+7. Establishment of Trust Cum Settlement Account (TCSA)
+7.1 The MFS, PSP, PSO, or any other nonbank entity that holds the Trust Fund shall open and
+maintain, subject to the prior approval of Bangladesh Bank, Trust Cum Settlement
+Account(s) with the scheduled commercial bank(s) in Bangladesh.
+7.2 In case of opening multiple Trust Cum Settlement Accounts in the same bank, the Trustee
+and the Bank shall inform Bangladesh Bank within 15 days of opening the subsequent Trust
+Cum Settlement Account(s).
+7.3 The title of the account shall include “Trust Cum Settlement Account (TCSA)”.
+7.4 There shall be an agreement between the Trust Cum Settlement Bank and the Trustee
+mentioning operational procedures of the account along with the roles and responsibilities of
+each party.
+7.5 The agreement shall empower Bangladesh Bank as the Overseer of the Trust Fund on behalf
+of the beneficiaries.
+7.6 No Trust Cum Settlement Account to be closed or transferred by either party without prior
+approval of Bangladesh bank.
+8. The balance between outstanding liability and the Trust Fund
+8.1 At each day end, the Trustee shall ensure that the Trust Fund is greater than or equal to the
+outstanding liability to its customers and, or participants for issuing e-money/ payment
+instrument and, or settlement of transactions or sales proceeds.
+8.2 If there is any shortfall in the Trust Fund, the Trustee shall deposit the required amount to
+correct the mismatch.
+8.3 The Trustee and the Trust Cum Settlement Bank should share information about the
+outstanding liability of the Trustee and the Trust Fund recurrently to avoid any day end
+mismatch.
+
+--- Page 10 ---
+Version 1
+
+Page 9 of 11
+9. Investment of Trust Fund
+A certain portion, as instructed and, or approved by Bangladesh Bank from time to time, of the
+Trust Fund has to be invested in approved government securities, Fixed Deposit Receipt (FDR)
+and/or any other approved instrument. In the event of such investment:
+a) The principal amount of the investment shall always be credited back to the Trust Cum
+Settlement Account (TCSA) upon maturity or sale.
+b) Investment in FDR shall take place in the same Trust Cum Settlement Bank.
+10. Interest on Trust Fund
+The MFS, PSP, PSO or any other entity authorized to hold Trust Fund shall maintain separate
+Operational Account linked to Trust Cum Settlement Account(s) for receiving interest and
+service charges. Any interest earned on the Trust Fund should be applied in the following way
+and following order of priority:
+a) Shall be used to pay any operating expenses of the Trust Fund including any government
+and/or bank fees;
+b) Pay expenses of the customer awareness and loyalty programs;
+c) The remaining balance may be paid as operating fees to the Trustee.
+11. Operation of Trust Cum Settlement Account (TCSA)
+The operation of the Trust Cum Settlement Account(s) shall be subjected to the following
+conditions:
+11.1 The Trust Cum Settlement Account(s) shall be used for collecting, disbursing, holding,
+settling, fee realization and, or investing the Trust Fund received from customers and, or
+participants in the process of payment and settlement services.
+11.2 No loan is permissible against the Trust Fund and, or any other instruments that are derived
+from the Trust Fund. Therefore, the bank shall not issue any deposit certificate/guarantee for
+taking a loan or using the fund as collateral. The instrument should be marked as issued against
+Trust Fund.
+11.3 The Trust Cum Settlement Account and the Trust Fund cannot be used for /co-mingled with
+other day-to-day company operations of the Trustee.
+
+--- Page 11 ---
+Version 1
+
+Page 10 of 11
+11.4 The Trust Cum Settlement Account shall be maintained in local currency with the
+scheduled bank(s) in Bangladesh.
+11.5 The Trustee may share the list of customers/merchants/aggregators and, or any other
+participants in its system with the Trust Cum Settlement Bank for mutual safety and security and
+update the same from time to time.
+11.6 All parties shall follow AML/CFT related policies and procedures issued by Bangladesh
+Bank, Bangladesh Financial Intelligence Unit, and other related government agencies.
+11.7 The Bank and Trustee should monitor transaction Caps (if any) for transactions through
+Trust Cum Settlement Account.
+11.8 The Trustee shall monitor debit/credit entries in the Trust Cum Settlement Account
+carefully and ensure compliance with relevant rules and regulations.
+11.9 In any circumstances, the Trust Fund shall be kept secured for the beneficiaries from other
+liabilities of the service provider.
+11.10 In case of multiple Trust Cum Settlement Accounts, the Trustee may transfer money from
+one Trust Cum Settlement Account to another Trust Cum Settlement Account.
+11.11 The Trustee may transfer realized fees/ charges to its linked operational account. Cash
+withdrawal from the Trust Cum Settlement Account is not permissible.
+12. Disclosure
+The Trust Fund and the outstanding liability of the Trustee to its customers and, or participants
+should be presented separately in the audited Financial Statement of the Trustee.
+13. Audit & Oversight
+13.1 The Trustee shall have an effective internal audit mechanism to monitor its outstanding
+liability and the Trust Fund.
+13.2 The Trustee must appoint a Chartered Accountant Firm to conduct a separate audit to ensure
+that the outstanding liability and corresponding balances into the Trust cum Settlement
+Account(s) are audited for the compliance of requirement stated in clause 8.1 and obtain
+certification in this regard at least once each financial year. The Trustee must submit the said
+certification to the overseer within 30 days after the completion of the mentioned audit.
+
+--- Page 12 ---
+Version 1
+
+Page 11 of 11
+13.3 The Trustee must provide Bangladesh Bank:
+a) The audited annual report; and
+b) Financial statements and, or reports as prescribed by Bangladesh Bank.
+14. Penalties for violation of condition
+Bangladesh Bank reserves the right of imposing financial penalties, withholding, suspending and
+cancelling the approval/NOC, if the activities of a service provider seem to be detrimental to
+public interest.
+---END--

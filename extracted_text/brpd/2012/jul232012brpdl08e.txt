@@ -1,0 +1,111 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+
+Banking Regulation and Policy Department
+
+Bangladesh Bank
+Head Office
+Dhaka
+Shrabon 08, 1419
+BRPD Circular Letter No.-08 Date: -----------------------
+July 23, 2012
+Chief Executives
+All Scheduled Banks in Bangladesh
+Dear Sir,
+
+Clarifications regarding si
+
+on Risk
+
+rtions of
+
+RBCA
+
+Adeg
+
+ome po
+
+Please refer to BRPD Circular No. 35 dated December 29, 2010 through which “Revised Guidelines on Risk
+Based Capital Adequacy (RBCA) for Banks”, December 2010 have been issued.
+
+It has been observed that there is an understanding gap in calculating risk weighted assets against claims of
+banks (loans and equity investment) on Merchant banks, Brokerage houses and Exchange houses for the purpose of
+determining minimum required capital.
+
+For minimizing the gap, references of the following table will be applicable for the above stated purpose:
+
+Applicable Place of
+Reporting Format
+Work Sheet-I =
+
+h. Claims on Corporate
+
+Applicable Risk
+Weig
+BB Rating
+
+Type of Loan/Investment Applicable Portion of
+Guidelines on RBCA
+
+Chapter 2. Credit Risk
+
+Table 2: Risk Weights for
+
+Balance Sheet Exposure:
+
+h. Claims on Corporate
+
+(excluding equity exposures)
+
+Loans/Advances to
+Exchange Houses by bank
+
+Loans/Advances to | Chapter 2. Credit Risk Work Sheet—1 : 125%
+Merchant Banks and| Table 2: Risk Weights for | o. Capital Market
+Brokerage Houses by bank | Balance Sheet Exposure Exposures
+
+n. Capital Market Exposures
+Chapter 2. Credit Risk
+
+Table 2: Risk Weights for
+Balance Sheet Exposure
+
+0. Unlisted equity investments
+and regulatory capital instruments
+issued by other banks (other than
+
+Work Sheet—1 125%
+p- Unlisted equity
+investments and regulatory
+capital instruments issued
+by other banks (other than
+those deducted from
+
+Investments of banks in the
+shares (equity) of
+Merchant Banks,
+Brokerage Houses and
+Exchange Houses those are
+not listed in Stock
+
+Exchanges those deducted from capital) held | capital) held in banking
+
+in banking book book
+Investments of banks in the | Chapter 3. Market Risk Work Sheet—3(c) : Capital | At the rate of required
+shares (equity) of | 3.5.5.Capital charges for equity | Charge on Equities minimum CAR as
+Merchant Banks, | position risk determined by
+
+Brokerage Houses and Bangladesh Bank
+Exchange Houses those are
+
+listed in Stock Exchanges
+
+This Circular Letter will be come into effect from the September, 2012 quarter end for RBCA reporting.
+
+Please acknowledge receipt.
+
+Yours es!
+
+(Chowdhury 1৬0. Feroz Bin Alam)
+Deputy General Manager
+Phone : 7125021

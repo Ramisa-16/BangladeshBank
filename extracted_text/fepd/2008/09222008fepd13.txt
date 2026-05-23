@@ -1,0 +1,814 @@
+--- Page 1 ---
+বৈদেশিক মুদ্বা নীতি বিভাগ
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা |
+
+বাংলাদেশে ব্যাংক ওয়েব সাইট 2 www.bangladesh-bank.org.bd
+
+আশ্বিন ০৭, ১৪১৫ বাং
+এফ-ই সার্কুলার নং- ১৩ তারিখ £ --------
+TUPI ২২, ২০০৮ Ae
+
+বৈদেশিক মুদ্রা লেনদেনে নিয়োজিত
+সকল অনুমোদিত ডিলার |
+প্রিয় মহোদয়গণ,
+
+ইপিজেডের শিপ প্রতিষ্ঞান তেফ-শোর ব্যাংকিং ইউনিটসহ) এবং কাফকো FOS সম্পাদিত বৈদেশিক
+
+গাইডলাইন ফর ফরেন এক্সচেঞ্জ GSH, ১৯৯৬ এর ভলিযুম-২ এর দ্বিতীয় অধ্যায়ের ১৪ নং অনুচ্ছেদের প্রতি
+আপনাদের দৃষ্টি আকর্ষণপূর্বক জানানো যাচ্ছে যে, ইপিজেডের শিল্প প্রতিষ্ঠানসমূহের বৈদেশিক লেনদেনের মধ্যে রপ্তানি আয়,
+আমদানি ব্যয় ও স্থানীয় ব্যয়ের তথ্য রিপোর্ট করা হলেও অদৃশ্যখাতে পরিশোধ প্রদান ও গ্রহণ সংশ্লিষ্ট তথ্য এবং কাফকো এর
+রপ্তানি তথ্য রিপোর্টকৃত হচ্ছে না | এমতাবস্থায়, ইপিজেডের শিল্প প্রতিষ্ঠানসমূহ হতে অন্যান্য অদৃশ্যখাতে বহির্বিশ্বের সাথে
+লেনদেন ছাড়াও ইপিজেড হতে বাংলাদেশ, বাংলাদেশ হতে ইপিজেডের সকল বৈদেশিক লেনদেন এবং কাফকো হতে সার
+আমদানির লেনদেন সঠিকভাবে রিপোর্টিং এর বিষয়টি নিশ্চিতকরণের লক্ষ্যে নিন্নবর্ণিত Rema অনুসরণ করার জন্য পরামর্শ
+দেয়া যাচ্ছে £
+
+€ক)) সকল অনুমোদিত ডিলার ব্যাংক এবং অফ-শোর ব্যাংকিং ইউনিটে সংরক্ষিত শুধুমাত্র ইপিজেডের প্রতিষ্ঠানসমূহের
+সকল লেনদেনের তথ্য ইপিজেডের জন্য হাল্কা হলুদ বর্ণের সামারী স্টেটমেন্ট 5-10 পেরিশিষ্ট-ক) এবং অফ-শোর ব্যাংকিং
+ইউনিটের জন্য হলুদ বর্ণের সামারী স্টেটমেন্ট 5-11 (পরিশিষ্ট-খ) এবং সংশ্লিষ্ট পরিমার্জিত সিডিউল -1 ও -2 এ রিপোর্ট করতে
+হবে; FormC ও TM Form দাখিল করতে হবে না |
+
+(a) অদৃশ্য আয়ের তথ্য সিডিউল J-1 এর মাধ্যমে J-1 এবং IRV-1 এর সম্পূর্ণ লেনদেন এবং সিডিউল এ-2 এর
+মাধ্যমে J-2 এবং IRV-2 এর সম্পূর্ণ লেনদেন রিপোর্ট করতে হবে |
+
+(A) পৃথক কান্টি কোড না থাকার প্রেক্ষিতে ইপিজেড কতৃক বাংলাদেশের সাথে সম্পাদনযোগ্য সকল লেনদেনের জন্য
+কান্টি কোড '9999' বরাদ্দ করা হলো |
+
+€ঘ) অনুমোদিত ডিলার ব্যাংক এবং অফ-শোর ব্যাংকিং ইউনিট কর্তৃক এখন থেকে ইপিজেডের প্রতিষ্ঠানসমূহের
+লেনদেনের ক্ষেত্রে নির্দিষ্ট মুদ্রার পরিবর্তে সকল বিনিময়যোগ্য মুদ্বায় লেনদেনের অনুমোদন দেয়া হলো; আকুর মাধ্যমে সম্পাদিত
+লেনদেন আলোচ্য 5-10 এবং 5-11 এর মাধ্যমে Currency Code-98 এর বিপরীতে রিপোর্ট করতে হবে |
+
+(8) বাংলাদেশে কাফকো হতে সার আমদানির তথ্য সামারী 5-! বিবরণীর ক্রয় কলামে ৯ নং SALSA Others এ
+“কাফকো" উল্লেখপূর্বক 2016 কোডে এবং রপ্তানির তথ্য বিক্রয় কলামে ৯ নং ক্রমিকের Others এ “SRY উল্লেখপূর্বক
+6016 কোডে রিপোর্ট করতে হবে |
+
+€চ) জুলাই,২০০৮ হতে সকল অনুমোদিত ডিলার ব্যাংকের শাখা/প্রিসিপাল অফিস/প্রধান কার্যালয় এবং অফ-শোর
+ব্যাংকিং ইউনিট কর্তৃক লেনদেনের মাসিক বিবরণী অন-শোর ব্যাংকিং ইউনিটের ন্যায় বৈদেশিক মুদ্রা নীতি বিভাগের বিবরণী
+শাখায় যথানিয়মে দাখিল করতে হবে; এডি শাখা এবং অফ-শোর ব্যাংকিং ইউনিট কর্তৃক মাসিক বিবরণী সিডি ও মুদ্রিত
+আকারে পরবর্তী মাসের ১৫ তারিখের মধ্যে পরিসংখ্যান বিভাগে দাখিল করতে হবে |
+
+OX) সামারী স্টেটমেন্ট 5-10 (পেরিশিষ্ট-ক) এবং সামারী স্টেটমেন্ট 5-11 (পরিশিষ্ট-খ) এতদ্সঙ্গে সংযুক্ত করা হলো |
+০0৩। অনুগ্রহপূর্বক প্রাপ্তি স্বীকার করবেন এবং সংশ্লিষ্ট সকল পক্ষকে বিষয়টি অবহিত করবেন |
+
+আপনাদের বিশৃস্ত,
+
+(আহমেদ এহতেশামুল হায়দার)
+উপ- মহাব্যবস্থাপক
+ফোন £ ৭১২০৩৭৫
+
+--- Page 2 ---
+Ÿá¼áÅÊ-N
+
+
+
+EPZ STATEMENT S⎯10
+Chapter -2
+Para -14
+For Transactions of EPZ territory
+
+
+
+
+
+
+
+
+
+
+
+AMOUNT
+
+Receipts
+For Bangladesh Bank's use
+Cr.
+Lac
+Th.
+Unit
+A. Exports Receipt (Schedule A-1, A-2)
+Ready made Garments & Garments accessories
+8883
+
+
+
+
+Textile & Textiles Products
+8884
+
+
+
+
+Footwear & Leather Goods
+8885
+
+
+
+
+Others (State)
+8886
+
+
+
+
+1. Receipt from
+Abroad
+
+Sub-Total:
+
+
+
+
+
+Bangladeshi Enterprise outside EPZ ( In Bangladesh )
+8887
+
+
+
+
+Inter EPZ Enterprise ( Between the EPZs)
+8888
+
+
+
+
+Intra EPZ Enterprise (Within the EPZ )
+8889
+
+
+
+
+Others (State)
+9000
+
+
+
+
+2. Receipts from
+Bangladesh / EPZ
+Sub-Total:
+
+
+
+
+
+B. Invisible Receipts from (Abroad )
+
+1.Invisible Receipts ( Schedule J-1), J-1 Covers purpose code
+from 0001 to 5999 of Code-5.
+
+9991
+
+
+
+
+2. Invisible Receipts ( Schedule J-2), J-2 covers purpose codes from 6001 to 9999 of Code⎯5.
+9992
+
+
+
+
+Sub-Total:
+
+
+
+
+C. Invisible Receipts From
+
+1. Bangladeshi Enterprise outside EPZ ( In Bangladesh)
+9995
+
+
+
+
+2. Inter EPZ Enterprise ( Between the EPZs )
+9996
+
+
+
+
+3. Intra EPZ Enterprise (Within the EPZ )
+9997
+
+
+
+
+4. Others( State ) 1)
+9998
+
+
+
+
+Sub-Total:
+
+
+
+
+
+D. Exchange, Transfers and Adjustments: ( Both Bangladesh & EPZ )
+
+6010
+
+
+
+
+6011
+
+
+
+
+6012
+
+
+
+
+6013
+
+
+
+
+6014
+
+
+
+
+Sub-Total:
+
+
+
+
+
+Opening Balance (cr)
+6210
+
+
+
+
+GRAND TOTAL:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page - 01 of 02
+
+
+
+
+
+Statement of transactions for the period ended_______________
+Name of Authorized Dealer______________________________
+Currency ( Approved)__________________________________
+
+--- Page 3 ---
+Signature and Stamp of the Authorised Dealer
+
+
+
+
+
+
+
+Page - 02 of 02
+
+
+
+
+
+Payments
+A. Imports Payments (schedule E-2)
+
+
+
+
+
+1.Payments to Abroad
+Foreign
+0000
+
+
+
+
+Bangladeshi Enterprise out side EPZ (In Bangladesh)
+0002
+
+
+
+
+Inter EPZ Enterprise ( Between the EPZ s)
+0003
+
+
+
+
+Intra EPZ Enterprise
+0004
+
+
+
+
+Others State
+0005
+
+
+
+
+2. Payments to
+Bangladesh / EPZ
+Sub Total
+
+
+
+
+
+B. Invisible Payments to (Abroad)
+
+1. Invisible (Schedule E-3) , E-3 covers purpose codes
+from 0001 to 5999 of Code 7
+1001
+
+
+
+
+2. Invisible (Schedule E-4) , E-4 covers purpose codes
+from 6001 to 9999 of Code 7
+1002
+
+
+
+
+Sub Total:
+
+
+
+
+
+C. Invisible Payments to
+
+1 Bangladeshi Enterprise outside EPZ (In Bangladesh)
+1015
+
+
+
+
+2. Inter EPZ Enterprise ( Between the EPZs )
+1016
+
+
+
+
+3. Intra EPZ Enterprise
+1017
+
+
+
+
+4. Others State 1) Encashment for Local / BEPZA payments
+( The contra will be reported to S-1 )
+2) BEPZA Payments in FC if any
+1018
+
+
+
+
+Sub Total:
+
+
+
+
+
+D. Exchange, Transfers and Adjustments: (Both Foreign & Bangladesh )
+
+2010
+
+
+
+
+2011
+
+
+
+
+2012
+
+
+
+
+2013
+
+
+
+
+2014
+
+
+
+
+Sub Total:
+
+
+
+
+
+Closing Balance (cr)
+2210
+
+
+
+
+GRAND TOTAL :
+
+--- Page 4 ---
+Ÿá¼áÅÊ-X
+
+EPZ STATEMENT S⎯11
+
+See Chapter -2 Para -14
+For Transactions of Off-shore Banking Unit ( OBU ) in EPZ territory
+
+
+
+
+
+
+
+
+
+
+
+
+AMOUNT
+
+Receipts
+For Bangladesh Bank's use
+Cr.
+Lac
+Th.
+Unit
+A. Exports Receipts (Schedule A-1, A-2)
+
+
+
+
+Ready made Garments & Garments accessories
+8883
+
+
+
+
+Textile & Textiles Products
+8884
+
+
+
+
+Footwear & Leather Goods
+8885
+
+
+
+
+Others (State)
+8886
+
+
+
+
+1.Receipts From Abroad:-
+
+Sub-Total:
+
+
+
+
+
+Bangladeshi Enterprise outside EPZ ( In Bangladesh )
+8887
+
+
+
+
+Inter EPZ Enterprise ( Between the EPZs )
+8888
+
+
+
+
+Intra EPZ Enterprise ( Within the EPZ )
+8889
+
+
+
+
+Others (State)
+9000
+
+
+
+
+2. Receipts From
+Bangladesh / EPZ
+Sub-Total:
+
+
+
+
+
+B. Invisible Receipts from (Abroad )
+
+1. Invisible Receipts (Schedule J-1), J-1 Covers purpose code
+from 0001 to 5999 of Code-5.
+9991
+
+
+
+
+2. Invisible Receipts (Schedule J-2), J-2 covers purpose codes from 6001 to 9999 of Code⎯5.
+9992
+
+
+
+
+Sub Total
+
+
+
+
+
+C. Invisible Receipts From
+
+1. Bangladeshi Enterprise outside EPZ (In Bangladesh )
+9995
+
+
+
+
+2. Inter EPZ Enterprise ( Between the EPZs )
+9996
+
+
+
+
+3. Intra EPZ Enterprise (Within the EPZ )
+9997
+
+
+
+
+4. Others ( State ) 1)
+9998
+
+
+
+
+Sub Total:
+
+
+
+
+
+D. Exchange, Transfers and Adjustments: ( Both Bangladesh & EPZ )
+
+6010
+
+
+
+
+6011
+
+
+
+
+6012
+
+
+
+
+6013
+
+
+
+
+6014
+
+
+
+
+Sub Total:
+
+
+
+
+
+Opening Balance (cr)
+6210
+
+
+
+
+GRAND TOTAL:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page - 01 of 02
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statement of transactions for the period ended___________________
+Name of OBU___________________________________________
+Currency ( Approved)______________________________________
+
+--- Page 5 ---
+Signature and Stamp of the Authorised Dealer
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page - 02 of 02
+
+
+Payments
+A. Imports Payments (schedule E-2)
+1. Payments to
+Abroad
+Foreign
+0000
+
+
+
+
+Bangladeshi Enterprise outside EPZ (In Bangladesh)
+0002
+
+
+
+
+Inter EPZ Enterprise ( Between the EPZ )
+0003
+
+
+
+
+Intra EPZ Enterprise (Within the EPZ )
+0004
+
+
+
+
+Others State
+0005
+
+
+
+
+2. Payments to
+Bangladesh / EPZ
+Sub Total:
+
+
+
+
+
+B. Invisible Payments to (Abroad)
+
+1.. Invisible (Schedule E-3/P-3), E-3/P-3 covers purpose
+codes from 0001 to 5999 of Code 7 ………
+1001
+
+
+
+
+2. Miscellaneous (Schedule E-4/P-4), E-4/P-4 covers purpose
+codes from 6001 of to 9999 of Code 7....
+1002
+
+
+
+
+Sub Total:
+
+
+
+
+
+C. Invisible Payments to
+
+1. Bangladeshi Enterprise outside EPZ ( In Bangladesh)
+1015
+
+
+
+
+2. Inter EPZ Enterprise ( Between the EPZs )
+1016
+
+
+
+
+3. Intra EPZ Enterprise (Within the EPZ )
+1017
+
+
+
+
+4. Others (State) 1) BEPZA payments in FC (The contra will be reported to S-1)
+1018
+
+
+
+
+Sub Total:
+
+
+
+
+
+D. Exchange, Transfers and Adjustments: (Both Foreign & Bangladesh )
+
+2010
+
+
+
+
+2011
+
+
+
+
+2012
+
+
+
+
+2013
+
+
+
+
+2014
+
+
+
+
+Sub Total:
+
+
+
+
+
+Closing Balance (cr)
+2210
+
+
+
+
+GRAND TOTAL :

@@ -1,0 +1,1210 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+website : www.bangladeshbank.org.bd
+
+
+
+
+FE Circular No. 16
+
+
+
+
+
+Date: 30 September, 2009
+
+
+
+
+
+
+
+
+
+
+All Authorised Dealers in
+Foreign Exchange in Bangladesh
+
+Dear Sirs,
+
+
+NEW SCHEDULES /STATEMENTS FOR EXTERNAL SECTOR REPORTING
+
+
+
+Reference is drawn to Para No. 5, Chapter 2 of the Guidelines for Foreign Exchange
+Transactions (GFET) 1996, (Vol-2) and FE Circular No. 13, dated 22/09/2008 regarding instructions for
+submission of monthly returns to Bangladesh Bank in different Statements and Schedules.
+
+02. To include in the 'Balance of Payment Accounts' the foreign exchange transactions of resident
+entities undertaken through their foreign currency accounts maintained with ADs, the following
+summary statements (alongwith schedules) are to be submitted to Bangladesh Bank (Statistics
+Department and Foreign Exchange Operation Department of Head Office, Foreign Exchange Policy
+Departments of Bangladesh Bank Area Offices) by ADs with their monthly returns:
+
+Name of the
+Summary
+Statements
+Entities of which FC account transactions are to be reported
+S-9
+Foreign currency accounts of resident corporate entities (industrial concerns,
+gas/oil/other minerals exploration companies, power generation companies, mobile
+phone operators, non-banking financial institutions, NGOs, micro finance institutions
+and other organisations) maintaining Foreign currency accounts with permission from
+Bangladesh Bank.
+S-13
+Foreign currency accounts of residents opened and maintained under general
+permission as mentioned in Chapter 13 ( Section I & Section III), Guidelines for
+Foreign Exchange Transactions, 2009 (Vol-1) [Foreign nationals residing in
+Bangladesh, foreign firms registered abroad and operating in Bangladesh,
+Bangladesh nationals working with the foreign/international organisations operating
+in Bangladesh who get their salaries and allowances in foreign currency, local and
+joint venture contracting firms employed to execute projects by foreign
+donors/international donor agencies, Diplomatic Bonded Warehouses operating in
+Bangladesh having limited money changing licence, Resident Foreign Currency
+Deposit (RFCD) Accounts of Bangladesh nationals etc).
+
+
+
+
+Contd..../2
+
+--- Page 2 ---
+-02-
+
+
+However, transactions in the Non-resident foreign currency deposit (NFCD) accounts [Chapter
+13, Section-II, GFET 2009, (Vol-1)] and foreign currency accounts of the following entities will be
+excluded for reporting under S-9 or S-13:
+
+1) Foreign national residing abroad;
+
+2) Foreign firms registered abroad and operating abroad;
+
+3) Foreign missions and their expatriate employees;
+
+4) International bodies/organisations as stated in the 'Code Lists for Reporting of External
+Sector Transactions by the Authorised Dealers' published by Bangladesh Bank (Code-3, No. 2701-
+2799).
+
+
+Transactions in the 'foreign currency accounts of Bangladesh nationals working abroad' are to
+be reported in Summary Statement FCS-7 as usual.
+
+
+Authorised dealer shall start reporting through above statements/schedules from November,
+2009 (for transactions in October, 2009) onwards.
+
+
+Please, bring the contents of the circulars to the notice of all concerns. Meanwhile, please
+acknowledge receipt.
+
+
+Thanking you,
+
+Yours faithfully,
+
+
+
+(Khandaker Abdus Salim)
+Deputy General Manager
+Phone: 7120375
+
+--- Page 3 ---
+STATEMENT S-9
+
+(For Transactions in Foreign Currency Accounts of Resident Corporate Entities other of EPZs)
+
+Name of the Authorised Dealer Bank........................
+For month ........................... Year.................
+Currency...................................
+
+
+Sl.
+No.
+DEPOSITS/RECEIPTS
+Purpose Code
+AMOUNT
+
+A. Receipts from abroad
+
+Cr.
+Lac.
+Th.
+Unit
+01
+Amount received as equity capital into FC A/C through
+banking channel from abroad (Schedule REFCR-1)
+9050
+
+02
+Amount received as Inter-company loan into FC A/C
+(Schedule REFCR-2)
+9055
+
+03
+Amount received as Long-term FC Loan into Foreign
+Currency Accounts(Schedule FEFCR-3)
+9060
+
+04
+Other receipts from abroad ( Pl state)
+9061
+
+
+B. Receipts from Domestic Economy
+
+
+05
+Authorised local income credited through conversion of
+local currency-reported in Sl. No.2 of S-1 under E-3/P3
+6062
+
+
+C. Exchange, Transfer and Adjustments:
+
+
+06
+Amount received by way of transfer from foreign
+currency accounts maintained with other authorised
+dealers and /or conversion from other foreign currency
+9070
+
+07
+Others (State)
+9080
+
+08
+Opening balance
+9200
+
+Credit balance of Foreign Currency Account
+9210
+
+Account held as L/C covers
+9211
+
+
+GRAND TOTAL
+
+
+Month Code
+
+
+ADs Code
+
+
+
+
+Curr. Code
+
+--- Page 4 ---
+Page -2
+
+
+
+STATEMENT S-9
+
+(For Transactions in Foreign Currency Accounts of Resident Corporate Entities other of EPZs)
+
+
+
+
+WITHDRAWLS
+Purpose Code
+AMOUNT
+Payments
+
+Cr.
+Lac.
+Th.
+Unit
+01
+Amount debited for Import Payments (Schedule
+(REFCP-1)
+3001
+
+02
+Amount debited for Invisible Payments (Schedule
+(REFCP-2)
+3002
+
+03
+Purchased by ADs for transfer to S-1,item-2,schedule-J
+(Schedule REFCP-3)
+3003
+
+Income transferred from above deposits Sl. 05 to parent
+companies abroad
+3004
+
+Exchange, Transfer and Adjustments:
+
+
+04
+Amount paid by way of transfer from foreign currency
+accounts maintained with other Authorized Dealers
+3005
+
+05
+Others (State)
+3006
+
+06
+Closing Balance
+3200
+
+Credit balance of Foreign Currency Account
+3210
+
+Account held as L/C covers
+3211
+
+
+GRAND TOTAL
+
+
+
+
+Signature:
+
+Name:
+
+Designation:
+
+Telephone:
+
+--- Page 5 ---
+Schedule REFCR-1
+(Country-wise receipts as Equity Capital into FC accounts through Banking Channel)
+
+
+Name of the Authorised Dealer Bank........................
+For month ........................... Year.................
+Currency...................
+
+
+Amount in foreign currency
+Sl.
+No.
+Name of the recipient
+Companies
+BOI
+Registration
+No.
+Country of
+origin
+Cr.
+Lac.
+Th.
+Unit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature:
+
+Name:
+
+Designation:
+
+Telephone:
+Month Code
+
+
+ADs Code
+
+
+
+
+Curr. Code
+
+--- Page 6 ---
+Schedule REFCR-2
+(Country-wise Receipts as Inter-company Loan in FC accounts)
+
+
+Name of the Authorised Dealer Bank........................
+For month ........................... Year.................
+Currency:
+
+
+Amount in foreign currency
+Sl.
+No.
+Name of the
+Companies
+BOI
+Registration
+No.
+Country of
+origin
+Cr.
+Lac.
+Th.
+Unit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature:
+
+Name:
+
+Designation:
+
+Telephone:
+Month Code
+
+
+ADs Code
+
+
+
+
+Curr. Code
+
+--- Page 7 ---
+Schedule REFCR-3
+(Country-wise Receipts as Foreign Long-term Loan in FC accounts)
+
+
+Name of the Authorised Dealer Bank........................
+For month ........................... Year.................
+Currency:
+
+
+Amount in foreign currency
+Sl.
+No.
+Name of the
+Companies
+BOI
+Registration
+No.
+Country of
+origin
+Cr.
+Lac.
+Th.
+Unit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature:
+
+Name:
+
+Designation:
+
+Telephone:
+Month Code
+
+
+ADs Code
+
+
+
+
+Curr. Code
+
+--- Page 8 ---
+Schedule REFCP-1
+(Amount Debited for Import from FC Accounts)
+
+
+Name of the Authorised Dealer Bank........................
+For month ........................... Year.................
+Currency:
+
+
+
+Quantity
+Amount in foreign currency
+Code Number
+Sl.
+No.
+Name of
+the
+Companies
+Unit
+Unit
+Code
+Volume
+Cr.
+Lac.
+Th.
+Unit
+Country
+of origin
+Commodity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature:
+
+Name:
+
+Designation:
+
+Telephone:
+Month Code
+
+
+ADs Code
+
+
+
+
+Curr. Code
+
+--- Page 9 ---
+Schedule REFCP-2
+(Amount debited for Invisible payments from FC Accounts)
+
+
+Name of the Authorised Dealer Bank........................
+For month ........................... Year.................
+Currency:
+
+
+
+Amount in foreign currency
+Code Number
+Sl. No.
+Name of the Companies
+Cr.
+Lac.
+Th.
+Unit
+Country
+Purpose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature:
+
+Name:
+
+Designation:
+
+Telephone:
+Month Code
+
+
+ADs Code
+
+
+
+
+Curr. Code
+
+--- Page 10 ---
+Schedule REFCP-3
+(Purchased by ADs for transfer to S-1,item-2,schedule-J)
+
+
+Name of the Authorised Dealer Bank........................
+For month ........................... Year.................
+Currency:
+
+
+
+
+Amount in foreign currency
+Sl. No. Name of the Companies
+BOI
+Registration No.
+F.C. A/C No.
+Debited
+Cr.
+Lac.
+Th.
+Unit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature:
+
+Name:
+
+Designation:
+
+Telephone:
+
+
+
+
+
+
+Month Code
+
+
+ADs Code
+
+
+
+
+Curr. Code
+
+--- Page 11 ---
+STATEMENT S-13
+
+Transactions in Foreign Currency Accounts of Other Resident Entities
+
+
+Name of the Authorised Dealer Bank........................
+
+For month ........................... Year.................
+Currency: USD/Pound Sterling/Euro/Japanese Yen/-
+
+
+
+
+Sl. No.
+Deposits
+Purpose Code
+Amount
+01
+Opening balance
+1301
+
+
+Receipts
+
+
+02
+Amount received from abroad to FC A/C during the month
+(Schedule PFCAR-1)
+1302
+
+03
+Total un-utilised amount deposited to FC A/C during the month
+(Cash/TC etc.)
+1303
+
+04
+Other authorised receipts ( Pl state)
+1304
+
+
+Exchange, Transfer and Adjustments:
+
+
+05
+Total amount received by way of transfer from other FC Accounts
+1305
+
+06
+Total credit on account of interest earned
+1306
+
+07
+Other (please state)
+1307
+
+
+
+
+
+
+Withdrawal
+
+
+Transferred abroad by the account holders during the month (a+b)
+1311
+
+a) Issued in the form of cash/TC/Draft etc. on account of travel abroad
+(Schedule PFCAP-1) Transferred to S-6.
+1312
+
+01
+b) Transferred abroad on account of family maintenance and others
+(Schedule PFCAP-2)
+1313
+
+02
+Payment against imports (Schedule PFCAP-3)
+1314
+
+
+Exchange, Transfer and Adjustments:
+
+
+03
+Total Amount Paid By way of Transfer To Other FC Accounts in
+Bangladesh
+1315
+
+04
+Amount encashed to Taka -transferred To S-1
+1316
+
+05
+Total other payment (State)
+1317
+
+06
+Closing balance
+1318
+
+
+Grand Total
+
+
+
+
+
+
+
+
+
+
+
+Signature:
+Name:
+Designation:
+Telephone:
+Month Code
+
+
+ADs Code
+
+
+
+
+Currency. Code
+
+--- Page 12 ---
+(Schedule : RPFCAR-1)
+
+Amount received from abroad to Foreign Currency Accounts
+
+
+
+For month ........................... Year.................
+
+Name of the Authorised Dealer Bank........................
+Currency: USD/Pound Sterling/Euro/Japanese Yen/-
+
+
+
+
+Sl. No.
+Name of the country
+Country Code
+Amount
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+Note:
+1. No T/M and C-Form is needed for above reportings.
+2. If the country & currency of several accounts are same, then write name and code of the country &
+currency in appropriate place and the individual amount should be merged together against that country
+and be reported in aggregate amount
+3. Total of the schedule RPFCAR-1should be reported against purpose code no. 1302
+4. Use next serial number for another country
+5. Use another sheet for another currency
+
+
+
+Signature:
+
+Name:
+
+Designation:
+
+Telephone:
+Month Code
+
+
+ADs Code
+
+
+
+
+Curr. Code
+
+--- Page 13 ---
+(Schedule RPFCAP-1)
+
+Issue of Foreign Exchange in the form of Cash/TC/Draft
+on Account of Travel Abroad from FC Accounts.
+
+
+For month ........................... Year.................
+
+Name of the Authorised Dealer Bank........................
+Currency: USD$/Pound Sterling/Euro/Japanese Yen/-
+
+
+
+
+
+Sl. No.
+Name of the country
+Country Code
+Amount
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+Note:
+6. No T/M and C-Form is needed for above reportings.
+7. If the country & currency of several accounts are same, then write name and code of the country &
+currency in appropriate place and the individual amount should be merged together against that country
+and be reported in aggregate amount
+8. Total of the schedule RPFCAP-1should be reported against purpose code no. 1312
+9. Use next serial number for another country
+10. Use another sheet for another currency
+
+
+
+Signature:
+
+Name:
+
+Designation:
+
+Telephone:
+Month Code
+
+
+ADs Code
+
+
+
+
+Curr. Code
+
+--- Page 14 ---
+(Schedule RPFCAP-2)
+
+Transferred Abroad from FC Accounts on Account of Family Maintenance and Others
+
+For month ........................... Year.................
+
+Name of the Authorized Dealer Bank........................
+Currency: USD/Pound Sterling/Euro/Japanese Yen/-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note:
+No T/M and C-Form is needed for above reportings.
+If the country & currency of several accounts are same, then write name and code of the country & currency in
+appropriate place and the individual amount should be merged together against that country and be reported in
+amount
+Total of the schedule RPFCAP-2 should be reported against purpose code no. 1313
+Use next serial number for another country
+Use another sheet for another currency
+
+Signature:
+
+Name:
+
+Designation:
+
+Telephone:
+Month Code
+
+
+ADs Code
+
+
+
+
+Curr. Code
+
+
+Sl. No.
+For Family
+Maintenance
+Name of the
+country
+Country Code
+Amount
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub Total
+
+
+
+
+Sl. No.
+For Others
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub Total
+
+
+
+
+Grand
+Total
+
+--- Page 15 ---
+(Schedule RPFCAP-3)
+
+(Account Debited for Import)
+
+Name of the Authorised Dealer Bank........................
+For month ........................... Year.................
+Currency:
+
+
+
+
+
+Sl.
+No.
+Quantity
+Amount in Foreign Currency
+Code Number
+
+IMP
+No.
+Unit
+Unit
+Code
+Volume
+Cr.
+Lac.
+Th.
+Unit
+Country
+of origin
+Commodity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature:
+
+Name:
+
+Designation:
+
+Telephone:
+Note:
+1. No T/M and C-Form is needed for above reportings.
+2. If the country & currency of several accounts are same, then write name and code of the country & currency in
+appropriate place and the individual amount should be merged together against that country and be reported in amount
+3. Total of the schedule RPFCAP -3 should be reported against purpose code no. 1314
+4. Use next serial number for another country
+5. Use another sheet for another currency
+
+
+Month Code
+
+
+ADs Code
+
+
+
+
+Curr. Code

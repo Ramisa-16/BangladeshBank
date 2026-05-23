@@ -1,0 +1,206 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office, Dhaka.
+www.bb.org.bd
+F.E. Circular Letter No. 02
+
+
+
+
+Date: 06 April, 2017
+
+Head Offices/Principal Offices of
+All Authorized Dealers of
+Foreign Exchange in Bangladesh.
+
+Dear Sirs,
+Reporting Transactions in International Cards
+Attention of the Authorised Dealers (AD) is drawn to the instructions mentioned in Para 12, Chapter 19,
+Guidelines For Foreign Exchange Transactions (GFET) 2009, (Vol-1) and FEOD Circular 3, dated Nov 28,
+2016 regarding foreign exchange transactions conducted though International Cards. ADs and their Card
+Divisions are hereby advised to adhere to the following instructions in reporting transactions conducted
+through international cards by their respective customers as well as inward remittance received from usage of
+international cards in Bangladesh issued abroad:
+1. Bangladesh Bank has developed an online based reporting platform titled' ' International Card Monitoring
+System' for reporting foreign exchange transactions conducted through international card issued by different
+ADs under different entitlements as prescribed by Bangladesh Bank enumerated in the above chapter of GFET
+and subsequent FE Circulars/Circular Letters. ADs are advised to report such transactions in the said system as
+suggested in the user guide attached with the system and instructions issued by Foreign Exchange Operation
+Department from time to time.
+2. Banks are no longer required to submit monthly statements to Bangladesh Bank as per appendix 5/87 and
+appendix 5/89 of GFET 2009 (Vol-1) onwards. Besides, instead of the format given with FEOD Circular
+3/2016 (cwiwkó-M), they are required to submit monthly statement as per Annex-1 attached with this circular
+letter.
+3. Reporting to Statistics Department:
+For reporting to Statistics Department, Bangladesh Bank, Card division of the Head office/Country office of
+ADs shall prepare and report (Consolidated) purpose-wise and Country-wise transactions (receipts from
+acquirers/ payments by issuers) in foreign exchange in the relevant schedules J/E-3 and Statement S-1 on
+Contd.....P/2
+
+--- Page 2 ---
+-02-
+behalf of Head Office/Country Office for use of international cards (debit, credit, pre-paid, virtual and others)
+on the basis of settled transactions under appropriate head. However, AD branches shall prepare respective
+Statements (Such as S-1 to S-13, FCS-7, EFCS-8) considering/reflecting such transactions as
+transfer/adjustments in relevant summary statements (as purchase or sale, as the case may be) without
+schedules under appropriate head on the basis of settled transactions. While preparing schedules by Card
+Division, appropriate purpose code shall have to be used. For example, in case transactions against travel
+purpose (receipts from acquirer/ payments by issuer), relevant travel purpose code shall be used. In case of
+roaming bill settled by international cards, card division of Head Office/Country Office shall report in relevant
+statement S-1 without schedule under appropriate head for resident to resident (within reporting economy)
+transactions.
+To mention, payment against international cards issued for the executives of EPZ/EZ enterprises shall be
+considered in Statement S-10/S-11 as adjustment/transfer by ADs/OBUs while Card Division of the concerned
+bank shall report such transactions in the schedule E3 and Statement S-1. Likewise, payment against
+international cards issued from the balance of ERQ account of a non EPZ/EZ enterprise/ balance of wage
+earners’ FC account shall be considered in the statement EFCS-8/FCS-7 as adjustment/transfer by the ADs
+while Card division of the concerned bank shall report such transactions in the Schedule E3 and Statement S-1.
+Where the country, currency and purpose are same, ADs shall list all such transactions in a consolidated single
+entry in the relevant Schedules (J/E3). However, reporting to Statistics Department is to be done through
+Rationalized Input Template (RIT) only.
+04. All other instructions stipulated in GFET 2009 (Vol-1) and subsequent FE circulars regarding this
+issue shall remain unchanged. This instruction is being issued in pursuant to authority given in section 20(3)
+of Foreign Exchange Regulation Act, 1947 which will come into force immediately. Please inform the
+instructions of this circular to all concerned.
+
+Yours faithfully,
+
+
+(Jagannath Chandra Ghosh)
+Deputy General Manager
+Phone: 9530092
+
+--- Page 3 ---
+Annex-1
+Name of the Bank :
+Reporting Month : Year :
+
+Monthly Statement of International Card (IC)
+Sl.
+No
+Country
+Code
+Name of
+the
+Country
+Source of FC
+Total Amount
+(Thousand USD up to
+2 decimal)
+TM ID
+(If applicable)
+
+Customers’ own fund
+Bank's
+fund
+
+
+
+ERQ
+A/C
+FC A/C of
+EPZs/EZs
+RFCD
+Private FC
+of
+Bangladesh
+Nationals
+Others
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature of the bank official :
+Name of the bank official :
+Designation :
+Phone : Land :......................................Cell :...............................
+E-mail :

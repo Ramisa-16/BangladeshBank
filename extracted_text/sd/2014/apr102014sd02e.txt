@@ -1,0 +1,179 @@
+--- Page 1 ---
+Statistics Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+Chaittra 27,1420
+St.D. Circular No. 02 Date: -----------------
+April 10, 2014
+All Authorized Dealers of
+Foreign Exchange in Bangladesh
+
+Dear Sirs,
+Reporting of remittances of Non-Resident Bangladeshi
+working abroad on daily transactions basis through new
+Rational Input Template T_ME_D_REMITTANCE
+
+Considering the importance of remittance in the economy, it has been decided by the
+competent authority to collect remittances data on daily transactions basis along with home
+district of Non-Resident Bangladeshi working abroad (remitter). It is requested to all authorized
+dealers for sending their monthly remittance data in T_ME_M_FRC_TRN as usual and also
+UHPLWWHU¶V GLVWULFW-wise remittances on daily transactions basis in the new Rational Input
+Template named T_ME_D_REMITTANCE (enclosed) to Statistics Department by 11 AM of the
+following working day. In addition, cumulative amount of daily remittance must be equal to total
+amount of monthly remittance. The AD must satisfy itself about full coverage of all NRB
+remittance data in this new template and in summary statement FCS-7 with specific schedule.
+This circular shall be made effective from May 1, 2014.
+Please acknowledge receipt and bring the content of this circular to the notice of all concerned.
+Yours faithfully,
+Enclosure: As stated
+
+(Md. Mohib Ullah Mia)
+Deputy General Manager
+Phone: 9530087
+
+--- Page 2 ---
+The User Guidelines of New Templates
+T_ME_D_REMITTENCE, T means Template, ME means Monetary and Economic, D means
+Daily Basis and REMITTENCE means The inward Foreign Currency of Non-Resident
+Bangladeshi on account of Family maintenance.
+The Template T_ME_D_REMITTENCE contains the following columns:
+1. DATED: It means every calendar date or every working day cause the Template designed
+for collection of Daily Remittance.
+2. FI NAME: It means the Bank Name and it's a drop down option. Just select the bank
+name and click there.
+3. SERIAL NO. : Not mandatory.
+4. AD FI BRANCH: It means the AD FI BRANCH of T_ME_M_FRC_TRN. However it
+is the branch code which used in SBS reporting.
+5. REPORT TYPE: WAGE REMITTANCE(FIXED)
+6. SCHEDULE CODE: 23=Through Banking channel, Schedule FCR -1of FCS-7.
+24= Through Non-Resident Bank branches, Correspondents, Schedule FCR-2 of FCS-7.
+25= Locally Deposited, Schedule FCR -3 of FCS-7.
+26= Postal settlement, Schedule FCR -4 of FCS-7.
+7. TYPE CODE: 4 (FIXED)
+8. PURPOSE CODE: Not mandatory.
+9. CURRENCY: Name of currency of received amount from abroad as remittance.
+10. COUNTRY: Name of the country from which the remitter sends the money.
+11. DISTRICTS: It is a drop down option and it is guided by the attached annexure. for
+example: if remitter home district is narayangonj, then select Dhaka- Narayangonj from
+dropdown, there are no option with only district name, every district selection must with
+division name. If remitter home district is Dhaka, then select Dhaka-Dhaka and so on..
+12. NID: National Identification Number of NRB or remitter. Not mandatory.
+13. PASSPORT: Passport Number of NRB or remitter. Not mandatory.
+14. AMOUNT FCY: Amount of remittance received.
+The Following Field is mandatory to comply the new template.
+
+DATED
+FI
+NAME
+AD FI
+BRANCH
+REPORT
+TYPE
+SCHEDULE
+CODE
+TYPE CODE
+CURRENCY
+COUNTRY
+DISTRICTS
+AMOUNT FCY
+
+--- Page 3 ---
+DISTRICT CODE LIST
+BARISAL-BARGUNA
+510 DHAKA-SHERPUR
+285
+BARISAL-BARISAL
+515 DHAKA-TANGAIL
+290
+BARISAL-BHOLA
+520 KHULNA-BAGERHAT
+310
+BARISAL-JHALOKATHI
+525 KHULNA-CHUADANGA
+330
+BARISAL-PATUAKHALI
+530 KHULNA-JESSORE
+335
+BARISAL-PIROJPUR-
+535 KHULNA-JHENAIDAH
+345
+CHITTAGONG-BANDARBAN
+110 KHULNA-KHULNA
+350
+CHITTAGONG-BRAHMANBARIA
+115 KHULNA-KUSHTIA
+355
+CHITTAGONG-CHANDPUR
+120 KHULNA-MAGURA
+360
+CHITTAGONG-CHITTAGONG
+125 KHULNA-MEHERPUR
+365
+CHITTAGONG-COMILLA
+135 KHULNA-NARAIL
+370
+CHITTAGONG-COX'S BAZAR
+140 KHULNA-SATKHIRA
+385
+CHITTAGONG-FENI
+145 RAJSHAHI-BOGRA
+410
+CHITTAGONG-KHAGRACHARI
+160 RAJSHAHI-CHAPAI NAWABGANJ
+450
+CHITTAGONG-LAKSHMIPUR
+165 RAJSHAHI-NAOGAON
+445
+CHITTAGONG-NOAKHALI
+180 RAJSHAHI-NATORE
+440
+CHITTAGONG-RANGAMATI
+130 RAJSHAHI-PABNA
+460
+DHAKA-DHAKA
+210 RAJSHAHI-JOYPURHAT
+425
+DHAKA-FARIDPUR
+215 RAJSHAHI-RAJSHAHI
+470
+DHAKA-GAZIPUR
+220 RAJSHAHI-SIRAJGANJ
+480
+DHAKA-GOPALGANJ
+225 RANGPUR-DINAJPUR
+715
+DHAKA-JAMALPUR
+230 RANGPUR-GAIBANDAH
+720
+DHAKA-KISHOREGANJ
+235 RANGPUR-KURIGRAM
+730
+DHAKA-MADARIPUR
+240 RANGPUR-LALMONIRHAT
+735
+DHAKA-MANIKGANJ
+245 RANGPUR-NILPHAMARI
+755
+DHAKA-MUNSHIGANJ
+250 RANGPUR-PANCHAGARH
+765
+DHAKA-MYMENSINGH
+255 RANGPUR-RANGPUR
+775
+DHAKA-NARAYANGANG
+260 RANGPUR-THAKURGAON
+785
+DHAKA-NARSINGDI
+265 SYLHET-HABIGANJ
+650
+DHAKA-NETROKONA
+270 SYLHET-MOULVI BAZAR
+675
+DHAKA-RAJBARI
+275 SYLHET-SUNAMGANJ
+694
+DHAKA-SHARIATPUR
+280 SYLHET-SYLHET
+695

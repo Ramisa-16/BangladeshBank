@@ -1,0 +1,366 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+
+FE Circular No. 17
+
+
+
+
+
+Date : 30 September, 2009
+
+All Authorized Dealers and licensed Money Changers
+of Foreign Exchange in Bangladesh
+
+Dear Sirs,
+Submission of Monthly Returns by Money Changers
+
+Attention is drawn to the instructions mentioned in Para 10, Chapter 2 of the Guidelines for
+Foreign Exchange Transactions, 2009 (Vol-1) regarding submission of monthly statements to
+Bangladesh Bank by Money Changers.
+
+02. In addition to the above mentioned monthly statements, Money Changers will have to
+submit monthly returns of their foreign exchange transactions as per attached format to Statistics
+Department & Foreign Exchange Operation Department of Head Office and Foreign Exchange
+Policy Department of Area Offices of Bangladesh Bank through their authorized dealer banks.
+Since, authorized dealers will have to submit such reports within 15th instant of each month,
+concerned Money Changers will have to ensure submission of such returns to their authorized
+dealer banks beforehand by fulfilling the statements and schedules properly.
+
+03. Money Changers will report 'Summary Statement' of their foreign exchange
+transactions in “Statement S-12” in light violate colored paper. The statement will accompany two
+Schedules namely MCR-1 and MCP-1. This is to mention that, separate statement and schedule are
+to be submitted for each currency (e.g. USD, EURO, GBP).
+
+04. Money Changers will have to use their code designated to them in each statement and
+schedule.
+
+05. ‘Code Lists for Reporting of External Sector Transactions by the Authorized Dealers’
+will have to be used for country code and currency code, etc.
+
+06. Authorized dealer banks are being advised to provide proper assistance to the Money
+Changers for filling up statement and schedule. If necessary authorized dealer banks may contact
+Statistics Department of Bangladesh Bank.
+
+All Money Changers will start submission of monthly returns as instructed above from
+November 2009 (for transactions of October 2009 and onwards).
+
+Please acknowledge receipt and inform this issue to all concerned.
+
+
+
+
+
+
+
+Yours Faithfully,
+
+
+
+
+
+
+
+Signed/-
+
+
+
+
+
+
+
+(Khandakar Abdus Selim)
+
+
+
+
+
+
+
+Deputy General Manager
+Phone : 7120375
+Translated
+
+--- Page 2 ---
+S-12
+
+Summary Statement of Reporting of Money Changers Foreign Exchange Transactions
+(To be submitted through ADs)
+
+For month ......................... Year.............
+
+Name of the Authorised Money Changer: Currency:
+USD/Pound Sterling/Euro/Japanese Yen/-
+
+
+Month Code
+
+Money Changer Code
+
+Currency Code
+
+Submitted Through ( Name of the Authorised Dealer Bank )..........................................
+
+Sl. No.
+PURCHASES
+Purpose Code
+Amount
+01
+Opening balance (a+b)
+1201
+
+
+a) Cash foreign currency in hand
+1202
+
+
+b) Foreign currency A/C balance with scheduled bank
+1203
+
+
+Receipts
+
+
+02
+Amount purchased from non-residents (Cash/TC)
+1204
+
+
+(Schedule MCR-1)
+
+
+03
+Amount purchased from residents (Cash/TC)
+1205
+
+
+Exchange, Transfer and Adjustments:
+
+
+04
+Total credit on account of interest earned from FC A/C
+1208
+
+05
+Transferred from FC account of other money changer ( on account of
+1209
+
+
+purchase)
+
+
+
+Grand Total
+
+
+
+
+
+
+Sl. No.
+Sales
+Purpose Code
+Amount
+01
+Sale to Bangladeshi travelers or re-conversion allowed to foreign travelers
+1210
+
+
+(Cash/TC) (Schedule MCP-1)
+
+
+
+Exchange, Transfer and Adjustments:
+
+
+
+Receipts
+
+
+02
+Amount encashed to taka (a+b)
+1214
+
+
+a) Encashed from foreign currency account-Transferred to S-1
+1215
+
+
+b) Encashed from Note/coin/TC etc. -Transferred to S-6
+1216
+
+03
+Transferred to FC account of other money changer ( on account of sale)
+1217
+
+04
+Closing balance (a+b)
+1218
+
+
+a) Cash foreign currency in hand
+1219
+
+
+b) Foreign currency A/C balance with scheduled bank
+1220
+
+
+Grand Total
+
+
+
+
+Note:
+
+Non-residents:
+
+a) Bangladeshi nationals residing abroad
+b) Foreign travellers
+
+Residents:
+
+a) Bangladeshi travellers
+b) Resident foreign nationals .
+
+--- Page 3 ---
+Schedule MCR-1
+
+Purchase of Foreign Currency from Non-resident Persons (Cash/T.C.)
+
+For month ......................... Year.............
+
+Name of the Authorised Money Changer: Currency:
+USD/Pound Sterling/Euro/Japanese Yen/-
+
+
+Month Code
+
+Money Changer Code
+
+Currency Code
+
+Sl. No. Name of the country
+Country Code Amount
+Purpose Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+Note:
+
+1) No T/M and C-Form is needed for above reporting.
+2) If the country & currency of several accounts are same, then write name and code of the country & currency in
+appropriate place and the individual amount should be merged together against that country and be reported in
+aggregate amount.
+3) Total of the schedule MCR-1 should be reported against purpose code no. 1204
+4) Use next serial number for another country
+5) Use another sheet for another currency
+Signature:
+
+Name:
+Designation:
+Telephone:
+
+
+
+Note:
+
+a) Use purpose cod for Bangladeshi nationals
+5120
+b) Use purpose cod for foreign travelers
+1130
+
+
+Note:
+
+Non-residents:
+
+a) Bangladeshi national residing abroad
+b) Foreign travelers
+
+--- Page 4 ---
+Schedule MCP-1
+
+Sale to Bangladeshi Travellers or Re-conversion to foreign tourists (Cash)
+
+For month ......................... Year.............
+
+Name of the Authorised Money Changer: Currency:
+USD/Pound Sterling/Euro/Japanese Yen/-
+
+
+
+
+Sale to Bangladeshi Travellers/ Re-conversion to foreign tourists.
+
+
+Month Code
+
+Money Changer Code
+
+Currency Code
+
+Sl. No. Name of the country
+Country Code Amount
+Purpose Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+Note:
+
+1. No T/M and C-Form is needed for above reportings.
+2. If the country & currency of several accounts are same, then write name and code of the country & currency
+in appropriate place and the individual amount should be merged together against that country and be reported
+in amount
+3. Total of the schedule MCP-1should be reported against purpose code no. 1210
+4. Use next serial number for another country
+5. Use another sheet for another currency
+Signature:
+
+Name:
+Designation:
+
+Telephone:
+
+
+
+
+Note:
+a) Use purpose cod for Bangladeshi Travelers
+1130
+b) Use purpose cod for re-conversion to foreign travelers
+1132

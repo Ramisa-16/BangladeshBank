@@ -1,0 +1,2827 @@
+--- Page 1 ---
+Page 1 of 2
+
+Website: www.bb.org.bd
+
+Sustainable Finance Department
+Bangladesh Bank
+Head Office
+Dhaka
+February 08, 2017
+SFD Circular No. 02 Date: ---------------------------
+
+
+
+
+
+
+
+Magh 26, 1423
+
+Managing Directors/Chief Executives
+All 'Scheduled Banks' and 'Financial Institutions' in Bangladesh
+
+
+Dear Sir,
+
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+In order to incorporate environmental risk in overall credit/investment management and to
+fortify the risk management process and structure of banks and Financial Institutions (FIs),
+Bangladesh Bank (BB) issued 'Guidelines on Environmental Risk Management (ERM) for
+Banks and Financial Institutions in Bangladesh' vide BRPD Circular No. 01/2011.
+
+2. Guidelines on ERM has been a pioneering initiative from any central bank or financial
+sector regulatory body all over the globe in context of addressing environmental risk in the
+process of credit management in banks or financial institutions. Following the
+implementation of Guidelines on ERM, cognizance of environmental factors in assessing
+risks associated with credit has been the core of it. Resultantly, Guidelines on Credit Risk
+Management (CRM) for Banks issued vide BRPD Circular No. 04/2016 has incorporated the
+evaluation of Environmental and Social Risks in the process of Credit Risk Management. The
+implementation experience of Guidelines on ERM indicated to broaden the scope of
+Guidelines by incorporating the Social Risks, expanding the risk rating system and
+introducing requirement for Environmental and Social Management Systems. Comprehensive
+initiative was taken to materialize the recommendation. Through a long process of in-house
+study and research within BB, having technical support from IFC, three tier consultation
+(Mail/E-mail based consultation, web-based consultation and live consultation) with banks
+and FIs, consultation with development partners working on E&S issues in financial sector,
+Guidelines on Environmental & Social Risk Management (ESRM) for Banks and
+Financial Institutions in Bangladesh along with a Excel-based Risk Rating Model have
+
+--- Page 2 ---
+Page 2 of 2
+
+been developed which are being issued vide this circular, will replace the Guidelines on ERM
+in all extent. Year 2017 will be treated as phase-in period for implementation of ‘Guidelines
+on ESRM’. From January 01, 2018 ‘Guidelines on ESRM’ will be enforceable under Bank
+Company Act, 1991 and Financial Institutions Act, 1993. Whatever the source of fund would
+be for the banks and FIs, ‘Guidelines on ESRM’ will be the master framework for the banks
+and FIs in assessing E&S risks in their credit/investment proposals/accounts, managing E&S
+risks in their credit/investment portfolio and establishing Environmental and Social
+Management System within their organization.
+
+3. This circular, the Guidelines on ESRM and the Risk Rating Model are being issued under
+the authority given through Section 45 of Bank Company Act, 1991 and Section 18 (Cha) of
+Financial Institutions Act, 1993.
+
+
+
+Yours sincerely,
+
+
+
+
+
+
+(Manoj Kumar Biswas)
+General Manager
+Phone: 9530320
+Fax: 9530327
+E-mail: manoj.biswas@bb.org.bd
+
+--- Page 3 ---
+Guidelines on
+Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bangladesh Bank
+Sustainable Finance Department
+
+
+
+
+
+
+
+
+
+
+
+
+
+February 2017
+
+--- Page 4 ---
+Preamble
+
+Sustainability has been increasingly being recognized as central tenant to the growth of emerging
+market economies including Bangladesh. New standards and codes of conduct have been developed
+towards Environment and Social Risk Management (ESRM) within the financial sector to promote
+corporate accountability and transparency on the impacts of businesses on environment and society.
+From the perspective of the financial sector, the role of Environmental and Social (E&S) Risk
+Management is aimed at reducing the Probability of Default (PD) for banks and Financial
+Institutions (FIs) in their credit/investment stemmed from environmental and social risk factors as
+well as ingraining the sustainability in the core business model of them.
+
+With a view to integrating sustainability into overall credit management of banks and FIs,
+Bangladesh Bank issued Guidelines on Environmental Risk Management (ERM) in 2011 which has
+been the pioneering initiative from any central bank or financial sector regulator. The objective was
+to establish a minimum standard to incorporate the active evaluation of environmental and social
+issues in assessing PD of credit/investments of banks and FIs to promote sustainable business
+practices in Bangladesh. Guidelines on ERM focussed primarily on the environmental risks and
+included a few social risks. The approach remained qualitative towards rating the environmental
+risks. The applicability of the ERM Guidelines was defined based upon the quantitative thresholds
+of credit/investments and the loan categories included Small & Medium Enterprises (SME),
+corporate financing and real estate financing. One of the core principles of the ERM Guidelines was
+to acknowledge that the Guidelines are dynamic in nature and there is a need for updating the
+guidelines at least every 3 years/as and when required and hence contained a number of
+recommendations for future updates of the Guidelines.
+
+This update to ERM Guidelines, titled as ESRM Guidelines, has been developed to address the
+recommendations of the ERM Guidelines and the outcomes of ESRM baseline survey for the
+financial sector through a long process of in-house study and research within BB, having technical
+support from IFC (International Finance Corporation), three tier consultation (Mail/E-mail based
+consultation, web-based consultation and live consultation) with banks and FIs, consultation with
+development partners working on E&S issues in financial sector
+
+In particular, as the name suggests, the ESRM Guidelines expand the scope of social risk
+assessment and introduce a number of social parameters in addition to environmental parameters for
+risk assessment. The Guideline also exemplifies the sources of both environmental risks and social
+risks for banks and FIs and highlights the benefits of having an Environmental & Social
+Management System (ESMS) in place. Moreover, exhaustive approach has been introduced in this
+version to make the assessment of risks more objective.
+
+--- Page 5 ---
+Message from Governor
+
+Bangladesh is one of the emerging economies of the World and has witnessed rapid industrial
+growth over the last two decades that has contributed significantly to the rise in the country’s Gross
+Domestic Product (GDP). At the same time, it also needs to be noted that Bangladesh is vulnerable
+to risks related to environmental pollution and climate change impacts (in the form of natural
+disasters like floods, cyclones) that are enhanced by man-made activities. Some of the common
+Environmental & Social concerns include converting paddy fields into industrial land, filling of
+water bodies for other purposes, encroaching into forest lands, pollution that need to be
+discouraged for the sake of environmental and social sustainability of the country.
+
+All these issues have significant adverse impacts on human health (from the perspective of both
+public health and health & safety of workers exposed to harmful chemicals) and flora and fauna.
+Severe health outbreaks, groundwater depletion, rapid degradation of natural habitat arising out of
+these irresponsible business practices pose significant threat to the continuity of these business
+activities, which in turn will adversely impact the loan portfolio of the banks and FIs if they invest
+in these activities without taking into account mitigation of these environmental issues.
+
+Banks and FIs have a significant role to play while taking a decision if loans should be disbursed to
+businesses involving such activities. Moreover, banks and FIs need to manage the credit portfolio
+through active consideration of environmental and social vulnerabilities. Following the
+implementation experience of Guidelines on ERM since its issuance, an encouraging awareness and
+enthusiasm have been observed in financial sector both in context of risk management and
+sustainability. In the meanwhile, Sustainable Development Goals (SDGs) have been declared by
+United Nations and have already been fully adopted by Government of Bangladesh. As prime
+cornerstones of SDGs are environmental conservation and social protection, credit operations of
+banks and FIs must be conducted through proper addressing of environmental and social issues. 10
+year Perspective Plan, National Sustainable Development Strategy and 7th Five Year Plan of
+Government of Bangladesh have been built upon the vision of green and sustainable economy by
+ensuring social stability. To facilitate these plans and strategies of the Government, to fortify the
+risk management structure of banks and FIs and to ingrain sustainability into the heart of financial
+sector, it’s time move further. In this backdrop, Bangladesh Bank is officially releasing Guidelines
+on Environmental & Social Risk Management (ESRM) for Banks and Financial Institutions in
+Bangladesh. Like the Guidelines on ERM issued in 2011, Guidelines on ESRM is also a pioneering
+endeavor from the central bank. And hopefully, this will be effectively implemented by banks and
+FIs under the guidance and leadership of the central bank towards achieving sustainable
+development of the country.
+
+
+
+
+
+Fazle Kabir
+
+--- Page 6 ---
+Foreword by Deputy Governor
+
+As a part of the venture to ingrain sustainability into the business practices of banks and FIs, to
+expand the risk management horizon of them, to properly address the link between probability of
+default with the environmental vulnerabilities, Guidelines on ERM for banks and FIs was issued in
+2011. This was the second initiative from Bangladesh Bank following the introduction of refinance
+scheme for renewable energy and green sectors in 2009 for heading towards green banking. In
+issuance of Policy Guidelines on Green Banking, ERM was established as one of core aspects of
+Green Banking. In 2012, monitoring of Environmental Due Diligence conducted by banks was
+started by Bangladesh Bank as a part of quarterly monitoring of Green Banking activities of banks.
+In 2013, a baseline study was conducted by Bangladesh Bank jointly with IFC to assess the
+implementation experience of Guidelines on ERM. The outcomes of the study indicated to expand
+the scope of this guidelines by incorporating social issues. In this light, Bangladesh Bank entered
+into a Cooperation Agreement with IFC for having technical support to formulate a comprehensive
+framework on ESRM for banks and FIs in light of the following context:
+
+Typical examples of environmental issues in the country’s industrial landscape include generation
+of highly polluted waste water due to lack of metering, reuse and recycling of water; sulphur-di-
+oxide emissions from burning low grade coal in outdated brick kilns; contamination of terrestrial
+and marine environment from leaching of toxic chemicals from scrapped ships due to improper
+cleaning of ships before beaching and lack of implementation of waste management practices by
+the ship breaking units; contaminated effluents and harmful fumes emitting from the steel re-rolling
+units. Coal fired power plants near ecologically sensitive areas can also be damaging to local
+biodiversity.
+
+In terms of social issues related to labour practices and working conditions of the country’s
+industry sector, the collapse of the eight storied “Rana Plaza” garment factory in 2013, Boiler
+burst in Tampaco Foils in 2016 and the fire incident at Tazreen Fashion in 2012 killing thousands
+of garment workers are consequences of gross negligence by the factory owners towards structural
+and fire safety, overlooking the poor working conditions in which the workers continued to work,
+producing the garments that earned the country’s majority of the export revenue. The magnitude of
+these incidents has drawn attention of all the global retailing brands who are the major buyers of
+Bangladesh’s products. Other common concerns related to social issues include child labour,
+discrimination and harassment, minimum wage etc. Consequently, the banks and FIs will have to
+take cognizance of the status of compliance, mitigation measures of a business activity in terms of
+national regulations and relevant international standards in this space before taking a decision on
+lending.
+
+This guideline has come through a long process of drafting by experts of Bangladesh Bank and IFC,
+rigorous multi-step consultation with banks and FIs as well as development partners. Bangladesh
+Bank will be fully supportive as always in implementation of the guidelines along with capacity
+building initiatives. Moreover, based upon the implementation experience, scope for modification is
+always open. Let’s foster the journey towards sustainability.
+
+
+Shitangshu Kumar Sur Chowdhury
+
+--- Page 7 ---
+Table of Contents
+
+Overview of the Guidelines
+Typical E&S Risks for Banks and FIs In Bangladesh
+Risks Associated with E&S Risk in Credit Management
+Applicability of the Guidelines
+Applicable Standards
+10
+Environmental And Social Management System (ESMS) for Banks/FIs
+11
+Implementing ESMS
+20
+Provision of Incentives and Disincentives
+20
+Annex-1: Exclusion List
+22
+Annex-2: ESDD Checklist
+22
+Annex-3: Escalation Matrix
+23
+Annex-4: E&S Risks in Detail
+24
+Annex-5: Credit Type Wise E&S Risks
+36
+Annex-6: Covenants
+38
+Annex-7: Corrective Action Plan
+39
+Annex-8: Monitoring Checklist
+41
+
+--- Page 8 ---
+List of Abbreviations
+
+BDT
+Bangladeshi Taka
+CAMELS
+Capital Adequacy Assets Management Capability Earnings Liquidity
+Sensitivity
+CITES
+Convention on International Trade in Endangered Species
+CRMC
+Credit Risk Management Committee
+DoE
+Department of Environment
+E&S
+Environmental & Social
+EC
+Executive Committee
+ECR
+Environment Conservation Rules
+ERM
+Environmental Risk Management
+ESAP
+Environmental and Social Action Plan
+ESDD
+Environmental & Social Due Diligence
+ESIA
+Environmental & Social Impact Assessment
+ESMS
+Environmental & Social Management System
+ESRM
+Environment and Social Risk Management
+ESRR
+Environmental and Social Risk Rating
+ETP
+Effluent Treatment Plant
+FI
+Financial Institution
+GDP
+Gross Domestic Product
+GHGs
+Greenhouse Gases
+HoC
+Head of Credit
+IFC
+International Finance Corporation
+IMF
+International Monetary Fund
+IP
+Indigenous People
+MD
+Managing Director
+NGO
+Non-Governmental Organization
+ODS
+Ozone Depleting Substances
+PAH
+Polycyclic Aromatic Hydrocarbons
+PCB
+Polychlorinated Biphenyl
+PM
+Particulate Matter
+RMC
+Risk Management Committee
+RMG
+Ready Made Garment
+RO
+Relationship Officials
+SBN
+Sustainable Banking Network
+SFU
+Sustainable Finance Unit
+SME
+Small & Medium Enterprises
+UN
+United Nations
+UNESCO
+United Nations Educational, Scientific and Cultural Organization
+VOC
+Volatile Organic Compound
+
+--- Page 9 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+1. Overview of the Guidelines
+
+The core objective of the ESRM Guideline is to make banks and FIs realize to integrate
+Environment & Social (E&S) risks and incorporate appropriate risk mitigation measures in overall
+credit management to be able for expanding the credit/investment portfolio rather than avoid
+investing in high E&S risks. Consequently, compared to the erstwhile ERM Guidelines, the ESRM
+Guidelines introduce the following features to be more streamlined, interactive and user friendly in
+nature:
+ The ESRM Guideline provides a robust, auto generated, quantitative risk rating system to
+reduce the subjectivity of a qualitative risk assessment method that was present in the ERM
+Guidelines.
+ The ESRM guideline has a bigger focus on social and climatic risks which are becoming
+relevant and crucial for Bangladesh.
+ The generic and sector specific E&S Due Diligence (ESDD) checklists (Annex-2) in the
+ESRM Guideline incorporate guidance notes to assist the Relationship Managers (RM) in
+carrying out the due diligence process.
+ The ESRM Guideline, in addition to investment threshold, define applicability based upon
+sector specific E&S impacts and the categories are expanded to include agriculture, retail,
+trade, microfinance, SME and, corporate financing and project financing.
+ The organisational roles and responsibility defined in the ESRM Guideline are built upon
+the principles of integration of E&S risks into the bank or FI’s overall credit policy. It
+clearly delineates the responsibility of different functions of a bank or FI in terms of E&S
+risk assessment and the decision-making process based upon E&S risk rating.
+The new ESRM Guideline includes one Generic ESDD checklist and 10 sector specific
+checklists for high risk sectors. Thus it is broad in scope but at the same time the process is
+much more streamlined for ease of use by the practitioners in the financial sector.
+
+2. Typical E&S Risks for Banks and FIs in Bangladesh
+
+Potential E&S risks may not seem significant or relevant at the time of approval of a financial
+transaction, but may become so during execution, for instance as a result of higher regulatory
+standards and increased levels of enforcement. In other cases, E&S risks, such as spills or
+explosions, may seem unlikely to occur, but when they do, the E&S impact is potentially extremely
+high. Please refer to E&S risks in detail (Annex-4) for explanation on some of the common E&S
+risks.
+
+To reduce exposure to risk arising from the E&S risks of their clients, Bank/FIs need to ensure that
+their clients’ financial and operational sustainability is not undermined by adverse impacts on the
+environment and surrounding communities. Bank/FIs need to have a clear understanding of
+potential E&S risks and implications for a client’s operations prior to being linked to the client in
+the context of a transaction.
+
+This requires proactive identification, assessment, and management of E&S risks before they
+become significant or result in an adverse outcome on the client. A Bank/FI can best achieve this by
+
+--- Page 10 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+developing and implementing an Environmental and Social Management System (ESMS), to
+systematically assess the E&S risks and opportunities arising from their clients’ operations and
+manage its exposure to risk.
+
+3. Risks associated with E&S Risk in Credit Management
+
+Banks and FIs are exposed to some level of E&S risk through their clients. If left unmanaged, these
+risks can lead to a decline in the Bank/FI’s reputational image, costly litigation, or loss of revenue.
+The type, quantity and severity of E&S issues that present a risk to a Bank/FI for any given
+transaction depend on a variety of factors, including geographic context, industry sector, and the
+type of transaction: corporate, real estate, insurance, leasing, microfinance, project finance, retail,
+short-term finance, micro, small and medium enterprise and trade. Please refer to Credit Type Wise
+E&S Risks (Annex-5) for risks associated with different types of transactions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Credit risk: A Bank/FI is exposed to credit risk when a client is unwilling and/or unable
+to fulfil the contractual obligations associated with a transaction as a result of E&S issues. For
+example, if a client faces increased capital or operating costs of complying with E&S
+standards or if operating and emission/discharge permits are absent or expired resulting in
+regulatory fines or penalties, there is a risk that the client cannot meet its financial obligations
+to the Bank/FI. Again, a Bank/FI is exposed to credit risk stemming from a reduction in the
+value of collateral associated with a transaction due to E&S problems. For example, if a
+production site becomes contaminated, the market value of the underlying collateral will fall.
+ Legal risk: By virtue of taking possession of collateral assets, a Bank/FI is exposed to
+liability risk stemming from a client’s legal obligations. This includes fines, penalties, and
+costs for addressing third-party claims for damages due to negligence in managing E&S risks
+in a client’s operations and clean-up of contamination. If the Bank/FI is a principal
+shareholder of a client’s operations, it may also be directly liable for all E&S risks associated
+with a client’s operations.
+Unmanaged E&S issues in
+operations
+Risks
+ Disruption of operations
+ Fines and penalties
+ Loss of market share
+ Market devaluation
+because of liability
+Direct Risks
+ Liability for
+E&S damage
+caused by client
+/ investee
+Consequences
+Loss of assets
+Reduced profits
+Damage to reputation
+Indirect Risks
+ Credit Risk: Reduced repayment
+capacity
+ Market Risk: Reduced value of
+collateral
+ Reputational Risk: Negative publicity
+CLIENT
+BANKS & FIS
+
+--- Page 11 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+ Operational risk: A Bank/FI is exposed to financial risk stemming from potential
+disruption of client’s operations as a result of E&S problems. If not managed properly, these
+problems can affect a client’ stability to meet its financial obligations to the Bank/FI and/ or
+can drive down the value of a client’s collateral in the context of a transaction. A client’s
+failure to effectively address E&S considerations can jeopardize its business operations as
+well as the Bank/FI that is supporting the transaction.
+ Liquidity risk: The Bank/FI will also face liquidity risks from E&S problems associated
+with collateral. For example, the Bank/FI will have to use up internal resources to meet
+government clean-up requirements or to clean the site up before it can be sold if collateral is
+contaminated.
+ Reputational risk: A Bank/FI is exposed to reputational risk due to potentially negative
+publicity associated with a client’s poor E&S practices. This harms a Bank/FI’s brand value
+and image in the media, with the public, with the business and financial community, and even
+with its own staff. For example, if a client faces strong public opposition against its
+operations, the Bank/FI’s reputation may be tarnished through its association with this
+particular client.
+
+4. Applicability of the Guidelines
+
+The loan categories for which the ESRM Guideline is applicable are agriculture, retail, trade,
+microfinance,
+SME,
+corporate
+finance
+and
+project
+finance.
+All
+loan
+proposals
+(New/Renewal/Rescheduling/Restructuring) for the above applicable sectors will have to be first
+screened against the exclusion list (Annex-1).
+
+Agriculture:
+In
+the
+agriculture
+sector,
+if
+loan
+application
+(New/Renewal/Rescheduling/Restructuring) involves farming/crop production activities, poultry
+and dairy then in addition to exclusion list, it is to be checked using the generic ESDD checklist
+(Annex-2), if there is any environmentally or socially adverse agricultural practices involved such
+as use of pesticides, agro-chemicals leading to top soil depletion, ground water contamination; use
+of nitrogenous fertilizers instead of organic fertilizers leading to nitrous oxide emissions etc.
+Agribusiness involving sorting, packaging, distribution and sales will not require completing ESDD
+checklist.
+
+SME: In the small enterprise category sector, if the following activities are involved, then a loan
+application (New/Renewal/Rescheduling/Restructuring) worth above BDT 1.00 million (BDT
+10.00 Lakh) will be subject to due diligence using generic ESDD checklist (Annex-2), in addition to
+exclusion list, even if the loan amount is less:
+4.1) Washing, dyeing and finishing units of RMG sector (water, chemical pollution)
+4.2) Small steel re-rolling mills (operational health and safety, thermal, air pollution)
+4.3) Brick kilns (air pollution, child labour, burning of fossil fuel)
+4.4) Units for tanning, dressing and dyeing of leather and fur (water, chemical, air
+pollution)
+4.5) Pesticides, agrochemical and nitrogen manufacturing units (land contamination, water,
+air pollution)
+
+--- Page 12 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+10
+4.6) Chemicals and chemical products manufacturing units (safety, pollution)
+4.7) Rubber and plastic products manufacturing units (pollution)
+4.8) Batteries and accumulators manufacturing units (chemical pollution)
+All loan applications (New/Renewal/Rescheduling/Restructuring) in the medium enterprise sector
+will have to undergo E&S due diligence as per the generic or sector specific ESDD checklist.
+
+Corporate Finance: All loan applications (New/Renewal/Rescheduling/Restructuring) for
+corporate finance will have to undergo E&S due diligence process using the generic ESDD
+checklist and where applicable, the sector-specific ESDD checklist (Annex-2).
+
+Trade, Retail and Microfinance: For all trade, retail and microfinance only the exclusion list will
+have to be consulted. Any transaction in the Exclusion List will have to be terminated.
+
+Project Finance: For all Project Finance transactions, apart from Exclusion List and Generic or
+sector specific checklist a third party Environmental and Social Impact Assessment (ESIA) will
+have to be conducted. ESIA will generally be arranged by the client at his/her/its own cost and
+submitted along with loan application. Bank/FIs will ensure that the third party will be qualified by
+the criteria set by Bangladesh Bank in this purpose.
+
+Table 1: Applicability of the guideline by the transaction type
+S. No.
+Transaction Type
+Exclusion List
+ESDD checklist
+Third party ESIA
+Agriculture activities involving
+farming, crop production
+
+
+Other agricultural activities
+
+
+
+Retail, Trade, Microfinance
+
+
+
+Small sector falling in one of the
+categories listed above from 4.1) to
+4.8)
+
+
+
+Small sector NOT falling in one of
+the categories listed above from
+4.1) to 4.8)
+
+
+
+Medium sector
+
+
+
+Corporate Finance
+
+
+
+Project Finance
+
+
+
+
+5. Applicable Standards
+
+All national regulations pertaining to E&S governance will be applicable while carrying out E&S
+due diligence of a particular transaction. This means all relevant E&S permits, consents, licenses,
+and monitoring of E&S parameters as per the national regulations are to be considered as
+mandatory compliance requirements for evaluation of a loan application. A list of applicable
+national regulations and international treaties where Bangladesh is a signatory is provided as Annex
+10 for reference.
+
+--- Page 13 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+11
+If clients have management systems in place as per international frameworks such as ISO 14001for
+environmental management, OHSAS 18001 for occupational health and safety, SA8000 for socially
+acceptable practices in the workplace then it will be considered as good practices.
+
+Adherence to IFC Performance Standards will be considered in case of large project financing as a
+good practice and optional requirement.
+
+In order to identify, manage and mitigate E&S risks in lending, all banks/FIs need to develop a
+robust Environmental and Social Management System (ESMS).
+
+6. Environmental and Social Management System (ESMS) for Banks/FIs
+
+An E&S Management System is a set of policies, procedures, tools and internal capacity to identify,
+monitor and manage a Bank/FI's exposure to the E&S risks of its clients. An E&S Management
+System states a Bank/FI’s commitment to E&S management, explains its procedures for
+identifying, assessing and managing E&S risk of financial transactions, defines the decision-making
+process, describes the roles, responsibilities and capacity needs of staff in doing so and states the
+documentation and recordkeeping requirements. It also provides guidance on how to screen
+transactions, categorize transactions based on their E&S risk, conduct E&S due diligence and
+monitor the client’s E&S performance. The ESMS includes the financial institution’s environmental
+and social policy and designated roles and responsibilities of its staff. It is implemented through a
+set of procedures for:
+Screening transactions,
+Conducting environmental and social due diligence,
+Categorizing transactions based on their environmental and social risk,
+Decision-making process,
+Monitoring the client’s/investee’s environmental and social performance, and
+Managing a client’s/investee’s non-compliance with the environmental and social
+standards of banks/FIs.
+
+--- Page 14 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+12
+The procedures outlined in the ESMS need to be applied to each transaction as part of overall risk
+management framework of a bank/FI. For each transaction, this also requires a financial institution
+to formally document its environmental and social review as part of its record-keeping process,
+consider environmental and social findings during the decision-making process, and incorporate
+environmental and social requirements such as a corrective action plan as clauses in legal
+agreements with clients/investee.
+To ensure the effective implementation of the ESMS across operations, the bank/FI needs to
+allocate the necessary resources for internal communication and training. As part of its commitment
+to good corporate practices, banks/FIs will need to periodically report on the environmental and
+social performance of transactions and measures taken to reduce overall exposure to environmental
+and social risk.
+
+An ESMS helps a bank/FI to:
+Identify environmental and social risk associated with clients/investees and understand the
+potential impact on its portfolio;
+Systematically assess and manage environmental and social risks;
+Implement the necessary steps within its risk management system including
+documentation and recordkeeping;
+Monitor client/investee compliance with national environmental and social regulations and
+international best practices and standards;
+Require clients/investees to implement mitigation measures for identified environmental
+and social risk;
+Identify social and environmental business opportunities; and
+Develop a good reputation among clients/investees, investors and other relevant parties in
+the financial market.
+
+Key components of an ESMS are described below.
+
+A. E&S Policy
+An E&S policy states a Bank/FI's vision and mission with respect to the environment, society and
+contributions to sustainable development. It is a short, written statement that articulates the
+Bank/FI’s commitment to integrating E&S considerations into its business activities as well as
+contributions to sustainable development. It serves as the Bank/FI’s foundation within which the
+objectives and procedures of the ESMS are anchored. The E&S policy should be approved and
+supported by senior management. It may include the following statements and commitments:
+Incorporating E&S risk considerations into all financing activities;
+Setting strategic E&S objectives, such as offering new products that address E&S
+sustainability;
+Excluding financing clients whose business activities do not meet the Bank/FI’s
+principles;
+Establishing E&S requirements for clients such as complying with national E&S
+regulations and international standards;
+Communicating E&S expectations to all staff, clients and other external stakeholders;
+
+--- Page 15 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+13
+Committing to improving the overall E&S performance of its portfolio through enhanced
+risk management;
+Committing to continually building capacity of its staff to identify E&S risks, including
+E&S and investment officers/analysts.
+There is no standard content for an E&S policy, however the same should be tailored to the specific
+objectives of the Bank/FI, reflecting key E&S priorities and concerns as well as the E&S standards
+that clients are required to comply with. The Credit officer can start developing an E&S policy by
+reviewing the Bank/FI’s portfolio to gain an understanding of the E&S risks associated with its
+financing activities.
+
+B. Organization structure
+For an ESMS to function properly, it is essential that roles and responsibilities for carrying out the
+necessary procedures and making decisions are clearly defined. The following staff of a Bank/FI
+will be involved with implementing different aspects of the ESMS:
+Relationship Officials (Officials in Corporate or Retail or SME or Agri. Credit
+Division): ROs are responsible for identifying E&S risks in a client’s operation by talking to
+the client/ relevant officials, site visits, collecting documents, permits relevant for the
+proposed transaction. ROs are responsible for filling out the ESDD checklist in consultation
+with the client at approval stage, collect additional information and respond to credit queries if
+necessary also follow up with client if there are any pre disbursement actions to be completed.
+ROs also negotiates with the client in finalising action plans and timelines where necessary.
+Official in CRM Division: Official in Credit/Investment Risk Management (CRM/IRM)
+Division in Head Office/Branch (depending on centralized or decentralized credit
+management system) is the first point of contact for any transaction once the ESDD has been
+conducted by the ROs (Banks and FIs conducting credit/investment risk grading for
+SME/Agri./Retail credit through respective divisions will perform ESRM functions through
+those divisions for those credits.). Based upon the risk rating the official escalates the
+transaction to Head of CRM/IRM. There must be a separate unit within CRM/IRM division
+for ESRM with at least 01 (one) dedicated official.
+Head of CRM: Head of CRM/IRM is responsible for ensuring that in each transaction no
+critical E&S issues were overlooked, there is adequate documentary evidence to support
+client’s E&S performance and to ensure enough measures have been taken to manage
+identified risk.
+Senior Management / Board of Directors: The Senior Management should be responsible
+for the Bank/FI’s overall commitment to E&S objectives. For Banks/FIs in Bangladesh the
+Managing Director (MD) and the Board represents the senior management. Senior
+Management establishes the Bank/FI’s E&S requirements and conditions for clients. In cases
+of unresolved E&S issues or non-compliance associated with a transaction that cannot be
+resolved by the Head of CRM/IRM, Senior Management determines the appropriate course of
+action to follow to reduce the Bank/FI’s potential exposure to E&S risk, which may include
+taking legal action against the client. Board/EC (Executive Committee) is responsible for
+deciding if E&S risks in high risk projects are acceptable to the Bank/FI’s overall exposure to
+risk before proceeding with a transaction. The Board in certain cases may decide to terminate
+
+--- Page 16 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+14
+Board of Directors
+Managing Director
+Risk Management Committee
+Head of Sustainable Finance Unit
+Head of Credit/Investment Risk
+Management
+
+Head of Corporate/
+Commercial/SME/Retail banking
+Approval
+of high
+E&S rated
+loans
+Periodic
+reporting of
+ESRM of
+bank
+Periodic reporting of E&S rating
+of loans
+Monitoring of compliance of
+E&S rating
+a transaction based upon the level of risk of the project. Risk Management Committee (RMC)
+of Board will review, monitor and supervise the overall ESRM activities of bank/FIs.
+Legal Department: The Legal Department ensures that the Bank/FI’s E&S requirements
+are incorporated in legal agreements for each transaction. The Legal Department may advise if
+a client’s non-compliance with E&S clauses constitutes a breach of contract and is considered
+an Event of Default under the terms of the legal agreement that requires follow up by Senior
+Management.
+Sustainable Finance Unit (SFU): SFU (Please refer to SFU Circular No. 02/2016 issued
+by BB on December 01, 2016) of every Bank/FI in Bangladesh is responsible for coordination
+with different departments, branches of the Bank/FI for ensuring the compliance of ESRM
+and proper implementation of ESMS. This unit is responsible for updating the Board/RMC
+through Sustainable Finance Committee on the current status of the Bank/FI’s portfolio
+regarding ESRM, facilitating the Board/RMC’s decision making process where there are
+unresolved E&S issues or non-compliance. The unit is also responsible for periodic reporting
+to Bangladesh Bank and as/when required. Head of the SFU may be called upon by the Board
+to opine on critical E&S issues of a particular transaction. The SFU is also responsible for
+tracking latest E&S issues in the media and support transaction teams in identifying and
+managing E&S risks in lending.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C. Screening Transaction
+At the initial stage of evaluating a potential financial transaction, RO should screen the activities of
+the potential client to determine if it is an excluded activity. If the activity falls on the Bank/FI’s list
+of excluded activities, the financial transaction should not be considered. During the initial
+screening the RO should consider the Department of Environment (DoE) categorization as it gives a
+
+--- Page 17 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+15
+sense whether the transaction is in a high risk sector. DoE categorization is important to understand
+sectoral risk, but Banks/FIs will be required to complete the ESDD to identify transaction specific
+risks.
+
+D. Categorizing Transaction
+To determine the extent of E&S due diligence which will be required for a particular transaction, an
+E&S risk category should be assigned to each transaction. The level of E&S risk will vary greatly
+for different types of financial transactions and by industry sectors. To help a Bank/FI to determine
+the extent of E&S due diligence that will be required for a particular transaction, Bank/FI staff
+should assign an E&S risk category to each transaction. This provides an initial assessment of the
+E&S risk associated with the transaction. Together with the findings of the E&S due diligence, this
+E&S risk category can be incorporated into the overall risk assessment of a transaction and factored
+into the decision-making process. This initial categorisation can be done by considering DoE
+categories of Green, Orange A, Orange B and Red. A list of business categories is available in the
+Environment Conservation Rules (ECR), 1997. Bank/FI can also assign financial intermediary as a
+risk category to those transactions involving clients such as banks, microfinance institutions, private
+equity funds, and leasing and insurance companies, which act as financial intermediaries in making
+financing available to other clients. By assigning the financial intermediary category, the
+environmental and social risks related to these types of transactions can be managed accordingly.
+An environmental and social risk categorization system enables a Bank/financial institution to
+monitor and evaluate its exposure to environmental and social risk aggregated at the portfolio level.
+A Bank/financial institution can set internal threshold levels for its overall exposure as a function of
+environmental and social risk category or by exposure to industry sector or transaction type as a
+function of environmental and social risk category. This allows the financial institution to better
+manage and track changes in the overall risk profile of its portfolio and the associated
+environmental and social impacts of its clients/investees. This information can also be used by the
+Bank/Financial Institution to report internally to Senior Management and externally to stakeholders
+on overall environmental and social performance.
+
+E. Conducting ESDD
+Conducting ESDD on transactions is a critical component of a Bank/FI's ESMS and its outcome
+should be factored in to the decision-making process for proceeding with a transaction. The purpose
+of the E&S due diligence is to review any potential E&S risks associated with the business
+activities of a potential client ensure that the transaction does not carry E&S risks, which could
+present a potential liability/risk to the Bank/FI. The purpose of the E&S appraisal is to:
+Identify and assess potential E&S impacts and issues, both adverse and beneficial,
+associated with a proposed investment project;
+Conduct a gap analysis to define areas of project noncompliance with the requirements of
+the national laws
+Assess the commitment and capacity of the client to manage identified impacts and define
+remedial measures as needed;
+Assess the quality and adequacy of the client’s E&S management systems and practices to
+avoid, minimize, or mitigate adverse impacts, and define remedial measures as needed;
+
+--- Page 18 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+16
+Identify measures to avoid, minimize, mitigate, or offset/compensate for adverse impacts
+on workers, affected communities, and the environment;
+Design an Environmental and Social Action Plan (ESAP or Action Plan) addressing all
+deficiencies and non-compliances discerned during the appraisal containing specific tasks
+designed to close all significant gaps;
+Ensure that the investment contracts (e.g., loan documentation) include appropriate
+definitions, covenants, clauses and associated elements to obligate the client to comply with
+all E&S laws and regulations, the ESAP, and applicable sections of general and sector-
+specific checklists; and stipulate progress and performance reporting obligations;
+Identify opportunities (e.g., clean production and energy efficiency) to improve E&S
+performance and
+Conceptualize specific reporting needs for the supervision phase to ensure Banks/FIs clear
+understanding of client performance, behaviour, and achievement of sustainability in
+operations.
+E&S due diligence involves the systematic identification, quantification and assessment/evaluation
+of E&S risks associated with a proposed transaction. This process also helps identify the mitigation
+measures that are necessary to reduce any E&S risks that are identified. The extent of the E&S due
+diligence and level of detail is based on the transaction’s E&S risk category and will vary by
+transaction type.
+Banks and FIs need to refer to the generic ESDD checklist for sectors where a sector specific ESDD
+checklist is not available. For sectors where a sector specific ESDD checklist is available, the Banks
+and FIs need to refer to the respective sector ESDD checklist only for carrying out the ESDD. The
+ESDD checklists (both generic and sector specific) will auto generate the E&S risk ratings – high,
+medium and low based on the responses provided to the questions in the checklist.
+The process of E&S due diligence, filling in the ESDD checklists can involve a simple desktop
+review or may require a site visit with the use of technical experts, if necessary, to understand
+potential E&S risks associated with business activities and review a client’s compliance with the
+Bank/FI’s E&S requirements. Relevant documents will have to be collected to support E&S
+findings. The ESDD checklist has relevant guidance for bankers to assist in collecting proof points.
+Below are typical steps for conducting ESDD.
+Step1: Exclusion List: Screening of the project against a list of excluded activities
+adopted by the financial institution;
+Step 2: DoE Categorization: Review of industry sector and environmental and social
+issues that are typically associated with this type of operation;
+Step 3: ESDD:
+o Review the project’s compliance with applicable national environmental and social
+regulations;
+o Review the project sponsors’ track record on environmental and social issues, in terms of
+potential non-compliance with national regulations or negative publicity;
+o Review the project’s compliance against international standards or industry best practice
+regarding environmental and social issues; and
+o Documenting all required information. Every loan file should have a fully completed E&S
+checklist, copies of all permits, clearances (DoE clearance certificate, fire license, buyer’s
+
+--- Page 19 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+17
+audit report), ESAP, E&S Covenants in loan agreement and after disbursement subsequent
+supervision reports.
+Step 4: Generate Risk Rating: Upon completion of the relevant checklist a risk rating
+(High, Medium, or Low) will be generated automatically.
+Step 5: ESAP: For High and Medium Risk transaction, a time bound action plan and
+relevant covenants will have to be included in the loan documentation.
+Step 6: Escalation: Depending upon the risk rating, the transaction will have to be
+escalated to the relevant authority. Please refer to the escalation matrix (Annex-3) for the
+process to be followed.
+Step 7: Monitoring: Review of the proposed actions (if any) to mitigate potential
+environmental and social issues associated with the project throughout all phases of the
+project life cycle.
+Step 8: Reporting: The Banks/FIs will have to report both internally to senior
+management and also externally to Bangladesh Bank, shareholders on their sustainability
+performance.
+The financial institution should document all findings from the due diligence, which will be
+considered during the decision-making process before proceeding with a transaction. For
+transactions that have been categorized as high risk project finance, the financial institution may
+require the services of an external expert/consultant to conduct the environmental and social due
+diligence. To do so effectively, it is critical that the financial institution communicates to the
+external expert/consultant the environmental and social requirements that clients/investees are
+required to comply with. The financial institution also needs to ensure that the findings are
+reviewed and factored in to the decision-making process. The following flow chart summarizes the
+steps to be followed while conducting ESDD.
+Does the project involve activities listed under Exclusion list?
+Yes
+No
+Loan is rejected
+Categorize the project as per DoE categorization and understand the
+typical E&S issues associated with the industry sector
+Carry out the ESDD and complete the relevant checklist. This will
+automatically generate a risk rating – High, Medium, Low
+Prepare a time bound action pan (ESAP) and relevant covenants for
+High and Medium risk transactions
+Depending on the risk category, escalate the transaction in line with the
+escalation matrix for loan approval and disbursal
+Monitor and review the progress on proposed ESAP (if any) through
+project life cycle and document the findings as per the Supervision
+checklist
+Prepare a report on the sustainability performance of the bank and ESG
+performance of the portfolio companies for internal and external
+stakeholders
+
+--- Page 20 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+18
+
+F. Decision making process
+Once the ESDD is completed the checklist will auto generate a risk rating- High, Medium or Low.
+High Risk: Transactions typically involve clients with business activities with significant
+adverse E&S impacts that are sensitive, diverse, or unprecedented. A potential impact is
+considered sensitive if it may be irreversible (such as loss of a major natural habitat), affect
+vulnerable groups or ethnic minorities, involve involuntary displacement and resettlement, or
+affect significant cultural heritage sites.
+Medium Risk: Transactions typically involve clients with business activities with specific
+E&S impacts that are few in number, generally site-specific, largely reversible and readily
+addressed through mitigation measures and international best practice. Potential adverse
+environmental impacts on human populations or environmentally important areas are less
+adverse than those of High Risk transactions.
+Low Risk: Transactions typically involve clients with business activities with minimal or
+no adverse E&S impacts.
+All the low risk transactions can be approved by the Credit Officer. All the medium risk transaction
+will be escalated to the Head of Corporate/SME/Retail for approval. All the high risk transactions
+will be escalated to the Board, after review by the MD, for approval. In absence of the Board, the
+high risk transactions can be approved by the Executive Committee.
+
+G. Corrective Action Plan and Covenants:
+For Medium and High Risk projects there will be identified risks which will have to be mitigated. A
+corrective action plan can be developed identifying the risk, mitigation measure, timeline for
+implementation and who should be responsible for implementation. Transaction specific corrective
+action plan and covenants can be part of the legal loan documents. A template of the corrective
+action plan is provided in Annex-7 and different types of covenants are outlined in Annex 10-6.
+
+H. Monitoring:
+The purpose of monitoring a client's E&S performance is to assess existing and emerging E&S risks
+associated with a client's operations during the transaction. Once a transaction has been approved,
+the Bank/FI needs to monitor the client’s ongoing compliance with the E&S clauses stipulated in
+the legal agreement. E&S risks or compliance status may change from the time of transaction
+approval.
+From the time of transaction approval, E&S regulations may become more stringent, the client may
+modify its operations or production processes in a way that exacerbates previously identified risks
+or present new E&S risks. Managing emerging E&S risks at the transaction level ensures effective
+E&S risk management at the portfolio level.
+A Bank/FI’s ESMS should explain the process for systematic monitoring on a periodic basis, such
+as by implementing procedures for verifying compliance with E&S requirements including
+implementation of any corrective action plans to resolve non-compliances. The frequency and
+extent of monitoring will depend on the complexity of E&S issues associated with a client’s
+operations.
+The monitoring process generally involves a review of periodic E&S performance reports submitted
+by the client and regular site visits of the client’s operations. Special attention should be paid to:
+
+--- Page 21 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+19
+Assessing implementation of any mitigation measures specified in the corrective action
+plan
+Monitoring for valid E&S permits or licenses
+Any fines and penalties for non-compliance with E&S regulations
+Recent reports from the relevant regulator or inspection authority confirming compliance
+with specified laws, including any emissions measurements proving that emissions are below
+the permitted limits
+E&S occurrences including major accidents or incidents associated with a client’s
+operations such as worker injuries and spills
+Media attention to E&S issues related to the client
+Any complaints submitted by stakeholders about a client
+If Bank/FI staff identifies E&S issues, such as a client’s non-compliance with the E&S clauses
+stipulated in the legal agreement, they should follow up with the client to resolve these in a
+reasonable timeframe. Depending upon the complexity of the E&S issues associated with a client’s
+operations, Bank/FI staff should require a new corrective action plan and/or periodic reports on
+E&S performance throughout the duration of the transaction. The reporting frequency should be
+tailored to each individual transaction and should be based on self-monitoring by the client or
+monitoring by independent third parties and/or regulatory authorities.
+Banks and FIs need to refer to the monitoring checklist (Annex 10-8) for documenting their
+findings during the monitoring process.
+
+I. Managing Eventualities in Investment Projects:
+Non-routine events do occur in conjunction with business development, with consideration of new
+clients and investments, during appraisal, and in the post-commitment supervision cycle. Some
+common eventualities may include:
+Direct complaints made to the bank for investing in environmentally or socially harmful
+projects.
+Negative media report/ Non-Governmental Organization (NGO) campaign about a
+particular transaction which the Bank/FI has financed
+Serious accidents, incidents including fatalities
+Worker unrest, riots, demonstration on the roads
+As soon as the RO knows about any such occurrence, the RO will immediately inform Head of
+Corporate/SME/Retail, collect factual information about the event, conduct a site visit and develop
+an action plan to mitigate the occurrence of such event in the future and communicate to the client
+what implication there might be due to the event. There might also be requirement of re visiting the
+risk rating in light of the recent event.
+
+J. Internal/External Communication:
+A Bank/FI's ESMS should include periodic reporting on the E&S performance of transactions and
+measures taken to reduce its overall exposure to E&S risk.
+Bank/FI staff should compile all E&S findings from monitoring clients and aggregate findings at
+the portfolio level. By analysing this information, the Bank/FI can have a better understanding of its
+overall exposure to E&S risk through its portfolio.
+E&S performance reports typically include information on:
+
+--- Page 22 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+20
+Portfolio breakdown by business line, industry sector and E&S risk category
+Overall exposure to E&S risk and performance
+High-risk transactions and E&S due diligence process prior to transaction approval
+Major E&S risks of individual transactions, including cases of non-compliance
+Significant E&S accidents or incidents related to a transaction
+Implementation and changes in the Bank/FI’s ESMS
+A Bank/FI may have internal and external reporting requirements regarding the E&S risks and
+impacts associated with its portfolio.
+
+7. Implementing ESMS
+
+Once the ESMS has been developed and formally approved by Senior Management/Board, it can be
+institutionalized and rolled out across the Bank/FI.
+To implement the ESMS, the Bank/FI should develop an implementation plan, including an ESMS
+testing phase, with a time schedule for completing each task and the designated staff responsible for
+doing so. Tasks should include a review of the E&S regulations of the country in which the Bank/FI
+operates, testing phase, communications and training plan for staff, assigning responsibilities to
+applicable staff, review of international best practice that apply to clients and review of the ESMS
+on a periodic basis for continuous improvement.
+When properly designed and implemented, the additional workload for staff and transaction costs
+associated with the ESMS are limited, especially when E&S risk management procedures are fully
+integrated into the Bank/FI’s existing risk management framework.
+Senior Management should be kept informed of challenges, successes and other important issues
+associated with the implementation of the Bank/FI’s E&S Management System. The SFU of each
+bank in consultation with relevant business teams and credit related departments can take a lead on
+implementation. Bangladesh Bank also monitors sustainability related progress of each bank. Thus
+Bank/FIs need to implement required changes for a robust ESMS and report on progress every
+quarter to Bangladesh Bank.
+
+8. Provision of Incentives and Disincentives
+
+On the basis of the performance of the borrower(s) and banks and FIs dealing with transactions with
+high ESRR, incentives and disincentives need to be considered for the following.
+
+8.1. High ESRR at transaction/application/proposal level
+The board of the bank or FI is authorised to consider the provision of incentives and disincentives
+for projects that have high pre-disbursal ESRR. During post-disbursal monitoring of the
+performance of the project, if change in ESRR is observed, the following options may be
+considered, provided any change to the interest rate and repayment term has to be incorporated as
+part of the loan agreement linked with changes in ESRR.
+
+--- Page 23 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+21
+Table 2: Options for incentives and disincentives
+Sl.
+No
+Particulars
+Probable option(s)
+Incentive(s) if
+change in ESRR is
+positive
+ Issuance of appreciation letter and upload the name of project
+on bank’s website
+ Reduction in interest rate
+ Higher debt-equity ratio for borrowers
+ Flexibility in loan conditions
+ Favourable loan to value ratio for borrowers
+Disincentive(s) if
+change in ESRR is
+negative
+ Increase in interest rate
+ Lower debt-equity ratio for borrowers
+ Tougher loan covenants/conditions
+ Tougher loan to value ratio for borrowers
+
+
+8.2. High ESRR at portfolio level
+The purpose of these Guidelines is to encourage banks and FIs to better understand E&S risks and
+incorporate appropriate risk mitigation measures to be able to expand the lending portfolio rather
+than avoid investing in high E&S risks.
+Bangladesh Bank will monitor the share of high ESRR transactions of individual banks or FIs in
+total loan profile and actions taken by the boards for high ESRR transactions. Bangladesh Bank will
+consider the following options with respect to the performance of banks and FIs towards meeting
+the sanction target for high ESRR projects:
+ Impact in CAMELS rating;
+ Impact on liquidity and capital requirements;
+ Impact on credit growth;
+ Impact on profit distribution.
+
+--- Page 24 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+22
+Annex-1: Exclusion List
+
+Sl. No.
+Sector / Activities
+Production or trade in any product or activity deemed illegal under host country laws or
+regulations or international conventions and agreements, or subject to international
+bans, such as pharmaceuticals, pesticides/herbicides, ozone depleting substances,
+PCB's, wildlife or products regulated under the Convention on International Trade in
+Endangered Species (CITES).
+Links:
+United
+Nations
+(UN)
+list
+of
+banned
+chemicals
+and
+products:
+http://www.un.org/esa/coordination/Consolidated.list-13FinalFinal.pdf
+CITES list of endangered species: http://www.cites.org/eng/app/E-Apr27.pdf.
+Ship breaking/ trading activities which include:
+1. Ships with prevalent asbestos use (for e.g. passenger cruise);
+2. Ships listed on the Greenpeace blacklist*;
+3. Ships not certified “gas free” for hot work
+Drift net fishing, deep sea bottom trawling, or fishing with the use of explosives or
+cyanide
+Operations impacting UNESCO World Heritage Site and/or Ramsar site
+Illegal logging, and logging operations or conversion of land for plantation use in
+primary tropical moist forests
+10
+Production or activities involving forced labour/ child labour
+11
+Production or trade in:
+1. Weapons and munitions
+2. Tobacco
+3. Gambling, casinos
+4. Pornography (goods/stores/web-based)
+12
+Production or activities that impinge on the lands owned, or claimed under adjudication,
+by Indigenous Peoples, without full documented consent of such peoples
+* http://www.greenpeace.org/international/en/campaigns/oceans/pirate-fishing/Blacklist1/
+
+
+
+Annex-2: ESDD Checklist
+
+Please refer to the excel based E&S Risk Assessment Tool.
+
+--- Page 25 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+23
+Annex-3: Escalation Matrix
+
+Risk
+rating
+Proposing Stage
+Approval Stage
+Disbursement
+Stage
+Low
+ESDD Checklist is to be completed by RO, approved by official(s) of CRM/IRM
+in head office/branch and processed as per normal credit process for both existing
+and new clients
+If all (d -Not Applicable) are checked, state reasons why
+Medium
+RO & ESRM Unit Head
+of to sign off jointly for
+new or existing clients
+with proposals to:
+ PROCEED with ESDD
+submission (despite (b)
+being
+checked)
+but
+proper justification is
+to be provided
+
+Escalation
+Process
+if
+CRM/IRM
+official feels the transaction needs to
+be escalated:
+1. CRM/IRM official will be the first
+point of review
+2. If identified risk(s) is unresolved,
+proceed for review by Sustainable
+Finance Department and approval
+by Country/ Region Head of Credit
+3. Credit approval can only be granted
+subsequent to resolution via above
+steps
+4. Time-bound action plan to mitigate
+risks may form part of approval
+conditions
+If there are any
+conditions
+to
+be
+fulfilled as part of
+approval,
+Credit
+Risk
+Management
+Committee
+(CRMC) will check
+for the same before
+disbursing
+High
+RO & ESRM Unit Head
+to sign off jointly for new
+or existing clients with
+proposals to:
+ REJECT (with reasons
+documented
+for
+record); or
+ PROCEED with ESDD
+submission (despite (c)
+being
+checked)
+but
+proper justification is
+to be provided
+Escalation Process:
+1. CRM/IRM official will be the first
+point of review
+2. If identified risk(s) is unresolved,
+proceed for review by Country/
+Region Head of Credit and Head of
+Sustainable Finance Department
+3. All high risk projects are to be
+escalated to Board/ EC with a
+recommendation from Head of
+Credit.
+4. Credit approval can only be granted
+subsequent to resolution via above
+steps
+5. Time-bound action plan to mitigate
+risks may form part of approval
+conditions
+If there are any
+conditions
+to
+be
+fulfilled as part of
+approval,
+CRMC
+will check for the
+same
+before
+disbursing
+
+--- Page 26 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+24
+
+Annex-4: E&S Risks in Detail
+
+Air emissions and Air Quality - Emissions of air pollutants can occur from a wide variety of
+activities during construction, operation and decommissioning of a client's operations.
+Air emissions are typically associated with processes such as combustion, storage of materials or
+other industry-sector specific processes and can be:
+ Point sources: These are discrete, stationary, identifiable sources of emissions (such as a
+specific stack, vent or other discrete point of emission) that release pollutants to the atmosphere.
+They are typically located in manufacturing or production plants. Point sources are
+characterized by the release of air pollutants typically associated with the combustion of fossil
+fuels, such as nitrogen oxides (NOx), sulfur dioxide (SO2), carbon monoxide (CO), and
+particulate matter (PM), as well as other air pollutants including certain volatile organic
+compounds (VOCs) and metals that may also be associated with a wide range of industrial
+activities.
+ Fugitive sources: These are emissions that are distributed spatially over a wide area and
+originate in operations where exhausts are not captured and released through a stack. Fugitive
+emissions have the potential for much greater ground-level impacts than stationary source
+emissions, since they are discharged and dispersed close to the ground. The two main types of
+fugitive emissions are Volatile Organic Compounds (VOCs) and Particulate Matter (PM). Other
+contaminants (NOx, SO2 and CO) are mainly associated with combustion processes designed to
+deliver electrical or mechanical power, steam and heat.
+ Mobile sources: These are emissions associated with vehicle use and include CO, NOx,
+SO2, PM and VOCs. Emissions can be reduced by implementing a regular vehicle maintenance
+and repair program, instructing drivers on better driving practices that reduce both the risk of
+accidents and fuel consumption, replacing older vehicles with newer, more fuel efficient
+alternatives, converting to cleaner fuels and installing emissions control devices such as
+catalytic converters.
+A client should estimate and monitor air emissions associated with operations through
+qualitative or quantitative assessments and atmospheric dispersion models to assess potential
+ground level concentrations and environmental impacts. At a facility level, air emissions should
+not result in pollutant concentrations that exceed the ambient air quality standards set by
+national authorities, which would result in fines and/or penalties if concentrations are in
+violation of national legislation. Pollutant concentrations can also be compared to international
+best practice and standards to identify any deviations, which would indicate poor performance
+of an operation. Air emissions of concern typically include:
+ VOCs: Emissions of VOCs are associated with industrial activities that produce, store and
+use VOC-containing liquids or gases in particular where the material is under pressure. Typical
+sources include equipment leaks (from valves, fittings and elbows), open vats and mixing tanks,
+storage tanks, unit operations in wastewater treatment systems and accidental releases.
+Emissions can be reduced by modifying equipment, regularly monitoring equipment to detect
+and repair leaks, using less volatile substances such as aqueous solvents and collecting vapours
+through air extractors.
+
+--- Page 27 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+25
+ PM: Dust or PM is released during certain operations such as the combustion of fossil fuels,
+open storage of solid materials, and from exposed soil surfaces, including unpaved roads.
+Emissions can be reduced through dust control methods such as covers, water suppression, or
+increased moisture content for open materials storage piles, or controls (such as a baghouse or
+cyclone).
+ Ozone Depleting Substances (ODS): Ozone depleting substances (ODSs) include chemicals,
+which have been scheduled for phase-out under the Montreal Protocol on Substances that
+Deplete the Ozone Layer. Systems or processes using chlorofluorocarbons (CFCs), halons,
+1,1,1-trichloroethane (methyl chloroform), carbon tetrachloride, hydrochlorofluorocarbons
+(HCFCs), hydrobromofluorocarbons (HBFCs), and methyl bromide should be gradually phased
+out or not used at all as determined by national regulations. These chemicals are typically used
+in a variety of applications including refrigeration, air conditioning, manufacturing foam
+products, solvent cleaning, aerosol propellants, fire protection systems and as crop fumigants.
+ Greenhouse Gases (GHGs): GHGs, as defined under the Kyoto Protocol to the United
+Nations Framework Convention on Climate Change, include carbon dioxide (CO2), methane
+(CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulfur
+hexafluoride (SF6). GHGs can be generated by a facility’s production processes as well as from
+the production of power (on-site or off-site) for use by the facility. Emissions can be reduced
+through mechanisms such as carbon financing, energy efficiency, sustainable forms of
+agriculture and forestry, use of renewable forms of energy, carbon capture and storage
+technologies, recovery and use of methane in waste management and energy distribution.
+ Sulfur dioxide (SO2): Sulfur dioxide (SO2) is mainly produced by the combustion of fuels
+such as oil and coal and as a by-product from some chemical production or wastewater
+treatment processes. Emissions can be reduced through the use of alternate fuels such as low
+sulfur coal, light diesel or natural gas, emissions control technologies.
+ Toxics (mercury): Mercury exists as elemental mercury, inorganic mercury compounds
+(primarily mercuric chloride), and organic mercury compounds (primarily methyl mercury). All
+forms of mercury are toxic and each form exhibits different health effects. A major source of
+exposure to elemental mercury is through inhalation in the work place. Sources of inorganic
+mercury compounds are generally low as their use has mostly been banned but limited exposure
+can occur through the use of old cans of latex paint. Sources of methyl mercury include
+fungicide-treated grains and meat from animals fed with treated grain.
+Where possible, a client’s operations should avoid, minimize and control adverse impacts to human
+health, safety and the environment from emissions to air. The generation and release of air
+emissions can be managed through a combination of energy use efficiency, process modification,
+selection of fuels or other materials and application of emissions control techniques. A Bank/FI can
+help a client to identify areas for reductions in air emissions and to identify environmental business
+opportunities.
+Water use and conservation - A client's operations use water in various production processes,
+which vary by industry sector. Typically, water use at the facility level is associated with processes
+such as described here.
+Process water: Processes that typically use large quantities of water include washing
+machines, rinsing, water jets or sprays to keep conveyors clean or to cool product, and the use
+
+--- Page 28 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+26
+of tanks, which are refilled to control losses. Opportunities for reducing water use exist through
+water reuse, improved equipment maintenance and better process design.
+Building facility operations: Consumption of building and sanitary water is typically less
+than that of industrial processes. Areas for reducing water use include repairing leakages and
+installing water-saving devices.
+Cooling systems: Once-through cooling systems with cooling towers use large quantities of
+water and can be replaced by closed circuit cooling systems. Fresh water use can also be
+reduced by replacing it with treated water.
+Heating systems: Closed heating systems based on the circulation of low or medium
+pressure hot water may consume large quantities of water if they leak and are poorly
+maintained. In some cases, large quantities of water may be used by steam systems but water
+use can be reduced through steam recovery systems and improved systems operations.
+Where possible, a client’s operations should reduce overall water use at the facility level by
+managing the water consumption associated with specific production processes to avoid excess
+costs. A Bank/FI can help a client to identify areas for reductions in water use and new
+environmental business opportunities.
+Wastewater and water quality - A client's operations generate wastewater, which is treated on site
+and/or discharged either to the municipal sewage system for treatment or directly to the
+environment (surface water) without prior treatment.
+Wastewater includes process wastewater, wastewater from utility operations, storm water and
+sanitary wastewater. Wastewater will vary in quality and quantity by industry sector and typically
+includes:
+ Process wastewater: Pollutants may include acids, bases, and many others. These include
+soluble organic chemicals, suspended solids, nutrients (phosphorus and nitrogen), heavy metals
+(such as cadmium, chromium, copper, lead, mercury, nickel and zinc), cyanide, toxic organic
+chemicals, oily materials and volatile materials. The costs of treating process wastewater can be
+significant.
+ Wastewater from utilities operations: Utility operations such as cooling towers and
+demineralization systems may result in high rates of water consumption, as well as the potential
+release of high temperature water containing high dissolved solids, residues of biocides and
+residues of other cooling system anti-fouling agents.
+ Storm water: Storm water includes any surface runoff and flows from process and materials
+staging areas resulting from precipitation or drainage. Typically storm water runoff contains
+suspended sediments, metals, petroleum hydrocarbons, Polycyclic Aromatic Hydrocarbons
+(PAHs) and coliform. Rapid runoff, even of uncontaminated storm water, also degrades the
+quality of the receiving water by eroding stream beds and river banks.
+ Sanitary wastewater: This may include effluents from domestic sewage, food service and
+laundry facilities serving site employees and can also include other sources such as from
+laboratories, medical infirmaries, equipment maintenance shops and water softening.
+A client should monitor the quality, quantity, sources and discharge points of liquid effluents by
+type (process, utilities operations, storm water and sanitary). At a facility level, discharges of
+wastewater should not result in contaminant concentrations in excess of the effluent discharge
+quality standards of national regulations to avoid liability for fines and/or penalties. Discharge
+
+--- Page 29 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+27
+quality can also be compared to international best practice and standards to identify any
+deviations, which would indicate poor performance of an operation. The generation and
+discharge of wastewater should be managed to reduce the volume of water requiring specialized
+treatment by improving water use efficiency, modifying production processes (including the use
+of hazardous materials that contaminate water), and treating wastewater on-site prior to
+discharge in order to reduce the load of contaminants.
+Where possible, a client’s operations should avoid, minimize and control adverse impacts to human
+health, safety and the environment from wastewater generation through wastewater management,
+water conservation and reuse. A Bank/FI can help a client to identify opportunities for preventing or
+reducing wastewater generation through water conservation and recycling/reusing within operations
+and to identify environmental business opportunities.
+Wastes - A client's operations may generate, store, or handle any quantity of hazardous or non-
+hazardous waste across a range of industry sectors.
+Waste can be solid, liquid, or contain gaseous material that is discarded by disposal, recycling,
+burning or incineration. It can be a by-product of a manufacturing process or an obsolete
+commercial product that can no longer be used for its intended purpose and requires disposal.
+Inappropriate waste disposal practices can lead to contamination of ground water or potential fines
+and/or penalties as stipulated in national regulations.
+Solid (non-hazardous) waste generally includes domestic trash, inert construction/demolition
+materials, metal scrap and empty containers (except those previously used to contain hazardous
+materials, which should be managed as a hazardous waste), and residual waste from industrial
+operations.
+Hazardous waste shares the properties of a hazardous material (such as ignitability, corrosiveness,
+reactivity, or toxicity), or other physical, chemical, or biological characteristics that may pose a
+potential risk to human health or the environment if improperly managed. When a hazardous
+material is no longer usable for its original purpose and is intended for disposal, but still has
+hazardous properties, it is considered a hazardous waste. Typically, hazardous wastes include
+solvents, fuels, and asbestos in building materials, PCB oils in electrical equipment, most
+pesticides, and ozone depleting substances in refrigeration systems. Wastes may also be defined as
+“hazardous” by local regulations or international conventions, based on the origin of the waste and
+its inclusion on hazardous waste lists or based on its characteristics. Hazardous wastes should
+always be segregated from non-hazardous wastes.
+Facilities that generate and store wastes need to consider issues linked to waste minimization,
+generation, transport, and disposal. Typically, approaches to waste management include:
+ Waste management planning. Facilities that generate waste should characterize their waste
+according to composition, source, types of wastes produced, generation rates, or according to
+local regulatory requirements. This information can be used to identify opportunities for
+pollution prevention, such as source reduction, reuse, and recycling.
+ Waste prevention. Processes can be designed and operated to prevent, or minimize, the
+quantities of wastes generated and hazards associated with the wastes generated. This can be
+accomplished by substituting raw materials or inputs with less hazardous or toxic materials, or
+with those where processing generates lower waste volumes, and improving manufacturing
+processes to convert materials more efficiently.
+
+--- Page 30 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+28
+ Recycling and reuse. The total amount of waste can be significantly reduced through the
+implementation of recycling and reuse plans. This entails identifying and recycling products that
+can be reintroduced into the manufacturing process or industry activity at a site or in industrial
+processing operations located at other facilities. It also includes identifying materials that can be
+reused, saving both costs and disposal needs.
+ Treatment and disposal. If waste materials are still generated after the implementation of
+feasible waste prevention, reduction, reuse, recovery and recycling measures, waste materials
+should be treated and disposed of while considering all measures to avoid potential impacts to
+human health and the environment. Typical treatment and disposal methods include on-site or
+off-site biological, chemical, or physical treatment of the waste material to render it non-
+hazardous prior to final disposal; and treatment or disposal at permitted facilities specially
+designed to receive the waste.
+ Hazardous waste storage. Hazardous waste should be stored so as to prevent or control
+accidental releases to air, soil, and water resources. This requires the need for storage in closed
+containers away from direct sunlight, wind and rain; secondary containments; and the provision
+of adequate ventilation where volatile wastes are stored.
+ Hazardous waste transportation. On-site and off-site transportation of waste should be
+conducted using appropriate protocols to prevent or minimize spills, releases, and exposures to
+employees and the public. All waste containers designated for off-site shipment should be
+secured and labelled with the contents and associated hazards, and be properly loaded on the
+transport vehicles before leaving the site.
+ Hazardous treatment and disposal. In the absence of qualified commercial or government-
+owned waste vendors, facilities generating waste should have the technical capability to manage
+the hazardous waste or install on-site waste treatment or recycling processes in a manner that
+reduces immediate and future impacts to the environment. This may also require the need for
+applicable permits, certifications, and approvals.
+ Small quantities of hazardous waste. Hazardous waste materials are frequently generated in
+small quantities by many projects through a variety of activities such as equipment and building
+maintenance activities. Waste storage collection and storage areas should be visually inspected
+on a regular basis for evidence of accidental releases and to verify that wastes are properly
+labelled and stored. These types of wastes include spent solvents and oily rags, empty paint
+cans, chemical containers; used lubricating oil; used batteries (such as nickel-cadmium or lead
+acid); and lighting equipment, such as lamps or lamp ballasts.
+Where possible, a client’s operations should implement sound waste management practices at the
+facility. A Bank/FI can help a client to identify environmental business opportunities.
+Land contamination - Land can become contaminated due to releases of hazardous materials,
+wastes, or oil, including naturally occurring substances.
+Releases of these materials may be the result of historic or current site activities, including
+accidents during their handling and storage, or due to poor management or disposal. Land is
+considered contaminated when it contains hazardous materials concentrations, including oil, above
+baseline and/or naturally occurring levels.
+Contaminated lands may involve topsoil or subsurface soil that, through leaching and transport,
+may affect groundwater, surface water, and adjacent sites. Where subsurface contaminant sources
+
+--- Page 31 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+29
+include volatile substances, soil vapour may also create potential for contamination through
+infiltration of indoor air spaces of buildings.
+Land contamination is a concern when hazardous materials, waste, or oil are present in any
+environment at potentially hazardous concentrations and the potential for contact with humans,
+wildlife, plants, and other living organisms exists. This may occur when a contaminant migrates
+from its point of release (e.g., leaching into potable groundwater) and humans or other living
+organisms are exposed to it (e.g., through ingestion or skin absorption). This has potential risks to
+human health(e.g., risk of cancer) and ecology and represents a liability to the polluter/business
+owners (e.g., cost of remediation, damage of business reputation and/or business-community
+relations) or affected parties (e.g., workers at the site and nearby property owners).
+Land contamination should be avoided by preventing or controlling the release of hazardous
+materials, hazardous wastes, or oil to the environment. When contamination of land is suspected or
+confirmed during any project phase, the cause of the uncontrolled release should be identified and
+corrected to avoid further releases and associated adverse impacts. Contaminated lands should be
+managed to avoid the risk to human health and ecological receptors. This requires clean up reducing
+the level of contamination at the site while preventing human exposure.
+In cases of land contamination representing an immediate risk to human health and the
+environment, appropriate risk reduction should be implemented as soon as practicable to remove
+the imminent hazard. Risk mitigation strategies should be developed based on site-specific
+conditions and target contaminant source reduction, taking into consideration technical and
+financial feasibility. To protect human health, access to a contaminated site should be limited or
+prevented, for example through signage, fencing, or site security. This may also require capping
+contaminated soil with clean soil to prevent human contact, introducing certain plants into
+contaminated soils or paving them over as an temporary measure to prevent direct contact.
+A client’s operations should implement the necessary measures to prevent releases of hazardous
+materials, waste, or oil to the ground. A Bank/FI can help a client to identify environmental
+business opportunities.
+Labour and Working Conditions - The pursuit of economic growth through employment creation
+and income generation should be balanced with protection for basic rights of workers. For any
+business, the workforce is a valuable asset, and a sound worker-management relationship is a key
+ingredient to the long-term sustainability of the enterprise. Failure to establish and foster a sound
+worker-management relationship can undermine worker commitment and retention, result in labour
+strikes, and can jeopardize a client’s operations. Conversely, through a constructive worker-
+management relationship, and by treating the workers fairly and providing them with safe and
+healthy working conditions, clients may create tangible benefits, such as enhancement of the
+efficiency and productivity of their operations.
+A client’s commitment to establishing a sound worker-management relationship encompasses the
+following aspects:
+ Human resources policy. A client should adopt a policy appropriate to its size and
+workforce, which sets out its approach to managing employees. The policy provides
+information regarding their rights under national labour and employment law, including their
+rights related to wages and benefits.
+
+--- Page 32 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+30
+ Working conditions and terms of employment. A client should document and communicate
+to all employees and workers (including contract workers) their working conditions and terms
+of employment. These include their entitlement to wages and benefits, hours of work, overtime
+arrangements and overtime compensation, and leave for illness, maternity, vacation or holiday,
+that at a minimum comply with national law. This includes respecting a collective bargaining
+agreement with a workers’ organization if there is such an agreement.
+ Workers’ organizations. Where permitted by law, employees should be granted the right to
+associate freely and to bargain collectively, by forming and joining workers’ organizations or
+through alternative means. A client should not discourage workers from forming or joining
+workers’ organizations and should not discriminate or retaliate against workers who participate
+in such organizations and bargain collectively.
+ Non-discrimination and equal opportunity. A client should not make employment decisions
+on the basis of personal characteristics unrelated to inherent job requirements but rather on the
+principle of equal opportunity and fair treatment.
+ Retrenchment. If a client anticipates the elimination of a significant number of jobs or a
+layoff of a significant number of employees, it should develop a plan for managing the adverse
+impacts on employees.
+ Grievance mechanism. A client should provide all employees with a mechanism to raise
+reasonable workplace concerns, confidentially or anonymously if needed, so that concerns can
+be addressed promptly at the management-level without any retribution.
+ Child labour and forced labour. A client cannot employ children in a manner that is
+economically exploitative, or is likely to be harmful to the child or to interfere with the child’s
+education. A client cannot employ forced labour, which consists of any work or service not
+voluntarily performed by an individual but executed under threat of force or penalty.
+ Supply chain. A client should pay attention to unfair labour practices of its suppliers,
+especially in instances where low labour cost is a factor in the competitiveness of supplies, and
+ensure that this is not due to harmful labour practices.
+Respecting international standards with regard to labour and working conditions benefits a client’s
+operations by encouraging positive worker-management relationships that lead to more productive
+and stable operations, including a reduced likelihood of strikes, and provides a reputational
+advantage that comes from enhanced public recognition that good international standards are being
+followed.
+Community Health, Safety and Security - A client's operations can increase the potential for
+community exposure to risks and impacts arising from accidents, structural failures, and releases of
+hazardous materials. A client’s operations often bring benefits to communities including
+employment, services, and opportunities for economic development. However, these operations can
+also increase the potential for community exposure to risks and impacts arising from accidents,
+structural failures, and releases of hazardous materials. Communities may also be affected by
+impacts on their natural resources, exposure to diseases, and the use of security personnel.
+While acknowledging the public authorities’ role in promoting the health, safety and security of the
+public, it is also the client’s responsibility to avoid or minimize these risks and impacts that may
+arise from operations. This includes implementing the following actions:
+
+--- Page 33 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+31
+ Consultation and grievance channels. Where appropriate, the client should conduct
+consultations and establish a line of communication with the impacted community in order to
+understand and monitor potential impacts. An appropriate consultation and grievance
+mechanism can help manage and minimize potential risks, avoid reputational issues and reduce
+the risk of conflicts with the community.
+ Infrastructure and equipment safety. The client needs to ensure that operations are
+conducted to prevent potential injury to the surrounding community, especially if aspects of the
+operations are accessible to the community. If the client’s operations involve operation of
+moving equipment on public roads, the client needs to ensure that the necessary safety measures
+are in place to prevent the occurrence of any incidents and accidents.
+ Hazardous materials safety. The client needs to prevent or minimize the potential for
+community exposure to hazardous materials that may be released during operations. If there is a
+potential for life-threatening hazards, the client needs to modify operations or substitute or
+eliminate substances causing the hazard. The client also needs to control the safety of deliveries
+of raw materials and of transportation and disposal of wastes.
+ Environmental and natural resource issues. The client needs to avoid or minimize the
+exacerbation of impacts caused by natural hazards, such as landslides or floods that could arise
+from land use changes due to operations. This also includes avoiding or minimizing adverse
+impacts due to operations on soil, water, and other natural resources used by the affected
+communities.
+ Community exposure to disease. The client needs to prevent or minimize the potential for
+community exposure to water-borne or vector-borne disease, and other communicable diseases
+that could result from operations. This also includes preventing or minimizing the transmission
+of communicable diseases that may be associated with the influx of temporary or permanent
+labour associated with the client’s operations.
+ Increase in traffic. Traffic, especially movement of heavy vehicles increases especially
+during construction phase. This can lead to possible accidents/incidents which need to be
+minimized. There is a need for traffic management plan and training of staff to manage and
+minimize accidents/incidents.
+ Emergency preparedness and response. The client needs to inform surrounding
+communities of potential hazards associated with operations and collaborate with the
+community and local government agencies in preparing to respond effectively to emergency
+situations.
+ Use of security personnel. A client may retain security personnel to safeguard its operations,
+which may pose risks to the surrounding community if not managed properly. This includes
+ensuring that security personnel have not been implicated in past abuses, have been adequately
+trained in the use of force (including firearms, if necessary) as well as in the conduct toward
+workers and the local community. The client will also provide a mechanism to allow the
+surrounding community to express concerns about security personnel and will investigate any
+allegations of unlawful or abusive acts of security personnel to take the necessary action to
+prevent recurrence.
+If the impacts of a client’s operations on the surrounding community are not appropriately
+managed, this can create conflict and objections to the client’s presence in the community. This
+
+--- Page 34 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+32
+represents a reputational risk to the client at the local level, and if not addressed, may escalate to
+reputational risk at the regional and even international level.
+Land Acquisition and Resettlement - Involuntary resettlement refers both to physical
+displacement and to economic displacement due to land acquisition associated with a client's
+operations. Involuntary resettlement refers both to physical displacement (relocation or loss of
+shelter) and to economic displacement (access to resources for income generation or means of
+livelihood) due to land acquisition (including rights-of-way) associated with a client’s operations.
+Resettlement is considered involuntary when affected individuals or communities do not have the
+right to refuse displacement. This occurs in cases of: i) lawful expropriation or restrictions on land
+use based on eminent domain; and ii) negotiated settlements in which the buyer can resort to
+expropriation or impose legal restrictions on land use if negotiations with the seller fail.
+Displaced persons may be classified as persons who:
+ have formal legal rights to the land they occupy;
+ do not have formal legal rights to land, but have a claim to land that is recognized or
+recognizable under the national laws; or
+ have no recognizable legal right or claim to the land they occupy.
+Unless properly managed, involuntary resettlement may result in long-term hardship and
+impoverishment for affected persons and communities, as well as environmental damage and social
+stress in areas to which they have been displaced. For these reasons, involuntary resettlement
+should be avoided or at least minimized. However, where it is unavoidable, appropriate measures to
+mitigate adverse impacts on displaced persons and host communities should be carefully planned
+and implemented with appropriate disclosure of information, consultation, and the informed
+participation of affected persons. This includes implementing the following actions:
+ Compensation and benefits for displaced persons. When displacement cannot be avoided,
+the client will offer displaced persons and communities compensation for loss of assets at full
+replacement cost and other assistance to help them improve or at least restore their standards of
+living or livelihoods.
+ Grievance mechanism. The client needs to ensure that a grievance mechanism is in place to
+receive and address specific concerns about compensation and relocation that are raised by
+displaced persons or members of host communities.
+ Social impact assessment, resettlement planning and implementation. Where involuntary
+resettlement is unavoidable, the client will conduct a census to identify the persons who will be
+displaced by the project, understand the likely impacts on the affected persons and community,
+develop entitlement framework and determine who will be eligible for compensation.
+ Physical displacement. If people living on the site of a client’s operations must move to
+another location, the client will: i) offer displaced persons choices among feasible resettlement
+options, including adequate replacement housing or cash compensation; and ii) provide
+relocation assistance suited to the needs of each group of displaced persons, with particular
+attention paid to the needs of the poor and the vulnerable. New resettlement sites built for
+displaced persons will offer improved living conditions.
+ Economic displacement. If land acquisition for the client’s operations causes loss of income
+or livelihood, the client will promptly compensate these persons, for example by compensating
+affected business owners for the cost of re-establishing commercial activities elsewhere, for lost
+
+--- Page 35 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+33
+net income during the period of transition, and for the costs of the transfer and reinstallation of
+their business operations.
+ Government-managed resettlement. Where land acquisition and resettlement are the
+responsibility of the government, the client needs to collaborate with the responsible
+government agency to the extent permitted by the agency to achieve outcomes that are
+consistent with best international practice.
+If a client’s operations involve land acquisition and resettlement, this should be carefully managed
+to prevent the likelihood of hardship and impoverishment for affected persons and communities.
+Given that a displaced community will not be entirely satisfied with its new situation unless there is
+noticeable improvement in standards of living or livelihoods, this will remain a reputational risk for
+the client.
+Indigenous Peoples - Indigenous Peoples (IPs) are recognized as social groups with identities that
+are distinct from dominant groups in national societies and are often among vulnerable segments of
+the population. Indigenous Peoples may be referred to in different countries by such terms as
+“Indigenous ethnic minorities”, “aboriginals”, “hill tribes”, “minority nationalities”, “scheduled
+tribes”, “first nations”, or “tribal groups”.
+IPs typically self-identify as members of a distinct indigenous cultural group and are recognized as
+such by others; have a collective attachment to geographically distinct habitats or ancestral
+territories, making use of natural resources in these habitats and territories; have customary cultural,
+economic, social, or political institutions that are separate from those of the dominant society or
+culture; and communicate in an indigenous language, often different from the official language of
+the country or region.
+Indigenous Peoples are often closely tied to their traditional or customary lands and the natural
+resources on these lands. While these lands may not be under their legal ownership as defined under
+national law, the use of these lands by communities of IPs for their livelihoods or for cultural
+purposes is often recognized under customary law. However, the economic, social and legal status
+of Indigenous Peoples often limits their capacity to defend their interests and rights to lands and
+natural and cultural resources. Indigenous Peoples are particularly vulnerable if their lands and
+resources are transformed, encroached upon by outsiders, or significantly degraded. Their
+languages, cultures, religions, spiritual beliefs, and institutions may also be under threat. These
+characteristics expose Indigenous Peoples to different types of risks and severity of impacts,
+including loss of identity, culture, and natural resource-based livelihoods, as well as exposure to
+impoverishment and disease.
+A client should ensure that during the course of operations, the identity, culture and natural
+resource-based livelihoods of Indigenous Peoples are respected and exposure to impoverishment
+and disease is prevented. This includes implementing the following actions:
+ Avoid or minimize adverse impacts. When a client cannot completely avoid impacts on
+Indigenous Peoples, the client needs to mitigate or compensate for these impacts in a culturally
+appropriate manner and with the informed participation of affected Indigenous Peoples.
+ Consultation. The client needs to establish an ongoing relationship with the affected
+communities of Indigenous Peoples, which should be culturally appropriate. If there are adverse
+impacts, the consultation process needs to ensure the free, prior, and informed consultation of
+
+--- Page 36 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+34
+the Indigenous Peoples and facilitate their informed participation with respect to proposed
+mitigation measures and sharing development benefits.
+ Sharing development benefits. The client needs to identify opportunities for development
+benefits for affected Indigenous Peoples. This should aim at improving their standard of living
+and livelihoods in a culturally appropriate manner, including the long-term sustainability of the
+natural resource on which they depend.
+ Impacts on traditional or customary lands. If a client’s operations are located within
+traditional or customary lands or involve the commercial use of natural resources located on
+these lands, this will generate adverse impacts on the livelihoods or cultural identity of the
+community of Indigenous Peoples. The client needs to inform affected communities of their
+rights under national laws, including the recognition of customary rights; make efforts to avoid
+or at least minimize the size of the impacted land; and offer land-based compensation as well as
+culturally appropriate development opportunities to affected communities.
+ Relocation of Indigenous Peoples. The client should avoid the relocation of Indigenous
+Peoples from their traditional lands. If relocation is unavoidable, the client needs to enter into a
+good faith negotiation with the affected communities and ensure that any relocation complies
+with best international standards.
+If a client’s operations are initiated and conducted without the involvement of Indigenous Peoples,
+this can lead to misunderstanding and conflict. Given worldwide concern for the well-being of
+Indigenous Peoples, there are significant reputational risks for a client if Indigenous Peoples issues
+are not managed appropriately.
+Cultural Heritage - Cultural heritage encompasses properties and sites of archaeological,
+historical, cultural, artistic and religious significance as well as unique environmental features and
+cultural knowledge, and practices of communities protected for future generations. Cultural heritage
+encompasses properties and sites of archaeological, historical, cultural, artistic and religious
+significance as well as unique environmental features and cultural knowledge, innovations and
+practices of communities embodying traditional lifestyles, which are protected for current and
+future generations. Consistent with the requirements of the Convention Concerning the Protection
+of the World Cultural and Natural Heritage, a client is required to avoid significant damage to
+cultural heritage due to their business activities.
+Impacts on cultural heritage typical involve the following:
+ Chance finds. During the construction of a client’s facility(s), there may be physical impacts
+on previously unknown or undocumented resources that were fully or partially buried prior to
+the start of construction.
+ Community input. Where a project may affect cultural heritage, the client will consult with
+affected communities who use, or have used, the cultural heritage for longstanding cultural
+purposes to identify cultural heritage of importance. A client should incorporate the views of the
+affected communities on cultural heritage into the decision-making process.
+ Removal of cultural heritage. Most cultural heritage is best protected by preserving it in its
+place, since removal is likely to result in irreparable damage or destruction of the cultural
+heritage. Cultural heritage should only be removed if the client can demonstrate that the overall
+benefits of operations at a particular site outweigh the anticipated loss of cultural heritage.
+
+--- Page 37 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+35
+ Legally protected cultural heritage areas. When a client’s proposed operations are located
+within a legally protected area or a legally defined buffer zone, the client is required to take
+additional measures to promote and enhance the conservation of the area.
+ Use of cultural heritage. If a client makes commercial use of a community’s cultural
+heritage, such as embodiment of traditional lifestyles, the client is required to enter into a good
+faith negotiation with the affected local communities and to provide fair and equitable sharing
+of benefits from the commercialization of their cultural heritage.
+If a client’s operations are initiated and conducted without consideration for cultural heritage, there
+are significant legal and reputational risks. A systematic approach concerned for cultural heritage
+issues throughout a client’s operations, including additional investments in the enhancement of
+cultural heritage, can bring significant reputational advantage to a client at both the local and
+international level.
+
+--- Page 38 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+36
+Annex-5: Credit Type Wise E&S Risks
+
+Risk in Trade - The E&S risks of trade finance are associated with the production of those goods
+being traded and vary by industry sector and location. Companies selling to foreign markets are
+required to comply with local and international social and environmental regulations and in many
+cases also face public scrutiny. Importing and exporting companies are therefore exposed to some
+level of reputational risk.
+Given the short-term nature of trade finance, a Bank/FI will have limited leverage to manage E&S
+risks once it has approved a transaction. However, a Bank/FI can have simple transaction screening
+procedures to avoid supporting the trade of products and substances that are subject to bans and
+international phase-outs.
+Risk in SME - Investments in small and medium enterprises focus on a particular set of clients,
+usually defined by annual sales but also by loan amount. Small and medium enterprises have
+specific funding needs in terms of their business growth. The monetary cut-off for classifying a
+company as a small and medium enterprise generally varies greatly by country, by market, and by
+Bank/FI.
+Although less complex than for large corporate and project investments, the E&S issues associated
+with small and medium enterprises can be quite significant and are primarily related to worker
+health and safety and pollution. These E&S issues may not be closely monitored and the risks will
+vary depending on company size and its capacity to manage E&S risks, as well as by industry
+sector, and location.
+Bank/FIs that lend or invest in small and medium enterprises generally try to develop long-term
+relationships, which may further expose lenders/investors to E&S issues associated with the
+enterprise, posing financial and liability risks. Due to the visibility of small and medium enterprises
+in a community, reputational risk is also a factor.
+Risk in Retail - E&S issues associated with retail transactions that target individuals are generally
+non-existent, although there may be concerns associated with mortgage finance and potentially
+certain investment options that may involve controversial or high-risk projects/companies.
+There is usually no credit, liability or reputational risks due to E&S issues for Bank/FIs involved in
+retail banking. However, in some cases, there may be concerns with corporate accounts that are
+linked to companies or individuals whose activities are viewed as harmful, such as arms
+manufacturing, money laundering, and terrorism, which may represent a legal and reputational risk
+to the Bank/FI.
+Risk in Microfinance - These transactions are typically of smaller amounts and shorter tenure than
+corporate loans and target small business owners or commercial clients whose operations are
+generally small.
+The E&S risks associated with microfinance are typically low partly due to the small size of the
+operation and the industry sector. However, in some cases clients may be involved with handling
+dangerous substances such as pesticides that can pose health or environmental risks, but frequently
+they lack the necessary E&S management capacity to do so safely.
+Although at the individual transaction level the E&S risks associated with microfinance are low,
+given the smaller size and shorter tenure of transactions, there are credit or liability risks for the
+microfinance institution in cases where E&S issues, such as an accident, affect a micro-
+
+--- Page 39 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+37
+entrepreneur’s ability to repay a loan. Microfinance institutions often consider the E&S impacts
+associated with their transactions in the context of the developmental role they play in their
+communities and are therefore concerned with reputational risks. In addition, many see the
+promotion of good E&S practices as part of their role in the community.
+Risk in Corporate Finance - Loans (debt) can be used by the commercial operation to finance a
+specific aspect of the operation, such as the purchase of equipment, or for renovation/expansion of
+the operation. Equity investments in a commercial operation provide operating capital for an
+operation in exchange for shares (equity) in the company/project.
+The E&S risks associated with a corporate transaction will vary greatly and can be significant as a
+function of the operation’s industry sector, size, location, and company commitment and capacity to
+managing E&S risks. E&S risks will be more significant for medium and high-risk industry sectors
+and large-scale operations such as mining, oil and gas, and heavy manufacturing, which may result
+in loss of life, health impacts, and water contamination, among others, if not managed properly. For
+low-risk industry sectors such as retail operations and other services, the E&S risks will usually be
+low and mainly related to labour standards and life and fire safety, which can readily be addressed.
+Regardless of the industry sector, there may also be E&S risks, especially related to labour and
+working conditions, in the supply chain of raw materials and goods.
+E&S issues may threaten the financial and operational viability of a commercial operation. For a
+commercial operation, the source of repayment of a loan or payment of dividends on an investment
+is from the operation itself, backed by its entire balance sheet, rather than a specific asset. A
+corporate transaction exposes a Bank/FI to the entire commercial operation of the client’s company,
+which presents a liability, reputational, and credit risk. When a loan is backed by a specific asset as
+collateral, the liability risk for the Bank/FI may be increased if there are associated E&S issues.
+Risk in Project Finance - The financing is usually secured by the project assets such that the
+Bank/FI providing the funds will assume control of the project if the sponsor has difficulties
+complying with the terms of the transaction.
+Project finance is generally used for large, complex and sizable operations, such as roads, oil and
+gas explorations, dams, and power plants. Due to their complexity, size, and location, these projects
+often have challenging E&S issues, which may include involuntary resettlement, loss of
+biodiversity, impacts on indigenous and/or local communities, and worker safety, pollution,
+contamination, and others. Because these projects generally face high scrutiny from regulators, civil
+society, and financiers, the project’s sponsoring companies allocate more resources to managing
+E&S risks.
+If not managed properly, the E&S risks can result in disrupting or halting project operations and
+lead to legal complications and reputational impacts that threaten the overall success of the project.
+Because anticipated project cash flows typically generate the necessary resources to repay the loan,
+any disruption to the project itself, regardless of the financial standing of the sponsoring companies
+involved, poses a direct financial risk to the Bank/FI.
+
+--- Page 40 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+38
+Annex-6: Covenants
+
+E&S clauses can be incorporated into legal agreements with clients. This helps reduce a Bank/FI's
+exposure to potential E&S risks associated with a client's operations.
+Bank/FI staff can incorporate E&S clauses into legal agreements with clients to require clients to
+comply with the Bank/FI’s E&S requirements. Doing so helps a Bank/FI reduce its exposure to the
+E&S risks associated with a client’s operations throughout the lifetime of a transaction and gives
+the Bank/FI legal recourse in the case of non-compliance.
+A Bank/FI’s E&S Management System should state the circumstances under which specific E&S
+conditions such as the need for a corrective action plan should be inserted into the legal agreement
+for a proposed transaction.
+The Legal Department should be involved in developing and inserting the necessary clauses on
+E&S matters into legal agreements. The specific language will depend on the type of transaction
+and potential E&S risks identified during the due diligence process but generally addresses the
+following areas:
+ Positive Covenants: Measures or actions to be taken by the client. These may include the
+requirement for compliance with national E&S regulations and international standards, and
+periodic reporting on E&S performance. In the event of significant accidents and incidents, with
+potentially adverse E&S effects such as spills or workplace accidents resulting in death, serious
+or multiple injuries or major pollution, the client is required to notify the Bank/FI in a timely
+manner, such as within 3 days.
+ Negative Covenants: Actions that the client should refrain from undertaking. These include
+the Bank/FI’s E&S requirements.
+ Conditions Precedent: Conditions and requirements that the client has to fulfil prior to
+disbursement of funds by the Bank/FI. These may include proof of valid permits and licenses,
+preparation of government-requested reports and delivery of completion of mitigation actions
+stipulated in the corrective action plan.
+ Event of Default: An event that entitles the Bank/FI to cancel a transaction and declare all
+amounts owed by the client to become immediately due and payable. For transactions that
+involve complex E&S issues, this may include specifying a time period such as 30 days during
+which the client can resolve the issue after notification by the Bank/FI.
+ Corrective Action Plan: The Plan is typically included as an annex to the legal agreement,
+outlining the specific mitigation actions to be taken by the client according to an agreed
+timeframe for implementation.
+To assess compliance with the E&S clauses stipulated in the legal agreement, Bank/FI staff should
+periodically monitor clients and, as necessary, require the preparation of a periodic E&S
+performance report for review by the Bank/FI. The Bank/FI should consider material non-
+compliances with the E&S clauses as a breach of contract, which constitutes an Event of Default
+under the terms of the legal agreement.
+In case of such an event, Bank/FI staff needs to work with clients to resolve non-compliance issues
+in order to ensure that any potential exposure of the Bank/FI to the client’s E&S risks is mitigated.
+Where resolving the non-compliance issue is not possible, the Bank/FI may be required to take
+
+--- Page 41 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+39
+legal action against the client to reduce its exposure to the E&S risks associated with the
+transaction.
+
+
+Annex-7: Corrective Action Plan
+
+Bank/FI staff may develop a corrective action plan with a timeframe for the client to implement
+appropriate mitigation measures to comply with the Bank/FI's E&S requirements.
+Depending on the nature of E&S risks associated with a client’s operations, Bank/FI staff may
+develop a corrective action plan with a timeframe for the client to implement appropriate mitigation
+measures to comply with its E&S requirements. The purpose of a corrective action plan is to
+mitigate potential E&S risks in the context of a transaction to an acceptable level for the Bank/FI.
+Bank/FI staff should tailor the scope of a corrective action plan to each client according to the
+specific risks identified during the E&S due diligence process or during subsequent transaction
+monitoring. Corrective action plans range from simple mitigation measures to detailed management
+plans with actions that can be measured quantitatively or qualitatively. The corrective action plan
+should include a description of the specific mitigation actions to be taken by the client, a timeframe
+for implementation and a reporting requirement to inform the Bank/FI on the status of completion.
+Bank/FI staff will need to discuss the corrective action plan with the client and agree on its scope
+and timeframe for completion. If the corrective action plan is developed as part of the transaction
+appraisal process, it should be included in the legal agreement. The timeframe for implementation
+of specific mitigation measures will vary according to the E&S risk and may range from being a
+condition of transaction approval to a reasonable timeframe from disbursement or when E&S issues
+were identified during transaction monitoring.
+The following template can be used for documenting the corrective action plan agreed with the
+client. The template also contains few examples for guidance.
+
+--- Page 42 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+40
+Table-I: Corrective Action Plan template with examples
+Area of E&S concern
+as identified through
+ESDD
+Corrective Actions required
+Timeframe
+Action completion indicator
+Responsibility
+(Client staff,
+management or
+board)
+Cost
+involved
+Evidence
+of
+land
+pollution
+due
+to
+discharge of untreated
+effluent
+Action plan may include:
+ Removal and treatment of
+contaminated ground soil
+ Construction
+of
+sewage
+system
+for
+industrial
+wastewater
+ Construction of wastewater
+treatment
+facility
+and
+discharge
+system
+for
+treated water
+6 months
+ Installation of Effluent Treatment
+Plant (ETP). The ETP should be
+operational
+and
+the
+qualitative
+parameters of treated effluent should
+be within limits
+ The discharge of treated effluent
+should be through the constructed
+discharge system and no other modes
+of discharge and leakages
+ Qualitative
+parameters
+of
+treated
+contaminated ground soil should be
+within limits
+Board
+
+Absence of grievance
+redressal mechanism
+Establish a grievance redressal
+mechanism
+3 months
+Well established grievance redressal
+mechanism
+which
+is
+appropriately
+communicated
+to
+the
+external
+stakeholders
+Board
+
+Displacement
+of
+community structure
+Restoration
+of
+community
+structure for common benefits
+3 months
+
+Management
+
+Loss of trees, crops,
+perennials
+Compensating
+for
+standing
+crops and trees
+1 year
+Plantation of trees
+Management
+
+--- Page 43 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+41
+Annex-8: Monitoring Checklist
+
+Sl. No.
+Question /Issues to check
+Response
+Project Summary Information
+Reporting period covered by this supervision report
+
+Specification of project stage (design, construction, operation or
+closure stage)
+
+Key developments and any major changes in project location and
+design, if any from the time of loan disbursement or from the last
+supervision period.
+
+General Information
+Status of implementation of covenants/corrective action plan. Is it in
+line with the agreed timeframe? (i.e.,if all covenants are
+implemented or partially implemented or not implemented or
+delayed implementation).
+If partially implemented or not implemented or delayed
+implementation, RO to please mention the reason in the response
+column along with a timeline for completion of implementation as
+committed by the client during supervision.
+
+EHS Management
+If there was any incidence of accidents, spills, leakages,
+explosionetc. during the reporting period.
+If yes, what was the scale of damage (e.g. if there was any fatality,
+monetary loss etc.)?
+What was the action taken in response to the incident?
+
+If there were any recent fines or penalties issued by the regulatory
+body.
+If yes, RO to please mention the nature of violation, amount of
+fine/penalty paid, action taken by the client to address the issue to
+avoid any such fine/penalty in future.
+
+If there was any health & safety incident.
+If yes, what was the extent of injury – minor, major or fatal?
+What was the action taken in response to the incident?
+
+If there are any new E&S risks or adverse impacts observed due to
+client’s operation.
+
+RO to please mention the types of new E&S risks, the reason for
+such new E&S risks, mitigation measures undertaken by the client to
+address the E&S risks.
+
+Permits and Compliance Certificates
+All the required permits, licenses and clearances in place.
+
+RO to please mention the issuance dates and duration of validity of
+
+--- Page 44 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+42
+Sl. No.
+Question /Issues to check
+Response
+all such permits, licenses and clearances.
+10
+Other international management systems (for e.g. ISO 14000,
+OHSAS 18001, SA8000) followed by the client and if they have
+valid certifications for those management systems?
+
+Grievance Redressal
+11
+If there have been any recent complaints, grievance or protest
+received from local communities.
+
+If yes, RO to please specify the nature of grievances; actions taken
+by the client to resolve grievances and if there any outstanding issues
+and measures proposed by the client to resolve them.
+
+12
+If there were concerns raised during the stakeholder consultations
+carried out by the client during the reporting period.
+
+If yes, what was the approach undertaken by the client to address
+those concerns?
+
+Other Information
+13
+Any other information pertaining to environmental matters,
+management approach, community, media or NGO coverage that
+need to be mentioned.
+
+If there are any environment friendly initiatives, energy saving
+equipment etc. that might be relevant for the Bank/FI.
+
+--- Page 45 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+43
+Annex-9: Developing an ESMS
+
+Developing an ESMS requires senior management support and needs to be integrated with the
+Bank/FI's existing risk management framework. Developing an ESMS is most effective and
+efficient if it is supported by senior management and integrated with the Bank/FI’s existing risk
+management framework. A Bank/FI can initiate the process for developing an ESMS by
+establishing a Working Group.
+An ESMS includes a policy, a set of procedures to identify, access and manage E&S risks in
+financial transactions and internal capacity of staff responsible for E&S management and
+investments.
+It should be designed to manage the level of E&S risk that the Bank/FI is exposed to through its
+portfolio, both in terms of the industry sector of its clients and the type of financial transactions.
+The management of these risks should be tailored to the organizational needs of each Bank/FI,
+which are different for banking institutions, leasing companies, microfinance institutions, and
+private equity funds.
+
+ESMS Template
+An ESMS is anchored in a banks/FIs environmental and social policy and depends on the
+environmental and social management capacity of its staff and, as applicable, external experts. The
+ESMS includes the banks/FIs environmental and social policy and designated roles and
+responsibilities of its staff. It is implemented through a set of procedures for:
+ Screening transactions,
+ Categorizing transactions based on their environmental and social risk,
+ Conducting environmental and social due diligence,
+ Decision-making process,
+ Monitoring the client’s environmental and social performance, and
+ Managing a client’s non-compliance with the banks/FIs environmental and social
+standards.
+The procedures outlined in the ESMS should be applied to each transaction as part of a banks/FIs
+overall risk management framework. For each transaction, this also requires a bank/FI to formally
+document its environmental and social review as part of its record-keeping process, consider
+environmental and social findings during the decision-making process, and incorporate
+environmental and social requirements such as a corrective action plan as clauses in legal
+agreements with clients.
+To ensure the effective implementation of the ESMS across operations, the bank/FI needs to
+allocate the necessary resources for internal communication and training.
+As part of its commitment to good corporate practices, a bank/FI can periodically report on the
+environmental and social performance of transactions and measures taken to reduce overall
+exposure to environmental and social risk.
+A standard ESMS template is provided below for the guidance which can be customized as per
+organization’s requirements.
+
+--- Page 46 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+44
+Background
+This Environmental & Social Management System (ESMS) details the policy, procedures and
+workflow that will be followed for investments made by (“the Company”) under the management
+and administration of (“the Environmental Coordinator (or other designated officer)”).
+
+Environmental & Social Management System
+2.1.
+Policy
+The Company continually endeavors to ensure effective Environmental & Social management
+practices in all its activities, products and services with a special focus on the following:
+ Ensuring that all activities undertaken by the Company are consistent with the Applicable
+Requirements outlined later in this document
+ Ensuring that all projects are reviewed against the Applicable Requirements
+ Financing projects only when they are expected to be designed, built operated and
+maintained in a manner consistent with the Applicable Requirements
+ Making best efforts to ensure that all projects are operated in compliance with the
+Applicable requirements on an ongoing basis, during the currency of the Company’s
+financing
+ Ensuring transparency in its activities
+ Ensuring that the management and the shareholders of the client companies understand the
+policy commitments made by the Company in this area.
+
+This Policy will be communicated to all staff and operational employees of the Company.
+
+Signed
+
+
+
+Effective Date
+
+
+2.2.
+Applicable Requirements
+The Company will ensure that all projects are reviewed and evaluated against the following
+Environmental & Social requirements
+ The Exclusion List for all projects
+ The applicable national laws on environment, health, safety and social issues and any
+standards established therein
+ The IFC Performance Standards
+
+2.3.
+Procedures
+ At an initial stage of inquiry, the Environmental Coordinator (or other designated officer)
+will apply Exclusion List to the project. If the project involves an excluded activity, the
+prospective client will be so informed, and further consideration of financing for the project
+will be terminated. Otherwise, the Environmental coordinator will indicate the Applicable
+Requirements for the project.
+ When the Environmental Coordinator (or other designated officer) indicates that the
+project does not involve an excluded activity, the prospective client will be informed that the
+Company will undertake (if required) an Environmental & Social Due Diligence (ESDD) as
+part of the appraisal process.
+
+--- Page 47 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+45
+ The Environmental Coordinator or other designated officer will undertake (or appoint a
+consultant to undertake) an ESDD. Depending on the complexity of the project, the ESDD
+can be a desk review, based on a credit officer’s site visit or require a full scale review
+conducted by a technically qualified person or consultant.
+ The client company must be able to demonstrate compliance to the Applicable
+Requirements. Demonstration of compliance must be to the Environmental Coordinator (or
+other designated officer)’s satisfaction, although the opinion of third parties such as regulatory
+agencies can be sought. Where compliance cannot be demonstrated, a Corrective Action Plan
+must be agreed to in order for the investment to proceed. The plan must specify all of the
+necessary actions to bring a project into compliance. A target completion date for each
+specified action must also be agreed.
+ Prospective clients must provide all requested information and Environmental Coordinator
+(or other designated officer) must have concluded that the Project is expected to meet the
+Applicable Requirements (with Corrective Action if required) prior to the Company’s
+decision to make an investment.
+ Environmental and Social performance will be evaluated on an annual basis, including
+status of implementation of the Corrective Action. The benchmark for performance will be
+the ongoing compliance against the Applicable Requirements. Performance evaluation will be
+undertaken by:
+The Company’s client companies, who will provide annual reports to the
+Environmental Coordinator (or other designated officer), who may follow up as required
+with further queries or site visits; and
+The Environmental Coordinator (or other designated officer), who will provide
+Performance Reports to the Management, to be prepared on the basis of the Client annual
+reports provided to the Environmental Coordinator (or other designated officer) and the
+ESDD and supervision conducted.
+ All investment agreements will contain appropriate environmental representations,
+warranties, and covenants requiring that projects are in compliance in all material respects
+with host country environmental, health, safety and social requirements embodied by state
+general laws and implementing agencies and conducted in accordance with any Applicable
+Requirements.
+
+2.4.
+Organization and Responsibilities
+ [FIRST AND LAST NAME] is the Environmental Manager. The Environmental Manager
+will have oversight for environmental and social issues, will ensure resources are made
+available for environmental management, and will sign the Company’s annual environmental
+performance report.
+ The Environmental Coordinator is [FIRST AND LAST NAME].
+ The responsibilities of the Environmental Coordinator include:
+During due diligence, the evaluation of environmental compliance of a target client
+company with Applicable Requirements;
+Supervising projects in the portfolio against on-going compliance with the
+Applicable Requirements.
+The preparation of an annual environmental performance report, based on the annual
+performance report prepared by the client companies.
+
+--- Page 48 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+46
+ The Environmental Coordinator will ensure that these procedures are implemented for
+each project, and that records of environmental reviews are maintained.
+ The Environmental Coordinator (or other designated officer) will ensure that all
+investment decisions are supported by appropriate due diligence documentation (including,
+but not limited to, an environmental section in each final Investment Memorandum).
+ Legal Counsel will ensure that appropriate environmental representations, warranties, and
+covenants are incorporated in each stock purchase agreement.
+
+2.5.
+Resources and Capabilities
+ The Environmental Manager will work with management to ensure that adequate
+Company resources have been committed to allow for the effective implementation of the
+environmental policy and procedures of the Company.
+ The Environmental Coordinator (or other designated officer) will need to be technical
+qualified to be able to carry out the due diligence or review work carried out by a consultant.
+ The Environmental Coordinator will maintain a file of qualified environmental consultants
+who can be called upon to assist in conducting environmental reviews.
+
+2.6.
+Records to be maintained
+ Environnemental& Social Due diligence (ESDD) - This is the record of the Company’s
+E&S review of a project at the time of considering of the project for investment and forms
+ E&S Supervision records for projects being supervised
+ Reports to be provided to Company management
+
+Annexure
+3.1.
+Exclusion List
+
+IFC performance Standards
+(Available at the IFC Website)
+
+Carrying out the Environmental & Social Due Diligence (ESDD)
+An ESDD is the record of the Company’s review of a project at the time of appraisal that ensures
+that a project is meeting and is expected to continue to meet the Applicable Performance
+Requirements. An ESDD is based on all or some of the following:
+ Review of information in the public domain to check for any social and/or environmental
+controversies/news related to the project
+ Review of project and environmental and social documents of the project
+ Discussions with the Project Officials
+ Site visit and discussions there
+ Some technical/and E&S knowledge will be required along with knowledge of the
+technical issues in the project’s industrial sector and may require the use of an external
+consultant if the project is large and complex. Industry sector-wise E&S information in
+available at the following locations
+World Bank Pollution Prevention and Abatement Handbook
+IFC Sector guidelines
+
+--- Page 49 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+47
+
+Suggested ESDD report outline
+Cover issues as applicable
+Background: Project Description, Site and Environment Setting, Land requirement,
+Compliance with Applicable Requirements: Exclusion list, National Regulatory
+requirements, (Performance Standards if required)
+Environment Issues: Air Pollution, Water Pollution, Solid and Hazardous Wastes, Noise,
+Site Health and Safety, Chemical Hazards and Emergency Management,
+Resources Utilization : Water, Construction material, Other
+Sensitive Receptors: Local Human settlements, Local Ecologically sensitive areas, Sites of
+cultural importance
+Social Issues: Land Acquisition, Rehabilitation and Resettlement, Indigenous Peoples,
+Impact on local livelihood, Public Opinion and Consultation
+Labor Relations: No Child or forced labor, Compliance with national labor laws
+Project consultation and local Disclosure
+Other project specific issues
+Environnent Management /Corrective Action Plan
+Summary and Recommendations
+Financing Covenants/Conditions
+
+--- Page 50 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+48
+
+Annex-10: List of Relevant National Regulations and International Treaties
+
+Key E&S Areas
+Relevant local regulation
+Relevant international
+treaties and conventions
+for which Bangladesh is a
+signatory
+Assessment
+and
+management of E&S
+risks and impacts
+ National Environmental Policy,
+1992
+ Environment
+Pollution
+Control
+Ordinance, 1977
+ Environmental Quality Standards
+for Bangladesh, 1991
+ National
+Environment
+Management
+Action
+Plan
+(NEMAP), 1995
+ Environment Conservation Act,
+1995 and amended in 2002
+ Environment Conservation Rules,
+1997 and amended in 2003
+ EIA Guidelines For Industry, 1997
+
+Management of labour
+related issues such as
+recruitment,
+wages,
+occupational health and
+safety and others
+ Labour Policy 2012
+ Bangladesh Labour Act, 2006
+ Labour Welfare Foundation law
+2006
+ Bangladesh
+Labour
+(Amended)Law, 2013
+ Labour Relations under Labour
+Laws, 1996
+ National Child Labour Elimination
+Policy, 2010
+ Bangladesh Factory Act, 1965
+ Bangladesh Factory Rules, 1979
+ OSH Policy, 2011
+ The Employees State Insurance
+Act, 1948
+ The Employer’s Liability Act,
+1938
+ Maternity Benefit Act, 1950
+ Workmen's
+Compensation
+Act,
+1923
+ The Employment of Children Act,
+1938
+ Bangladesh Industrial Act 1974
+ Occupational
+Hazards
+Due to Air Pollution,
+Noise
+and
+Vibration
+(Geneva), 1977
+ Prevention and Control
+of Occupational Hazards
+(Geneva), 1974
+ Occupational Safety and
+Health
+in
+Working
+Environment (Geneva),
+1981
+ Occupational
+Health
+Services (Geneva), 1985
+Resource
+efficiency
+and
+pollution
+prevention
+ The
+Environment
+Pollution
+Control Ordinance, 1977
+ National 3-R Strategy, 2010 (3R:
+Reduce, Reuse and Recycle)
+ Ship-Breaking
+and
+Hazardous
+ International Convention
+on
+Climate
+Change
+(Kyoto Protocol), 1997
+ UN
+Framework
+Convention on Climate
+
+--- Page 51 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+49
+Key E&S Areas
+Relevant local regulation
+Relevant international
+treaties and conventions
+for which Bangladesh is a
+signatory
+Waste Management Rules, 2010
+ Biomedical Waste Management
+Rules, 2008
+ Draft
+National
+Solid
+Waste
+Management Rules, 2010
+ Draft National River Conservation
+Act, 2011
+Change
+(New
+York),
+1992
+ International Convention
+on Civil Liability for Oil
+Pollution
+Damage
+(Brussels), 1969
+ Convention
+on
+Oil
+Pollution (London), 1990
+ UN Convention on the
+Law
+of
+the
+Sea
+(Montague Bay), 1982
+Community
+health,
+safety and security
+ Disaster Management Act, 2012
+ Public
+Health
+Emergency
+Provisions Ordinance, 1994
+ Biomedical Waste Management
+Rules, 2008
+ Climate Change Act, 2010
+ Draft
+National
+Solid
+Waste
+Management Rules, 2010
+ National
+Plan
+for
+Disaster
+Management 2010-2015
+ Sound Pollution Law, 2006
+ Ship Breaking and Hazardous
+Waste Management Rules, 2010
+ Water
+Supply
+and
+Sewerage
+Authority Ordinance, 1963
+ Noise Control Rules
+ National Health Policy, 2011
+ International Convention
+on
+Climate
+Change
+(Kyoto Protocol), 1997
+ UN
+Framework
+Convention on Climate
+Change
+(New
+York),
+1992
+ International Convention
+on Civil Liability for Oil
+Pollution
+Damage
+(Brussels), 1969
+ Civil
+Liability
+on
+Transport of Dangerous
+Goods (Geneva), 1989
+Land acquisition and
+Involuntary
+resettlement
+ National Land Use Policy
+ The Land Acquisition Act, 1894
+ The Acquisition and Requisition
+of Immovable Property Ordinance,
+1982
+
+Biodiversity
+conservation
+and
+sustainable
+management of living
+natural resources
+ National Biodiversity Strategy
+and Action plan (2004)
+ Bangladesh
+Wildlife
+Conservation and Security Act,
+2012
+ Bangladesh
+Wild
+Life
+(Preservation) Act, 1974
+ Bio Safety Rules, 2012
+ Forest (Amendment) Act, 2012
+ Forest Policy, 1994
+ Social Forestry Rules, 2004
+ National Forest Policy and Forest
+ Protocol
+on
+Biological
+Safety
+(Cartagena
+Protocol), 2000
+ UN
+Framework
+Convention on Climate
+Change (New York), 1992
+ International
+Plant
+Protection
+Convention
+(Rome), 1951
+ International Convention
+on
+Climate
+Change
+(Kyoto Protocol), 1997
+ Convention Relative to
+
+--- Page 52 ---
+Guidelines on Environmental & Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh
+
+50
+Key E&S Areas
+Relevant local regulation
+Relevant international
+treaties and conventions
+for which Bangladesh is a
+signatory
+Sector Review (1994,2005)
+ Draft Tree Conservation Act,
+2012
+ The Private Forests Ordinance
+Act, 1959
+ Forest Transit Rule, 2011
+ Climate Change Act, 2010
+ Deer Rearing Policy, 2009
+ The Protection and Conservation
+of Fish Act 1950
+ Draft Wetland Policy, 1998
+ The Protection and Conservation
+of Fish Rules (1985)
+ The Protection and Conservation
+of Fish Act, 1950
+ National Conservation Strategy,
+1992
+ Private Fisheries Protection Act
+1889
+ Marine Fisheries ordinance 1983
+ Revised National Conservation
+Act, 2010
+the Preservation of Fauna
+and Flora in Their Natural
+State (London), 1933
+ International Convention
+for the Protection of Birds
+(Paris), 1950
+ Convention on Wetlands
+of
+International
+Importance Especially as
+Waterfowl
+Habitat
+(Ramsar), 1971
+ Convention
+on
+The
+Conservation
+of
+Migratory Species of Wild
+Animals (Bonn), 1979
+ Convention on Biological
+Diversity (Rio de Janeiro),
+1992
+ Convention
+on
+International
+Trade
+in
+Endangered Species of
+Wild Fauna and Flora
+ UN Convention on The
+Law
+of
+The
+Sea
+(Montague Bay), 1982
+Indigenous peoples
+ Social Forestry Rules, 2004
+ The Acquisition and Requisition
+of Immovable Property Ordinance
+1982
+ The Land Acquisition Act, 1894
+
+Cultural heritage
+ The Antiquities Act, 1968
+ World
+Cultural
+and
+Natural Heritage (Paris),
+1972

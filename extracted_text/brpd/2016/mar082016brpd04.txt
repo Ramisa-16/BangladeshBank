@@ -1,0 +1,2207 @@
+--- Page 1 ---
+website: www.bb.org.bd
+
+ব্যাংকিং প্রবিধি ও নীতি বিভাগ
+বাংলাদেশ ব্যাক
+প্রধান কার্যালয়
+UIST |
+২৫ FHT, ১৪২২
+বিআরপিডি সার্কুলার নং-০৪ তারিখ £------------
+০৮ মার্চ, ২০১৬
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে কার্ধরত সকল তফসিলি TIS |
+
+Guidelines on Credit Risk Management (CRM) for Banks পরিপালন প্রসঙ্গে |
+
+উপরোক্ত বিষয়ে oa বিভাগের বিআরপিডি সার্কুলার নং-১৭, তারিখ অক্টোবর ০৭, ২০০৩ এর প্রতি দৃষ্টি আকর্ষণ
+করা যাচ্ছে।
+
+ক ব্যবসার সাথে সম্পৃক্ত ঝুঁকিসমূহ আরও কার্যকর ও ফলপ্রসৃভাবে মোকাবেলা করার লক্ষ্যে ২০০৩ সালে প্রণীত
+Credit Risk Management Guidelines এ বাংলাদেশ ব্যাংক এবং বাংলাদেশে কার্যরত কতিপয় তফসিলি ব্যাংকের
+প্রতিনিধিদের সমন্বয়ে গঠিত কমিটির পর্যবেক্ষন ও স্টেকহোন্ডারদের মতামতের ভিত্তিতে সংশোধনী আনয়ন করা হয়েছে।
+সংশোধিত গাইডলাইন্সটি বাংলাদেশ ব্যাংকের ওয়েবসাইট (Www.bb.org.bd ) এ পাওয়া যাবে।
+
+সংশোধিত গাইডলাইন্সটি যথাযথভাবে অনুসরণ/পরিপালন করার জন্য সংশ্লিষ্ট সকলকে নির্দেশনা প্রদান করা হলো |
+
+আপনাদের বিশ্বস্ত,
+
+Bae —
+
+(আবু ফরাহ মোঃ নাছের)
+মহাব্যবস্থাপক
+ফোন ৪ ৯৫৩০২৫২।
+
+--- Page 2 ---
+Guidelines on
+Credit Risk Management (CRM)
+for Banks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+March 08, 2016
+
+--- Page 3 ---
+Preamble
+To strengthen the risk management practices of banks, Bangladesh Bank issued “Industry Best
+Practices” in 2003 for ‘Managing Core Risks in Banking’ in five (5) areas. Inarguably, ‘Credit
+Risk Management’ was the most important among them. Since then, the banking sector in
+Bangladesh witnessed different changes and transformation which warrant the revision of the
+Credit Risk Management (CRM) Guideline to address the changes, owing to the significant time
+lag. Experience of prior years has shown that absence of proper management of such risk has
+resulted in significant losses or even crippling losses for a number of banking institutions. It is
+envisaged that as the size of the banking system’s balance sheet increases over time, the potential
+financial burden will escalate proportionately. Again, as a consequence of immense competition
+in the banking industry, the diversity and operational periphery of credit functions have extended
+which harbor new sources and dimension of credit risk. In these years, revolutionary changes
+have been incurred in the regulatory environment.
+In this backdrop, Bangladesh Bank (BB) has felt the exigency to revisit the credit risk
+management guidelines. In continuation to that, this revised version of the guidelines titled
+“Guidelines on Credit Risk Management (CRM) for Banks” has been prepared. These guidelines
+are prepared on the basis of the first version of its kind, the Bank Company Act 1991 (Amended
+in 2013), Credit related Circulars and Instructions of BB, Risk Management Guidelines for
+Banks, and the Risk Based Capital Adequacy Framework in line with Basel II & III. These
+guidelines have been outlined by aligning with the Principle 17, 18, 19, 20 and 21 of Core
+Principles for Effective Banking Supervision i.e. BCP, issued by the Bank for International
+Settlements.
+These guidelines provide broad-based policy on the core principles for identifying, measuring,
+managing and controlling credit risk in banks. The guideline will be applicable for all types of
+conventional and shariah-based mode of financing. These policies represent minimum standards
+for credit related functions and are not a substitute for experience and good judgment. The
+guideline will accommodate all instructions set out in the concerned acts and regulations of BB
+from time to time.
+The purpose of this document is to provide directional guidelines to the banking sector that will
+improve the risk management culture, establish standards for segregation of duties and
+responsibilities, and assist in the ongoing improvement of the banking sector in Bangladesh.
+Banks are expected to go beyond the yardstick set out in these guidelines. In order to excel in
+credit risk management, banks themselves will devise, nurse and ensure compliance on core
+credit values to cultivate and drive behavior towards highly efficient and quality credit functions.
+The core credit values should include, but not be limited to, honesty (highest standard of
+professional and personal integrity), trust (faith and belief on each other in professional
+behavior), sincerity (intention to convey the truth to the best of knowledge and in action),
+equilibrium (balanced decision making through using open and unbiased processes of gathering
+and evaluating necessary information), diligence (act with due care which displays professional
+skills in conduct of any aspect of credit process) etc. Keeping in mind the credit values, banks
+will devise credit appraisal principles which should give an underlining broad guideline of credit
+risk management. This is the ultimate desired outcome of these guidelines.
+
+--- Page 4 ---
+Guidelines on
+Credit Risk Management (CRM) for Banks
+
+
+Chairman
+Abu Farah Md. Naser- General Manager, Bangladesh Bank
+
+Member Secretary
+Dipti Rani Hazra- Joint Director, Bangladesh Bank
+
+Members
+Md. Zamal Mollah- Deputy General Manager, Bangladesh Bank
+Md. Sarwar Hossain- Joint Director, Bangladesh Bank
+Md. Arifuzzaman- Joint Director, Bangladesh Bank
+Mizanur Rahman Akon- Joint Director, Bangladesh Bank
+Amitabh Chakraborty- Deputy Director, Bangladesh Bank
+Asif Iqbal- Deputy Director, Bangladesh Bank
+Tazrina Ferdousi- General Manager, Agrani Bank Limited
+Md. Zakir Hossain- Senior Executive Vice President, Mercantile Bank Limited
+Md. Jahangir Alam- Executive Vice President, AB Bank Limited
+Mohammed Azizur Rahman Shuman- Vice President, City Bank Limited
+
+--- Page 5 ---
+Table of Contents
+
+Chapter 01: Overview on Credit Risk Management ...................................................... 7
+1.1 Introduction ....................................................................................................... 7
+1.2 Credit risk as range of possible outcomes ........................................................... 7
+1.3 Indicators of high credit risk or poor credit risk management ............................. 7
+1.4 Concentration risk .............................................................................................. 9
+1.5 Robust credit risk management policy as an answer to high credit risk/poor
+credit risk management .......................................................................................... 10
+Chapter 02: Organizing Credit Risk Management ...................................................... 14
+2.1 Role of the Board of Directors ........................................................................... 14
+2.2 Role of Senior Management .............................................................................. 14
+2.3 Role of the Credit Risk Management Committee ............................................... 15
+Chapter 03: Managing Credit Risk in the Origination Process .................................... 16
+3.1 Borrower evaluation ......................................................................................... 16
+3.2 Risk-based loan pricing .................................................................................... 19
+3.3 Approval authority ............................................................................................ 20
+3.4 Disbursement ................................................................................................... 22
+3.5 Special case of related person lending ............................................................... 23
+Chapter 04: Credit Risk Mitigation Strategies ............................................................ 24
+4.1 Credit Risk Mitigation ....................................................................................... 24
+4.2 Collateral .......................................................................................................... 24
+4.3 Third-party guarantees ..................................................................................... 25
+Chapter 05: Managing Credit Risk in the Administration Process .............................. 27
+5.1 Borrower follow-up and corrective action .......................................................... 27
+5.2 Independent internal loan review and changes to the credit risk rating ............ 27
+5.3 Timely identification of problem assets ............................................................. 30
+5.4 The role of provisioning in managing credit risk ................................................ 31
+Chapter 06: Managing Credit Risk with Appropriate Management Information Systems
+(MIS) .......................................................................................................................... 33
+6.1 Booking MIS ..................................................................................................... 33
+6.2 Portfolio MIS ..................................................................................................... 33
+6.5 Sufficient data to track loss experience on loans disaggregated by above factors
+............................................................................................................................... 34
+6.6 Sufficient data to quantify embedded losses in the loan portfolio that have not
+yet been recognized ................................................................................................ 35
+6.7 Periodic stress testing ....................................................................................... 35
+6.8 The role of loss control limits (“management action triggers”) in adjusting credit
+policies, authorities, limits, required credit enhancements, etc. .............................. 36
+
+--- Page 6 ---
+Chapter 07: Managing Credit Risk of Problem Assets ................................................. 37
+7.1 Interaction with borrower ................................................................................. 37
+7.2 Appropriateness of rescheduling as a means to manage credit risk................... 37
+7.3 Appropriateness of restructuring as a means to manage credit risk .................. 38
+7.4 Credit Recovery................................................................................................. 38
+7.5 Write-off, repossession, and disposition of collateral ......................................... 38
+Annexure-1 ................................................................................................................ 40
+Annexure-2 ................................................................................................................ 46
+
+--- Page 7 ---
+Acronyms
+AoA
+Article of Association
+BB
+Bangladesh Bank
+BCP
+Basel Core Principle
+CET1
+Common Equity Tier I
+CIB
+Credit Information Bureau
+CP
+Credit Policy
+CRMP
+Credit Risk Management Policy
+EA Early Alert Reporting
+ECAI
+External Credit Assessment Institution
+ESRR
+Environmental and Social Risk Rating
+ICRRS
+Internal Credit Risk Rating System
+LTV
+Loan-to-value
+MAT
+Management Action Trigger
+MIS
+Management Information Systems
+MoA
+Memorandum of Association
+NBFIs
+Non Bank Financial Institutions
+NGOs
+Non Government Organizations
+NPLs
+Non Performing Loans
+NII
+Net Interest Income
+NFI
+Net Fees Income
+OBS
+Off Balance Sheet
+PD
+Probability of Default
+PNS Personal Net-Worth Statement
+RAS
+Risk Appetite Statement
+RAR
+Risk Adjusted Return
+RJSC
+Registered Joint Stock Company
+RM
+Relationship Management
+RMD
+Risk Management Division
+TP
+Trading Profit
+SMEs
+Small & Medium-sized enterprises
+
+--- Page 8 ---
+Chapter 01: Overview on Credit Risk Management
+
+1.1 Introduction
+
+As a result of the global financial crisis, international standard-setting bodies and national
+authorities are reviewing and revising their expectations as to how banks identify, measure,
+monitor, and control their credit risk. These Guidelines have been prepared with these
+international standards in mind, most notably Principles 17, 18, 19, and 20 of the Core Principles
+for Effective Banking Supervision, issued in 2012 by the Basel Committee on Banking
+Supervision. The Board of Directors and senior executive officers of each bank are strongly
+advised to familiarize themselves with these Principles and apply them throughout their credit
+risk management activities.
+
+1.2 Credit risk as range of possible outcomes
+
+ Credit risk arises from the potential that a bank’s borrower will fail to meet its obligations
+in accordance with agreed terms, resulting in a negative effect on the profitability and
+capital of the bank.
+ Generally credits are the largest and most obvious source of credit risk. However, credit
+risk could stem from both on-balance sheet and off-balance sheet activities such as
+guarantees. It may arise from either an inability or an unwillingness to perform in the pre-
+committed contracted manner. Credit risk comes from a bank’s dealing with households,
+small or medium-sized enterprises (SMEs), corporate clients, other banks and financial
+institutions, or a sovereign.
+ In more technical terms, credit risk can be viewed as the existence of multiple possible
+outcomes when a bank makes a loan or other extension of credit. The possible outcomes
+range from full and timely payments according to the contract, all the way to a complete
+absence of any repayment (a total loss on the loan). Payments could be made in full but
+not in a timely manner, or payments could be made in a timely manner but not in full.
+Every possible outcome, and there are a great many possible outcomes, can be said to
+have a probability of occurrence, and the probabilities, as in any distribution, sum to 100
+percent.
+ In this and all the subsequent sections on credit risk management, “loan” is used as
+shorthand for all possible types of exposure to a single client or group of related clients.
+It is to be understood that many different types of transactions, including off-balance-
+sheet transactions, pose credit risk to the bank, and all such transactions are subject to
+these Guidelines as appropriate.
+
+1.3 Indicators of high credit risk or poor credit risk management
+
+Just as credit risk can be estimated for an individual loan, so too can the bank as a whole be said
+to have varying degrees of credit risk. Unlike measuring credit risk for a loan, however,
+measuring credit risk of an entire institution is a complicated assessment, involving many
+quantitative and qualitative factors, the most important of which are summarized below (some to
+be developed in more detail later in this document).
+
+--- Page 9 ---
+Moreover, whatever may be the overall level of credit risk, a bank may be said to have poor
+credit risk management. While these assessment factors are mostly qualitative in nature, they
+cannot be ignored, and BB will consider these lapses as evidence of mismanagement requiring
+corrective action.
+
+Indicators of high credit risk (not an exhaustive list)
+ The level of loans is high relative to total assets and equity capital.
+ Loan growth rates significantly exceed national trends and the trends of similar banks.
+ Growth was not planned or exceeds planned levels, and stretches management and staff
+expertise.
+ The bank is highly dependent on interest and fees from loans and advances.
+ Loan yields are high and reflect an imbalance between risk and return.
+ The bank has one or more large concentrations. Concentrations have exceeded internal
+limits.
+ Existing and/or new extensions of credit reflect liberal judgment and risk-selection
+standards.
+ Practices have resulted in a large number of exceptions to the credit policy.
+ The bank has a large volume and/or number of classified loans.
+ Even among standard and special mention account loans, the portfolios are skewed
+toward lower internal ratings.
+ Classified loans are skewed toward the less favorable categories (doubtful and bad/loss).
+ Collateral requirements are liberal, or if conservative, there are substantial deviations
+from requirements.
+ Collateral valuations are not always obtained, frequently unsupported, and/or reflect
+inadequate protection.
+ Loan documentation exceptions are frequent, and exceptions are outstanding for long
+periods of time.
+ The bank liberally reschedules and/or restructures loans in a manner that raises
+substantial concern about the accuracy or transparency of reported problem loan
+numbers.
+ Quarterly loan losses, as a percentage of the total loan portfolio, are high and/or routinely
+exceed established provisions.
+
+Indicators of poor credit risk management (not an exhaustive list)
+ Credit culture is absent or materially flawed.
+ Strategic and/or business plans encourage taking on liberal levels of risk.
+ Anxiety for income dominates planning activities.
+ The bank engages in new loan products or initiatives without conducting sufficient due
+diligence testing.
+ Loan management and personnel may not possess sufficient expertise and/or experience.
+ Responsibilities and accountabilities in the origination, administration, or problem loan
+management processes are unclear.
+ The bank may not identify concentrated exposures, and/or identifies them but takes little
+or no actions to limit, reduce, or mitigate risk.
+ Concentration limits, if any, are exceeded or raised frequently.
+ Compensation structure is skewed toward volume of loans originated, rather than quality.
+
+--- Page 10 ---
+ There is little evidence of accountability for loan quality in the origination and/or
+administration function.
+ Staffing levels throughout the origination and/or administration function are low.
+ Skills throughout the origination and/or administration function are low.
+ Credit policies are deficient in one or more ways and require significant improvement in
+one or more areas. They may not be sufficiently clear or are too general to adequately
+communicate portfolio objectives, risk tolerance, and loan judgment and risk selection
+standards.
+ The bank approves significant policy exceptions, but does not report them individually or
+in the aggregate and/or does not analyze their effect on portfolio quality. Policy
+exceptions do not receive appropriate approval.
+ Credit analysis is deficient. Analysis is superficial and key risks are overlooked.
+ Risk rating and problem loan review are deficient and require improvement. Problem
+loans and advances are not identified accurately or in a timely manner; as a result,
+portfolio risk is likely misstated.
+ The bank’s risk ratings (including the classification system) frequently deviate from BB’s
+risk ratings or classifications.
+ The graduating of internal risk ratings in the standard and special mention categories is
+insufficient to stratify risk for early warning or other purposes, such as loan pricing or
+capital allocation.
+ Management information systems (MIS) have deficiencies requiring attention. The
+accuracy and/or timeliness of information is affected in a material way, and portfolio risk
+information is incomplete. As a result, the Board and senior management may not be
+receiving appropriate or sufficient information to analyze and understand the bank’s
+credit risk profile.
+
+1.4 Concentration risk
+Even if a bank’s origination and administration policies and procedures for individual loans are
+sound, a bank may have high credit risk and/or poor credit risk management if the loan book is
+concentrated. Concentration risk arises when any bank invests its most or all of the assets to
+single or few individuals or entities or sectors or instruments. Downturn in concentrated
+activities and/or areas may cause huge losses to a bank relative to its capital and can threaten the
+bank’s health or ability to maintain its core operations. Banks need to pay attention to the
+following credit concentration risk areas:
+
+ Sector wise exposure,
+ Division wise exposure (Geographic Concentration),
+ Group wise exposure (Outstanding amount more than),
+ Single borrower wise exposure (Outstanding amount more than),
+ Top borrower wise exposure (Top 10-50 borrowers will be counted)
+
+Banks must establish internal limits to concentration across all the possible dimensions of
+concentration risk. It follows that if any part of a bank’s loan portfolio is concentrated in any
+way, the bank must endeavor to reduce the volume of loans in that category, raise capital, or take
+a combination of both actions.
+
+--- Page 11 ---
+~ 10 ~
+
+1.5 Robust credit risk management policy as an answer to high credit
+risk/poor credit risk management
+
+Banks always have a “credit policy,” but what is really needed is a high-quality “credit risk
+management policy” (CRMP). The CRMP in its expanded form contains all of the elements that
+a “credit policy” would contain, and goes beyond these. It must be updated at least annually,
+with Board approval for these annual updates.
+i) Risk appetite statement
+
+Risk appetite is the level and type of risk a bank is able and willing to assume in its exposures
+and business activities, given its business objectives and obligations to stakeholders (depositors,
+creditors, shareholders, borrowers, regulators).
+A robust CRMP starts with a well-crafted risk appetite statement (RAS). In this regard, The Risk
+Appetite Statement shall be approved by board and embodied in risk policy and delegated
+authorities. . Risk appetite is generally expressed through both quantitative and qualitative
+means and should consider extreme conditions, events, and outcomes. It should be stated in
+terms of the potential impact on profitability, capital, and liquidity, and should be consistent with
+the bank’s strategic and business plans. The credit RAS is an example of a bank’s overall RAS
+being concretely expressed at the business line level. The RAS shall be approved by board and
+embodied in risk policy and delegated authorities.
+
+For credit risk specifically, the RAS should quantify the maximum expected loss the bank is
+willing to endure across all credit products, including off-balance-sheet items such as letters of
+credit and guarantees. The maximum expected losses need to be specified so that the business
+lines that take on credit risk know where the bank wishes to be along the risk-return tradeoff.
+The bank should also specify the minimum expected losses, since it is possible for a bank to take
+on too little credit risk and face the consequence of weak earnings.
+
+
+The RAS should also address the maximum and minimum allowable concentrations (expressed
+as a percentage of CET1) for all major types of credit products, borrowers, and sectors.
+
+Contents of the Risk Appetite Statement shall be, but are not limited to, the following statements:
+ Industry-wise sectoral concentration
+ Product-wise funded loan concentration (composition of term loan, mid-term loan,
+demand loan, continuous loan etc)
+ Product-wise non-funded loan (OBS) concentration (composition of bank guarantee,
+acceptance, etc.)
+ Area wise/geographical, currency wise and maturity wise credit concentration
+ Business segment-wise concentrations (corporate, MSMEs, Retail, Micro Credit, Card
+etc)
+ Client concentration based on external/internal credit rating.
+ Classification boundaries in terms of portfolio percentage, beyond which further growth
+may be halted.
+ Maximum level of ‘high’ rated clients in terms of environmental and social due diligence.
+
+ii) Limits on loan type, borrower type, rating grade, industry or economic sector
+
+--- Page 12 ---
+~ 11 ~
+
+As stated above, it is an essential component of credit risk management to establish limits on
+concentrations across all possible dimensions of the credit portfolio. The first task in that effort
+is to establish a sensible disaggregation of the portfolio, along the following lines:
+Agriculture, Fishing, and Forestry
+Industry
+
+Nature of Industry loan
+
+a) Term loans
+
+b) Working capital loans
+
+(i) Secured by eligible securities
+(ii) Secured by other than eligible securities
+
+*Scale-wise distribution of industry portfolio
+
+1. Large Industries
+
+2.Small,medium,cottage & micro industries
+
+3.Service industries
+Trade & Commerce:
+a) Retail Trading
+b)Wholesale Trading
+c)Export Financing
+d)Import Financing
+e)Lease Finance
+f)Others
+
+(i) Secured by eligible securities
+(ii) Secured by other than eligible securities
+Construction(commercial real estate, construction and land development loans):
+a) Residential Real estate
+b) Commercial Real estate
+
+c) Infrastructure development
+
+d) Others
+
+(i) Secured by eligible securities
+(ii) Secured by other than eligible securities
+Transport:
+
+a) Road Transport
+b) Water Transport
+c) Air Transport
+Consumer financing
+
+a) Loans for the purchase of flats or other single-family dwellings
+
+b) Loans for the purchase of motorized personal transport
+
+c) Loans for the purchase of durable consumption goods
+
+d) Credit card loans
+
+e) Other personal loans
+Loans to financial institutions
+
+1) Loans to NBFIs
+2) Loans to insurance companies
+3) Loans to merchant banks and brokerage houses
+4) Other, including loans to microfinance institutions and NGOs
+Miscellaneous
+
+The above categorization, at its most disaggregated, contains 37 separate categories. Banks
+should establish concentration limits, expressed in terms of CET1, for all categories, at the
+lowest levels of disaggregation, and then rolling up to the highest.
+
+--- Page 13 ---
+~ 12 ~
+
+In addition, Category B in the above scheme, “Industrial Loans,” can be disaggregated in a
+different way, focusing on the economic sectors rather than the type of enterprise and type of
+loan. The following breakdown is preferred:
+ RMG
+ Textile
+ Food and allied industries
+ Pharmaceutical industries
+ Chemical, fertilizer, etc.
+ Cement and ceramic industries
+ Ship building industries
+ Ship breaking industries
+ Power and gas
+ Other manufacturing or extractive industries
+ Service industries
+ Others
+
+The combination of the type of borrower/type of loan breakdown and the sectoral breakdown of
+industrial loans would provide all the necessary data, plus allow the banks to monitor the all-
+important category of real estate lending and loans secured by real estate, the emphasis on which
+by the banks in recent years is a source of concern for financial stability.
+
+iii) Other necessary components of an adequate credit risk management policy
+
+Every bank has to develop a credit policy (CP) as a part of an overall credit risk management
+framework and get it approved by the Board. The CP should clearly outline the bank's view of
+business development priorities and the terms and conditions that should be applicable for credits
+to be approved. The CP should be periodically updated, taking into account changing internal
+and external circumstances. To make it effectual, CP should be communicated timely and
+implemented by all levels of the bank through appropriate procedures. It should be distributed to
+all lending authorities and credit officers. Significant deviations from the CP must be
+communicated to the senior management or Board and corrective measures should be taken. The
+CP should at least include:
+Detailed and formalized credit evaluation/appraisal process;
+Credit origination, administration and documentation procedures;
+Formal credit approval process;
+Approval procedure of credit extension beyond prescribed limits and other exceptions to
+the CP;
+Risk identification, measurement, monitoring and control;
+Internal rating (risk grading) systems including definition of each risk grade and clear
+demarcation for each risk grade in line with BB regulations and policies;
+Risk acceptance criteria;
+Credit approval authority at various levels including authority for approving exceptions
+and responsibilities of staffs involved in credit operations;
+Roles and responsibilities of staffs involved in origination and management of credit;
+Acceptable and unacceptable types of credit. These types can be on the basis of credit
+facilities, type of collateral security, types of borrowers, or geographic sectors on which the
+bank may focus;
+
+--- Page 14 ---
+~ 13 ~
+
+10. Clear and specific policies for each of the various types of credits, including maximum
+loan-to-value (LTV) ratios where applicable;
+11. Concentration limits on single party or group of connected parties, particular industries
+or economic sectors, geographic regions and specific products. Banks are allowed to set their
+own stringent internal exposure limits, as long as they are at least as strict as prudential limits
+or restrictions set by BB;
+12. Pricing of credits, including whether loans will be granted on a fixed-rate or a floating-
+rate basis, and if floating, the frequency of rate changes and the reference rates that will be
+used for rate changes;
+13. Policies for the frequency and thoroughness of collateral verification and valuation;
+14. Review and approval authority of allowances for probable losses and write-offs;
+15. Guidelines on regular monitoring and reporting systems, including borrower follow-up
+and mechanisms to ensure that loan proceeds are used for the stated purpose;
+16. Guidelines on management of problem loans;
+17. Policies on loan rescheduling and restructuring;
+18. The process to ensure appropriate reporting and
+19. Tolerance level of exceptions.
+
+--- Page 15 ---
+~ 14 ~
+
+
+Chapter 02: Organizing Credit Risk Management
+
+2.1 Role of the Board of Directors
+
+The board has a vital role in granting credit as well as managing the credit risk of the bank. It is
+the overall responsibility of a bank’s board to approve credit risk strategies and significant
+policies relating to credit risk and its management which should be based on the overall business
+strategy. Overall strategies as well as significant policies have to be reviewed by the board on
+regular basis.
+
+The responsibilities of the board with regard to credit risk management shall include the
+following:
+ Ensure that appropriate policies, plans and procedures for credit risk management are in
+place. Ensure that bank implements sound fundamental policies;
+ Define the bank’s overall risk appetite in relation to credit risk;
+ Ensure that top management as well as staff responsible for credit risk management
+possess sound expertise and knowledge to accomplish the risk management function;
+ Ensure that bank’s significant credit risk exposure is maintained at prudent levels and
+consistent with the available capital.
+ Review trends in portfolio quality and the adequacy of bank’s provision for credit losses;
+ Ensure that internal audit reviews the credit operations to assess whether or not the
+bank’s policies and procedures are adequate and properly implemented;
+ Review exposures to insiders and other related parties, including policies related thereto;
+ Limit involvement in individual credit decisions to those powers specifically reserved to
+the Board by the bank’s articles of association, by-laws, and credit risk management
+policy.
+ Ratify exposures exceeding the level of the management authority delegated to
+management and be aware of exposures; and
+ Outline the content and frequency of management reports to the board on credit risk
+management.
+
+2.2 Role of Senior Management
+
+The responsibility of senior management is to transform strategic directions set by the board in
+the shape of policies and procedures. Senior management has to ensure that the policies are
+embedded in the culture of the bank. Senior management is responsible for implementing the
+bank’s credit risk management strategies and policies and ensuring that procedures are put in
+place to manage and control credit risk and the quality of credit portfolio in accordance with
+these policies.
+
+The responsibilities of senior management with regard to credit risk management shall include:
+ Developing credit policies and credit administration procedures for board approval;
+ Implementing credit risk management policies to ensure an effective credit risk
+management process;
+ Ensuring the development and implementation of appropriate reporting system;
+ Monitoring and controlling the nature and composition of the bank’s credit portfolio;
+
+--- Page 16 ---
+~ 15 ~
+
+ Monitoring the quality of credit portfolio and ensuring that the portfolio is thoroughly
+and conservatively valued and probable losses are adequately provided for;
+ Establishing internal controls and setting clear lines of accountability and authority; and
+ Building lines of communication for the timely dissemination of credit risk management
+policies, procedures and other credit risk management information to all the credit staffs.
+
+2.3 Role of the Credit Risk Management Committee
+
+Each bank, depending upon its size, should constitute a credit risk management committee
+(CRMC), at least comprising of head of credit risk management Department and or credit
+department, head of recovery, head of RMD and treasury. The head of credit department/CRMD
+shall act as a member secretary of CRMC. This committee shall report to Board’s risk committee
+and Board who shall be empowered to oversee credit risk taking activities and overall credit risk
+management function.
+
+The CRMC should be mainly responsible for:
+a) Implementation of the credit risk policy/strategy approved by the board.
+b) Monitoring credit risk on a bank-wide basis and ensure compliance with limits approved
+by the board.
+c) Makings recommendations to the board, for its approval, clear policies on standards for
+presentation of credit proposals, financial covenants, rating standards and benchmarks.
+d) Deciding delegation of credit approving powers, prudential limits on large credit
+exposures, standards for loan collateral, portfolio management, loan review mechanism, risk
+concentrations, risk monitoring and evaluation, pricing of loans, provisioning,
+regulatory/legal compliance, etc.
+
+--- Page 17 ---
+~ 16 ~
+
+Chapter 03: Managing Credit Risk in the Origination Process
+
+Many avoidable mistakes are made in the origination process, leading to higher credit risk. In
+addition to the following analysis, an inventory of the most common mistakes that banks must
+avoid is contained in Annexure 2.
+
+3.1 Borrower evaluation
+
+The first step in the management of credit risks happens when the borrower walks through the
+door and goes through the application process. The basic question that any bank has to ask is:
+does the credit history (if any) and repayment capacity of the borrower provide sufficient
+probability of repayment, so that that the bank will earn an adequate risk-adjusted rate of return
+on the loan, without charging an excessive interest rate that may be unacceptable to the borrower
+or requiring credit enhancements that may be impossible for the borrower to provide?
+
+i) Internal credit risk rating system1
+An internal credit risk rating system (ICRRS) should categorize all credits into various
+classes on the basis of underlying credit quality. Banks should develop an internal credit risk
+rating system in line with regulatory authority’s prescription for its credits in consistent with the
+nature, size and complexity of the bank’s activities. All credit facilities should be assigned a risk
+grade. If any deterioration in risk is observed, the risk grade assigned to a borrower and its
+facilities should be immediately changed. The rating system must be endorsed by the board and
+should have at least the following parameters:
+ covers a broad range of the bank’s credit exposure, including off-balance sheet
+exposures;
+ covers both performing and non-performing assets;
+ has several grades covering exposures, with the lowest rating accorded to those where
+losses are expected;
+ has risk ratings for “performing” credits with several grades (including the grade
+corresponding to “special mention”);
+ has regulatory classifications (standard, special mention, sub-standard, doubtful &
+bad/loss) should be incorporated within the risk rating systems; and
+ has the credit risk rating system detailed in the credit policy and procedures developed for
+the determination and periodic review of the credit grades.
+
+Using the language of Basel II/III, borrowers can be graded by their estimated probability of
+default (PD). The following sample table is an illustration of an actual bank’s ICRRS, which is,
+in principle, an expanded version of the simplified Pass, Special Mention, Substandard,
+Doubtful, and Loss classification system utilized by banks and BB to establish loan-loss
+provisions. There should be several rating categories corresponding to Pass, and one or two
+corresponding to each of the other categories. In the following sample table, the rating
+categories 1-5 roughly correspond to the Pass classification category, 6 and 7 to Special Mention,
+8 and 9 to substandard, 10 to Doubtful, and 11 to Loss. Simultaneously
+
+1 Banks shall comply with existing Credit Risk Grading (CRG) process and start preparation (including capacity
+building) for ICRRS as per this guidelines simultaneously. Banks shall be required to conduct ICRRS to manage
+credit risk in origination process mandatorily after the implementation of Internal Rating based Approach (IRB) in
+line with Basel III.
+
+--- Page 18 ---
+~ 17 ~
+
+
+
+
+
+
+
+
+
+
+
+
+
+The rating grade is assigned to each individual obligor for wholesale credit, and either by obligor
+or at a pool level for retail exposures.
+
+The ICRRS should be used for several purposes. First, it should be used in the setting of interest
+rates and other terms on the loan. Second, it should be used in determining approval authorities
+and limits. Approval authorities should be escalated to higher levels of the bank for fresh loans
+to lower-rated borrowers. Limits should also be established for fresh loans to borrowers across
+the various rating categories.
+
+Next, the ratings should be used in determining if provisions (based on expected loss) and capital
+(based on unexpected loss) are adequate. As the above table illustrates, it should also be used to
+manage the portfolio and report on exposures, so that the Board and senior management know
+the overall exposure to borrowers across the rating categories are acceptable and within the risk
+appetite. The ICRRS can also be used for migration analysis and stress testing: for example, in
+determining what further loan loss provisions would be needed if all borrowers currently in
+category 7 migrated to category 8.
+
+In designing the ICRRS, the bank must include both quantitative risk drivers (such as financial
+and income statement ratios, sources and uses of funds, cash flow coverage, past performance
+history, etc.) and qualitative risk drivers (financial projections, resiliency of payment sources,
+quality of management, macroeconomic and industry conditions, etc.). For every borrower, the
+ICRRS must estimate the PD through-the-cycle, that is, over a long assessment horizon that
+reflects the borrower’s entire credit cycle and takes into account the possibility that the financial
+condition of the borrower may change over time, given cycles in the overall economy or the
+borrower’s particular industry.
+
+Reliance on entirely statistical models (also known as “credit scoring”) is appropriate only for
+retail borrowers (such as individuals and small/medium-sized enterprises or SMEs) whose loans
+can be grouped into relatively homogeneous portfolios. For all other borrowers, default behavior
+depends more on idiosyncratic factors to each borrower. Some statistical modeling can be used,
+but must be supplemented by expert judgment. If, in turn, expert judgment is used, it must be
+documented transparently and be free from the raters’ own biases.
+
+The ratings must be reviewed at least annually, with more frequent reviews for new borrowers,
+large borrowers, and borrowers with more complex credits and/or multiple facilities.
+
+--- Page 19 ---
+~ 18 ~
+
+Responsibilities and authorities to make changes to the rating category for any borrower must be
+clearly spelled out.
+
+ii) The role of external credit assessment institutions (ECAIs)
+
+The analysis of a potential borrower’s creditworthiness by an ECAI may provide useful input
+and assist the bank’s credit analysts in organizing thinking and forming an opinion about the
+potential borrower in question.
+Banks may make reference to ECAI ratings (registered by Bangladesh Securities and Exchange
+Commission as well as recognized by Bangladesh Bank) in their credit risk management policies
+and loan underwriting practices, but they must rely on their own assessments of the
+creditworthiness of their borrowers as the primary determinants of the decision.
+
+iii) Analysis of specific borrower repayment capacity
+In order to make good credit decisions, lenders must know how to analyze financial
+statements submitted by loan applicants. Lenders are expected to follow sound risk management
+practices in the context of commercial credit analysis activities. A review of the company's
+current position with respect to the existing authorized level of commercial lending activities,
+capital adequacy position and compliance with commercial credit analysis regulations,
+guidelines and rulings is essential in determining the creditworthiness of an applicant.
+
+Analyzing the Financial Statements
+
+There is no substitute for thorough and rigorous analysis of a borrower’s financial statements
+when attempting to determine a borrower’s creditworthiness. The balance sheet, income
+statement, cash flow statement, and financial projections all provide critical information about
+the borrower’s creditworthiness and capacity to repay
+However, despite the importance of financial statement analysis in determining
+creditworthiness, the final credit decision is subjective because the most important factor in the
+decision is management of the borrower. An evaluation of management is based on both
+objective and subjective factors but is, in the end, subjective because there is no ratio or number
+that will inform the banker of management’s intention or willingness to repay a loan. Therefore,
+the credit officer should make a serious effort to determine the competence, honesty and integrity
+of borrower management in each case. This effort should include what is called “due diligence,”
+that is, the attempt to “know your customer” through contacting customers, suppliers and others
+in the industry who have experience with the borrower and its management.
+
+Where possible and legal, in the case of smaller companies with single owners where
+personal guarantees will be required, a credit history should be obtained to determine the
+owner’s record of fulfilling his/her financial obligations. Court records should be reviewed to
+determine if there have been any court proceedings against the borrower and/or borrower
+management. The question is whether or not borrower management, or the business owner, will
+honor its obligations to the lender in the best case and worst case. If the borrower encounters
+difficulties in repaying its obligation(s) to the bank, will management, or the owner, be willing to
+collaborate with the bank to “work out” repayment, however long it requires.
+
+Limits on total exposure should be set for each individual borrower or group of related
+borrowers (related to each other, not to the bank), that are at least as stringent as those set by law
+or BB regulation. The size of credit limits should be based on the credit strength of the
+
+--- Page 20 ---
+~ 19 ~
+
+borrower, genuine purpose of credit, economic conditions and the bank’s risk appetite. Limits
+should also be set for respective products, activities, specific industry, economic sectors and/or
+geographic regions to avoid concentration risk. Credit limits should be reviewed periodically at
+least semi-annually or more frequently if borrower’s credit quality deteriorates. All requests for
+increase in credit limits should be authenticated by appropriate authority.
+
+Sometimes, the borrower may want to share its facility limits with its related companies.
+Banks should review such arrangements and impose necessary limits if the transactions are
+frequent and significant.
+
+Five Key Components of Financial Analysis
+
+The lender should always use five key components of analysis. These are;
+ Income statement,
+ Balance sheet,
+ Net worth and fixed asset reconciliation,
+ Key ratios, and
+ Cash flow statement.
+
+When using accrual basis financial statements, cash flow analysis ties together the income
+statement and balance sheet to provide the analyst with a more complete financial picture of the
+borrower. Cash flow analysis “looks behind” the accrual basis numbers to identify the actual
+cash inflows and outflows over a certain period of time. Since cash flow is the first source of
+repayment, this exercise is critical.
+
+
+
+iv) Required loan documentation- (See Annexure 1.)
+
+3.2 Risk-based loan pricing
+
+i) Building blocks of loan pricing
+Banks must price loans to cover all costs, including a certain number of basis points over the
+life of the loan to account for each of the following:
+ Cost of funds- The rate at which the bank is able to attract funds of equivalent tenor to the
+loan in question. In banks that apply funds transfer pricing, this rate is a wholesale rate,
+usually the swap rate (fixed or floating, depending on whether the loan is fixed or
+floating) of an equivalent tenor.
+ Expected loss- The number of basis points that corresponds to the expected loss on the
+loan, which will be higher on loans with more credit risk and lower on loans with less
+credit risk. Although banks do not make loans with the expectation of suffering any loss,
+this amount is not zero for any loan, no matter how well collateralized or guaranteed.
+ Cost of allocated capital- The cost of allocated capital is the amount of capital the bank
+has allocated to the loan as coverage for unexpected loss, multiplied by the target return
+on equity for the bank as a whole, and expressed in terms of basis points. As a
+simplification, banks often use the risk-based capital requirement as a proxy for the
+amount of capital that should be allocated to the loan.
+
+--- Page 21 ---
+~ 20 ~
+
+ Term cost of liquidity- The number of basis points that captures the cost arising from the
+fact that loans of longer and longer tenor require stable funding of longer and longer
+tenor, which will be costly for the bank above and beyond any interest-rate risk
+considerations (which will be captured in the swap rate).
+ Cost of liquid asset buffer- Banks rarely “maturity-match” a loan with a specific source of
+funding of equivalent tenor. They rightly know that a mix of current accounts, savings
+accounts, and fixed deposits will render a stable source of funds under most
+circumstances. However, in extremely adverse and rare circumstances, a run on deposits
+may occur and the bank may be forced to sell assets quickly at low prices or seek
+additional deposits or other funds at high rates. For this reason, a liquid asset buffer must
+be held for these unexpected situations. Since these assets either earn no interest at all, or
+very little interest for the bank, there is an opportunity cost for holding the assets that
+must be expressed in terms of basis points and included in the determination of the loan
+rate.
+ Loan administration costs- For any loan, big or small, there are staff costs involved in
+origination and monitoring. Some of these costs are up-front and some are ongoing, but
+they all must be expressed in terms of basis points over the life of the loan.
+ Competitive margin- Finally, after all other costs have been included in the rate, the bank
+will add on a certain number of basis points to earn a margin. This component is the only
+one that is fully at the discretion of the bank, given its funding and expense structure.
+This margin may even be negative, if the bank desires to gain a temporary competitive
+advantage. However, it should not be negative on any kind of loan product for an
+extended period of time.
+Banks should be able to show to BB at all times that they have priced their recently-originated
+loans to cover all of these costs.
+
+ii) Determination of selected components of risk-based loan pricing
+Some of the various components like swap rate, wholesale rate, liquidity premium, senior
+debts issued by banks may be difficult to estimate in practice. However, banks are expected to
+exert every effort in estimating these necessary components and documenting their assumptions
+and results.
+
+3.3 Approval authority
+
+i) Basic approval authority principles
+The authority to sanction/approve loans must be clearly delegated to senior credit executives
+by the Board, based on the executive’s knowledge and experience. Approval authority should be
+delegated to individual executives and not to committees to ensure accountability in the approval
+process.
+
+Banks are expected to develop credit risk officers who have adequate and proper experience,
+knowledge and background to exercise prudent judgment in assessing, approving and managing
+credit risks. A bank’s credit-granting approval process should also establish accountability for
+decisions taken and designate who has the absolute authority to approve credits or changes in
+credit terms. Approval authorities should be commensurate with the expertise of the individuals
+involved. A preferred approach is to develop a risk-based authority structure where lending
+power is tied to the risk ratings of the obligor (that is, progressively higher levels of credit risk,
+
+--- Page 22 ---
+~ 21 ~
+
+holding constant the loan amount, should be approved by progressively higher levels of
+authority).
+
+The following guidelines should apply in the approval/sanctioning of loans:
+ Credit approval authority must be delegated in writing from the MD/CEO and Board (as
+appropriate), acknowledged by recipients, and records of all delegation retained in the
+CRM.
+ Delegated approval authorities must be reviewed annually by the Board.
+ The credit approval function should be separate from the marketing/relationship
+management (RM) function. Credit approval authority cannot be delegated to a person
+assigned with marketing functions.
+ The role of the Credit Committee may be restricted to only the review of proposals and
+making recommendations within the context of the bank’s overall loan portfolios. They
+may also review the compliance with regulatory requirements.
+ Approvals must be evidenced in writing, or by electronic signature. Approval records
+must be kept on file with the Credit Applications.
+ All credit risks must be approved by executives within the authority limits delegated to
+them. The “pooling” or combining of authority limits should not be permitted.
+ The credit approval process should be centralized as a core CRM function. Considering
+the volume of operations, Regional Credit Centers may be necessary. However, all large
+loans must be recommended by the Credit Committee and Managing Director and
+approved by the Board.
+ The aggregate exposure to any borrower or borrowing group must be used to determine
+the approval authority required.
+ Any credit proposal that does not comply with the Bank’s Lending Policy, regardless of
+amount, should be referred to Board of Directors for approval
+ A definite process is to be adopted to review, approve and monitor cross border exposure
+risks.
+ Any breaches of lending authority should be reported to MD/CEO and Head of Internal
+Control. There should be consequences for such breaches, to deter future violations.
+ It is essential that executives assigned delegated with approving loans possess relevant
+training and experience to carry out their responsibilities effectively. As a minimum,
+approving executives should have:
+At least 5 years’ experience working in corporate/commercial banking as a
+relationship manager or as a credit analyst or account executive.
+Training and experience in financial statement, cash flow and risk analysis with a
+critical eye.
+A thorough working knowledge of the fundamentals of accounting, finance and risk
+management.
+A good understanding of the local industry/market dynamics.
+Successful completion of an assessment test demonstrating adequate knowledge in
+areas including introduction of accrual accounting, industry/business risk assessment,
+borrowing causes, financial reporting and full disclosure, financial statement analysis,
+asset conversion/trade cycle, cash flow analysis, projections, loan structure and
+documentation, loan management, etc.
+
+--- Page 23 ---
+~ 22 ~
+
+A separate register (hard copy/electronic copy) is to be maintained for proposals received,
+approvals accorded, and proposals declined. A monthly summary of all new facilities approved,
+renewed, or enhanced; and a list of proposals declined, stating reasons thereof, should be
+reported by the CRM to the MD and related Senior Management.
+
+Credit delegations are to be as specific as possible in terms of amount, tenor, deal, business
+segment etc. The following areas may be considered as a guide for credit delegation.
+a. New/fresh limits (secured and unsecured)
+b. Renewal of credit limits
+c. Renewal, renewal of enhancement, renewal with reduction, restructuring and
+rescheduling of limits
+d. Compromise Settlement under Alternate Dispute Resolution (ADR) [Sec 24 of
+Money Loan Court Act – 2003]
+e. Consumer/Retail and Personal Advance to each individual :
+f. Emergency Short-Term Enhancements
+g. Documentation deferrals
+h. Change of terms and conditions
+i. Collateral exceptions
+j. Pricing, policy, exceptions
+
+The bank’s internal audit department must review the functioning of the authority delegations
+at least annually, to ensure that there are no breaches.
+
+ii) Approval authority for large or complex exposures
+
+The approval level for large loans and loans to be restructured must be escalated to the
+Board. It is also best practice for any complex or unusually high-risk loan to be escalated
+to the Board for approval.
+
+iii) Exceptions
+
+In certain, limited circumstances, exceptions may be granted to the approval authority
+policy on a case-by-case basis. However, such exceptions should be rare, and the reason
+for the exception should be stated in the loan file. A compilation of the exceptions
+should be provided to the Audit Committee of the Board on a regular basis.
+
+3.4 Disbursement
+
+The credit administration should ensure that the credit application has proper approval before
+entering facility limits into computer systems. Disbursement should be effected only after
+execution of charge documents and completion of covenants and creating charge on primary
+securities and collaterals (an indicative documentation checklist is given in Annexure 1). In case
+of exceptions, necessary approval should be obtained from competent authorities. In no case
+should any of the loan proceeds be disbursed before all necessary approvals have been granted.
+
+In disbursing the loan, it is imperative that the borrower understand and acknowledge the
+purpose of the loan. It is also imperative for the bank to design and implement checks, such as
+the submission of invoices, to ensure that the proceeds are spent on the designated purpose and
+for no other purpose, and for the borrower to understand and comply with these checks.
+
+--- Page 24 ---
+~ 23 ~
+
+3.5 Special case of related person lending
+
+Banks must exercise a heightened level of caution in lending to bank-related persons, as that
+term is defined in section 26 (Ga) of Bank Company Act as well as BRPD Circular No. 4 of 23
+February 2014 and any amendment thereafter. A potential area of exploitation arises from
+granting credit to related persons, whether companies or individuals. Related parties typically
+include a bank’s promoters, major shareholders, subsidiaries, affiliate companies, directors, and
+executives. The relationship includes the ability to exert control over or influence a bank’s
+policies and decision-making, especially concerning credit decisions. It is crucial for a bank to
+systematically identify and track extensions of credit to related persons. The issue is whether
+credit granting decisions are made rationally and according to approved policies and procedures.
+
+Under no circumstances should a loan be made to a related person on terms and conditions
+more favorable to that person than to any unrelated client. In this context, “more favorable”
+means a lower interest rate, lower upfront fee, less collateral, lower-quality collateral, longer
+tenor, or less frequent interest payment. Any loan or other extension of credit to a related person
+must be approved by the Board, and the aggregate amount of all loans and other extensions of
+credit to bank-related persons cannot exceed 10% of the bank’s Tier 1 capital.
+
+i) Avoidance of undue influence on credit decision
+
+The Board and senior management must set the proper “tone from the top” in not pushing
+through loans to related persons that violate laws, BB guidelines and circulars, the bank’s own
+credit risk management policy, and best banking practice. Ability to repay must be the primary
+criterion for approval. Banks must have policies and processes to prevent related persons from
+participating in the proposal and approval discussions.
+
+ii) Avoidance of “daisy chains” and other devices to evade rules and sound practices
+in related person lending
+
+The Board and senior management will be held responsible for ensuring that the bank does
+not enter into so-called “daisy chains” or other reciprocal arrangements that are designed to
+evade the rules, aggregate limits, and sound practices in lending to related persons. A daisy
+chain is created when Bank A lends to a related person or persons of Bank B, Bank B lends to a
+related person or persons of Bank C, and Bank C lends to a related person or persons of Bank A.
+(Chains often have even more than three links, to further disguise the coordinated violation.) A
+reciprocal arrangement is created when Bank A lends to a related person or persons of Bank B,
+and Bank B lends to a related person or persons of Bank A.
+
+BB will closely inspect and monitor for the existence of these daisy chains and reciprocal
+arrangements, and those that are entered into without any independent business justification
+except for the purpose of evading the rules, limitations, and sound practices, shall be considered
+as violations of the relevant laws, guidelines, and circulars, and subject the bank(s) to measures
+to take corrective action.
+
+--- Page 25 ---
+~ 24 ~
+
+Chapter 04: Credit Risk Mitigation Strategies
+
+4.1 Credit Risk Mitigation
+
+Banks may use different strategies such as collateral and guarantees etc. to mitigate credit risks.
+Credit Risk Mitigation strategies can be of agreements made between the bank and the borrower,
+or between the bank and a third party, which lower the credit risk to the bank. The existence of
+credit risk mitigation is no substitute for proper loan underwriting and loan administration. They
+are correctly viewed only as secondary sources of loan repayment, never primary sources.
+
+Given the often lengthy, arduous, and costly process of realizing the collateral or invoking the
+guarantee, banks are strongly cautioned against making their loans collateral- or guarantee-
+dependent. A loan is considered collateral-dependent when repayment is expected to be provided
+solely by the seizure and sale of the collateral, the continued operation of the collateral, or,
+sometimes, both together.
+
+4.2 Collateral
+
+For proper credit risk management, banks must keep track of which loans are collateralized by
+which types of collateral. “Concentrations of collateral” are nearly as dangerous as
+concentrations by type of loan or industry. The following scheme for categorizing loans by
+collateral type is recommended:
+1) Shares and securities
+2) Commodities/export documents
+a) Export documents
+b) Commodities
+i) Export commodities
+ii) Import commodities
+iii) Other commodities pledged or hypothecated
+3) Machinery/fixed assets (excluding land, building/flat)
+4) Real estate
+a) Residential Real estate
+b) Commercial Real estate
+5) Financial obligations
+6) Guarantee of individuals (personal guarantee)
+7) Guarantee of institutions (corporate guarantee)
+a) Guarantee of bank or NBFI
+b) Other corporate guarantee
+8) Miscellaneous
+a) Hypothecation of crops
+b) Other
+9) Unsecured loans
+
+i) Amount and type required
+
+It is imperative that the bank, when extending credit, demand the type and amount of
+collateral as stated in its credit risk management policy. The loan-to-value ratio must be low
+
+--- Page 26 ---
+~ 25 ~
+
+enough to absorb declines in the value of the collateral that may occur with a small, though not
+insignificant probability.
+
+The most valuable collateral is cash and easily en-cashable financial collateral stipulated in Risk
+Based Capital Adequacy Guidelines (in line with Basel III). Other collateral in order of its
+quality and marketability would be marketable securities, real estate and a personal guarantee.
+The order of collateral mentioned is the same as the operating cycle of the company. The farther
+away from cash, the more tenuous the value becomes. Real estate, taken as collateral, is less
+liquid and marketable in the short run but is controllable and dependable in value.
+
+ii) Initial and ongoing valuation
+
+Collateral is only as good as the lender’s ability to locate, identify, and legally claim the
+collateral and eventually sell the collateral for enough to recover the principal, interest, plus all
+liquidation costs. When collateral is taken as security, consideration must be given to the
+dependability of the value, its marketability, the liquidity and the ability of the bank to control
+the collateral when in the possession of the debtor and when the bank must liquidate.
+
+Cash flow is the primary source of repayment and the collateral taken should be valued on a
+liquidation basis. The bank is unlikely to be more successful with the collateral than the borrower
+has been.
+
+Determining value of collateral at the time of the inception of the loan is essential. Continuous
+updated valuations are needed, depending on the length of the loan, particularly if the loan
+becomes a problem loan. The techniques of valuing include the cost, or replacement value,
+market, income as a going concern or liquidation, and the liquidation value. It is essential the
+bank uses outside appraisers or companies familiar with auctions and liquidation experience. If a
+borrower gets into trouble, the good collateral will be the first to be used by the borrower to
+satisfy other debtors or suppliers. The bank should consider the costs to liquidate, which includes
+foreclosure, holding the collateral for sale, and the costs of selling.
+
+To reiterate, banks need to reassess the value of collateral on a periodic basis. Appropriate
+inspection should be conducted to verify the existence and valuation of the collateral. The
+frequency of such valuation is very subjective and depends upon the nature of the collateral. For
+instance, credits granted against shares need revaluation on almost a daily basis, whereas if there
+is mortgage of a residential property the revaluation may not be needed as frequently
+
+4.3 Third-party guarantees
+
+The bank must understand that the credit risk on a loan is not eliminated by the existence of a
+third-party guarantee. The bank merely substitutes the credit risk of the guarantor for that of its
+own client. With regard to guarantees, banks should evaluate the level of coverage being
+provided in relation to the credit-quality and legal capacity of the guarantor. Additional credit-
+enhancing steps are the following:
+ The corporate guarantee must be supported by a Memorandum of Association (MoA) and
+Articles of Association (AoA) of the company giving the corporate guarantee.
+Additionally, the corporate guarantee to be approved in the board meeting of the
+corporate guarantor.
+
+--- Page 27 ---
+~ 26 ~
+
+ The guarantor company must be rated in any of the investment grade categories by at
+least one ECAI.
+ The balance sheet of the third party giving a corporate guarantee is to be analyzed. Net
+worth, total assets, profitability, existing credit lines, and security arrangements of the
+company giving the corporate guarantee to be analyzed to ensure that the company is not
+exposed to financial obligation beyond its capability.
+ Once the financial stability of the corporate guarantor has deteriorated in terms of the
+above, the bank shall ask for remedial measures from the borrower (replacement/new
+collateral).
+ Reciprocal guarantee arrangements between two banks will be disregarded. For example,
+if Bank A guarantees loans made by Bank B to certain client(s), and Bank B guarantees
+loans made by Bank A to certain client(s), only the difference between the two
+guaranteed amounts will be considered as a credit enhancement for the purposes of
+determining the overall level of credit risk at the bank whose borrowers benefitted from
+the higher amount.
+
+--- Page 28 ---
+~ 27 ~
+
+Chapter 05: Managing Credit Risk in the Administration Process
+
+5.1 Borrower follow-up and corrective action
+
+Conducting customer calls and site visits to obtain key data is a critical and continuous process.
+For this reason it is important for the lender to be out in the field as often as possible because:
+ Problems are often evident here first.
+ Problems are often disguised in financial statements.
+ The loan proceeds may have been diverted to some other purpose.
+
+Depending on the size of loan and risk rating of the customer the lender should conduct a
+customer call quarterly. To do this the lender should:
+ Develop a call schedule plan.
+ Plan other necessary data gathering.
+ Determine the frequency of site visits by utilizing the loan classification. The less
+favorable the classification, the more frequent the visits should be.
+
+In addition, banks need to watch carefully the financial standing of the borrowers. The key
+financial performance indicators on profitability, equity, leverage and liquidity should be
+analyzed. While making such analysis due consideration should be given to business/industry
+risk, borrowers' position within the industry and external factors such as economic condition,
+government policies and regulations. For companies whose financial position is dependent on
+key management personnel and/or shareholders, for example, in small and medium enterprises,
+institutions would need to pay particular attention to the assessment of the capability and
+capacity of the management/ shareholder(s).
+
+In case of an existing borrower, banks should monitor the borrower’s account activity,
+repayment history and instances of excesses over credit limits. For trade financing, banks should
+monitor cases of repeat in extensions of due dates for trust receipts and bills.
+
+Banks should regularly review the credit in terms of the borrower’s ability to adhere to financial
+covenants stated in the credit agreement, and any breach detected should be addressed promptly.
+
+5.2 Independent internal loan review and changes to the credit risk
+rating
+
+The concept of an independent, internal loan review is absolutely critical to proper credit risk
+management.
+
+a) Loan Review vs. Loan Monitoring
+Loan Review is a strategic process, a staff function:
+ Accomplished by an objective third party (not the loan officer)
+ Includes assessment and evaluation of individual loans, loan portfolio components
+ Attempts to assess the loan portfolio as a whole
+ May make recommendations for achieving corporate strategic objectives through the loan
+portfolio
+
+--- Page 29 ---
+~ 28 ~
+
+Loan Monitoring is a tactical process, a line function:
+ Accomplished by loan officer
+ Tracking of a borrower, watching for loan deterioration, with the emphasis on loan
+repayment
+
+b) Objectives of Loan Review
+ Evaluate credit quality of the loan portfolio through an independent assessment of risk
+ratings assigned to individual loans
+ Assess adequacy of the loan loss reserve with conclusions based on:
+ Historical loan loss and recovery experience,
+ Projected loan losses and recoveries,
+ Review of problem loans,
+ Overall portfolio quality,
+ Current and anticipated economic conditions, and
+ Ability of the bank to replenish (loan loss) reserves through earnings.
+Perspective adopted by loan review should be that of a potential purchaser of the loan
+portfolio on a non-recourse basis.
+ Determine Trends
+ Loan review should attempt to extrapolate trends and identify potential problem areas
+and/or unique opportunities, after examination of such factors as the quality of loan
+administration and personnel, credit concentrations, and vulnerability to economic
+conditions.
+ A review of current conditions alone is not sufficient because banking is a dynamic
+business, never static.
+ Identify Problems
+ Credit concentrations may pose a problem, e.g.
+ Once identified, examination of the source of the problem is important.
+Perhaps loan administration/monitoring is weak, e.g.
+ Evaluate adherence to loan policy, laws, and regulations
+ Are individual loans in compliance with policy, laws and regulations?
+ Why are the violations occurring?
+ Is there a pattern to non-compliance?
+Perhaps the bank’s loan policy is unrealistic or should be altered
+Perhaps additional training of loan officers is needed
+ Assess portfolio in relation to profitability and funds management objectives
+ Evaluate profitability of individual credits.
+ Evaluate the profitability of the portfolio as a whole.
+ Evaluate effectiveness of loan administration and personnel by focusing on the
+effectiveness of:
+ Loan policy,
+ Loan approval systems,
+ Ongoing loan monitoring,
+ Problem loan administration, and
+ Loan review itself.
+
+--- Page 30 ---
+~ 29 ~
+
+
+If warranted, make recommendations for improvement.
+Loan review should assess the loan management process, credit quality, and the results/
+profitability of the loan portfolio, not credit quality alone. External inspection by BB is not a
+substitute for a strong loan review function within the bank.
+
+c) Chief Elements of Loan Review
+ Senior Management Support
+ Objectivity
+ Credibility
+Loan review should report to the board of directors and receive strong support from senior
+management.
+Objectivity is critical. Senior management sets the example; it must be willing to accept
+unfavorable/undesired information without recriminations.
+Credibility is vital. A good loan review team acts as a consultant, identifying problems and
+recommending solutions. Loan review staff should be competent and experienced. Loan
+review can provide excellent training for potential loan managers.
+
+d) Organizational and Reporting Considerations
+Loan review is usually an independent function or part of the overall independent auditing
+function of the bank. Ideally, it reports to a committee of the board of directors of the bank.
+The purpose of an independent loan review function is the pursuit of objectivity. It is of
+critical importance, however, that loan review personnel be competent and have lending
+experience, in order to maintain credibility and communication with the lending function. If
+the loan review department has no credibility and/or poor communication with the lending
+function, it cannot perform its function well.
+
+e) How Loan Review Performs Its Function
+ Determine what is to be reviewed and when, given time and resource limitations.
+ Loans reviewed should be representative of the portfolio as a whole.
+ Establish a minimum loan amount for review.
+ Employ random sampling on a statistical basis.
+ (Suspected) Industry concentrations must be detected and examined.
+ Borrowers with certain financial characteristics should be scrutinized, e.g., erratic
+earnings, interest-sensitive leverage which exceeds industry standards.
+ Examine credits of a particular branch or officer where weakness or incompetence is
+suspected.
+ Frequency of loan review is based on risk rating – the higher the risk the more frequent
+the review.
+ Monitor situations where corrective action has been recommended.
+ Be present at loan department meetings to review loan activity for conformity with
+original repayment programs, pricing, funds management goals, appropriate monitoring.
+
+f) Content of Loan Review
+Five specific issues should be addressed when examining individual credits:
+ Credit Quality
+ Documentation
+
+--- Page 31 ---
+~ 30 ~
+
+ Liquidation of Collateral
+ Pricing and Funds Management Objectives
+ Compliance With Loan Policy, Laws and Regulations
+
+g) Credit Quality
+Three fundamental questions:
+ Is the risk different from that perceived by the lender?
+ What is the probability of repayment in accordance with terms?
+ Is current monitoring adequate?
+Use of a risk rating system, as described in 3)1)i)2 above, is essential in order to reduce the
+element of subjectivity as much as possible. In examining a credit, loan review must either
+confirm the risk rating assigned by the lender or change it and substantiate the change.
+
+h) Documentation
+Documentation is either correct or incorrect. Loan review should point out errors with the
+aim of improving protection for the bank, strengthening the position of the bank in the event
+of a problem. Additional protection may well be recommended in the case of deteriorating
+credits. Loan review should be concerned both with identifying existing problems and
+eliminating future problems.
+
+i) Liquidation Value of Collateral
+The only relevant value to apply to collateral is its liquidation value, because collateral is
+needed only in the event that it must be liquidated to repay a loan. Book values are
+meaningless.
+
+Loan review personnel must be experienced in working with collateral, in identifying liquidation
+values, in knowing what is involved in liquidations. It is the responsibility of loan review to
+provide an objective third-party opinion so that realistic loan-to-collateral relationships are
+maintained by lenders.
+
+5.3 Timely identification of problem assets
+
+The standard practice of “looking back” at past due status, presence or absence of collateral, and
+other factors resulted in provisions that turned out to be grossly inadequate on both an aggregate
+and individual credit basis. A more “forward-looking” approach to the identification of problem
+loans and the establishment of adequate provisions was clearly needed, and international
+standards such as International Financial Reporting Standard 9 on the classification and
+measurement of financial assets are being adopted to provide this forward-looking approach.
+The independent, internal loan review described in the previous section is the appropriate
+framework through which to apply this forward-looking approach.
+
+As mentioned in the previous section on loan review, banks, in reviewing and classifying their
+loans, should be on the alert for developments in the macroeconomic, industry, and competitive
+environment that could lead to financial problems for those borrowers in the future. The
+subjective factors given in BRPD’s Circular No. 14 of 23 September 2012, “Master Circular:
+Loan Classification and Provisioning” and any change thereafter must be taken into account in
+
+2 Before implementation of Internal Rating based Approach (IRB) in line with Basel III, banks are required to
+conduct existing Credit Risk Grading (CRG) process instead of ICRRS.
+
+--- Page 32 ---
+~ 31 ~
+
+determining the classification category, and banks must avoid taking a mechanistic approach to
+identifying and classifying their problem loans.
+
+More specifically, the following warning signs are to be considered by banks in predicting that a
+loan will become a problem loan:
+
+a) Documentation Weakness
+ Failing to file collateral agreements/security agreements with appropriate public
+departments
+ Transferring the collateral to another country/state
+ Guaranties with expired dates
+ Changes in legal status
+ Unauthorized corporate/partner signatures
+
+b) Collateral Deterioration
+ Changes of value in the marketplace
+ Rising interest rates decrease real estate and investments
+ Technological advances
+ Rapid depreciation of equipment or inventory
+ Tax law changes (real estate)
+ Natural disasters
+ Spoilage or mishandling of collateral
+
+c) Extended Credit and High Use of Lines of Credit
+ Borrower is at the top of line each month
+ Failure to meet financial covenants in loan agreement
+ Delays in payment of principal and interest
+ Use of overdrafts/low balances in current account
+ Credit inquiries from other lenders
+ Change of accountants
+
+d) Other Indications of Problem Loans
+ Delay in receipt of financial statements
+ Delay in management promises or returning telephone calls
+ Change in senior management
+
+5.4 The role of provisioning in managing credit risk
+
+Provisions for loan losses (alternatively known as loan loss reserves, loan loss allowances,
+valuation allowances, etc.) are more than just an accounting entry on the liability side of a bank’s
+balance sheet. In the aggregate, the level of provisions must reflect the expected loss on each
+loan. General provisions are applied to portions of the portfolio (currently, on unclassified loans
+and loans in the Special Mention Account) on a portfolio basis, based on the expectation that
+some of the loans (without knowing which) will be downgraded in the future and require specific
+provisions. Specific provisions are applied to individual classified loans as an estimation of
+expected losses on these individual loans.
+
+--- Page 33 ---
+~ 32 ~
+
+These balance sheet provisions, formed by debiting expense accounts on the profit and loss
+statement also known as “provisions,” play an essential role in managing credit risk. Without
+accurate provisions, the Board and senior management do not know completely whether or not
+certain types of lending are profitable on a risk-adjusted basis. Funds could then flow to these
+unprofitable lending activities at the expense of more profitable activities. Moreover, if loans are
+overvalued on the balance sheet, then capital will also be overvalued, leading to misallocation of
+the bank’s scarce financial resources and interfering with all activities of risk management that
+are tied to the level of capital.
+
+The Board and senior management should recognize that loan losses are inherent in their
+portfolios, and provisioning policy does not alter the timing and magnitude of these losses.
+Higher or lower provisions only alter the timing of recognition of these losses. Accordingly, the
+bank’s long-run profitability is unaffected by the bank’s stance on provisioning.
+
+--- Page 34 ---
+~ 33 ~
+
+Chapter 06: Managing Credit Risk with Appropriate
+Management Information Systems (MIS)
+
+A Management Information System (MIS) must provide quality data to the Board and senior
+management on the segmented portfolio on a timely basis that will enable the analysis of the
+current and future risk, and exposure by both the business areas responsible for its management.
+The business must have and maintain an accurate database containing all application information
+for both approved and declined applications, collateral and security information. Data retention
+specifications must be incorporated in the Credit Instruction Manual. Data archiving procedures
+and MIS must be adequate to facilitate the development of credit scores and models when
+required.
+
+The following indicators (both number and amount where relevant) must be traced and tracked
+on a monthly basis at the each business level for Single Products and Multi products:
+
+6.1 Booking MIS
+
+ Applications received, Processed
+ Applications Approved, Declined
+ Approval rate, Average credit score of approved limits
+ High side overrides/ Low side overrides, Policy Overrides
+ New Business Booked in ‘Amount’ and ‘Number’
+ Bank Directors’ Loan Information
+ Rejection Reason Analysis
+
+6.2 Portfolio MIS
+
+ Limit Increases, Limit Decreases, Renewals
+ Unutilized and Undrawn amounts
+ Attrition (voluntary and involuntary)
+ Net Interest Income (NII) %, Net Fees Income (NFI) %, Operating Profit %, Trading
+Profit (TP)%, Risk Adjusted Return (RAR) % [Note: These ratios and percentages seem
+to apply to the entire bank, not to the credit function or individual portfolios of credits.]
+ Delinquency (30+DPD, 60+DPD, 90+DPD, 120+ DPD, 150+ DPD, 180+ DPD or more)
+ First Installment Default (FID) or First Payment Defaults
+ Risk grading of customer exposures
+ Early Alert Reporting (EA Code wise), Classified Account Reporting, Loss Given
+Default, Collateral Values, Deviations.
+ Overdue Annual Reviews (aged) and Extended Accounts
+ Gross Write-offs, New Provisions, Releases, Recoveries, Net Bad Debt, Provisioning
+Balance
+ Repossessions/foreclosures - initiated, in progress, Inventory
+ Expenses associated with foreclosure process
+ Foreclosure Assets sold, Write-downs taken periodic and on sale
+ Expenses incurred in maintaining and selling repossessed property
+ Database of Non-Performing Loans (NPLs) that are due to environmental reasons
+
+--- Page 35 ---
+~ 34 ~
+
+ Clients’ Classification based on Environmental and Social Risk Rating (ESRR)
+ Environmental and Social Risk Rating (ESRR) wise portfolio MIS
+ Monthly Loan Set off data and reason analysis report
+ DLA wise loan performance report
+
+6.3 Segmentation MIS
+
+The business must have the ability to generate reports for the above indictors for single and
+multiple products (on an as needed basis and, where relevant) by:
+ Original loan amount or credit line
+ Debt burden
+ Risk Score range
+ Customer profile
+ Collateral Profile (fully secured/ partly secured etc), Breakdown of collaterals held
+ Loan purpose
+ Loan Size and Tenor
+ LTV and geographic location
+ Customer Relationship based on Turnover
+ Industry according to SBS code.
+ Segment / industry-wise / product-wise loan sanctioned vs. utilization vs. outstanding
+ Utilization of approved limits (TL / WC)
+ Risk based pricing performance monitoring
+ Loans under “different customer group” performance report
+ Credit Test report if any test is undertaken
+ Product wise campaign reports
+
+All indicators must be compared and reviewed with historical performance, expected results and
+competitive benchmarks where available. Forecasts for future periods must be updated based on
+actual performance and revised expectations.
+
+6.4 Sufficient data to disaggregate loan portfolio by loan type, borrower
+type, rating grade, industry or sector, type of collateral, etc.; with
+concentrations highlighted
+
+If they have not already done so, banks must begin immediately to disaggregate their loan
+portfolios according to the schemes shown above in 1.5-iii. Portfolios must also be
+disaggregated by collateral type, as shown in 4.2 above.
+
+6.5 Sufficient data to track loss experience on loans disaggregated by
+above factors
+
+Once the disaggregation of the loan portfolio is in place, banks must begin immediately to record
+loss experience by type of loan, disaggregated across all the categories. The reason for this
+database development and maintenance is threefold: first, to provide, over time, better estimates
+of “expected loss” to be used in the setting of loan-loss provisions and loan pricing; second, to
+steer the Board and senior management away from types of lending that have historically been
+unprofitable; and third, to allow the eventual construction of probability distributions, both at the
+
+--- Page 36 ---
+~ 35 ~
+
+level of the individual bank and the banking system as a whole, that are used in the calculation
+of economic capital and in the Internal Ratings Based approach to the determination of risk
+weights in the Basel III capital requirement calculation.
+
+For each type of loan (disaggregated data) and for the breakdown of industrial loans, the bank
+must collect the following data on a quarterly basis:
+ Outstanding principal balance of loans written off during the quarter (excluding accrued
+interest receivable)
+ Estimated market value of collateral related to loans written off during the quarter,
+subdivided into:
+ Collateral already repossessed by the bank
+ Collateral not yet repossessed by the bank
+ Specific provisions related to loans written off, debited at the time of write-off
+ Cash recoveries related to loans written off during the quarter
+ Gain or loss on sale of collateral repossessed by the bank
+
+The net credit loss related to these write-offs, then, would be the outstanding principal balance
+minus the value of collateral already repossessed, minus specific provisions, minus any cash
+recoveries on these loans, minus or plus any gain or loss on the sale of the repossessed collateral.
+(It is to be understood that as the quarters proceed, the quarterly net credit losses on various types
+of loans will not be a smooth data set, but will be subject to sharp fluctuations. Over time,
+however, the quarterly figures can be smoothed into a measure of “typical” quarterly losses on
+each segment of the portfolio.)
+
+6.6 Sufficient data to quantify embedded losses in the loan portfolio that
+have not yet been recognized
+
+Particularly on loans that have been rescheduled or restructured, there may be a degree of
+regulatory forbearance concerning provisioning of problem loans from time to time.
+Notwithstanding any such regulatory or accounting forbearance, it is imperative that
+management quantify “embedded” losses in the loan portfolio that have not yet been recognized
+in the audited financial statements or in regulatory reports to BB.
+
+6.7 Periodic stress testing
+
+An important element of sound credit risk management is analyzing what could potentially go
+wrong with individual credits and the overall credit portfolio if conditions/environment, in which
+borrowers operate, change significantly. The results of this analysis should then be factored into
+the assessment of the adequacy of provisioning and capital of the bank. Such stress analysis can
+reveal previously undetected areas of potential credit risk exposure that could arise in times of
+crisis.
+Possible scenarios that banks should consider in carrying out stress testing include:
+ Significant economic or industry sector downturns;
+ Adverse market-risk events; and
+ Unfavorable liquidity conditions.
+
+Banks should have industry profiles in respect of all industries where they have significant
+exposures. Such profiles must be reviewed/updated on a regular basis. Each stress test should be
+
+--- Page 37 ---
+~ 36 ~
+
+followed by a contingency plan as regards recommended corrective actions. Senior management
+must regularly review the results of stress tests and contingency plans. The results must serve as
+an important input into a review of credit risk management framework and setting limits and
+provisioning levels.
+
+6.8 The role of loss control limits (“management action triggers”) in
+adjusting
+credit
+policies,
+authorities,
+limits,
+required
+credit
+enhancements, etc.
+
+Although they were developed primarily to manage market risk, loss control limits (also known
+as management action triggers) are usefully applied to credit risk management as well. A loss
+control limit is a type of limit that requires specific management action if it is approached or
+breached. When tracking the loss experience on the disaggregated portfolio, the MIS should
+warn the Board and senior management when the loss experience on a particular type of loan is
+approaching the established limit (which must also be clearly indicated in the documentation) so
+that management can make an informed decision about whether or not to cease or scale back on
+that type of lending.
+
+--- Page 38 ---
+~ 37 ~
+
+Chapter 07: Managing Credit Risk of Problem Assets
+
+Problem loans are an inevitable consequence of lending. Any time a loan is funded, unforeseen
+events could arise and make it difficult for the borrower to live up to the terms of the loan
+agreement. Problem loans often begin with commercial loan officer errors – for example,
+inaccurately assessing the character of the borrower, misinterpreting the figures on a spread
+sheet, or simply not saying no to the loan request. These causes of problem loans should and can
+be minimized.
+
+7.1 Interaction with borrower
+
+Once a potential problem loan has been identified, the banker needs to follow following steps:
+ Develop a preliminary plan before meeting with the borrower.
+
+ Schedule a meeting with the borrower soon after learning about the problem loan.
+o Discuss the problem, explore available alternatives to solve the problem, and
+establish what actions are acceptable and not acceptable.
+o The lender decides what additional information, such as monthly financial
+statements, the borrower should supply, so that the bank can more closely
+track the situation.
+o The borrowers also outline interim steps to resolve the problem.
+
+It is not enough to send a letter pointing out how the borrower is in violation of various terms of
+the loan documents. The response, if one comes at all, likely will be unsatisfactory; most
+borrowers deny the problem or believe that if anything is wrong it will correct itself over time.
+Instead, call the borrower, inform him of the bank’s concerns, and schedule a meeting. The
+lender thus impresses on the borrower the bank’s desire to cooperate, with out downplaying the
+bank’s resolve to get to the bottom of the problem quickly. A meeting helps to further define the
+best course of action – whether to continue working with the borrower, ask for repayment, or
+move to liquidate the collateral. For example, an evasive or extremely uncooperative borrower
+quickly enables the lender to narrow the bank’s options.
+
+What action a lender takes depends on a thorough analysis of the causes of the loan and the
+likelihood of their resolution. However, regardless of whether the bank ultimately decides to
+continue working with the borrower or to liquidate, a cooperative effort is important. Avoiding
+unnecessary animosity is good customer relations and helps resolve the problem with a minimum
+of stress for both the bank and borrower. If the borrower is made to feel that the situation is
+hopeless, he or she may act precipitously. It is important, therefore, that the lender understands
+the borrower’s emotional state and knows how to deal with him so that the bank’s objective of
+debt repayment is realized.
+
+7.2 Appropriateness of rescheduling as a means to manage credit risk
+
+In certain rare situations, the borrower may find itself in a period of temporary financial distress.
+Loan rescheduling – the stretching out over a longer time period of required payments of
+principal and/or interest – may be an appropriate way of handling the problem loan situation, but
+only if the bank is fairly certain that the borrower can fulfill the rescheduled terms of the
+
+--- Page 39 ---
+~ 38 ~
+
+contract. In no way must rescheduling be used if the bank has significant doubt concerning the
+borrower’s willingness or ability to repay over the long term.
+
+7.3 Appropriateness of restructuring as a means to manage credit risk
+
+If the borrower’s financial distress is more permanent rather than temporary, restructuring may
+be appropriate in order to maximize the present value of the future cash flows that can
+reasonably be expected from the borrower.
+As with rescheduling, banks should not restructure any loan unless the bank is fairly certain that
+the borrower can fulfill the restructured terms. In all cases, restructuring must be conducted only
+in accordance with BB directives from time to time, including the formation of necessary
+provisions. (Additional provisions to capture all expected losses from the restructuring activity
+may also be established, and, at the very least, the tracking of these embedded losses should be
+part of MIS reports to the Board and senior management.)
+7.4 Credit Recovery
+Banks will put in place systems to ensure that management is kept advised on a regular basis on
+all developments in the recovery process. The following issues shall be addressed while
+conduction credit recovery functions:
+ Determine Account Action Plan/Recovery Strategy
+ Pursue all options to maximize recovery, including placing customers into receivership or
+liquidation as appropriate.
+ Ensure adequate and timely loan loss provisions are made based on actual and expected
+losses.
+ Regular review of non performing or worse accounts
+The management of problem loans (NPLs) must be a dynamic process, and the associated
+strategy together with the adequacy of provisions must be regularly reviewed. A process should
+be established to share the lessons learned from the experience of credit losses in order to update
+the lending guidelines.
+
+7.5 Write-off, repossession, and disposition of collateral
+
+When the bank considers an account to be no longer collectable, it will "write off' the account
+(i.e. the amount is removed from the asset portion of a balance sheet and recorded as an expense
+item on the income statement or adjusted against provision). Depending on the product, the point
+at which this occurs may vary, but at a minimum, banks are to follow the loan write off policies
+issued by BB from time to time..
+When all security has been realized and all recovery possibility have been exhausted, a decision
+may be made to write off, applying the provision in place for this purpose or debiting profit &
+loss account. This shall be approved by the Board of Directors.
+It is not an appropriate policy for a bank to "nurse" or warehouse repossessed properties until the
+market picks up, but to dispose them into the market quickly and at the best price. Disposal
+methods should be reviewed continuously to ensure the most effective method is being used. The
+asset disposal policy must conform to the Transfer of Property Act, and all other applicable laws
+related thereto. A Designated Division shall be responsible for repossessed asset disposal with
+assistance of Legal Division and other concerned divisions of the bank.
+
+--- Page 40 ---
+~ 39 ~
+
+While repossessed assets are awaiting disposal, the bank should make sure that proper
+administration is undertaken on these assets to protect their value. Asset disposal should start
+immediately when the asset becomes ready for sale. This is specifically defined as the time
+when:
+ The client surrenders voluntarily the asset or has agreed for the bank to sell the
+property.
+ The bank is awarded possession of the property by legal or other means. As the case
+may be, titles and ownership documents have been transferred to the bank's name and
+registered with the appropriate Land Registry.
+Basic principles to guide the bank in its efforts for asset disposal include:
+ Assets acquired have to be disposed of at the earliest time possible within a reasonable
+time frame from acquisition / repossession.
+ Until disposition occurs, the bank should endeavor to keep costs relative to the upkeep
+and maintenance of the assets to a minimum.
+ Converting / Liquidating the assets in the bank's possession at the earliest possible date
+is a lower-risk strategy than holding the assets for a projected upturn in market prices in the
+future, which often do not materialize, and in the meantime the Bank is saddled with a non-
+earning asset.
+
+Banks are not in the business of asset and property trading or management, and thus are ill-
+equipped to take positions on the market trends.
+
+--- Page 41 ---
+~ 40 ~
+
+Annexure-1
+
+“Documentation” should be viewed as a process of ensuring shield against risk of non-repayment
+of loan comprehensively in 03 (three) dimensions:
+The Type of Borrower
+ii)
+The Type of Loan or credit facilities &
+iii)
+The Type of Security Arrangement
+
+General Documents: In general, required papers and documents to be obtained/maintained
+irrespective of type of borrower, loan and security are:
+1. Demand Promissory Note
+2. Letter of Authority
+3. Letter of Arrangement
+4. Letter of Disbursement
+5. Letter of Revival
+6. Personal Net Worth statement
+7. Copy of National ID
+8. Credit Approach in Business Pad of the Borrower
+9. Credit Application in prescribed format duly filled in
+10. Photograph of the Borrower
+11. Photograph of the business/inventory
+12. Photograph of the mortgaged property
+13. Up to date CIB Report
+14. Credit report of the Borrower/Supplier
+15. Liability Declaration of the borrower along with an Undertaking that they have no
+liability with any bank or financial institution except as declared.
+16. Undertaking stating that, they will not avail any credit facility from any other bank or
+financial institution without prior consent of the bank.
+17. Undertaking stating that customer does not have any relationship as Director or Sponsor
+with the bank.
+18. Undertaking stating that customer shall not sell or transfer the ownership of the
+business/factory/shop until all amounts due to the bank bank are fully paid or without
+NOC of the bank.
+19. Credit Risk Grading Score Sheet (CRGS)
+20. Post-dated cheque covering the credit facility
+21. Acceptance by the Borrower of the Sanction Letter
+22. Proper Stamping
+
+--- Page 42 ---
+~ 41 ~
+
+Specific Charge Documents and Papers to be obtained:
+
+A. As per type of Borrower:
+
+SL
+Type of Borrower
+Document
+1. Individual Borrower
+ Letter of Guarantee of a Third Person
+ Personal Net-Worth Statement (PNS) of Guarantor
+ Personal Net-Worth Statement (PNS) of the Borrower
+ Letter of Guarantee of the Spouse of the Borrower
+2. Proprietorship Firm
+ Trade License (up to date)
+ Personal Net-Worth Statement (PNS) of Proprietor
+3. Partnership Firm
+ Trade License (up to date)
+ Partnership Deed (Registered)
+ Letter of Guarantee of the partners
+ Personal Net-Worth Statement (PNS) of Partners
+ Letter of Partnership.
+ Partnership Account Agreement.
+4. Limited Company
+ Trade License (up to date)
+ Memorandum and Articles of Association (Certified by
+RJSC)
+ List/Personal profile of the Directors
+ Certificate of Incorporation
+ Form XII Certified by RJSC (Particulars of Directors)
+ Board Resolution in respect of availing loans and execution
+of document with Bank
+ Letter of Guarantee of the Directors
+ Personal Net-Worth Statement (PNS) of Directors
+ Deed of Mortgage and Hypothecation for creation of Charge
+on fixed & floating assets (existing & future) with RJSC
+ Modification of charge with RJSC through form 19.
+ Certified copy of charge creation certificate from RJSC
+ Undertaking stating that the borrower shall not make any
+amendment or alteration in Memorandum and Article of
+Association without prior approval of Bank.
+ Approval of the Bank for any inclusion or exclusion of
+Directors in and from the company
+ Certificate of Commencement (In case of Public Limited
+Company)
+ Joint venture Agreement (In case of Joint Venture company)
+ BOI Permission (In case of Joint venture company)
+
+--- Page 43 ---
+~ 42 ~
+
+B. As per type of Loan / Credit facility:
+
+SL
+Type of Loan
+Document
+1. CC (Hypo)
+ Letter of Hypothecation of stock in Trade
+ Supplementary Letter of Hypothecation
+ IGPA [spell out acronym] to sell Hypothecated goods
+ Letter of Continuity
+ Periodical Stock Report
+ Letter of Disclaimer form the owner of rented Warehouse
+ Insurance Policy cover note
+2. CC (Pledge)
+ Letter of Pledge
+ IGPA to sell Pledged goods
+ Letter of Continuity
+ Periodical Stock Report
+ Letter of Disclaimer form the owner of rented Warehouse
+ Insurance Policy cover note
+3. Overdraft
+(General)
+ Letter of Continuity
+ Insurance Policy cover note
+4. SOD
+(Work
+Order)
+ Bid Document/ Tender Notice
+ Letter of Awarding
+ Assignment of Bills against work order
+5. SOD (FO)
+ The Financial Instrument duly discharged on the Back
+ Lien on the Financial Instrument
+ Letter of Continuity
+6. SOD
+(Scheme
+Deposit)
+ Lien on the Scheme Deposit
+ Letter of Continuity
+7. Term Loan
+ Term Loan Agreement
+ Letter of Installment
+ Letter of Undertaking
+ Amortization Schedule
+ Insurance Policy cover note
+8. Home Loan for
+purchase of Flat
+or Floor Space
+ Power of attorney for developing the property
+ Letter of Installment
+ Letter of Undertaking
+ Amortization Schedule
+ Letter of Allotment of Flat or Floor Space
+ Tripartite Agreement among Purchaser, Developer and Bank (If
+under construction)
+ Undertaking of the borrower to the effect that he will mortgage the
+flat/floor space favoringg the Bank at the moment the same is
+registered in his name by the seller.(If Under construction)
+ Agreement between Land Owner and Developer
+ Sharing Agreement between Land Owner and Developer
+ Copy of approved plan of construction from concerned authority.
+9. Consumers’ loan/
+Personal Loan
+ PNS of the Borrower
+ PNS of the Guarantor
+ Letter of Guarantee of the Guarantor
+ Letter of Guarantee of the Spouse of the Borrower
+ Insurance Policy cover note
+
+--- Page 44 ---
+~ 43 ~
+
+10. SME/Small Loan
+ As per type of borrower and nature of security
+11. Lease Finance
+ Lease Agreement
+ Lease Execution Certificate
+ Quotation / Price Offer duly accepted by borrower
+ BRTA Registration Slip (In case of Motor Vehicle)
+ Insurance Policy cover note
+12. Hire
+Purchase
+Loan
+ Hire Purchase Agreement
+ Quotation / Price Offer duly accepted by borrower
+ BRTA Registration Slip (In case of Motor Vehicle)
+ Insurance Policy cover note
+13. House
+Building
+Loan
+ Letter of Installment
+ Letter of Undertaking
+ Amortization Schedule
+ Approved Plan form the competent authority
+14. House
+Building
+Loan(To
+Developer)
+ Power of Attorney for development of property
+ Agreement between Land owner and Developer
+ Sharing Agreement between Land owner and Developer
+ Copy of approved plan of construction from concerned authority
+ Letter of Installment
+ Letter of Undertaking
+ Amortization schedule
+ Copy of Title deed of the property on which construction will be
+made
+ Copy of Bia [spell out acronym] deed (previous deed in support of
+Title deed)
+
+15. IDBP [spell out
+acronym]
+ Acceptance of L/C issuing Bank (duly verified)
+ Letter of Indemnity
+16. Guarantee
+Facility
+ Counter Guarantee
+ Bid Document or the document where requirement of Guarantee
+stated
+17. Syndicated Loan
+ Pari passu Sharing Agreement
+ Facility Agreement
+ Escrow Account Agreement
+ Creation of Pari passu Sharing charge with RJSC
+ Participation Letter
+ Subordination Agreement
+ Deed of Floating charge on the Balance for Escrow Account
+ Accepted Mandate Letter
+ Information Memorandum
+ Participant’s Commitment Letter
+18. LTR
+ Letter of Trust Receipt
+ Insurance Policy Cover note
+
+--- Page 45 ---
+~ 44 ~
+
+C. As per Type of Security [collateral may be a better word here]:
+
+SL
+Type of Security
+Document
+1. Corporate
+Guarantee
+ Corporate Guarantee of Guarantor Company on Non-Judicial
+Stamp
+ Resolution of the Board of the Guarantor Company
+(Memorandum of the Guarantor company must permit to do so.)
+regarding Guarantee.
+2. Hypothecation of
+Stock/Receivable
+ Letter of Hypothecation
+ IGPA to sell hypothecated Stock / Receivables
+ Letter of disclaimer form the owner of Rented Warehouse
+3. Pledge of goods
+in Trade
+ Letter of Pledge
+ IGPA to sell pledged goods
+ Letter of disclaimer form the owner of rented Warehouse
+4. Assignment
+of
+Bill
+ Assignment of Bill by the beneficiary through IGPA
+ Letter of Acceptance of Assignment by the work giving
+authority
+ Original Work Order
+5. Lien on Financial
+Instrument
+like
+FDR etc.
+ The Instrument duly discharged on the back of it.
+ Letter of Lien (‘1st Party Lien’ - if the Borrower is the owner of
+the Instrument, ‘3rd Party Lien’- if the Owner of the Instrument
+is one other than Borrower)
+ Letter of Authority to encash the instrument as and when needed
+by the Bank
+ Confirmation of Lien (Marking of Lien) from the issuing Bank.
+6. Lien on Demated
+Stock/Shares
+ NOC of the Company in case of Sponsor’s Share
+ Confiscate Request Form (Form19-1) duly signed by the
+pledgor.
+ Pledge Request form (By Law 11.9.3) duly signed by the holder
+of the share.
+ Pledge setup Acknowledgement from Brokerage House
+ CDBL [spell out acronym] generated copy of Pledge Setup
+7. Pari-Passu
+Security
+ Pari Passu Security Sharing Agreement among lenders.
+ NOC from existing lenders if the property/assets are already
+under pari passu sharing.
+ Certificate of RJSC on creation of charge on Fixed and floating
+assets of the company.
+ Form XIX for modification of charge on Fixed and floating
+assets with RJSC
+8. Mortgage
+of
+Landed Property
+ Original Title Deed of the property
+ Certified copy of Purchase Deed along with Deed - Delivery
+receipt duly endorsed (In absence of original Title Deed)
+ Registered Partition Deed among the Co-owners (if required)
+ Mortgage Deed duly Registered along with Registration Receipt
+duly discharged
+ Registered IGPA favoring Bank to sell the property
+ Bia Deeds of the mortgaged property
+ Certified Mutation Khatian along with DCR [spell out acronym]
+ Record of Rights i.e. CS, SA, RS Parcha, Mohanagar Jorip
+parcha (if within Mohannagar Area)
+
+--- Page 46 ---
+~ 45 ~
+
+ B.S. Khatian
+ Affidavit to be sworn by the owner of the property before 1st
+class Magistrate that he has valid title in the property and not
+encumbered otherwise
+ Up-to-date Rent Receipt
+ Up-to-date Municipal Tax Payment Receipt (if property within
+Municipal Area)
+ Up-to-date Union Parishad Tax Payment Receipt (if property
+within UP)
+ Approved Plan of Construction from concerned authority (if
+there is any construction upon the land)
+ Original Lease Deed (In case of Lease hold property)
+ Allotment Letter favoring Lessee (in case of Leasehold
+Property)
+ Mutation letter favoring Lessee (in case of Leasehold Property)
+ NOC of the competent Authority for Mortgage.
+ NEC [spell out acronym] along with search fee paid receipt
+ Board Resolution of the Mortgagor company duly supported by
+the provision of Memorandum and Article of Association (when
+one company mortgagse on behalf of the loan of other company)
+ Photograph of the Mortgaged Property
+ Location Map
+ Survey Report from professional Surveyors
+ Physical Visit Report by Bank Officials
+ Lawyer’s opinion in respect of acceptability of the property as
+collateral security
+ Lawyer’s satisfaction certificate regarding appropriateness of
+mortgage formalities
+
+
+Documentation relating to Bank-to-Bank Loan takeover process :
+
+1. Photocopies of security documents such as mortgaged property documents, Corporate
+Guarantee, etc.
+2. Lawyer’s Opinion regarding acceptance of the securities
+3. Liability position of the borrower to the disposing bank
+4. Confirmation Letter of the disposing bank about redemption of mortgage and handing over
+of all original security deeds and documents directly after adjustment of loan through Pay
+Order.
+5. Undertaking of the owner of the property that they will mortgage the property after being
+redeemed by disposing bank.
+
+--- Page 47 ---
+~ 46 ~
+
+Annexure-2
+
+Avoidable Reasons for Problematic Credits
+
+The causes of problem loans range from poor plant management or increasing raw materials
+costs in the case of a manufacturer to poor accounts receivable collection policies or a rise in the
+price of products in the case of a wholesale company. Most often, a problem loan is the result of
+not one, but several, factors.
+Poor Loan Interview
+A poor interview most often occurs when the lender is dealing with a friend or when the business
+owner has leverage. Rather than ask tough, probing questions about the company’s financial
+situation, the lender opts for friendly banter instead. Sometimes the lender may be intimidated or
+conned. The lender may be reluctant to ask questions for fear of sounding dumb or appearing to
+lack basic knowledge of the company or industry. For whatever reason, he or she may allow a
+loan request that should have been rejected during the initial interview to proceed to financial
+analysis and beyond. With each subsequent step, it becomes increasingly more difficult to reject
+the request.
+Inadequate Financial Analysis
+Many loans become problems when a lender considers the financial analysis unimportant and
+believes that, instead, the true test of whether a loan will be repaid lies in a handshake, the eyes,
+or some of the subjective measure of the client. Although some characteristics, such as the
+ability to overcome adversity, do not appear on financial statements, there is no substitute for a
+complete analysis of income statements, balance sheets, ratios, and cash flow. Together, they
+present an objective measure of performance that can be compared with those of similar
+companies.
+Improper Loan Structuring
+Another cause of problem loans is the failure of the lender to structure the loan properly.
+Problems often arise when the lender fails to understand the client’s business and the cash flow
+cycle. Without this knowledge, it is difficult to anticipate future financing needs and to choose
+the appropriate loan type, amount, and repayment terms. Most borrowers, regardless of financial
+health, find it difficult to repay debts that do not coincide with their cash flow cycle.
+Improper Loan Support
+Another leading cause of loan loss is improper collateralization. Accepting collateral not
+properly evaluated for ownership, value, or marketability can leave the bank unprotected in a
+default situation.
+Inadequate Loan Documentation
+Failure to completely and accurately document the obligations of the bank and borrower in the
+lending arrangement also contributes to problem loans.
+Inadequate Loan Monitoring
+Many problem loans can be avoided if they were more closely followed.
+Adverse Business Owner Decisions
+Problem loans due to poor business practices include a lack of management depth, product
+deterioration, poor marketing, and poor financial controls.
+Adverse External Developments
+Changes in the environment, economy, regulations, competition, technology, and other adverse
+developments affect a business. However, mature businesses can anticipate and adapt to
+changing external circumstances.
+
+--- Page 48 ---
+~ 47 ~
+
+Intervention from Board
+Sometimes Board of Directors intervenes in the loan origination process to make loan to bad
+borrower which unless otherwise should have been rejected.
+
+Below is a long but not exhaustive list of mistakes that bankers can make that eventually lead to
+the bank having a problem loan.
+
+Common Banking Mistakes That Can Lead to Problem Loans
+In the Beginning
+ Allowing customer to intimidate, coerce into, or sell the banker on making the
+loan
+ Failure to ask pertinent questions for fear of angering or losing the customer
+ Making difficult loans that should be handled by a more experienced officer
+ Basing the lending decision on pressure from other parties, especially the
+competition
+ Trying to be an entrepreneur/businessman through the customer using the bank’s
+money
+ Inadequate analysis of the borrower
+ Inadequate analysis of financial statements
+ Inadequate analysis of loan purpose, source of repayment, and excess cash flow
+ Improper loan structure—amount, source of repayment, timing of repayment
+(terms)
+ Improper collateralization
+ Failure to properly identify entity bank is dealing with
+ Failure to supervise utilization of loan proceeds
+ Failure to obtain and perfect valid security interest
+
+After the Loan Was Made
+ Did not effectively follow loan
+ Request and review financial information
+ Make periodic visits to company
+ Perform periodic trade and industry checks
+ Monitor impact of changing economic conditions on company
+ Did not control expansion
+ Let customer borrow in small amounts until he/she had too much debt or bank
+placed in forced lending situation
+ Inappropriate management of the lending function
+
+When the Problem is Recognized
+ Afraid to look into credit—ask tough questions
+ Afraid to admit made a mistake or have a problem
+ Cut off communication with customer, resort to pressure/threats to collect loan
+ Inaction—hoping situation will improve—“miracle approach”

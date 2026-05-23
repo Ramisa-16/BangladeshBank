@@ -1,0 +1,523 @@
+--- Page 1 ---
+Bangladesh Bank
+(Central Bank of Bangladesh)
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+
+Department of Currency Management
+and Payment Systems
+(Payment Systems Division)
+
+DCMPS (PSD) Circular Letter no.11
+
+
+
+
+Date:20 /12/2011
+
+Managing Directors/ Chief Executive Officers
+All Commercial Banks
+
+
+Dear Sirs,
+
+Amendment of Guidelines on Mobile Financial Services for the Banks.
+
+Attention is drawn to DCMPS Circular No-08 dated September 22, 2011 on the
+captioned subject.
+This is to inform you that some amendments are made in the mentioned guidelines.
+All scheduled banks of the country are now advised to download the amended guidelines
+from the website of Bangladesh Bank. The address of the website is:
+www.bb.org.bd
+
+Please acknowledge receipt.
+
+Yours faithfully
+-sd/-
+( A.K.M Fazlur Rahman )
+Deputy General Manager
+Phone: 7123443
+
+--- Page 2 ---
+1 | P a g e
+
+
+Guidelines on Mobile Financial Services (MFS) for the Banks
+
+
+1.0 Introduction
+
+The banking industry of Bangladesh has shown tremendous growth in volume and complexity over
+the recent years. Despite making significant improvements in all the areas relating to financial
+viability, profitability, innovation and competitiveness, there are concerns that banks have not been
+able to include vast segment of the population, especially the underprivileged sections and rural
+people into the fold of basic banking services.
+
+On the other hand, rapid growth of mobile phone users and wider range of the coverage of Mobile
+Network Operators (MNOs) has made their delivery channel an important tool‐of‐the‐trade for
+extending banking services to the unbanked/banked population.
+
+In order to ensure the access of unbanked people by taking advantage of countrywide mobile
+network coverage, Bangladesh Bank has brought out these operating guidelines for adoption by the
+commercial banks of Bangladesh.
+
+2.0 Issuance
+
+Bangladesh Bank is issuing this guidelines as per the Article 7A(e) of Bangladesh Bank Order, 1972
+and Section 4 of Bangladesh Payment and Settlement Systems Regulations, 2009.
+
+3.0 Purpose
+
+The purpose of these Guidelines is to:
+
+Provide regulatory framework for the Mobile Financial Services [MFSs] which will create an
+enabling environment for innovations in financial services;
+II.
+Minimize the usage of cash and its associated costs;
+III.
+Ensure compliance with Anti‐Money Laundering and Combating Financing of Terrorism
+(AML/CFT) standards set by AML/CFT rules, regulations, guidelines and instruction issued
+by Bangladesh Bank; and
+IV.
+Promote accessibility to formal financial services especially to the poor and unbanked
+population at an affordable cost.
+
+4.0 Scope
+
+The guidelines shall apply to the scheduled commercial banks and their subsidiaries operating in
+Bangladesh.
+
+5.0 Mobile Financial Services
+
+Bangladesh Bank may allow the following Mobile Financial Services (in broad categories) ‐
+
+Disbursement of inward foreign remittances,
+II.
+Cash in /out using mobile account through agents/Bank branches/ ATMs/Mobile Operator’s
+outlets.
+III.
+Person to Business Payments ‐ e.g. a. utility bill payments, b. merchant payments
+IV.
+Business to Person Payments e.g. salary disbursement, dividend and refund warrant
+payments, vendor payments, etc.
+Government to Person Payments e.g. elderly allowances. Freedom‐fighter allowances,
+subsidies, etc.
+VI.
+Person to Government Payments e.g. tax, levy payments.
+VII.
+Person to Person Payments (One registered mobile Account to another registered mobile
+account).
+VIII.
+Other payments like microfinance, overdrawn facility, insurance premium, DPS, etc.
+
+--- Page 3 ---
+2 | P a g e
+
+
+6.0 Permissible Models
+
+Depending on the operation, responsibility and relationship(s) among banks, MNOs, Solution
+Providers and customers mainly two types of mobile financial services (Bank led and Non Bank led)
+are followed worldwide.
+
+From legal and regulatory perspective, only the bank‐led model will be allowed to operate.
+
+The bank‐led model shall offer an alternative to conventional branch‐based banking to unbanked
+population through appointed agents facilitated by the MNOs/Solution Providers.
+
+Customer account, termed "Mobile Account" will rest with the bank and will be accessible through
+customers’ mobile device.
+
+Mobile Account will be a non‐chequing limited purpose account.
+
+7.0 Regulatory Issues
+
+7.1 Approval from Bangladesh Bank
+
+1. Without having approval from Bangladesh Bank no bank is allowed to do such business.
+2. Banks willing to provide Mobile Financial Services shall seek prior approval from Bangladesh
+Bank, with full details of the services including tentative implementation schedule.
+3. Banks shall have to submit agreement(s)/MOU(s) containing Service Level Agreement (SLA)
+signed between banks and their partners/agents before launching the product.
+4. The Cash Points/Agents shall have to be selected by the bank and a list of the Cash Points/ Agents
+with their names and addresses shall have to be submitted to the Department of Currency
+Management and Payment System (DCMPS), Bangladesh Bank and will be updated on monthly
+basis.
+5. At any point of time, the relevant balance in bank book shall be equal to the virtual balance of all
+registered mobile accounts shown in the system. Banks will be the custodian of individual
+customers' deposits.
+6. The inward foreign remittance (credited to Nostro Accounts of Banks) transfer arrangement
+through designated Cash Points/Agents will be used only for delivery in local currency.
+7. The platform should not be used for cross border outward remittance of funds without prior
+approval from Bangladesh Bank.
+8. Bangladesh Bank may withhold, suspend or cancel approval for providing MFS services if it
+considers any action by any of the parties involved in the system detrimental to the public
+interest.
+
+7.2 Opening of Mobile Accounts
+
+Banks must ensure that a 'Mobile Account' has been opened for each customer seeking to avail
+Mobile Financial Services with all the required documents (as per KYC form of Annexure 1).
+
+7.3 Transaction Limit
+
+Bangladesh Bank will fix the transaction limit as well as overall cap (per customer/ per month)
+for Person to Person Payments as and when needed.
+
+7.4 Charge for the Services
+
+For these products and services Banks may fix up charges which will be under Bangladesh Bank
+oversight.
+
+7.5 Interest/Profit
+
+Banks shall pay interest/profit on the deposits lying with the customers’ mobile accounts.
+
+--- Page 4 ---
+3 | P a g e
+
+7.6 Anti­Money Laundering Compliance
+
+1. Banks and its partners shall have to comply with the prevailing Anti‐Money Laundering
+(AML)/Combating the Financing of Terrorism (CFT) related laws, regulations and guidelines
+issued by Bangladesh Bank from time to time.
+2. Banks shall have to use a new 'Know Your Customer (KYC)' format as given in Annex I. The Bank
+will be responsible for authenticity of the KYC of all the customers.
+3. Banks shall have to follow full KYC format issued by Anti Money Laundering Department
+(AMLD) of Bangladesh Bank for the cash points/agents/partners.
+4. Banks shall ensure that suspect transactions can be isolated for subsequent investigation.
+Banks shall develop an IT based automated system to identify suspicious activity/transaction
+report (STR/SAR) before introducing the services.
+5. Banks shall immediately report to Anti‐Money Laundering Department of Bangladesh Bank
+regarding any suspicious, unusual or doubtful transactions likely to be related to money
+laundering or terrorist financing activities.
+
+7.7 Risk Mitigation
+
+1. Banks shall be responsible for mitigation of all kinds of risks such as liquidity risk,
+operational risks, fraud risks including money laundering and terrorist financing risks.
+Technical risks should be covered by the solution provider.
+2. The banks bear all the liabilities that arise from improper action on the part of their
+subsidiaries/cash points/agents/partners.
+
+7.8 Record Retention
+
+MFS transaction‐records must be retained for six (06) years from the origination date of the
+entry. The Participating Bank(s) must, if requested by its customer, or the Receiving Bank(s),
+provide the requester with a printout or reproduction of the information relating to the
+transaction. Banks should also be capable of reproducing the MFS transaction‐records for later
+reference, whether by transmission, printing, or otherwise.
+
+8.0 Selection of Partners/Agents
+
+It is the bank’s responsibility to identify, contract, educate, equip and monitor activities of the agents
+on a regular basis. There must be clear, well documented Agent Selection Policy and Procedures. The
+agreement signed between the banks and the agents will primarily include business hours of the cash
+points/agents, standard of performance, fees permissible by Bangladesh Bank, customer service,
+dispute resolution procedure and proper signage. Those who have country‐wide branch network
+such as NGOs, the MNOs or Govt. Postal Department may act as partner/agent. Banks should publish
+list as well as addresses of cash points/agents/partners in their website.
+
+The following issues should be taken into account for selection of partners/agents:
+
+1. Competence to implement and support the proposed activity ;
+2. Financial soundness;
+3. Ability to meet commitments under adverse conditions;
+4. Business reputation;
+5. Security and internal control, audit coverage, reporting and monitoring environment;
+
+9.0 Oversight Issues
+
+Banks shall have to follow rules, regulations, guidelines and instructions issued by Bangladesh Bank
+from time to time and preserve records as per Annex II, III, IV and V for Bangladesh Bank oversight.
+
+--- Page 5 ---
+4 | P a g e
+
+10.0
+Security Issues
+
+1. Banks shall have to follow the Guidelines on ICT Security for Scheduled Banks and Financial
+Institutions, 2010 issued by the Bangladesh Bank and ICT Act, 2006 to address the security
+issues of Mobile Financial Services.
+2. The following properties need to be addressed to offer a secure infrastructure for financial
+transactions using mobile technology:
+Confidentiality: Property that ensures transaction information cannot be viewed by
+unauthorized persons.
+b. Integrity: Property that the transaction information remains intact during transmission and
+cannot be altered.
+Authorization: Property that the authentic user has proper permission to perform the
+particular transaction. It ensures how the system decides what the user can do.
+d. Non­repudiation: Property that the particular transaction initiated by a user cannot be
+denied by him/her later.
+3. All the transactions must be authenticated by the account holders using their respective Personal
+Identification Number (PIN) or similar other secured mechanism. To facilitate the mobile
+financial services, the said PIN may be issued and authenticated by the bank maintaining proper
+protection and security features.
+4. The banks should ensure that a proper process is put in place to identify the customer when the
+service is being enabled.
+5. A second factor of authentication should be built‐in for additional security as chosen by the bank.
+
+
+11.0
+Interoperability
+
+1. Banks may link their mobile financial services with those of other banks for the convenience
+of the users.
+2. Mobile account may be linked with customer's bank account (if any).
+
+
+12.0
+Customer/Employee Education and Awareness
+
+Banks shall take appropriate measures (may issue proper guidelines for dealing with customer
+service and customer education) to raise awareness and educate their customers and employees
+for using Mobile Financial Services.
+
+
+13.0
+Complaints and Grievance Redressal Procedure
+
+1. Banks shall be held responsible to protect consumer rights and dispute resolution. Banks may
+address dispute resolution with the assistance of selected partners/agents.
+2. Banks shall have to disclose the risks, responsibilities and liabilities of the customers on their
+websites and/or through printed material. Customers must be made aware of the risks prior to
+sign up.
+3. Bilateral contracts drawn up between the payee and payee’s bank, the participating banks and
+service providers should clearly define the rights and obligations of each party.
+4. The grievance handling procedure including the compensation policy should be disclosed.
+5. Whenever any consumer is dissatisfied by the action of the bank, the consumer can register
+complaint with Bangladesh Bank to mediate the dispute. In that case decision from Bangladesh
+Bank will be final.
+
+--- Page 6 ---
+5 | P a g e
+
+Annex ­ I
+KYC Profile Form
+
+Name of the Client
+Father's Name
+
+Mother's Name
+
+Date of Birth
+Occupation
+
+
+Official Address (If available)
+Present Address
+
+Permanent Address
+
+Mobile No.
+10.
+Purpose of Transaction
+
+
+11.
+Bank Account Information
+(If available)
+Bank Name
+b. Branch
+c. Account No.
+12.
+Introducer Information
+Name
+b. Address
+c. Occupation
+d. Mobile no.
+13.
+Attachment
+(Any of the under mentioned)
+a. Copy of National ID Card
+b. Copy of Citizenship Certificate
+c. Copy of Driving License/ Passport
+etc.
+
+
+
+
+Prepared by
+Approved by
+
+
+
+PHOTOGRAPH
+(Passport size)
+
+--- Page 7 ---
+6 | P a g e
+
+Annex ­ II
+
+Monthly Report of Mobile Financial Services of Inward Foreign Remittances
+
+
+Name of the Bank
+Date
+(Tk. 20,000 and above)
+Sl.
+No.
+Name of the Remitter
+Amount
+Sent
+Name of the Beneficiary
+Amount
+Disbursed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N.B. :
+Remittance less than Tk. 20,000 shall have to be reported on consolidated basis mentioning total number
+and amount of remittance.
+
+--- Page 8 ---
+7 | P a g e
+
+Annex ­ III
+
+Monthly Report of Person to Business Mobile Financial Transactions
+
+
+Name of the Bank
+Date
+(Tk. 20,000 and above)
+Sl.
+No.
+Mobile
+Account No. of
+the Payer
+Name of the Payer
+Mobile Account No. of
+the Business
+Organization
+Name of the
+Business
+Organization
+Amount
+Transferred
+
+
+
+
+
+
+
+
+
+
+N.B. :
+Transaction amount less than Tk. 20,000 shall have to be reported on consolidated basis mentioning total
+number and amount.
+
+--- Page 9 ---
+8 | P a g e
+
+Annex ­ IV
+
+Monthly Report of Business to Person Mobile Financial Transactions
+
+
+Name of the Bank
+Date
+(Tk. 20,000 and above)
+Sl.
+No.
+Name of the Business Organization
+Numbers of the Beneficiary
+Amount Disbursed
+
+
+
+
+
+
+
+
+
+
+N.B. :
+Transaction amount less than Tk. 20,000 shall have to be reported on consolidated basis mentioning total
+number and amount.
+
+--- Page 10 ---
+9 | P a g e
+
+Annex ­ V
+
+Monthly Report of Person to Person Mobile Financial Transactions
+
+
+Name of the Bank
+Date
+(Tk. 20,000 and above)
+Sl.
+No.
+Mobile
+Account No.
+of the
+Sender
+Name of
+the
+Sender
+Source of
+Income of
+the
+Sender
+Relationship
+with recipient
+Mobile
+Account
+No. of the
+Receiver
+Name of
+the
+Receiver
+Purpos
+e of
+the
+transe
+ction
+Amount
+Transfer
+red
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N.B. :
+Transaction amount less than Tk. 20,000 shall have to be reported on consolidated basis mentioning total
+number and amount.

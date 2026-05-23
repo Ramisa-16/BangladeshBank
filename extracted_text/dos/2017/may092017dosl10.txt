@@ -1,0 +1,1249 @@
+--- Page 1 ---
+website: www.bb.org.bd
+
+ডিপার্টমেন্ট অব অফ-সাইট সুপারভিশন
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা।
+২৬ বৈশাখ, ১৪২৪
+ডিওএস সার্কুলার লেটার নং- ১০ তারিখ ৪ ---_-..-.---২২
+০৯ মে, ২০১৭
+
+প্রধান নির্বাহী/ব্যবস্থাপনা পরিচালক
+বাংলাদেশে কার্ধরত সকল তফসিলি ব্যাংক
+
+উপর্যুক্ত বিষয়ে এ ডিপার্টমেন্টের ডিওএস সার্কুলার লেটার নং- ১৭, তারিখ ৭ নভেম্বর, ২০১২ এর প্রতি
+দৃষ্টি আকর্ষণ করা যাচ্ছে।
+
+২। উক্ত সার্কুলার লেটারের মাধ্যমে ব্যাংকগুলোর জালিয়াতি/প্রতারণামূলক তৎপরতার প্রবণতা প্রতিরোধে
+অভ্যন্তরীণ নিয়ন্ত্রণ ব্যবস্থাদির কার্ষকারিতার স্বমূল্যায়ন সংক্রান্ত প্রতিবেদন ব্যাংকের প্রধান নির্বাহীর স্বাক্ষরে এবং পর্ষদের
+অডিট কমিটির চেয়ারম্যানের প্রতিস্বাক্ষরে প্রতি ত্রেমাস অন্তে পরবর্তী এক মাসের মধ্যে এ বিভাগে দাখিল করার নির্দেশনা
+দেয়া হয়েছিল
+
+৩। এক্ষণে, ব্যাংক ব্যবসার সাথে সম্পৃক্ত ঝুঁকিসমূহ-হাস এবং জাল-জালিয়াতি/প্রতারণামূলক কার্যক্রম অধিকতর
+কার্ষকর ও ফলপ্রসৃভাবে প্রতিরোধের লক্ষ্যে উল্লিখিত প্রতিবেদনটিতে প্রয়োজনীয় সংশোধনী আনা হয়েছে। অভ্যন্তরীণ
+নিয়ন্ত্রণ ব্যবস্থাদির সংশোধিত প্রতিবেদন ye ছক মোতাবেক) যথাযথভাবে অনুসরণ/পরিপালন করার জন্য
+আপনাদেরকে নির্দেশনা প্রদান করা হলো |
+
+৪। এখন হতে স্বমূল্যায়ন প্রতিবেদন ব্যাংকের অভ্যন্তরীণ নিয়ন্ত্রণ ও পরিপালন বিভাগ কর্তৃক প্রস্ততপূর্বক ব্রৈমাসের
+পরিবর্তে অর্ধবার্ষিক ভিত্তিতে (প্রতি অর্ধবার্ষিক শেষে পরবর্তী এক মাসের মধ্যে) এ ডিপার্টমেন্টে দাখিল করতে হবে । এ
+নির্দেশনা জুন, ২০১৭ হতে কার্যকর হবে | MOMS, ৭ নভেম্বর, ২০১২ তারিখের ডিওএস সার্কুলার লেটার নং- ১৭ এ
+প্রদত্ত অন্যান্য নির্দেশনা অপরিবর্তিত থাকবে |
+
+অনুগ্রহপূর্বক প্রাপ্তি স্বীকার করবেন।
+আপনাদের বিশ্বস্ত,
+সতযুক্তিঃ ১০(দশ) পৃষ্ঠা | স্বা-
+(এস, এম, রবিউল হাসান)
+মহাব্যবস্থাপক
+
+ফোন 8 ৯৫৩০০৯৩
+
+--- Page 2 ---
+Declaration form
+
+Date :
+
+To : General Manager
+Department of Off‐site Supervision
+Bangladesh Bank, Head Office, Dhaka
+
+Reporting period:
+
+Sub: Self-Assessment of Anti-Fraud Internal Controls.
+
+Dear Sir,
+
+I would like to confirm you in terms of your DOS circular letter no. 10 dated
+09‐05‐2017 that the annexed self‐assessment of anti‐fraud internal controls has been
+carried out with due diligence for identifying the drawbacks of our Internal Control and
+Compliance System and taking appropriate measures to make it more effective and
+strong. The position of our bank’s internal control practices has been reflected truly and
+faithfully through the information provided in this report.
+
+Sincerely Yours,
+
+
+Signature and date:
+(Name :‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐)
+Managing Director/CEO)
+
+Counter signature and date
+(Name:‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐)
+Chairman, Audit Committee of the
+Board of Directors
+
+
+N.B: In case of foreign banks, declaration form must be signed both by CEO and Head of
+ICC/Internal Audit.
+
+--- Page 3 ---
+Page 1 of 7
+
+
+
+Self-Assessment of Anti-Fraud Internal Controls
+
+Sl.
+No.
+Particulars
+Yes
+No Partial*
+Remarks**
+(if any)
+
+Internal Control & Compliance(ICC)
+
+
+
+
+01
+Does the senior management ensure communication of different
+prudential regulations, policies etc. issued time to time by bank itself,
+regulator and government throughout the bank?
+
+
+
+
+02
+Does the Audit Committee (AC) review the audit findings and
+compliance status at least on quarterly basis and take actions
+accordingly? If yes, attach the related memo.
+
+
+
+
+03
+Policy and structure of ICCD
+
+
+
+
+a) Has the bank reviewed its own ICC guidelines in light of
+guidelines issued by BB and continued to review on yearly basis?
+
+
+
+
+b) Is
+the
+organogram
+structure
+of
+the
+ICCD
+in
+accordance/conformity with those prescribed in the ICC
+guidelines by BB?
+
+
+
+
+c) Does the ICC Department have adequate manpower with
+professional knowledge, banking experience etc. to conduct
+audit activities as required by the bank?
+
+
+
+
+d) Is the bank’s Internal Audit Department well equipped with IT
+people to conduct audit in IT environment?
+
+
+
+
+e) Does the work scope of the ICCD cover all the issues of Charter
+narrated in the ICC Guidelines?
+
+
+
+
+f) Does the bank update Fraud Management Policy, Audit Manual
+etc. every year?
+
+
+
+
+g) Has the Fraud Management Policy been implemented in case of
+settlement of detected fraud‐forgeries?
+
+
+
+
+h) Does the bank have a central database/corporate memory of
+fraud‐forgeries1 occurred in the bank?
+
+
+
+
+04
+Has the bank complied with the instructions of Guidelines on Internal
+Control & Compliance in Banks regarding preparation and submission
+of report on its own health?
+
+
+
+
+05
+Is the overall effectiveness of the internal control system, policies &
+procedures of the bank evaluated at least annually by the proper
+authority with the approval of the board to prevent recurrence of the
+material irregularities/fraud/forgeries and also to address the
+changing environment?
+
+
+
+
+06
+Were there any incidents of fraud/forgery published in the media but
+the ICCD failed to detect?
+
+
+
+
+07
+a) Does the Monitoring Unit review Quarterly Operations
+Report (QOR), Loan Documentation Checklist (LDCL) etc.
+effectively to monitor the operational performance of the
+branches?
+
+
+
+
+b) Is the DCFCL (Departmental Control Function Checklist)
+reviewed by Departmental Managers, Line Managers, and
+Branch Managers at the prescribed frequencies?
+
+
+
+
+* At least 50% implemented items are to be answered in ‘Partial’ column.
+** ‘Remarks’ column is to be filled up with the actual percentage of implementation for ‘Partial’ answers, time limit for full implementation of partial and unimplemented items and
+any other related information bank desires to include.
+1 Material losses for banks due to creation of fake loan accounts, defalcation of money, unauthorized fund transfer from one account to another, fake issuance of PO, DD, credit
+card, debit card etc., Embezzlement of money by forged cheque, cash embezzlement through online transaction, defalcation of money by creating fraud overdraft, amount
+received from depositor but not deposited to a/c, unauthorized withdrawal from suspense a/c, forged FX document etc.
+
+(Signature)
+(Signature)
+Initiating Officer Head of Compliance
+
+--- Page 4 ---
+Page 2 of 7
+
+
+
+Sl.
+No.
+Particulars
+Yes
+No
+Partial
+Remarks
+(if any)
+08
+Are the employees provided with clear authority/delegation of power
+and job description to perform the daily activities of the bank with
+proper documentation of hand over and take over charges when
+applicable?
+
+
+
+
+09
+Does the bank have risk‐based auditing system and ensure its
+implementation?
+
+
+
+
+10
+Does the ICCD evaluate the degree of risk, at least annually, of every
+department/office/branch/subsidiary/foundation/regional office in
+addition to regular audit of bank branches?
+
+
+
+
+11
+Does the bank have any policy regarding admonitory/reproving
+measures for internal auditors in case of their failure in applying due
+diligence to the responsibility assigned to them?
+
+
+
+
+12
+Are job rotation, transfer, posting and mandatory leave (where
+applicable) for the employees strictly followed as per Bangladesh Bank
+guidelines?
+
+
+
+
+13
+a) Does the bank have centralized system to monitor all deposits and
+loan accounts including staff?
+
+
+
+
+b) Does the ICCD ensure monitoring of staff accounts and other
+accounts operated by the staff at least on monthly basis through
+getting certification from branch manager/regional office in
+absence of centralized system?
+
+
+
+
+14
+a) Are the senior management assigned with responsibility for
+fraud management so that employees of all level get conscious
+about prevention and detection of fraud/forgeries?
+
+
+
+
+b) Does the senior management perform their responsibilities
+assigned to them properly for minimizing fraud/forgery?
+
+
+
+
+15
+Does the bank perform screening of applicants before appointment
+particularly to cash handling positions, and other trusted positions
+such as treasury, accounts, security and ICT (techniques include
+confirmation of qualifications, verification of employment background,
+criminal history searches etc.)?
+
+
+
+
+
+General Banking and Operation
+
+
+
+
+16
+Does the account opening branch ensure customers’ address through
+cross reference checking and maintain proper records in case of new
+accounts?
+
+
+
+
+17
+Does the bank restrict the access of persons/belongings (which are not
+related to cash) to the cash area to prevent defalcation of cash and
+cash equivalents?
+
+
+
+
+18
+Does the bank ensure Balance Confirmation for both loan and deposit
+accounts to the customer, any way, at least once in every six months?
+
+
+
+
+19
+Is there any policy to inform the customers about different charges
+debited from their accounts and whether it is implemented?
+
+
+
+
+20
+a) Is effective reconciliation of inter branch/General Account in
+place and necessary action taken to reconcile the long-pending
+(three months and above) items?
+
+
+
+
+b) Does the bank produce monthly reconciliation status to the
+senior
+management
+to
+ensure
+proper
+monitoring
+of
+reconciliation?
+
+
+
+
+c) Are
+reconciliation
+activities
+of
+the
+department/division/unit/section audited at least once in a
+year?
+
+
+
+
+
+(Signature) (Signature)
+
+Initiating Officer Head of Compliance
+
+--- Page 5 ---
+Page 3 of 7
+
+
+
+Sl.
+No.
+Particulars
+Yes
+No
+Partial
+Remarks
+(if any)
+21
+Are the Suspense/Sundry Debtors/Sundry Creditors/Sundry Deposits/
+Various Utility Accounts and Development as well as Miscellaneous
+Expenses of Head Office and branches duly monitored by ICCD and
+placed to monthly meeting of higher management?
+
+
+
+
+22
+a) Does the branch maintain proper edit/audit trail signed by the
+manager?
+
+
+
+
+b) Does the branch manager check individual employees’ activity
+reports (computer posting listings) on daily basis?
+
+
+
+
+23
+Does the bank make ageing of inoperative/dormant accounts/
+unclaimed deposits/valuable goods and submit the same to BB
+following BB circular/guidelines?
+
+
+
+
+24
+Has the bank introduced surveillance system that can watch every
+single event (access/exit) of all employees of the bank particularly
+to/from Cash counters, Dealing room, SWIFT rooms, Server rooms,
+Data center, ICT Division etc.?
+
+
+
+
+25
+Does the bank maintain security of lockers as per Bangladesh Bank
+guidelines?
+
+
+
+
+26
+a) Does the bank have adequate security surveillance
+measures like CCTV, Alarm System, etc. in locations like
+Access point, Vault area, Cash Teller area, ATM booth, etc.?
+
+
+
+
+b) Does the bank record CCTV footages and preserve regular
+backup of footages for a minimum period as specified by the
+Bangladesh Bank?
+
+
+
+
+c) Are the CCTV DVRs (Digital Video Recorders) placed in a
+secured place?
+
+
+
+
+27
+Does the bank display Help Desk contact details at all of their ATM
+booths, Web portals, Merchant outlets to lodge complaints or seek
+assistance?
+
+
+
+
+28
+Does the bank:
+a) have a code of ethics or similar document in line with National
+Integrity Strategy of Bangladesh to guide staff about ethical
+standards in their work?
+
+
+
+
+b) provide training on ethical standards to its employees?
+
+
+
+
+
+Loans and Advances
+
+
+
+
+29
+a) Is physical verification conducted by the concerned officials at
+borrower’s/guarantor’s office/factory, present & permanent
+addresses for ensuring their identification and business location?
+
+
+
+
+b) Is appropriate record of the physical verification maintained for
+future reference before disbursement of loan?
+
+
+
+
+30
+Does the bank send a one page summary report containing all past due
+loans, new facilities provided, written off loans, renewal/rescheduling/
+enhancement of loans, capital market investment to senior management
+and Board of Directors (to MANCOM in case of foreign banks) on
+monthly basis for understanding the current and past performance of
+the loans?
+
+
+
+
+31
+Are credit facilities availed by the borrower in his own name and /or in
+the name of his allied/sister concerns from all other banks & financial
+institutions clearly stated in the credit proposal?
+
+
+
+
+
+(Signature)
+(Signature)
+Initiating Officer Head of Compliance
+
+--- Page 6 ---
+Page 4 of 7
+
+
+
+
+Sl.
+No.
+Particulars
+Yes
+No
+Partial
+Remarks
+(if any)
+32
+a) Are all credit lines under the purview of CRG (Credit Risk
+Grading) guidelines and CRG done properly considering all
+information including CIB data?
+
+
+
+
+b) Have any credit facilities been provided with an exception to
+CRG? If yes, mention the classification status?
+
+
+
+
+33
+a) Is the property offered as collateral security against loan
+physically verified by the designated official to ensure physical
+existence of the property and it’s possession by the proposed
+borrower/mortgager?
+
+
+
+
+b) Whether appropriate inspection is conducted by the related
+bank officials along with the third party valuation firm to
+assess the value of collateral before sanctioning the loan?
+
+
+
+
+c) Does the bank ensure accomplishing ‘tag deed’ on the
+collateral already mortgaged with the bank; in case of
+providing new facilities?
+
+
+
+
+34
+Does the bank ensure proper control and security over credit files and
+security documents with proper documentation of hand over and
+takeover?
+
+
+
+
+35
+Is there any instance of giving unauthorized or fraudulent credit
+facilities (including non‐funded) at branch level during the reporting
+period?
+
+
+
+
+36
+a) Does the bank ensure that Local Bills Purchased/Accepted are
+under genuine trade following Bangladesh Bank guidelines?
+
+
+
+
+b) Are bank employees who are authorized to disburse funds
+(paying officer) different from employees who process loan
+applications/requests (loan officers/under writers)?
+
+
+
+
+c) Are loans disbursed only after complying with all terms and
+conditions mentioned in the sanction letters?
+
+
+
+
+d) Does the bank/branch maintain loan documentation checklist
+in each loan file following the related sanction letter?
+
+
+
+
+e) Does the bank conduct cross-checking to identify whether the
+same borrower has taken loans with different names from other
+branches of the bank/other banks?
+
+
+
+
+f) Is the usage of fund ensured by the bank branch/regional office
+nearest to borrower’s stated business area in the cases where
+loans are disbursed to locations far from the disbursing
+branch/office?
+
+
+
+
+g) Is single borrower exposure limit specified by BB followed
+before sanction of any credit facility?
+
+
+
+
+37
+Does the bank follow prevailing rules & regulations including
+provisions of section 27 of BCA 1991 (amended up to 2013) in case of
+loan sanctioning to Directors of the bank?
+
+
+
+
+38
+Does the bank follow section 26(Ga) of BCA 1991 (amended up to
+2013) in case of transaction with persons related with the bank?
+
+
+
+
+39
+Is there policy and practice in line with prevailing laws and BB
+directions to prevent money laundering and terrorist financing?
+
+
+
+
+
+Foreign exchange Operation
+
+
+
+
+40
+Does the bank lodge the import bills within the time frame under UCP
+600?
+
+
+
+
+
+
+(Signature)
+(Signature)
+Initiating Officer Head of Compliance
+
+--- Page 7 ---
+Page 5 of 7
+
+
+
+Sl.
+No.
+Particulars
+Yes
+No
+Partial
+Remarks
+(if any)
+41
+Does the bank ensure retaining original copy of bill of lading/airway
+bill and second copy of LCAF till the adjustment of the extended credit
+facilities (PAD/BLC/MIB)?
+
+
+
+
+42
+Does the bank ensure keeping 100% margin against issuance of the
+shipping guarantee (in case of the original import bill not yet received
+by the bank)?
+
+
+
+
+43
+a) Is there any instance of extending post import finance
+(LTR/MTR etc.) in spite of having overdue LTR facilities?
+
+
+
+
+b) If yes, is it approved by the competent authority?
+
+
+
+
+44
+a) Does the bank restructure overdue LTR facilities?
+
+
+
+
+b) Does the bank ensure monitoring the stock of imported goods
+with the LTR outstanding?
+
+
+
+
+45
+Is there any instance of extending Packing Credit (PC) facilities before
+opening of Back to Back L/C?
+
+
+
+
+46
+Does the bank extend every IBP facilities only after taking approval
+from head office?
+
+
+
+
+47
+Does the bank ensure physical delivery of goods and application
+of due diligence against extended IBP/ABP facilities (as per
+BRPD circular no. 10/2012)?
+
+
+
+
+48
+Does the bank ensure genuineness of the export contract/letter of
+credit (in accordance with the SWIFT code) before taking lien?
+
+
+
+
+49
+Does the bank examine the export documents (especially BL/AWB,
+customs certified EXP, Acceptance‐in case of deferred bill) properly to
+prevent fraud‐forgeries?
+
+
+
+
+50
+a) Does the bank verify the credit worthiness of foreign buyer to
+ensure repatriation of export proceeds?
+
+
+
+
+b) Does the bank report un-repatriated export proceeds to BB in
+due time?
+
+
+
+
+51
+Is there any instance of violation of limits set by the bank for
+treasury functions? If yes, mention the number of instances and
+amount there against.
+
+
+
+
+52
+a) Does the bank ensure reconciliation of Nostro Accounts on
+regular basis and report the same to the higher authority?
+
+
+
+
+b) Does the bank have un-reconciled entries for more than 3
+months in Nostro Accounts? if yes, is provision maintained
+against that?
+
+
+
+
+
+Information and Communication Technology (ICT)
+
+
+
+
+53
+Does the bank have an ‘ICT Security Policy’ in line with BB
+guidelines as well as the business objectives?
+
+
+
+
+54
+Does the bank review its 'ICT Security Policy' at least once in a year to
+cope with the evolving changes in the ICT environment and have it
+approved by the Board of Directors?
+
+
+
+
+55
+Does
+the
+bank
+carry
+out
+Information
+System
+(IS)
+audit
+(internal/external) at least once a year to find out weaknesses in the
+systems and take appropriate measures to mitigate the risks?
+
+
+
+
+56
+Does the bank ensure implementation of privileged access control
+system to monitor the activities of privileged users like System
+Administrators, Database Administrators, Backup Administrators, Key
+Business Users, etc.?
+
+
+
+
+
+(Signature)
+(Signature)
+Initiating Officer Head of Compliance
+
+--- Page 8 ---
+Page 6 of 7
+
+
+Sl.
+No.
+Particulars
+Yes
+No
+Partial
+Remarks
+(if any)
+57
+Does the bank undertake periodic vulnerability assessment and
+penetration testing procedures to find out threats and vulnerabilities
+and take relevant remediation?
+
+
+
+
+58
+Are there appropriate risk mitigation measures like operating time
+schedule for the users, transaction limit, transaction frequency limit,
+AML checks, etc. depending on the risk perception, unless otherwise
+mandated by the Bangladesh Bank?
+
+
+
+
+59
+Has the bank established an incident management process to log all
+incidents for proper resolution and future reference and a CERT
+(Computer Emergency Response Team) to respond immediately when
+necessary?
+
+
+
+
+60
+Does the bank have implemented Fraud Management Controls to
+prevent online fraudulent transactions from different delivery channels
+like ATM, POS, Internet Banking, E‐commerce, Mobile Banking, etc.
+based on different business logics like transaction frequency,
+transaction geo‐location, transaction pattern, etc.
+
+
+
+
+61
+Are the ‘high value’ transactions approved by appropriate personnel
+having proper Delegation of Authority (DOA)?
+
+
+
+
+62
+Does the system generate daily transaction report for high value
+transactions and send it to internal compliance unit?
+
+
+
+
+63
+Does the bank have implemented Automated Customer Alerts (SMS,
+Email) for any kind of transactions like withdrawal, deposit, transfer,
+etc.?
+
+
+
+
+64
+Is there any system in place to store and archive Database, Perimeter
+and Core Devices, Web Server and Mission Critical Servers log files for
+monitoring and pointing out suspicious attempts and activities?
+
+
+
+
+65
+Is there any central monitoring system to follow‐up ATM Cash Balance
+status, Loading/Unloading activities, ATM disorder and malfunction,
+etc.?
+
+
+
+
+66
+Is there any established procedure to segregate the Card
+personalization, PIN generation, and Card distribution activities?
+
+
+
+
+67
+Are the appropriate measures taken to prevent counterfeit and
+skimming cards at ATM?
+
+
+
+
+68
+Are the appropriate measures taken to prevent Email security threats
+like SPAM, Phishing, Spoofing, Flooding, Hoaxes, etc.?
+
+
+
+
+69
+Does the bank have implemented dynamic OTP (One‐Time Password)
+or Security Token as 2FA (Two Factor Authentication) for online
+transactions like Ecommerce, Internet Banking?
+
+
+
+
+70
+Has the bank implemented Dual Control System for‐
+ SWIFT transactions
+ Cash loading/unloading in ATM
+ Branch Teller transactions (as per DOA)
+
+
+
+
+71
+Is there any practice of accompanying vendor support personnel by
+bank’s official while working at sensitive area like Data Center?
+
+
+
+
+72
+Is a mechanism in place to encrypt sensitive information in portable
+devices like Laptop, External HDD, Tape Drive, etc. and also travelling
+through public network?
+
+
+
+
+73
+Are all external network connections routed through a Firewall?
+
+
+
+
+
+
+(Signature)
+(Signature)
+Initiating Officer Head of Compliance
+
+--- Page 9 ---
+Page 7 of 7
+
+
+
+
+Sl.
+No.
+Particulars
+Yes
+No
+Partial
+Remarks
+(if any)
+74
+Does the bank have technological enforcement to all employees for
+changing their passwords periodically as per bank’s ICT Security Policy?
+
+
+
+
+75
+Does the bank follow appropriate Procurement Policy for procuring
+any kind of IT services like Hardware, Software, Support, Consultation,
+etc.?
+
+
+
+
+76
+Has the bank taken appropriate measures to accommodate all controls
+and practices stated in the guidelines on Core Banking Solution (CBS)
+Features and Controls?
+
+
+
+
+77
+Does the bank distribute Computers, Laptops and electronic gadgets
+to end users from their ICT Division to maintain a set standard of
+Hardware configuration and Software installation?
+
+
+
+
+78
+Does the bank put restrictions on connecting BYODs (Bring Your Own
+Devices) and external devices to bank’s network?
+
+
+
+
+
+Questions are to be answered using ‘√’ mark in the respective column.
+The supporting documents/papers in favor of ‘yes/partial’ answers have to be preserved in the ICC Department
+for future reference.
+
+
+
+(Signature and seal including name) (Signature and seal including name)
+Head of Compliance Head of ICCD
+
+--- Page 10 ---
+Bank Name: …………………..
+Statement of Fraud and Forgeries detected during reporting period …………………
+Confidential
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*In case of no detection of fraud-forgeries, NIL statement has to be submitted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+no.
+Type of
+fraud
+
+Techniques
+applied to
+make fraud
+Name
+of the
+Branch
+Date of
+Amount
+involved
+Adjustment of the
+defrauded amount
+(recovered from
+concerned
+person/write off or
+other way)
+Name of the
+Officers/Employees/
+others involved
+Action
+taken
+against the
+delinquent
+Officers/
+Persons
+Current
+status of the
+case
+Initiatives taken
+to prevent
+recurrence of
+the incidents
+Remarks
+Occurrence
+Detection
+10
+11
+12
+13
+
+--- Page 11 ---
+Bank Name: …………………..
+Statement of Fraud and Forgeries detected and unsettled up to the previous reporting
+period since the inception of the bank
+
+Confidential
+
+
+
+
+*In case of no such fraud-forgeries, NIL statement has to be submitted.
+
+
+
+
+
+
+
+
+
+
+
+
+Sl.
+no.
+Type of
+fraud
+
+Techniques
+applied to
+make fraud
+Name
+of the
+Branch
+Date
+of
+Amount
+involved
+Adjustment of the
+defrauded amount
+(recovered from
+concerned
+person/write off or
+other way)
+Name of the
+Officers/
+Employees/others
+involved
+Action
+taken against
+the delinquent
+Officers/
+Persons
+Current
+status of the
+case
+Initiatives taken
+to prevent
+recurrence of the
+incidents
+Remarks
+Occurrence Detection
+10
+11
+12
+13

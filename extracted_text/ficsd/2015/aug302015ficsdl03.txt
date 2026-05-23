@@ -1,0 +1,416 @@
+--- Page 1 ---
+www.bangladeshbank.org.bd
+www.bb.org.bd
+
+ফাইন্যালিয়াল ইন্টিগ্রিটি এন্ড কাস্টমার সার্ভিসেস ডিপার্টমেন্ট
+
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা |
+ভাদ্র ১৫, ১৪২২
+তারিখঃ -------7ঁ
+এফআইসিএসডি সার্কুলার লেটার নং- ০৩/২০১৫ আগস্ট ৩০, ২০১৫
+
+ব্যবস্থাপনা পরিচালক/ প্রধান নির্বাহী কর্মকর্তা,
+
+বাংলাদেশে কার্যরত সকল তফসিলী ব্যাংক ও আর্থিক প্রতিষ্ঠান |
+
+EDW এ ব্যাংক ও আর্থিক প্রতিষ্ঠান কমপ্রেইন্ট সংক্রান্ত প্রতিবেদন প্রেরণ প্রসঙ্গে |
+
+বাংলাদেশ ব্যাংক কর্তৃক প্রণীত “Guidelines for Customer Services and Complaint Management”
+নীতিমালার আওতায় ২০/১০/২০১৪ ইং তারিখের এফআইসিএসডি সার্কুলার নংঃ 02/2098 এর প্রতি দৃষ্টি আকর্ষণ করা যাচ্ছে।
+
+সম্প্রতি বাংলাদেশ ব্যাংকের EDW ওয়েব পোর্টালে প্রদত্ত “কমপ্লেইন্ট স্টেটমেন্ট” এর জন্য ব্যবহৃত ১টি আরআইটি
+(RIT) টেমপ্লেটের পরিবর্তে ২টি নতুন টেমপ্লেট সংযোজন করা হয়েছে। এ প্রেক্ষিতে ব্যাংক ও আর্থিক প্রতিষ্ঠানসমূহকে গৃহীত
+অভিযোগের মাসিক বিবরণী বাংলাদেশ ব্যাংকের ইডিডব্লিউ (EDW) ওয়েব পোর্টাল এ প্রদত্ত সংশোধিত দু'টি আরআইটি (RIT)
+এর মাধ্যমে প্রেরণ করতে হবে | টেমপ্লেটদ্বয়ের নমুনা সংযোজনী-১ এ এবং পুরণের নির্দেশাবলী (User Manual) সংযোজনী-২
+এ দেয়া হলো।
+
+অনুগ্রহপূর্বক প্রাপ্তিস্বীকার করবেন।
+
+আপনাদের বিশ্বস্ত,
+
+(মোহাম্মদ মামুনুল হক)
+
+উপ মহাব্যবস্থাপক
+ফোনঃ ৯৫৩০৩০৪
+
+--- Page 2 ---
+ms‡hvRbx-1
+T_PS_M_CMPLNTS
+DATE
+FI
+ID
+FI
+BRANCH
+ID
+COMPLAINT
+Ref
+COMPLAINT
+DATE
+NAME OF
+COMPLAINANT
+COMPLAINANT'S
+PHONE/MOBILE
+NO.
+NATURE OF
+COMPLAINT
+SUBJECT
+MATTER OF
+COMPLAINT
+AMOUNT
+INVOLVED
+ACTION
+TAKEN
+DATE OF
+RESOLUTI
+ON
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T_PS_M_CMPLNTS_RESOLVED
+DATE
+FIRST
+REPORTING
+DATE
+FI
+ID
+FI
+BRANCH
+ID
+COMPLAINT
+Ref
+COMPLAINT
+DATE
+NAME OF
+COMPLAINANT
+COPMLAINANT'S
+PHONE/MOBILE
+NO.
+NATURE OF
+COMPLAINT
+SUBJECT
+MATTER OF
+COMPLAINT
+AMOUNT
+INVOLVED
+ACTION
+TAKEN
+DATE OF
+RESOLUTION
+
+--- Page 3 ---
+ms‡hvRbx-2
+
+
+USER MANUAL FOR T_PS_M_CMPLNTS
+And
+T_PS_M_CMPLNTS_RESOLVED
+
+
+Part of the computerization initiative of Bangladesh Bank is the implementation of an
+Enterprise Data Warehouse (EDW) in order to automate submission of information,
+standardize definitions used throughout the bank and reduce redundancies in information
+submission.
+
+The T_PS_M_CMPLNTS is based on the existing template which was used by the then
+Foreign Exchange Inspection Vigilance Department (FEIVD):
+ FEIVD-3: Statement of Complaints Received by Banks
+
+Which things are newly introduced on T_PS_M_CMPLNTS?
+
+ Old name has been changed.
+
+ Two RITs are introduced instead of one
+
+1. T_PS_M_CMPLNTS.xlsm
+
+2. T_PS_M_CMPLNTS_RESOLVED.xlsm
+
+ Two columns are added:
+
+1. COMPLAINANT'S PHONE/MOBILE NO.
+
+2. ACTION TAKEN
+
+
+
+1. T_PS_M_CMPLNTS.xlsm
+
+ Banks/NBFIs need to submit this monthly template whether they have received any
+complain or not.
+
+ Banks/NBFIs will submit data through this template when complain has been initiated
+within the reporting month whether it is resolved or not.
+
+
+Example: Reporting Month: 30/04/2015(April), Complain Date: 10/04/2015 and date of
+resolution is: 25/04/2015 or date of resolution is nil (if the complaint is not resolved), then they
+will submit report through this RIT.
+
+In Case of Nil Statement:
+
+For nil statement, Banks/NBFI will fill only three fields as given below and keep other fields
+blank.
+
+DATE: Last date of the month.
+
+FI NAME: Select the name of BANK/NBFI from the drop down list.
+
+COMPLAINT Ref: nil [Bank/NBFI need to type nil in this field in case of nil statement]
+
+In case of FI which has no branch ID:
+
+In case of FI which has no branch id, they just have to keep FI BRANCH ID field blank.
+
+--- Page 4 ---
+2. T_PS_M_CMPLNTS_RESOLVED.xlsm
+
+
+When T_PS_M_CMPLNTS_RESOLVED.xlsm RIT need to be submitted?
+
+When complaints were initiated and reported in earlier month but resolved in the current
+reporting month, then this template needs to be submitted with the regular template.
+
+i.e. T_PS_M_CMPLNTS_RESOLVED + T_PS_M_CMPLNTS
+
+In this case T_PS_M_CMPLNTS will be used for the current month’s complaints and
+T_PS_M_CMPLNTS_RESOLVED will be used only for those complaints which are resolved
+in this month but complained/reported previously.
+
+
+
+
+
+
+A screen shot of the new Input template T_PS_M_CMPLNTS and
+T_PS_M_CMPLNTS_RESOLVED can be found below
+
+
+
+
+
+
+
+
+
+
+Fig : Screen shot of T_PS_M_CMPLNTS.xlsm
+
+
+
+
+
+
+Fig: Screen shot of T_PS_M_CMPLNTS_RESOLVED.xlsm
+
+
+BODY/RECORDS
+COLUMN NAMES
+HEADER
+Convert to csv
+button
+
+--- Page 5 ---
+1. Template Fields Description for T_PS_M _CMPLNTS
+
+Template Field
+M/O
+Data Type
+Validation Rules
+DATE
+DATE
+Should be in the format ‘DD-MON-YYYY’ and should
+be the last date of the month.
+FI NAME
+NUMBER
+Select from available drop down list
+
+FI BRANCH ID (4 digit
+SBS Code)
+NUMBER
+Enter valid sbs code of the corresponding branch of FI.
+For FI which has no branch id, then it should be blank.
+
+COMPLAINT Ref.
+
+TEXT
+Enter Complaint reference Number. For nil statement it
+should be nil.
+COMPLAINT DATE
+
+DATE
+Enter date of the complain, Should be in the format
+‘DD-MON-YYYY’
+
+NAME of the
+COMPLAINANT
+
+TEXT
+Enter name of the complainant, must not exceed 40
+characters.
+COMPLAINANT'S
+PHONE/MOBILE NO.
+
+TEXT
+Enter valid phone/mobile no of complainant
+NATURE of the
+COMPLAINT
+NUMBER
+Select from available drop down list
+SUBJECT MATTER OF
+the COMPLAINT
+
+TEXT
+Write the subject matter of the complaint. This text
+must not exceed 200 characters.
+AMOUNT INVOLVED
+
+NUM
+Enter the amount of money involved. If no Monetary
+complaint Enter Zero(0). Amount must be in BDT(Not
+in lakh or crore).In case of other currencies, convert the
+amount to equivalent BDT.
+
+ACTION TAKEN
+TEXT
+Describe in brief what action is taken to this complain.
+This text must not exceed 200 characters.
+
+DATE OF
+RESOLOUTION
+DATE
+Enter the date of resolution of the complain, Should be
+in the format ‘DD-MON-YYYY’
+
+--- Page 6 ---
+2. Template Fields description for T_PS_M _CMPLNTS_RESOLVED
+
+Template Field
+M/O
+Data Type
+Validation Rules
+DATE
+DATE
+Should be in the format ‘DD-MON-YYYY’ and should
+be the last date of the reporting month.
+
+FIRST REPORTING
+DATE
+DATE
+The first reporting date is when this complaint was
+reported in any earlier month. Should be in the format
+‘DD-MON-YYYY’.
+
+FI NAME
+NUMBER
+Everything should be same as previously reported.
+
+FI BRANCH ID (4 digit
+SBS Code)
+NUMBER
+Everything should be same as previously reported.
+COMPLAINT Ref.
+
+TEXT
+Everything should be same as previously reported.
+COMPLAINT DATE
+
+DATE
+Everything should be same as previously reported.
+NAME of the
+COMPLAINANT
+
+TEXT
+Everything should be same as previously reported.
+COMPLAINANT'S
+PHONE/MOBILE NO.
+
+TEXT
+Everything should be same as previously reported.
+NATURE of the
+COMPLAINT
+NUMBER
+Everything should be same as previously reported.
+SUBJECT MATTER OF
+the COMPLAINT
+
+TEXT
+Everything should be same as previously reported.
+AMOUNT INVOLVED
+
+NUM
+Everything should be same as previously reported.
+ACTION TAKEN
+TEXT
+Describe in brief what action is taken to this complain.
+This text must not exceed 200 characters without any
+ENTER.
+
+DATE OF
+RESOLUTION
+DATE
+Enter the date of resolution of the complaint. Should be
+in the format ‘DD-MON-YYYY’.
+
+
+
+
+
+
+
+Definition of Terms
+
+1. Template Field – Column name in the input template
+
+2. M/O – M: Mandatory field, O: Optional Field; indicates if field
+information is required or not to be filled up in the template
+
+
+
+
+Note: If a complaint is not resolved within the current reporting month, then it is required two
+times to report about the complaint, first time when it is complained and second time when it is
+resolved. First one is done by using template T_PS_M_CMPLNTS.xlsm and second one is
+done by the template T_PS_M_CMPLNTS_RESOLVED.xlsm
+
+--- Page 7 ---
+Reminders
+
+ Information should be entered on a PER ROW Perspective.
+ All Values (Amounts, Quantity, etc) should be in ACTUAL
+figures and NOT rounded off values.
+ Each Record MUST have a DATE Value. NO
+DATE=INVALID RECORD. This record will not be accepted
+and processed by the system.
+ When file has been checked to be complete and accurate,
+click on the Convert to CSV button in the body of the
+worksheet to generate the corresponding .csv file.
+ ONLY files in .csv format will be accepted by the Portal.
+Other file formats such as .xlsm , .xls will NOT be accepted
+by the system.
+ Refer to the Quick Reference Guide (QRG) for Templates
+and Portal for more information on use of the templates and
+portal and how to go about requesting for changes.

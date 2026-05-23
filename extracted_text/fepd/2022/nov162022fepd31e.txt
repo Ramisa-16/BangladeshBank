@@ -1,0 +1,84 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+
+FE Circular No. 31 Date: November 16, 2022
+
+All Authorized Dealers in Foreign Exchange and all
+licensed Mobile Financial Service Providers in Bangladesh
+
+Dear Sirs,
+
+Encashment certificate against inward remittances on account of
+Information Technology Enabled Services (ITES) exports
+
+Please refer to FE Circular No. 06 of February 10, 2021 in terms of which Mobile
+Financial Service Providers (MFSPs) are allowed to repatriate export proceeds on account of
+ITES exports in association with internationally recognized OPGSPs/digital wallets and/or
+aggregators having operation in multiple countries. The transactions are routed through
+settlement accounts maintained in Taka with designated Authorized Dealers (ADs) by MFSPs.
+02. It has been decided that ADs maintaining settlement accounts may issue
+encashment certificates in support of remittances on request from MFSPs electronically. In this
+case, the request needs to be supported by auto generated information – beneficiary’s name,
+wallet account number, amount in Taka, date of credit - from remittance service provider
+abroad. Based on their own screening parameters regarding the information, designated ADs
+shall generate electronic encashment certificate (as per enclosure A) with QR code accessible
+to beneficiaries through MFSPs. The above mentioned certificate is intended to be used for
+Income Tax purpose only.
+Please inform the above contents to relevant MFSPs and relevant customers.
+
+
+
+Yours faithfully,
+
+(Md. Sarwar Hossain)
+Director (FEPD)
+Phone: 9530123
+
+Encl. As stated above
+
+--- Page 2 ---
+Enclosure A
+
+Serial No..............
+
+
+
+
+
+Date of issue: ………………
+
+
+CERTIFICATE OF AUTHORIZSED DEALER
+
+This is to certify that we have received inward remittance in the settlement accounts
+maintained by ………………. (Name and address of MFSP). Of the inward remittance,
+transactional summary in favor of ………………………. (beneficiary’s name and address)
+having wallet/MFS Account No…………… is as follows:
+
+(a) Remittance service
+Provider ..........................................
+(b) Address.....................................................
+
+(c) Amount in FC..................................
+(d) Date of credit in settlement
+account.......................................................
+(e) Equivalent Taka ..............................
+(f) Delivery/rendering of ……………....…….
+(name of service)
+
+(g) Reporting statement/schedule to BB
+with month......................................
+(h) Reference of online reporting to
+BB…………………………...................…
+
+
+
+
+Date of issue:
+
+Name of Bank
+QR Code

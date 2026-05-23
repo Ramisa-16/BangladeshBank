@@ -1,0 +1,3285 @@
+--- Page 1 ---
+Bangladesh Bank
+
+Head Office Financial Sector Support and -
+Dhaka Strategic Planning Department
+
+www.bb.org.bd
+
+FSSSPD Circular No. 01 Date: 16 July, 2023
+
+Managing Director/Chief Executive Officer
+All scheduled banks in Bangladesh
+
+Dear Sir,
+
+Bangladesh Bank - Long Term Financing Facility (BB-LTFF)
+
+Based on the success of recently completed Long Term Financing Facility (LTFF) program
+under Financial Sector Support Project (FSSP), Bangladesh Bank (BB) now decides to continue
+providing long term financing support to private sector firms, mainly the export oriented
+manufacturing industries of the country. The aim of this program is to generate employment,
+promote growth of the industrial sector fostering real output of the economy with a view to
+adopting sustainable means of digital transformation of the Fourth Industrial Revolution (41) in
+Bangladesh.
+
+02. Name of this financing facility would be Bangladesh Bank - Long Term Financing
+Facility (BB-LTFF) and will be offered in US Dollars (USD) to the Authorized Dealers (ADs) of
+Foreign Exchange in Bangladesh for on-lending/refinancing to the exporters, enterprises and other
+private sector firms in the country. Loans disbursed by the banks to their clients on or after
+01 January, 2021 will be eligible for refinancing.
+
+03. To this effect, this financing would be provided to the eligible banks, namely the
+Participating Financial Institutions (PFls), for on-lending/refinancing to the eligible firms.
+
+04. The Operating Guidelines (OG) governing the operation, implementation procedures of
+the fund and eligibility criteria of the PFls is attached herewith.
+
+05. Interested banks may apply to Financial Sector Support and Strategic Planning
+Department (FSSSPD) for participating in this financing facility.
+
+Please bring the contents of this circular to the notice of all your concerned constituents.
+
+Y faithfully,
+Enclosure: As stated above. ours আত)
+
+(Liza Fahmida)
+Director (FSSSPD)
+Phone: 9530153
+
+--- Page 2 ---
+Bangladesh Bank - Long Term Financing Facility
+
+
+
+
+Operating Guidelines
+BB-LTFF
+
+
+
+
+
+July 2023
+
+--- Page 3 ---
+Abbreviations
+
+A&BD
+
+Accounts and Budgeting Department
+AD
+
+Authorized Dealer
+AML/CFT
+Anti-Money Laundering/Combating the Financing of Terrorism
+
+BB
+
+Bangladesh Bank
+BB-LTFF
+Bangladesh Bank - Long Term Financing Facility
+BDT
+
+Bangladeshi Taka
+BMRE
+
+Balancing, Modernization, Rehabilitation and Expansion
+DoE
+
+Department of Environment
+CAMELS
+Capital adequacy, Asset quality, Management, Earnings, Liquidity and Sensitivity
+CIB
+
+Credit Information Bureau
+CIPC
+
+Customer Interest Protection Center
+CRR
+
+Cash Reserve Ratio
+E&S
+
+Environmental and Social
+ESCMR
+Environmental and Social Compliance Management Report
+ESIA
+
+Environmental and Social Impact Assessment
+ESRM
+
+Environmental and Social Risk Management
+FC
+
+Foreign Currency
+FEPD
+
+Foreign Exchange Policy Department
+FRTMD
+Forex Reserve & Treasury Management Department
+FSSP
+
+Financial Sector Support Project
+FSSSPD
+Financial Sector Support and Strategic Planning Department
+GVCs
+
+Global Value Chains
+GFET
+
+Guidelines for Foreign Exchange Transactions
+IAD
+
+Internal Audit Department
+IU
+
+Implementation Unit
+LC
+
+Letter of Credit
+MIS
+
+Management Information Systems
+NPL
+
+Non-performing Loan
+OG
+
+Operating Guidelines
+PA
+
+Participating Agreement
+PFIs
+
+Participating Financial Institutions
+SLR
+
+Statutory Liquidity Ratio
+
+SOFR
+
+Secured Overnight Financing Rate
+USD
+
+United States Dollar
+WB
+
+World Bank
+4IR
+
+Fourth Industrial Revolution
+Definitions
+
+Projects
+Projects means projects financed under BB-LTFF.
+
+--- Page 4 ---
+Bangladesh Bank - Long Term Financing Facility (BB-LTFF)
+
+Operating Guidelines
+
+Table of Contents
+
+1. Introduction: ......................................................................................................................... 2
+2. Objectives: ............................................................................................................................ 2
+3. Roles and Responsibilities of the Implementing Department: ................................................. 3
+4. Responsibilities of the Other Related Departments: ............................................................... 3
+5. Eligibility Criteria for Participating Financial Institutions (PFIs): .............................................. 4
+6. Selection and suspension/termination of PFIs: ....................................................................... 4
+7. Responsibilities of PFIs: .......................................................................................................... 5
+8. Eligible Projects and Borrowers: ............................................................................................. 6
+9. Process for Approval of Financing Proposals/Facility: ............................................................. 7
+10. Pricing and other Financing/Refinancing Terms: ................................................................... 8
+11. Disbursement and Repayment: ............................................................................................ 9
+12. Safeguard Arrangements: .................................................................................................. 10
+13. Procurement Arrangements: .............................................................................................. 10
+14. Monitoring and Evaluation: ............................................................................................... 11
+15. Financial Management: ...................................................................................................... 11
+16. Audit and Grievance: ......................................................................................................... 12
+17. Default Events and Remedies: ........................................................................................... 12
+18. Indemnifications: ............................................................................................................... 13
+
+--- Page 5 ---
+Bangladesh Bank - Long Term Financing Facility (BB-LTFF)
+Operating Guidelines
+
+1. Introduction:
+Bangladesh is on pace to fulfill its aspirations to become an upper middle income country by 2031.
+Strong macroeconomic fundamentals, economic liberalization, trade integration and large inflows of
+remittances have underpinned resilience and growth in Bangladesh. However, even a decade earlier,
+widespread opportunity for medium and longer term financing was inadequate in the country which is
+still prevalent. Financing of businesses for shorter than actually needed tenors is creating required
+funding mismatch for which the banking sector is experiencing lack of adequate methods and
+instruments to mitigate such long term funding gap in both local and foreign currency. For these
+reasons, the manufacturing concerns are always eager to explore opportunities for getting soft loan
+facilities with longer tenure from all sources available.
+The recently completed Long Term Financing Facility (LTFF) program under Financial Sector Support
+Project (FSSP) helped to bridge much of these gaps by allowing access to long term financing in foreign
+currency for the capital intensive manufacturing firms in Bangladesh while generating employment
+and growth and fostering real output of the economy through inclusive socially responsible banking
+ethos and Environmental and Social (E&S) compliances. The success and popularity of the LTFF proves
+that, there exists a huge demand in the market for a sustainable longer term credit facility.
+Based on the success of recently completed LTFF under the FSSP, Bangladesh Bank (BB) now decides
+to continue providing long term financing for private sector firms, mainly the export oriented
+manufacturing (small, medium and large) firms so that they can adopt to sustainable means of digital
+transformation of the Fourth Industrial Revolution (4IR) and thus augment their competitive
+advantage in the Global Value Chains (GVCs). This financing will be offered in US Dollars (USD) and
+provided through the eligible banks, namely the Participating Financial Institutions (PFIs), authorized
+by BB to deal in foreign exchange for on lending/refinancing to the private sector firms. Name of this
+financing facility would be Bangladesh Bank - Long Term Financing Facility (BB-LTFF). This Operating
+Guidelines (OG) delineates the procedures and other relevant issues for effective implementation of
+this financing facility. BB may amend/revise the manual from time to time.
+2. Objectives:
+The main objectives of this facility are to:
+ Provide long term financing in foreign currency for private sector firms (expected to be mainly
+export oriented manufacturing units) with a view to contributing to national economy with
+increased outputs, job creation and economic growth of the country.
+
+ Provide foreign currency soft loan (lower interest rate with long tenure) to the exporters,
+enterprises and other private sector firms (small, medium and large scale as per relevant BB
+Circulars) in the country to optimally prepare them to face the toughest challenges of the 4IR
+paradigm by contributing to firms’ enhanced competitiveness and likelihood of grabbing
+emerging business opportunities.
+
+ Purchase of ocean-going vessels and specialized transport vehicles supporting transportation of
+goods manufactured in the country.
+
+Sensitize and establish sustainable growth approach with E&S compliances in businesses.
+
+--- Page 6 ---
+3. Roles and Responsibilities of the Implementing Department:
+The Financial Sector Support and Strategic Planning Department (FSSSPD) of BB will be responsible for
+both overseeing and managing the operations of the BB-LTFF fund. Responsibility of this department
+will be as follows:
+ Formulate necessary policy circulars and review the OG of BB-LTFF as per requirement.
+ Identify and select eligible PFIs following the criteria delineated in this OG, and sign separate
+Participating Agreement (PA) with the selected PFIs.
+ Monitor and track the PFIs’ compliance with the eligibility criteria on an on-going basis as
+described in section 5 of this OG.
+ Receive and process applications for facility from PFIs.
+ Oversee the approval of facility and process the disbursement and repayment of funds with
+Forex Reserve & Treasury Management Department (FRTMD) according to the policy guidelines
+and this OG.
+ Post review the loan utilization and disbursement process to ensure that the loans are provided
+to the target group, and proper procurement process and safeguard procedures are followed.
+ Maintain all approval and disbursement records and the accounts of each PFI, preserve
+supporting approval and disbursement documents, and maintaining bank accounts information
+relating to disbursement and repayment.
+ Conduct regular off-site and on-site supervision at the PFIs and the ultimate borrower entities in
+order to ensure the effective utilization of the facility.
+ Review applicable interest rate and other terms and conditions time to time as per requirement.
+ Collect the required progress reports from the PFIs on periodical basis.
+ Perform ongoing review of E&S safeguards reports following regulatory guidelines.
+ Ensure PFIs’ compliance with the facility’s safeguards and fiduciary framework.
+ Provide technical assistance for capacity building with respect to credit appraisal and risk
+management, E&S Management compliance, etc.
+ Arrange relevant workshops, seminars training programs and regular official meetings to
+disseminate information on different aspects of the facility (standard procurement procedure,
+business, risk management, etc.) and on E&S safeguards compliance issues as per requirement.
+ Coordinate relevant support to the PFIs and the borrowers as the need arises from time to time.
+4. Responsibilities of the Other Related Departments:
+ Accounts and Budgeting Department (A&BD) will prepare and maintain the accounting
+procedure of the total fund under the facility.
+ FRTMD will follow A&BD accounting guidelines and the instructions given to them by FSSSPD for
+preparing, posting and authorizing all transaction vouchers of BB-LTFF disbursement and
+recovery by crediting/debiting to and from the FC clearing accounts of the PFIs with BB and
+intimate it to FSSSPD upon completion.
+
+--- Page 7 ---
+5. Eligibility Criteria for Participating Financial Institutions (PFIs):
+The PFIs will be required to meet the eligibility criteria for participating in the facility and maintain the
+required standard level of operation for continuation of participation thereafter. In order to become
+eligible to participate in the fund, the financial institutions must meet the following criteria:
+The PFIs must hold a valid license from BB to operate as banks which are authorized by BB to
+deal in foreign exchange and must have a sound track record of providing long term lending;
+The PFIs must have minimum 3 (three) years’ experience of business operation in banking
+with audited records and unqualified opinion with no significant unresolved observations for
+at least 3 (three) consecutive years;
+The PFIs must have qualified and experienced management, adequate organization and
+institutional capacity. They must have appropriate procedures, technologies, practices and
+staff to (i) carry out the facility, including preparation of the documents for long term lending
+and payout, sound credit underwriting and risks management procedures and practices
+(including financing mechanism and borrower’s appraisal, cash flow and financial analysis and
+forecast, collateral assessment and enforcement), (ii) follow BB’s framework on
+Environmental and Social Risk Management (ESRM) for screening and assessment of E&S
+risks and respective reporting, (iii) prepare other financing documents as envisioned by this
+OG, (iv) provide timely and accurate reporting of the financing facility, (v) ensure data access
+and effective monitoring, management and reporting of risks in the BB-LTFF covered
+portfolio;
+The PFIs must have adequate and functional internal audits and controls. They must have
+well defined credit/loan policies, procedures and sound practices in the area of corporate
+governance, credit underwriting, risk management, AML/CTF procedures and practices,
+reporting and disclosure in line with the best practices and BB guidelines;
+The PFIs must have a minimum rating of 3 (three) or better CAMELS Ratings determined by
+BB;
+The PFIs must have an acceptable level of non-performing loan (NPL) of no more than 8%
+(eight percent);
+The PFIs must meet the minimum level of regulatory capital adequacy requirement as
+instructed by BB;
+Problem banks or banks with large financial scams or those with an observer or coordinator
+placed by BB will become ineligible for participation in the facility.
+6. Selection and suspension/termination of PFIs:
+FSSSPD will have the responsibility for selecting the PFIs. Separate Participating Agreement
+(PA) will be signed between BB and the selected PFIs. The format of the PA between BB and
+the PFIs is attached in Annexure – XI. Once the PA is signed, the PFIs can start sending the
+applications to Director (FSSSPD) for financing. Periodic review of compliance to the eligibility
+standards will be made for continuation of participation status.
+After signing PA with BB to participate in this facility, the PFI must continue to satisfy the
+eligibility criteria mentioned in section 5 of this OG.
+
+--- Page 8 ---
+If the PFI is non-compliant with any of the eligibility criterion, FSSSPD will promptly notify it
+regarding the specific eligibility criteria with which it is non-compliant and seek appropriate
+response from that PFI to remedy that non-compliance within an agreed upon time period.
+If the PFI fails to maintain its eligibility status under the facility, FSSSPD will have the right to
+suspend all further facilities to that PFI under BB-LTFF from the date of such failure or a date
+decided by FSSSPD.
+FSSSPD may re-establish the eligibility status of the PFI upon demonstrated compliance of it
+that the specific eligibility deviations have been removed, mitigated or no longer exist.
+FSSSPD may also suspend or terminate the right of the PFI to use the financing made
+available to it for onward lending or declare it due and payable upon its failure to perform
+any of its obligations under this OG or the PA that it signs with BB for the facility.
+7. Responsibilities of PFIs:
+ Will bear all risks associated with the financing.
+ Must maintain qualified management staff in adequate numbers as required for the purposes
+of this facility and its safeguards compliance requirements and provide, promptly as needed,
+the funds, facilities, services and other resources required for such purposes.
+ Must maintain due diligence in selecting borrowers and conduct standard project appraisal
+process, subject to adherence to all applicable credit norms, prudential parameters and the
+respective PFIs credit policy.
+ Must follow proper KYC process before selecting borrowers.
+ Must conduct appropriate credit appraisal process in selecting borrowers.
+ Must ensure compliance with BB’s ESRM guideline for banks and Financial Institutions in
+Bangladesh, 2022 and subsequent amendments.
+ Will monitor implementation of the E&S measures agreed by the firms as per rules, regulations
+and standard of DoE and other departments/agencies of the government.
+ Proper loan agreement to be framed in order to perfect the claim against borrowers’ assets
+and future income.
+ Must ensure that commercial best practices acceptable to BB and other regulatory authorities
+of the country have been followed by the borrower in procuring the goods, services or works.
+ Must obtain credit report on suppliers of goods/works/services from renowned credit agencies
+according to the Guidelines for Foreign Exchange Transactions (GFET) along with subsequent
+amendments issued by BB.
+ Must observe instructions detailed in the GFET and subsequent amendments while effecting
+payments abroad.
+ Must ensure the proper utilization of the fund for the intended purpose.
+ Must ensure that its borrower’s exposure remains within the single borrower exposure limit
+while disbursing fund to them from this facility.
+
+ Must ensure that loan defaulters in banking system/defaulters in realization of export proceeds
+do not get access to the financing from this fund.
+ Must not assign, amend, abrogate or waive any of its agreements providing for a loan under
+this facility, or any provision thereof, without the prior consent of FSSSPD.
+
+--- Page 9 ---
+ The PFI must sensitize and safeguard the borrowers regarding possibilities of any future foreign
+currency exchange rate fluctuation risks that they might find themselves by availing fund in
+USD through the facility.
+ Will not apply for fund from the facility for complex applications such as the applications
+involving loan takeovers by a PFI from another PFI/bank/NBFI.
+ Will coordinate with BB in off-site and on-site quality check of such financing to ensure the
+proper utilization of the BB-LTFF credit disbursed favoring its clients before and after the loan
+sanction.
+ Will submit borrower’s performance report to FSSSPD on periodic basis.
+ Will not disburse this facility to the enterprises owned by their Board Members.
+ Will provide relevant statements and reports to FSSSPD on their loan portfolio and on key
+financial and performance indicators, and also on E&S related compliance issues on agreed
+formats on periodic basis.
+ Ensure compliance of all regulatory and supervisory requirements, rules and guidelines of BB
+regarding the credit operation in Bangladesh.
+ Must ensure full compliance of this OG of BB-LTFF.
+8. Eligible Projects and Borrowers:
+Refinancing from the fund against loans disbursed before 01 January, 2021 will not be permissible.
+a) Amount of Fund for an Individual Borrower:
+An individual borrower can apply for BB-LTFF for any amount not exceeding a maximum
+threshold limit of USD 5 million through a single PFI and for any amount not exceeding a
+maximum threshold limit of USD 10 million under syndicated financing through two or more
+PFIs.
+
+b) Eligible Activities for Utilization of Fund:
+This facility will be available for both on-lending and refinancing as well as will extend financing
+towards the following areas:
+o Purchase of capital machineries, equipments and the expenses related to their installation
+services for up-gradation (including improvement in health and safety compliance),
+expansion or for newly set up manufacturing industries.
+o Expenses related to construction, refurbishment and ancillary cost for relocation or
+expansion of existing factories or setting up of new manufacturing factories. The loan
+applications must not comprise more than 40% under this area of the total financing being
+sought under BB-LTFF.
+o Relocation of factories to designated industrial zones (other than EPZs/specialized zones);
+however financing will not be provided to any loans that result in direct economic and/or
+social/environmental impacts through (i) land acquisition, (ii) involuntary resettlement, (iii)
+impact on indigenous people, (iv) loss of income sources or means of livelihood, etc.
+o Purchase of ocean-going vessels and specialized transport vehicles supporting
+transportation of goods manufactured in the country.
+
+--- Page 10 ---
+c) Eligible Ultimate Borrowers:
+The financing will be available for exporters, small, medium and large scale manufacturing
+enterprises and other private sector firms (expected to be mainly manufacturing units) in the
+country. Any private sector firm eligible to borrow in local and/or foreign currency from
+banking system as per BB regulations will be eligible to avail this facility.
+d) Responsibilities of Eligible Ultimate Borrowers:
+ Must carry out the project financed out of the proceeds of BB-LTFF with due diligence and
+efficiency and in accordance with sound technical, economical, financial, managerial,
+environmental and social standards and practices, including those set forth in this OG and
+other regulatory guidelines of BB and all other regulatory Environmental, Health and Safety
+Guidelines and the Anti-Corruption Guidelines.
+ Must maintain full compliance of all E&S requirements mentioned in its Environmental and
+Social Compliance Management Report (ESCMR) submitted to its designated PFI(s) and FSSSPD
+in future operation of its industry.
+ Must follow policies and procedures of the BB-LTFF loan in accordance with this OG and the
+sanction advice provided by FSSSPD in favor of it.
+ Must organize all such information as sought from it by BB of any of its relevant records and
+documents in connection to its availed loan under BB-LTTF and provide those to FSSSPD,
+through its designated PFI(s).
+ Must assist BB inspection teams at the time of on-site factory visit.
+9. Process for Approval of Financing Proposals/Facility:
+a) Financing facility will be provided for the purposes mentioned in Section 8.
+b) A firm will approach any selected PFIs for financing under the facility.
+c) The PFIs will conduct due diligence on the project proposed by the firm.
+d) PFIs will be responsible for reviewing individual project for eligibility under the facility against
+eligibility criteria, including the list of Ineligible Activities as mentioned in Annexure – VI and
+against the financing of projects associated with the list of Environmentally and Socially
+Sensitive Activities as mentioned in Annexure – VII of this OG.
+e) Following the standard loan appraisal procedure, a PFI will take decision to finance a borrower
+through BB-LTFF program.
+f) After necessary approval at their end, PFIs will send the loan applications to the Director
+(FSSSPD) of BB along with specified Loan Application Summary Sheet (Annexure – II) after
+furnishing it in line with the documents specified by the Primary Observation Checklist for BB-
+LTFF (Annexure – III).
+g) FSSSPD will scrutinize the financial and E&S compliance documents and if found compliant
+consider them eligible for processing or return the same if found non-compliant.
+
+--- Page 11 ---
+h) Loan application of individual cases of BB-LTFF would be approved by the Deputy Governor of
+BB. Terms and conditions related to approval of BB-LTFF would be well written in the sanction
+letter.
+i) Syndication amongst the eligible PFIs will be permitted. If participatory PFIs of syndication do
+not have the same qualification criteria, the interest rate applicable to the lowest rated partner
+bank will be the effective rate on the entire loan (applicable to the other syndication partners).
+The Lead PFI will be the focal point for the operation of financing facility. However, all the PFIs
+will be responsible for credit administration and recovery from the borrower.
+Flow chart of the loan approval process is attached in Annexure – I.
+10. Pricing and other Financing/Refinancing Terms:
+The financing facility would be on-lent on market terms, without creating market distortion. The on-
+lending/refinance rate would cover the cost of funds, operating costs, and other risks and will be
+competitive with market rates. Pricing of the financing will be determined according to market
+principles and will vary according to risks and tenor.
+a) Maturity and Grace Period: The maturity of the loans will be from 3 to 10 years including grace
+period. The grace period for the loans will have to be determined by the PFIs based on the
+projected timing of the cash inflows of individual projects. However, the grace period will not be
+more than 1 (one) year.
+b) Pricing:
+i) Indicative Pricing Matrix applicable to PFIs:
+The pricing of this loan will be variable in terms of spread as per the decision of BB. An indicative
+pricing range of 180 - Day Average SOFR + 0.25 to 1.25 percent would be applicable to the PFIs until
+further notice according to the following matrix:
+
+Tenor
+PFIs
+Up to 5 Years
+Up to 7 Years
+Up to 10 Years
+Banks having CAMELS Rating of 1 (One)
+SOFR + 0.25%
+SOFR + 0.50%
+SOFR + 0.75%
+Banks having CAMELS Rating of 2 (Two)
+SOFR + 0.50%
+SOFR + 0.75%
+SOFR + 1.00%
+Banks having CAMELS Rating of 3 (Three)
+SOFR + 0.75%
+SOFR + 1.00%
+SOFR + 1.25%
+
+These interest rates can be revised by BB depending on market conditions and any such revisions
+would be made public through issuance of required FSSSPD Circular Letters in future.
+ii) Rate from PFIs to Borrowers:
+The PFIs will determine their own loan interest rates to the borrowers considering their cost of
+borrowing and operational expenses, plus a reasonable risk-adjusted spread and profit margin to be in
+the range of 1.00% ~ 2.00% above the cost of funds.
+c) The fund disbursed to the PFIs will be treated as inter-bank borrowing.
+
+--- Page 12 ---
+11. Disbursement and Repayment:
+a) After sanction, the PFIs will require submitting a Promissory Note (Schedule - 1 of Annexure –
+XI) along with the application for loans/refinance. This Promissory Note will be considered as
+collateral of such loans.
+
+b) The PFIs will also require submitting a Debit Authority (Annexure – XII) or security encashment
+authority to BB for realizing the due installments.
+
+c) The PFIs will need to apply separately to get the fund disbursed against approved BB-LTFF in
+favor of their client(s) as per their requirement/phase by phase with proper documentation.
+
+d) Loan disbursement application will be approved by the Director (FSSSPD). With the request of
+FSSSPD, FRTMD will disburse the fund to the respective banks’ FC clearing account.
+
+e) In case of refinance, the PFIs will have to send fund disbursement requests for the outstanding
+amount of loan remaining at PFI’s end under BB-LTFF to FSSSPD rather than the initial amount
+of the approved loan favoring their client. After processing these disbursement requests,
+FSSSPD will request FRTMD to disburse that outstanding amount of the sanctioned loan to the
+respective banks’ FC clearing account.
+
+f) If the disbursed loans to the PFIs are not used, taken or if it is returned to the PFIs by the
+borrowers after disbursement made by BB, the PFIs then must notify FSSSPD regarding it
+within 15 days from the date of receiving that fund in their account.
+
+g) The repayment of the loan will start after a certain grace period (if any) and to be repaid on
+quarterly (calendar) installments. The grace period will be determined by the PFIs based on the
+projected timing of the cash inflows of individual projects. However, the grace period will not
+be more than 1 (one) year.
+
+h) Interest accrued during the grace period would be repaid in Equal Quarterly Installments (EQI)
+without compounding as per the tentative Amortization Schedule attached in Annexure – VIII.
+
+i) FSSSPD will provide amortization schedule(s) to the PFIs for the loan repayment and
+accordingly the PFIs will generate amortization schedule for their BB-LTFF client(s) after adding
+their spread by following the specific method given in Annexure – VIII of this manual. In case of
+multiple installments of disbursements, this amortization schedule will be revised to reflect the
+actual disbursement.
+
+j) The due installments will be recovered from the PFIs’ F/C account maintained with BB as per
+the amortization schedule by FRTMD against the request of FSSSPD.
+
+k) If adequate fund is not available in the PFIs’ F/C Account to recover the due installment, the
+equivalent BDT (at BB Selling Rate on that date) will be debited from the respective PFIs’
+current account maintained with BB. In case of unavailability of funds in both accounts BB will
+charge a penal interest on such dues at a rate of 2% above the repo rate and will become
+payable on demand. BB will have the right to set off such overdue installment(s) from any of
+the PFIs’ assets held with BB in its security depository.
+
+--- Page 13 ---
+10
+
+12. Safeguard Arrangements:
+a) Environmental and Social Risk Management:
+The financing facility would be provided with a view to facilitating the development of economies and
+to promote socially and environmentally sustainable development outcomes. The PFIs will be
+responsible to ensure their borrowers to identify and mitigate the potential E&S risks associated with
+borrowers’ proposed activities.
+Capacity building of PFIs and borrowers of BB-LTFF on Safeguard Management will be an on-going
+process under FSSSPD. Capacity building programs will strive to build a strong foundation for
+knowledge on relevant E&S risks. The PFIs and the borrowers of BB-LTFF will be sensitized to the E&S
+requirements and guidelines under this facility and will be encouraged to adopt it in future business
+activities. Capacity building of the firms will be undertaken through official meetings, trainings,
+workshops, seminars, etc. as per requirement.
+The PFIs will be responsible for regular supervision and monitoring of the implementation of any social
+plans or mitigation measures under all projects. The PFIs will have to submit reports to FSSSPD on the
+implementation of such plans on half-yearly basis. Based upon the submitted reports, FSSSPD will
+perform desk review and may conduct field visit(s)/inspection(s)/audit(s) if required.
+b) Capacity Building:
+FSSSPD will oversee the capacity building initiatives under BB-LTFF mechanism. Technical assistance
+will be provided to the PFIs on the technical aspects of long term financing projects. In-depth trainings
+will be provided through workshops and seminars to relevant BB officials and to the Credit Risk
+Management and E&S safeguards compliance team of the PFIs to conduct credit appraisal and for
+assisting the loan processing process under the facility. The technical assistance will also be extend to
+the ultimate borrowers for developing their capability on E&S safeguards monitoring and mitigating
+issues and in areas such as business risk assessment, entrepreneurship, accounts management,
+inventory management, stakeholder management, procurement, etc. Expenses to arrange such
+programs will be jointly borne by BB, eligible PFIs and the borrowers (potential/existing) of BB-LTFF.
+13. Procurement Arrangements:
+The fund under this financing facility will be disbursed to PFIs for on-lending/refinance to exporters
+and enterprises. The fund will then be utilized by the borrowers for procuring goods, services and
+works. An individual borrower can avail a maximum amount of USD 5 million through a single PFI or
+for a maximum amount of USD 10 million under syndicated financing through two or more PFIs under
+BB-LTFF through its application to FSSSPD via PFI(s). Goods, services and works to be financed under
+the facility would include the following:
+Goods
+: Machinery, plant and equipment, and plant components for the purpose of
+up-gradation, expansion and setting up new industries.
+Services
+: Services related to procured machinery, plant and equipment.
+Works
+: Construction, refurbishment and ancillary cost for relocation or expansion
+of existing factories or setting up of new manufacturing factories.
+Oceangoing Shipping
+Industry
+: Purchase of ocean-going vessels and specialized transport vehicles
+supporting transportation of goods manufactured in the country.
+
+--- Page 14 ---
+11
+
+Procurement of Goods, Services and Works financed under the facility will be carried out by the
+borrowers following well established standard commercial best practices acceptable to BB. Following
+steps have to be followed in such procurement process:
+ The borrower has to take quotations from a list of potential suppliers/agents and/or
+contractors to ensure obtaining of competitive prices.
+ The borrower has to evaluate the technical specifications of goods, works and services and the
+financial proposals of the quotations. The borrower will finalize the suppliers based on its own
+prudential judgment.
+ In accordance with the present commercial practice followed for import of goods, the PFI has
+to verify the creditworthiness of the suppliers from an independent agency before opening a
+Letter of Credit (L/C) in case of importing machineries from overseas suppliers.
+ The PFIs should obtain credit reports of the foreign suppliers from their branches or
+correspondents abroad or in their discretion, satisfy themselves as to the standing of the
+suppliers by following standard books of reference issued by international credit rating
+agencies acceptable to BB as per GFET along with subsequent amendments issued by BB.
+ The goods, works and services to be financed out of the proceeds of BB-LTFF shall be procured
+in accordance with the provisions of this OG and such goods, works and services must be
+exclusively used in carrying out the activities financed out of the proceeds of this designated
+loan.
+ The borrower/PFI must have to comply with the procedures/salient features set out in the
+Import Policy Order in force and GFET along with subsequent amendments issued by BB.
+14. Monitoring and Evaluation:
+FSSSPD will monitor the operational performance as well as the E&S related outcomes from the
+utilization of fund under the facility periodically. PFIs have to submit Report on the Loans Disbursed
+under BB-LTFF (Annexure – IX) on quarterly basis and ESCMR (Annexure – X) on half yearly basis as per
+the prescribed format.
+In addition to the off-site supervision, FSSSPD will conduct onsite inspection of the PFIs and the
+borrowers (factory location) to ensure the effective end-use of the fund and to monitor the E&S
+related compliances periodically or as and when required individually or jointly with other relevant
+departments of BB.
+FSSSPD may also conduct performance assessment of this program (through interview and/or
+questionnaire survey) to identify the effectiveness, gap and course of action from time to time.
+15. Financial Management:
+a) Accounting:
+The PFIs will maintain financial management systems in accordance with their own accounting
+practices. However, PFIs should maintain separate Management Information Systems (MIS) for the use
+of funds under the facility and will be responsible for providing data on the loan disbursed from the
+BB-LTFF fund.
+
+--- Page 15 ---
+12
+
+A&BD will prepare and maintain the accounting procedure of the total fund under the facility with
+required assistance from FSSSPD and FRTMD. FSSSPD will track the records of BB-LTFF transactions to
+the PFIs from the required information provided by FRTMD and the PFIs. FRTMD will be responsible
+for transactions related to disbursement and repayment of this fund.
+b) Disbursement and Repayment:
+Having approval from the Director (FSSSPD), FSSSPD will request FRTMD to disburse the approved
+amount of fund to the respective PFIs. FRTMD will credit the PFI’s F/C Clearing account as per required
+instructions from FSSSPD.
+The repayment of the loan will start after a certain grace period (if any) and to be repaid on quarterly
+installments. It will be realized by FRTMD by debiting the PFI’s F/C Clearing account as per required
+instructions from FSSSPD.
+16. Audit and Grievance:
+FSSSPD will preserve all the documents and information related to the facility. The Internal Audit
+Department (IAD) of BB may conduct audit of this facility while conducting their periodical audit at
+FSSSPD.
+The PFIs will have to preserve all relevant procurement records and documents in accordance with the
+provisions of this OG. These records must be made readily available on request for audit, investigation
+or review by BB. The borrowers will have to submit the audited financial statements to the PFIs which
+must be preserved by the PFIs.
+FSSSPD will act as the primary resolution center of grievance made by the PFIs or ultimate borrowers.
+ED of FSSSPD will solve the grievance issues. Customer Interest Protection Center (CIPC) will also be
+available to receive and solve any kind of problem/objection related to the activities of BB-LTFF.
+17. Default Events and Remedies:
+a) Events of Default:
+Any one of the following, which occurs and continues, will constitute an ‘Event of Default’ by the PFI:
+i) Failure by the PFI to pay any amounts required to be paid hereof causes an ‘Event of Default’ to
+the agreements relating to the received facility loan;
+ii) Failure of a PFI to observe and perform any covenant, condition or agreement on its part
+required to be observed or performed by the PFI Agreement it signs with BB for participating in
+BB-LTFF, other than making the payments referred to in (i) above, which continues for a period
+of 30 days after written notice. The notice must specify such failure and request that it be
+remedied, given to the PFI by the FSSSPD, unless the department agrees in writing to an
+extension of such time. However if the failure stated in the notice cannot be corrected within
+such period, then FSSSPD will have the right to withhold their consent to an extension of such
+time if corrective action is not instituted within such period and diligently pursued until the
+default is corrected;
+iii) The filing of bankruptcy by a PFI;
+iv) Non-compliance with applicable laws and regulations governing the operation of a PFI.
+
+--- Page 16 ---
+13
+
+b) Remedies on Default:
+Upon the occurrence and continuation of an ‘Event of Default’, FSSSPD will proceed to protect and
+enforce the rights of BB in the manner it deems most expedient to the interest of itself. BB may recall
+the fund and recover the full outstanding amount from the PFIs’ account against the event of default
+as per BB’s discretion.
+c) Expenses on Default:
+In the event any PFI would default under its PFI Agreement with BB for participating under the BB-LTFF
+mechanism, for which BB requires to employ legal counsel or incur other expenses for the collection of
+the payment due under the Agreement or for the enforcement of performance or observance of any
+obligation or agreement on the part of the PFI, then the PFI must pay BB the reasonable fees of such
+legal counsel and such other expenses incurred by BB in the process.
+18. Indemnifications:
+BB preserves the right to reject any BB-LTFF loan sanction or loan disbursement applications at its own
+discretion without having to show any reasons or justifications to the PFIs or the PFIs’ clients behind its
+decision of rejection of those applications.
+BB will not be obligated to pay any liabilities of the PFIs regarding the BB-LTFF program. The PFIs must
+agree that BB is not liable and promise to protect BB and its employees from any losses, claims,
+damages, or expenses that may arise from the project financed through the BB-LTFF program.
+
+--- Page 17 ---
+14
+
+
+List of Annexure
+
+Annexure – I: Loan Approval Process -------------------------------------------------------------------------- 15
+Annexure – II: Loan Application Summary Sheet for BB-LTFF -------------------------------------------- 16
+Annexure – III: Primary Observation Checklist for BB-LTFF ----------------------------------------------- 18
+Annexure – IV: Format of List of Activities to be Funded under BB-LTFF ----------------------------- 19
+Annexure – V: General Information for Seeking Disbursement for the Approved Loans -------- 20
+Annexure – VI: List of Ineligible Activities --------------------------------------------------------------------- 21
+Annexure – VII: List of Environmentally and Socially Sensitive Activities ---------------------------- 22
+Annexure – VIII: Format of Tentative Amortization Schedule ------------------------------------------- 23
+Annexure – IX: Format of Report on Loans Disbursed under BB-LTFF ---------------------------------- 25
+Annexure – X: Format for ESCMR for BB-LTFF ---------------------------------------------------------------- 26
+Annexure – XI: Format of Participating Agreement -------------------------------------------------------- 29
+Annexure – XII: Format of Debit Authority -------------------------------------------------------------------- 50
+Annexure – XIII: Undertaking by the PFI ----------------------------------------------------------------------- 51
+Annexure – XIV: Undertaking by the Ultimate Project Borrower --------------------------------------- 52
+
+--- Page 18 ---
+15
+
+
+Loan Approval Process for BB-LTFF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reject
+Note:
+Rejection of application at any approval stage will be redirected to PFIs through proper channel.
+Please refer to Section 9 of this manual for detailed process.
+Firms
+(Approach PFIs for Loan)
+
+PFIs
+Check Eligibility
+Check E&S Compliance
+Check Loan Size
+Loan Analysis
+Approve/
+Reject
+FSSSPD
+Analyze Loan
+Application
+Are all the financial and E&S
+Compliance documents in
+compliance with Annexure-
+III requirements?
+Approve/
+Reject
+Reject
+
+Yes
+Annexure - I
+No
+
+--- Page 19 ---
+16
+
+Annexure – II
+[To be printed on the Participating Financing Institution’s Official Letterhead Pad]
+
+
+Loan Application for Bangladesh Bank - Long Term Financing Facility
+Summary Sheet
+1) Amount of the proposed loan (in USD):
+
+2) Tenure and Grace Period:
+
+3) Does this project involve procurement of goods and works above the threshold of USD 5
+million in a single instance in favor of a single beneficiary under the facility:
+ Yes  No
+4) Type of project:
+ New  BMRE
+
+5) Environmental risk category of the proposed project as per DoE classification:
+ Green  Yellow  Orange  Red
+6) Is there any regulatory restriction on the PFI to extend credit operation?
+ Yes  No
+
+7) Is the borrower’s current exposure within single borrower exposure limit?
+ Yes  No
+
+8) Will the borrower remain within the single borrower exposure limit after disbursing the
+proposed loan?
+ Yes  No
+
+9) Loan proposal approved by:
+ Board  Credit Committee  Other
+If other, please specify:
+
+10) Is the CIB verification done:
+ Yes  No
+
+11) Is the borrower defaulter?
+ Yes  No
+
+--- Page 20 ---
+17
+
+Applying Bank(s)
+(list all in case of syndication)
+
+Name of the concerned Relationship
+Managers of the PFI
+
+Contact No. of the concerned
+Relationship Managers of the PFI
+
+E-mail of the concerned Relationship
+Managers of the PFI
+
+Type of Industry
+
+Name of Project/Firm
+
+Address of the Head Office of the
+Project/Firm
+
+Address of the factory of the
+Project/Firm for which the financing has
+been sought
+
+Name and Designation of the
+Project/Firm’s Representatives
+
+Representative’s contact number
+
+Brief description of project
+
+
+Purpose of the sought fund
+
+--- Page 21 ---
+18
+
+Annexure – III
+
+[To be printed on the Participating Financing Institution’s Official Letterhead Pad]
+
+Primary Observation Checklist for
+Bangladesh Bank Long-term Financing Facility (BB-LTFF)
+
+Name of the Client
+Name of the PFI(s)
+Amount Applied for
+Tenure and Grace Period
+Type of project
+Purpose of the sought fund
+
+Risk Category by DoE
+Green
+Yellow
+Orange
+Red
+
+Particulars
+
+Documentation Checklist
+Yes
+No
+N/A
+Purpose of Loan
+01
+Annexure II of BB-LTFF OG
+
+
+
+02
+Borrower’s application
+
+
+
+03
+List of activities (with amount in USD) to be funded under the facility
+
+
+
+04
+Copy of PIs (against which LCs will be opened) or Price Quotation (for local
+purchase)
+
+
+
+05
+Copy of LCs (already opened)
+
+
+
+06
+Approved plan by authority (for civil construction)
+
+
+
+07
+Detailed cost estimate by certified engineer (for civil construction)
+
+
+
+Loan Approval
+Status by the PFI
+08
+Extract of Minutes & Memo of the bank’s board meeting/competent authority
+
+
+
+09
+Sanction letter by bank in favor of the borrower
+
+
+
+Borrower’s Loan
+Classification Status
+10
+CIB Compliance Information (with CIB subject code no.)
+
+
+
+Industry Best
+Practice Standard
+11
+Project profile of the client
+
+
+
+12
+Proper justification of selecting the particular suppliers
+
+
+
+13
+Supplier's Credit Report (for each individual suppliers)
+
+
+
+14
+Notice of awareness of probable foreign currency exchange rate fluctuation
+
+
+
+Environmental &
+Social Compliance of
+the Borrower
+15
+NOC from Local Authority
+
+
+
+16
+Location Clearance Certificate from DoE (for new project in a location)
+
+
+
+17
+Environmental Clearance Certificate from DoE (for existing project)
+
+
+
+18
+Environmental and Social Compliance Management Report (ESCMR) as per
+Annexure – X of BB-LTFF OG
+
+
+
+Others
+19
+Any other relevant documents that might be required from time to time
+
+
+
+
+
+*For financing of Ocean-going Vessels a different Checklist of required documents will be provided to the PFIs later.
+Name and Signature of the PFI Official
+(With Date, Seal and Contact Number)
+
+--- Page 22 ---
+19
+
+Annexure – IV
+
+
+List of activities to be funded under BB-LTFF
+SL No.
+Item
+Name of the Supplier
+P.I. No./Price
+Quotation No.
+Date
+L.C. No.
+Date
+FC Value
+Approx. Value
+in USD
+Import
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub Total:
+
+
+
+
+
+
+
+Local Procurement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub Total:
+
+
+
+
+
+
+
+SL No.
+Particular of Works
+Constructor/Supplier
+Value in BDT
+Approx. Value
+in USD
+Civil Construction
+
+
+
+
+
+
+
+
+
+
+
+Sub Total:
+
+
+
+
+
+
+
+Total =
+
+--- Page 23 ---
+20
+
+Annexure – V
+
+[Application for Disbursement has to be made on the Participating Financing Institution’s
+Official Letterhead Pad]
+
+General Information for Seeking Disbursement for the
+Approved Loans
+Import & Local Procurement:
+
+Sl.
+L/C No.
+Supplier’s Name
+Items
+L/C Value
+(in FC)
+L/C Value
+(in USD)
+Loan/Claim amount
+under BB-LTFF (in USD)
+
+
+
+
+
+
+
+Total:
+
+
+Civil Construction:
+
+Disbursement Details:
+
+a. Approved amount:
+b. Disbursement till date:
+c. Proposed disbursement request:
+We confirm you that we will make payment of all the mentioned L/Cs immediately after
+receipt of USD fund from Bangladesh Bank.
+Enclosure:
+a) Copy of L/C(s).
+b) Copy of SWIFT message for Acceptance/Payment reference.
+c) Copy of Commercial Invoice.
+d) Copy of Bill of Entry.
+e) Credit Report of the Suppliers.
+f) Copy of Payment Documents (invoice against bills/check/pay-order/money receipt/payment
+voucher) for civil construction.
+g) Any other relevant documents that might be required.
+
+
+Sl.
+Particular of Works
+Constructor/Supplier
+Amount in BDT
+Amount in USD
+
+
+
+
+
+Total:
+
+--- Page 24 ---
+21
+
+Annexure – VI
+
+List of Ineligible Activities
+
+a) Production of or trade in any product or activity deemed illegal under the country’s
+laws and regulations.
+b) Production of or trade in weapons and ammunitions.
+c) Production or trade in alcoholic beverages.
+d) Production or trade in tobacco.
+e) Gambling, casinos and equivalent enterprises.
+f) Production or trade in radioactive materials. This does not apply to the purchase of
+medical equipment, quality control (measurement) equipment and any equipment
+where the radioactive source is trivial and/or adequately shielded.
+g) Production or trade in un-bonded asbestos fibers. This does not apply to purchase and
+use of bonded asbestos cement sheeting where the asbestos content is less than 20%.
+h) Firms that discharge untreated polluted water into international waterways.
+i) Drift net fishing in the marine environment using nets in excess of 2.5 km in length.
+
+--- Page 25 ---
+22
+
+Annexure – VII
+
+List of Environmentally and Socially Sensitive Activities
+
+PFIs will not be permitted to finance projects associated with activities listed in (a)-(d) below
+where they, following an assessment process of the PFI’s systems and capacity for
+environmental and social risk management conducted by Bangladesh Bank, have been found
+to lack adequate capacity to assess, manage, and monitor environmental and social risks
+associated with projects for which financing will be sought from the PFI from the proceeds of
+the Credit.
+a) Activities involving large-scale physical and/or economic displacement resulting from
+land related transactions that are expected to affect 200 people or more.
+
+b) Activities in or near critical habitats and/or legally protected areas.
+
+c) Activities involving adverse impacts on tribes minor races, ethnic sects and
+communities.
+
+d) Activities involving significant adverse impacts on critical cultural heritage areas.
+
+--- Page 26 ---
+23
+
+Annexure – VIII
+Tentative Amortization Schedule
+
+
+Quarter
+Outstanding at
+beginning
+Applicable
+Interest
+rate
+Interest
+Repayment
+Outstanding at the end
+Principal
+Interest accrued
+in this quarter (I)
+Interest
+accrued
+during grace
+period (G)
+Total
+(P+I+G)
+Principal
+amount (P)
+Interest
+amount
+5,000.00
+0.04
+50.00
+5,000.00
+50.00
+5,000.00
+0.04
+50.00
+5,000.00
+100.00
+5,000.00
+0.04
+50.00
+5,000.00
+150.00
+5,000.00
+0.04
+50.00
+5,000.00
+200.00
+5,000.00
+0.04
+50.00
+289.72
+50.00
+12.50
+352.22
+4,710.28
+187.50
+Principal
+5000
+Interest Rate Revision
+Grace Period
+1 Year
+After 8th quarter
+4.50%
+Repayment Period
+5 Years (including Grace Period)
+After 12th quarter
+3.80%
+Repayment
+Quarterly
+After 16th quarter
+4.00%
+Interest Rate at the time of
+first disbursement
+4.00%
+
+
+
+
+
+Repayment Method
+1. Repayment will be made in near equal sized installments throughout the repayment tenure (in 16 quarterly payments).
+2. Interest accrued during the Grace Period would be repaid in EMI without compounding.
+3. Interest accrued after the grace period would be repaid in that particular quarter.
+
+--- Page 27 ---
+24
+
+Quarter
+Outstanding at
+beginning
+Applicable
+Interest
+rate
+Interest
+Repayment
+Outstanding at the end
+Principal
+Interest accrued
+in this quarter (I)
+Interest
+accrued
+during grace
+period (G)
+Total
+(P+I+G)
+Principal
+amount (P)
+Interest
+amount
+4,710.28
+0.04
+47.10
+292.62
+47.10
+12.50
+352.22
+4,417.66
+175.00
+4,417.66
+0.04
+44.18
+295.55
+44.18
+12.50
+352.22
+4,122.11
+162.50
+4,122.11
+0.04
+41.22
+298.50
+41.22
+12.50
+352.22
+3,823.61
+150.00
+3,823.61
+0.05
+43.02
+299.40
+43.02
+12.50
+354.91
+3,524.21
+137.50
+10
+3,524.21
+0.05
+39.65
+302.76
+39.65
+12.50
+354.91
+3,221.45
+125.00
+11
+3,221.45
+0.05
+36.24
+306.17
+36.24
+12.50
+354.91
+2,915.28
+112.50
+12
+2,915.28
+0.04
+27.70
+311.80
+27.70
+12.50
+352.00
+2,603.47
+100.00
+13
+2,603.47
+0.04
+24.73
+314.77
+24.73
+12.50
+352.00
+2,288.71
+87.50
+14
+2,288.71
+0.04
+21.74
+317.76
+21.74
+12.50
+352.00
+1,970.95
+75.00
+15
+1,970.95
+0.04
+18.72
+320.78
+18.72
+12.50
+352.00
+1,650.17
+62.50
+16
+1,650.17
+0.04
+16.50
+323.50
+16.50
+12.50
+352.50
+1,326.67
+50.00
+17
+1,326.67
+0.04
+13.27
+326.73
+13.27
+12.50
+352.50
+999.94
+37.50
+18
+999.94
+0.04
+10.00
+330.00
+10.00
+12.50
+352.50
+669.94
+25.00
+19
+669.94
+0.04
+6.70
+333.30
+6.70
+12.50
+352.50
+336.63
+12.50
+20
+336.63
+0.04
+3.37
+336.63
+3.37
+12.50
+352.50
+
+--- Page 28 ---
+25
+
+Annexure – IX
+
+Report on Loans Disbursed under BB-LTFF as on ....................................
+
+Name of
+the
+Borrower
+Type of
+Business
+Sanction
+Date
+Sanctioned
+Amount
+Disbursed
+Amount as
+of ..........
+Outstanding
+Amount as
+of ............
+Overdue
+Installment
+Amount
+Recovery
+during the
+Quarter
+Cumulative
+Recovery as
+of ...........
+Classification
+Status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name and Signature of the PFI Official
+(With Date, Seal and Contact Number)
+
+--- Page 29 ---
+26
+
+Annexure – X
+Environmental and Social Compliance Management Report (ESCMR)
+for Bangladesh Bank Long Term Financing Facility (BB-LTFF)
+
+For the Period of ___________________’ 20______
+
+General Information
+Name of the project borrower
+
+Name of the Financing PFI
+
+Location of the factory
+
+Type of the industry
+
+Environmental Risk Category by DoE
+
+Purpose of borrowing
+
+Approved amount
+
+Tenure and Grace Period
+
+Date of first disbursement
+
+10
+Disbursed amount up to reporting date
+
+
+A. Environmental Due Diligence
+1. Is there any focal person who is responsible for Environmental Management Plan (EMP)
+implementation for your industry? (If yes, please mention name and contact number).
+2. Environmental tests conducted during the quarter & results:
+Particulars
+
+Tests done
+Date of Test
+Report
+Is the test result within
+the standard limit?
+If not, please mention
+what remedial measures
+have taken
+Yes/No
+Yes/No
+Air
+
+
+
+
+Waste Water
+
+
+
+
+Noise
+
+
+
+
+Drinking Water
+
+
+
+
+
+3. Please enclose the latest Environmental Clearance Certificate (ECC) given and the compliance
+conditions set by Department of Environment (DoE).
+Sl No.
+Conditions set by the DoE in the ECC/Location
+Clearance Certificate
+Compliance Status
+(Complied/Moderately
+Complied/Non-Complied)
+
+
+
+
+
+
+
+4. Please mention the latest certificates/licenses that have been provided by other Government
+regulatory organizations.
+Sl
+No.
+Name of the Government
+Organization
+Inspection/
+Licensing/Certification Date
+Comment
+Department of Inspection for Factories
+and Establishments
+
+
+Department of Explosive
+
+--- Page 30 ---
+27
+
+5. Please mention the environmental mitigation measures taken during construction of this project
+(if applicable).
+Environmental impact
+during Construction
+Mitigation measures of environmental
+impact
+Status of compliance
+(Complied/Moderately
+Complied/Non-Complied)
+Air Pollution
+
+
+Water Pollution
+
+
+Noise & Vibration
+
+
+Traffic Congestion
+
+
+Worker Accident
+
+
+Construction materials
+storage & handling
+
+
+Others (please specify)
+
+
+
+6. Please mention the environmental mitigation measures taken during operation of this project.
+Environmental impact
+during operation
+Mitigation measures of environmental
+impact
+Status of compliance
+(Complied/Moderately
+Complied/Non-Complied)
+Air Pollution
+
+
+Waste Water Contamination
+
+Solid Waste
+
+
+Noise Generation
+
+
+Energy Consumption
+(Greenhouse gas emission)
+
+
+Others (please specify)
+
+
+
+7. Other Activities:
+Sl
+No.
+Particulars
+Conducted
+Yes/No
+Last date of
+conducted
+Fire Drills/Training
+Number of
+participants
+Comments
+
+
+Fire Drills
+
+
+
+
+Environmental, Health
+and Safety (EHS) Training
+
+
+
+
+
+8. Accident/Injuries:
+Please mention if any accident(s) occurred in reporting quarter. If yes, what measures/compensation
+initiatives have been taken for the affected party according to company policy?
+9. Public Consultation on environmental impact:
+Please mention if any public consultation(s) on environmental impact were arranged since the loan
+sanctioned: Yes/No
+Date of Public
+Consultation(s)
+Target
+People
+Number of
+Participants
+Issues discussed/Comments
+
+--- Page 31 ---
+28
+
+B. Social Due Diligence
+1. Is there any focal person who is responsible for implementation of Social Management Plan
+(SMP) in your industry?
+(If yes, please mention name and contact number).
+
+2. a. Was there any land acquisition or resettlement required for this project? Yes/No
+
+b. Please mention the project land type:
+
+
+
+
+Own/Rental/Lease
+
+3. Is the E&S issues disclosed and consulted with the stakeholders?
+
+Yes/No
+If yes, Please mention how it is disclosed:
+
+4. Was there any consultation conducted with community people since the loan sanctioned and
+any activities that are of benefits (social) for the community?
+Yes/No
+If yes, please fill up the following table:
+Date of
+Consultation(s)
+Number of attendee
+(Community People)
+Comments/Social Benefits
+(if any)
+
+
+
+
+5. Labor Issues :
+a. Is the industry in compliance with Labor Law 2006 and Labor rule 2015? Yes/No
+
+b. How many local and external labors (male& female) are engaged in the industry?
+
+Total Labor
+Local Labor
+External Labor
+Male Labor
+Female Labor
+
+
+
+
+
+
+c. Is there any issue that arises due to labor influx?
+Yes/No
+If yes, please describe the issue & present situation.
+
+6. Is there any regular consultation carried out with labors/female labors? Yes/No
+If yes, please fill up the following table:
+Target
+Group
+Date of
+Consultation(s)
+Number of
+Participants
+Comments
+(if any)
+Workers
+
+
+
+Female workers
+
+
+
+
+7. Grievance Redress (GR):
+a) Is there any Grievance Redress Policy (GRP) for the factory/industry? Yes/No
+
+b) Is there any Grievance Redress Committee (GRC) to solve complaints? Yes/No
+If Yes, Please describe briefly about GRC formation and mechanism of GR.
+
+c) How many grievances received and solved in this quarter?
+
+Number of grievances received
+Number of grievances solved
+
+
+
+8. Day Care Centre and Medical Facilities for the workers:
+Please mention if your industry provides such kind of facilities to the workers.
+
+9. Corporate Social Responsibility (CSR):
+a) Is there any CSR activity performed by your industry? If yes, please mention in brief.
+b) Is there any budget allocated for CSR activities? If yes, please mention the amount.
+
+
+Name, and Signature of the Authorized Signatory of
+Project Borrower
+(With Date, Seal and Contact Number)
+
+Name and Signature of the PFI Official
+(With Date, Seal and Contact Number)
+
+--- Page 32 ---
+29
+
+Annexure – XI
+
+
+
+
+
+
+
+
+
+
+
+PARTICIPATING AGREEMENT
+
+
+
+Between
+
+BANGLADESH BANK
+
+
+
+and
+
+
+[Name of the PFI]
+(‘Participating Financial Institution [PFI]’)
+
+
+As participant in the
+
+
+
+Bangladesh Bank - Long Term Financing Facility (BB-LTFF)
+
+--- Page 33 ---
+30
+
+
+
+
+
+
+
+
+
+
+
+PARTICIPATING AGREEMENT
+
+TABLE OF CONTENTS
+
+PAGE
+
+PARTIES
+PREAMBLE
+
+ARTICLE I — DEFINITIONS
+
+SECTION 1.1
+Definitions and Related Terms ....................................................
+SECTION 1.2
+Operational Directives ......................... ...........................
+SECTION 1.3
+Articles, Sections, Number, Etc. ..................................................
+
+
+ARTICLE II — REPRESENTATIONS AND WARRANTIES
+
+SECTION 2.1
+Representations and Warranties of the Financial Institution......
+
+
+ARTICLE III — BANGLADESH BANK - LONG TERM FINANCING FACILITY
+
+SECTION 3.1
+Bangladesh Bank - Long Term Financing Facility ........................
+SECTION 3.2
+Pricing ..........................................................................................
+SECTION 3.3
+Loan Repayments: Principal Amortization ..................................
+
+
+ARTICLE IV — ELIGIBILITY CRITERIA FOR
+CONTINUED PARTICIPATION BY FINANCIAL INSTITUTIONS
+
+SECTION 4.1
+Eligibility Criteria for PFIs ............................................................
+SECTION 4.2
+Compliance and Continuing Eligibility ........................................
+SECTION 4.3
+Eligibility Criteria for Projects and Borrowers ............................
+
+
+ARTICLE V — COVENANTS OF THE PARTICIPATING FINANCIAL INSTITUTIONS
+
+SECTION 5.1
+Regular Repayments and Unconditional Obligation ...................
+SECTION 5.2
+Records, Financial Statements and Budgets ...............................
+SECTION 5.3
+Documents and Supporting Schedules .......................................
+SECTION 5.4
+Right of Access to the Financed Projects ....................................
+
+--- Page 34 ---
+31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARTICLE VI — GENERAL AND SPECIAL CONDITIONS
+
+SECTION 6.1
+General Conditions for PFIs ........................................................
+SECTION 6.2
+Special Terms and Conditions .....................................................
+
+
+ARTICLE VII — DEFAULT EVENTS AND REMEDIES
+
+SECTION 7.1
+Events of Default .........................................................................
+SECTION 7.2
+Remedies on Default ...................................................................
+SECTION 7.3
+Remedies Not Exclusive ..............................................................
+SECTION 7.4
+Expenses on Default ....................................................................
+SECTION 7.5
+Notice of Default .........................................................................
+
+ARTICLE VIII — INDEMNIFICATION
+
+SECTION 8
+indemnification ...........................................................................
+
+ARTICLE IX — REPRESENTATIVES OF THE BANGLADESH BANK
+AND PARTICIPATING FINANCIAL INSTITUTION; ADDRESS
+
+SECTION 9.1
+Representatives of the Bangladesh Bank; Address ....................
+SECTION 9.2
+Representatives of the Financial Institution; Address .................
+
+ARTICLE X — MISCELLANEOUS
+
+SECTION 10.1
+Notices .........................................................................................
+SECTION 10.2
+Severability of Invalid Provision ...................................................
+SECTION 10.3
+Execution of Counterparts ...........................................................
+SECTION 10.4
+Amendments, Changes and Modifications ..................................
+SECTION 10.5
+Governing Law .............................................................................
+SECTION 10.6
+Terms of the Agreement ..............................................................
+SECTION 10.7
+Binding Effect ...............................................................................
+SIGNATURES AND SEALS ............................................................................................
+
+
+ATTACHMENTS
+
+SCHEDULE 1
+PROMISSORY NOTE ......................................................
+
+--- Page 35 ---
+32
+
+
+
+
+
+
+
+
+
+
+
+
+
+PARTICIPATING AGREEMENT
+
+PARTIES
+
+
+This Participating Agreement (hereafter also referred to ‘Participating
+Agreement’ or ‘Agreement’) is signed on the ----- day of ---------------.
+
+between
+
+BANGLADESH BANK
+
+the Central Bank of Bangladesh, established under the Bangladesh Bank Order, 1972
+(P.O. No. 127 of 1972), having its head office at Motijheel Commercial Area, Dhaka-
+1000, Bangladesh (herein after called BB) as the Implementing agency of the Bangladesh
+Bank - Long Term Financing Facility through Financial Sector Support and Strategic
+Planning Department.
+
+And
+
+[Name of the PFI]
+
+a Scheduled Bank of Bangladesh, incorporated under the Companies Act 1994 and
+governed by the Bank Companies Act, 1991 and carrying business under the BB's license
+no ……………; dated ……..having its head office at …………Bangladesh (hereinafter called
+the Participating Financial Institution or PFI) as participant in the Bangladesh Bank - Long
+Term Financing Facility (hereafter also referred to ‘BB-LTFF’) through Financial Sector
+Support and Strategic Planning Department (hereafter also referred to ‘FSSSPD’)
+financed by Bangladesh Bank (hereafter referred to BB).
+
+PREAMBLE
+
+I. WHEREAS, building upon the success of recently completed Long Term Financing
+Facility under the Financial Sector Support Project, BB now intends to continue
+providing long term financing for private sector firms, mainly the export oriented
+manufacturing (small, medium and large) firms so that they can adopt to sustainable
+means of digital transformation of the Fourth Industrial Revolution (4IR) and thus
+augment their competitive advantage in the Global Value Chains (GVCs).
+
+--- Page 36 ---
+33
+
+
+
+
+
+
+
+
+
+
+
+
+
+II. WHEREAS BB intends to engage through the eligible banks authorized by BB to deal in
+foreign exchange to borrow the money in foreign currency and on lend/refinance the
+same to the designated eligible borrowers as defined in the Operating Guidelines of BB-
+LTFF.
+
+III. WHEREAS the PFI agrees and intends to comply with the terms and conditions of this
+agreement.
+
+ARTICLE I
+
+DEFINITIONS
+
+SECTION 1.1
+Definitions and Related Terms
+
+
+Unless the context otherwise requires, the terms defined in this Section
+1.1 will, for all purposes of this Agreement and of any agreement supplemental thereto,
+have the meanings herein specified, as follows:
+
+
+
+‘Bangladesh Bank’ means the bank established by the Bangladesh Bank
+Order, 1972 (President's Order No. 127 of 1972) for the purpose of carrying out the
+business of central banking, as represented by its Governor. FSSSPD of Bangladesh Bank
+shall be implementing the program.
+
+
+‘Scheduled Bank’ means a bank as used in Article 37 of Bangladesh Bank
+Order, 1972 (P.O No. 127 of 1972).
+
+‘Participating Financial Institutions’ (hereafter also referred to ‘PFIs’)
+means any bank duly registered according to the applicable laws and regulations of the
+Recipient, which is authorized by BB to deal in foreign exchange under Foreign Exchange
+Regulation Act (FERA), 1947 and has met the criteria set forth in the Operating
+Guidelines, has entered into a Participation Agreement with the Implementing Agency
+of BB-LTFF and to which the Implementing Agency of BB-LTFF proposes to make or has
+made, out of the proceeds of the financing, a loan for purposes of on-lending a Sub-
+loan; and “PFIs” means, collectively, all such PFIs.
+
+
+
+
+'Governor' means the Governor of Bangladesh Bank.
+
+
+‘FSSSPD’ means Financial Sector Support and Strategic Planning
+Department of Bangladesh Bank implementing the program.
+
+--- Page 37 ---
+34
+
+
+
+
+
+
+
+
+
+
+
+‘Operating Guidelines’ (hereafter also referred to ‘OG’) means the set of policy
+and operational guidelines that govern the BB-LTFF, initially adopted by the Bangladesh
+Bank on, (FSSSPD Circular no.-------- and Date:-------) and to be amended from time to
+time as per requirement of the FSSSPD for the purpose of its smooth running and
+attaining the objectives thereof.
+
+
+‘Guidelines on Environmental &Social Risk Management (ESRM) for
+Banks and Financial Institutions in Bangladesh’ means the set of policy and guidelines
+initially adopted by the Bangladesh Bank on June 2022 (and amendments as per
+requirement of the BB for the purpose of its smooth running and attaining the
+objectives thereof) will ensure that the project activities are properly assessed for and
+will not create adverse Environmental & Social impacts.
+
+
+
+
+‘Financing’ means the long-term funding that will be provided under the
+BB-LTFF.
+
+
+
+
+‘Facility Loan’ means fund disbursed or to be disbursed to the PFIs
+against specific Private Manufacturing Firms out of BB-LTFF.
+
+
+
+‘Bangladesh Bank - Long Term Financing’ or BB-LTFF means funds
+disbursed or to be disbursed by a PFI to a Manufacturing Enterprise for the
+development of a project utilizing the resources of a ‘Facility Loan’.
+
+
+‘Firm/Ultimate Borrower/Sub-borrower’ means a private enterprise or an
+enterprise in which private shareholders have majority ownership, and to which PFI(s)
+proposes to make or has made a BB-LTFF.
+
+
+
+
+‘Sub-loan’ means the loan or a Sharia compliant financing made or
+proposed to be made by a PFI to an eligible borrower under a loan agreement to finance
+out of the proceeds of the financing part of the cost of goods, works and/or services
+under a project which has been selected and approved in accordance with the
+provisions of OG; and ‘loans’ means, collectively, all such loans.
+
+‘Project’ means a specific project mainly in the manufacturing sector to
+be carried out by a Private Firm utilizing the proceeds of BB-LTFF.
+
+‘Approval/Sanction Letter’ means the formal letter issued by the FSSSPD
+of BB (indicating the terms and conditions of an amount of the commitment to be
+funded through BB-LTFF facility).
+
+
+‘Taka’ (hereafter also referred to ‘TK’) means the currency of the
+People’s Republic of Bangladesh.
+
+
+‘Dollar’ (hereafter also referred to ‘USD’) means the currency of The
+United States of America’
+
+--- Page 38 ---
+35
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION 1.2
+Operational Directives
+
+
+Throughout this Participating Agreement, references are made to the
+OG, which guide the policies and operations of the BB-LTFF. BB may modify the OG from
+time to time at its own discretion as per requirement. The PFI agrees that the OG will
+take precedent over this Agreement wherever and whenever indicated throughout this
+Agreement.
+
+SECTION 1.3
+Articles, Sections, Number, Etc.
+
+
+Unless otherwise specified, references to Articles, Sections and other
+of this subdivisions of this Agreement are to the designated Articles, Sections, and other
+subdivisions of this Agreement as amended. The words replace - ‘hereof,’ ‘herein,’
+‘hereunder,’ ‘hereafter’ and words of similar import refer to this Agreement as a whole.
+The headings or title of the several articles and sections, and the table of contents
+appended to copies hereof, will be solely for convenience of reference and will not
+affect the meaning, construction or effect of the provisions hereof. The singular form of
+any word used herein, including the terms defined in Section 1.1 of this Agreement, will
+include the plural, and vice versa.
+
+
+ARTICLE II
+
+
+REPRESENTATIONS AND WARRANTIES
+
+
+SECTION 2.1
+Representations and Warranties of the Financial Institution
+
+
+The PFI makes the following representations as the basis for its
+participation in the Project:
+
+The PFI is a registered company under the Companies Act of
+1994 and licensed to operate as Bank in Bangladesh under the Bank Companies Act
+1991 having authorized dealership licenses under FERA, 1947. Pursuant to the
+Companies Act of 1994 and by its Articles of Association, the PFI has the power to enter
+into transactions contemplated by this Agreement and to carry out its obligations
+hereunder. By proper action, the PFI has been duly authorized to execute, deliver and
+duly perform the duties and fulfill the obligations of this Agreement.
+
+--- Page 39 ---
+36
+
+
+
+
+
+
+
+
+
+
+
+
+The PFI has a plan of action agreed with FSSSPD and in
+accordance
+with
+appropriate
+technical,
+economical,
+financial,
+managerial,
+environmental and social standards and practices, including in conformity with: (a) the
+investment and lending policies and procedure referred to in the Operating Guidelines;
+(b) the ESRM and the Environmental, Health and Safety Guidelines; and (c) the Anti-
+Corruption Guidelines;
+
+
+
+The PFI is in full compliance with the eligibility criteria for
+participation in the program, as set forth in Article III.
+
+
+The PFI has not experienced any materially adverse financial or
+business development, not already disclosed to the FSSSPD, which may affect its
+eligibility as a participant in the program.
+
+(e) The PFI is not in default under any of provisions of the laws of the
+People’s Republic of Bangladesh, which defaults, would affect its existence or its powers
+referred to in Section 2.1(a).
+
+(f) The PFI is not in default under any provisions of any of its funding
+agreement with other financial institutions.
+
+
+The PFI has found and determined, and hereby finds and
+determines that all requirements of the program and the execution of this Agreement
+has been complied with and that financing the program by drawing on the FSSSPD, BB-
+LTFF funds and entering into this Agreement will be in furtherance of the purpose of the
+program.
+
+
+ARTICLE III
+
+
+BANGLADESH BANK - LONG TERM FINANCING FACILITY
+
+
+SECTION 3.1 Bangladesh Bank - Long Term Financing Facility
+
+
+Bangladesh Bank - Long Term Financing Facility is designed to
+provide long term finance mainly for export oriented
+manufacturing firms in the country in foreign currency through
+PFIs according to the guidelines stipulated in the OG.
+
+--- Page 40 ---
+37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pursuant to the terms and conditions in the OG, the PFIs will
+provide best efforts to select and implement the specific projects.
+
+
+(c) All firms to be funded through the BB-LTFF must meet the
+eligibility criteria pursuant to the OG.
+
+
+The requisition for funds by the PFI and the disbursement of
+funds by the FSSSPD will be in accordance with the OG.
+
+
+SECTION 3.2
+Pricing
+
+
+Upon disbursement of funds to the PFI under the BB-LTFF, an interest
+charge will be levied on the PFI. The interest rate on the BB-LTFF facility will be
+determined in accordance with the pricing matrix of the OG.
+SECTION 3.3
+Loan Repayments: Principal Amortization
+
+
+Principal and interest payments in foreign currency along with the
+principal amortization schedule, on the BB-LTFF will be determined by BB following the
+procedure mentioned in the OG of BB-LTFF.
+
+
+ARTICLE IV
+
+
+ELIGIBILITY CRITERIA FOR CONTINUED
+PARTICIPATION BY FINANCIAL INSTITUTIONS
+
+
+SECTION 4.1
+Eligibility Criteria for PFIs
+
+
+The PFI will be required to meet the eligibility criteria for participating in the facility and
+maintain the required standard level of operation for continuation of participation
+during the FSSP tenure. In order to become eligible to participate in the fund, the
+financial institutions must meet and maintain the following criteria:
+
+(a) The PFIs must hold a valid license from BB to operate as banks
+which are authorized by BB to deal in foreign exchange and must have a sound track
+record of providing long term lending.
+
+--- Page 41 ---
+38
+
+
+
+
+
+
+
+
+
+(b) The PFIs must have minimum 3 (three) years’ experience of
+business operation in banking with audited records and unqualified opinion with no
+significant unresolved observations for at least 3 (three) consecutive years.
+(c) The PFIs must have qualified and experienced management,
+adequate organization and institutional capacity. They must have appropriate
+procedures, technologies, practices and staff to (i) carry out the facility, including
+preparation of the documents for long term lending and payout, sound credit
+underwriting and risks management procedures and practices (including financing
+mechanism and borrower’s appraisal, cash flow and financial analysis and forecast,
+collateral assessment and enforcement), (ii) (ii) follow BB’s framework on
+Environmental and Social Risk Management (ESRM) for screening and assessment of
+E&S risks and respective reporting, (iii) prepare other financing documents as
+envisioned by the this OG, (iv) provide timely and accurate reporting of the financing
+facility, (v) ensure data access and effective monitoring, management and reporting
+of risks in the BB-LTFF covered portfolio.
+(d) The PFIs must have adequate and functional internal audits and
+controls. They must have well defined credit/loan policies, procedures and sound
+practices in the area of corporate governance, credit underwriting, risks
+management (liquidity, credit, Foreign Exchange, interest rate, and market risk,
+including risks associated with balance sheets and income statements), AML/CTF
+procedures and practices, reporting and disclosure in line with the best practices
+and BB guidelines.
+(e) The PFIs must have a minimum rating of 3 (three) or better
+CAMELS Ratings determined by BB.
+(f) The PFIs must have an acceptable level of non-performing loan
+(NPL) of no more than 8% (eight percent);
+(g) The PFIs must meet the minimum level of regulatory capital
+adequacy requirement as instructed by BB;
+(h) Problem banks or banks with large financial scams or those with
+an observer or coordinator placed by BB will become ineligible for participation in
+the facility.
+
+--- Page 42 ---
+39
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION 4.2
+Compliance and Continuing Eligibility
+
+
+
+
+(a) After signing PA with BB, to participate in the Facility, the PFI
+must continue to satisfy the eligibility criteria referred to above in Sec 4.1 of this
+agreement.
+
+
+
+
+(b) If the PFI is non-compliant with any of the eligibility criterion,
+FSSSPD will promptly notify it regarding the specific eligibility criteria with which it is
+non-compliant and seek appropriate response from that PFI to remedy that non-
+compliance within an agreed upon time period..
+
+
+
+
+(c) If the PFI fails to maintain its eligibility status under the facility,
+FSSSPD will have the right to suspend all further facilities to that PFI under BB-LTFF
+from the date of such failure or a date decided by FSSSPD.
+
+
+
+
+(d) FSSSPD may re-establish the eligibility status of the PFI upon
+demonstrated compliance of it that the specific eligibility deviations have been
+removed, mitigated or no longer exist.
+
+
+
+
+(e) FSSSPD may also suspend or terminate the right of the PFI to
+use the financing made available to it for onward lending or declare it due and
+payable upon its failure to perform any of its obligations under the OG of BB-LTFF or
+this agreement.
+
+
+SECTION 4.3
+Eligibility Criteria for Projects and Borrowers
+
+a) Amount of Fund for an Individual Borrower
+An individual borrower can apply for BB-LTFF for any amount not exceeding a maximum
+threshold limit of USD 5 million through a single PFI and for any amount not exceeding a
+maximum threshold limit of USD 10 million under syndicated financing through two or
+more PFIs.
+b) Eligible activities:
+This facility will be provided to meet the expenditures incurred for the eligible activities
+completed on or after 01 January, 2021 by the eligible borrowers.
+This facility will be available for both on-lending and refinancing as well as will extend
+financing towards the following areas:
+
+--- Page 43 ---
+40
+
+
+
+
+
+
+
+
+
+o Purchase of capital machineries, equipments and the expenses related to their
+installation services for up-gradation (including improvement in health and
+safety compliance), expansion or for newly set up manufacturing industries.
+o Expenses related to construction, refurbishment and ancillary cost for relocation
+or expansion of existing factories or setting up of new manufacturing factories.
+The loan applications must not comprise more than 40% under this area of the
+total financing being sought under BB-LTFF.
+o Relocation
+of
+factories
+to
+designated
+industrial
+zones
+(other
+than
+EPZs/specialized zones); however financing will not be provided to any loans that
+result in direct economic and/or social/environmental impacts through (i) land
+acquisition, (ii) involuntary resettlement, (iii) impact on indigenous people, (iv)
+loss of income sources or means of livelihood, etc.
+o Purchase of ocean-going vessels and specialized transport vehicles supporting
+transportation of goods manufactured in the country.
+
+c) Eligible Ultimate Borrowers:
+The financing will be available for exporters, small, medium and large scale
+manufacturing enterprises and other private sector firms (expected to be mainly
+manufacturing units) in the country. Any private sector firm eligible to borrow in local
+and/or foreign currency from banking system as per BB regulations will be eligible to
+avail this facility, subject to the conditions specified in OG of BB-LTFF.
+
+
+ARTICLE V
+
+COVENANTS OF THE PARTICAPATING FINANCIAL INSTITUTIONS
+
+SECTION 5.1 Regular Re-payments and Unconditional Obligation
+
+
+The PFI will make regular re-payment of amounts due on any outstanding
+facility. The obligation of the PFI to make payments required hereof and to perform and
+observe the other agreements on its part contained herein will be absolute and
+unconditional, irrespective of any defense or any rights to set-off, recoupment or
+counterclaim it might otherwise have against the FSSP, and during the term of this
+agreement, the PFI will pay absolutely the gross payments to be made on account of the
+facility as and all other payments required hereunder, free of any deductions and
+without abatement, diminution or set-off.
+
+--- Page 44 ---
+41
+
+
+
+
+
+
+
+
+
+
+
+The PFI hereby agrees and authorize Bangladesh Bank that the due installments will be
+recovered from the PFIs’ F/C account maintained with Bangladesh Bank as per the
+amortization schedule. If adequate fund is not available in the PFIs’ F/C Account to
+recover the due installment, the equivalent BDT (at BB Selling Rate on that date) will be
+debited from the respective PFIs’ current account maintained with BB. In case of
+unavailability of funds in both accounts, BB will charge a penal interest on such dues at a
+rate 2% above the repo rate and will become payable on demand. BB will also have the
+right to set off such overdue installment from any of the PFIs’ assets held in BB in its
+security depository or in others. The PFIs will require submitting a debit authority or
+security encashment authority to BB for realizing the due installments at the time of
+first application.
+SECTION 5.2 Records, Financial Statements and Budgets
+The PFIs will be responsible for regular supervision and monitoring of the
+implementation of any social plans or mitigation measures under all projects. The PFIs
+will have to submit reports to FSSSPD on the implementation of such plans on periodic
+basis. Based upon the submitted reports, FSSSPD will perform desk review and may
+conduct field visit(s)/inspection(s)/audit(s) if required.
+
+SECTION 5.3
+Documents and Supporting Schedules
+
+
+The PFI will be required to maintain complete documentation and
+supporting schedules for each project accepted for financing under BB-LTFF. FSSSPD or
+any other relevant Department/Cell of BB may periodically request from the PFI, and the
+PFI will promptly provide, material documents, schedules and other information on a
+specific firm or project, as required by BB.
+
+
+The PFI will maintain credit files for each firm and project in accordance
+with the OG of BB-LTFF and Banking best practice.
+SECTION 5.4 Right of Access to the Financed Projects
+
+
+The PFI agrees that during the term of this Agreement the FSSSPD and/or other
+authorised representatives from FSSSPD will have the right at all reasonable times
+during normal business hours to enter upon the site of the financed projects to examine
+and inspect the projects; provided, however, that this right is subject to the laws and the
+regulations of the People’s Republic of Bangladesh.
+
+--- Page 45 ---
+42
+
+
+
+
+
+
+
+
+
+
+
+
+ARTICLE VI
+
+
+GENERAL AND SPECIAL CONDITIONS
+
+
+SECTION 6.1 General Conditions for PFIs
+
+Bangladesh Bank shall have the right to:
+
+suspend or terminate the right of the PFI to use the proceeds of the Financing
+made available to it to make loans or declare it due and payable upon the PFI’s
+failure to perform any of its obligations under the Participation Agreement; and
+
+The PFI:
+
+i. to make one or more Sub-loans to one or more Eligible Sub-borrower under Sub-
+loan Agreements on the terms and conditions that might include conditions set
+forth in Section 7.3 to this Agreement;
+
+ii. to exercise its rights in relation to each such Sub-loan in such manner as to
+protect its interests and the interests of the Government and BB, comply with its
+obligations under its respective Participation Agreement, and achieve the
+purposes of the Project;
+
+iii. to not assign, amend, abrogate or waive any of its agreements providing for a
+Sub-loan, or any provision thereof, without the prior consent of the BB ; and
+
+iv. to supervise, monitor and report on the activities to be carried out under a Sub-
+project by each Sub-borrower in accordance with the provisions of the OG of BB-
+LTFF.
+
+v. to exchange views with and furnish all such information to the Government and
+BB, as may be reasonably requested by BB, with regard to the progress of the
+activities under the Program, the performance of its obligations under its
+respective Participation Agreement, and other matters relating to the purposes
+of the Program;
+
+vi. promptly to inform the BB of any condition which interferes or threatens to
+interfere with the progress of its activities under its respective Participation
+Agreement.
+
+--- Page 46 ---
+43
+
+
+
+
+
+
+
+
+
+
+
+
+
+vii. to obtain rights to examine and inspect the Sub-project; by its officials and or
+other authorized representatives at all reasonable times during normal
+business hours to enter upon the site of the Sub-project provided, however, that
+this right is subject to the laws and the regulations of the People’s Republic of
+Bangladesh.
+
+And other responsibilities of PFIs mentioned in section 7 of OG of BB-LTFF.
+
+
+SECTION 6.2 Special Terms and Conditions
+
+The PFI shall ensure that their Financing Agreement with the borrowers (projects) gives
+them adequate rights to protect its interest and those of the Government and BB,
+including the right to:
+
+suspend or terminate the right of the Sub-borrower to use the proceeds of the
+Sub-loans or declare it due and payable upon the Sub-borrower’s failure to
+perform any of its obligations under the Sub-loan Agreement; and
+
+require the Eligible Sub-borrower to:
+carry out the project financed out of the proceeds of BB-LTFF with due diligence
+and efficiency and in accordance with sound technical, economical, financial,
+managerial, environmental and social standards and practices, including those
+set forth in this OG and other regulatory guidelines of BB and all other regulatory
+Environmental, Health and Safety Guidelines and the Anti-Corruption Guidelines.
+ii.
+maintain full compliance of all E&S requirements mentioned in its Environmental
+and Social Compliance Management Report (ESCMR) submitted to its
+designated PFI(s) and FSSSPD in future operation of its industry.
+iii.
+follow policies and procedures of the BB-LTFF loan in accordance with this OG
+and the sanction advice provided by FSSSPD in favor of it.
+iv.
+organize all such information as sought from it by BB of any of its relevant
+records and documents in connection to its availed loan under BB-LTTF and
+provide those to FSSSPD, through its designated PFI(s).
+assist BB inspection teams at the time of on-site factory visit.
+require that:
+i) The goods, works and services to be financed out of the proceeds of BB-LTFF
+shall be procured in accordance with the provisions of this OG and such
+goods, works and services must be exclusively used in carrying out the
+activities financed out of the proceeds of this designated loan.
+
+--- Page 47 ---
+44
+
+
+
+
+
+
+
+ii) to inspect, by itself or jointly with representatives of the BB, if the BB shall
+so request, such goods and the sites, works, plants and construction
+included in the activities to be financed out of the proceeds of a loan, the
+operation thereof, and any relevant records and documents.
+iii) Comply with the procedures/salient features set out in the Import Policy
+Order in force and GFET along with subsequent amendments issued by BB.
+iv) Take quotations from a list of potential suppliers/agents and/or contractors
+to ensure obtaining of competitive prices.
+v) Evaluate the technical specifications of goods, works and services and the
+financial proposals of the quotations. The borrower will finalize the
+suppliers based on its own prudential judgment.
+vi) Verify the creditworthiness of the suppliers from an independent agency
+before opening a Letter of Credit (L/C) in case of importing machineries
+from overseas suppliers.
+
+
+ARTICLE VII
+
+
+DEFAULT EVENTS AND REMEDIES
+
+SECTION 7.1 Events of Default
+
+Any one of the following, which occurs and continues, will constitute
+an Event of Default:
+
+
+(a) Failure by the PFI to pay any amounts required to be paid hereof
+which failure causes an Event of Default to the agreements relating to the received
+Facility Loan;
+
+(b) Failure of the PFI to observe and perform any covenant, condition
+or agreement on its part required to be observed or performed by this Agreement,
+other than making the payments referred to in (a) above, which continues for a period
+of 30 days after written notice, which notice will specify such failure and request that it
+be remedied, given to the PFI by the FSSSPD, unless the FSSSPD, will agree in writing to
+an extension of such time; provided, however, that if the failure stated in the notice
+cannot be corrected within such period, the FSSSPD will not unreasonably withhold their
+consent to an extension of such time if corrective action is instituted within such period
+and diligently pursued until the default is corrected;
+
+--- Page 48 ---
+45
+
+
+
+
+
+
+
+
+
+The filing of bankruptcy by the PFI; and
+
+
+Non-compliance with applicable laws and regulations governing
+the operation of the PFI.
+
+SECTION 7.2
+Remedies on Default
+
+
+Upon the occurrence and continuation of an ‘Event of Default’,
+FSSSPD will proceed to protect and enforce the rights of BB in the manner it deems
+most expedient to the interest of itself. BB may recall the fund and recover the full
+outstanding amount from the PFIs’ account against the event of default as per BB’s
+discretion.
+
+SECTION 7.3
+Remedies Not Exclusive
+
+
+No remedies herein conferred upon or reserved to the FSSSPD is
+intended to be exclusive of any other available remedy or remedies.
+
+SECTION 7.4
+Expenses on Default
+
+
+In the event any PFI would default under its PFI Agreement with BB for
+participating under the BB-LTFF mechanism, for which BB requires to employ legal
+counsel or incur other expenses for the collection of the payment due under the
+Agreement or for the enforcement of performance or observance of any obligation or
+agreement on the part of the PFI, then the PFI must pay BB the reasonable fees of such
+legal counsel and such other expenses incurred by BB in the process.
+
+SECTION 7.5
+Notices of Default
+
+
+The FSSSPD will issue to the PFI the Notice of Default by registered
+mail or in person duly acknowledged by the PFI.
+
+
+ARTICLE VIII
+
+
+INDEMNIFICATION
+SECTION 8:
+Indemnification
+
+BB preserves the right to reject any BB-LTFF loan sanction or loan disbursement
+applications at its own discretion without having to show any reasons or justifications to
+the PFIs or the PFIs’ clients behind its decision of rejection of those applications.
+BB will not be obligated to pay any liabilities of the PFIs regarding the BB-LTFF program.
+The PFIs must agree that BB is not liable and promise to protect BB and its employees
+from any losses, claims, damages, or expenses that may arise from the project financed
+through the BB-LTFF program.
+
+--- Page 49 ---
+46
+
+
+
+
+
+
+
+
+
+
+
+ARTICLE IX
+
+
+REPRESENTATIVES OF THE BANGLADESH BANK
+AND PARTICIPATING FINANCIAL INSTITUTION; ADDRESSES
+
+
+SECTION 9.1
+Representative of the Bangladesh Bank; Address
+
+
+
+Authorized Representative:
+
+
+
+
+
+Bangladesh Bank
+
+
+Address:
+Bangladesh Bank, Head Office
+
+
+Motijheel, Dhaka-1000
+
+
+Telephone: --------------------------------------------
+Email: --------------------------------------------
+
+
+
+
+SECTION 9.2
+Representative of the Financial Institution; Address
+
+
+
+Authorized Representative: ---------------------------------------------
+
+
+Address: ---------------------------------------------
+
+Telephone: --------------------------------------------
+Facsimile: --------------------------------------------
+Email: --------------------------------------------
+
+--- Page 50 ---
+47
+
+
+
+
+
+
+
+
+
+ARTICLE X
+
+
+MISCELLANEOUS
+
+
+SECTION 10.1
+Notices
+
+
+
+All notices, certificates or other communications will be deemed
+sufficiently given on the next day following the day on which the same have been either
+sent by facsimile or mailed by registered mail, courier, postage prepaid, addressed to
+the Bangladesh Bank or the PFI, as the case may be, as follows:
+
+
+To FSSSPD:
+
+Director (FSSSPD),
+Financial Sector Support and Strategic Planning Department
+Bangladesh Bank, Head Office (2nd Annex Building, 17th Floor),
+Motijheel C/A, Dhaka-1000.
+
+
+To Participating Financial Institution:
+
+[Name and address of the PFI]
+
+SECTION 10.2
+Severability of Invalid Provision
+
+
+If any provision of this Agreement will be held or deemed to be, or
+will in fact be, illegal, inoperative or unenforceable, the same will not affect any other
+provision or provisions herein contained or render the same invalid, inoperative, or
+unenforceable to any extent whatever.
+SECTION 10.3
+Execution of Counterparts
+
+
+This Agreement may be simultaneously executed in several
+counterparts, each of which will be an original and all of which will constitute but one
+and the same instrument.
+SECTION 10.4
+Amendments, Changes and Modifications
+
+
+Except as otherwise provided in this Agreement, this Agreement may
+not be effectively amended changed, modified, altered or terminated without the
+written consent of the parties to this Agreement.
+
+SECTION 10.5
+Governing Law
+
+
+This Agreement will be governed exclusively by and construed in
+accordance with the applicable laws of the People’s Republic of Bangladesh.
+
+--- Page 51 ---
+48
+
+
+
+
+
+SECTION 10.6
+Terms of the Agreement
+
+
+This Agreement will be in full force and effect from the date hereof
+and will continue in effect as long as any BB-LTFF given to the PFI under the FSSSPD is
+outstanding.
+
+SECTION 10.7
+Binding Effect
+
+
+This Agreement will inure to the benefit of and will be binding upon
+the FSSSPD, the PFI and their respective successors and assigns, however, to the
+limitations contained in Article IV.
+
+
+
+IN WITNESS WHEREOF, the [Name of the PFI] has caused this
+Agreement to be executed in its name and its corporate seal to be hereunto affixed and
+attested by its duly authorized officers, and the Bangladesh Bank as the Administrator
+of the Fund, has caused this Agreement to be executed, all as of the date first above
+written.
+
+
+[Name of the PFI]
+
+
+[PFI SEAL]
+
+[Signature]
+
+
+
+[Name of the authorized PFI representative]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SEAL]
+
+
+
+
+
+
+BANGLADESH BANK
+
+
+
+
+[Signature]
+[BB SEAL]
+
+[Name]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SEAL]
+
+
+
+
+
+
+WITNESS:
+
+
+
+1. [Signature]
+
+[Name and designation of witness from BB]
+[SEAL]
+
+
+
+2. [Signature]
+
+[Name and designation of witness from PFI]
+[SEAL]
+
+--- Page 52 ---
+49
+
+
+
+
+[To be printed on Tk. 300.00 judicial stamp paper]
+
+SCHEDULE 1
+
+PROMISSORY NOTE
+
+Principal Amount: USD ............. (With reference to the Sanction Letter, Ref. .................
+dated .................)
+
+Interest Rate: ………… or to be reviewable by Bangladesh Bank
+
+Date of Note: ..................
+
+PROMISE TO PAY: As per FSSSPD circular no. ............................., dated
+............................. (Bank/PFI’s Name) promises to pay to BANGLADESH BANK, or order,
+in lawful money of the People’s Republic of Bangladesh, the principal amount of US
+dollar ......... in figure (US Dollar......... in words), together with interest on the unpaid
+principal balance/outstanding amount from the date of disbursement, until paid in full.
+
+PAYMENT: (Name of the Bank/PFI) will pay this loan in ...... quarterly instalment
+payments of US Dollar .......... for all principal and all accrued interest not yet paid.
+Payments include principal and interest. Interest on this Note is computed on simple
+interest basis; that is, by applying the ratio of the annual interest rate over the number
+of days in a year (Actual/360), multiplied by the outstanding principal balance,
+multiplied by the actual number of days. The first payment is due on ........ months from
+the date of first disbursement, and all subsequent payments are due on the immediate
+next working day of each calendar quarter. PFI will pay FSSSPD/BANGLADESH BANK at
+FSSSPD/BANGLADESH BANK's address shown above or at such other place as
+FSSSPD/BANGLADESH BANK may designate in writing. Unless otherwise agreed or
+required by applicable law, payments will be applied first to accrued unpaid interest,
+then to principal, and any remaining amount to any unpaid collection costs and late
+charges.
+
+INTEREST RATE: The interest rate on this Promissory Note is ……..…… or to be
+reviewed/adjusted by Bangladesh Bank.
+
+PRIOR TO SIGNING THIS NOTE, ____________ (Name of the Bank/PFI) READ AND
+UNDERSTOOD ALL THE PROVISIONS OF THIS NOTE. ____________ (Name of the
+Bank/PFI) AGREES TO THE TERMS OF THE NOTE AND ACKNOWLEDGES RECEIPT OF A
+COMPLETED COPY OF THE NOTE.
+
+Name of the project borrower
+Name of Bank/PFI
+Signatures
+
+
+2 Authorized signatories
+Name:
+Managing Director & CEO
+Name:
+Additional Managing Director/
+Deputy Managing Director
+Signatures
+
+2 Witnesses from the
+Bank/PFI
+Name:
+Designation:
+Name:
+Designation:
+
+--- Page 53 ---
+50
+
+Annexure – XII
+
+
+[To be printed on the Participating Financing Institution’s Official Letterhead Pad]
+
+
+DEBIT AUTHORITY
+
+Date:
+
+WE, ______________________, HEREBY AUTHORIZE BANGLADESH BANK TO DEBIT OUR
+ACCOUNT AND/OR TO ADJUST (AS PER FSSSPD CIRCULAR NO. _________, DATED
+___________, AND THE ATTACHED OPERATING GUIDELINES FOR BANGLADESH BANK - LONG
+TERM FINANCING FACILITY OR SUBSEQUENT AMENDMENTS) THE OUTSTANDING AMOUNT OF
+OUR BORROWINGS ACCORDING TO THE AMORTIZATION SCHEDULE OF EACH BORROWING
+UNDER THE BANGLADESH BANK - LONG TERM FINANCING FACILITY.
+
+
+Signature:
+Name of MD & CEO:
+Name of the bank:
+
+--- Page 54 ---
+51
+
+Annexure – XIII
+
+[To be printed on the Participating Financing Institution’s Official Letterhead Pad]
+
+Undertaking by the PFI
+
+1. The PFI will confirm that the projects, for which the financing are sought, will be carried out
+with due diligence and efficiency and in accordance with sound technical, financial and
+managerial standards set forth in this OG and other regulatory guidelines of Bangladesh Bank
+and all other regulatory Environmental, Health and Safety Guidelines and the Anti-Corruption
+Guidelines.
+2. The PFI will maintain adequate project records involving BB-LTFF funding; and the Financial
+Sector Support and Strategic Planning Department (FSSSPD) or any other relevant
+departments of Bangladesh Bank will have the right of conducting on-sight and of-sight
+inspection of the PFI and project borrowers anytime with or without prior notice.
+3. The PFI shall obtain the right to inspect, by itself or jointly with representatives of FSSSPD or
+any other relevant departments of Bangladesh Bank, such assets and sites, works, plants and
+construction included in the BB-LTFF funded projects, the operation thereof, and any relevant
+records and documents.
+4. The PFI shall obtain the right to suspend or terminate the right of its client to the use of BB-
+LTFF funding upon failure by that client to perform its obligations under contract with the PFI.
+5. Neither the PFI nor its client will ever hold Bangladesh Bank liable to pay any liabilities of
+the PFIs regarding the BB-LTFF mechanism. The PFI agrees that BB is not liable and promise to
+protect BB and its employees from any losses, claims, damages, or expenses that may arise
+from the project financed through the BB-LTFF program.
+
+
+Signature:
+Name of MD & CEO:
+Name of the bank:
+Date:
+
+--- Page 55 ---
+52
+
+Annexure – XIV
+
+[To be printed on the Project Borrower’s Company Letterhead Pad]
+
+Undertaking by the Ultimate Project Borrower
+
+1. The project borrower will carry out the project financed out of the proceeds of Bangladesh
+Bank - Long Term Financing Facility (BB-LTFF) with due diligence and efficiency and in
+accordance with sound technical, economical, financial, managerial, environmental and social
+standards and practices, including those set forth in the Operating Guidelines (OG) of BB-LTFF
+and other regulatory guidelines of Bangladesh Bank and all other regulatory Environmental,
+Health and Safety Guidelines and the Anti-Corruption Guidelines.
+2. The project borrower will always maintain full compliance of all Environmental and Social
+(E&S) issues and mitigation measures mentioned in its Environmental and Social Compliance
+Management Report (ESCMR) submitted to its designated PFI(s) and the Financial Sector
+Support and Strategic Planning Department (FSSSPD) of Bangladesh Bank.
+3. The project borrower will maintain policies and procedures to monitor and evaluate the
+progress of its BB-LTFF loan in accordance with indicators acceptable to FSSSPD and prepare
+financial statements in accordance with consistently applied accounting standards in
+accordance with the OG of BB-LTFF.
+4. The project borrower will organize all such information as sought from it by BB of any of its
+relevant records and documents in connection to its availed loan under BB-LTTF and provide
+those to FSSSPD, through its designated PFI(s).
+
+
+Signature:
+Name of the Authorized Signatory:
+Designation:
+Date:

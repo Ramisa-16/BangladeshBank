@@ -1,0 +1,91 @@
+--- Page 1 ---
+Department of Financial Institutions andMarkets
+Bangladesh Bank
+Head Office
+Dhaka-1000
+
+
+DFIM Circular No. -05
+Date:
+11 May, 2015
+28 Baishakh,1422
+
+
+Chief Executives/ Managing Directors
+All Financial Institutions in Bangladesh
+
+
+Dear Sir,
+
+Provision against unrealized loss for diminution of value of
+investment in Mutual Fund Units
+Financial Institutions (FIs) have to comply with the following instructions regarding the
+maintenance of provision against unrealized losses arising from investment in mutual fund
+units:
+For Closed-end Mutual Funds:
+1. FIs need not maintain any provision when the average cost price (CP) of a mutual
+fund is lower than or equal to the market value (MV) i.e., CP ≤ MV; or lower than or
+equal to 85% of the net asset value at current market price ((NAVcmp) i.e., CP ≤
+NAVcmp * 85%);
+
+2. If the average cost price (CP) of a mutual fund unit is greater than market value (MV)
+i.e., (CP > MV ); or greater than 85% of net asset value (NAVcmp) at current market
+price i.e., (CP > NAVcmp * 85%), FIs will have to maintain provision as following-
+
+a. when MV ≥ NAVcmp * 85%, then-
+Required Provision (RP) = CP - MV
+
+b. when MV <NAVcmp * 85%, then-
+Required Provision (RP)= CP – NAVcmp * 85%
+
+
+
+
+
+Page no-1/2
+
+Website: www.bb.org.bd
+
+--- Page 2 ---
+For Open-end Mutual Funds:
+
+1. FIs need not maintain any provision when the average cost price (CP) of a mutual
+fund is lower than or equal to 85% of net asset value ((NAVcmp) at current market
+price i.e., (CP ≤ NAVcmp * 85%).
+
+2. FIs will maintain provision when the average cost price (CP) of a mutual fund is
+greater than 85% of net asset value ((NAVcmp) at current market price i.e.,
+(CP>NAVcmp * 85%) as following-
+Required Provision (RP) = CP – NAVcmp * 85%
+FIs will have to apply the latest NAVcmp calculated and disclosed as per article no. 60 of
+Securities and Exchange Commission (Mutual Fund) Rules, 2001.
+This circular shall come into effect immediately.
+
+Sincerely yours,
+
+(Md. Shah Alam)
+General Manager
+Phone: 9530178
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page no-2/2

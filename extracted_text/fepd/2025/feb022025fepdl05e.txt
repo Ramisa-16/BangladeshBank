@@ -1,0 +1,49 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+
+FE Circular Letter No. 05 Date: February 02, 2025
+
+Head offices/principal offices of all
+Authorized Dealers in Bangladesh
+
+Dear Sirs,
+Forward sale and purchase in foreign exchange
+
+Please refer to FE Circular No. 09 of January 26, 2025 regarding application of
+forward premium to determine forward exchange rate in foreign currency.
+02. It has been observed that Authorized Dealers (ADs) are using different techniques
+to calculate forward exchange rates. To bring uniformity, a calculation of forward selling
+exchange rate is presented in the below table containing determination of forward premium:
+
+Spot
+selling rate
+Tenor
+in Days
+T-Bill rate
+
+Benchmark
+rate in FC
+Differential
+Forward Premium
+Forward
+Rate
+(e)= (c) - (d)
+(f) = (a)*(e)*(b)/360
+(g)= (a)+(f)
+
+03. With regard to forward buying rate, ADs shall consider spot buying rate to
+calculate the desired rate on adjustment of forward premium.
+
+ADs are advised to observe the above procedure meticulously.
+
+Yours faithfully,
+
+
+(Monoar Uddin Ahmed)
+Director (FEPD)
+Phone: 9530119

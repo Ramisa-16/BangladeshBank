@@ -1,0 +1,316 @@
+--- Page 1 ---
+1 | P a g e
+
+
+
+Bangladesh Bank
+
+
+‘Glossary of Payments Data’
+
+
+
+
+
+
+
+
+
+Author
+
+Payment Systems Department, Division-3 ( Oversight)
+
+Creation Date
+
+August 2022
+
+Last Update Date
+
+November 2025
+
+Version
+
+1.0
+
+--- Page 2 ---
+1 | P a g e
+
+1.0 Introduction
+The Payment System Department of Bangladesh Bank (BB) intends to gauge daily
+payments made in Bangladesh through formal channels. To estimate the data, various data
+sources are capitalized. In particular, the data sources are broadly categorized in three areas,
+namely, (1) Payment Platforms operated by BB (2) Payment Systems’ Participants (3)
+Securities Trading Platform. The final output of this endeavour would be Table 1. Data from
+all these areas will be collected through excel templates.
+
+Table 1: Analysis of Payments Data in Bangladesh
+
+
+
+
+
+
+
+
+
+
+
+
+
+Volume in thousands, Value in Millions
+Data from Payment Platforms operated by BB
+Data from Payment Systems
+Participants
+Data from
+Securities
+Trading
+Platform*
+Cheque
+Processin
+Electronic
+Fund
+Transfers
+RTGS
+National
+Payment
+Switch
+Banks
+MFSs
+PSPs
+Market
+Infrastructur
+e Module
+Vo
+Valu
+Vo
+Valu
+Vo
+Valu
+Vo
+Valu
+Vo
+Valu
+Vo
+Valu
+Vo
+Valu
+Vol
+Valu
+*Payments data from securities traded in Stock Exchanges should be captured by Banks
+1.1 For the purpose of complete understanding of the nature of data to be collected, a
+‘Glossary of Payments Data’ has been prepared. The glossary will essentially list all the data
+type presented in each of the column heads of the templates. Relevant example and sample
+use cases may also be provided along with the definitions to grasp the information required
+from the data. However, the number of types of data listed in the glossary is not exhaustive in
+nature and BB may update the lists with additional or less data types as and when it feels
+required. It is to be remembered that this glossary will be used by the data providers
+exclusively for the purpose described in paragraph 1.0.
+
+--- Page 3 ---
+2 | P a g e
+
+2.0 Glossary of Payments Data
+Contents of ‘Glossary of Payments Data for Banks’
+
+Data Type
+Definition with illustrations
+Column
+Ref.
+Name of reporting
+entity
+Name of the reporting entity
+St. P(B)
+Date
+Date should be provided in dd/mm/yy format
+Cash
+3-08
+Cash includes Local & Foreign exchange (shall be reported in BDT value using daily mid-
+rate) in Branches, Agent points and CRM/CDMs.
+OTC Cash
+It refers to cash deposit to or cash withdrawal from a bank
+account (Saving/Current/CC account) of the same bank.
+Besides, any types of deposits, such as CRM or CDM
+Deposit, Utility Bill Collection (gas, water, electricity,
+Credit card bill) from Walk-in customer shall be reported.
+3-6
+Cash Withdrawal
+A cash withdrawal refers to taking money out of a bank
+account, usually a checking account, in the form of cash.
+3,4
+Cash Deposit
+(Manual process)
+It refers to the money that customer put into his/her bank
+account.
+5,6
+CRM/CDM Deposit
+The CRM/CDM Deposit is a self-service terminal that
+allows a customer to make cash deposit.
+7-8
+Fund Transfer
+09-14
+ON-US
+(Within
+the
+same
+Bank)
+It refers to fund transfer through cheque/vouchers or any
+other medium (web portal, app, wallet or using any other
+digital mode of transaction), and any types of P2P, P2B
+transfer via Digital Channel or Others within the same
+bank.
+
+09,12
+OFF-US
+(To
+other
+Banks
+Bank)
+OFF-US Fund Transfer refers to any transaction where the
+card is issued by one bank, but the transaction is
+processed by another bank, or institution.
+13-14
+Transactions (other than fund transfer) using locally issued Cards
+15-22
+ATM
+(As Acquirer)
+On-Us:
+It refers to fund withdrawal through card within the same
+bank. For instance, if the card is issued by ABC Bank and
+15,16
+
+--- Page 4 ---
+3 | P a g e
+
+Contents of ‘Glossary of Payments Data for Banks’
+
+Data Type
+Definition with illustrations
+Column
+Ref.
+the transaction is conducted through ABC Bank’s ATM,
+the transaction is On-Us.
+Off-Us (excluding NPSB):
+Off-Us transaction refers to the transactions, where
+the merchant acquiring bank and the card issuing bank are
+not the same.
+For instance, if the card is issued by ABC Bank but the
+transaction is conducted using ATM of any other bank
+(As acquirer) and not directing through NPSB (instead,
+directing
+through
+ITCL/VISA/MASTER/AMEX/JCB
+etc.), the transaction will be considered as an Off-Us
+transaction. Transactions in both local and foreign
+currency shall be reported in BDT. For conversion of
+foreign currency, please, use daily mid-rate of the
+reporting month.
+17,18
+POS
+(As Acquirer)
+On-Us:
+It refers to fund withdrawal through card within the same
+bank.
+For instance, if the card is issued by ABC Bank and the
+transaction is conducted through ABC Bank’s POS, the
+transaction is On-Us.
+19,20
+
+
+
+
+
+Off-Us (excluding NPSB):
+Off-Us transaction refers to the transactions, where
+the merchant acquiring bank and the card issuing bank are
+not the same.
+For instance, if the card is issued by ABC Bank but the
+transaction is conducted using POS of any other bank (As
+acquirer) and not directing through NPSB (instead,
+21,22
+
+--- Page 5 ---
+4 | P a g e
+
+Contents of ‘Glossary of Payments Data for Banks’
+
+Data Type
+Definition with illustrations
+Column
+Ref.
+directing
+through
+ITCL/VISA/MASTER/AMEX/JCB
+etc.), the transaction will be considered as an Off-Us
+transaction. Transactions in both local and foreign
+currency shall be reported in BDT. For conversion of
+foreign currency, please, use daily mid-rate of the
+reporting month.
+Payments
+23-28
+QR (As Acquirer)
+On-Us: proprietary QR/Bangla QR
+QR on-us transactions refer to the transactions, when QR
+using customer and merchant acquiring customer are
+served by the same bank.
+23,24
+Off-Us : Other than Bangla QR, any other QR (if any)
+If the QR is used at the different merchant acquiring
+bank’s system is considered as off-us transactions. For
+instance, if ABC Bank’s customer conducts a QR based
+transaction through a merchant that is on-boarded by
+another bank within the system of ITCL.
+25,26
+e-Commerce
+Transactions
+When Payment is done in online from e-commerce portal
+using Cards (as issuer) will be considered as e-commerce
+transaction.
+27,28
+Transactions Using Cards issued from foreign countries
+29-34
+ATM
+(As Acquirer)
+It refers to fund withdrawal through Local Bank’s ATM,
+using Cards issued by foreign countries bank.
+29,30
+POS
+(As Acquirer)
+It refers to fund withdrawal using card issued by a foreign
+country’s Bank, and the transaction is conducted through
+Local Bank’s POS.
+31,32
+e-Commerce
+(As Acquirer)
+When Payment is done in online from e-commerce portal
+using Cards issued by a foreign country’s bank will be
+considered as e-commerce transaction.
+33,34
+
+--- Page 6 ---
+5 | P a g e
+
+Important Notes:
+A.1
+All debit/payment transactions shall be reported; credit/receiving instruction shall
+not be reported [Except OTC cash deposit (Column 5-6)].
+
+A.2
+Reversal/return amount won't be considered as transaction and thus will not be
+reported here.
+
+A.3
+Bank's own transaction using GL-Debit/Debit voucher, e.g. to make payment to
+vendors or pay salary to staff, will not be considered.
+
+
+Inward Remittance (through money transfer services/Foreign Bank etc.) credited to
+the account shall be reported in Transfer (on-Us) column. Remittance paid in cash
+shall be reported in Cash (Dr.) column.
+
+A.4
+While reporting data, it is to be remembered that any transactions that are directed
+through payment platforms of BB (i.e., BACH, BEFTN, NPSB, and RTGS) should
+be eliminated. Data for payments through the platforms shall be received from the
+concerned platforms.
+A.5
+For USD to BDT conversion, daily mid rate shall be considered.

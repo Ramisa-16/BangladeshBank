@@ -1,0 +1,390 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+website : www.bangladeshbank.org.bd
+
+
+
+08 Poush , 1415
+FE Circular No. 15
+
+
+
+
+
+Date: -------------------
+
+
+
+
+
+
+
+
+
+22 December, 2008
+All Authorized Dealers in
+Foreign Exchange in Bangladesh
+
+Dear Sirs,
+
+PAYMENT THROUGH ASIAN CLEARING UNION ( ACU)
+
+
+
+Reference is drawn to the Para No. 2, Chapter 3 of the Guidelines for Foreign Exchange Transactions (GFET) 1996 (Vol-
+1), Appendix 2 of the Guidelines for Foreign Exchange Transactions (GFET) 1996 (Vol-2), FE Circular No. 01, dated 01/01/2001
+and FE Circular No. 13, dated 22/09/2008 regarding instructions relating to payment through ACU mechanism, reporting of such
+transactions thereof and paying/allowing interest in ACU nostro accounts.
+
+It has been decided by the Board of Directors of the Asian Clearing Union that with effect from 01.01.2009 settlement of
+transactions among ACU member countries may also be done in 'EURO'. The Authorised dealers are advised to follow the following
+instructions in this regard :
+
+1. In view of the above decision, Para 2, Chapter-3 of the GFET 1996 (Vol-1) is to be read as under:
+"2. (a) The central Banks of Bangladesh, India, Iran, Nepal, Pakistan, Sri Lanka, Myanmar and Bhutan have an
+Agreement to settle current transactions between these countries through the Asian Clearing Union(ACU) mechanism.
+All such payments to the ACU member countries excepting those covered by loan/ credit agreements are accordingly
+settled through the Asian Clearing Union (ACU) mechanism in "Asian Monetary Units" which may be referred to in
+the abbreviated form as " AMUs". The Asian Monetary Units shall be denominated as 'ACU Dollar' and 'ACU Euro'
+which shall be equivalent in value to one US Dollar and one Euro respectively. .
+
+(b) The ACU Agreement referred to above provides for settlement of the following types of payments:
+(i) Payments from residents in the territory of one participating country to residents in the territory of another
+participating country.
+(ii) Payments for current international transactions as defined by the Articles of Agreement of the International
+Monetary Fund.
+(iii) Payments permitted by the country in which the payer resides.
+(c) ADs shall maintain nostro accounts in AMUs ( ACU Dollar, ACU Euro) with their correspondent banks in ACU
+member countries for the purpose of settlements through ACU. Similarly accounts in AMUs (ACU Dollar and
+ACU EURO) may be opened by the ADs in their books in the names of their correspondents in ACU member countries.
+ADs may pay interest on the balance of Nostro Accounts in AMUs as per mutually agreed terms and conditions with
+the correspondent(s).
+cont'd to page 2
+
+--- Page 2 ---
+-02-
+(d) An AD needing to fund its AMU nostro account with a correspondent bank in an ACU member country shall do so
+through Bangladesh Bank against surrender of the required amount in AMU, or of equivalent taka at Bangladesh
+Bank's selling rate. Bangladesh Bank will advise the central bank of the concerned ACU member country to make the
+amount available to the transferee bank in that country. After making the payment, the central bank of the recipient
+ACU member country shall advise the Secretary General of the ACU Secretariat to credit its account by debit to
+Bangladesh Bank's account.
+
+(e) For repatriating funds from an AMU nostro account with a correspondent bank in an ACU member country an AD
+shall advise the correspondent bank to route the payment through the central bank of that country, which will advise
+Bangladesh Bank to make the amount available to the recipient AD. Bangladesh Bank on receipt of the advice, shall
+make the fund available to the recipient AD (either in AMU or in equivalent taka at BB's buying rate, at the AD's option)
+and shall advise the Secretary General of the ACU Secretariat to credit its account by debit to the account of the central
+bank of the transferor ACU member country. "
+
+2. Separate Statement ( for S-2) for ACU Dollar and ACU EURO
+
+While reporting in Statement S-2, the ADs should use code 98 for ACU Dollar and code 47 for ACU Euro ( Attached
+please find the revised Statement S-2 format).
+
+3. Currency Code for S-10 and S-11
+
+For reporting of ACU transactions in S-10 & S-11 ( OBU & KAFCO transactions as per FE Circular No. 13, Dated-
+22/09/08), AD and OBU will use ACU currency code 98 for reporting ACU transactions in ACU Dollar and 47 for
+reporting ACU transactions in ACU EURO.
+
+Authorised dealers are advised to submit their monthly returns as per above instructions from February 2009 (return for
+the month of January 2009).
+
+Please bring these instructions to the notice of all concerned. Meanwhile please acknowledge receipt hereof.
+
+
+
+
+
+Yours faithfully,
+
+
+
+(Ahmed Ehteshamul Haider)
+Deputy General Manager
+Phone: 7120375.
+
+--- Page 3 ---
+STATEMENT S⎯2 FE-12
+
+
+
+For Transactions ACU member Countries under ACU mechamism
+
+
+
+
+
+
+
+
+
+For Bangladesh Bank's use
+AMOUNT
+
+P U R C H A S E S
+
+Cr.
+Lac
+Th.
+Unit
+Raw Jute
+8881
+
+
+
+
+Jute goods
+8882
+
+
+
+
+Ready made Garments
+8883
+
+
+
+
+Others
+8884
+
+
+
+
+A. From Abroad:-
+1. Exports (Schedule A-1/0-1, A-2/0-2)
+Sub-Total:
+
+
+
+
+
+
+9991
+
+
+
+
+2. (a) Amounts equivalent to $ 2,000 and above other than for exports (covered by Form 'C' and Schedule J-1
+attached). J-1 covers purpose codes from 0001 to 5999 of Code-5………….
+(b) Amounts equivalent to $ 2,000 and above other than for exports (covered by Form 'C' and Schedule J-2
+attached). J-2 covers purpose codes from 6001 to 9999 of Code--5……………
+
+9992
+
+
+
+
+
+9993
+
+
+
+
+3. (a) Amounts equivalent to below $ 2000 other than for exports (IRV-1 attached). IRV-I Cover Purpose
+codes from 0001 to 5999 of Code 5………………..
+(b) Amounts equivalent to below. S 2,000 other than for exports (IRV-2 attached) IRV-2 covers purpose
+codes from 6001 to 9999 of Code 5………………..
+
+9994
+
+
+
+
+B. Exchange, Transfers and Adjustments:- Sub-Total:
+
+
+
+
+
+4. Purchases from overseas branches and correspondents for credit of the Taka equivalent to non-resident
+bank account (Schedule 'H' attached )………………….
+
+6010
+
+
+
+
+5. Purchases against sales of other foreign currencies (Schedule 'B')……………….
+6011
+
+
+
+
+6. Purchases from other Authorised Dealers and Branches in Bangladesh maintaining a separate currency
+position (Schedule 'C')…………………………….
+
+6012
+
+
+
+
+7. Purchases from Bangladesh Bank (Schedule 'D' )……………………………
+6013
+
+
+
+
+8. Branch transaction adjusted through this account (Schedule 'O')……………………..
+6014
+
+
+
+
+9. Receipts by way of transfer from FES-7 and FCS-8 for payment through this account ........................
+6016
+
+
+
+
+10. Purchases on account of others ( state) :
+
+
+
+
+
+
+ii) .......................................
+6015
+
+
+
+
+*Opening Balance ( Dr.)
+
+6210
+
+
+
+
+*Credit Balance ( Cr.)
+
+6410
+
+
+
+
+
+GRAND TOTAL
+
+
+
+
+
+
+
+Statement of transactions for the period ended
+Name of Authorised Dealer
+Currency AMU (Please use currency code 98 for ACU Dollar and 47 for ACU EURO)------------
+APP. 2
+See Chapter 2
+Para 5
+
+--- Page 4 ---
+SALES
+Cash (Schedule E-2/P-2)
+0000
+
+
+
+
+
+A. Abroad :⎯
+1. Imports (Schedule )…………………………
+Grants/Loans/sup. Credits
+(Schedule EL-1/2/3)
+0001
+
+
+
+
+2. Invisible (Schedule E-3/P-3). E-3/P-3 covers purpose codes from 0001 to 5999 of Code 7 ………
+1001
+
+
+
+
+3. Miscellaneous (Schedule E-4/P-4) E-4/P-4 covers purpose codes from 6001 of to 9999 of Code 7....
+1002
+
+
+
+
+Sub Total :
+B. Exchanges, Transfers and Adjustments: ⎯
+
+
+
+
+
+4. Sales of foreign currencies to the debit of non-resident bank account**…………………
+2010
+
+
+
+
+5. Sales against purchases of other foreign currencies (Schedule 'F')……………………….
+2011
+
+
+
+
+6. Sales to other Authorised Dealers and Branches in Bangladesh maintaining a separate currency
+position (Schedule 'G')………………………………..
+2012
+
+
+
+
+7. Sales to Bangladesh Bank (Schedule 'D')…………………………….
+2013
+
+
+
+
+8. Branch transactions adjusted through this account (Schedule 'P')
+2015
+
+
+
+
+9. Sales on account of others (State) : i)…..…………….
+ii).……………….
+2014
+
+
+
+
+
+
+2210
+
+
+
+
+*Opening Balance(Cr.)…………………………..
+*Closing Balance(Dr.)……………………………
+
+2410
+
+
+
+
+GRAND TOTAL :
+
+
+
+
+
+
+**Total of currency must agree with those reported on Schedule 'M' attached to S-4 Statement.
+* Delete not applicable.
+* Note : By definition each ACU Dollar is equivalent to one US Dollar and each ACU EURO is equivalent to one EURO.
+
+Signature and Stamp of the Authorised Dealer

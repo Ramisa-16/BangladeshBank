@@ -1,0 +1,1653 @@
+--- Page 1 ---
+Page 1 of 2
+
+
+
+25 June 2025
+BRPD Circular No. 05
+Date: ---------------------
+11 Ashar 1432
+
+Managing Director/Chief Executives
+All Scheduled Banks in Bangladesh.
+
+Dear Sir,
+Loan Classification and Provisioning
+Please refer to BRPD Circular No. 15 dated 27 November 2024 on the captioned subject.
+To enhance risk management capabilities of banks and strengthen the transparency of the
+financial reporting, Bangladesh Bank issued BRPD Circular No. 15/2024 on Loan
+Classification and Provisioning aligning with international best practices. In the paragraph
+11(C) of the stated circular, banks were instructed to continue existing forms to report loan
+classification and provisioning information until further modification.
+For the purpose of ensuring the proper implementation of the BRPD Circular No. 15/2024
+the following instructions are being provided for reporting purposes:
+a) Revised CL reporting forms (CL-1 to CL-5) are attached herewith. Banks are advised to
+generate these forms through CBS;
+b) The Enterprise Data Warehouse (EDW) template (T_PS_Q_LN_PROV) for loan
+classification and provisioning has been changed and uploaded on the Bangladesh Bank
+website. Bank should upload the CL (Both Domestic Banking Unit and Offshore Banking
+Unit) statements in EDW accordingly;
+c) Banks are advised to report according to the updated CL forms and EDW template from
+quarter ending 30 September 2025.
+It is to be noted that, definition of Past Due/Overdue has been given in the paragraph 6(a)(1)
+of the stated circular. For the purpose of unambiguous understanding and proper reporting,
+the definition of past due/overdue and the criteria of loan classification of Fixed Term Loan
+have been clarified as follows:
+In case of any installment(s) or part of installment(s) of a Fixed Term Loan is not repaid
+within the due date, the amount of unpaid installment(s) will be termed as ‘past due or
+overdue installment’ and if the amount of ‘past due or overdue installment’ is equal to or
+Bangladesh Bank
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+website: www.bb.org.bd
+
+
+
+
+
+
+Banking Regulation &
+Policy Department
+
+--- Page 2 ---
+Page 2 of 2
+
+more than the amount of installment(s) due, then the entire loan will be classified as per
+instructions contained in Para 6(a)(3) of the BRPD Circular No. 15/2024. For example: If
+the amount of past due installment is equal to or more than the amount of installment(s)
+due within 03 (three) months, the entire loan will be classified as ''Sub-standard''.
+Explanation: If any Fixed Term Loan is repayable on monthly installment basis, the
+amount of installment(s) due within 03 (three) months will be equal to the sum of 03
+monthly installments. Similarly, if the loan is repayable on quarterly installment basis,
+the amount of installment(s) due within 03 (three) months will be equal to the 1 quarterly
+installments.
+All other instructions of BRPD Circular No. 15/2024 will remain unchanged.
+This directive has been issued by Bangladesh Bank in exercise of its power conferred on it
+under section 49(1)(Cha) of the Bank Company Act, 1991.
+This circular will come into force with immediate effect.
+
+
+Yours faithfully,
+
+(Mohammad Shahriar Siddiqui)
+Director (BRPD)
+Phone: 9530252
+
+--- Page 3 ---
+CL-1:SUMMARY OF LOAN CLASSIFICATION AND PROVISION AS OF DD/MM/YYYY
+Ref: BRPD Circular No. 15/2024
+
+Bank Name:
+Branch Name:
+
+
+
+
+
+
+
+
+
+
+
+
+(Amount in BDT)
+SL
+No.
+
+Total
+Outstanding
+Balance Outstanding
+Base for Provision Amount of Provision Required
+Amount of
+Provision
+Maintained
+Interest Suspense on
+Unclassified (UC)
+Classified
+Defaulted
+Unclassified
+A/c's
+Classified
+A/c's
+Total
+STD-0
+STD-1
+STD-2
+SMA
+SS
+DF
+B/L
+SS
+DF
+B/L
+General
+Specific
+Total
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Continuous Loan (CL-2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Agricultural Credit (Other than
+Short Term)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) CMSME Financing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Consumer Financing (Other than
+Credit Card)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Credit Card
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V) Industrial Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI) Service Sector Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VII) Trade & Commerce Sector Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VIII) Other Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III, IV, V, VI, VII & VIII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demand Loans (CL-3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Agricultural Credit (Other than
+Short Term)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) CMSME Financing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Consumer Financing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Industrial Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V) Service Sector Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI) Trade & Commerce Sector Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VII) Other Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III, IV, V, VI & VII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed Term Loan (CL-4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I) Agricultural Credit (Other than
+Short Term)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II) CMSME Financing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III) Consumer Financing (Other than
+Housing Finance)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV) Housing Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V) Industrial Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI) Service Sector Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VII) Trade & Commerce Sector Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VIII) Other Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total of I, II, III, IV, V, VI, VII & VIII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short Term Agri. Credit (CL-5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short Term Agri. Credit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub-Total of (1+2+3+4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Staff Loan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OFF BALANCE SHEET EXPOSURE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NB: Sectors (CMSME, Industrial Credit, Consumer Financing etc.) should be reported aligning with Scheduled Bank Statistics returns)
+CHECK LIST
+Form No
+No of
+Pages
+Form No.
+No. of
+Pages
+
+
+
+
+
+
+CL-2
+
+CL-4
+
+
+CL-3
+
+CL-5
+
+--- Page 4 ---
+CL-2: RETURNS FOR CLASSIFICATION OF CONTINUOUS LOANS AS OF DD/MM/YYYY
+
+Ref: BRPD Circular No. 15/2024
+Bank Name:
+
+Branch Name:
+Sector Name: (CMSME Financing, Industrial Credit, Consumer Financing, Credit card, Service Sector Financing etc. as per CL-1)1
+(Amount in BDT)
+SL.
+No.
+Name of
+the
+Borrower
+Loan
+Identification
+No.
+Customer's
+Unique ID
+Business
+Identification
+Number
+(BIN)/Taxpayer
+Identification
+Number (TIN)
+Nature of
+Facilities (CC,
+Working
+Capital, SOD,
+OD Etc.)
+Date of First
+Sanction
+(DD/MM/YY)
+Date of Last
+Renewal
+(DD/MM/YY)
+Latest
+Sanctioned
+Limit
+Balance
+Outstanding
+Date of Expiry
+(DD/MM/YY)2
+Period of
+Overdue/Past Due
+(in months)
+(Ref. date - Col.11)
+Preliminary Classification
+Objective
+Criteria (OC)
+Qualitative
+Judgment
+(QJ)
+10
+11
+12
+13
+14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Final Classification
+
+Defaulted
+Outstanding
+Cumulative Interest Suspense
+Collateral Type
+(Cash/Mortgage
+etc.)
+Value of Eligible
+Collateral
+(to nearest amount)
+Outstanding Amount-
+Interest Suspense-Value of
+Eligible Collateral
+(Col.10-Col.20-Col.22)
+Base for Provision (Greater
+amount between Col.23 & 15%
+of Total Outstanding)
+Amount of
+Provision
+Required
+Remarks (CIB
+Status etc.)
+Classification
+Status
+Basis for
+Classification
+(OC/QJ)
+
+Unclassified
+A/Cs
+Classified
+A/Cs
+Total
+SS
+DF
+B/L
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Loans and advances of same sectors should be reported in orderly manner.
+2 In Case of Credit Card, payment due date of minimum due amount should be reported in column 11.
+
+--- Page 5 ---
+CL-3: RETURNS FOR CLASSIFICATION OF DEMAND LOANS AS OF DD/MM/YYYY
+
+Ref: BRPD Circular No. 15/2024
+Bank Name:
+Branch Name:
+Sector Name: (CMSME Financing, Industrial Credit, Consumer Financing, Service Sector Financing etc. as per CL-1)1
+(Amount in BDT)
+SL.
+No.
+Name of
+the
+Borrower
+Loan
+Identification
+No.
+Customer's
+Unique ID
+Business
+Identification
+Number
+(BIN)/Taxpayer
+Identification
+Number (TIN)
+Nature of
+Facilities (PIF,
+PAD, FBP, IBP, PC,
+Forced Loan etc.)
+Date of
+Sanction
+(DD/MM/YY)
+Amount
+Disbursed
+Date of
+Disbursement
+(DD/MM/YY)
+Balance
+Outstanding
+Claim Date
+(DD/MM/YY)
+Period of
+Overdue/Past Due
+(in months)
+(Ref. date - Col. 11 )
+Preliminary Classification
+Objective
+Criteria (OC)
+Qualitative
+Judgment(QJ)
+10
+11
+12
+13
+14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Final Classification
+Defaulted
+Outstanding
+Cumulative Interest Suspense
+Collateral Type
+(Cash/Mortgage
+etc.)
+Value of Eligible
+Collateral
+(to nearest amount)
+Outstanding Amount-
+Interest Suspense-
+Value of Eligible
+Collateral
+(Col.10-Col.20-Col.22)
+Base for Provision (Greater amount
+between Col.23 & 15% of Total
+Outstanding)
+Amount of
+Provision
+Required
+Remarks
+(CIB Status
+etc.)
+Classification
+Status
+Basis for
+Classification
+(OC/QJ)
+Unclassified
+A/Cs
+Classified
+A/Cs
+Total
+SS
+DF
+B/L
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Loans and advances of same sectors should be reported in orderly manner.
+
+--- Page 6 ---
+CL-4: RETURNS FOR CLASSIFICATION OF FIXED TERM LOANS AS OF MM/DD/YYYY
+Ref: BRPD Circular No. 15/2024
+Bank Name:
+Branch Name:
+Sector Name: (CMSME Financing, Industrial Credit, Consumer Financing, Housing Finance, Service Sector Financing etc. as per CL-1)1
+(Amount in BDT)
+
+1 Loans and advances of same sectors should be reported in orderly manner.
+2 RS= Reschedule, RSIW= Reschedule with Interest Waiver, RSTR= Restructure).
+3 In case of rescheduling, mention the original nature (e.g. CC, OD, PIF etc.) before 1st rescheduling.
+4 In case of reschedule/ restructure, Date of Execution should be mentioned in column 10.
+Quarterly
+etc.
+SL.
+No.
+Name of
+the
+Borrower
+Loan
+Identification
+No.
+Customer's
+Unique ID
+Business
+Identification
+Number
+(BIN)/Taxpayer
+Identification
+Number (TIN)
+Nature of
+Sanction
+(New, RS-
+1/2/3/4/....,
+RSIW-
+RSTR etc.)2
+Nature of
+Facility
+(Project
+finance,
+Auto Loan,
+Personal
+Loan etc.)3
+Date of
+Sanction/
+Reschedule/
+Restructure
+(DD/MM/YY)
+Amount
+Disbursed/
+Rescheduled/
+Restructured
+Date of First
+Disbursement
+(DD/MM/YY)4
+Balance
+Outstanding
+Latest
+Installment info
+Grace
+Period/
+Moratorium
+Period (in
+months)
+Due date of
+1st
+Installment
+(DD/MM/YY)
+Due date of
+Last
+Installment
+(DD/MM/YY)
+Amount Due
+Since
+Sanctioning/
+Last
+Rescheduling/
+Restructuring
+Amount Paid
+Since
+Sanctioning/
+Last
+Rescheduling/
+Restructuring
+Size Frequency5
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overdue
+Amount
+(Col.17-
+Col.18)
+Time Equivalent of
+Amount Overdue (in
+months)
+(Col.19÷Col.12)×Col.13
+Time after
+expiry (if
+any) (in
+months)
+[Ref. Date-
+Col. 16]
+Period of
+Overdue/
+Past Due
+[Col.20+Col.21]
+(in months)
+Preliminary
+Classification
+Final Classification
+Defaulted
+Outstanding
+Cumulative Interest
+Suspense
+Collateral
+Type
+(Cash/
+Mortgage
+etc.)
+Value of
+Eligible
+Collateral
+(to
+nearest
+amount)
+Outstanding
+Amount-
+Interest
+Suspense-
+Value of
+Eligible
+Collateral
+(Col.11-
+Col.30-
+Col.32)
+Base for
+Provision
+(Greater amount
+between Col.33
+& 15% of Total
+Outstanding)
+Amount
+of
+Provision
+Required
+Remarks
+(CIB
+Status
+etc.)
+Objective
+Criteria
+(OC)
+Qualitative
+Judgment
+(QJ)
+Classification
+Status
+Basis for
+Classification
+(OC/ QJ)
+Unclassified
+A/Cs
+Classified
+A/Cs Total
+SS
+DF
+B/L
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+--- Page 7 ---
+CL-5: RETURNS FOR CLASSIFICATION OF SHORT TERM AGRICULTURAL CREDIT AS OF DD/MM/YYYY
+Ref: BRPD Circular No. 15/2024
+Bank Name:
+Branch Name:
+(Amount in BDT)
+SL.
+No.
+Name of
+the
+Borrower
+Loan
+Identification
+No.
+Customer's
+Unique ID
+Business
+Identification
+Number
+(BIN)/Taxpayer
+Identification
+Number (TIN)
+Nature of
+Facilities
+(Crop,
+Fisheries,
+Livestock
+etc.)1
+Date of
+Sanction
+(DD/MM/
+YY)
+Amount
+Disbursed
+Date of
+Disbursement
+(DD/MM/YY)
+Balance
+Outstanding
+Due Date/Claim
+Date
+(DD/MM/YY)
+Period of
+Overdue/Past Due
+(in months)
+(Ref. date - Col.11 )
+Preliminary Classification
+Objective
+Criteria (OC)
+Qualitative
+Judgment (QJ)
+10
+11
+12
+13
+14
+
+Final Classification
+Defaulted
+Outstanding
+Cumulative Interest Suspense
+Collateral Type
+(Cash/Mortgage
+etc.)
+Value of
+Eligible
+Collateral
+(to nearest
+amount)
+Outstanding Amount-
+Interest Suspense-
+Value of Eligible
+Collateral
+(Col.10-Col.20-Col.22)
+Base for Provision (Greater
+amount between Col.23 & 15%
+of Total Outstanding)
+Amount of
+Provision
+Required
+Remarks (CIB
+Status etc.)
+Classification
+Status
+Basis for
+Classification
+(OC/QJ)
+Unclassified
+A/Cs
+Classified
+A/Cs
+Total
+SS
+DF
+B/L
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Loans and advances of same natures should be reported in orderly manner

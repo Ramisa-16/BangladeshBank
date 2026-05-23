@@ -1,0 +1,3074 @@
+--- Page 1 ---
+সাসটেইনেবল ফাইন্যান্স ডিপার্টমেন্ট Website: www.bb.org.bd
+
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা।
+ডিসেম্বর ৩০, ২০২০
+এসএফডি সার্কুলার নং: ০৫ তারিখ: টিটি
+পৌষ ১৫, ১৪২৭
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে Saw সকল তফসিলি ব্যাংক ও আর্থিক প্রতিষ্ঠান
+
+Sustainable Finance Policy প্রণয়ন প্রসঙ্গে ।
+
+বাংলাদেশ ব্যাংক কর্তৃক জারিকৃত বিআরপিডি সার্কুলার নং ০২/২০১১ এবং জিবিসিএসআরডি সার্কুলার নং-
+০৪/২০১৩ এর প্রতি আপনাদের দৃষ্টি আকর্ষণ করা যাচ্ছে।
+
+২। আর্থিক খাতে আন্তর্জাতিক স্ট্যান্ডার্ড নির্ধারণকারী সংস্থাসমূহের কার্যক্রমের ফলে পরিবেশবান্ধব ব্যাংকিং,
+জলবায়ু অর্থায়ন, কার্বন ফাইন্যান্স, ঘিনবন্ড ও টেকসই অর্থায়ন এবং সিএসআর-এর প্রভাব পর্যালোচনা ও নীতি-পরামর্শ
+প্রণয়ন; বাংলাদেশ সরকারের ঘোষিত বিভিন্ন কর্মপরিকল্পনা যেমন- Perspective Plan of Bangladesh 2010-
+2021, National Sustainable Development Strategy, অষ্টম পঞ্চবার্ষিকী পরিকল্পনা, Intended
+Nationally Determined Contributions (INDCs), Bangladesh Delta Plan 2100, এবং
+Sustainable Development Goals প্রভৃতি বাস্তবায়নের আবশ্যকতা বিবেচনায় নিয়ে বৃহৎ পরিসরে ব্যাংক ও
+আর্থিক প্রতিষ্ঠানসমূহের জন্য প্রণীত “Sustainable Finance Policy” (রিপোর্টিং ফরম্যাটসহ) এতদ্বারা জারি করা
+Sar | জারিকৃত নীতিমালার নির্দেশনাসমূহ অনুসরণের জন্য আপনাদেরকে পরামর্শ দেয়া যাচ্ছে।
+
+৩। এ সার্কুলারের সাথে সংযোজনীসমূহ (Sustainable Finance Policy ও রিপোর্টিং ফরম্যাট) সার্কুলারের
+অবিচ্ছেদ্য অংশ মর্মে গণ্য হবে। সংযোজিত ফরম্যাট অনুযায়ী রিপোর্টিং প্রতি ব্রেমাস অস্তে পরবর্তী মাসের শেষ
+কর্মদিবসের মধ্যে এ বিভাগে দাখিল করতে হবে ।
+
+81 ব্যাংক কোম্পানি আইন, ১৯৯১ এর ৪৫ ধারা এবং আর্থিক প্রতিষ্ঠান আইন, ১৯৯৩ এর ১৮) ধারায় প্রদত্ত
+ক্ষমতাবলে এ নির্দেশনা জারি করা হ'ল, যা অবিলম্বে কার্যকর হবে।
+
+আপনাদের,
+সংযোজনী : বর্ণনা মোতাবেক | yf
+
+(খন্দকার মোরশেদ মিল্লাত)
+মহাব্যবস্থাপক
+ফোন § ৯৫৩০৩২০
+E-mail: morshed.millat@bb.org.bd
+gm.sfd@bb.org.bd
+
+--- Page 2 ---
+Sustainable Finance Policy
+for
+Banks and Financial Institutions
+
+
+
+
+
+
+
+
+
+
+
+Bangladesh Bank
+Sustainable Finance Department
+
+
+
+
+
+
+
+
+
+
+
+
+
+December 2020
+
+--- Page 3 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+
+
+
+
+
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+
+
+Advisor
+
+Mohd. Humayun Kabir
+Executive Director, Bangladesh Bank
+
+Team Leader
+
+Khondkar Morshed Millat
+General Manager, Bangladesh Bank
+
+
+Team Members
+
+Chowdhury Liakat Ali
+Deputy General Manager, Bangladesh Bank
+
+Amitabh Chakraborty
+Deputy General Manager, Bangladesh Bank
+
+Shakhawat Hossan
+Deputy Director, Bangladesh Bank
+
+Md. Sharfuzzaman
+Deputy Director, Bangladesh Bank
+
+Juwel Majumder
+Deputy Director, Bangladesh Bank
+
+--- Page 4 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+
+
+
+Preamble
+Sustainability has become one of the mainstream considerations in the financial sector. There is
+however a need for convergence on terminology among market participants and wider
+stakeholders. The objective of Sustainable Finance Policy is to ensure that all participants and
+stakeholders are using a common and transparent vocabulary of Sustainable Finance arena. It has
+also been designed as a contribution to other ongoing efforts in the financial industry to develop
+a consensus around key terms and definitions in sustainable finance.
+Sustainability in this context means the quality of not being harmful to the environment or
+depleting natural resources, and thereby supporting long-term ecological, social balance and
+governance (ESG). To attain the global targets set through the Paris Agreement and the broader
+United Nations Sustainable Development Goals (SDGs), Bangladesh Bank (BB) has started this
+Sustainable Finance Policy initiative. The idea behind this initiative is that the financial service
+sector, Banks & FIs, as an important economic player, must make an appropriate contribution to
+sustainability. Bangladesh Bank as a pioneer financial regulatory body has been addressing
+sustainability issues in its policies and regulations and guide Banks and FIs to accommodate
+Environmental, Social and Governance (ESG) issues in their financing portfolio and
+credit/investment management. Recognizing that the financial sector can play a catalytic role in
+speeding up adoption of environmentally friendlier output practices in the real economy;
+Bangladesh Bank has launched in 2011 a comprehensive green banking initiative to support and
+promote environmentally responsible financing; issuing guidance inter alia for environmental
+risk assessment of borrowing proposals and for greening of internal processes and practices
+within banks and FIs. Introduction of the Green Transformation Fund (GTF) in 2016 and
+guidance note on GTF in 2020; ESRM guidelines in 2017; recent guidelines on BB refinance
+scheme for 55 green products/projects/initiatives belong to 9 green categories in 2020 are some
+of BB's green initiatives over the time. These green initiatives and practices led to defining
+Sustainable Finance and introduction of Sustainable Finance Policy.
+Sustainable Finance needs a harmonized and sound policy and regulatory framework that ensures
+clarity of purpose, protects consumers, supports market development, and facilitates transition in
+key economic sectors. Sustainable Finance Policy has not been confined to only Green
+Taxonomy but also Sustainable Finance Taxonomy. Green Taxonomy includes green banking
+activities, green finance policy, ESDD, utilization of Climate Risk Fund, internal environmental
+management including carbon footprint measurements, green marketing, disclosures etc.,
+whereas Sustainable Finance Taxonomy contains Sustainable Agriculture, CMSME, Socially
+Responsible Financing and identification process of sustainable linked finance, R&D for
+sustainable product innovation, marketing, awareness, capacity building and sustainable finance
+disclosure for banks & FIs etc.
+
+--- Page 5 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+
+
+
+There is a thirst for tracking and hunting products/projects/initiatives linked to sustainability
+through proper justification. In this regard a standard identification process has been introduced
+to include green ones along with Sustainable Agriculture, CMSME and Socially Responsible
+Finance (SRF) Products/Projects/Initiatives linked to sustainability. All these components have
+been structurally placed in Sustainable Finance Taxonomy.
+„Sustainable Finance Policy for Banks and Financial Institutions‟ has been structurally arranged
+in six chapters where Chapter A contains Introduction and Rationale, Chapter B and C cover
+Sustainable Taxonomy and Green Taxonomy respectively, Chapter D includes Target of Green
+Finance and Sustainable Finance, Chapter E states Exclusion List and Inclusion Criteria for
+inclusion of new products/projects/initiatives for Sustainable Finance, Chapter F about
+Conclusion and lastly characteristics of Green Featured Buildings and a List of Applicable
+National Regulations & International Treaties has been incorporated as Annexure in Chapter G.
+
+--- Page 6 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+
+
+
+Foreword
+
+Government‟s development plan, its global commitment for sustainability and Bangladesh
+Bank‟s strategic goals are the major drivers to formulate a comprehensive policy for sustainable
+finance by the Sustainable Finance Department of Bangladesh Bank. This policy has come
+through a long process of drafting, rigorous multi-step consultation with Banks and FIs as well as
+development partners. The policy includes Sustainable Finance Taxonomy along with a country
+perspective Green Taxonomy. The Green Finance and the Sustainable Linked Finance together
+comprise the Sustainable Finance. Comprehensive lists of green products/projects/initiatives and
+identical areas of sustainable linked finance have been included in the policy. This policy
+addresses the essential clarity and guidance to identify green and Sustainable Linked Finance.
+Sustainable Finance contains Green Finance, which is one of its components along with
+Agriculture, CMSME and Socially Responsible Finance linked to sustainability. It is very
+encouraging that we the team received as many as 45 comments/ feedback on the draft document
+from concerned national stakes and international agencies/ organizations. We have gone through
+the comments, reviewed and adjusted accordingly those seems to be relevant and justified. I
+would like to extend my heartfelt thanks and gratitude to the banks, FIs, other concerned national
+and international organizations/agencies/offices for their feedback on the draft SFP.
+
+I am grateful to the honorable Governor for his kind instructions and approval on the strategic
+decisions and work plan. Our humble submission to the honorable Deputy Governor for his
+timely guidance and support he extended. Besides, a number of times I had an opportunity to
+know their views, valuable advice and guidance while updating. We the team expresses our
+heartiest gratitude to our Advisor of our team who had been with us in our prime need and
+guided us with his close and keen observation on our proceedings. Last but not the least, I feel
+very happy about my colleagues that we the team worked day-night for preparing the draft in the
+last few months with such feelings that we belong to the same family.
+
+Banks and FIs will have to allocate budget separately on their previous year‟s net outstanding
+basis – one allocation for sustainable finance including the amount of green finance and the other
+allocation for only green finance. It is expected that banks and FIs will play active role in
+attaining target of green finance and sustainable finance as per instructions issued by Sustainable
+Finance Department of Bangladesh Bank. It is also expected that all the concerned stakes
+including banks and FIs will be passionate, proactive and they will concentrate on Sustainable
+Finance Policy with due consideration in a collaborative and collective manner for making any
+challenge (if any) into opportunities.
+
+Khondkar Morshed Millat
+General Manager
+
+--- Page 7 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+
+
+
+Table of Contents
+Chapter-1: Sustainable Finance ...................................................................................................... 1
+1. Introduction ........................................................................................................................................... 1
+2. Rationale ............................................................................................................................................... 2
+3. Alignment of Sustainable Finance with SDGs and INDC .................................................................... 3
+Chapter-2: Sustainable Finance Taxonomy .................................................................................... 5
+1. Sustainable Finance .............................................................................................................................. 5
+2. Objectives/Focus/Purpose of Sustainable Finance Taxonomy ............................................................. 5
+3. Features of Sustainable Finance Taxonomy ......................................................................................... 5
+3.1. Identification of Sustainable linked finance ...................................................................................... 6
+3.1.1. Sustainable Agriculture ........................................................................................................... 6
+3.1.2. Sustainable CMSME ............................................................................................................... 6
+3.1.3. Socially Responsible Financing .............................................................................................. 7
+3.2 Identification of other Sustainable linked finance ........................................................................... 8
+3.2.1. Working Capital ...................................................................................................................... 8
+3.2.2. Priority Green Products for Trading Sector ............................................................................ 9
+3.2.3. Priority Eco-Friendly Products for Trading Sector ............................................................... 10
+3.3. Screening and Monitoring ............................................................................................................... 10
+3.3.1. Screening ............................................................................................................................... 10
+3.3.2. Steps of Screening ................................................................................................................. 11
+3.3.3. Monitoring ............................................................................................................................ 11
+3.4. Inclusion of Technological Advancement ...................................................................................... 12
+3.5. Sustainable Finance Strategic Planning, R&D for Product Innovation, Product Marketing,
+Awareness and Capacity Building, Impact Assessment/ Review .......................................................... 13
+3.6. Sustainable Finance Disclosure....................................................................................................... 14
+Chapter-3: Green Taxonomy ........................................................................................................ 16
+1. Green Taxonomy ................................................................................................................................ 16
+
+--- Page 8 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+
+
+
+2. Objectives/Focus/Purpose of Green Taxonomy.................................................................................. 16
+3. Features of Green Taxonomy .............................................................................................................. 16
+3.1. Green Banking ................................................................................................................................. 17
+3.2. Methodology of Defining Green Finance ........................................................................................ 17
+3.3. Identification Process of Green Products/Projects/Initiatives with Norms/Benchmark/ Standards . 18
+3.3.1. List of Green Products/Projects/Initiatives applicable for Term Finance ..................................... 19
+3.4. Policy Activities towards Green Environment ................................................................................. 22
+3.5. Economic Activities for reducing negative impact of Environment ................................................ 23
+3.6. Screening & Monitoring .................................................................................................................. 24
+3.7. Developing a Green Bond Standard ................................................................................................. 24
+3.8. Green Investment ............................................................................................................................. 26
+3.9. Greening the Polluting Industries .................................................................................................... 27
+3.10. Carbon Footprint Reduction Measures & Carbon Finance ............................................................ 27
+3.11. Technological Advancement for Inclusiveness in Green Activities and Green Growth ............... 28
+3.12. Green Strategic Planning, R&D for Green Innovation, Product Marketing, Awareness and
+Capacity Building, Green Impact Assessment /Review ......................................................................... 29
+3.13. Green Finance Disclosure .............................................................................................................. 29
+Chapter-4: Target, Rating & Rewards .......................................................................................... 30
+1. Fixation of Green Finance Target and Sustainable Finance Target including Green Finance ............ 30
+2. Attainment of Green Finance and Sustainable Finance Target ........................................................... 30
+3. Sustainability Rating ........................................................................................................................... 30
+4. Compliance and Non-compliance ....................................................................................................... 30
+5. Reward and Incentives ........................................................................................................................ 30
+Chapter-5: Exclusion List & Inclusion Criteria of Products/Projects/Initiatives for Sustainable
+Finance .......................................................................................................................................... 31
+1. Exclusion List=> Ineligible for Finance ............................................................................................. 31
+2. Exclusion List=> Ineligible for Sustainable Finance .......................................................................... 32
+
+--- Page 9 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+
+
+
+3. Inclusion Criteria of Products/Projects/Initiatives for Sustainable Finance ........................................ 33
+Conclusion .................................................................................................................................... 35
+Annexure ....................................................................................................................................... 36
+1. Annexe-1: Characteristics of Green Featured Building ...................................................................... 36
+2. Annexe-2: List of Applicable National Regulations and International Treaties ................................. 41
+
+--- Page 10 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+
+
+
+List of Abbreviations
+AAC
+Autoclaved Aerated Concrete
+BB
+Bangladesh Bank
+BIFFL
+Bangladesh Infrastructure Finance Fund Limited
+BoD
+Board of Directors
+BREEAM
+Building Research Establishment Environmental Assessment Method
+BSEC
+Bangladesh Securities and Exchange Commission
+CASBEE
+Comprehensive Assessment System for Built Environment Efficiency
+CBI
+Climate Bonds Initiative
+CCEs
+Certified Carbon Emissions
+CERs
+Carbon Emission Reductions
+CFF
+Climate Fiscal Framework
+CITES
+Convention on International Trade in Endangered Species (CITES)
+CMSME
+Cottage, Micro, Small & Medium Enterprises
+CO2
+Carbon dioxide
+CSE
+Chittagong Stock Exchange
+CSR
+Corporate Social Responsibility
+DoE
+Department of Environment
+DSE
+Dhaka Stock Exchange
+ECA
+Environment Conservation Act
+ECR
+Environmental Conservation Rules
+EDGE
+Excellence in Design for Greater Efficiencies
+ERM
+Environmental Risk Management
+ESG
+Environmental, Social and Governance
+ESRM
+Environmental & Social Risk Management
+ETP
+Effluent Treatment Plant
+EU
+European Union
+FCK
+Fixed Chimney Kiln
+GHG
+Green House Gas
+GoB
+Government of Bangladesh
+GRIHA
+Green Rating for Integrated Habitat Assessment
+GTF
+Green Transformation Fund
+HHK
+Hybrid Hoffman Kiln
+ICT
+Information and Communication Technology
+IDCOL
+Infrastructure Development Company Limited
+IDRA
+Insurance Development and Regulatory Authority of Bangladesh
+IEA
+International Energy Agency
+IFC
+International Finance Corporation
+
+--- Page 11 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+
+
+
+INDC
+Intended Nationally Determined Contributions
+IPCC
+Intergovernmental Panel on Climate Change
+LEED
+Leadership in Energy and Environmental Design
+MANCOM
+Management Committee
+MFI
+Micro Credit Financial Institution
+MoEF&CC
+Ministry of Environment, Forest and Climate Change
+MRA
+Micro Credit Regulatory Authority
+NBR
+National Board of Revenue
+NGO
+Non-Governmental Organizations
+PFIs
+Participating Financial Institutions
+R&D
+Research and Development
+RMC
+Risk Management Committee
+SDGs
+Sustainable Development Goals
+SFU
+Sustainable Finance Unit
+SMESPD
+SME and Special Programs Department
+SREDA
+Sustainable and Renewable Energy Development Authority
+SRF
+Socially Responsible Finance
+SWOT
+Strength, Weakness, Opportunity and Threat
+ToR
+Terms of Reference
+UNEP
+United Nations Environment Programme
+UNESCO
+United Nations Educational, Scientific and Cultural Organization
+UNFCCC
+United Nations Framework Convention on Climate Change
+USGBC
+U.S. Green Building Council
+VERs
+Voluntary Carbon Emission Reductions
+
+--- Page 12 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 1/43
+
+
+Chapter-1: Sustainable Finance
+
+
+1. Introduction
+
+The definitions of Sustainable Finance in accordance with concerned international stakes such as
+EU, UNEP and IFC look like the followings:
+Sustainable finance generally refers to the process of taking due account of
+environmental, social and governance (ESG) considerations when making investment
+decisions in the financial sector. More specifically, environmental considerations may
+refer to climate change mitigation and adaptation, as well as the environment more
+broadly, such as the preservation of biodiversity, pollution prevention and circular
+economy. Social considerations may refer to issues of inequality, inclusiveness, labor
+relations, investment in human capital and communities, as well as human rights issues.
+The governance of public and private institutions, including management structures,
+employee relations and executive remuneration, plays a fundamental role in ensuring the
+inclusion of social and environmental considerations in the decision-making process.
+
+Sustainable finance looks at environmental, social and governance (ESG) factors in both
+market practice and policy frameworks for banking, capital markets, investment and
+insurance.
+
+Sustainable Finance aims at introducing environmental, social, and governance standards,
+as well as risk management to the lending practices of banks and FIs to promote stability
+of financial systems in developing countries, and channel finance to responsible entities.
+
+UNFCCC defined climate finance as part of Sustainable Finance as:
+
+“finance that aims at reducing emissions, and enhancing sinks of greenhouse gases and aims at
+reducing vulnerability of, and maintaining and increasing the resilience of, human and ecological
+systems to negative climate change impacts.”
+
+Bangladesh Bank defines Sustainable Finance in a broader manner taking above definitions and
+Bangladesh scenario in due consideration as well as in conformity with the international norms
+and standards.
+
+Sustainable finance refers to any form of financial service that includes investment, insurance,
+banking, accounting, trading, economical and financial advice integrating environmental, social
+and governance (ESG) criteria into the business or investment decisions for lasting benefits of
+both clients and society at large. Sustainable Finance is about Green Banking, Sustainable
+Agriculture, Sustainable CMSME, CSR that includes Socially Responsible Finance activities with
+respect to sustainability.
+
+--- Page 13 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 2/43
+
+
+
+
+Sustainable Finance includes Green Finance or in other way Green Finance is a subset of a wider
+definition of Sustainable Finance. Sustainable Finance Department of Bangladesh Bank has
+taken an effort to prioritize of the priorities based on their contribution towards sustainability
+with respect to environmental, social, economic and governance issues those are in conformity
+with Sustainable Development Goals (SDGs), Perspective Plans (2010-2021), recent 8th Five
+Year Plan, Vision 2041, Intended Nationally Determined Contributions (INDCs), Bangladesh
+Delta Plan 2100, Govt. issued Rules/Regulations/Guidelines/Instructions/Notifications and
+nevertheless international benchmark/norms/standard.
+2. Rationale
+
+Sustainable Finance Policy is for sustainability considerations in order to mobilize finance
+towards sustainable growth. Monetary Policy of Bangladesh Bank ingrains priority on Green
+Finance as a part of Sustainable Finance. Sustainable Finance Policy has been formulated to
+guide banks and FIs for their participation and contribution in the implementation of the INDCs
+for attaining respective SDGs. In the INDC, Bangladesh is committed to reduce GHG emissions
+by 5% unconditionally from Business as Usual (BaU) levels by 2030 or a conditional 15%
+reduction in GHG emission from BaU levels by 2030. Sustainable Finance Policy has
+incorporated target both for green finance and sustainable finance for the banks and FIs which is
+linked to GHG emissions reductions and strengthened climate resilience as well.
+
+Sustainable Finance is a work-stream to support the delivery on the objectives of Green
+Products/Projects/Initiatives by channeling private investment into the transition to a climate-
+neutral, climate-resilient, low-carbon, more resource-efficient, green, competitive and inclusive
+sustainable economy. Sustainable Finance has a key role to play in mobilizing the necessary
+capital to deliver on the policy objectives as national and international commitments on climate
+and sustainability objectives. It has to go with the UN 2030 agenda and SDGs and the Paris
+Climate Agreement. It has to go with the 8th 5YR plan and other perspective plans.
+
+The Conventions of the Kyoto Protocol and the Paris Agreement call for financial assistance
+from member countries with more financial resources to those that are less endowed and more
+vulnerable. This recognizes that the contribution of countries to climate change and their
+capacity to prevent it and cope with its consequences vary enormously.
+
+--- Page 14 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 3/43
+
+
+3. Alignment of Sustainable Finance with SDGs and INDC
+
+Bangladesh has already completed many significant upfront activities for starting the Sustainable
+Development Goals (SDGs) implementation. The responsibilities of ministries and agencies
+against each goal and target of the 2030 Agenda have been mapped out. Bangladesh is also one
+of the signatory parties which outlined what post-2020 climate actions they intended to take as
+part of INDCs under Paris Agreement to reduce global average temperature and to achieve net
+zero emissions. Accordingly, Sustainable Finance Components and Sectors under this policy
+have been aligned with relevant goals and targets of SDGs and INDC‟s commitment of
+Bangladesh in the following manner:
+
+SDGs
+SDGs
+Targets
+Sustainable
+Finance
+Components
+Sustainable Finance
+Sectors
+INDC of
+Bangladesh
+
+1.3, 1.4,
+1.5, 1.b,
+2.3, 5.a,
+6.1, 8.1,
+8.2, 8.3,
+8.9, 9.2,
+9.3
+Sustainable
+Linked
+Finance
+1. Sustainable
+Agriculture
+2. Sustainable
+CMSME
+3. Socially
+Responsible
+Finance
+
+1. Mitigation
+contribution:
+Reduction
+of GHG emissions
+by 5% by 2030 in
+the
+power,
+transport
+and
+industry
+sectors
+(unconditional)
+Reduction
+of GHG emissions
+by 15% by 2030 in
+the
+power,
+transport
+and
+industry
+sectors
+(conditional)
+
+Adaptation
+component:
+ To protect the
+population, enhance
+their
+adaptive
+capacity
+and
+livelihood options,
+and to protect the
+overall
+development of the
+Bangladesh in its
+stride for economic
+progress
+and
+wellbeing
+of
+the
+
+6.3, 6.4,
+7.2, 7.3,
+7.a, 8.1,
+8.4, 8.5,
+9.2, 9.3,
+9.4, 12.5,
+13.2,
+13.a,
+17.14,
+17.17,
+17.18
+Other
+Sustainable
+Linked
+Finance
+1. Working Capital
+2. Priority
+Green
+Products
+for
+Trading Sector
+3. Priority
+Eco-
+Friendly Products
+for
+Trading
+Sector
+
+Green
+Finance
+1. Renewable
+Energy
+2. Energy
+Resource
+Efficiency
+3. Alternative
+Energy
+4. Liquid
+Waste
+Management
+5. Solid
+Waste
+Management
+6. Recycling
+Manufacturing of
+
+--- Page 15 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 4/43
+
+
+SDGs
+SDGs
+Targets
+Sustainable
+Finance
+Components
+Sustainable Finance
+Sectors
+INDC of
+Bangladesh
+Recyclable
+Goods
+7. Environment
+Friendly
+Brick
+Production
+8. Green/Environme
+nt
+Friendly
+Establishments
+9. Green
+Agriculture
+10. Green CMSME
+11. Green SRF
+
+people.
+Green
+Investment
+1. Green
+Bond/Green
+SUKUK
+2. Impact
+Fund
+(linked
+to
+Sustainability)
+
+--- Page 16 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 5/43
+
+
+Chapter-2: Sustainable Finance Taxonomy
+
+1. Sustainable Finance Taxonomy means classification of Sustainable Finance. It is a structured
+mechanism for identifying and recognizing a product/a project/an initiative belongs to green and
+other products of Agriculture, CMSME or Socially Responsible Financing Category linked to
+sustainability. Sustainable Finance Taxonomy includes not only Green Taxonomy but also
+Sustainable Finance Policy including CSR Policy, Economic and Governance (Good
+Governance and Green Governance), Green Finance based on (i) Climate Change Mitigation (ii)
+Climate Change Adaptation (iii) Other Environmentally sustainable Implementations and Impact
+on Inclusive Sustainable Green Growth.
+
+2. Objectives/Focus/Purpose of Sustainable Finance Taxonomy
+Sustainable finance taxonomy has been structured in this Sustainable Finance Policy
+incorporating a green taxonomy containing green finance policy, CSR, SRF, agriculture and
+CMSME all these issues related to green and sustainability. Sustainable finance frameworks are
+crucial for making future development more sustainable. Forming Sustainable Finance
+Taxonomy are very much essential and within the broader scope of sustainable development
+agenda of a country like Bangladesh. The policy actions and operations have been included in
+the taxonomy to provide a comprehensive understanding for concerned stakeholders regarding
+sustainable finance.
+3. Features of Sustainable Finance Taxonomy
+
+Sustainable
+Finance
+Taxonomy
+Green
+Taxonomy
+Identification of
+Sustainable Linked
+Agriculture,
+CMSME, Socially
+Responsible
+Finance
+Identification
+of other
+Finance linked
+to sustainability
+Inclusion of
+Technological
+Advancement
+Screening &
+Monitoring
+Sustainable
+Finance
+Strategic
+Planning
+R&D for
+Sustainable Product
+Innovation,
+Marketing,
+Awareness &
+Capacity Building
+Impact
+Assessment
+/Review
+Sustainable
+Finance
+Disclosure
+
+--- Page 17 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 6/43
+
+
+
+
+
+
+
+Sustainable Agriculture
+3.1. Identification of Sustainable linked finance
+Sustainable CMSME
+
+
+
+
+
+
+
+
+
+Socially Responsible Finance
+
+
+
+
+3.1.1. Sustainable Agriculture
+
+Finance to Sustainable Agriculture is linked to Sustainable Finance. Sustainable Finance aims
+at promoting Sustainable Agriculture through climate change adaptation measures. Agriculture
+productivity needs to be enhanced especially in rain-fed areas focusing on integrated farming,
+soil health management, and synergizing resource conservation. Conservation agriculture by
+promoting location specific integrated/composite farming systems; soil and moisture
+conservation measures; comprehensive soil health management and rain-fed technologies can
+make agriculture sector more productive, sustainable, remunerative, and climate resilient. All
+these components of conservation agriculture have significant role in achieving SDGs.
+
+Sustainable Agriculture Sectors\Areas
+a) Crops
+b) Irrigation equipment
+c) Agro-equipment
+d) Live-stock and poultry farming
+e) Fisheries
+f) Grain Storage and marketing
+g) Poverty Alleviation
+h) Others (time-to-time as recognized by Bangladesh Bank)
+
+Along with the aforementioned products, financing for Integrated Farming System (IFS) in the
+specific sectors like horticulture, livestock, fishery, agro-forestry, apiculture etc. to enable
+farmers not only in maximizing farm returns for sustaining livelihood, but also to mitigate the
+impacts of drought, flood or other extreme weather events with the income opportunity from
+allied activities during crop damage.
+3.1.2. Sustainable CMSME
+
+Finance to Sustainable CMSME (cottage, micro, small & medium as defined by SMESPD,
+BB) is linked to Sustainable Finance. Inclusive Sustainable Finance in CMSME aims to advance
+financial inclusion among the most vulnerable by building resilience and enabling mitigation to
+climate change. This is especially the case for the transition to a low-carbon, circular and
+sustainable economy. Banks and FIs should have targeted initiatives to scale up finance for
+CMSMEs, with a focus on specific sustainable/inclusive sectors. Sustainable linked CMSME
+financing decisions upon environmental, social and governance (ESG) considerations will
+address issues of inequality, inclusiveness, investment in human capital and communities with
+respect to preservation of biodiversity, pollution prevention and circular economy.
+
+--- Page 18 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 7/43
+
+
+A. Sustainable CMSME areas
+
+1. Women entrepreneur based project financing
+2. Rural Based business enterprises project financing
+3. New entrepreneur project financing
+4. Cluster Based project financing
+5. Agricultural product processing industry
+
+B. Sustainable CMSME industries/projects
+
+Herbal cosmetic manufacturing industries
+(ii) 100% local ingredients-based milk processing industry
+(iii) Handicrafts, Handloom and alike
+(iv) Agro feed manufacturing industry
+Jute made products manufacturing industry
+(vi) Unani/Ayurvedic/Homeopathic manufacturing industries
+(vii) Rice processing industry
+(viii) Agro equipment manufacturing industry
+(ix) Production of bio pesticide, production of organic fertilizer
+Bran wood projects
+(xi) Horticulture processing industry
+
+C. Sustainable Finance to other CMSME Priority Projects
+
+a) Helpless/distressed/underprivileged/Marginal group/area-based project financing
+b) Project Financing for the sustainability of Third gender, Physically/Mentally challenged
+person, Tribal people
+
+3.1.3. Socially Responsible Financing
+
+Finance to Socially Responsible Products/Projects/Initiatives/Sectors is linked to Sustainable
+Finance. Socially Responsible Finance (SRF) is financing that supports actions mitigating or
+addressing a specific social issue and/or seeking to achieve positive social outcomes especially
+but not exclusively for a target population(s). SRF project categories include but are not limited
+to, providing and/or promoting affordable basic infrastructure, access to essential services (such
+as health and healthcare), affordable housing, employment generation through the potential
+effect of SME financing and microfinance, food security, and socioeconomic advancement and
+empowerment.
+
+Socially Responsible activities/projects linked to Sustainable Finance
+
+a) Financing/Investment through MFI(MRA Regulated)/NGO(Govt. Approved) Linkage
+Mode for capacity building, employment generation including self employment
+b) Financing in trading of green and agro products using ICT/online/e-business platform (as
+recognized by Bangladesh Bank)
+c) Financing in Orphanage/Child Rehabilitation Center/Old Age Home
+
+--- Page 19 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 8/43
+
+
+3.2 Identification of other Sustainable linked finance
+
+3.2.1. Working Capital
+
+Financing for wages/direct labor cost under continuous loan and financing for procurement of
+raw materials under demand loan for the following green products/initiatives/projects will be
+considered as sustainable linked finance.
+
+A. Sector - Renewable Energy
+
+Subsector-Solar Energy:
+ Solar Photovoltaic (PV) Assembly/ Manufacturing Plant
+ Solar Photovoltaic (PV) Power Plant
+ Solar Cooker Assembly /Manufacturing Plant
+ Solar Water Heater Assembly/Manufacturing Plant
+ Solar Air Heater & Cooling System Assembly/Manufacturing Plant
+Subsector-Bio Gas:
+ Large size biogas having capacity 26 to 200 cubic meter gas production per day and
+above
+Subsector-Wind Power:
+ Wind power plant
+Subsector- Hydro Power:
+ Hydropower Plant (Pico, Micro, Mini)
+
+B. Sector-Energy & Resource Efficiency
+ Auto sensor power switch assembly Plant
+ Energy efficient Cook Stove Assembly Plant
+ LED Bulb/Tube Manufacturing/Assembly Plant
+
+C. Sector-Alternative Energy
+ Pyrolysis Processed Oil/Bio-crude Oil/Bio Fuel Manufacturing Plant
+
+D. Sector-Solid Waste Management
+ Compost Production from City/Municipal Waste Plant
+
+E. Sector-Recycling and Manufacturing of Recyclable Goods
+ PET Bottle Recycling Plant
+ Plastic Waste (PVC, PP, LDPE, HDPE,PS) Recycling Plant
+ Paper Recycling Plant
+ Recyclable Bag Manufacturing Plant
+ Recyclable Poly Propylene Thread and Bag Manufacturing Plant
+ Battery (Solar/Led Acid/Lithium Ion) Recycling Plant
+
+--- Page 20 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 9/43
+
+
+F. Sector-Environment Friendly Brick Production
+
+ Compressed Block-Brick
+ Foam Concrete Brick
+ Auto-Green Bricks
+ Autoclaved Aerated Concrete (AAC) Bricks
+ Brick Kiln Industry (as defined by MoI)/Environment Friendly Brick Kiln Efficient
+Project (Hybrid Hoffman Kiln, Tunnel Kiln)
+
+G. Sector-Green/Environment Friendly Establishments
+
+ Green Industry established or being established under green-building rating system
+certified by appropriate authority (In Bangladesh - SREDA, Internationally - USGBC-
+LEED, BREEAM, CASBEE, EDGE, GRIHA)
+
+H. Financing against Work Order related to Liquid/Solid Waste Management/Disposal Project
+by Govt./Local Govt. entity
+
+3.2.2. Priority Green Products for Trading Sector
+
+Trading of following Green Products for continuous and demand loan will be considered as
+Sustainable linked finance
+
+A. Sector - Renewable Energy
+Subsector-Solar Energy:
+ Solar Panel/Solar Home System
+ Solar Pico Grid
+ Solar Nano Grid
+ Solar Micro Grid
+ Solar Mini Grid
+ Net Metering Rooftop Solar System
+ Solar Irrigation Pumping System
+ Solar Photovoltaic (PV)
+ Solar Cooker
+ Solar Water Heater
+ Solar Air Heater & Cooling System
+Subsector-Bio Gas:
+ Bio Gas Plant Accessories
+
+B. Sector-Energy & Resource Efficiency
+ Waste Heat Recovery System/Unit
+ Auto sensor power switch
+ Energy efficient Cook Stove
+ LED Bulb/Tube
+
+--- Page 21 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 10/43
+
+
+C. Sector-Alternative Energy:
+ Pyrolysis Processed Oil/Bio-crude Oil/Bio Fuel
+
+3.2.3. Priority Eco-Friendly Products for Trading Sector
+
+
+Eco-friendly products usually contain materials recycled or gathered from natural sources which
+are easy to replace and minimally damaging to harvest. Eco-friendly products contribute to green
+living or practices that help conserve resources like water and energy and also prevent
+contributions to air, water and land contamination.
+
+1. Jute-made products e.g. crafts, shopping bags, packaging bag
+2. Cane made products e.g. craft, furniture
+3. Biodegradable Waste Bag
+4. Reusable Grocery Bags
+5. Solar lantern
+6. Biodegradable Garden Pots
+7. Compostable Cutlery (Forks, Spoons, Knives and Tasters)
+8. Compostable Plates
+9. Portable Solar Charging Station
+10. Stainless Steel, Bamboo, Thermal Water Bottle
+11. Rechargeable batteries
+12. Reusable coffee filters
+13. Solar powered phone charger
+14. Reusable, non-plastic meal prep containers
+15. Wool footwear and runners
+16. Biodegradable toilet towels, tissues and women hygiene
+17. Compostable and Biodegradable Baby Diapers
+18. Solar Powered Outdoor Speakers
+19. Natural stain remover and cleaner
+20. Reusable Coffee Cups
+21. Recycled Floor Mats
+22. Compostable Bowls
+23. Recycling & Recyclable Goods
+3.3. Screening and Monitoring
+
+3.3.1. Screening
+
+Setting of screening criteria is essential to avoid significant harm to climate change mitigation
+and adaptation, and to environmental and social harmony. The technical screening criteria will
+determine whether an activity can be considered to substantially contribute to one of the
+following six environmental objectives not doing any significantly harm to the other
+environmental objectives.
+
+--- Page 22 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 11/43
+
+
+Six environmental objectives-
+
+1) Climate change mitigation
+2) Climate change adaptation
+3) Sustainable protection of water and marine resources
+4) Transition to a circular economy, waste prevention and recycling
+5) Pollution prevention and control
+6) Protection and restoration of biodiversity and healthy ecosystems
+
+Performance thresholds-
+
+1) Make a substantive contribution to one of six environmental objectives
+2) Do No Significant Harm (DNSH) to the other five, where relevant;
+3) Meet minimum social and governance safeguards
+
+3.3.2. Steps of Screening
+
+All loan proposals will have to be first screened against the exclusion list.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.3.3. Monitoring
+
+Monitoring must move on in a structured manner immediately after asset creation by the banks
+and FIs for the maintenance of the standard quality of the assets. Screening on Environmental,
+Social and Governance issue is essential for the pre-evaluation of a project with respect to
+sustainability, but the permanence in sustainability will only be ensured if stricter monitoring in
+both offsite and onsite manner is carried on with regular intervention.
+Project that involves activities
+listed under Exclusion List=>
+Ineligible for Finance
+Project that involves activities listed under
+Exclusion
+List=>
+Ineligible
+for
+Sustainable Finance
+Screening
+Yes
+Application of ESDD risk assessment tool
+as per ESRM guidelines along with Credit
+Risk Management guidelines issued by BB
+No
+Finance will
+be rejected
+Yes
+
+--- Page 23 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 12/43
+
+
+The purpose of monitoring a client's ESG performance (on the basis of ESDD risk assessment
+tool as per ESRM guideline) is to assess existing and emerging ESG risks associated with a
+client's operations during the transaction. Once a finance proposal has been approved, the
+Bank/FI needs to monitor the client‟s ongoing compliance with the ESG clauses stipulated in the
+legal agreement. The monitoring process generally involves a review of periodic ESG
+performance reports submitted by the client and regular site visits of the client‟s operations.
+Special attention should be paid to:
+
+ Assessing implementation of any mitigation measures specified in the corrective action
+plan
+ Monitoring for valid ESG permits or licenses
+ Any fines and penalties for non-compliance with ESG regulations
+ Recent reports from the relevant regulator or inspection authority confirming compliance
+with specified laws, including any emissions measurements proving that emissions are
+below the permitted limits
+ ESG occurrences including major accidents or incidents associated with a client‟s
+operations such as worker injuries and spills
+ Media attention to ESG issues related to the client
+ Any complaints submitted by stakeholders about a client
+
+If Bank/FI staff identifies ESG issues, such as a client‟s non-compliance with the ESG clauses
+stipulated in the legal agreement, they should follow up with the client to resolve the issues
+without undue delay.
+3.4. Inclusion of Technological Advancement
+Minimization of waste, emissions and reduction in materials and energy inputs are the most
+important environmental aims. Sustainable technological advancement and innovations have
+been playing a major role in the long-term initiation of sustainable production which ultimately
+facilitates sustainable growth. Sustainable finance taxonomy features include financing for the
+inclusion of technological advancement and innovations leading to sustainable production
+including Green Production or not yet recognized as green but definitely a sustainable one.
+
+Financing for technological inclusion and featured machineries/technologies include for the
+followings-
+
+1. Core manufacturing/production
+2. Energy efficiency and renewable energy
+3. Business process engineering/Business process automation
+4. Operations management
+5. Waste management
+6. Air management
+7. Heat management
+8. Working environment (fire defense and health care)
+
+--- Page 24 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 13/43
+
+
+9. Water use management
+10. Human resources development and management
+11. Accounting, inventory management, marketing, sales and security management
+automation
+
+3.5. Sustainable Finance Strategic Planning, R&D for Product Innovation, Product
+Marketing, Awareness and Capacity Building, Impact Assessment/ Review
+
+3.5.1. Formation of Sustainable Finance Committee
+ Committee formation1
+ Developing Terms of Reference (ToR)
+ Establishing Sustainable Finance Unit (SFU)
+ Establishing Dedicated Sustainable Finance Help Desk2
+
+3.5.2. Linking of Banks’/FIs’ Vision, Mission and Objectives with Sustainability
+ Economic contribution
+ Environmental contribution
+ Social contribution
+ Governance (Good Governance, Green Governance)
+
+3.5.3. Developing Sustainable Finance Policy
+Banks/FIs will develop their own Sustainable Finance Policy which must be approved by the
+competent authority. Board‟s approval will be required upon the RMC‟s approach in case of all
+scheduled commercial banks. Regional Office or MANCOM‟s approval is required for foreign
+banks operating in Bangladesh. Sustainable Finance Policy of a Bank/FI must be in conformity
+with the Sustainable Finance Policy of Bangladesh Bank. Banks and FIs can go for more
+sophisticated model and develop further as they progress.
+
+3.5.4. Identification and evaluation of funding sources
+ Bank‟s/FI‟s own fund
+ BB support funds
+ Development partners‟ fund
+
+3.5.5. Time Bound Action Plan
+ Assessment of business portfolio in conformity with regulatory requirement
+Setting of phase-wise financing targets
+
+3.5.6. Research and Development
+
+ Product Innovation
+ Assessing areas of sustainable finance
+
+1 SFD Circular No-02/2016
+2 SFD Circular Letter No-05/2020
+
+--- Page 25 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 14/43
+
+
+ Analysis of market demand and supply
+ Proposition for products/projects
+
+3.5.7. Marketing
+
+A Bank or a Financial Institution must broaden their product portfolio considering product to
+product area approach involving/engaging, potential borrowers, suppliers, service providers,
+associations, different chambers of commerce and surroundings. In this way banks and FIs will
+be able to build an effective database of product based potential borrowers, suppliers, service
+providers, associations and chambers, vendors, manufacturers, certified energy auditors and
+concerns for a better contribution to green business and green economy.
+
+3.5.8. Awareness and Capacity Building
+
+Awareness and Capacity Building for Sustainable Finance including Green Finance, Green
+Banking and Sustainable CSR activities as a part of Sustainable Finance is a must for all
+concerns and needs to be ensured by the SFU with the support from the competent authority
+(BoD/Regional Office or MANCOM of Foreign Commercial Bank). Awareness and Capacity
+Building for sustainable financing including green products/projects/initiatives will be moving
+on parallel with Marketing for Green and Sustainable Products. Banks and FIs will arrange
+events/programs involving all management level executives/officials (head office, zonal/regional
+office, branches, units, Sustainable Finance Dedicated Helpdesks), customers, entrepreneurs‟
+associations, suppliers and service providers for following capacity building initiatives:
+ Developing time bound action plan that addresses-
+ Information dissemination and awareness building
+ Training/seminar/workshop and knowledge sharing session
+ Maintaining training calendar
+ Establishing Knowledge Hub
+
+3.5.9. Impact Assessment & Review
+
+ Assessment of asset quality
+ Assessment of environmental, social and economic contribution of projects/initiatives
+ Assessment of governance issue
+ Review of achievement/attainment of bank‟s/FI‟s own target and regulatory target
+ Revision of the strategy
+
+3.6. Sustainable Finance Disclosure
+
+Banks and Financial Institutions should disclose the initiatives/practices taken by them time to
+time in their respective websites. The following disclosure should be made and updated by all
+Banks and FIs:
+
+--- Page 26 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 15/43
+
+
+Banks/FIs should start publishing independent Sustainability Report as the standard set
+by BB
+ii.
+Updated and detailed information regarding Banks‟/FIs‟ environmental activities and
+performances of major clients should be disclosed.
+iii.
+Banks/FIs shall keep their annual reports and websites updated with the disclosures on
+Sustainable Financing initiatives/activities.
+iv.
+Banks/FIs should incorporate a section/dropdown/tab for their existing Sustainable
+products/projects/initiatives in their website.
+A customer complaint/feedback option should be in their website for any query in this
+regard.
+vi.
+Brief information regarding BB Support Funds should be disclosed on the website in a
+displayable tab.
+
+--- Page 27 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 16/43
+
+
+Chapter-3: Green Taxonomy
+
+
+1. Green Taxonomy is a structured mechanism for identifying and recognizing a product/a
+project/an initiative as a green one through a set of activities belong to some green featured
+applications.
+
+2. Objectives/Focus/Purpose of Green Taxonomy
+
+First and Foremost objective of Green Taxonomy should be aligned with Climate Finance for
+Sustainability where finance aims at reducing emissions, and enhancing sinks of greenhouse
+gases and aims at reducing vulnerability of, and maintaining and increasing the resilience of,
+human and ecological systems to negative climate change impacts. Green Taxonomy will focus
+not only on purely green sectors, but also encourages the greening of polluting sectors.
+Particularly, the focus is on activities that contribute substantially to environmental objectives.
+The taxonomy will also include economic activities with a negative impact on the environment,
+where these activities have substantially reduced their negative impact.
+
+
+3. Features of Green Taxonomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Green Banking
+Identification Process of
+Green Products/ Projects
+/Initiatives with Norms/
+benchmark/Standards
+Policy Activities towards
+Green Environment
+Economic Activities for
+reducing negative impact
+of Environment
+Greening the
+Polluting Industries
+Screening & Monitoring
+Technological
+Advancement
+Green Finance
+Disclosure
+Developing a Green
+Bond Standard
+Carbon Footprint
+Reduction Measures
+R&D for Green Product
+Innovation, Green
+Impact Assessment/
+Review
+Green Strategic
+Planning
+Green Marketing,
+Awareness & Capacity
+Building
+Methodology of
+Defining Green
+Finance
+Green
+Taxonomy
+
+--- Page 28 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 17/43
+
+
+3.1. Green Banking
+
+Green Banking activities addresses five key work-streams - (i) Green Finance (ii) In-house
+green
+activities
+covering
+Carbon
+Footprint
+Measurements
+(iii)
+ESG
+(iv)
+Green
+Marketing/Awareness/Capacity Building (v) Reporting and disclosure on green issues. The term
+"green banking" generally refers to banking practices that foster environmentally responsible
+financing practices and environmentally sustainable internal processes minimizing GHG
+emissions. Green banking thus involves a two-pronged approach. Firstly, green banking
+focuses on the green transformation of internal operations of all banks and FIs. It means all the
+banks
+and
+FIs
+should
+adopt
+appropriate
+ways
+of
+utilizing
+different
+green
+product/projects/initiatives, automation and other measures to minimize carbon footprint from
+activities by banks and FIs. Secondly, all banks and FIs should adopt environmentally
+responsible financing; weighing up environmental risks of projects before making financing
+decisions; and in particular supporting and fostering growth of upcoming 'green' initiatives and
+projects.
+
+3.2. Methodology of Defining Green Finance
+
+Green Finance is a part of ethical financing and subsequently of Sustainable Finance. It is a
+means of promoting environment and resource conservation by reducing consumption of
+resources (e.g., electricity, water, moving away from paper-based transactions, etc.) through its
+operations. Banks/FIs aiming to green themselves adopt cleaner energy sources such as solar
+power. Green Finance encourages „environment-friendly initiatives everywhere by incorporating
+the spirit of green banking in its financing decisions as well, leading to greening in other sectors.
+Green Finance should promote the usage of greener technology in other sectors through its
+lending products. It refers to banks‟/FIs‟ lending to projects which reduces negative externality
+or promotes positive externality within the scope of the environment, thus endorsing or
+supporting green initiatives through financial instruments of banks/FIs.
+
+Green finance is defined as one of a number of terms used to label activities related to the two-
+way interaction between the environment and finance and investment. Related terms include:
+environmental, social and governance (ESG), sustainable finance and climate finance. Green
+finance is used to increase level of financial flows (from banking, micro-credit, insurance and
+investment) from the public, private and not-for-profit sectors to sustainable development
+priorities.
+
+Importance of Green Finance is out-of-question - as it promotes and supports the flow of
+financial instruments and related services towards the development and implementation of
+sustainable business models, investments, trade, economic, environmental and social projects
+and policies. In fact, it is a part of Sustainable Finance. Green Finance refers to targeted
+financing - to Green Technologies/activities/products/projects/initiatives, to Green Companies or
+Institutions with good/better than average environmental performance and/or compliance with
+norms and standards and for a Green Project where the selection of the portion of Working
+
+--- Page 29 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 18/43
+
+
+Capital Loan is set in the project in such a justified manner which could be recognized as a part
+of Green Project Loan as Green Finance. Moreover, financing/funding for Research/Innovation
+/Marketing/Capacity Building/Awareness and digging out/hunting/recognizing new green or
+environment friendly products/ projects/initiatives will be treated as Green Finance.
+
+An exhaustive Green Finance Policy has been thought for boosting Green Finance as part of
+Sustainable Finance to ensure and establish Sustainability. Moreover, BB intends to broaden
+space
+and
+scope
+of
+Green
+Finance
+through
+identifying
+nationwide
+green
+products/projects/initiatives in consultation with concerned/competent national authorities like
+SREDA, DoE under MoEF&CC. BB also considers suggestions, opinions or concepts on
+potential green products/projects/initiatives received from banks, FIs, potential borrowers,
+suppliers, service providers, associations, different chamber of commerce and surroundings.
+3.3. Identification Process of Green Products/Projects/Initiatives with Norms/Benchmark/
+Standards
+ Consultation and Review of National Rules, Regulations, Guidelines, Perspective Plans
+(2010-2021), 8th Five Year Plan, Policies, Guidance Notes, applicable SDGs and
+International Standards.
+ Climate Fiscal Framework (CFF) – a govt. proclamation published in 2014 aiming at
+Establishing greater national ownership of climate finance; Promoting Government –
+NGO-Private Sector Partnership Harmonization; Enhancing result management;
+Increasing mutual accountability; Broadening the opportunity for resilient development
+and green growth in Bangladesh.
+ Environmental Conservation Rules (ECR) 1997 for water and air quality standards,
+Standard Guidelines for Sludge and Waste management, Environment Friendly Brick
+kilns Guidance for Compressed Block Bricks, Foam Concrete/Non Fire Bricks/Auto
+Cleaved Concrete(ACC), Environment friendly brick kiln efficiency improvement
+systems - Hybrid Hoffmann Kiln (HKK), Tunnel Kiln (most environment friendly brick
+kiln efficiency improvement system in Bangladesh). This needs to be mentioned that
+Hybrid Hoffmann Kiln (HKK) and Tunnel Kiln have been declared as “Industry” by the
+Ministry of Industry (MoI), Govt. of Bangladesh. Bangladesh Environment
+Conservation (Amendment) Act, 2010; The ECA-2010 has stipulated the principle of
+sustainable development, intergenerational equity, polluter pays principle and
+precautionary principles those are in the core of the environmental jurisprudence
+worldwide.
+ Sustainable
+and
+Renewable
+Energy
+Development
+Authority
+(SREDA)‟s
+policy/Guidelines
+for
+identifying
+Renewable
+and
+Resource
+Efficiency
+Products/Projects/Initiatives.
+
+--- Page 30 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 19/43
+
+
+ Consultation, Experience Shared, Lessons Learned with Practitioners, Product
+Specific and Industry Specific Association Experts such as Textiles and Garments sectors
+etc. and Technical Service Providers with a Business Case PP/Concept Notes and there-
+after necessary review for an agreeable decision approved by the competent respective
+authority.
+ BB Refinance Scheme’s (BDT 04 billion) low cost/ supporting to Participating
+Financial Institutions (PFIs) (Banks/FIs) against their financing of renewable energy
+generation and other environmentally benign projects. The size of the fund has been
+increased from BDT 02 billion to BDT 04 billion due to the growing demand for
+financing of environment friendly products/Projects/initiatives. The scheme includes 55
+green products/projects/initiatives under 09 categories3.
+ Green Transformation Fund (GTF)4 Guidance Note of BB is in place to guide BB
+GTF USD 200 (two hundred) million Refinance Scheme for all export-oriented industries
+for importing Green Machineries belong to (i) Water use efficiency in wet processing (ii)
+Water conservation and management (iii) Waste management (iv) Resource efficiency
+and recycling (v) Renewable energy and Energy efficiency (vi) Heat and temperature
+management and (vii) Air ventilation and circulation efficiency category.
+
+BB GTF Euro 200 (two hundred) million Refinance Scheme is another window
+applicable for all export-oriented industries for importing Green Machineries belong to
+the above-mentioned green categories with an extension facility to solar energy and
+renewable energy under power sector. BB GTF Euro has also given scope for importing
+green capital machinery and accessories (including Buyer‟s Credit) and also can be used
+to import (only Buyer‟s Credit) industrial raw materials used in all manufacturing
+enterprises including both export oriented and deem exporters.
+3.3.1. List of Green Products/Projects/Initiatives applicable for Term Finance
+
+A. Renewable Energy
+1. Solar Home System
+2. Solar Pico Grid
+3. Solar Micro Grid
+4. Solar Park
+5. Solar Irrigation Pumping System
+6. Solar Photovoltaic (PV) Assembly/Manufacturing Plant
+7. Solar Water Heater Assembling/Manufacturing Plant
+8. Solar Nano Grid
+9. Solar Mini Grid
+10. Net Metering Rooftop Solar System
+
+3 SFD Circular No.02/2020
+4 FE Circular No. 02/2016, 20/2020 and SFD Circular No. 04/2020
+
+--- Page 31 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 20/43
+
+
+11. Solar Pump for Drinking Water
+12. Solar Cooker Assembly/Manufacturing Plant
+13. Solar Air Heater & Cooling System Assembly/Manufacturing Plant
+14. Solar Powered Cold Storage
+15. Small size biogas plants5 - 1.2, 1.6, 2.0, 2.4, 3.2 and 4.8 cubic meter gas production per
+day.
+16. Medium size biogas plant6 - capacity 6 to 25 cubic meter gas production per day
+17. Large size biogas plant7 - capacity 26 to 200 cubic meter gas production per day and
+above.
+18. Integrated Cow Rearing and Setting up of Bio-gas Plant
+19. Wind Power Plant
+20. Hydropower Plant
+
+B. Energy & Resource Efficiency
+21. Installation of Energy Auditor Certified machineries including boiler in industries for
+following purposes:
+i. Energy efficiency
+ii. Resource efficiency
+iii. Heat and temperature management
+iv. Air ventilation and circulation efficiency
+v. Waste Heat Recovery System/Unit
+22. Auto Sensor Power Switch Assembly Plant
+23. Energy Efficient Cook Stove Assembly Plant
+24. LED Bulb/Tube Manufacturing/Assembly Plant
+25. Energy Efficient Lime Kiln
+26. Improved Rice Parboiling System
+
+C. Alternative Energy
+27. Pyrolysis Processed Oil/Bio-crude Oil/Bio Fuel Manufacturing Plant
+
+D. Liquid Waste Management
+28. Biological ETP
+29. Combination of Biological and Chemical ETP
+30. Conversion of Chemical ETP into Combination of Biological and Chemical ETP
+31. Central ETP
+32. Waste Water Treatment Plant
+33. Sewage Water Treatment Plant
+
+5 Establishment of Biogas Plant using following raw materials:
+(i) Agricultural residues
+(ii) Community (City/Municipality) based wastes
+(iii) Industrial wastes
+6 Ibid
+7 Ibid
+
+--- Page 32 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 21/43
+
+
+E. Solid Waste Management
+34. Methane Recovery and Power Production from City/Municipal Waste Plant
+35. Compost Production from City/Municipal Waste Plant
+36. Hazardous Waste Management Unit/Plant
+37. Medical Waste Management Unit/Plant
+38. E-Waste Management Unit/Plant
+39. Sludge Management Unit/Plant
+
+F. Recycling & Manufacturing of Recyclable Goods
+40. PET Bottle Recycling Plant
+41. Plastic Waste (PVC, PP, LDPE, HDPE, PS) Recycling Plant
+42. Paper Recycling Plant
+43. Recyclable Bag Manufacturing Plant
+44. Recyclable Poly Propylene Thread and Bag Manufacturing Plant
+45. Battery (Solar/Led Acid/Lithium Ion) Recycling Plant
+
+G. Environment Friendly Brick Production
+46. Compressed Block-Brick
+47. Foam Concrete Brick
+48. Environment Friendly/Brick Kiln Efficiency Improvement Project (Tunnel Kiln and
+HHK)
+
+H. Green/Environment Friendly Establishments
+49. Establishment of Green Industry certified by appropriate authority (In Bangladesh -
+SREDA, Internationally - USGBC-LEED, BREEAM, CASBEE, EDGE, GRIHA)
+50. Establishment of Green Building certified by appropriate authority (In Bangladesh -
+SREDA, Internationally - USGBC-LEED, BREEAM, CASBEE, EDGE, GRIHA)
+51. Establishment Green Featured Buildings (Characteristics have been given in Annex-1)
+52. Concerning Factory working environment and safety (Fire defense system, disaster
+defense and prevention system, workers‟ health safety system)
+
+I. Green Agriculture
+53. Earthworm compost manure (Vermicompost) production
+54. Palm oil production
+55. Organic manure production from slurry
+56. Forestation (Social/integrated/Agro)
+57. Organic Farming
+58. Rooftop Agriculture/Vertical Farming or Gardening
+59. Fish cultivation in cage
+60. Biofloc fish cultivation
+61. Integrated Recycling System (IRS) fish cultivation/Bottom clean fish cultivation
+62. Financing in coastal aquaculture
+63. Floating system cultivation, Hydroponic cultivation/farming
+
+--- Page 33 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 22/43
+
+
+J. Green CMSME
+64. Financing in Cottage Industry
+
+K. Green SRF
+65. Community Investment for addressing Climate Resilience and Disaster Management in a
+concessional rate (finance to clean air, clean water, minimizing industrial and municipal
+waste, recovery and protection of water bodies, marshy lands, expansion of green coastal
+belt, water purification, sustainable sanitation, water blockage mitigation, soil and water
+salinity mitigation, river erosion prevention)
+66. Financing in Green/Clean transportation projects (cycles, green vehicles those run on
+wind, solar energy, electricity, bio-fuels etc.)
+67. Financing in Sand-witch Panel (Floating or Movable Houses in coastal areas or climate
+vulnerable zone)
+68. Financing in Govt. approved Eco-tourism project
+
+3.4. Policy Activities towards Green Environment
+
+ Bangladesh Bank issued Green Banking Policy Guideline for Banks8 in 2012.
+
+ In 2013, Policy Guidelines for Green Banking9 was also issued for the Financial
+Institutions (FIs)10 and for the banks scheduled in 2013. Through these guidelines all
+banks and FIs were brought under the structured reporting system.
+
+ Besides, to expedite the ongoing initiatives of banks and FIs at faster pace, from January
+2016 onwards minimum target of direct green finance was set at 5% of the total funded
+loan disbursement/investment for all banks and FIs11.
+
+ Bangladesh Bank instructed all banks and FIs to establish Sustainable Finance Unit and
+Sustainable Finance Committee by abolishing both Green Banking and CSR units12.
+
+ Bangladesh Bank started its policy intervention on environment friendly banking
+practices by issuing Environmental Risk Management (ERM) Guidelines for Banks and
+FIs13 in 2011. Guidelines on Environmental and Social Risk Management (ESRM) for
+Banks and FIs14 in Bangladesh along with an Excel-based Risk Rating Model have been
+issued in 2017 which became enforceable from January 01, 2018 replacing the
+Guidelines on ERM to all extent.
+
+
+8 BRPD Circular 02/2011
+9 GBCSRD Circular No. 04/2013 and GBCSRD Circular Letter No. 05/2013
+10 Financial Institutions licensed under Financial Institutions Act, 1993.
+11 GBCSRD Circular No. 04/2014
+12 SFD Circular No. 02/ 2016
+13 BRPD Circular No.01/2011
+14 SFD Circular No. 02/2017
+
+--- Page 34 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 23/43
+
+
+ A comprehensive list of product/initiatives of Green Finance for banks and FIs15 has been
+circulated in September 2017.
+ To ensure the movement towards sustainability, Banks and FIs were instructed to form a
+„Climate Risk Fund‟16 having allocation at least 10% of their Corporate Social
+Responsibility budget for Climate Risk Fund. This funding can be done in both ways- by
+providing grants or financing at reduced rate of interest.
+ Banks & FIs have been instructed to set up Solid Waste Management System, Rainwater
+Harvesting and Solar Power Panel in their newly constructed or arranged building
+infrastructure17.
+ By the direction of Honorable Prime Minister, and Bangladesh Bank's instruction in
+conformity with that, all the banks & FIs must ensure the establishment and activeness of
+Effluent Treatment Plant (ETP) during financing to all possible clients18.
+
+3.5. Economic activities for reducing negative impact on environment
+
+Increased consumption of non-renewable resources, higher levels of pollution, global warming
+and the potential loss of environmental habitats are included in the environmental impact of
+economic growth. Also, economic growth caused by improved technology can enable higher
+output with less pollution.
+
+Environment provides land, water, air, energy resources, coal, oil, forests, minerals and metals
+and so many other natural resources which are essential for the economic development of the
+economy. It provides services which are directly used by the consumers i.e. air we breathe and
+water we drink as a liquid of life.
+
+Negative impact on the environment can be reduced through:
+
+1) Use energy more efficiently
+2) Install renewable
+3) Conserve water
+4) Reduce, reuse, recycle
+5) Travel less
+6) Consider near sourcing
+7) Ship goods more efficiently
+
+
+
+
+15 SFD Circular No. 04/2017
+16 GBCSRD Circular No. 04/2015
+17 SFD Circular No. 01/2016
+18 SFD Circular No 03/2016
+
+--- Page 35 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 24/43
+
+
+3.6. Screening & Monitoring
+
+Pre disbursement Screening for Potential investments of Banks and FIs are essential in both
+quantitative and qualitative judgments as well as stricter onsite and offsite monitoring immediate
+after disbursement must go on to maintain the quality of the assets remain unclassified.
+
+ ESRM Guidelines (December 2017) issued by Bangladesh Bank (prepared in
+consultation and in conformity with international standards) and Off-site Reporting
+Format in place. On-site check list for Sustainable Financing including Green Finance
+will also be in place.
+
+ Product/Project/Priority Sector Specific ESDD screening as it deems fit.
+
+ Green Transformation Fund (GTF) Guidance Note of Bangladesh Bank is in place to
+guide BB GTF USD 200(two hundred) million and BB GTF Euro 200 (two hundred)
+Refinance Scheme for all export-oriented industries for importing Green Machineries
+belong to (i) Water use efficiency in wet processing (ii) Water conservation and
+management (iii) Waste management (iv) Resource efficiency and recycling (v)
+Renewable energy and Energy efficiency (vi) Heat and temperature management and
+(vii) Air ventilation and circulation efficiency category. Machineries imported for export-
+oriented industries under GTF need to go through eligible certified energy and resource
+efficiency audits.
+
+ Green Buildings and Green Industries require authenticated Certification for such as
+Gold, Silver, Platinum gradation.
+
+ Methodology for Sustainability Rating of the banks and FIs in process (considering
+sustainable finance, green finance, green refinance and CSR activities, green governance
+and compliance issues addressing sustainability).
+
+3.7. Developing a Green Bond Standard
+
+Green Bonds are bonds where proceeds from fixed-income and liquid financial instruments are
+applied and specifically earmarked to raise money, in part or in full, new and/or existing eligible
+climate-mitigation and adaption projects and other environmentally beneficial activities. These
+bonds are typically asset-linked and backed by the issuing entity's balance sheet.
+
+For both the issuer and the investor - a bond is a very beneficial instrument. By issuing a bond -
+the issuer gets the required fund whereas the investors will receive interest and the principal
+amount. Bond Issuers may be the firms, governments, banks/FIs, supernatural entities, and city
+corporations, local municipalities/entities, SPVs, etc. The issuer of green bonds borrows the
+money from bond investors to mitigate climate change and adapt the same to build climate
+resilience projects and other environmentally beneficial activities. Green Bonds issued by
+bank/FI will be treated as “Green equity”.
+
+--- Page 36 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 25/43
+
+
+Standard of Climate Bonds through a Climate Bond Taxonomy contains Energy (solar,
+Hydropower, Bio-energy, Wave & Tidal, Energy Distribution and Management, Dedicated
+Transmission); Transport (Rail, Vehicles, Mass Transit, Bus Rapid Transport, Water Bourne
+Transport, Alternative Fuel Infrastructure); Low Carbon Buildings (Residential, Commercial,
+Retrofit, Products for building Carbon efficiency) IT& Communication (Power management,
+Broadband, Resource Efficiency, Tele/Video conferencing); Waste & Pollution Control
+(Recycling, Other Recovery, Disposal, Prevention); Nature Based Assets(Agricultural Land,
+Forests (Managed or Unmanaged), Wet Lands, Degraded Lands, Other Land uses (managed and
+unmanaged), Fisheries and Aquaculture, Coastal Infrastructure, Land Remediation); Industry &
+Energy Intensive Commercial (Manufacturing, Energy efficiency processes, Energy Efficiency
+Products, Retail and wholesale, Data centres, Process and fugitive emission, Energy Efficient
+Appliances, Combined Heat and Power).
+
+Green Bond financing is a huge growth area especially post 2020. Accredited verifiers under the
+Climate Bonds Initiative (CBI) can certify a Green Bond which is issued under the CBI standard.
+The Climate Bonds Taxonomy identifies the assets and projects needed to deliver a low carbon
+economy and gives GHG emissions screening criteria consistent with the 2-degree global
+warming target set by the COP 21 Paris Agreement. It has been developed based on the latest
+climate science including research from the Intergovernmental Panel on Climate Change (IPCC)
+and the International Energy Agency (IEA), and has benefited from the input of hundreds of
+technical experts from around the world. It can be used by any entity looking to identify which
+assets and activities, and associated financial instruments, are compatible with a 2-degree
+trajectory.
+
+Key stakeholders in Bangladesh for green bonds are -
+
+1. Ministry of Finance: Responsible for state budget, taxation and economic policy.
+2. Bangladesh Bank: Sets (green) policies for Banks and FIs.
+3. SREDA: Sets framework to develop pipeline sustainable energy projects.
+4. BSEC: Sets regulations concerning trade of fixed income products.
+5. NBR: Sets tax policy on fixed income products.
+6. DSE & CSE: Stock exchanges where listed share/bonds are traded.
+7. IDRA: Sets regulations for the insurance sector.
+
+Banks and FIs, Ministry of Finance, Development Banks (e.g. BIFFL, IDCOL, etc.) are the
+possible issuers of green bonds in Bangladesh. On the other hand, possible investors for green
+bonds are - Pension Fund, Large corporate, Insurance companies, Asset managers, banks and FIs
+as well as International investors.
+
+BB, in collaboration with BSEC and IDRA with buy-in from the Ministry of Finance, must lead
+the development and publication of a set of national guidelines and standards on green bonds
+covering both the technical specification of the instrument as well as eligible project activities.
+The next foundation for green bond pipeline development is the identification of a list of priority
+
+--- Page 37 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 26/43
+
+
+projects, for which BB can only take a supportive role as it will need to be aligned with both
+Bangladesh‟s INDC and broader development strategies. However, BB can play a key role in
+communicating this list to investors (especially international) in partnership with SREDA and the
+Ministry of Finance.
+
+3.8. Green Investment
+
+Green Investments are focused on products/projects/initiatives committed to the conservation of
+natural resources, the production and discovery of alternative energy sources, the implementation
+of clean air and water projects, or other environment-friendly business practices. Green
+investments belong to following categories:
+
+A. Investment in Green Bond/Green SUKUK
+
+Bangladesh is highly vulnerable to climate change risk. In this context, GoB has developed
+a master plan to combat the impending threats. Accordingly, it is necessary to build-up
+eco-friendly industries/concerns, infrastructures and plants for green energy production.
+All those projects require long-term mega investments. As issuance concerns, green
+bond/green SUKUK issuers commit to provide investors with detailed information on the
+projects and infrastructure supported with the proceeds. These are typically asset-linked
+and backed by the issuing entity's balance sheet, so they usually carry the same credit
+rating as their issuers' other debt obligations.
+
+B. Investment in Impact Fund
+
+Bangladesh Bank issued a guideline in 2015 for the scheduled banks and another in 2016
+for the financial institutions for investing in Special Purpose Vehicle, funds not listed in
+the capital market, Alternative Investment Fund or any such funds registered by the
+Bangladesh Securities and Exchange Commission (BSEC)19. Investment by scheduled
+banks and financial institutions in any impact fund which is registered under the BSEC
+(Alternative Investment) Rules, 2015 and formed for the following sectors/purposes will
+be considered as Green Investment20:
+1. Resource Efficiency
+2. Air Emission and Quality Efficiency
+3. Resource Recycling
+4. Waste Management (both solid and liquid)
+5. Renewable Energy
+6. Land Contamination Prevention/Mitigation
+7. Energy Efficiency
+8. Land Acquisition and Resettlement Management
+9. Water Management and Conservation
+10. Labour and Working Condition Management
+
+19 DOS circular No.-02/ 2015, DFIM circular No.-04/ 2016
+20 SFD Circular No.:01/2019
+
+--- Page 38 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 27/43
+
+
+11. Water Use Efficiency
+12. Community Health and Safety Management
+13. Waste Water and Effluent Treatment Management
+14. Indigenous People and Cultural Heritage
+15. Heat and Temperature Management
+16. Women and Child Right Protection
+17. Air Ventilation and Circulation Efficiency
+18. Environment/Climate Friendly Industry/Building/Brick Kiln
+19. Environment/Climate Friendly Transportation/Vehicle
+20. Nature Conservation
+21. Environment Friendly Agriculture
+22. Any other deemed Eligible by BB
+
+3.9. Greening the Polluting Industries
+
+As per ECR 1997 issued by DoE under MoEF&CC, all industrial units are categorized into Green,
+Orange A, Orange B and Red category with respect to pollution level. Among these industrial
+units, Orange B is considerably more polluted and Red category units belong to the most polluting
+industries. Sector Specific ESDD Screening for some more or most polluting priority industries
+like Textile, Steel, Cement, Brick Kiln, Tannery, Power Plant etc. will be required to go under
+dedicated ESDD screening checks for greening those industrial units through fulfillment of
+required work conditions & compliances of DoE and accordingly installations/introductions of
+Green Products/Machineries/Projects for reducing emission to a required extent and thus green
+transformation will happen to these polluting industrial units.
+
+3.10. Carbon Footprint Reduction Measures & Carbon Finance
+
+Carbon Footprint Reduction Measures- A carbon footprint is the total amount of greenhouse
+gas emissions that originates from the production, use and end-of-life of a product or service. It
+includes carbon dioxide, the gas most commonly emitted by humans and others, including
+methane, nitrous oxide, and fluorinated gases, which trap heat in the atmosphere, causing global
+warming. Bangladesh Bank has already published its HQ‟s first annual carbon footprint report,
+201421 on carbon footprint measurement as a part of their sustainability commitment to produce
+and publish own carbon footprint.
+
+As a result, BB has been encouraging other organizations of Bangladesh, especially Banks & FIs
+to measure and publish their own (internal) carbon footprint. Now BB intends to collect & assess
+the energy consumption related data of Banks & FIs on a yearly basis for taking necessary steps
+to reduce the internal carbon emission of Banks & FIs; this will be done in a gradual manner
+where the Banks and FIs will be required to calculate and report the carbon footprint of their
+Headquarter and later other branches
+
+21 https://www.bb.org.bd//pub/annual/carbon/report_2014.pdf
+
+--- Page 39 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 28/43
+
+
+
+In addition to this, the Banks and FIs will gradually be encouraged to measure and report the
+carbon emission of their loan portfolio (existing or new loans, other financial products etc.). It is
+advisable and will be implemented gradually, that all the projects will be assessed on their
+„green-merit‟ for financing and re-financing and assessed by a 3rd party (recommended or
+enlisted by Bangladesh Bank) subject matter expert prior to selection of green projects.
+
+The Banks and FIs should develop a comprehensive GHG Inventory of their own operation
+across all locations and later develop GHG abatement and offset strategy to reduce carbon
+emission. A framework for this will be developed and published soon.
+
+Carbon Finance- There are many ways and efforts underway to reduce carbon emissions and
+promote activities which help to convert into a tradeable financial instrument and made carbon
+reduction a valuable economic commodity. To find a common unit for this commodity all GHGs
+are converted to CO2 equivalents (CO2‐eq). The CO2‐eqs or Certified Carbon Emission
+Reductions (CERs) or Voluntary Carbon Emission Reductions (VERs) Certificates are traded on
+carbon markets. Carbon Finance is earned by making investments in generation of greenhouse
+gas emission reductions that can be traded in carbon markets. Common Carbon Finance project
+types include cleaner production projects and projects that increase energy efficiency or generate
+power from renewable resources.
+
+Banks & FIs could participate actively in carbon markets in various ways:
+ Offering advisory services to clients entering or active in carbon markets, including
+marketing, structuring, transacting, and sales of carbon;
+ Offering targeted financing to companies with GHG emission reductions projects and
+programs that generate a stream of carbon finance income;
+ Selling emission reductions in the carbon market which they aggregate and purchase
+from portfolios of clients with smaller-scale GHG emission reductions projects;
+ Making equity investments in companies that originate and transact GHG emission
+reduction projects and programs that earn carbon finance payments, and
+ Receiving emission reductions in addition to interest payments as part of upside-sharing
+agreed with clients that generate carbon credits.
+
+BB intends to introduce Carbon Finance as on demand in the financial market of Bangladesh.
+There are existing internationally accredited carbon reduction projects in Bangladesh in which
+the banks can participate to ensure sustainability and additional revenue for the project.
+
+3.11. Technological Advancement for Inclusiveness in Green Activities and Green Growth
+
+“Technological Advancement for Inclusiveness in Green Activities and Green Growth” is well
+covered in “Inclusion of Technological advancement” of Sustainable Finance Taxonomy and the
+theme is not required to mention separately again.
+
+--- Page 40 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 29/43
+
+
+3.12. Green Strategic Planning, R&D for Green Innovation, Product Marketing,
+Awareness and Capacity Building, Green Impact Assessment /Review
+
+Green Taxonomy has been included as part of Sustainable Finance Taxonomy. As such Green
+Strategic Planning, R&D for Green Innovation, Product Marketing, Awareness and Capacity
+Building, Green Impact Assessment /Review have been taken in due consideration while
+discussing earlier in Sustainable Finance Taxonomy.
+
+3.13. Green Finance Disclosure
+
+Green Taxonomy has been included as part of Sustainable Finance Taxonomy. Banks and
+Financial Institutions should disclose the initiatives/practices time to time taken by them in their
+respective websites. The following disclosure should be made and updated by all Banks and FIs:
+Updated and detailed information regarding Banks‟/FIs‟ environmental activities and
+performances of major clients should be disclosed.
+ii.
+Banks/FIs shall keep their annual report and websites updated with the disclosures on
+Green Banking initiatives/activities.
+iii.
+Banks/FIs should incorporate a section/dropdown/tab for their existing Green
+products/projects/initiatives in their website.
+iv.
+A customer complaint/feedback option should be in their website for any query made in
+this regard.
+Brief information regarding BB Support Funds should be disclosed on website in a
+displayable tab.
+
+--- Page 41 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 30/43
+
+
+Chapter-4: Target, Rating & Rewards
+
+1. Fixation of Green Finance Target and Sustainable Finance Target including Green
+Finance
+
+All Banks and Financial Institutions shall determine their annual target on the basis of their
+immediate previous year‟s net outstanding amount and declare their yearly budget allocation
+both for Green Finance and Sustainable Finance at the beginning of the calendar year. Banks
+and FIs will determine their Green Finance and Sustainable Finance target on the basis of
+immediate previous year‟s Net Outstanding of loans and advances (Total Outstanding less staff
+loans and total classified loans). In conformity with BB‟s guidelines, Banks and Financial
+Institutions shall set target of Green Finance and Sustainable Finance considering all potential
+area and product/projects with required justification.
+
+2. Attainment of Green Finance and Sustainable Finance Target
+
+Banks and FIs will report on their attainment of Green Finance and Sustainable Finance on
+Quarterly basis. Sustainable Finance Department will determine Green Finance attainment of all
+Banks and FIs on the basis of Term Loan Disbursement (excluding staff loan), and attainment of
+Sustainable Finance on the basis of Total Loan Disbursement (excluding staff loan). Attainment
+of Green Finance and Sustainable Finance should be maintained in conformity with relevant
+instructions issued by BB.
+
+3. Sustainability Rating
+
+Banks and FIs will be rated under sustainability rating considering their performance on
+environmental, social and governance attributes especially their policies and performance. This
+Rating will include their performance in four major components; (i) Sustainable Finance (ii)
+CSR (iii) Green Refinance and (iv) Core Banking Sustainability. Banks and FIs will be rated
+once a year.
+
+4. Compliance and Non-compliance
+
+Banks/FIs while financing and reporting will meticulously comply with the guidelines mentioned
+in this policy as well as credit norms and instructions of concerned regulators/competent
+authorities. Necessary actions will be taken against respective banks/FIs for any non-compliance
+of the said guidelines/credit norms/instructions and returns as per Bank Company Act 1991 and
+Financial Institutions Act 1993.
+
+5. Reward and Incentives
+
+Sustainable Finance of banks/FIs will enhance their credibility in reducing systemic risk,
+strengthening risk management, ensuring prudential decision making and comfortably coping
+with the transition towards sustainable development. Bangladesh Bank will recognize top
+performing banks and FIs on basis of Sustainability Rating. Besides, Bangladesh Bank will
+consider other incentives for top performing banks and FIs in due course of time.
+
+--- Page 42 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 31/43
+
+
+Chapter-5: Exclusion List & Inclusion Criteria of
+Products/Projects/Initiatives for Sustainable Finance
+
+1. Exclusion List=> Ineligible for Finance
+
+All loan proposals will have to be first screened against this exclusion list. Financing in any
+activity/area in the following list is not to be considered for financing.
+
+Sector
+Activities/ Areas
+
+1. Agriculture
+
+2. CMSMEs and
+Large
+Industry
+(Manufacturin
+g and Service)
+
+3. Trade
+and
+Commerce
+Production or trade in any product or activity deemed illegal under laws
+or regulations of Government of Bangladesh or international conventions
+and
+agreements,
+or
+subject
+to
+international
+bans,
+such
+as
+pharmaceuticals, pesticides/herbicides, ozone depleting substances,
+PCB's, wildlife or products regulated under the Convention on
+International Trade in Endangered Species (CITES). A list of applicable
+national regulations and international treaties for this policy has been
+given in Annex-2.
+ Ship breaking/trading activities refers to:
+ Ships with prevalent asbestos use (for e.g. passenger cruise);
+ Ships listed on the Greenpeace blacklist*;
+ Ships not certified “gas free” for hot work
+Drift net fishing, deep sea bottom trawling, or fishing with the use of
+explosives or cyanide
+Hydraulic horn and >75 decibel horns, polypropylene and polythene
+bags, two stroke engines.
+Operations impacting UNESCO World Heritage Site and/or Ramsar site
+Illegal logging, and logging operations or conversion of land for
+plantation use in primary tropical moist forests
+Production or activities involving forced labor/ child labor
+ Production or trade in:
+ Weapons and munitions
+ Tobacco
+ Gambling, casinos
+ Pornography (goods/stores/web/app-based)
+ Brick production through Fixed Chimney Kiln (FCK)
+ Production or activities that impinge on the lands owned, or claimed
+under adjudication, by Indigenous Peoples, without full documented
+consent of such peoples
+*http://www.greenpeace.org/international/en/campaigns/oceans/pirate-fishing/Blacklist1/
+
+--- Page 43 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 32/43
+
+
+2. Exclusion List=> Ineligible for Sustainable Finance
+
+Any finance falls in the following list will not be eligible as sustainable finance.
+
+Sector
+Activities/ Areas
+
+1. Agriculture
+2. CMSMEs
+and
+Large Industry
+(Manufacturing
+and Service)
+3. Trade
+and
+Commerce
+If does significant harm to natural reserves, scenic spots, drinking
+water source reserves, basic farm land reserves, forest parks, geo
+parks, important wet lands, natural forests, important habitats for
+wildlife, key protected places for growth and reproduction of wild
+plants, natural spawning grounds, feeding grounds, wintering ground
+sand migration channels for important aquatic organisms, natural
+fishing grounds, water and soil.
+Use of thermal coal, high toxic and high residual/chemical
+pesticides/fertilizer, use of livestock and poultry food not approved by
+the government.
+ Upstream fossil fuel extraction and production (including gas, coal
+and oil)
+ New standalone fossil fuel electricity production
+ projects that lead to an increase in CO2 emissions (through
+capacity expansion and increased output as a result of the
+project/investment)
+ Processing, storing, marketing of gas, and oil
+ Refining of oil
+ Nuclear power generation and related assets
+ Distribution or transport of fossil fuels
+ Construction, maintenance or expansion of roads
+ Heavy duty vehicles, infrastructure for fossil fuels (e.g., fuel
+stations) or bunker fuelled shipping infrastructure
+Projects supported by the activities involving heavy metal
+contaminated soil.
+The projects do not support the processing, recycling and other
+activities of waste (solid and liquid).
+The projects do not maintain standard bio-safety level, fire defense
+system, workers health safety equipments.
+The projects include the storage, logistics and distribution of toxic,
+harmful and dangerous goods.
+The projects endanger local livelihoods; decrease the quality life of
+indigenous people.
+The projects do not include gender equality, freedom of association
+and right to bargaining of company employee/workers.
+The projects threaten community/public health
+
+--- Page 44 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 33/43
+
+
+3. Inclusion Criteria of Products/Projects/Initiatives for Sustainable Finance
+
+Banks and FIs will apply to General Manager, Sustainable Finance Department, Bangladesh
+Bank, Head Office through the letter signed by the respective Managing Director/Chief
+Executive Director for the approval before financing to any new products/projects/initiatives as
+Sustainable
+Finance
+(Green
+Finance
+or
+Sustainable
+linked
+finance)
+beyond
+the
+products/projects/initiatives mentioned in this policy. A report must be attached with the
+application evaluating Financial Profitability, Environmental and Social Feasibility and Pre-Risk
+Assessment of new products/projects/initiatives for Sustainable Finance. Upon the approval by
+Bangladesh Bank the proposed products/projects/initiatives will be considered suitable for
+Sustainable Finance.
+
+Aspects of products/projects/initiatives for the inclusion in the list of Bangladesh Bank for
+Sustainable Finance:
+
+3.1. Financial Profitability
+
+1) Activity/ Operating Efficiency
+2) Liquidity
+3) Solvency
+4) Profitability
+5) Valuation
+
+3.2. Environmental and Social Feasibility
+
+1) Resource Efficiency
+2) Resource Recycling
+3) Renewable Energy
+4) Energy Efficiency
+5) Water Management and Conservation
+6) Water Use Efficiency
+7) Waste Water and Effluent Treatment Management
+8) Heat and temperature management
+9) Air ventilation and circulation efficiency
+10) Air emission and quality efficiency
+11) Waste (liquid and solid) Management
+12) Land Contamination Prevention/Mitigation
+13) Land Acquisition and Resettlement Management
+14) Labor and Working Condition Management
+15) Community Health and Safety Management
+16) Indigenous People and Cultural Heritage
+
+--- Page 45 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 34/43
+
+
+3.3. Pre-Risk Assessment
+
+1) Cash Flow Forecasting (Net Present Value, Internal Rate Return, Discounted Payback
+Period and others)
+2) Collateral Requirement
+3) SWOT Analysis
+4) Market (Domestic/Export-oriented) Analysis
+5) Fiscal Aspects
+
+--- Page 46 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 35/43
+
+
+Conclusion
+
+It is evident that "Policy Guidelines for Green Banking" issued on February 27, 2011 by
+Bangladesh Bank has gradually changed the mindset of the traditional bankers. Green Banking
+Policy has covered mostly all the issues on Green Banking activities, most importantly green
+finance, a part of sustainable finance. It is also apparent that banks and FIs were long-awaiting to
+contribute to Sustainable and Green Finance in a structured and transparent manner and
+recognition there-in. Reporting on Sustainable Finance has been structured in such a manner that
+contribution by a bank or a financial institution towards sustainable finance including green
+finance is justified and recognized. It is not required to mention that Sustainable Finance Policy
+has not only broaden the scope of Sustainable and Green financing for the participating banks
+and FIs but also has enabled them to be rated better and recognized well in the sustainability
+rating of BB.
+
+The concern for environmental sustainability and inclusive growth has given mass recognition to
+the concept of corporate social responsibility and inclusive finance. In an emerging economy
+like Bangladesh, environmental management needs to be the key focus area of the business
+fraternity especially the banking industry being the major intermediary. Addressing
+environmental and social risks associated with financing activities by banks/FIs is a “must do”
+step in overall Credit Rating for credit approval. Stricter monitoring thereafter disbursement
+must go on. Accordingly, Bangladesh Bank has also integrated issues of socially responsible
+initiatives along with core activities of banks/FIs driving towards sustainable finance strategies.
+
+Sustainability is the issue never ever be compromised with anything. Where ever we go, where
+ever we may be, if we are there, if we exist, if anything persists it is because of sustainability. It
+is our struggle, it is our untiring effort, the best we can do for the survival on earth- the
+contribution we can minimize pollution, environmental threats, resilience to climate change with
+respect to climate change mitigation and climate change adaptation; resilience to inequality,
+imbalance, fight against all evils, inconsistency, corruption, fight for helpless, distressed, non
+privileged, the CSR community investment with a view to preserving the basic rights of human
+being, addressing gender equity for women empowerment. Ensuring food security, establishing
+green building and green industries; sandwich panels for the habitation of the coastal people,
+impactful investment and so many footmarks, achievements and measures- all these for future
+generations, for every breath they will take. The world at large is now experiencing the
+devastating effects of the global climate crisis including droughts, floods, tsunami, water
+scarcity, and rising sea level. These consequences of climate change threaten the sustainable
+living on this planet which calls for an urgent and collective response from both developed and
+developing nations, especially countries like Bangladesh. On that standpoint, we need to take
+necessary steps for our sustainability in the long run.
+
+--- Page 47 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 36/43
+
+
+Annexure
+1. Annexe-1: Characteristics of Green Featured Building
+
+Sl
+Equipment
+Name
+Specification
+01
+Air Conditioning
+System
+Air-conditioning accounts for more than 50% of the total electricity costs in a
+centrally air-conditioned building. Hence the efficiency of a HVAC system is
+of prime importance. The heart of the HVAC system is the chiller and hence it
+is important to procure an efficient chiller system. The cooling equipment shall
+meet or exceed the minimum efficiency requirement as stated in the table
+below.
+Table–Minimum efficiency requirements for water chilling packages
+Description
+Capacity
+COP
+
+IPLV
+Input
+kW/TR
+Test
+procedure
+Air cooled
+chillers
+including
+the
+condenser
+All
+Capacities
+2.8
+3.05
+1.25
+
+ARI 550/590
+Air cooled
+chillers
+without the
+condenser
+All
+Capacities
+3.1
+3.45
+1.13
+
+ARI 550/590
+Water
+cooled,
+electrical
+operated
+positive
+displaceme
+nt
+(Reciprocat
+ing)
+All
+capacities
+4.20
+5.05
+0.83
+
+ARI 550/590
+Water
+cooled
+electrical
+operated
+positive
+displaceme
+nt (rotary
+screw and
+scroll)
+<150 TR
+4.45
+5.2
+0.79
+ARI 550/590
+
+≥150 TR
+and 300 TR
+
+4.90
+
+
+5.6
+
+
+0.71
+
+
+≥300 TR
+
+5.5
+
+6.15
+
+0.64
+
+Water
+cooled
+electrically
+operated
+centrifugal
+<150 TR
+5.0
+5.25
+0.70
+ARI 550/590
+
+≥150 TR
+and 300 TR
+
+5.55
+
+
+5.9
+
+
+0.63
+
+
+≥300 TR
+
+6.1
+
+6.4
+
+0.57
+
+--- Page 48 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 37/43
+
+
+Sl
+Equipment
+Name
+Specification
+
+Table– Minimum efficiencies requirements for air cooled
+air-conditioning equipment
+Equipme
+nt type
+Refrigerant
+output
+Seasonal coefficient of
+performance (SCOP)
+kW/kW
+Testing
+procedure
+Air-
+cooled air
+condition
+er
+<19 kW
+2.84 (COPc)
+ARI 210/240
+ 19 kW and <
+40 kW
+3.16 (COPc)
+ARI 340/360
+ 40 kW and <
+70 kW
+3.04 (COPc)
+ 70 kW
+2.72 (COPc)
+
+
+
+Evaporati
+ng water-
+cooled air
+condition
+ers
+
+<19 kW
+3.35 (COP)
+ARI 210/240
+ 19 kW and <
+40 kW
+3.37 (COP)
+ARI 340/360
+ 40 kW and <
+70 kW
+3.22 (COP)
+3.02 (IPLV)
+ 70 kW
+2.70 (COP)
+Air-
+cooled
+condense
+r units
+ 40 kW
+2.96 (COP)
+3.28 (IPLV)
+ARI 365
+Air cooled
+absorption
+single
+effect
+All
+Capacities
+0.60
+
+
+ARI 560
+Water
+cooled
+absorption
+single
+effect
+All
+Capacities
+0.70
+
+
+ARI 560
+Water
+cooled
+absorption
+double
+effect
+(indirect
+fired)
+All
+Capacities
+1.0
+1.05
+
+ARI 560
+Water
+cooled
+absorption
+double
+effect
+(Direct
+fired)
+All
+Capacities
+1.0
+1.0
+
+ARI 560
+
+--- Page 49 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 38/43
+
+
+Sl
+Equipment
+Name
+Specification
+Water-
+cooled or
+evaporati
+ng
+condense
+r units
+ 40 kW
+
+
+
+3.84 COP
+
+NOTES:
+
+- AC coefficient of performance: COP = Refrigerant output / power
+input (kW/ kW);
+- Condenser unit, including the compressor and condenser coils;
+- Minimum coefficients of performance listed in Table 2 are
+calculated at 100% of the refrigerant output. To calculate the
+coefficient of performance of AC units running for one year, ARI
+340/360 uses the following formula:
+IPLV= 0.01A+0.42B+0.45C+0.12D
+Where:
+IPLV – The Integrated Chapter Load Value- coefficient of
+performance of the AC unit operating for one year at various Chapter
+loads.
+A = COP – coefficient of performance of the AC unit (W/W) at full
+load;
+B = COP – coefficient of performance of the AC unit (W/W) at 75%
+load;
+C = COP – coefficient of performance of the AC unit (W/W) at 50%
+load;
+D = COP – coefficient of performance of the AC unit (W/W) at 25%
+load;
+ARI – American Refrigerant Institute
+02
+Lift / Escalator
+Escalator–the escalator must be fitted with controls & Sensors to reduce speed
+or auto stop when no traffic is detected. Escalators shall be designed with one
+of the energy-saving features as described below:
+1. Reduced speed control: The escalator shall change to a slower speed
+when no activity has been detected for a period of a maximum of three
+(3) minutes. Detection shall be by photocell activation or similar
+sensor at the top and bottom landing areas.
+2. Use on demand: The escalator shall shut down when no activity has
+been detected for a period of a maximum of fifteen (15) minutes. Use
+on demand escalators must be designed with energy efficient soft start
+technology. The escalator shall start automatically when required; the
+activation shall be by photocells or sensor installed in the top and
+bottom landing areas.
+3. Use of AC Variable-Voltage and Variable-Frequency (VVVF) drives
+B. Elevator (lift) - Elevator (lift) must be provided with controls to reduce the
+energy demand. To meet this requirement, the following features must be
+incorporated in traction drive elevators:
+1. Use of AC Variable-Voltage and Variable-Frequency (VVVF) drives
+
+--- Page 50 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 39/43
+
+
+Sl
+Equipment
+Name
+Specification
+on non-hydraulic elevators.
+2. The lift car uses energy-efficient lighting and display lighting i.e. an
+average lamp efficacy, across all fittings in the car, of >55 lamp
+lumens/ circuit watt and lighting switches off after the lift has been
+inactive for a period of a maximum of five (5) minutes.
+3. The lifts operate in a stand-by condition during off-peak periods. For
+example, the power side of the lift controller and other operating
+equipment such as lift car lighting, user displays, and ventilation fans
+switch off when the lift has been inactive for a period of a maximum
+of five (5) minutes.
+03
+Solar power
+system
+3% of Energy of use for Lift and Escalator
+04
+Fresh air supply
+& mechanical
+Vent
+Mechanical ventilation and Blower in Basement Floors and Fresh air supply
+system in habitable floor
+*Variable speed derive fan & motor unit
+05
+Lighting
+Limitation of Lighting Power Density (LPD) will help to design the lighting
+system in the most efficient way and reduce the lighting and cooling load in
+the buildings. The following table sets the average LPD limits for each
+building type:
+Space
+LPD (W/m2)
+Business
+Mercantile
+13
+Hotels
+Hospitals/Health care
+11
+Residential
+Schools
+11
+Covered parking
+Open and outdoor parking
+1.6
+Industries
+As per requirement for
+the specific task
+preferably LED lights
+06
+Sensors
+Occupancy Sensors , Day light sensors, Co2 Sensor
+at least 10 no of sensors (single or different type)
+07
+Automation
+Building Management System (BMS) or Energy Management System (EMS):
+An EMS/BMS reduces energy use in buildings by monitoring conditions and
+controlling energy-consuming equipment. Frequently used for building loads
+such as lighting and space conditioning, an EMS/BMS is versatile enough to
+provide energy savings in process operations in manufacturing facilities.
+Control functions include everything from basic stop/start functions to more
+complex, chiller optimization routines.
+08
+Ceiling Fans
+Energy consumption ≤ 65 watt
+(at least 5 fans)
+Energy Efficient Ceiling fan: An energy efficient ceiling fan can save around
+35% energy with compared to regular ceiling fan.
+09
+Rain water
+Collection and
+Discharge
+Rain water collection and use system
+2000 L/ Day capacity tank and Underground Discharge system for over flow
+water.
+
+--- Page 51 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 40/43
+
+
+Sl
+Equipment
+Name
+Specification
+10
+WTP
+Water Treatment Plant including recycling and reuse system with energy
+efficient pumping system (5KLD)minimum
+11
+Hot Water
+system
+Solar Water Heater: Solar water heating systems use solar panels, called
+collectors, fitted to roof.
+(200 Liter/hour) minimum
+
+12
+Motor Usage
+Variable Frequency Drive:
+VFDs (Variable Frequency Drives) are basically a green energy savings
+product that matches the amount of work or load on a motor to the amount of
+energy it needs to power that amount of work. This reduces excess energy
+from being wasted.
+Soft Starter:
+A soft starter is a device used with motors to temporarily reduce the load and
+torque during startup. It applies a gradually increasing voltage to the motors
+resulting in smooth acceleration of the motor and coupled load.
+13
+Water Fixture
+Water efficient fittings include faucets, showerheads and flushes that use less
+water in order to perform the same function of cleaning as effectively as
+standard models. Water efficiency is an important aspect, especially as fresh
+water resources are increasingly getting depleted at a rate faster that they are
+replenished.
+
+Use of efficient plumbing fixtures, sensors, auto control valves, aerators, flow
+control and pressure-reducing devices can result in significant reduction in
+water consumption.
+
+The following low flow fixtures shall be used:
+
+Type of fixtures
+Quantity
+Unit
+Water closets
+Dual Flush
+(6/4)
+liters/flushing cycle
+(full/low)
+Shower
+9.5
+liters/min at 500 kPa
+Urinals
+Auto Sensor
+Hand wash taps
+6 Auto
+Sensor/Push
+system
+liters/min at 400 kPa
+Kitchen/pantry faucets
+liters/min at 400 kPa
+14
+Masonry
+Materials
+Concrete Hollow Blocks / Interlocking Concrete Block/ lightweight Cellular
+Concrete/ Clay Brick of Auto Brick factory with efficient kiln.
+(at list 60% of total Masonry wall)
+The Factory should have energy audit report from
+national/International Certifying agency
+15
+Steel
+Reinforcement steel from the energy efficient factories
+The Factory should have energy audit report from
+national/International Certifying agency
+>10% Recycle Materials content
+16
+Ready mix
+concrete
+Natural Stone chips as course aggregate
+The Factory should have energy audit report from
+
+--- Page 52 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 41/43
+
+
+Sl
+Equipment
+Name
+Specification
+national/International Certifying agency
+Should have recycle content or fly ash.
+17
+Paint
+Low Volatile Organic Compounds (VOC) paint (VOC level <10g/L )
+The Factory should have energy audit report from
+national/International certifying agency
+18
+Low- E-Glass
+Solar Heat Gain Coefficient (SHGC) 0.4 (maximum) or Shading Coefficient
+(SC) 0.46 (maximum)
+Visible Light Transmittance (VLT) of the glazed element should not be lower
+than 35%.
+Double Glazing Window:
+Energy-efficient glazing keeps home or office cooler and quieter as well as
+reducing our energy bills. That might mean double or triple-glazing, secondary
+glazing, or just heavier curtains. Double-glazed windows have two sheets of
+glass with a gap in between, usually about 16mm, to create an insulating
+barrier.
+19
+UPVC window
+frame
+Window frame made of UPVC (all Curtain and Sliding windows of a building)
+The Factory should have energy audit report from
+national/International Certifying agency
+20
+Insulation
+Roof top Insulation & heat reflective paint (Solar Radiation Index value >78)
+or Insulation blokes
+
+
+2. Annexe-2: List of Applicable National Regulations and International Treaties
+
+Relevant local regulation
+Relevant international treaties and conventions
+for which Bangladesh is a signatory
+ National Environmental Policy, 1992
+ Environment Pollution Control Ordinance,
+1977
+ Environmental
+Quality
+Standards
+for
+Bangladesh, 1991
+ National Environment Management Action
+Plan (NEMAP), 1995
+ Environment Conservation Act, 1995 and
+amended in 2002
+ Environment Conservation Rules, 1997 and
+amended in 2003
+ EIA Guidelines For Industry, 1997
+ Labour Policy 2012
+ Bangladesh Labour Act, 2006
+ Labour Welfare Foundation law 2006
+ Bangladesh Labour (Amended)Law, 2013
+ Occupational Hazards Due to Air Pollution,
+Noise and Vibration (Geneva), 1977
+ Prevention
+and
+Control
+of
+Occupational
+Hazards (Geneva), 1974
+ Occupational Safety and Health in Working
+Environment (Geneva), 1981
+ Occupational Health Services (Geneva), 1985
+ International Convention on Climate Change
+(Kyoto Protocol), 1997
+ UN Framework Convention on Climate Change
+(New York), 1992
+ International Convention on Civil Liability for
+Oil Pollution Damage (Brussels), 1969
+ Convention on Oil Pollution (London), 1990
+ UN Convention on the Law of the Sea
+(Montague Bay), 1982
+
+--- Page 53 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 42/43
+
+
+Relevant local regulation
+Relevant international treaties and conventions
+for which Bangladesh is a signatory
+ Labour Relations under Labour Laws, 1996
+ National Child Labour Elimination Policy,
+2010
+ Bangladesh Factory Act, 1965
+ Bangladesh Factory Rules, 1979
+ OSH Policy, 2011
+ The Employees State Insurance Act, 1948
+ The Employer‟s Liability Act, 1938
+ Maternity Benefit Act, 1950
+ Workmen's Compensation Act, 1923
+ The Employment of Children Act, 1938
+ Bangladesh Industrial Act 1974
+ National 3-R Strategy, 2010 (3R: Reduce,
+Reuse and Recycle)
+ Ship-Breaking
+and
+Hazardous
+Waste
+Management Rules, 2010
+ Biomedical Waste Management Rules,
+2008
+ Draft National Solid Waste Management
+Rules, 2010
+ Draft National River Conservation Act,
+2011
+ Disaster Management Act, 2012
+ Public
+Health
+Emergency
+Provisions
+Ordinance, 1994
+ Climate Change Act, 2010
+ National Plan for Disaster Management
+2010-2015
+ Sound Pollution Law, 2006
+ Water Supply and Sewerage Authority
+Ordinance, 1963
+ Noise Control Rules
+ National Health Policy, 2011
+ National Land Use Policy
+ The Land Acquisition Act, 1894
+ The
+Acquisition
+and
+Requisition
+of
+Immovable Property Ordinance, 1982
+ Civil Liability on Transport of Dangerous
+Goods (Geneva), 1989
+ Protocol on Biological Safety (Cartagena
+Protocol), 2000
+ International
+Plant
+Protection
+Convention
+(Rome), 1951
+ World Cultural and Natural Heritage (Paris),
+1972
+ Convention Relative to the Preservation of
+Fauna and Flora in Their Natural State
+(London), 1933
+ International Convention for the Protection of
+Birds (Paris), 1950
+ Convention on Wetlands of International
+Importance Especially as Waterfowl Habitat
+(Ramsar), 1971
+ Convention on The Conservation of Migratory
+Species of Wild Animals (Bonn), 1979
+ Convention on Biological Diversity (Rio de
+Janeiro), 1992
+ Convention
+on
+International
+Trade
+in
+Endangered Species of Wild Fauna and Flora
+ UN Convention on The Law of The Sea
+(Montague Bay), 1982
+
+--- Page 54 ---
+Sustainable Finance Policy for Banks and Financial Institutions
+
+
+Page 43/43
+
+
+Relevant local regulation
+Relevant international treaties and conventions
+for which Bangladesh is a signatory
+ National Biodiversity Strategy and Action
+plan (2004)
+ Bangladesh Wildlife Conservation and
+Security Act, 2012
+ Bangladesh Wild Life (Preservation) Act,
+1974
+ Bio Safety Rules, 2012
+ Forest (Amendment) Act, 2012
+ Forest Policy, 1994
+ Social Forestry Rules, 2004
+ National Forest Policy and Forest Sector
+Review (1994,2005)
+ Draft Tree Conservation Act, 2012
+ The Private Forests Ordinance Act, 1959
+ Forest Transit Rule, 2011
+ Deer Rearing Policy, 2009
+ The Protection and Conservation of Fish
+Act 1950
+ Draft Wetland Policy, 1998
+ The Protection and Conservation of Fish
+Rules (1985)
+ The Protection and Conservation of Fish
+Act, 1950
+ National Conservation Strategy, 1992
+ Private Fisheries Protection Act 1889
+ Marine Fisheries ordinance 1983
+ Revised National Conservation Act, 2010
+ The Antiquities Act, 1968

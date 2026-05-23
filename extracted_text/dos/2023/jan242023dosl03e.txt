@@ -1,0 +1,93 @@
+--- Page 1 ---
+BANGLADESH BANK
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+Website: www.bb.org.bd
+
+
+Department of Off-site Supervision
+
+
+
+10 Magh 1429
+DOS Circular Letter No. 03 Date: -------------------------
+24 January 2023
+
+Managing Director/Chief Executives
+All Scheduled Banks in Bangladesh.
+
+
+Dear Sir,
+
+Introduction of new Input Template for Comprehensive Risk Management Report (CRMR)
+
+
+Please refer to DOS Circular No. 04 dated 08 October 2018 on the captioned subject. As per this
+circular, banks are required to submit half-yearly CRMR along with other documents to Bangladesh Bank
+(BB).
+2. It is noticed that banks have been submitting their CRMRs in different file formats (e.g., MS
+Word, MS Excel, pdf, etc.) which make the extraction of required data and analysis of risk management
+ratings more strenuous and time-consuming at BB’s end. Therefore, with a view to circumvent such
+complexity and facilitate uniformity in reporting formats, an Excel-based data input template has been
+developed.
+3. Banks are now advised to submit the required data in the excel-based data input template
+(copy attached) on half-yearly basis (i.e. end of June and December) to DOS of BB (e-mail:
+rmmcms.dos@bb.org.bd), in addition to the documents listed in the aforementioned circular.
+4. Banks are also advised to replace the existing data tables in the CRMR with the data tables
+provided in this excel-based input template and to carry out their risk analysis accordingly. Besides, banks
+may also supplement the risk analysis in the CRMR by including any other issues they consider important
+and relevant to their own risk profile.
+5. In this regard, the submission time frame for the required documents will be replaced as
+follows:
+Sl. No.
+Document types
+Submission deadline
+Half-yearly excel-based data input template
+Within 31st July and 31st January respectively
+CRMR prepared for June & December
+Within 10th August & 10th February respectively
+Half-yearly Stress Test report
+Along with half-yearly CRMR
+Monthly Risk Management Report (MRMR)
+Within next month of the reporting period
+
+--- Page 2 ---
+BANGLADESH BANK
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+Website: www.bb.org.bd
+
+
+Department of Off-site Supervision
+
+
+
+Sl. No.
+Document types
+Submission deadline
+Monthly ERMC meeting minutes
+Within 7 days of the meeting held
+BRMC meeting minutes
+Within 7 days of the meeting held
+Yearly Board approved Risk Appetite Statement (RAS)
+Within first 2 months of the year
+Board approved review report of Risk Management Policies
+and effectiveness of risk management functions
+Within first 2 months of the year
+
+6. All other instructions provided vide DOS Circular No. 04, dated 08 October 2018 will remain
+unchanged.
+This circular letter shall come into force with immediate effect.
+
+
+
+Yours sincerely,
+
+(Arief Hossain Khan)
+Director (DOS)
+Phone: 88-9530093
+
+
+Enclosure: As above

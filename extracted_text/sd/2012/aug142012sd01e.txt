@@ -1,0 +1,134 @@
+--- Page 1 ---
+Statistics Department
+Bangladesh Bank
+Head office, Dhaka
+Website : www.bangladeshbank.org.bd
+
+Std. Circular No-01/2012
+
+Dated: 14/08/2012
+
+Managing Director/CEO
+All schedule banks in Bangladesh
+
+Dear Sir,
+
+Subject: Submission of returns on Foreign Direct Investment (FDI) in Bangladesh to
+
+Bangladesh bank's Enterprise Data Warehouse through Web portal from
+
+
+January-June, 2012 on half-yearly basis.
+
+
+According to FE circular No. 21 dated November 03, 2009, Authorized Dealer branches
+(AD branches)/ Offshore Banking Units (OBUs) have been submitting the FDI related
+information of their FDI client enterprises in the prescribed form (filled up by respective
+enterprises) to Statistics Department, Bangladesh Bank, Head Office on half-yearly basis. At
+present to accomplish Enterprise Data Warehouse(EDW) project established in Bangladesh
+Bank, all scheduled bank and Non Bank Depository Corporation are directed to insert and submit
+all previously reported monthly, quarterly, half yearly and annual basis information in prescribed
+RIT through web portal taking January 2012 as base according to circular (Std circular no-1,
+dated December 22, 2011). Subsequently, all AD branches/OBUs have to collect FDI
+information from their FDI client enterprises in prescribed form (filled up properly by respective
+enterprises) and submit to Bangladesh Bank's EDW from now through web portal by inserting
+the information in prescribed RITs. All FDI enterprises and AD branches/OBUs have to follow
+the related following instructions from onwards:
+1. All AD branches/OBUs have to collect FDI related information from their FDI client on
+half-yearly basis (January-June and July-December) which are properly filled up by
+respective client enterprises in prescribed form (form FI-1) and upload the information
+through following mentioned FDI related Rationalized Input Templates (RIT) in
+Bangladesh Bank EDW from onwards.
+Type of
+Information
+Reporting
+Form
+Related RIT
+Reporting
+Frequency
+Submission Deadline
+Foreign
+Direct
+Investment
+(FDI)
+FORM FI-1
+(Revised)
+1. T_ME_S_INV_FOR
+2. T_ME_S_INV_NON_RES
+3. T_ME_S_INV_OP_PRFT
+Half-yearly
+Within 3 months from
+the end of half year i.e.
+January-June Report by 30
+September and July-December
+Report by 31 March of the
+next year.
+
+--- Page 2 ---
+2. All AD branches/OBUs have to submit the collected forms and other supporting
+documents of FDI enterprises mentioning list of enterprises to Statistics Department,
+Bangladesh Bank, Head Office with letter in due time after successful uploading of FDI
+related RITs to Bangladesh Bank’s EDW.
+
+3. FDI client enterprises have to submit the form FI-1 through one bank branch (nominated
+by the enterprise) though it is a client of one or more branches of one or more banks. In
+such case, FDI client enterprises should inform the banks (client enterprise of banks)
+except nominated bank branch about the nominated bank branch in written and submit
+one copy of the same to Statistics Department, Bangladesh Bank, Head Office.
+
+4. FDI client enterprises have to submit a copy of audited yearly/half yearly(which is
+applicable) balance sheet and income statement along with half yearly FDI return to their
+concerned AD branches/OBUs . Unaudited balance sheet & income statement must have
+to submit if audited balance sheet & income statement are not available during the
+reporting period. In the case of any significant changes which might take place later in
+audited accounts must be brought to the notice of this department in order to revise the
+existing data base accordingly.
+
+5. FDI enterprises, which will submit their FDI returns for the first time must have to submit
+attested copy of the incorporation certificate, MOA, registration by concerned authority,
+Schedule–X, Form-XII(which is applicable) to their nominated AD branches/OBUs.
+
+6. The following documents have to submit by FDI enterprises during the reporting period :
+a) Documents of remittances related to investment or debt received by FDI enterprises
+from abroad
+b) Documents of remittances sent by FDI enterprises to abroad
+c) Documents of import of Machinery and Equipment imported by FDI enterprises.
+
+7. AD branches/OBUs have to submit branch wise updated list of FDI enterprises (Name
+and type of enterprise, address of registered office including phone number) to Statistics
+Department of Bangladesh Bank regularly within one month after every half year
+(January-June and July-December) and have to collect updated Reference File to include
+FDI related information in related RITs.
+
+8. FDI enterprises (A & B type) located in EPZ areas have to submit regularly FDI returns
+through their nominated banks on half yearly basis.
+
+9. FDI enterprises either located in EPZ or non-EPZ have to collect the certificate from
+Statistics Department, Bangladesh Bank, Head Office through their nominated banks
+mentioning properly and duly submission of the aforesaid returns and submit a copy of
+the same to their concerned banks.
+
+--- Page 3 ---
+10. The AD branches/OBUs have to ensure the certificate received by FDI enterprises from
+Statistics Department, Bangladesh Bank, Head Office as an acknowledgement of
+properly and duly submission of the returns before extending any financial
+assistance/services.
+
+11. As per above mentioned instructions, the AD branches/OBUs have to submit the related
+returns and start to upload the RITs from January-June 2012 on half yearly basis until
+further notification.
+
+12. The concerned bank officials will have to train up, if necessary, for correct reporting on
+FDI related information through RITs.
+
+According to the above mentioned instructions, all AD branches/OBUs are advised to
+play a responsible role to insert FDI related information in RITs and upload these to Bangladesh
+Bank EDW through Web Portal by collecting FDI related information from their FDI enterprises.
+
+
+Kindly acknowledge the receipts and bring the contents of this circular to the notice of all
+concerned.
+Yours faithfully
+sd/-
+(Md. Mizanur Rahman)
+Phone: 9530213

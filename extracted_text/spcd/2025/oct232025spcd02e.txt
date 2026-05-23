@@ -1,0 +1,450 @@
+--- Page 1 ---
+Page 1 of 3
+Bangladesh Bank
+Head Office
+Motijheel, Dhaka-1000
+Bangladesh
+website: www.bb.org.bd
+Supervisory Policy and Coordination Department
+
+
+SPCD Circular No: 02
+Date:
+07 Kartik 1432
+23 October 2025
+
+
+Managing Directors/Chief Executive Officers
+All Scheduled Banks in Bangladesh
+Dear Sir,
+Implementation of Risk Based Supervision (RBS):
+Supervisory Expectations and Banks’ Preparedness
+To strengthen the bank supervision system in the context of the growing complexity of the
+financial landscape and to align with global standards and best practices, Bangladesh Bank (BB)
+has decided to implement Risk Based Supervision (RBS) across the banking sector from January
+2026. The transition from the existing compliance based supervisory approach to RBS aims to
+ensure the resilience and soundness of the banking system and promote overall financial stability
+through enhanced risk management, proactive supervisory engagement, and timely interventions.
+02. Risk Based Supervision (RBS), in contrast to the traditional compliance-based supervision,
+adopts a forward-looking and process-based approach for enabling early identification and
+mitigation of key risks. It assumes a dynamic and flexible supervisory process focusing on the
+assessment of inherent risks and the effectiveness of internal controls and overall risk governance
+within the banks to determine their composite risk profile, and level of supervisory intensity
+tailored to their unique risk profile. Therefore, under RBS framework, banks are expected to
+demonstrate sound risk management and governance capabilities in major risk areas and meet
+key supervisory expectations as outlined in the Annexure. The supervisory expectations will
+form the foundation for effective supervisory engagement under the RBS environment and lead
+to a positive evaluation if banks show a strong commitment to address those expectations.
+03. To ensure smooth and effective transition, all banks are required to take preparatory measures
+and align their risk governance, internal control structures, management information systems and
+supervisory reporting mechanisms with RBS principles. Banks are advised to undertake the
+activities, as outlined in the table, within the stipulated timeline to ensure readiness for Risk
+Based Supervision framework:
+
+--- Page 2 ---
+Page 2 of 3
+Table: Bank Preparedness for Implementation of Risk Based Supervision
+SL. No.
+Particulars
+Tasks
+Timeline
+Formation of RBS
+Coordination
+Committee
+Establish a cross-functional team
+responsible
+for
+overseeing
+RBS
+preparedness
+to
+address
+the
+supervisory expectations.
+October, 2025
+Gap
+Analysis
+and
+Readiness Diagnostic
+Assess
+current
+risk
+management
+practices,
+governance,
+internal
+control,
+data
+infrastructure
+and
+reporting system to identify the gap
+with supervisory expectations under
+RBS framework outlined in the
+annexure of this circular.
+November, 2025
+Development
+of
+Bank-Specific Action
+Plan
+Prepare a structured Action Plan to
+address
+identified
+gaps
+against
+supervisory expectations with clear
+responsibilities,
+milestones
+and
+timelines, and get it approved by the
+Board of Directors.
+November, 2025
+
+System
+Data
+Preparedness
+Upgrade MIS to align with RBS
+related data requirements as per the
+Rationalized Input Template (RIT)
+already provided under the pilot
+program.
+December, 2025
+Awareness Programs
+on RBS
+Arrange awareness programs for the
+Board
+of
+Directors,
+Senior
+Management and other officials on
+RBS
+principles,
+processes,
+and
+supervisory expectations.
+December, 2025
+Documentation
+Update
+
+Update all the risk management
+policies, manuals, standard operating
+procedures,
+and
+internal
+control
+frameworks
+to
+align
+with
+RBS
+framework.
+December, 2025
+Organizational
+Structure Alignment
+
+Realign roles, responsibilities, and
+reporting lines to ensure independence
+of risk management, compliance and
+internal audit functions to align with
+the RBS framework.
+December, 2025
+Submission of Self-
+Assessment Report
+Self-assess the final readiness against
+the
+supervisory
+expectations
+and
+preparatory measures identified in this
+circular, prepare a report and submit
+the same to Bangladesh Bank along
+with an updated Board of Directors
+approved Action Plan.
+December, 2025
+
+--- Page 3 ---
+Page 3 of 3
+
+5. Bangladesh Bank will conduct targeted supervisory reviews to assess progress made by the
+banks against the submitted Action Plan to address the gap against supervisory expectations, and
+consider these efforts in future risk profiling and supervisory planning. Banks are encouraged to
+treat the supervisory expectations as both a regulatory expectation and an institutional
+development opportunity.
+6. The activities outlined in the table are intended to enhance banks’ preparedness for the
+requirement under the RBS framework. Banks are advised to ensure adherence to the RBS
+preparedness milestones as per the timeline mentioned in the table. Failure to exhibit satisfactory
+preparedness may be subject to enhanced supervisory attention or remedial directives as deemed
+appropriate.
+7. This directive is issued under section 45 of the Bank Company Act, 1991.
+
+Yours Faithfully,
+
+(Mohammad Abdur Rab)
+Director (SPCD)
+Phone: 9530173
+
+
+
+Attachment: 7 pages
+
+--- Page 4 ---
+Annexure
+Indicative Guidance on Supervisory Expectations and Banks’
+Preparatory Measures for RBS Implementation
+
+Bangladesh Bank (BB) as the supervisory authority, expects banks to embed risk-based
+supervision (RBS) principles into their strategies, governance, risk management and decision-
+making processes. The supervisory expectations have been developed by taking into
+consideration of the global standards and best practices for RBS principles, and the framework
+followed by renowned international supervisory authorities and BB, along with its existing
+guidelines. However, they do not intend to supersede any laws, regulations and circulars in force
+in Bangladesh, and therefore, should be interpreted as complementing the current legal
+framework.
+The key supervisory expectations that BB has from banks under the RBS framework are outlined
+as follows:
+A. Governance and Leadership
+Ultimate Responsibility for Risk Oversight: Board of Directors and Senior
+Management shall bear the ultimate accountability for risk oversight. They shall
+strengthen their oversight of risk management and have clearly delineated roles and
+responsibilities for risk oversight and accountability;
+Tone at the Top: The Board of Directors and Senior Management shall set and maintain
+a demonstrable commitment to prudent risk-taking, ethical conduct, and strict adherence
+to supervisory expectations;
+Risk Culture Development: Bank shall establish and reinforce a strong risk culture
+promoting transparency, accountability, and proactive and sound risk management across
+all functions and levels of staff;
+Whistle Blowing Mechanisms and Incentive Structures: Bank shall adopt an effective
+whistle blowing mechanism and align annual performance evaluations and incentive
+structures with prudent risk-taking and long-term sustainability, thereby supporting the
+implementation of a sound risk culture;
+Establishment of Effective Risk Management Architecture: Bank shall establish an
+effective Risk Management Architecture comprising of Risk Governance, Risk
+Management Structure, Risk Reporting Framework, including development of Risk
+Repository and Incident Reporting System;
+Three Lines of Defense: Bank shall ensure an effective Risk Governance structure
+encompassing three lines of defense, with a clear allocation of powers, responsibilities
+and accountabilities for each function.
+
+--- Page 5 ---
+B. Risk Appetite, Strategies and Policies
+ Strategic Plan: Bank shall have a Board of Directors approved strategic plan reflecting
+its vision, mission, strategic objectives and key stakeholders’ aspirations, and the plan
+shall be aligned with the bank’s capacity to manage risk;
+ Risk Appetite and Risk Limit: Bank shall ensure a clear and documented Risk Appetite
+Framework (RAF), which shall be approved and regularly reviewed by the Board of
+Directors. The Risk Appetite Framework shall be in line with the strategic plan and
+within the constraints of legal and regulatory obligations, while the risk limits shall be
+cascaded down to business units, products, and portfolios;
+ Risk Management Policies: Bank shall review and strengthen its all relevant risk
+management policies, including credit, market, operational, liquidity, legal and
+regulatory, strategic, ML/TF, technology risk related policies.
+C. Comprehensive Risk Identification & Assessment
+Upgradation of Risk Management System: Bank shall strengthen and upgrade its risk
+management system to ensure comprehensive identification, measurement, monitoring
+and prioritizing all material risks including credit, market, liquidity, operational, legal &
+regulatory, strategic and other risks;
+Integration of Emerging Risks: Bank shall integrate management of various emerging
+risks, including cyber risk, climate risk, ML/TF risk, third-party risk, fintech-related risk
+in its risk management framework, and shall continuously monitor technology and
+external environment changes;
+Stress Testing and Vulnerability Analysis: Bank shall incorporate forward-looking
+assessments to anticipate changes in the risk environment and use/strengthen stress
+testing, scenario analysis, early warning indicators and other tools, including VAR to
+assess vulnerabilities;
+Development and Review of Recovery Plan: Bank shall develop a Recovery Plan
+following the respective guidelines issued by BB. It should be reviewed and approved by
+the Board of Directors on periodical basis;
+Review of Business Continuity Plan and the Disaster Recovery Plan: Bank shall
+regularly review, update and test the Business Continuity Plan and Disaster Recovery
+Plan for ensuring operational continuity of the bank.
+D. Capital & Liquidity Adequacy
+Maintenance of Adequate Capital Buffer: Bank shall maintain adequate capital. It shall
+conduct ICAAP and stress test, and link the results to capital adequacy planning;
+Liquidity Management: Bank shall maintain adequate liquidity in alignment with LCR,
+NSFR and stress testing outcome. It shall regularly review and test the contingency
+funding plan.
+
+--- Page 6 ---
+E. Data, Reporting and MIS Readiness
+Upgradation of Management Information System: Bank shall upgrade its
+Management Information System (MIS) so that it can generate granular, accurate, timely
+and consistent data across all risk areas, and can support stress testing, risk modeling and
+reporting;
+Data Aggregation and Reporting System: Bank shall ensure a robust risk data
+aggregation and reporting system to provide supervisory authority, Board of Directors
+and Senior Management with a holistic view of risks;
+Data Compatibility with BB Requirement: Bank shall strengthen its MIS to ensure
+data compatibility with BB’s RBS related data requirement.
+F. Supervisory Engagement & Transparency:
+ Proactive Engagement: Bank shall provide supervisors with accurate, timely, and
+complete information and engage proactively with them during reviews, assessments, and
+follow-up actions;
+ Immediate Notification: Bank shall immediately notify supervisors in case of any
+relevant event that can have a significant adverse impact on the bank’s risk profile,
+liquidity or capital situation, earnings or operational continuity.
+G. Functional Supervisory Expectations
+Operational Management:
+o Satisfactory departmental/divisional/sectional/unit organization structure shall be
+in place with clearly defined reporting lines, adequate allocation of powers,
+segregated roles and responsibilities and accountabilities of staffs at operational
+and management levels of lending, investment, treasury and other operational
+activities for proper management of different risks, including credit, market,
+operational and other risks;
+o Adequate policies, procedures and limits shall be in place and adherence to those
+policies, procedures and limits by the staff should be ensured;
+o Adequate staff in terms of numbers, expertise, experience and trainings shall be
+ensured for effective risk management;
+o Robust MIS and adequate procedures for compliance monitoring for timely and
+effective detection, reporting and prevention of material errors, irregularities and
+weaknesses shall be in place.
+Board of Directors Oversight:
+o Board of Directors shall regularly review and approve appropriate risk
+management strategy, policies, procedures and risk appetite in regard to relevant
+risks and oversee their implementation and follow up;
+
+--- Page 7 ---
+o Board of Directors shall establish an appropriate organizational structure and
+define the role and authority for itself, Senior Management and for those
+responsible for business, risk management and control functions;
+o Board of Directors shall ensure the independence of risk management,
+compliance and internal audit functions, and provide adequate, skilled and
+experienced resources;
+o Board of Directors shall ensure that top management possesses sound knowledge
+and expertise and hold them accountable for breaches of and non-adherence to
+law, regulations, internal policies, procedures, and risk limits;
+o Board of Directors shall regularly review the bank’s financial health, portfolio
+quality and ensure maintenance of adequate provisions and capital commensurate
+with the risk profile of the bank;
+o Board of Directors shall ensure adequate and robust IT and MIS for risks to be
+identified, measured, assessed, and reported in a timely and accurate manner;
+o Board of Directors and its committees shall review various internal and external
+reports, take appropriate decisions for risk mitigations and ensure follow up of
+those decisions for proper implementation;
+o Board of Directors shall ensure governance at bank in accordance with corporate
+governance principles;
+o The Board of Directors shall actively oversee the integration of supervisory
+expectations in the bank’s existing framework and practices, review the
+implementation of the Action Plan designed for the integration of supervisory
+expectations under RBS framework, and hold Senior Management accountable
+for deficiencies.
+Senior Management Oversight:
+o Senior Management shall translate strategic direction and policy set by the Board
+of Directors into proper procedures and operational standards and ensure
+management and control of risk in accordance with the policies keeping in view
+of the strategic direction and risk appetite specified by the Board of Directors;
+o Senior Management shall ensure segregation of duties, transparency and
+accountability across the organization for staffs, ensure adherence to the
+delegation of authority, and preserve the effectiveness and independence of bank’s
+internal control and audit functions;
+o Senior Management shall adequately oversee the officials they manage and ensure
+that their activities are consistent with business strategy, risk appetite and the
+policies approved by Board of Directors;
+
+--- Page 8 ---
+o Senior Management shall keep the Board of Directors regularly and adequately
+informed of material issues, including changes in business strategy, bank’s
+performance and financial condition, breaches of risk limits or compliance
+requirements, internal control failures, legal or regulatory concerns.
+Risk Management Function:
+o Risk management function shall remain independent with direct reporting lines to
+the Board of Directors and have Chief Risk Officer (CRO) with adequate
+expertise, stature and authority;
+o Risk management function must be well-resourced and capable of identifying,
+assessing, measuring, monitoring, and mitigating all material risks, including
+credit, market, liquidity, operational, legal & regulatory, strategic, technology and
+other risks;
+o Risk management function shall develop and test different models and observe
+their use to assess and measure risks along with the assessment of risks involved
+in new products and services;
+o Risk management function shall conduct stress testing, scenario analysis, and use
+early warning indicators and other tools to identify vulnerable areas and also
+incorporate forward-looking assessments to anticipate changes in the risk
+environment;
+o Risk management function shall monitor on an ongoing basis if the risk-taking
+activities and risk exposures are in line with the Board of Directors approved risk
+appetite, risk limit and corresponding capital or liquidity needs;
+o Risk management function shall report to the Senior Management and Board of
+Directors if any material deficiency is observed along with its recommendations
+to ensure maintenance of adequate capital.
+o Anti-money Laundering Department and Chief Anti-money Laundering
+Compliance Officer of bank shall ensure the effective management of ML/TF risk
+in line with applicable laws, regulations and the bank’ relevant risk management
+policies, and shall closely coordinate with the Risk Management Department in
+this regard.
+Internal Audit Function:
+o Internal audit function shall be independent with sufficient stature and authority
+within the bank, for enabling the internal auditors to carry out objective
+assessment of business units and risk control functions;
+o Internal audit function shall have sufficient resources and staff with relevant
+expertise and experience to understand and evaluate the business activities and
+associated risks;
+
+--- Page 9 ---
+o Internal audit shall carry out its function in accordance with Risk Based Audit
+approach;
+o Internal audit shall independently review the adequacy and effectiveness of the
+bank’s different risk management policies and processes, internal control system
+and compliance framework along with business units and operations, identify
+weaknesses and report the same to Senior Management and Board of Directors
+with recommendations of appropriate corrective measures;
+o Internal audit shall independently review the appropriateness of maintenance of
+provisions and capital, and adequacy of MIS;
+o Internal Audit must evaluate the adequacy of the bank’s existing framework and
+practices against the supervisory expectations within its audit scope and report
+findings directly to the Audit Committee of the Board of Directors with timelines
+for corrective action.
+Compliance Function:
+o Compliance function shall have independence, sufficient authority and the right
+on its own initiative to communicate with any staff members and obtain access to
+any records or files related to business operations to investigate possible breaches
+with laws and regulations;
+o Compliance function shall have a separate compliance structure along with
+adequate resources, remain up to date of the changes in the laws, regulations,
+circulars, guidelines and other regulatory requirements (including regulatory
+reporting) and communicate the same with the concerned department/business
+units;
+o Compliance function shall conduct regular reviews on day-to-day activities of
+bank’ relevant business units/departments/operational units to ensure full
+adherence to the applicable laws, regulations and guidelines and timely reporting
+of breaches to the Board of Directors and Bangladesh Bank.
+H. Training, Awareness, and Capacity Building
+Comprehensive Training Programs: All employees shall undergo comprehensive
+training on RBS principles and supervisory expectations. Specialized modules should be
+designed for Senior Management, risk function heads and Board of Directors members;
+Board of Directors Awareness Programs: The Board of Directors shall participate in at
+least one formal RBS awareness program annually;
+Role-specific Capacity Development: Staff directly engaged in RBS-related functions
+(risk management, compliance, internal audit, operational risk, technology, ML/TF etc.)
+shall receive targeted technical training to enhance capacity, such as training on Basel
+norms, different types of risk, stress testing, risk modeling, regulatory compliance etc.
+
+--- Page 10 ---
+I. Gap Assessment, Reporting, Monitoring and Feedback
+Gap Analysis and Action Tracking: Bank shall conduct periodic gap assessments of
+existing framework against supervisory expectations under RBS with documented
+follow-up and corrective actions;
+Regular Reporting to the Board of Directors: Senior Management shall submit
+quarterly reports to the Board of Directors detailing the gaps identified against
+supervisory expectations, an Action Plan to address the gap and the progress achieved
+against the Action Plan;
+Monitoring and Feedback by the Board of Directors: The Board of Directors shall
+maintain documented oversight of RBS implementation, including timely review and
+approval of corrective action plans.
+J. Committee and Coordination
+Formation of RBS Coordination Committee:
+o Convener: Focal Point Official for RBS
+o Member Secretary: Deputy Focal Point Official for RBS
+o Members: Heads of Internal Audit, Compliance, Credit Division/Department,
+Credit Risk Management, Credit Administration, ICT, International Division,
+MIS/Data Management, Central Accounts, Treasury, Law, Chief Operating
+Officer, Chief Financial Officer, and any other departments or equivalent
+executives relevant to RBS.
+Mandate: The Committee shall coordinate all RBS-related activities, monitor progress,
+review resource adequacy, and report quarterly to the Board of Directors and Bangladesh
+Bank proactively or upon request.
+Position of Focal Point and Deputy Focal Point:
+o Focal point shall be a Deputy Managing Director (DMD) or a higher position. If
+Chief Risk Officer is a DMD or higher-level official, he/she shall act as the Focal
+Point official.
+o Deputy Focal Point shall be a mid-level official.
+Secretariat of the Coordination Committee: Risk Management Department of the bank
+shall provide all secretarial services to the RBS Coordination Committee.

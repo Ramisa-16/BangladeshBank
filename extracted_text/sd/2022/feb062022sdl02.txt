@@ -1,0 +1,1217 @@
+--- Page 1 ---
+বাংলাদেশ ATTRA
+(সেন্ট্রাল ব্যাংক অব বাংলাদেশ)
+প্রধান কার্ধালয়
+মতিঝিল, ঢাকা-১০০০
+বাংলাদেশ ।
+
+এসটিডি সার্কুলার পত্র নং-০২
+
+২৩ মাঘ, ১৪২৮
+
+ব্যবস্থাপনা পরিচালক / প্রধান নিবাহী কর্মকর্তা
+বাংলাদেশে SAS সকল ইসলামিক ব্যাংক/
+ইসলামিক ব্যাংকিং শাখা/ ইসলামিক ব্যাংকিং উইন্ডো
+প্রধান কার্যালয় |
+
+বিষয়ও Islamic Financial Transactions WHE তথ্য নতুন Template এর মাধ্যমে মাসিক
+ভিত্তিতে দাখিল প্রসঙ্গে |
+
+সাম্প্রতিক সময়ে বাংলাদেশে ইসলামিক ব্যাংকের সংখ্যা বৃদ্ধির সাথে সাথে যথাযথ পরিভাষায় ইসলামিক ব্যাংক সম্পর্কিত
+তথ্য সংগ্রহ ও পর্যবেক্ষণ করার আবশ্যিকতা তৈরি হয়েছে। অত্র বিভাগের ইসলামিক ব্যাকিং এন্ড ফাইন্যান্স ডাটাবেইজ ইউনিট
+কর্তৃক Islamic Financial Transactions সংশ্লিষ্ট তথ্য যথাযথ পরিভাষায় ও সঠিকতার সাথে সংকলন করার জন্য বাংলাদেশে
+কার্ষরত সকল ইসলামিক ব্যাংক, ইসলামিক Branch/Window সংশ্লিষ্ট ব্যাংকসমূহের জন্য একটি Data 10711916 প্রস্তুত
+
+বর্ণিত Data Template এর মাধ্যমে জানুয়ারী, ২০২২ হতে ইসলামিক ব্যাংকিং এন্ড ফাইন্যান্স সংক্রান্ত তথ্য
+
+নিয়মিতভাবে মাসিক/ব্রেমাসিক (প্রযোজ্য ক্ষেত্রে) ভিত্তিতে পরবর্তী মাসের ১৫ তারিখের মধ্যে পরিসংখ্যান বিভাগের ইসলামিক
+
+ব্যাংকিং এন্ড ফাইন্যান্স ডাটাবেইজ ইউনিটে দাখিল করার জন্য সংশ্লিষ্ট সকল ইসলামিক ব্যাংক, ইসলামিক Branch/Window
+শ্লষ্ট ব্যাংককে নির্দেশ প্রদান করা যাচ্ছে |
+
+উল্লেখ্য, প্রাথমিকভাবে ইসলামিক ব্যাংকসমূহের তথ্যের একটি Time Series তৈরী করার লক্ষ্যে এককালীন বাৎসরিক
+ভিত্তিতে ২০০৯-১০ থেকে ২০২০-২১ অর্থবৎসর পর্যন্ত ও মাসিক/ত্রেমাসিক প্রেযোজ্য ক্ষেত্রে) ভিত্তিতে ২০২০-২১ ও ২০২১-২২
+
+অনুগ্রহপূর্বক প্রাপ্তি স্বীকার করবেন এবং সংশ্লিষ্ট সকলকে বিষয়টি অবহিত করবেন।
+
+ধন্যবাদান্তে,
+
+uses
+
+(ড. মোহাম্মদ আমির হোসেন, CSAA)
+মহাব্যবস্থাপক, পরিসংখ্যান বিভাগ
+4 ফোন-৯৫৩০২৪৫।
+
+ফোন 8 ৮৮-০২-৯৫৫০৪৪৮, ৯৫৫৪৮৯৬, আইপি ৪ ৮৮-০২-৫৫৬৬৫০০১-৬, ফ্যাক্স 8 ৮৮-০২-৯৫৩০৪৭৯, www.bb.org.bd
+
+--- Page 2 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Particulars
+Reporting Month
+Total Assets/Financing (a+…+e)
+a) Total Shari'ah Compliant Financing (Excl. Interbank)
+b) Total SUKUK Holdings
+c) Other Shari'ah Compliant Securities
+d) Interbank Financing
+e) Other Assets/Financing
+Total Liabilities/Funding (a+…+h)
+a) Paidup Capital
+b) Profit Sharing Investment Accounts (PSIAs)
+c) Other Remunerative Funding (Murabaha, Tawarruq etc.)
+d) Non-Remunerating Funding (Current A/C, Al Wadeah A/C etc.)
+e) SUKUK Issued
+f) Other Shari'ah Compliant Securities Issued
+g) Interbank Funding/Liabilities
+h) Other Funding/Liabilities
+3 Liquidity - Surplus (+) or Shortfall (-)
+Foreign Exchange Transactions (i+ii+iii+iv)
+i) Export
+a) Murabaha
+b) Mudarabah
+c) Musharakah
+d) Wakalah
+e) Kafalah
+f) Others
+ii) Import
+a) Murabaha
+b) Mudarabah
+c) Musharakah
+d) Wakalah
+e) Kafalah
+f) Others
+iii) Remittance
+iv) Other Foreign Transactions
+Manpower (in Number) (end of period)
+i) Officer
+a) Head Office
+b) Branch offices
+ii) Others (Staff)
+a) Head Office
+b) Branch offices
+Of which: Number of employees having CSAA/CIPA
+Number of Branches
+i) Urban
+ii) Rural
+iii) SME/Agriculture Branches
+iv) Agent Banking Outlets
+iv) Sub Branch
+Name of Reporting Officer:
+Mobile Number:
+E-mail Address:
+Table B-1 : Basic Information
+
+--- Page 3 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Particulars
+Reporting Month
+Gross Operating Income (i+…+iv)
+i) Income from Investment
+a) Sales Based
+b) Leased Based
+c) Equity Based
+d) Others
+ii) Income from Securities
+a) SUKUK
+b) Other Securities
+iii) Commission, exchange and brokerage income
+iv) Other operating income
+Provisions and other adjustable income
+Net Operating Income (1-2)
+Bank's income as Mudarib
+Income as commissions & fees
+Gains/losses in financial instruments
+Other income
+Gross Income(4+…+8)
+10 Provision for non-perming financings
+11 Other provisions
+12 Net Income (9-10-11)
+13 Net income after taxes, zakat etc.
+14 Shari'ah Non-compliance Income (If any)
+15 Retained earnings
+16 Operating Expenses (i+…+x)
+i) Salary and allownces
+ii) Rent, taxes, insurance, electricity
+iii) Legal expenses
+iv) Chief executive's salary and fees
+v) Director's fees and expenses
+vi) Sharia'h Committee's fees and expenses
+vii) Autitors' fees
+viii) Zakat expenses
+ix) Depreciation and repairs of banks' assets
+x) Other expenses
+17 Profit/loss before provision
+18 Total provision
+19 Total profit/loss before taxes
+20 Provision for taxation
+21 Net profit after tax
+Table B-2 : Extended Basic Information
+
+--- Page 4 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Particulars
+Reporting Month
+Al - Wadeeah Current Account (AWCA)
+of which: Profits Distributed (if any)
+Mudaraba Deposits (1+2+… … +19)
+Mudaraba Savings Accounts (MSA)
+Mudaraba Term Deposits (MTDR)
+i) Less than 3 months
+ii) For 3 months to less than 6 months
+iii) For 6 months to less than 1 year
+iv) For 1 year to less than 2 years
+v) For 2 years to less than 3 years
+vi) For 3 years to less than 5 years
+vii) For 5 years and above
+Mudaraba Special Notice Accounts (MSNA)
+Mudaraba Pension Scheme Deposit Account (MPSDA)
+Mudaraba Hajj Savings Account (MHSA)
+Mudaraba Special Savings (Pension) Accounts (MSSA)
+Mudaraba Waqf Cash Deposit Accounts (MWCDA)
+Mudaraba Muhor Savings Account (MMSA)
+10 Students Mudaraba Savings Accounts (SMSA)
+11 Mudaraba Special Scheme Deposit A/C (MSSDA)
+12 Mudaraba Farmers Savings Account (MFSA)
+13 Mudaraba Monthly Profit Deposit Account (MMPDA)
+14 Mudaraba Priority Savings Account (MPSA)
+15 Mudaraba Upohar Deposit Account (MUDA)
+16 Mudaraba Senior Citizens Deposits A/C (MSCDA)
+17 Mudaraba Shwapna Puran Deposit Account
+18 Mudaraba Shadhin Sanchaya Account
+19 Mudaraba Other Deposit Accounts n.i.e.
+Mudaraba Savings Bonds (1+2)
+Mudaraba Savings Bond (MSB)
+Mudaraba NRB Savings Bond (MNSB)
+Special Deposit Accounts (1+2+… …+6)
+Non-resident FC Deposit Accounts (NFCD)
+Resident FC Deposit Accounts (RFCD)
+Convertible Taka Account of Foreigners
+Non-resident Investment Taka Account (NITA)
+Private Foreign Currency Account
+Vostro A/C of Foreign Bank Branches & Correspondents
+Other Deposits (1+2+…….+9)
+Quard-e-Hasana Deposits
+Special Scheme Deposits
+Property Development Account
+Sundry Deposit
+Hamish Jiddiyyah
+Urboon
+Marginal Deposit : Foreign Bills Purchased
+Musharaka Documentary Bill (MDB)
+Other Deposits n.i.e
+
+
+Total : (A+B+C+D+E)
+Table D-1 : Types of Deposits (Outstanding)
+
+--- Page 5 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+How Frequently Profit is Distributed:
+(Profit Rate upto Two Decimal Places)
+Sl.
+Particulars
+Reporting Month
+Al - Wadeeah Current Account (AWCA)
+Mudaraba Deposits (1+2+… … +19)
+Mudaraba Savings Accounts (MSA)
+Mudaraba Term Deposits (MTDR)
+i) Less than 3 months
+ii) For 3 months to less than 6 months
+iii) For 6 months to less than 1 year
+iv) For 1 year to less than 2 years
+v) For 2 years to less than 3 years
+vi) For 3 years to less than 5 years
+vii) For 5 years and above
+Mudaraba Special Notice Accounts (MSNA)
+Mudaraba Pension Scheme Deposit Account (MPSDA)
+Mudaraba Hajj Savings Account (MHSA)
+Mudaraba Special Savings (Pension) Accounts (MSSA)
+Mudaraba Waqf Cash Deposit Accounts (MWCDA)
+Mudaraba Muhor Savings Account (MMSA)
+10
+Students Mudaraba Savings Accounts (SMSA)
+11
+Mudaraba Special Scheme Deposit A/C (MSSDA)
+12
+Mudaraba Farmers Savings Account (MFSA)
+13
+Mudaraba Monthly Profit Deposit Account (MMPDA)
+14
+Mudaraba Priority Savings Account (MPSA)
+15
+Mudaraba Upohar Deposit Account (MUDA)
+16
+Mudaraba Senior Citizens Deposits A/C (MSCDA)
+17
+Mudaraba Shwapna Puran Deposit Account
+18
+Mudaraba Shadhin Sanchaya Account
+19
+Mudaraba Other Deposit Accounts n.i.e.
+Mudaraba Savings Bonds (1+2)
+Mudaraba Savings Bond (MSB)
+Mudaraba NRB Savings Bond (MNSB)
+Special Deposit Accounts (1+2+… …+6)
+Non-resident FC Deposit Accounts (NFCD)
+Resident FC Deposit Accounts (RFCD)
+Convertible Taka Account of Foreigners
+Non-resident Investment Taka Account (NITA)
+Private Foreign Currency Account
+Vostro A/C of Foreign Bank Branches & Correspondents
+Other Deposits (1+2+…….+9)
+Quard-e-Hasana Deposits
+Special Scheme Deposits
+Property Development Account
+Sundry Deposit
+Hamish Jiddiyyah
+Urboon
+Marginal Deposit : Foreign Bills Purchased
+Musharaka Documentary Bill (MDB)
+Other Deposits n.i.e
+
+Table D-2 : Profit Rates by Types of Deposits
+
+--- Page 6 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Number of Accounts)
+Sl. Size of Accounts
+Reporting Month
+Upto Tk. 50 thousands
+Tk. 50 thousands to Tk. 1 lac
+Above Tk. 1 lac to Tk. 5 lac
+Above Tk. 5 lac to Tk. 10 lac
+Above Tk. 10 lac to Tk.50 lac
+Above Tk. 50 lac to Tk.1 Crore
+Above Tk. 1 Crore to Tk. 5 Crore
+Above Tk. 5 Crore to Tk. 10 Crore
+Above Tk. 10 lac to Tk. 50 Crore
+10 Above Tk. 50 Crore to Tk.100 Crore
+11 Above Tk. 100 Crore
+Table D-4: Deposits Distributed by Size (Outstanding)
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl. Size of Accounts
+Reporting Month
+Upto Tk. 50 thousands
+Tk. 50 thousands to Tk. 1 lac
+Above Tk. 1 lac to Tk. 5 lac
+Above Tk. 5 lac to Tk. 10 lac
+Above Tk. 10 lac to Tk.50 lac
+Above Tk. 50 lac to Tk.1 Crore
+Above Tk. 1 Crore to Tk. 5 Crore
+Above Tk. 5 Crore to Tk. 10 Crore
+Above Tk. 10 lac to Tk. 50 Crore
+10 Above Tk. 50 Crore to Tk.100 Crore
+11 Above Tk. 100 Crore
+Table D-3 : Number of Accounts by Size of Deposits
+Total
+Total
+
+--- Page 7 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+Reporting Month
+(Taka in Units)
+Serial
+Division/District
+No.
+Urban
+Rural
+Total
+5=(3+4)
+Bandarban
+Brahmanbaria
+Chandpur
+Chattogram
+Rangamati
+Cumilla
+Cox'S Bazar
+Feni
+Khagrachari
+10
+Lakshmipur
+11
+Noakhali
+12
+Dhaka
+13
+Faridpur
+14
+Gazipur
+15
+Gopalganj
+16
+Kishoreganj
+17
+Madaripur
+18
+Manikganj
+19
+Munshiganj
+20
+Narayanganj
+21
+Narshingdi
+22
+Rajbari
+23
+Shariatpur
+24
+Tangail
+25
+Bagerhat
+26
+Chuadanga
+27
+Jashore
+28
+Jhenaidah
+29
+Khulna
+30
+Kushtia
+31
+Magura
+32
+Meherpur
+33
+Narail
+34
+Satkhira
+35
+Bogura
+36
+Jaypurhat
+37
+Natore
+38
+Naogaon
+39
+Chapainawabganj
+40
+Pabna
+41
+Rajshahi
+42
+Sirajganj
+43
+Barguna
+44
+Barishal
+45
+Bhola
+46
+Jhalokathi
+47
+Patuakhali
+48
+Pirojpur
+49
+Habiganj
+50
+Moulvibazar
+51
+Sunamganj
+52
+Sylhet
+53
+Dinajpur
+54
+Gaibandah
+55
+Kurigram
+56
+Lalmonirhat
+57
+Nilphamari
+58
+Panchagarh
+59
+Rangpur
+60
+Thakurgaon
+61
+Jamalpur
+62
+Mymensingh
+63
+Netrokona
+64
+Sherpur
+Deposits
+Bangladesh
+Table D-5 : District-wise Deposits (Outstanding)
+Chattogram
+Dhaka
+Khulna
+Rajshahi
+Sylhet
+Rangpur
+Mymensingh
+
+--- Page 8 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+Reporting Month
+(Amount in Individual Currencies)
+Code Currency Name
+NFCD A/C NRT A/C
+RFCD A/C RPFC A/C ERQ A/C
+WRFC A/C
+CFC A/C
+EPZFC A/C MCFC A/C Others n.i.Total
+01 US Dollar
+02 Canadian Dollar
+03 Philippines Peso
+10 Pound Sterling
+11 Australian Dollar
+12 Newzealand Dollar
+13 Pakistan Rupee
+14 Burmese Kyat
+15 Srilankan Rupee
+16 Indian Rupee
+17 Malaysian Ringit
+18 Hongkong Dollar
+19 Bangladeshi Taka
+20 Singapore Dollar
+30 Danish Krone
+32 Norwegian Krone
+35 Swedish Krona
+38 Swish Franc
+41 Iomani Riyal
+42 Saudi Riyal
+43 Iranian Riyal
+47 ACU (EURO)
+50 South Korean Won
+53 Yemeni Riyal
+67 Chinese Yuan
+71 Indonesian Rupiah
+75 Japanese Yen
+81 Syrian Pound
+85 Thai Baht
+86 EURO
+87 Russian Rouble
+90 Kuwaiti Dinar
+91 Nepalese Rupee
+93 Qatari Riyal
+94 Bahraini Dinar
+96 UAE Dirham
+98 ACU Dollar
+NFCD A/C = Non-resident Foreign Currency Account
+WRFC A/C = Wage Earners Remittance Foreign Currency Account
+RFCD A/C = Resident Foreign Currency Account
+CFC A/C = Corporate Foreig Currency Account
+RPFC A/C = Resident Private Foreign Currency Account
+EPZFC A/C = Foreign Currency Account of Type A, B, C EPZs
+ERQ A/C = Exporter's Retention Qouta Account
+MCFC A/C = Money Changer's Foreign Currency Account
+Total
+Table D-6 : Currency-wise Foreign Currency Deposts (Outstanding FC)
+
+--- Page 9 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+Reporting Month
+(Taka in Units)
+Type of Deposits
+Central
+Autonomous and
+Local
+Public
+Public
+Public
+Other
+Sub-Total
+Private
+Private
+International
+Private
+Non-Profit Households
+Other
+Sub-Total
+Grand
+Government
+Semi-Autonomous
+Authorities
+Non-Financial
+Financial
+Insurance
+Public
+Public
+Non-Financial
+Financial
+Organizations
+Insurance Institutions
+and
+Private
+Public
+Total
+Bodies
+Corporations
+Corporations
+Companies
+Entities
+Sector
+Corporations
+Corporation
+Companies
+(NPISH)
+Individuals
+Entities
+Sector
+10=(3…9)
+11
+12
+13
+14
+15
+16
+17
+18=(11…17) 19=(10+18)
+Al - Wadeeah Current Account (AWCA)
+of which: Profits Distributed (if any)
+Mudaraba Deposits (1+2+… … +19)
+Mudaraba Savings Accounts (MSA)
+Mudaraba Term Deposits (MTDR)
+i) Less than 3 months
+ii) For 3 months to less than 6 months
+iii) For 6 months to less than 1 year
+iv) For 1 year to less than 2 years
+v) For 2 years to less than 3 years
+vi) For 3 years to less than 5 years
+vii) For 5 years and above
+Mudaraba Special Notice Accounts (MSNA)
+Mudaraba Pension Scheme Deposit Account (MPSDA)
+Mudaraba Hajj Savings Account (MHSA)
+Mudaraba Special Savings (Pension) Accounts (MSSA)
+Mudaraba Waqf Cash Deposit Accounts (MWCDA)
+Mudaraba Muhor Savings Account (MMSA)
+10
+Students Mudaraba Savings Accounts (SMSA)
+11
+Mudaraba Special Scheme Deposit A/C (MSSDA)
+12
+Mudaraba Farmers Savings Account (MFSA)
+13
+Mudaraba Monthly Profit Deposit Account (MMPDA)
+14
+Mudaraba Priority Savings Account (MPSA)
+15
+Mudaraba Upohar Deposit Account (MUDA)
+16
+Mudaraba Senior Citizens Deposits A/C (MSCDA)
+17
+Mudaraba Shwapna Puran Deposit Account
+18
+Mudaraba Shadhin Sanchaya Account
+19
+Mudaraba Other Deposit Accounts n.i.e.
+Mudaraba Savings Bonds (1+2)
+Mudaraba Savings Bond (MSB)
+Mudaraba NRB Savings Bond (MNSB)
+Special Deposit Accounts (1+2+… …+6)
+Non-resident FC Deposit Accounts (NFCD)
+Resident FC Deposit Accounts (RFCD)
+Convertible Taka Account of Foreigners
+Non-resident Investment Taka Account (NITA)
+Private Foreign Currency Account
+Vostro A/C of Foreign Bank Branches & Correspondents
+Other Deposits (1+2+…….+9)
+Quard-e-Hasana Deposits
+Special Scheme Deposits
+Property Development Account
+Sundry Deposit
+Hamish Jiddiyyah
+Urboon
+Marginal Deposit : Foreign Bills Purchased
+Musharaka Documentary Bill (MDB)
+Other Deposits n.i.e
+Total : (A+B+C+D+E)
+Private Sector
+Public Sector
+Table D-7 : Sector and Type-wise Deposits (Outstanding)
+
+--- Page 10 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Particulars
+Reporting Month
+Mudarabah
+Musharaka
+Diminishing Musharaka
+Bai - Murabaha
+Bai - Muajjal
+Bai - Salam
+Bai – Istisna
+Bai-Istijrar
+Operating Ijarah
+10
+Financing Ijarah
+11
+HPSM
+12
+Muzara'ah
+13
+Musaqat
+14
+Kafalah
+15
+Ju'alah
+16
+Hawalah
+17
+Wakalah
+18
+Quard - e - Hasan with Service Charge
+19
+Quard - e - Hasan without Service Charge
+20
+Islamic Credit Card
+21
+General Provision against Investment
+22
+Specific Provision against Investment
+23
+Profit/Interest Suspension on Investment
+24
+Compensation Suspension on Investment
+25
+e-GP Financing under Quard and Wakalah
+26
+MPI (Murabaha Post Import)
+27
+Islamic Staff House Building Investment Scheme
+28
+IBP (Inland Bill Purchased)
+29
+FBP (Foreign Bill Purchased)
+30
+Car Investment under HPSM
+31
+Star Islamic under Bai-Muajjal and Wakalah
+32
+Car Invest. Scheme for Executives of the Bank
+33
+Any other mode (not shown above)
+GRAND TOTAL (1+2+…..+33)
+
+Table I-1 : Mode-wise Investment (Outstanding)
+
+--- Page 11 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+How Frequently Markup/Profit is Distributed:
+(Mark-up Rate upto Two Decimal Places)
+Sl
+Particulars
+Reporting Month
+A. Against Sector of Investment
+Agriculture
+Industry
+Service
+B. Against Mode of Investment
+Mudarabah
+Musharaka
+Diminishing Musharaka
+Bai - Murabaha
+Bai - Muajjal
+Bai - Salam
+Bai – Istisna
+Bai-Istijrar
+Operating Ijarah
+10 Financing Ijarah
+11 HPSM
+12 Muzara'ah
+13 Musaqat
+14 Kafalah
+15 Ju'alah
+16 Hawalah
+17 Wakalah
+18 Quard - e - Hasan with Service Charge
+19 Quard - e - Hasan without Service Charge
+20 Islamic Credit Card
+21 General Provision against Investment
+22 Specific Provision against Investment
+23 Profit/Interest Suspension on Investment
+24 Compensation Suspension on Investment
+25 e-GP Financing under Quard and Wakalah
+26 MPI (Murabaha Post Import)
+27 Islamic Staff House Building Investment Scheme
+28 IBP (Inland Bill Purchased)
+29 FBP (Foreign Bill Purchased)
+30 Car Investment under HPSM
+31 Star Islamic under Bai-Muajjal and Wakalah
+32 Car Invest. Scheme for Executives of the Bank
+33 Any other mode (not shown above)
+Table I-2 : Weighted Average Annual Mark-up/Profit Rate
+
+--- Page 12 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Number of Accounts)
+Sl
+Size of Accounts
+Reporting Month
+Upto Tk. 50 thousands
+Tk. 50 thousands to Tk. 1 lac
+Above Tk. 1 lac to Tk. 5 lac
+Above Tk. 5 lac to Tk. 10 lac
+Above Tk. 10 lac to Tk.50 lac
+Above Tk. 50 lac to Tk.1 Crore
+Above Tk. 1 Crore to Tk. 5 Crore
+Above Tk. 5 Crore to Tk. 10 Crore
+Above Tk. 10 lac to Tk. 50 Crore
+10 Above Tk. 50 Crore to Tk.100 Crore
+11 Above Tk. 100 Crore
+Table I-4 : Investments Distributed by Size (Outstanding)
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Amount of Investments
+Reporting Month
+Upto Tk. 50 thousands
+Tk. 50 thousands to Tk. 1 lac
+Above Tk. 1 lac to Tk. 5 lac
+Above Tk. 5 lac to Tk. 10 lac
+Above Tk. 10 lac to Tk.50 lac
+Above Tk. 50 lac to Tk.1 Crore
+Above Tk. 1 Crore to Tk. 5 Crore
+Above Tk. 5 Crore to Tk. 10 Crore
+Above Tk. 10 lac to Tk. 50 Crore
+10 Above Tk. 50 Crore to Tk.100 Crore
+11 Above Tk. 100 Crore
+Total
+Total
+Table I-3 : Number of Accounts by Size of Investments
+
+--- Page 13 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Economic Purpose
+Reporting Month
+Agriculture, Fishing & Forestry
+a) Agriculture
+b) Fishing
+c) Forestry & logging
+Industry (1+2)
+Term Investment (Excluding Working Capital Financing)
+a) Large Industries
+b) Small and Medium Industries
+c) Cottage/ Micro Industries
+d) Service Industries
+Working Capital Financing
+a) Large Industries
+b) Small and Medium Industries
+c) Cottage/ Micro Industries
+d) Service Industries
+Construction
+Transport
+Trade & Commerce
+a) Whole sale & Retail Trade
+b) Export
+c) Import
+d) Procurement by Government
+e) Share Trading
+f) Lease Financing
+Other Institutional Qard/Investments
+Consumer Finance
+Miscellaneous (Poverty Alleviation and others)
+Grand Total (A+B+…..+H)
+Table I-5 : Investment by Economic Purposes (Outstanding)
+
+--- Page 14 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Type of Industries
+Reporting Month
+Readymade Garments
+Textile Mills
+Spinning Mills
+Steel Engineering & Metalic Products
+Land Developers/Housing Companies
+Construction Companies
+Food Processing Industries
+Pharmaceuticals Industries
+Paper and Paper Manufacturing Industries
+10 Printing and Dyeing Industries
+11 Ship Breaking Industries
+12 Health Related Institutions
+13 Rubber and Plastic Industries
+14 Cement and Ceramic Industries
+15 Residential Hotels
+16 Telecommunication Industries
+17 Ship Building Industries
+18 Leather and Shoe Industries
+19 LP Gas Industries
+20 Chemical Industries
+21 Electric and Electronics Industries
+22 Garments Accessories
+23 Sugar Mills
+24 Assembling Industries
+25 Other Industries n.i.e.
+Table I-6 : Investment by Type of Industries (Outstanding)
+Grand Total
+
+--- Page 15 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Particulars
+Reporting Month
+Green Finance
+Micro Finance
+Women Entrepreneurs Finance
+Rural Development Scheme
+Urban Poor Development Scheme
+Household Durables Scheme
+Investment Scheme for Doctors
+Transport Investment Scheme
+Small Business Investment Scheme
+10
+Car Investment Scheme
+11
+Housing Investment Scheme
+12
+Palli Griho Nirman Prokalpa
+13
+Others n.i.e
+Total
+Table I-7 : Investment on Special Scheme (Outstanding)
+
+--- Page 16 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Particulars
+Reporting Month
+Investment Target
+Investment Disbursement
+Recovery (During the Month)
+Outstanding (End of Period)
+Overdue (End of Period)
+Classified investment (End of Period)
+i) Doubtful
+ii) Sub-standard
+iii) Bad/Loss
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Particulars
+Reporting Month
+Investment Target
+Investment Disbursement
+Recovery (During the Month)
+Outstanding (End of Period)
+Overdue (End of Period)
+Classified investment (End of Period)
+i) Doubtful
+ii) Sub-standard
+iii) Bad/Loss
+Total
+Total
+Table I-8 : Investment Scenario (Overall)
+Table I-9 : Investment Scenario (Agriculture)
+
+--- Page 17 ---
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+Reporting Month
+(Taka in Units)
+Sl
+Sector
+Short
+Long
+Total
+Term
+Term
+5=(3+4)
+Crops investment
+Income Generated activities
+Fishing
+Marketing of Agricultural Product
+Others Short term activities
+Tools & Machineries for Irrigation
+Animal Farming
+Tools & Machineries for Agricultural
+Nursery
+10
+Betel leaf (Pan baraj)
+11
+Income generating activities
+12
+Rural Transport
+13
+Jalmahal (Water body) Management
+14
+Others
+Investment
+Total = (a+b)
+Table I-10 : Sector-wise Investment in Agricultural Sector (Outstanding)
+
+--- Page 18 ---
+Table I-11 :Mode-wise investment in Agricultural Sector
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Investment Mode
+Reporting Month
+Mudarabah
+Musharaka
+Bai Murabaha
+Bai- Muajjal
+Bai - Salam
+Muzara'ah
+Musaqat
+Ijara
+HPSM
+10
+Others
+Table I-12 :Mode-wise Markup in Agricultural Sector
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Mark-up Rate upto Two Decimal Places)
+Sl
+Investment Mode
+Reporting Month
+Mudarabah
+Musharaka
+Bai Murabaha
+Bai- Muajjal
+Bai - Salam
+Muzara'ah
+Musaqat
+Ijara
+HPSM
+10
+Others
+Total
+
+--- Page 19 ---
+Table C-1: Information on Corporate Social Responsibility (CSR)
+Name of the Bank :
+(Monthly
+Reporting Date:
+Reporting)
+(Taka in Units)
+Sl
+Investment Mode
+Reporting Month
+1 Source of Fund
+
+i. Zakat (a+b)
+
+a) Bank's portion
+b) Others
+ii. Derived Systemic Income
+iii. Compensation charges
+iv. Interest recovered from BB
+v. Interest recovered from foreign trade
+vi. Other Shariah unapproved Income
+vii. Business Development & Other Sources
+2 Expenditure
+
+i. Social welfare
+ii. Natural Disaster
+iii. Environment development
+iv. Education
+v. Poverty alleviation
+vi. Human Resources Development
+vii. Institutional capability Building
+viii. Donation
+ix. Social Development (a+b+c)
+
+a) Education and Training
+b) Development for youth
+c) Income generating activities
+x. Other Shariah Approved activities
+
+--- Page 20 ---
+Name of the Bank :
+(Quarterly
+Reporting Date:
+Reporting)
+Sl
+Activities
+Reporting Quarter
+1 Name of the Shariah Council/Board (SC)
+2 Number of members of Shariah Supervisory Committee/Board
+3 Do the SC have Muraqib (auditor)?
+
+Number of meeƟngs held by (SC) during the Quarter
+5 Number of bank Branches Supervised by SC During the Quarter
+6 Findings by SC according to the supervision or audit of branch
+7 The suggestions/guide Lines by SC
+8 Are there arrangements for supervising the activities of bank by external
+Shariah Council?
+9 Are there arrangements to rate the activities of bank by any shariah rating
+Agency?
+10 Are there provisions to present the quarterly/half yearly/yearly review of SC
+in the bank's Board meeting?
+Table G-1: Information on the Activities of Shariah Supervisory Committee
+
+--- Page 21 ---
+Name of the Bank :
+(Quarterly
+Reporting Date:
+Reporting)
+Reporting Quarter
+Sl
+Status
+Profession
+Mobile Number
+E-mail address
+10
+11
+12
+13
+14
+15
+Table G-2: Information of the Members of Shariah Supervisory Committee
+
+--- Page 22 ---
+Name of the Bank :
+(Quarterly
+Reporting Date:
+Reporting)
+Reporting Quarter
+Sl
+Particulars
+Necessary Information
+Board of Directors (According to the Bank Company Act. 1991 and Different
+circulars/directives issued by Bangladesh Bank
+a) Number of Members
+b) Number of Meetings held during the Month
+Executive Committee (EC)
+a) Number of Members
+b) Number of Meetings held during the Month
+Audit Committee
+a) Is Shariah Compliance observed in auditing framework?
+b) Does the bank have shariah Audit Manual?
+c) Is there separate Shariah Secretarat for assisting the SSC?
+d) Is shariah Compliance observed in Accounting system?
+e) Are there external Shariah audit firms engaged to conduct audit?
+Policy, technique and other information disclosure
+a) Is there any classification of Share holders?
+b) Amount of honorarium for each member of the Board of Directors
+c) Amount of honorarium for each member of the EC
+d) Amount of honorarium for each member of Shariah Council
+Table G-3: Information on Shariah Compliant Corporate Governance
+
+--- Page 23 ---
+Table T-1: Information on Training/ Seminar/Workshop/ Conference/ Symposium Organized by the Bank
+Name of the Bank :
+(Quarterly
+Reporting Date:
+Reporting)
+Reporting Quarter
+Sl
+Particulars
+Subject
+Duration
+Number of
+Participants
+Seminar
+i) National
+ii) International
+Workshop
+i) National
+ii) International
+Conference
+i) National
+ii) International
+Symposium
+Lecture Series
+i) National
+ii) International
+Training
+CPD
+SI
+Course Name
+Number of Participants
+Organized by
+Table-T-2: Employees Attended Training Organized by Other Institutions ( BIBM,BBTA,CPD etc)
+
+--- Page 24 ---
+Name of the Bank :
+(Quarterly
+Reporting Date:
+Reporting)
+Reporting Quarter
+Sl
+Name of publications
+Date of Publications
+Books
+Journals
+Research Paper
+In House Magazine
+Brochure/ Folder
+Manuals
+Survey Based Research
+a) On going
+b) Final
+Other Publications
+Table-R-1: Information of Publications Published by the Bank during the Quarter

@@ -1,0 +1,1506 @@
+--- Page 1 ---
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+মতিঝিল, ঢাকা-১০০০ ব্যাংকিং প্রবিধি ও নীতি বিভাগ
+বাংলাদেশ |
+website: www.bb.org.bd
+
+বিআরপিডি সার্কুলার নং-০৮ তারিখ: ----------------
+১৫ জুন ২০২৩
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক ও আর্থিক প্রতিষ্ঠান।
+
+ডিজিটাল ব্যাংকের গাইডলাইন্স প্রণয়ন প্রসঙ্গে
+
+সাম্প্রতিক সময়ে নিত্যনতুন প্রযুক্তির ব্যবহারের ফলে সমগ্র বিশ্বে অন্যান্য খাতের মতো আর্থিক খাতেও সেবা
+প্রদানের ধরনে বৈচিত্র্য এসেছে। এ লক্ষ্যে বাংলাদেশ ব্যাংক ইতোমধ্যে প্রান্তিক জনগোষ্ঠীর আর্থিক অন্তর্ভুক্তির লক্ষ্যে
+
+বিভিন্ন বিকল্প ডেলিভারি চ্যানেল, তথা-মোবাইল ফাইন্যান্সিয়াল সার্ভিসেস (MES) এবং অন্যান্য ই-ওয়ালেটের মাধ্যমে
+
+on
+
+জিটাল পদ্ধতিতে আর্থিক সেবা প্রদানের জন্য ব্যাংক ও অন্যান্য প্রতিষ্ঠানসমূহকে অনুমতি দিয়েছে।
+
+০২। বাংলাদেশ সরকারের ঘোষিত লক্ষ্য “স্মার্ট বাংলাদেশ* বিনির্মাণের উদ্দেশ্যে বিশ্বব্যাপী প্রচলিত তথ্য
+প্রযুক্তিনির্ভর ডিজিটাল ব্যাংকিং সেবা জনগনের নিকট পৌঁছে দেয়ার মাধ্যমে ক্যাশলেস বাংলাদেশ সৃষ্টির লক্ষ্যে বাংলাদেশ
+ব্যাংক ডিজিটাল ব্যাংক প্রতিষ্ঠার উদ্যোগ গ্রহণ করেছে। এ প্রেক্ষাপটে, বাংলাদেশে ব্যাংক ব্যবস্থার আইনী কাঠামো,
+দেশের আর্থ-সামাজিক প্রেক্ষাপট, প্রযুক্তিনির্ভর ব্যাংক ব্যবস্থায় বাংলাদেশের বর্তমান অবস্থান ইত্যাদি বিষয়সমূহ
+
+বিশ্লেষণপূর্বক “ডিজিটাল ব্যাংক স্থাপন বিষয়ক গাইডলাইন্স' (বাংলা ও ইংরেজী) প্রণয়ন করা হয়েছে।
+
+০৩। উক্ত গাইডলাইস আপনাদের ও সংশ্লিষ্ট সকলের অবগতির জন্য বাংলাদেশ ব্যাংকের ওয়েবসাইটে
+আপলোড করা হলো |
+
+আপনাদের বিশ্বস্ত,
+সংযুক্তি: বর্ণনা মোতাবেক। Shea 5 a
+
+(মোঃ আলী আকবর ফরাজী)
+পরিচালক (বিআরপিডি)
+ফোন-৯৫৩০২৫২
+
+--- Page 2 ---
+GUIDELINES TO ESTABLISH
+DIGITAL BANK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+
+--- Page 3 ---
+Page | ii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+
+--- Page 4 ---
+Page | iii
+
+
+Preamble
+
+Digital innovation is continuously modifying the landscape of the financial system all over the
+world. Bangladesh Bank (BB) promotes an enabling regulatory environment that allows
+innovation to make the financial system more robust, efficient and secure. Accordingly, the BB
+recognizes the role of digital platforms in driving greater efficiency in the delivery of financial
+products and services and in widening the outreach of the financial system. In this light, the BB
+has developed a „Guidelines to Establish Digital Bank‟.
+
+This „Guidelines to Establish Digital Bank‟ is a compilation of instructions that must be
+followed by applicant/promoter/sponsor/shareholder who are willing to establish a digital bank
+in Bangladesh. The instructions of the guidelines should be followed by the proposed digital
+banks along with Bank Company Act (BCA), 1991 (Act No. XIV of 1991) (as amended) and
+other guidelines, circulars & circular letters published by Bangladesh Bank from time to time.
+
+
+
+(Abu Farah Md. Nasser)
+Deputy Governor
+Bangladesh Bank
+Head Office
+Dhaka.
+
+June 2023
+
+--- Page 5 ---
+Page | iv
+
+--- Page 6 ---
+Page | 1
+
+
+GUIDELINES TO ESTABLISH DIGITAL BANK
+1 Policy stance
+1.1 Bangladesh Bank (BB) in principle decided to go with the pace of global banking and
+payment service by adopting Fintech and digital solutions emerging in the globe to
+attain the objectives of Sustainable Development Goals (SDGs) and National Financial
+Inclusion Strategy (NFIS). Indeed, BB is envisaging the challenges of 4th Industrial
+Revolution (4IR) by pondering an alternative of traditional brick and mortar model of
+banking.
+1.2 BB, in the meantime, permitted banks to provide different alternate delivery channels,
+Mobile Financial Services (MFS) and other e-wallets digital solutions to facilitate the
+access to finance for the marginal people. BB recognizes the role of digital platforms in
+driving greater efficiency in the delivery of financial products & services and expanding
+low-cost access to finance for the unserved and underserved market segment.
+1.3 A branchless end-to-end virtual banking system can give the banking system a mileage
+and momentum to reach the banking at the last mile of the country for creating
+employment opportunities, ensuring economic and financial stability of the economy as
+well as ensuring a sound financial ecosystem for the country.
+1.4 In this light, BB endeavors to promote an enabling regulatory environment that allows
+responsible innovation to flourish, promotes cyber resilience, and contributes to
+advancing the digitization of the financial industry. Towards this end, BB has developed
+a framework for „digital bank‟ as a distinct classification of bank.
+1.5 Digital banks are exposed to the same set of risk identified in the BB risk management
+framework for conventional banks; thus, are expected to have effective governance
+structures and risk management processes that appropriately identify, measure, monitor
+and control the risks exposed to its business model, strategies, processes and products. In
+this respect, digital banks shall be subject to the same standards on corporate
+governance, among others, that are applicable for conventional banks.
+1.6 A digital bank (DB) shall have to obtain a license from Bangladesh Bank under Section
+31 of the Bank Company Act1 (BCA), 1991 and must comply the provisions of
+Bangladesh Payment and Settlement Systems Regulations, 2014 to carry out banking
+business in Bangladesh.
+1.7 The guidelines shall govern the establishment of digital banks in compliance with the
+BCA, 1991 (as amended), Bangladesh Payment and Settlement Systems Regulations,
+2014 and the directives, circulars and prudential regulations of BB.
+2 Status of the digital bank
+2.1 Each DB shall be a public limited company (PLC) licensed under Section 31 of Bank
+Company Act, 1991.
+
+1 ব্যাংক ককযম্পযনী আইন, ১৯৯১ (১৯৯১ সননর ১৪ নাং আইন)
+
+--- Page 7 ---
+Page | 2
+
+3 Paid up capital requirement
+3.1 A DB shall commence with the paid-up capital of minimum BDT 125.00 (One hundred
+twenty-five) crores or as determined by BB under section 13 of the Bank Company Act,
+1991. The Paid-up capital shall only be comprised with the ordinary shares.
+3.2 Paid-up capital, subscribed capital, authorized capital and voting rights of share-holders
+shall be governed by the section 14 of the BCA, 1991.
+4 Mode of payment
+4.1 The capital contribution made by the sponsors and subscribers of the proposed bank
+shall be made in cash. Moreover, this must be in unencumbered form, held in a local
+scheduled bank‟s account that has to be verified and kept under a lien in favor of
+Bangladesh Bank.
+5 Sponsors share capital contribution
+5.1 Initial minimum Paid-up capital shall be provided by sponsors of the proposed DB.
+5.2 DB must go for Initial Public Offering (IPO) within 5 (five) years from the date of
+license issued by BB; the amount of IPO should not be less than the sponsor‟s initial
+paid-up capital.
+5.3 The minimum shareholding stake of each sponsor shall be BDT 50.00 lacs.
+5.4 The maximum shareholding stake of each sponsor stipulated in BCA, 1991, in
+consultation with the government, may be relaxed in case of a digital bank, if necessary.
+5.5 Substantial shareholder of DB‟s paid-up capital shall have to sign a capital maintenance
+agreement (CMA) (Annexure X) stating that they would, jointly and severally inject
+additional capital if the bank ever fell below any minimum paid up capital requirement.
+In case of failure to inject such capital within the stipulated time, the responsibility
+would fall on individuals within the sponsors to bear the entire burden of the required
+injection. „Substantial shareholder‟ shall be defined according to the explanation of the
+section 14kha of Bank Company Act, 1991.
+5.6 Sponsors' contribution to the share capital of the proposed DB will be required to be out
+of net worth declared to the Tax authorities. Sponsors' contribution out of borrowings
+from bank or financial institutions or from anywhere else, even from family members,
+shall not be acceptable.
+5.7 Any enterprises, companies, individuals or any members of his/her family who is a
+current loan defaulter with any Banks or Financial Institutions shall not be eligible to
+apply as a sponsor.
+5.8 An individual awaiting verdict of any indisposed lawsuit in any court/tribunal against
+his/her loan defaulter status shall not be eligible to apply.
+5.9 Sponsors‟ share shall not be transferred within a period of 5 (five) years from the
+commencement of the business, without prior permission from BB. But Bangladesh
+Bank will not give permission to transfer the shares of the sponsors within 3 (three)
+years from the commencement of the business.
+
+--- Page 8 ---
+Page | 3
+
+
+6 Fit and Proper Test (FPT) for sponsors/directors
+6.1 The sponsors/directors must qualify in the Fit and Proper Test (FPT) criteria (Annexure-
+VIII) applicable for the directors of DB.
+6.2 BB shall evaluate expertise and integrity for the purpose of FPT of proposed sponsors
+and any potential conflicts of interest.
+6.3 In the event of any change(s) in the sponsors and directors, the appointment of the
+incumbent shall be subject to the FPT.
+6.4 BB, as a part of the FPT, may consider financial performance of the businesses in which
+sponsors‟ have control or their associated enterprises, particularly businesses offering
+financial services; Here control shall be defined as minimum of 50% ownership of that
+businesses; and associated enterprises shall be defined according to the explanation in
+section 5(GaGa) of Bank Company Act, 1991.
+6.5 Any sponsors who evaded any existing law of Bangladesh or accused of any criminal
+offences can not be included in the Board of Directors.
+7 Constitution of the board of directors
+7.1 Board of Directors shall be formed according to the Section 23 of BCA, 1991 and
+relevant directives of Bangladesh Bank.
+7.2 Size of the Board shall be decided in accordance with section 15(9) of BCA, 1991 (as
+amended). This restriction shall apply to appointment or reappointment of the directors
+against retirement or filling casual vacancy subject to section 15KaKa of BCA, 1991 (as
+amended).
+7.3 No members from a family can be a director against the maximum number of directors
+allowed from a single family under section 15(10) and 14kha of BCA, 1991 (as
+amended).
+7.4 Board preferably shall include at least 50% members having education, knowledge and
+expertise related to technology-based banking, emerging technologies, cyber laws and
+regulations; and remaining members shall have adequate knowledge and expertise in
+banking, e-commerce and banking laws & regulations and so like.
+8 Fit and Proper Test (FPT) of management
+8.1 The Chief Executive Officer (CEO) shall have at least 15 (fifteen) years of experience in
+the banking profession including at least 5 (five) years‟ experience in technology-based
+banking, regulations, guidelines, circulars etc. Appointment of CEO shall be subject to
+compliance of regulations and directives issued by BB in this regard from time to time.
+
+--- Page 9 ---
+Page | 4
+
+8.2 Chief Operating Officer (COO), Chief Financial Officer (CFO), Chief Information
+Technology Officer (CITO), Chief Information Security Officer (CISO), Chief Risk
+Officer (CRO), Head of Internal Control & Compliance (HICC) shall have at least five
+(5) years experience in technology-based banking. Appointment of COO, CFO, CITO,
+CISO, CRO, HICC and other key officials shall be subject to compliance of regulations
+and directives issued by BB in this regard from time to time.
+9 Operational framework
+9.1 A digital bank (DB) shall require establishing a registered head office in Bangladesh to
+serve the main point of contact for stakeholders, including the BB and other regulators.
+9.2 The registered head office shall host the offices of management and the support staffs. It
+also serves as the central hub for receiving and resolving customer complaints both
+physically and digitally.
+9.3 An automated Artificial Intelligence (AI) supported technology-based dispute resolution
+mechanism shall be always active to resolute day to day disputes aroused from
+transactions, whether there is any intimation or not made by the customer.
+9.4 It shall offer efficient, low-cost and innovative digital financial products and services
+through online end-to-end tech-based digital ecosystem using AI, machine learning,
+block chain and other advance technologies of 4th Industrial Revolution (4IR) to serve
+the customer.
+9.5 It is allowed to use the agents of conventional banks or MFS providers, network of
+existing ATM/CDM/CRM and MFS network instead of its own agents complying
+regulations of Bangladesh Bank from time to time.
+9.6 It shall not provide any over the counter (OTC) service, and shall not have any branch,
+sub-branch, window, agent, or any ATM/CDM/CRM of its own.
+9.7 It may issue virtual card, QR Code or any other advanced technology-based product for
+facilitating its customer transactions.
+9.8 It is restricted to issue any physical instruments for transactions.
+9.9 It is allowed to execute permissible transactions, other than trade and guarantee
+services, subject to having Authorized Dealer (AD) license under the Foreign
+Exchange Regulation Act, 1947, in foreign exchange pertaining to inward remittances,
+outward payments, and maintaining eligible foreign currency accounts in compliance
+with regulatory framework in force including retention of compatible digitized
+records.
+9.10 It may finance or lend to other sectors except foreign trade finance and term loan to
+medium and large industries.
+9.11 It will be allowed to participate relevant re/pre-finance schemes introduced by BB
+from time to time.
+
+--- Page 10 ---
+Page | 5
+
+9.12 It shall have to maintain the minimum Cash Reserve Ratio (CRR) and Statutory
+Liquidity Ratio (SLR) prescribed by Bangladesh Bank from time to time under article
+36 of Bangladesh Bank Order 1972 and section 33 of BCA, 1991 respectively.
+9.13 It shall maintain Advance to Deposit Ratio (ADR) to the percentage as determined by
+BB from time to time.
+9.14 It shall maintain at all times a Capital to Risk Weighted Assets Ratio (CRAR) and
+liquidity ratios (LCR-Liquidity Coverage Ratio and NSFR-Net Stable Funding Ratio)
+as per BASEL III RBCA guidelines or as per instructions given by BB in this regard
+from time to time.
+9.15 It shall comply with Deposit Insurance Scheme of BB under „Bank Deposit Insurance
+Act, 2000‟.
+9.16 It has to comply with Corporate Social Responsibility (CSR) activities guided by CSR
+policy of BB or as per instructions given by BB in this regard from time to time.
+9.17 It shall duly inform its customers and potential customers of its financial products and
+services and ensure the appropriate security measures of the products and services.
+9.18 It shall take all necessary steps to aware its customers about the procedures of its
+operation.
+9.19 It shall ensure compliance of “The Bankers‟ Book Evidence Act, 20212” and with the
+other relevant data protection laws and regulations in force.
+9.20 It shall be a member of the payment platforms operated by BB and shall ensure the
+compliance of rules and regulations of Bangladesh Payment and Settlement Systems
+Regulation 2014.
+9.21 It must oblige any other prudential limits or regulatory requirements prescribed by BB
+from time to time.
+9.22 It shall follow the AI based Alternative credit scoring guidelines issued by BB from
+time to time regarding the analysis of customers‟ credit risk.
+9.23 It shall accept the movable properties of the customers as the collateral security
+included in the Movable Property Collateral Registry.
+
+10 ICT governance framework
+10.1 It must have a robust, sophisticated, manageable ICT infrastructure and application
+systems. It shall have at least tier three Data Center (DC) and Disaster Recovery Site
+(DRS) in the different seismic zone.
+10.2 It may take Cloud service but the location of the Cloud must be within the territory of
+Bangladesh.
+10.3 It must also have ICT Business Continuity Plan (ICT-BCP), ICT Risk Management
+Plan in place.
+
+2 ব্যাংকযর বহি সযক্ষ্য আইন, ২০২১ (২০২১ সননর ২৭নাং আইন)
+
+--- Page 11 ---
+Page | 6
+
+
+10.4 „Guidelines on ICT Security for Banks and NBFIs‟, Version 3.0, May 2015 (as
+amended from time to time) issued by BB shall be applicable. As per the guidelines
+DB should maintain the following items at a minimum (but not limited to):
+It shall have separate ICT Steering Committee and ICT Security Committee and
+their rules and responsibility will be defined as per section 2.1.2 and 2.1.3;
+It shall have a comprehensive ICT Security Policy;
+It shall have to conduct internal and external audit as per section 2.4 and 2.5
+respectively;
+It shall have a well-defined ICT Risk Governance and Management mechanism
+as per chapter 3 of the guidelines;
+It shall have to build up and maintain Data Center (DC), Physical Security,
+Environmental Security, Fire Protection System etc. as per section 5.5;
+It shall have to perform Vulnerability Assessment and Penetration Testing
+(VAPT) for infrastructure and applications as per section 5.12;
+It has to prepare and maintain Business Continuity Plan (BCP) and Disaster
+Recovery Plan (DRP) as per section 7.1 and 7.2. It shall also develop a backup
+and restoration methodology and maintain accordingly as per section 7.3;
+It has to follow the project management procedure for any ICT project as per
+section 8.1;
+It shall have to develop alternative delivery channels for easy service delivery to
+the end/remote customer;
+It may use outsourced infrastructure or applications. In those cases, it shall
+follow the section 10.1 for outsourcing, 10.3 for service level agreement (SLA)
+management; and
+All the transactions as well as data in transit must be end-to-end encrypted.
+Cryptography mechanism should be in place where applicable as per section 5.8.
+10.5 It has to follow BB guidelines named „Core Banking Solution (CBS) Features and
+Controls‟ November 2016 for using of core banking solution.
+10.6 It shall identify and resolve the possible technological risk, settlement risk and
+operational risk in its system.
+10.7 It shall comply with all available policies and guidelines issued by Bangladesh Bank
+and Government.
+10.8 It shall obtain necessary standard certifications for its applications and infrastructures.
+10.9 The ICT infrastructure must be audited by an internationally accredited audit firm and
+the report of such audit to be submitted for licensing.
+
+--- Page 12 ---
+Page | 7
+
+
+11 Customer due diligence
+11.1 It shall be subject to compliance of the prudential regulations set out by the government
+and BB applicable for them including corporate governance and risk management,
+particularly on information and communication technology, cyber security, outsourcing,
+consumer protection, Anti-Money Laundering (AML), and Combating the Financing the
+Terrorism (CFT).
+11.2 It shall not use customers‟ information for purposes other than its designated business. It
+shall not ask for any private information from its customer which may breach the
+customer‟s privacy; it shall take prior permission from BB regarding the purposes and
+types of information it intends to collect from its customers.
+11.3 The Know Your Customer (KYC) requirements, transactional limits and minimum
+technological security will be subject of the review process by the BB at the time of
+giving license. The factors to be considered by BB may include the following but not
+limited to:
+(i) KYC requirements;
+(ii) Transactional limits (limits commensurate with customer‟s profile);
+(iii) Maximum balance limits on debit and credit;
+(iv) Minimum technological security requirements; and
+(v) Two factor authentication (TFA) i.e., use of a photo ID, Personal identification Number
+(PIN) or any other secret code or message during transactions.
+
+12 Required documents/information/analysis to be submitted to Bangladesh Bank
+An applicant need to submit the online application through the web portal of Bangladesh
+Bank only after depositing application processing fee (non-refundable) of Taka 5 (Five) lacs
+in favour of Bangladesh Bank through the same portal (relevant charges should be borne by
+the applicant). The following documents along with the application including detailed
+information and analysis need to be submitted, otherwise the application will not be
+considered:
+1. Application, name, address, telephone number, email address of the Applicant and the
+contact person;
+2. Feasibility Report on the proposed DB (Annex II), including an analysis of Bangladesh's
+macroeconomic environment, financial system, as well as a Business Plan (Annexure
+III), ICT Plan (Annexure IV) and Business Resolution Plan (Annex V)
+for the proposed bank, financial projections and sensitivity analyses;
+
+--- Page 13 ---
+Page | 8
+
+3. Biographical Reports (Annexure VI and VII) and proof of citizenship for each
+promoter/sponsor/director, CEO/MD, Chief Operating Officer (COO), Chief Financial
+Officer (CFO), Chief Risk Officer (CRO), Chief Information Technology Officer
+(CITO), Chief Information Security Officer (CISO), Head of Internal Control &
+Compliance (HICC) of the proposed bank along with Passport sized photographs, NIDs
+and passports. In case of foreign nationals, copies of their national identification cards
+and passports, duly authenticated by the Embassy/High commission of Bangladesh in
+the respective countries;
+4. CIB report for each sponsor, CEO and other principal officers (COO, CFO, CRO, CITO,
+CISO, HICC, etc.);
+5. Proposed compensation package, other terms and conditions of the COO, CFO, CRO,
+CITO, CISO, HICC, etc.;
+6. Minutes of the shareholders (sponsors) meeting;
+7. Written agreement by the shareholders (sponsors) to establish the DB;
+8. Proposed name of the DB and drafts of the Memorandum of Association and Articles of
+Association;
+9. For a corporate promoter; Board Resolution, Articles of Incorporation and By-laws, list
+of directors and officers, list of shareholders, audited financial statements for the last
+three years, certified copies of the Memorandum of Association and Articles of
+Association [Annexure VI(B)];
+10. Declarations of sponsors as per Annexure IX;
+11. List of entities in which the sponsors‟, sponsor directors as well as their family members
+and their dependents are interested as directors, chief executives, partners, proprietors or
+shareholders. Further, list of banks and latest balance sheets/accounts of such entities are
+also to be provided;
+12. Last three years Annual Report and balance sheets/accounts (audited where applicable)
+of all those entities in which the sponsors and sponsor directors have majority stake or
+substantial ownership;
+13. Names of the banks and financial institutions with which the sponsors and sponsor
+directors have been dealing as well as relevant account numbers and names of branches
+and, where relevant, credit reports from those banks;
+14. Previous experience of sponsors and sponsor directors in banks, microfinance
+institutions, Mobile Financial Services, ICT Company/firm, Payment Service Provider
+(PSP), Payment System Operator (PSO), e-commerce firms, telecommunication
+companies, and other entities to be mentioned in submitted biographical report;
+15. Enforceable undertaking from the sponsors as per the format in Annexure XI;
+16. Undertaking for accumulation of Minimum Paid-up capital along with an enforceable
+and executable Capital Maintenance Agreement (CMA) (Annexure X) in relation to
+Minimum Paid-up Capital Requirements (MPCR);
+17. Any additional documents or information required by BB, in support of the application.
+
+--- Page 14 ---
+Page | 9
+
+
+13 Application evaluation process
+13.1 Short listed application shall be evaluated by a panel of members to be nominated by
+the Governor, Bangladesh Bank (BB).
+13.2 Successful applicant will get the Letter of Intent (LOI) from BB for establishing DB.
+13.3 The LOI shall automatically be repealed if the proposed DB fails to comply with the
+conditions stipulated therein.
+13.4 The LOI shall be repealed and sponsors‟ activities shall be subject to punishment
+under section 109(2) of BCA, 1991 if BB finds that they have willfully certified or
+provided false or misleading information while applying for license for a DB.
+13.5 BB shall have the right not to issue a DB license if it is not completely satisfied with
+the conditions stipulated in section 31(4) of the BCA, 1991.
+13.6 BB shall have the right to cancel the license issued under section 31of the BCA, 1991
+for any reason that triggers those mentioned in the section 31(5) of the said act.
+
+14 General conditions
+14.1 Bangladesh Bank, if necessary, from time to time, may modify, revise or impose any
+of the conditions of the guidelines and incorporate new ones complying with section
+31(2) of the BCA, 1991 upon its full satisfaction while issuing license.
+14.2 Notwithstanding anything mentioned in the guidelines, Bangladesh Bank shall have
+the right and discretion to take any decision required to be made under the guidelines.
+14.3 The business, governance and operational requirements applicable to traditional banks
+in general, shall continue to apply with DBs. In case of any inconsistency, the
+guidelines shall prevail.
+14.4 Any reiterations of general aspects that apply to traditional banks are only for
+emphasis and shall not be interpreted to exclude any relevant requirements which have
+not been reiterated in the guidelines.
+14.5 DB shall not engage itself in any activities unless otherwise explicitly mentioned in the
+guidelines or permitted by BB.
+
+--- Page 15 ---
+Page | 10
+
+
+ANNEXURE I
+LETTER OF APPLICATION
+
+Date:
+
+Director (BRPD)
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+Subject: Application to establish a Digital Bank in Bangladesh.
+
+Dear Sir:
+
+In accordance with Section 31 of the Bank Company Act, 1991, we would like
+to apply for establishing a Digital Bank in the style of <Name of the proposed Digital
+Bank> in Bangladesh. As required, the documents requested by Bangladesh Bank are
+submitted.
+
+We are looking forward to receive your approval for the establishment of the
+proposed institution at your earliest convenience.
+
+Sincerely yours,
+
+
+Signature:
+
+Name:
+
+Proposed designation:
+
+Address:
+
+Telephone number:
+
+Cell number:
+
+Email:
+
+--- Page 16 ---
+Page | 11
+
+ANNEXURE II
+FEASIBILITY STUDY
+
+
+1. Assessment of the business landscape:
+i. Socio-economic analysis,
+ii. Banking and payments environment analysis,
+iii. Legal and regulatory framework analysis,
+iv. Analysis of prevailing digital eco-system,
+v. Competitor analysis.
+2. Analysis of the target market and the market gaps that the applicant targets to fill in.
+3. Value proposition of an innovative, robust and sustainable digital bank, including how it
+shall leverage the sponsors’ existing businesses and/ or experiences/ capabilities.
+4. Target products and services along with customer value propositions, and a description
+of how these will address the specific needs of target customer segments.
+
+--- Page 17 ---
+Page | 12
+
+ANNEXURE III
+BUSINESS PLAN
+
+1. Identify the customer segment.
+2. A list of proposed financial products and services along with explanation regarding how
+the products will address the specific needs of the target market.
+3. Detailed financial projections (bank-wise and for each of the major business line/
+customer segment e.g. consumer banking, SME banking, microfinance, agriculture
+financing) covering a period of at least five years from the commencement of
+commercial operations. In case the break-even period is more than five years, the
+projections should cover the extended period. As guidance, applicants could develop
+financial projections broadly using the main financial statement formats applicable in
+general to commercial banks. An analysis of the rationale of the key assumptions that
+forms the basis of the pro-forma financial statements should be provided.
+4. Sensitivity analysis, including reasonable stress scenarios, stressed projection and
+contingency plans.
+5. Investment/ financing plan for compliance with MCR as per Regulation and other capital
+and liquidity requirements
+6. Business Continuity Plan
+7. A list of Key Performance Indicators (KPIs) that will be used to measure whether the
+DB’s performance is in line with its objectives.
+8. Business risk analysis and risk management strategy
+9. Human resource plan (in line with core competencies required in product development,
+digital service delivery and emerging tech).
+10. Customers’ query management/complaint resolution plan
+11. Distribution strategy, channels/ customer access points and their alignment with overall
+business and operating strategy/ model.
+12. Envisaged collaboration and co-creation arrangements, including preferred engagements
+options with fin-techs, integration with e-commerce eco-system and on-line market place
+13. Consumer protection and data protection strategy
+14. Marketing plan, assessment of creating access to finance, coverage of customer base etc.
+
+--- Page 18 ---
+Page | 13
+
+ANNEXURE IV
+INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) PLAN
+
+ICT Plan shall cover the followings at a minimum:
+(1) A description of the technology stack used in the infrastructure, including–
+(a) overview of network architecture diagram for DC, NDC and FDC(DRS); and
+(b) overview of deployment strategy and model for critical and core systems including
+CBS, alternate delivery channels etc. along with relevant business flow;
+(2) A description of the applicant’s strategy to adopt relevant new technologies and digital
+innovations to meet the on-going and future financial inclusion objectives as well as to
+gain competitive advantage. The strategy shall clearly outline how the new technologies
+and digital innovations are used to address the following attributes–
+(a) flexibility: flexibility of solution to integrate with various platforms or emerging
+technologies with minimal changes or disruptions to core systems; and
+(b) scalability: modularity in design to ensure adaptability of changing market trends;
+(3) A description of the planned ICT governance (including its ICT governance structure) to
+oversee–
+(a) ICT Policy
+(b) ICT Risk Management Committee
+(c) ICT Security Committee
+(d) Cyber risks;
+(e) ICT strategic plan and cyber strategic plan;
+(f) ICT operations
+(g) ICT incidents/problems management
+(h) ICT projects;
+(i) Service Level Agreement (SLA) management
+(4) A description of the planned ICT operational management to effectively support business
+operations including–
+(a) overview of end-to-end ICT operational management
+(b) proposed ICT organization structure; and
+(c) business continuity plan and disaster recovery plan
+(5) A description of the planned measures (technology, people and process) to ensure
+system resiliency and high availability of services to its customer; and
+(6) A description of the planned measures (technology, people and process) to effectively
+manage cyber security threat/risk and cyber attacks including the arrangement to identify,
+prevent, detect, response, mitigate and recover from a cyber security threat and cyber
+incidents
+(7) Use of AI, ML, IoT or 4IR technology etc.
+
+--- Page 19 ---
+Page | 14
+
+ANNEXURE V
+BUSINESS RESOLUTION PLAN
+1. The applicant of a DB must submit a Business Resolution Plan (BRP). Its purpose is
+to ensure that the DB, should it become necessary, can unwind its business
+operations, in an orderly manner without causing disruption to the customers and the
+financial system.
+2. The full implementation of the BRP must result in the winding down or transfer of
+the licensed DB’s business. The BRP must cover the sources of funding, liquidity
+and a minimum time horizon of the business plan addressing different stress
+scenarios as well as the DB’s likely responses.
+3. The envisaged BRP may include (without limitation) and involve portfolio exit,
+liquidation of the bank or sale to a third party. All such options shall be explored
+with adequate risk assessments. Further, the overall exit time estimates shall also be
+indicated in the plan.
+4. The BRP shall also provide for adequate protection of customer/ depositor interests,
+responsible and effective communications with the concerned stakeholders, and
+minimizes disruption to the financial system.
+5. The BRP shall remain dynamic to reflect current circumstances and hence be
+reviewed regularly and updated. The updated plan shall be approved by the DB’s
+Board and shared with BB, along with a summary of revisions and justifications for
+any material changes.
+6. DB shall establish alerts or thresholds which may lead to an evaluation and decision
+of whether to put various contingency measures in place or to resort to invoking the
+exit strategy itself.
+7. The BRP must include the following points:-
+a) The trigger points of activating BRP which should be comprised of, but are not
+limited to–
+i. Capital-related triggers such as leverage ratio and common-equity Tier 1 ratio;
+ii. Liquidity-related triggers such as loan-to-funds ratio;
+iii. Earnings-related triggers such as return on assets and return on equity; and
+iv. Asset quality-related triggers such as non-performing loan ratio.
+b) Probable options and operational measures that minimize disruptive effects on
+customers and the financial system while the exit procedure is being
+implemented;
+c) Potential impediments to the execution of planned exit options and probable
+measures to mitigate the impact of such impediments; and
+d) Sources of funding and liquidity for implementing the BRP and the estimated
+timeframe to exit from the business;
+e) The channels to be used to repay depositors.
+
+--- Page 20 ---
+Page | 15
+
+
+8. Within the Business Resolution Plan, the applicant is required to demonstrate
+the following–
+(a) The necessary capabilities required to extract and aggregate real time data on
+depositors and customers upon request, including up-to-date contact information
+and alternative bank accounts to facilitate any pay-out; and
+(b) The necessary capabilities and resources required to ensure continuity of
+services throughout the implementation of the BRP, with a specific focus on
+continuity of services under outsourcing arrangements.
+9. Depending upon its assessment, the BRP shall be executed by the DB and the DB
+shall inform BB of its intention to do so, at least three months prior to the planned
+date.
+10. BB may call for the DB to execute the Board approved BRP, if needed.
+11. The BRP to be executed shall be finalized in accordance with BB’s advice and
+approved by the Board of Directors (BoD) of DB. DB shall execute the plan within
+the timeframe defined therein.
+12. During the exit period, DB shall ensure full discharge of all its connected obligations
+and responsibilities to customers, BB and other stakeholders.
+13. Throughout the exit period, the DB shall submit periodic Board approved reports, as
+advised by BB before the execution of BRP, demonstrating the progress against the
+approved BRP by BoD.
+14. Execution of BRP is subject to compliance to BCA, 1991 and other applicable laws
+and regulations.
+
+--- Page 21 ---
+Page | 16
+
+ANNEXURE VI
+BIOGRAPHICAL REPORT ON SPONSORS/DIRECTORS
+
+1. Full Name:
+2. Date of Birth:
+3. Place of Birth:
+4. Citizenship:
+Passport Number: Date and Place of Issue:
+5. Full Address:
+(a) Permanent:
+Telephone Number:
+(b) Present, if different from the Permanent:
+Telephone Number:
+6. Marital Status:
+If married,
+Spouse's Name:
+Occupation:
+Spouse's Passport Number:
+Date and Place of Issue:
+Near Relations (parents, children, brother, sister) and dependents:
+Name (First, Middle, Last)
+Relationship
+Age
+
+
+
+
+
+
+
+
+
+
+
+
+
+Education
+Name & Address
+of Institution
+Dates of
+Attendance
+Major Area
+of Study
+Degree Awarded
+& Date
+High School
+
+
+
+
+Undergraduate
+
+
+
+
+Graduate
+
+
+
+
+Professional
+or Technical
+
+
+
+
+Training /
+Seminar
+
+--- Page 22 ---
+Page | 17
+
+Present Occupation:
+Organization Name:
+Business Address:
+Nature of Business:
+Job Title:
+Telephone Number:
+
+Business Record (pertaining to the preceding 10 years).
+
+Name & Address
+of Organization
+Dates of Engagement
+Position Held
+Responsibilities
+
+
+10. Describe each enterprise, including the name, address, type of enterprise [public (listed or
+not), private] your percentage of ownership and the type of business of each enterprise or
+other entity in which you are or have been involved as a member of the board of directors,
+senior management (or any equivalent body), significant participant, or general partner.
+
+
+List names, addresses and percentage of control and/or ownership of other incorporators,
+partners and directors of the entity or enterprise referred to above.
+
+11. Experience of sponsors and sponsor directors in banks, microfinance institutions, Mobile
+Financial Services, ICT Company/firm, Payment Service Provider (PSP), Payment System
+Operator (PSO), e-commerce firms, telecommunication companies, and other entities:
+12.
+
+Do you perform any services for or have any business connections with
+any institution which is subject to the supervision of Bangladesh Bank, or
+any other authority of the government of Bangladesh?
+If "Yes," indicate the name of the institution, address and nature of your
+work.
+Yes
+No
+
+13.
+
+Have you had, or do you now have, any financial interest, direct or
+indirect, in any institution/bank under the supervision of any Government
+authority?
+If "Yes," give the name of the institution, address and nature of the
+financial interest.
+Yes
+No
+
+14.
+Being a sponsor of a proposed bank, how and from what sources will you
+pay for your proposed amount of share capital?
+
+
+Own cash
+Yes ( ) No ( )
+Other sources
+If "Yes," give details
+Yes ( ) No ( )
+
+--- Page 23 ---
+Page | 18
+
+
+15. Tax Identification Number (TIN):
+(Submit most recent returns and/or Tax Clearance Certificates, and certified IT10BForms).
+
+16. Are you disqualified from election or nomination or from occupying the office of Bank
+Director owing to the following circumstances?
+
+a. You have less than 10 years of professional experience,
+b. You are insane or mentally unsound,
+c. You are insolvent and adjudicated bankrupt,
+d. You have been convicted by a court in any criminal offense or have been
+involved in any fraud/forgery, financial crime or other illegal activities,
+e. You are a Director of any other banking company,
+f. You are a partner in any contract with a banking company in the capacity of legal
+advisor, advisor, consultant, etc.
+
+17. Answer the questions below as they apply to you as an individual, or to any enterprise
+with which you are or have been involved as a member of the board of directors, senior
+management, or any equivalent body, significant participant, or general partner (described
+as a “relevant enterprise”). Include facts that occurred in Bangladesh or in any other
+jurisdiction. If “yes,” provide full details.
+
+Except for minor traffic violations:
+Are any arrests, indictments, or criminal proceedings now pending
+against you or any relevant enterprise?
+Yes( ) No( )
+Have you, or has any relevant enterprise, ever been convicted of any
+criminal offense or found liable for any fraudulent activity?
+
+Yes( ) No( )
+Have you, or has any relevant enterprise, ever been judged bankrupt?
+
+Yes( ) No( )
+Have you, or has any relevant enterprise, ever been subject to legal,
+recovery or collection proceedings due to financial issues?
+
+Yes( ) No( )
+Are you or any relevant enterprise currently involved in any legal
+proceedings involving financial problems, or are you expecting to become
+involved in such proceedings?
+
+Yes( ) No( )
+Have you ever been required to pay unpaid debts on account of liability for
+the bankruptcy of any relevant enterprise with which you are or have been
+involved, pursuant to bankruptcy legislation or other comparable legal
+provisions?
+Yes( ) No( )
+Have you ever been determined to have provided inaccurate and/or
+incomplete information to any financial supervisory authority?
+
+Yes( ) No( )
+Have you ever been refused, or had revoked, any license, authorization,
+permit, or similar document, or exemption by any financial supervisory
+Yes( ) No( )
+
+--- Page 24 ---
+Page | 19
+
+authority?
+Have you, or has any relevant enterprise, ever been involved in any matter,
+that has led to any corrective measure, sanction, or penalty, or comparable
+action being taken by any financial supervisory authority?
+Yes( ) No( )
+Have you ever been refused registration, incorporation or the amendment of
+the articles of association in accordance with the Companies Law, or
+comparable legislation of a foreign jurisdiction?
+Yes( ) No( )
+Have you ever been subject to civil or criminal penalties for any of the
+offenses enumerated below, in accordance with the Tax Code in
+Bangladesh, or comparable legislation elsewhere?
+
+a) deliberate submission of an incorrect or incomplete tax return,
+individually or any relevant enterprise for which you currently have, or have
+had, responsibility for submitting such returns;
+
+b) intentionally or through gross negligence, causing a tax assessment to be
+issued for an insufficient amount, or causing an insufficient tax to be levied,
+regarding the yourself or any relevant enterprise for which you currently
+have, or have had, responsibility for such matters;
+
+c) taxes due from yourself, or from any relevant enterprise for which you
+are or have been responsible for submitting wage withholding taxes, not
+having been paid on time; or
+
+d) intentionally or through gross negligence causing the insufficient
+withholding of taxes, or causing taxes to not be paid on time, with regard to
+yourself or any enterprise with which you are or have been involved, and in
+which you have or has had responsibility for making such payments?
+Yes( ) No( )
+Have you ever been refused, or had revoked, a license, authorization, permit
+or equivalent document to practice a given profession (including, but not
+limited to, the legal, accounting, auditing or actuarial professions)?
+Yes( ) No( )
+Have you ever been subject to investigatory or disciplinary proceedings by
+any public body or other organization responsible for regulating any
+profession (including, but not limited to, the legal, accounting, auditing or
+actuarial professions), and this procedure has led to measures being taken
+against you by such organization?
+Yes( ) No( )
+Have you ever been subject to any formal disciplinary action by an
+employer (including a written warning, reprimand, suspension or dismissal)
+by your current or a former employer due to improper fulfillment of your
+duties or compliance with a code of conduct in connection with the
+fulfillment of your position?
+Yes( ) No( )
+Have you, or has any relevant enterprise, ever been investigated by any
+public authority, or been involved in any legal proceedings involving
+dishonesty, fraud, or improper business practices on the part of the yourself
+or such enterprise?
+Yes( ) No( )
+Has any relevant enterprise ever defaulted on servicing obligations
+(principal and/or interest) on outstanding debt or been involved in
+unacceptable foreign exchange transactions?
+Yes( ) No( )
+
+--- Page 25 ---
+Page | 20
+18. As a sponsor of this proposed bank, I agree to hold at least Taka 50 lac (or its
+equivalent) of the equity capital to be issued by the proposed bank.
+
+
+The undersigned affirms that the statements made and answers given
+herein are accurate and complete and here by authorizes the Bangladesh Bank to make
+any inquiry it deems appropriate in connection with processing this questionnaire.
+False statements in this questionnaire will be sufficient cause for denial of a license to
+establish banking operations in Bangladesh.
+
+
+Signature of Sponsor/Director:
+Name:
+Date:
+
+Place:
+
+
+Witnesses:
+
+Signature: _________________________
+
+Signature: _________________________
+
+Name: _________________________
+
+Name: _________________________
+
+Address: _________________________
+
+Address: _________________________
+
+--- Page 26 ---
+Page | 21
+
+
+
+ANNEXURE VI (b)
+SPONSORS/DIRECTORS AS CORPORATE PROMOTOR
+
+1. Full Name of the company:
+2. Date of incorporation:
+
+3. Registration Authority
+4. Nature of Business:
+5. Address:
+
+
+A. Board Resolution,
+B. Articles of Incorporation and By-laws,
+C. List of directors and officers,
+D. List of shareholders,
+E. Audited financial statements for the last three years,
+F. Certified copies of the Memorandum of Association and Articles of Association.
+
+--- Page 27 ---
+Page | 22
+
+ANNEXURE VII
+BIOGRAPHICAL REPORT ON CEO/
+PRINCIPAL OFFICERS (COO, CFO, CRO, CITO, CISO, HICC, ETC.)
+1. Full Name:
+
+2. Date of Birth:
+3. Place of Birth:
+4. Citizenship:
+NID number:
+Passport Number:
+Date and Place of Issue: Right‐to‐work in
+Bangladesh Visa Type:
+Expiration Date:
+Yes( )
+No ( )
+5. Full Address:
+
+(a) Permanent:
+
+Telephone Number:
+
+(b) Present, if different from the Permanent:
+Telephone Number:
+
+6. Marital Status:
+If married, Spouse's Name:
+Occupation:
+Spouse's Passport Number:
+Date and Place of Issue:
+
+Education
+Name &
+Address
+of Institution
+Dates of
+Attendance
+Major Area
+of Study
+Degree Awarded
+& Date
+High School
+Undergraduate
+Graduate
+Professional
+or Technical
+Training /
+Seminar
+
+Present Occupation:
+Organization Name:
+Business Address:
+
+Nature of Business:
+Job Title:
+Telephone Number:
+
+--- Page 28 ---
+Page | 23
+
+
+
+
+9. Service Record (pertaining to 5 years' experience in technology based banking
+profession). Please submit supporting documents.
+Name & Address of
+Organization
+Dates of
+Engagement
+Position Held Responsibilities
+
+
+
+
+
+
+
+
+
+10.
+
+Do you perform any services for or have any business
+Yes
+No
+Connections with any institution which is subject to the supervision of
+Bangladesh Bank, or any other authority of the government of
+Bangladesh?
+
+
+If "Yes," indicate the name of the institution, address and nature of your
+work.
+
+
+
+11.
+
+
+Have you had, or do you now have, any financial interest, direct or
+indirect, in any institution under the supervision of any Government
+authority?
+Yes
+No
+If "Yes," give the name of the institution, address and nature of the
+financial interest.
+
+12. Tax Identification Number (TIN):
+(Submit most recent returns and/or Tax Clearance Certificates, and certified IT10B forms).
+
+13. Are you disqualified for the post of CEO/Principal Officers owing to the following
+circumstances?
+(1) You have less than 5 years of technology based banking experience.
+(2) You are insane or mentally unsound,
+(3) You are insolvent or adjudicated bankrupt,
+(4) You have been convicted by a court in any criminal offense or have been
+involved in any fraud/forgery, financial crime or other illegal activities.
+(5) You are a Director of any banking company.
+(6) You are a partner in any contract with a banking company in the capacity of
+legal advisor, advisor, consultant, etc.
+
+14. Answer the questions below as they apply to you as an individual, or to any
+enterprise with which you are or have been involved as a member of the board of
+directors, senior management, or any equivalent body, significant participant, or general
+partner (described as a “relevant enterprise”). Include facts that occurred in Bangladesh
+or in any other jurisdiction. If “yes,” provide full details.
+
+--- Page 29 ---
+Page | 24
+
+
+Except for minor traffic violations:
+
+Are any arrests, indictments, or criminal proceedings now
+pending against you or any relevant enterprise?
+
+Yes ( ) No ( )
+Have you, or has any relevant enterprise, ever been convicted of
+any criminal offense or found liable for any fraudulent activity?
+Yes ( ) No ( )
+Have you, or has any relevant enterprise, ever been judged
+bankrupt?
+
+Yes ( ) No ( )
+Have you, or has any relevant enterprise, ever been subject to legal,
+recovery or collection proceedings due to financial issues?
+
+Yes ( ) No ( )
+Are you or any relevant enterprise currently involved in any legal
+proceedings involving financial problems, or are you expecting to
+become involved in such proceedings?
+
+Yes ( ) No ( )
+Have you ever been required to pay unpaid debts on account of
+liability for the bankruptcy of any relevant enterprise with which you
+are or have been involved, pursuant to bankruptcy legislation or
+other comparable legal provisions?
+
+Yes ( ) No ( )
+Have you ever been determined to have provided inaccurate and/or
+incomplete information to any financial supervisory authority?
+
+Yes ( ) No ( )
+Have you ever been refused, or had revoked, any license,
+authorization, permit, or similar document, or exemption by any
+financial supervisory authority?
+
+Yes ( ) No ( )
+Have you, or has any relevant enterprise, ever been involved in any
+matter, that has led to any corrective measure, sanction, or penalty,
+or comparable action being taken by any financial supervisory
+authority?
+
+Yes ( ) No ( )
+Have you ever been refused registration, incorporation or the
+amendment of the articles of association in accordance with the
+Companies Law, or comparable legislation of a foreign
+jurisdiction?
+
+Yes ( ) No ( )
+Have you ever been subject to civil or criminal penalties for any of
+the offenses enumerated below, in accordance with the Tax Code in
+Bangladesh, or comparable legislation elsewhere?
+
+Yes ( ) No ( )
+
+--- Page 30 ---
+Page | 25
+
+a) deliberate submission of an incorrect or incomplete tax return,
+individually or any relevant enterprise for which you currently
+have, or have had, responsibility for submitting such returns;
+
+b) intentionally or through gross negligence, causing a tax
+assessment to be issued for an insufficient amount, or causing an
+insufficient tax to be levied, regarding the yourself or any relevant
+enterprise for which you currently have, or have had,
+responsibility for such matters;
+
+c) taxes due from yourself, or from any relevant enterprise for which
+you are or have been responsible for submitting wage
+withholding taxes, not having been paid on time; or
+
+d) intentionally or through gross negligence causing the insufficient
+withholding of taxes, or causing taxes to not be paid on time, with
+regard to yourself or any enterprise with which you are or have
+been involved, and in which you have or has had responsibility
+for making such payments?
+Have you ever been refused, or had revoked, a license, authorization,
+permit or equivalent document to practice a given profession
+(including, but not limited to, the legal, accounting, auditing or
+actuarial professions)?
+Yes ( ) No ( )
+Have you ever been subject to investigatory or disciplinary
+proceedings by any public body or other organization responsible for
+regulating any profession (including, but not limited to, the legal,
+accounting, auditing or actuarial professions), and this procedure has
+led to measures being taken against you by such organization?
+Yes ( ) No ( )
+Have you ever been subject to any formal disciplinary action by an
+employer (including a written warning, reprimand, suspension or
+dismissal) by your current or a former employer due to improper
+fulfillment of your duties or compliance with a code of conduct in
+connection with the fulfillment of your position?
+Yes ( ) No ( )
+Have you, or has any relevant enterprise, ever been investigated by
+any public authority, or been involved in any legal proceedings
+involving dishonesty, fraud, or improper business practices on the
+part of the yourself or such enterprise?
+Yes ( ) No ( )
+Has any relevant enterprise ever defaulted on servicing obligations
+(principal and/or interest) on outstanding debt or been involved in
+unacceptable foreign exchange transactions?
+Yes ( ) No ( )
+
+--- Page 31 ---
+Page | 26
+
+
+
+
+The undersigned affirms that the statements made and answers given herein are
+accurate and complete and here by authorizes the Bangladesh Bank to make any inquiry it
+deems appropriate in connection with processing this questionnaire. False statements in this
+questionnaire will be sufficient cause for denial of a license to establish banking operations
+in Bangladesh.
+
+Signature of the CEO/Principal Officer ______________________
+Name:
+Date:
+Place:
+
+
+
+
+Witnesses:
+
+Signature _____________________________________
+Name:
+Address:
+
+
+Signature _____________________________________
+Name:
+Address:
+
+--- Page 32 ---
+Page | 27
+
+ANNEXURE VIII
+FIT AND PROPER TEST CRITERIA FOR APPOINTMENT OF DIRECTORS
+FOR DIGITAL BANK
+
+Fit and Proper Test:
+The concerned person must have management/business or professional
+experience for at least 10 (ten) years having five (5) years with application based
+banking service provider, Electronic Money Issuer (EMI), Fintech and electronic
+payment system;
+(ii) Persons with adequate experience in dealing with retail customer segments in a
+bank, Financial Institution, Micro Finance Institute (MFI) or Fintech company
+that deals in payments and/or lending should get preference.
+(iii) Persons with adequate knowledge and experience in any of emerging
+technologies and trends, such as cloud, open API, cyber security, and advanced
+data analytics, Artificial Intelligence (AI), Internet of Things (IoT), Machine
+Learning (ML) and so like should get preference.
+(iv) Persons having adequate knowledge and experience in banking, banking laws,
+regulations, guidelines, circulars etc should get preference.
+He/she has not been convicted in any criminal offence or involved in any
+fraud/forgery, financial crime or other illegal activities (Police clearance
+certificate to be submitted);
+(vi) He/she has not been subject to any adverse findings in any legal proceedings,
+(vii) He/she has not been convicted in regard to contravention of rules, regulations or
+disciplines of the regulatory authorities relating to financial sector;
+(viii) He/she has not been involved with a company/firm whose registration/license
+has been revoked or cancelled;
+(ix) Loans taken by him/her or allied concern from any bank or financial institution
+have not become defaulted;
+He/she has not been adjudicated a bankrupt by a court;
+(xi) He/she must be loyal to the decisions of the board of directors. However, in case
+of note of dissent, he/she may record it in the minutes of the board meeting
+and/or bring it to the notice of Bangladesh Bank considering its merit.
+2. A person, proposed as a candidate for the office of directors, shall furnish along with
+the consent letter for the purpose of section 93 of the Companies Act, 1994 a declaration
+as per the attached format that he/she is not disqualified to become a bank director in
+accordance with the above mentioned fit and proper test.
+3. The declaration shall have to be signed by the concerned person (candidate) and if
+elected it shall have to be forwarded to BB by the Chairman of the board of directors.
+4. The above mentioned restrictions for qualifications of bank directors shall be in addition
+to any related laws/regulations for the time being in force.
+
+--- Page 33 ---
+Page | 28
+
+ANNEXURE IX
+DECLARATION
+I (name, father and mother’s name, Spouse name, address) do hereby declare that I
+am eligible to become a director of Bank Company as per the fit and proper test criteria
+mentioned in the Guidelines to Establish a Digital Bank. I further declare that:
+
+a) I have not been convicted in any criminal offence or involved in any fraud/forgery,
+financial crime or other illegal activities;
+b) There is no adverse opinion/findings regarding me in any legal proceedings,
+c) I have not been convicted in regard to contravention of rules, regulations and
+disciplines of the regulatory authorities relating to financial sector;
+d) I have not been involved with a company/firm whose registration/license has been
+revoked or cancelled;
+e) There are no loans taken by me or my allied concern from any bank or financial
+institution that have become defaulted;
+f) I have not been adjudicated a bankrupt by a court;
+g) I have no unpaid undisputed arrear of income tax assessed for the current and any past
+year.
+h) I am not penalized or awaiting court/tribunal verdict on any suit for offence under section
+21 of Income Tax Ordinance, 1984.
+i) I have no indisposed Tax prosecution reopened under section 93 of Income Tax
+Ordinance, 1984.
+j) I have no unpaid liability for any undisputed customs duty, VAT, supplementary duty,
+excise duty.
+k) I have not awaiting verdict on any prosecution under customer Act, 1969; VAT act,
+1991; Excise & salt Act, 1944 in any court/ tribunal shall not be eligible to be me.
+l) My spouse, parents, children, brothers and sisters or any other person dependent on
+me is not a director of this bank.
+
+
+Dated:
+Signature:
+
+
+
+
+Countersigned:
+Chairman, Board of Directors
+……...….……….…. Bank PLC.
+
+--- Page 34 ---
+Page | 29
+
+ANNEXURE X
+CAPITAL MAINTENANCE AGREEMENT (CMA)
+
+We, the undersigned, hereby declare that we are now, or intend to become, sponsor
+shareholders of …………….. BANK PLC. with a qualifying holding as stated in the clause 5.5
+of GUIDELINES TO ESTABLISH DIGITAL BANK.
+We, the undersigned, also hereby declare that we understand the minimum paid up capital
+requirement (MPCR) of regulatory capital of the …………….. BANK PLC which must be the
+amount specified in section 13(2) of the Bank Company Act, 1991 (BCA, 1991) i.e. stipulated
+percentage of total risk weighted assets of the bank as declared by Bangladesh Bank (BB) from
+time to time.
+We, the undersigned, also hereby agree that in the event of the Bank’s capital falls below the
+minimum paid up capital requirement (MPCR) at the end of any calendar quarter, (March 31,
+June 30, September 30, or December 31) that we will undertake to:
+ Convene an extraordinary session of the General Meeting of Shareholders no later than
+30 (thirty) days after the end of the said quarter the `discovery’ date of MPCR short fall.
+Report the results of the proceedings of the Meeting of Shareholders to Bangladesh
+Bank within 7 (seven) days from such meeting.
+ Inject additional capital to the bank in an amount sufficient to eliminate the MPCR short
+fall no later than 75 (seventy five) days after the discovery date, or with the consent of
+Bangladesh Bank taking any other steps to meet the MPCR short fall within the time
+frame fixed by Bangladesh Bank.
+We, the undersigned, also hereby agree that failure of the said meeting of Shareholders to
+decide on a method of eliminating the capital deficiency within the required time frames or
+failure of the bank to implement the agreed-upon method, renders each of us individually liable
+to inject additional capital in the bank in an amount sufficient to eliminate the MPCR shortfall
+subject to the provision of BCA, 1991. Bangladesh Bank will decide, in its solo discretion,
+which specific shareholders should be held individually liable, the amounts for which they are
+liable, and the timing of such required injection of capital. If after such injection the MPCR still
+falls short, Bangladesh Bank shall have absolute discretion to instruct the bank as deemed
+necessary.
+In witness whereof, we have hereunto set our hands:
+Witness
+(Name & signature)
+Sl. no
+Name of the Sponsors
+Signature of the Sponsors
+
+
+
+
+
+
+
+
+Place
+
+Date
+
+
+Company Seal
+
+--- Page 35 ---
+Page | 30
+
+
+ANNEXURE XI
+FORMAT FOR SPONSORS’ UNDERTAKING
+
+To
+Director (BRPD)
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+I/We [name of natural or legal person], [name of father/husband in case of natural person], of
+[residential address in case of natural person, registered address in case of legal person], [NID
+number in case of Bangladeshi citizen natural person, nationality and passport number in case of
+non-Bangladeshi citizen natural person, country of incorporation and corporate registration number
+in case of legal person] (hereinafter referred to as the “Sponsor”, which term includes
+representative heirs, executors/administrators, legal representatives/successors and assigns), a
+proposed sponsor of [name of digital bank] (hereinafter referred to as the “Proposed Digital
+Bank”), jointly and severally undertake to the foregoing:
+a) Sponsor shall ensure that the proposed Digital Bank shall meet any and all requirements
+and obligations of the Proposed Digital Bank, including but not limited to ensuring ongoing
+compliance monitoring of the Minimum Paid up Capital Requirement, Capital Risk
+(Weighted) Adequacy Ratio and other capital and liquidity requirements as may be
+applicable to the proposed Digital Bank.
+b) Sponsor shall ensure that in the event of discontinuation of the proposed Digital Bank, the
+Sponsor shall personally discharge any and all outstanding deposit liabilities in accordance
+with instructions received from Bangladesh Bank.
+c) Sponsor shall ensure that the Proposed Digital Bank complies with all the terms and
+conditions of any license granted to the Proposed Digital Bank by Bangladesh Bank and all
+other applicable legal and regulatory requirements.
+d) Sponsor undertakes and confirms that the funds that will be used to establish the Proposed
+Digital Bank have not and will not borrow from bank or financial institutions or from
+anywhere else, even from family members.
+e) Sponsor undertakes and confirms that the name of the Sponsor or any person associated
+with the Sponsor has not been included on the United Nations Security Council Consolidated
+List or any other list of banned, proscribed or blacklisted individuals or other entities enlisted
+by the Government of Bangladesh or by any foreign government.
+f) Sponsor confirms that the undertakings stated herein shall constitute perpetual, irrevocable
+and enforceable obligations against the Sponsor, and the Sponsor will not be relieved from
+these obligations or any part thereof for any reason whatsoever without the prior written
+consent of Bangladesh Bank.
+
+--- Page 36 ---
+Page | 31
+
+IN THE WITNESS THEREOF these presents have signed the day hereinbefore written by the
+Sponsor.
+Signature:
+Name:
+Address:
+NID/Passport Number:
+Date:
+Place:
+
+
+Witness No. 1: Name:
+Address:
+NID/Passport Number:
+
+
+Witness No. 2: Name:
+Address:
+NID/Passport Number:

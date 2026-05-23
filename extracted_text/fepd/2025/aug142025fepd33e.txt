@@ -1,0 +1,2943 @@
+--- Page 1 ---
+Foreign Exchange Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+www.bb.org.bd
+
+
+FE Circular No. 33
+
+
+
+
+
+Date: August 14, 2025
+
+All Authorized Dealers in
+Foreign Exchange in Bangladesh
+
+Dear Sirs,
+Foreign Exchange Regulations regarding import transactions
+
+Foreign exchange transactions in import trade are regulated by the Foreign Exchange
+Regulation (FER) Act 1947, Guidelines for Foreign Exchange Transactions (GFET)-2018 and
+subsequent circulars issued thereagainst. To bring ease in conducting import transactions, the
+existing regulations have been compiled in one place with modifications as necessitated.
+Accordingly instructions regarding import transactions available in the GFET-2018, Vol-1 and its
+subsequent circulars will stand repealed with the issuance of this circular excepting monthly
+reporting instructions contained in GFET-2018, Vol-2.
+
+02. This circular is issued with the authority vested to Bangladesh Bank under section 20(3)
+of FER Act, 1947.
+
+03. The instructions of this circular will remain valid for one year from the date of its
+issuance. However, instructions to be issued within this period will be read with this circular.
+
+Please bring the contents of this circular to the notice of your constituents.
+
+
+
+
+Yours faithfully,
+Encl. As stated.
+
+
+
+
+
+
+
+
+(Md. Harun-Ar-Rashid)
+Director (FEPD)
+Phone: 9530123
+
+--- Page 2 ---
+Contents
+
+
+Part-A: IMPORT TRADE
+
+Introduction…………………………………………………………………………………………..
+Foreign exchange regulation…………………………………………………………………………
+International trade rules……………………………………………………………………………...
+Registration…………………………………………………………………………………………..
+Online reporting……………………………………………………………………………………...
+Online reporting for large import……………………………………………………………………
+Import regulatory framework………………………………………………………………………..
+IMP Form…………………………………………………………………………………………….
+Dealing with known customers……………………………………………………………………...
+10. Terms of imports…………………………………………………………………………………….
+11. Imports under special arrangements…………………………………………………………………
+12. Use of correct HS Code……………………………………………………………………………...
+13. Amounts for relative import and remittances made thereunder………………………………………
+14. Remittance in excess of the value of the relative import…………………………………………….
+15. Imports on FOB basis………………………………………………………………………………...
+
+Part-B : LC AND REMITTANCES AGAINST IMPORTS
+16. General……………………………………………………………………………………………….
+17. LC covering imports………………………………………………………………………………….
+18. Terms on which LCs may be opened…………………………………………………………………
+19. Import through land ports……………………………………………………………………………
+20. Period for which LCs may be opened…………………………………………………………………
+21. LCs to be opened only against firm contracts……………………………………………………….
+22. Approved methods of payment………………………………………………………………………..
+23. Applications for remittances against imports…………………………………………………………
+24. Remittance of proceeds of dishonored bill…………………………………………………………..
+25. Remittance against discrepant documents/documents received directly by the importers…………..
+26. Remittance against goods imported under penalty…………………………………………………….
+27. Advance remittance against imports………………………………………………………………….
+28. Application for remittance on IMP Form……………………………………………………………
+29. Submission of the authenticated copies of 'Bill of Entry' and 'Certified Invoices'………………………...
+30. Extension of time limit for submission of bill of entry etc. …………………………………………..
+31. Disposal of IMP Forms……………………………………………………………………………….
+32. Acceptance of electronic bill of entry………………………………………………………………..
+10
+33. Loss of goods………………………………………………………………………………………...
+11
+
+Part-C : IMPORT UNDER CONTRACTS
+34. Imports under purchases/sales contracts without LCs……………………………………………….
+12
+
+
+
+
+Part-D : IMPORTS ON SUPPLIYER’S (DEFERRED)/BUYER’S CREDIT
+
+35. Import on supplier’s credit/deferred payment basis…………………………………………………….
+13
+36. Interest rate………………………………………………………………………………………….
+13
+37. Import on buyer’s credit…………………………………………………………………………….
+13
+38. Payment against usance bills through purchases……………………………………………………
+14
+39. Reporting on buyer’s credit………………………………………………………………………….
+14
+40. Import on longer terms………………………………………………………………………………
+14
+
+
+
+
+Part-E : PAYMENT BEHAVIOR
+
+41. Payment of import liability…………………………………………………………………………..
+15
+42. Payment behavior framework for timely import payments………………………………………….
+15
+43. Payment of overdue accepted bills (foreign or local) ………………………………………………
+15
+44. Documents to head offices/principal offices………………………………………………………...
+15
+45. Submission of statements……………………………………………………………………………
+15
+
+--- Page 3 ---
+ii
+
+
+
+
+Part-F : REMITTANCE FOR SOFTWARE IMPORT THROUGH E-DELIVERY AND
+OTHER PAYMENTS
+46. Remittance against purchase of software through e-delivery………………………………………
+16
+47. Payment in foreign currency against local supply of goods under international tender……………
+16
+48. Payment of import bills from advance export proceeds retained in foreign currency accounts of
+ship builder-exporters……………………………………………………………………………….
+16
+
+
+
+
+Part-G : BACK TO BACK LC
+
+49. General……………………………………………………………………………………………….
+17
+50. Opening of back to back import LC…………………………………………………………………...
+17
+51. Inland back to back LCs……………………………………………………………………………..
+17
+52. Opening LC in local currency………………………………………………………………………..
+18
+53. Payment against back to back LCs…………………………………………………………………..
+18
+54. Stock of inputs procured under back to back LC……………………………………………………
+18
+
+
+
+Part-H : RETENTION OF EXPORT PROCEEDS FOR SETTLEMENT OF IMPORT
+PAYMENTS
+55. Retention of foreign currency in single pool for back to back import payments under bonded warehouse
+system………………………………………………………………………………………………… 19
+56. Payment of import bills (other than back to back) from direct and deemed export earnings…………...
+19
+57. Retention of discounted proceeds……………………………………………………………………
+19
+
+
+
+58-
+62
+Part-I : INLAND LC IN FOREIGN CURRENCIES – OPERATIONAL
+MODALITIES
+20
+
+
+
+
+Part-J : IMPORT TRADE FOR SPECIALIZED ZONES
+
+63. Principles and Procedures……………………………………………………………………………
+21
+64. Imports by enterprises operating in specialized zones………………………………………………
+21
+65. Imports on account of zone enterprises………………………………………………………………… 21
+66. Import payments matching with export proceeds……………………………………………………
+21
+67. Retention of export proceeds for settlement of import liabilities……………………………………
+22
+
+
+
+Part-K : IMPORT OF GOLD, SILVER, JEWELLERY AND CURRENCY NOTES
+68. Definition of Gold and Silver……………………………………………………………………….
+23
+69-
+71
+Import of gold and silver……………………………………………………………………………
+23
+72. Definition of jewellery and precious stones…………………………………………………………
+23
+73. Import of jewellery and precious stones…………………………………………………………….
+23
+74. Import of securities………………………………………………………………………………….
+23
+75. Import of foreign currency notes and coins…………………………………………………………
+23
+76. Purchase of foreign currency from digital wallets of incoming tourists/passengers………………..
+25
+77. Bringing in jewellery by incoming passengers………………………………………………………
+26
+78. Import for jewellery under export scheme…………………………………………………………...
+26
+
+
+
+Part-L : DEPOSIT OF COUNTERPART FUND IN RESPECT OF IMPORTS UNDER NON-
+PROJECT COMMODITY LOANS/CREDITS/GRANTS
+79. Clean documents against LC Counterpart…………………………………………………………...
+27
+80. Documents against LC received on collection basis/negotiated under reserve due to discrepancy…
+27
+81. Documents received direct by the ERD or designated banks without opening of LC………………
+27
+82. Application of rate of exchange……………………………………………………………………..
+28
+83. Penal interest…………………………………………………………………………………………
+28
+
+--- Page 4 ---
+APPENDICES
+APPENDIX
+IMP Form
+APPENDIX
+The area where the importer is resident
+APPENDIX
+ADs should also issue a certificate to the importers
+APPENDIX
+Form of Undertaking.
+APPENDIX
+Bill of entry/customs certified invoice
+APPENDIX
+Monthly summary statement of overdue accepted bills.
+APPENDIX
+Monthly statement of overdue accepted bills -Local payables
+APPENDIX
+Monthly statement of overdue accepted bills -Foreign payables
+APPENDIX
+Monthly statement of overdue accepted bills -Local receivables
+APPENDIX
+10
+Monthly bank-wise summary statement of local overdue accepted
+bills.
+APPENDIX
+11
+Payment in foreign currency against local supply of goods under
+international tender.
+APPENDIX
+12
+General permission by Bangladesh Bank allowing an incoming
+passenger to bring into Bangladesh gold or silver in bullion/ingot
+APPENDIX
+13
+Notification No. FE-1/09-BB dated 4th August, 2009
+APPENDIX
+14
+Notification No. FE-01/2017-BB dated 15th October, 2017
+APPENDIX
+15
+Foreign Exchange Declaration Form (FMJ Form)
+APPENDIX
+16
+Statement of L/Cs opened under loans/credits/grants requiring deposits
+of counterpart taka
+APPENDIX
+17
+Statement of discrepant bills received on collection basis
+APPENDIX
+18
+Statement of deposit of counterpart taka funds.
+
+--- Page 5 ---
+Part-A
+IMPORT TRADE
+
+1. Introduction
+Import of goods into Bangladesh is regulated by the Ministry of Commerce in terms of the Import
+and Export (Control) Act, 1950, through Import Policy Order (IPO) in force and Public Notices
+issued from time to time by the Office of the Chief Controller of Imports and Exports (CCI&E).
+2. Foreign exchange regulations
+In exercise of the powers under Section 5(1) of the Foreign Exchange Regulation (FER) Act,
+1947 Taka was declared convertible for current account payments from March, 1994. Within the
+scope of the declaration, general authorization is given to Authorized Dealer (AD) banks to effect
+outward remittance against admissible import transactions. AD banks shall conduct foreign
+exchange transactions on import in conformity with the instructions contained in this circular and to
+be issued by Bangladesh Bank from time to time in exercise of the powers conferred by Section
+20(3) of the Foreign Exchange Regulation Act, 1947. Nothing in the foreign exchange regulations
+relieves the importers from the necessity of complying with the import trade regulations prescribed
+by the Government and relevant other regulations of the country such as AML/CFT norms,
+taxes/customs regulations, etc.
+3. International trade rules
+ADs shall observe best practices in accordance with applicable international trade rules such as
+Uniform Customs and Practice (UCP), Uniform Rules for Collections (URC), Incoterms, etc. ADs
+are required to follow the rules of prevailing UCP for issuing Letter of Credit (LC) against import
+trade. While executing admissible import transactions under sales contracts on documentary
+collection basis, ADs are advised to observe the latest version of URC. For use of incoterms, AD
+shall consult with the IPO in force. Local regulations will, however, prevail in case of
+contradiction.
+4. Registration
+In terms of the Importers, Exporters and Indentors (Registration) Order, 2023 no person can import
+goods into Bangladesh unless he/she is registered with the CCI&E or exempted from the provisions
+of the said Order.
+5. Online reporting
+In addition to other reporting requirements to Bangladesh Bank, ADs shall report all types of
+permissible import transactions to the Online Import Monitoring System (OIMS) of Bangladesh
+Bank on daily/regular basis. ADs shall also observe the following reporting procedures for relevant
+import transactions:
+(1) Before establishment of LCs or initiation of permissible imports, ADs shall obtain underlying
+indents, proforma invoices, purchase or sales contracts from relevant importers.
+(2) For imports on FOB or similar other terms, ADs shall obtain applicable transport charges against
+the shipments to facilitate issuance of certificate as per paragraph 15 of this circular.
+(3) ADs shall provide primary import information based on (1) above to the OIMS of Bangladesh
+Bank. (4) In case of permissible imports without LCs by industrial imports, and commercial imports
+within authorized limits, ADs shall report to Bangladesh Bank as per (3) above with indication of
+imports without LCs.
+
+--- Page 6 ---
+6. Online reporting for large import
+For import value of USD 3.00 million and above or its equivalent, ADs shall report to the OIMS
+of Bangladesh Bank before 24 hours of opening of LC. The report excludes imports by the
+Government.
+7. Import regulatory framework
+(1) ADs shall, while providing primary information to the OIMS of Bangladesh Bank, be ensured
+of the import price contracted for import depicting the current market price of the importable
+goods.
+(2) Before opening of LC or initiating imports, ADs shall have to take usual and reasonable
+cautionary measures to ensure that both the exporter and importer are bonafide business persons
+of the goods concerned, the exporting country is the usual exporter of the goods concerned and
+the price of the goods concerned is competitive in terms of prevailing price in the international
+market on the date of contract and/or similar imports in contemporary period.
+(3) To facilitate the accurate verification of the import price in line with international market
+rates, the following details need to be clearly mentioned in the Proforma Invoice (PI) sent by
+foreign exporters or in the indent provided by their local agents regarding the imported goods:
+(a) A complete description of the goods, including their quality, brand, production date, packaging
+information, and grade (if any), through which quality of goods can be differentiated, as well as
+the unit price and quantity;
+(b) In cases where multiple products are imported through the same PI, the details of each product
+should be separately listed, including its description, quality, brand, production date, packaging
+details, and grade (if any), with unit price and quantity for each;
+(c) In cases where different types of goods are imported under the same PI, all goods should not
+be measured in a single unit such as kg, liter, or piece; and each item should be presented in the
+applicable units based on their nature;
+(d) Transportation charges should be clearly mentioned in terms of incoterms used for the relevant
+transactions;
+(e) To identify the imported goods specifically, the 6-digit HS Code along with the next 2 digits
+(total of 8 digits) should be mentioned.
+8. IMP Form
+(1) Payment against import is subject to declaration by the importer on IMP Form (Appendix-1).
+The importer should read carefully the instructions contained in the IMP Form and shall declare
+that:
+(a) the applied payment is due and they have not already obtained exchange for payment of (any
+of) these goods, nor they have made any other application for that purpose,
+(b) the amount of foreign exchange represents the correct prevailing market price for the goods
+on the date of contract in country of export,
+(c) they are neither connected with the exporters abroad directly or indirectly nor they have any
+financial or other interest in the exporters abroad. The IMP Form needs to be attached with the
+original customs certified Bill of Entry evidencing the import of the goods which has already
+been cleared for consumption in Bangladesh. In other case, importer shall undertake to clear the
+goods for consumption in Bangladesh within four months of the date of the application for
+
+--- Page 7 ---
+payment and shall, before the expiry of that period, produce to ADs the original customs certified
+bill of entry covering the above goods.
+
+(2) ADs should ensure that the registration number of the importer is invariably furnished on the
+IMP Form. Where the importer is exempted from such registration, a suitable mention of this fact
+should be made on the IMP Form.
+(3) Details of amounts remitted, whether under LC or otherwise, should be endorsed on the
+relative IMP Form.
+(4) Before delivering the import documents to the importers, ADs should invariably endorse on
+the invoices accompanying the bills, the amount both in figures and words that they have remitted
+from Bangladesh. The endorsement should be under the seal and signature of ADs. In case of
+payment on deferred/usance basis, the amount for which the bill has been accepted should be
+endorsed in the invoices.
+9. Dealing with known customers
+ADs must ensure that they deal only with customers having a place of business in Bangladesh and
+maintaining accounts with them. They shall also be traceable easily should any occasion arise for
+this purpose. Initiation of import trade and payments for imports into Bangladesh should be made
+through an AD in the area where the importer is resident (Appendix-2 lists the areas for
+foreign exchange regulation purposes). In case the importer is a new customer, AD should obtain
+certificate from the AD through which the applicant imported earlier to the effect that no bill of
+entry is overdue for submission by the importer. The same should be duly verified by the AD
+through the OIMS of Bangladesh Bank and recorded accordingly.
+10. Terms of imports
+Appropriate Incoterms should be incorporated in the letter of credit/purchase contract in
+compliance with the IPO in force. Import shall usually be made on CFR/CPT basis (as the case
+may be). However, import on FOB basis shall be subject to the provisions mentioned in
+paragraph 15 of this circular.
+11. Imports under special arrangements
+Specific procedural instructions regarding imports under special arrangements or agreements
+(grants, loans, barters etc.) issued by Bangladesh Bank from time to time should be followed by
+ADs.
+12. Use of correct HS Code
+It is mandatory to use correct HS Code to indicate the classification of goods to be imported, as
+per First Schedule of the Customs Act. No bank shall initiate import transactions without quoting
+correct HS Code in the LC or purchase contract/PI (as the case may be). Failure to do so may lead
+to imposition of penalties by the Customs Authority. In all cases of doubt, reference should be
+made either by ADs or the customer direct to the concerned the Customs Authority.
+13. Amounts for relative import and remittances made thereunder
+(1) The aggregate amount of foreign exchange sold against an import whether under LC or
+otherwise, should not exceed the value mentioned in underlying documents, In case where
+import was initiated and remittance is needed in a floating currency against which no forward
+booking has been made, the Taka value of the amount shall be deemed to have been increased to
+
+--- Page 8 ---
+the extent of appreciation of the foreign currency for the purpose of allowing remittance by ADs.
+(2) Applicable exchange rate on retirement of import bill: Import bill, unless forward cover has been
+taken, shall be retired at the rate of exchange prevailing on the date of lodgment in the book of ADs.
+14. Remittance in excess of the value of the relative import
+(1) Remittance in excess of the value of the relative import is not permissible without prior
+approval of Bangladesh Bank except for payment of normal bank charges of the foreign
+correspondents. In other words, ADs need not adjust the amount of bank charges from the import
+value. Remittances of bank charges should be reported to Bangladesh Bank as usual with TM
+forms and necessary supporting documents. ADs shall endorse the amount of bank charges
+remitted along with the date of remittance on the back of the IMP Form. They should also quote
+the approval number and date, if remittance is effected against any specific approval from
+Bangladesh Bank.
+(2) Bank charges of unusual nature i.e., not commonly attributable to transactions against LCs
+cannot be remitted without Bangladesh Bank's approval. Foreign bank charges in respect of
+imports in the public sector shall be on the suppliers account and, hence, cannot be remitted from
+Bangladesh. Bank charges under barter/special trade arrangements (STA) shall be payable in
+accordance with the relevant provisions therein.
+15. Imports on FOB basis
+In case of import on FOB basis, AD banks may at the request of their importer clients make
+payments of freight/transportation charges in Taka or in equivalent foreign exchange to shipping
+companies/airlines/eligible licensed freight forwarders, out of the total import value covering
+costs of goods and transportation charges. The receipts in foreign exchange will be deposited in
+foreign currency accounts maintained by the shipping companies /airlines/eligible licensed freight
+forwarders for settlement of overseas payments as per relevant instructions in this regard. In case
+of FOB imports, AD should endorse, beside FOB value, the transportation charges payable in
+foreign currency or in equivalent Taka as indicated in the bill of lading, etc. along with
+miscellaneous charges, if any, as indicated in the airway bill. ADs should also issue a certificate to
+the importers in the form given in Appendix-3 to the effect that the amount of transportation
+charges etc. has been endorsed on the relative import. The issue of this certificate is essential as
+the shipping companies/airlines, etc. are under instructions not to accept payment of freight in
+Taka or foreign currency unless the above mentioned certificate is produced to them. Moreover,
+ADs shall not deposit the amount in their foreign currency accounts designated for outward
+payment on account of surplus earnings/foreign liabilities without this certificate. However,
+payment of transportation charges against FOB import through chartered ship is subject to
+compliance of relevant instructions. In cases where the FOB value and the amount of
+transportation charges payable in Taka or foreign currency exceeds the value of the relative
+import, the application should be referred to Bangladesh Bank for consideration with full
+particulars and supporting documentary evidence.
+
+--- Page 9 ---
+Part-B
+LC AND REMITTANCES AGAINST IMPORTS
+16. General
+ADs may issue, advise, notify or confirm any LC, authority to purchase, guarantee or similar
+undertaking covering imports into Bangladesh the implementation of which would involve a
+payment in Taka to a non resident account or a payment in foreign currency in accordance with the
+instructions prescribed hereunder.
+17. LC covering imports
+ADs should establish LCs against specific authorization only on behalf of their own customers who
+maintain accounts with them and are known to be participating in the trade. Payments in retirement
+of the bills drawn under LCs must be received by ADs by debit to the account of the concerned
+customer or by means of a crossed cheque drawn on the drawee's other bank. These restrictions
+shall not apply to import of articles for the private use of the importer as permitted in the IPO in
+force.
+18. Terms on which LCs may be opened
+(1) Documentary Credits: All LCs and similar undertakings covering imports into Bangladesh
+must be documentary LCs and should provide for payment to be made against full sets of onboard
+(shipped) bills of lading, air way bill, railway receipts, truck receipts, post/courier parcel receipts
+showing despatch of goods covered by the credit to a destination in Bangladesh. All LCs must
+specify submission of signed invoices and certificates of origin. If any particular import requires
+submission of any other document or the remittance of exchange at certain periodical intervals or
+in any other manner, the LC should incorporate those instructions.
+(2) Screening of underlying import shipments: ADs should, at their own discretion, conduct
+the tracking of shipments for relevant import transactions through vessel/container tracking
+system recognized by competent authority
+(3) LCs requiring prior permission: It is not permissible to open clean or revolving or standby
+letter of credits or LC with realization clause (except EPZ/EZ/HTP companies). Applications for
+opening such LCs should be referred to Bangladesh Bank with full particulars.
+(4) Transferable LCs: ADs may open transferable LCs for imports into Bangladesh. They may
+also allow without reference to Bangladesh Bank amendments that do not violate foreign exchange
+regulations and the IPO in force.
+(5) Opening of LCs for imports from countries banned by the competent authority: It is not
+permissible to open import LCs in favor of beneficiaries in countries from which imports into
+Bangladesh are banned by the competent authority.
+19. Import through land ports
+For import through land ports, following instructions are to be followed by ADs:
+
+(1) only one port of entry (land port) is to be mentioned specifically in the LC/purchase contract (as
+the case may be);
+(2) specimen signatures of the officials working in the import-export desks of the concerned AD
+bank, contact phone and fax nos. of ADs are to be sent to all the land ports
+
+--- Page 10 ---
+(3) ADs may follow usual procedure to match import payment with bill of entry as per stipulation
+of paragraph 32 of this circular. This procedure shall be applicable only for those land custom
+houses using electronic system (ASYCUDA) for import clearance.
+(4) LCs/purchase contracts shall contain inter alia the following payment terms instead of
+reimbursement authority/debit authority:
+"Upon receipt of documents complying with credit terms, we shall effect payment as per
+instructions of Negotiating Bank/Collecting Bank".
+
+(5) LC covering value more than USD 5000 (more than USD 10,000 in case of coal import) or
+equivalent should be sent through SWIFT or other similar arrangements to the advising bank;
+(6) NOC (if any) shall contain name of the officials along with P.A. nos. and official seal.
+20. Period for which LCs may be opened
+LC covering import of goods into Bangladesh should be opened within the period, if any,
+prescribed in the IPO in force.
+21. LCs to be opened only against firm contracts
+(1) ADs should, before opening an LC, see documentary evidence that a firm order for the goods
+to be imported has been placed and accepted. While opening an LC, ADs should ensure that full
+description of the goods to be imported are given in each credit alongwith the unit price of the
+merchandise.
+(2) Credit Reports of the foreign suppliers
+(a) ADs should also obtain confidential report on the exporters from their branches or
+correspondents abroad or in their discretion, satisfy themselves as to the standing of the exporter
+by consulting standard books of reference issued by international credit rating agencies acceptable
+to ADs in all cases where the amount of LC/contract exceeds USD 30,000 (Thirty thousand)
+against proforma invoices issued directly by foreign suppliers and USD 40,000 (Forty thousand)
+against indents issued by local agents of the foreign suppliers. In respect of indents from local
+agents, ADs need to satisfy themselves that the respective agents are regular in repatriation of
+commission income through the information from importers. In case of own customers, ADs shall
+check their own records for satisfaction.
+(b) Head Offices/ Principal Offices of all ADs shall maintain a central database of collected
+reports and allow their ADs to use the relevant credit reports of the foreign suppliers stored in the
+said database. Such reports should be obtained by ADs themselves and the reports if submitted by
+the importers should not be accepted. ADs may also, at their discretion and in their own interest,
+verify the standing of the beneficiaries even in cases where the value of the credit is lower than
+the limits mentioned above. Credit report may remain valid for a period of maximum twelve
+months from the date of issuance if no adverse report comes to the notice of ADs. Moreover,
+credit report of the same supplier collected for one importer may be used for other importers
+within the same validity.
+(c) ADs shall obtain the credit report for a supplier during the period of its validity. In no way,
+ADs are allowed to remit more than one time as collection cost for the credit report. During the
+validity, ADs shall use the report for all their importers importing from the same supplier.
+Depending on its usability, ADs shall set reasonable service charges attributable to respective
+
+--- Page 11 ---
+importers. In addition, ADs shall accept credit report arranged by importers from other ADs. In
+this case, ADs need to receive the reports directly from other ADs concerned.
+22. Approved methods of payment
+LC may be established providing for payment to the country of origin of goods or any other
+country except those countries imports from which are prohibited. The LC may provide for
+payment or reimbursement in any freely convertible foreign currency including Chinese Yuan
+(CNY), in the currency of the country of the beneficiary or of the country of origin/shipment of
+goods, or by way of credit to the non resident Taka account of the concerned bank abroad.
+Payments for imports under barter agreements or under foreign loans/grants can be made only in the
+manner specified for the concerned barter/loan/grant.
+23. Applications for remittances against imports
+ADs may approve on behalf of Bangladesh Bank remittance against imports into Bangladesh
+provided the conditions set out in Part-A and elsewhere in this circular are complied with and
+provided also that the documents covering the import, whether under LC or otherwise, are
+received through ADs concerned. In case of import by post/courier, ADs may make remittance
+without prior approval of Bangladesh Bank only if the parcel is addressed directly to ADs. Where
+the parcel is addressed to an individual care of ADs/to the individual direct, prior approval of
+Bangladesh Bank should be applied for.
+24. Remittance of proceeds of dishonored bill
+An AD should not remit the proceeds of bills in cases where the name of the importer on the bill
+of exchange differs from the information available in Bangladesh Bank online reporting system.
+Where goods are imported under documentary collection (DP or DA) basis or even under LC and
+the original drawee dishonors the bill and the foreign shipper or his local agent finds another
+buyer for the goods, ADs may make the remittance with prior permission of Bangladesh Bank
+provided that the goods have been released from the Customs Authority evidenced by bill of
+entry.
+25. Remittance against discrepant documents/documents received directly by the importers
+(1) ADs may consider discrepant import bills, waived by importers under reasonable grounds
+acceptable to ADs, as eligible for payments provided that such waivers will not result in material
+changes as outlined in paragraph 31(3) of this circular.
+(2) ADs shall conduct due diligence before issuance of shipping guarantees/airway
+releases/delivery orders, for the release of respective goods, against 'copy documents' received
+directly by importers so that there creates no question to raise discrepancies on original
+documents.
+26. Remittance against goods imported under penalty
+An AD may not make remittance in payment of goods imported under penalty. All applications
+for remittances of foreign exchange covering such imports should be submitted to Bangladesh
+Bank for prior approval and should be accompanied by the attested copy of the Customs Bill of
+Entry for consumption in Bangladesh, the relative penalty order together with full particulars of
+relevant circumstances.
+27. Advance remittance against imports
+Advance remittance for permissible imports of goods and services into Bangladesh may be effected
+
+--- Page 12 ---
+by ADs without prior approval of Bangladesh Bank, against applications from the importers
+submitted with signed undertaking in the format of Appendix-4 provided that:
+(1) the purchase contract with supplier specifically requires advance payment;
+(2) the supplier furnishes repayment guarantee acceptable to ADs from a bank abroad, to be
+invoked for refund of the amount paid in advance in the event of the supplier's default in
+delivering the goods or services as per contract. Such guarantee need not however be insisted upon
+in cases of advance payments up to USD 10,000 for import of all permissible imports subject to
+compliance of the following instructions:
+(a) ADs shall have to be ensured that the applicant-importers do not have bill of entry/customs
+certified invoice pending for submission beyond the stipulated period of four months (or such
+extension as permitted by Bangladesh Bank) against any earlier remittance for imports;
+(b) ADs shall have to be satisfied that repayment guarantee is not obtainable from the suppliers
+against the remittances to be made in advance;
+(c) ADs shall, at their own responsibility, have to arrange for repatriation of the remittances made
+in advance in case the entry of goods into the country is not effected within the stipulated time;
+(d) The IPO in force shall have to be meticulously followed;
+(e) Before effecting the advance payment, ADs shall obtain Form of Undertaking (Appendix-4)
+duly filled in and signed by the importer.
+(3) Advance payments against permissible imports may also be executed directly by external
+financiers and/or offshore banking operations of scheduled banks, subject to repayment
+guarantees irrespective of amount acceptable to ADs received from banks abroad and compliance
+of other relevant instructions contained herein. In this context, ADs shall observe extended due
+diligence with regard to the transactions including KYC and AML/CFT standards. ADs shall also
+satisfy themselves regarding the enforceability of repayment guarantees.
+(4) Requests for advance remittance where the suppliers are unwilling or unable to furnish the
+repayment bank guarantee referred to at paragraph 27(2)(b) may be forwarded by ADs, along
+with their recommendations, for specific decision of Foreign Exchange Policy Department,
+Bangladesh Bank on merit of each case.
+(5) ADs shall report to Bangladesh Bank the cases where the goods/services against advance
+payments are not received in Bangladesh within due time.
+(6) In addition to usual reporting to Bangladesh Bank, ADs shall preserve (i) undertaking (as per
+Appendix-4) (ii) repayment bank guarantee provided by bank abroad (iii) credit report of the
+guarantee providing bank abroad for the inspection as and when required by Bangladesh Bank,
+Head Office mentioning the probable date of import of goods/services. However, advance
+payment for import from Exporters’ Retention Quota (ERQ) account may be done as per
+paragraph 77(4) of FE Circular 31, dated July 31, 2025.
+28. Application for remittance on IMP Form
+(1) IMP Form for private imports: All applications for payments against imports into
+Bangladesh (including imports from EPZs/PEPZs/EZs/HTPs) should be made on IMP Forms. The
+IMP Form must be submitted by the importer or his duly authorized representative. In cases
+where empowered to approve the remittances on behalf of Bangladesh Bank, ADs shall endorse
+its approval on the reverse of the IMP Form in the space provided for the purpose. In other cases,
+
+--- Page 13 ---
+ADs shall submit the IMP Form together with required supporting documents to Bangladesh Bank
+for approval.
+(2) IMP Form for Government imports: ADs should mark with a bold letter "G" on the IMP
+Form for remittance against an import in the name of a Government department or office for
+which LCs are opened by ADs.
+29. Submission of the authenticated copies of 'Bill of Entry' and 'Certified Invoices'
+(1) Time for submission from date of remittance: In all cases of remittances for imports into
+Bangladesh, the importer must submit within 4 months from the dates of remittances the
+relevant authenticated copy of the customs bill of entry. In case of import by post/courier, the
+importer must submit the invoice certified by the Customs Authority in lieu of the authenticated
+copy of the bill of entry. Where the value of an import by post/courier is less than GBP 5 or its
+equivalent in other foreign currency, the Customs Authority will issue a certificate instead of
+certifying the invoices. In such cases, the certificate may be submitted in place of the certified
+invoices.
+(2) Bill of entry against import on supplier’s credit (usance/DA) term: In case of import on
+supplier’s credit (usance/DA) term, the prescribed period of four month for submission of bill of
+entry will be calculated from the date of acceptance of import documents.
+(3) Bill of entry against import on buyer’s credit/external credit: In case of import under
+buyer’s credit/external credit, the period of submission of documentary evidence in support of
+imports i.e. bill of entry will be four months from the date of acceptance of import documents.
+30. Extension of time limit for submission of bill of entry etc.
+Applications for extension of the time limit beyond four months in cases of genuine difficulties,
+such as delay in the arrival of the ship or difficulties in clearing the goods already landed at a port
+in Bangladesh etc. shall have to be forwarded to Foreign Exchange Operation Department
+(FEOD), Bangladesh Bank, Head Office or other offices for consideration mentioning clearly the
+concerned IMP Form No. & LC/contract no. (as reported to the OIMS).
+31. Disposal of IMP Forms
+(1) To effect remittance against import, ADs shall endorse the approval on the reverse of the IMP
+Form in the space provided for the purpose. Immediately after import payment, ADs shall make
+report to the OIMS of Bangladesh Bank. Besides, import payment shall be reported in usual
+monthly returns to Bangladesh Bank without attachment of IMP Form. ADs shall continue to
+hold IMP Form until the customs certified bill of entry is received. During this stage of non-
+receipt of customs certified bill of entry, ADs shall, on demand, submit the IMP Form and full set
+of import documents to Bangladesh Bank.
+(2) When the authenticated copy of the bill of entry/customs certified invoice evidencing entry of
+goods into Bangladesh, is submitted by the importer, the particulars therein should be matched
+and checked with those in the IMP Form and invoice filed earlier to see if the merchandise for
+which remittance was made has been duly received in Bangladesh. ADs shall report the same to
+the OIMS after necessary verification. If no material discrepancy is detected, the case should be
+considered closed. Afterwards, ADs shall retain the IMP Form and relevant bill of entry with full
+set of import documents electronically with them for record and eventual inspection for a period
+of 5(five) years. However, in respect of cases which are under investigation by Bangladesh Bank
+inspection team/other Government agencies, the IMP Form and full set of import documents
+
+--- Page 14 ---
+10
+
+including bill of entry shall be disposed of only after obtaining clearance from the inspection
+team/Government agency concerned.
+(3) Cases with material discrepancy between the particulars of merchandise for which remittance
+was made and the merchandise actually received as evidenced by the authenticated copy of bill of
+entry/customs certified invoice, should be reported on monthly basis to FEOD, Head office or
+other offices of Bangladesh Bank, in proforma as given at Appendix-5 by 10th day of the
+following month. Importer who has failed to submit authenticated bill of entry or whose bill of
+entry is not available in Customs electronic system against any earlier remittance for import
+within the stipulated time (or within the extended period allowed by Bangladesh Bank) will be
+barred from opening new letter of credit without prior permission of Bangladesh Bank. It will
+equally be applicable for import against admissible advance payment and/or imports under sales
+contract without LCs. ADs shall also refrain themselves from amending LCs under which IMP
+reporting remains unmatched beyond 4 months from the date of payment.
+(4) To resolve the cases of unmatched overdue bill of entries (partial or full) due to non-
+receipt/short receipt of goods as per LC/Contract/IMP, importers may arrange to receive the
+unmatched amount in foreign currency (including associated bank charges) from the same foreign
+supplier through banking channel. Once the refund is received from foreign supplier abroad
+against non-shipment/short shipment of goods, etc., ADs shall report the same to the 'Online
+Inward Remittance Monitoring System'. Afterwards, ADs shall report to Bangladesh Bank
+(FEOD, Head Office, Dhaka to mail ID: feod.import@bb.org.bd) for recording the refund
+information against the concerned IMP number reported to the OIMS.
+(5) In case of usual bank charges deducted while on refund transactions, ADs shall report the
+refunded amount to the ‘Online Inward Remittance Monitoring System’.
+(6) Refund against payments made in advance:
+(a) Refund from legitimate sources irrespective of supplier may be acceptable provided that: (i)
+There is bonafide business relationship between the remitter(s) and the supplier(s) with whom the
+earlier contract/LC was established; (ii) Remitter(s) will have to be from FATF compliant
+countries; (iii) ADs shall satisfy themselves regarding the authenticity (with reference to
+LC/Contract/Invoice) of the transactions and adhere to KYC and AML/CFT guidelines.
+(b) ADs shall submit all such applications through Online Ticketing Module of OIMS under the
+Ticket Category titled ‘Refund of Import Payments’ for adjustment with respective IMP Forms. It
+is mandatory to mention the relevant LC ID, IMP number and Inward ID number while issuing
+such tickets.
+(7) In cases of failure of submission of bill of entry due to loss or damage of goods by accident, or
+for goods auctioned by the Customs Authority or confiscated by Government, ADs may, apply to
+Bangladesh Bank soliciting waiver of reporting of such cases as ‘non-submission’ in their
+periodic return to Bangladesh Bank with documentary evidences as per paragraph 33 below (as
+the case may be).
+32. Acceptance of electronic bill of entry
+ADs may accept bill of entry accessible to them through the customs automated system to dispose
+IMP Form on completion of matching formalities. In this context, ADs shall observe the
+following instructions:
+
+--- Page 15 ---
+11
+
+(1) ADs shall be satisfied with the release of imported goods and the settlement of payment on
+account of applicable duties and taxes against the relative import for which bill of entry has been
+generated;
+(2) ADs shall take a print-out from the system of concerned bill of entry and preserve it in the
+relative import files, up to the prescribed period, after authentication by their competent officials
+for record and eventual inspection.
+(3) The option as noted above shall be applicable only for import through custom houses having
+automated system for issuance of bill of entry.
+(4) The above authorization shall not waive ADs to obtain bill of enty from importers due to non-
+availability of the same in the customs automated system within/beyond the statutory period, and
+other regulatory purposes required by Bangladesh Bank or by other relevant Government
+agencies.
+33. Loss of goods
+In the event goods are completely lost, copy of the IMP Form should be forwarded to Bangladesh
+Bank giving full particulars of the loss and the manner in which the insurance claim has been
+collected. In the event of partial loss, the authenticated copy of the customs bill of entry for the
+goods actually cleared should be submitted giving full particulars of the loss and the manner in
+which the insurance claim has been collected.
+
+--- Page 16 ---
+12
+
+Part-C
+IMPORT UNDER CONTRACTS
+34. Imports under purchases/sales contracts without LCs
+(1) In accordance with the IPO in force and in compliance with the provisions of foreign
+exchange regulations, ADs may allow eligible importers to import admissible items through
+contracts on usance basis under supplier’s/buyer’s credit. The instructions to be followed for
+imports are outlined below:
+(a) Imports through the relevant purchases/sales contracts needs to be submitted to designated
+ADs for onward submission to Bangladesh Bank online reporting portal as per paragraph 5 of this
+circular;
+(b) The usance period shall not exceed the limit as prescribed at paragraph 35;
+(c) Before submission of import information in Bangladesh Bank online reporting platform,
+(i) ADs shall be satisfied about past performances of importers;
+(ii) ADs shall obtain credit report of foreign suppliers as per prevailing regulations;
+(iii) An undertaking needs to be collected from the respective importer to the effect that they have
+necessary financing arrangements/appropriate cash flows for settlement of import liabilities on
+maturity;
+(iv) ADs shall not facilitate imports through purchases/sales contracts in case of any earlier such
+import payment remaining unsettled beyond maturity.
+(2) Imports are also admissible under purchases/sales contracts for enterprises operating in
+specialized zones (EPZs, EZs, HTPs, and other zones declared by the Government). ADs should
+observe relevant instructions stated above against such imports by enterprise of specialized zones.
+(3) Short term external borrowing for imports of admissible goods is permitted within the cost
+ceiling as per paragraph 36 and declaration from time to time by Bangladesh Bank. Importers may
+arrange short term financing from external sources at such cost. The financing arrangement may
+include LCs/SBLCs/guarantee to suppliers by external lenders. Short term loans on account of
+import payments and financing costs may be effected as per underlying arrangements. General
+waiver from Section 13(1) of the FER Act, 1947 is hereby given to importers for issuance of
+guarantees (other than bank guarantee/standby LC) such as corporate guarantee, personal
+guarantee, third party guarantee, etc. favoring foreign lenders/suppliers against admissible
+imports.
+(4) Commercial imports without LCs within the prescribed limit of the IPO in force will be
+executable only on document against payment basis, unless otherwise permitted on usance basis.
+General permission is hereby given for usance facilities up to 60 days, exclusive of eligible
+facilities as outlined at paragraph 35(1) of this circular, against commercial imports of admissible
+goods without LCs within the provision of the IPO in force and subsequent notifications.
+
+(5) ADs shall maintain records of import through contracts with relevant information including
+dates of maturity and settlement. Based on the records, ADs will notify importers to settle the
+liabilities before maturity. As usual, ADs shall comply with relevant instructions of foreign
+exchange transactions including reporting routine and other applicable regulations.
+
+--- Page 17 ---
+13
+
+Part-D
+IMPORTS ON SUPPLIYER’S (DEFERRED)/BUYER’S CREDIT
+35. Import on supplier’s credit/deferred payment basis
+(1) Subject to compliance with other conditions laid down in this part and in the IPO in force,
+import is allowed on supplier’s credit/deferred payment/usance basis in the following cases:
+(a) Industrial raw material imports for own use of industrial importers (including back to back
+imports discussed in detail in the next section) on up to 180 days usance basis;
+(b) Import of coastal vessels including oil tankers and ocean going vessels including those
+procured for scrapping on up to 360 days usance basis;
+(c) Import of agricultural implements and chemical fertilizers on up to 180 days basis;
+
+(d) Import of life saving drugs (certified/declared as such by Drugs Administration Authority) and
+Ophthalmic Medical Equipment including Intraocular Lens on up to 180 days usance basis;
+
+(e) HR Coil, scrap, pig iron & sponge iron used for manufacturing of flat steel and long steel
+under steel industries for being used in own factories on up to 360 days usance basis;
+
+(f) Import of unprocessed yarn on up to 270 days for own use by industrial importers producing
+outputs for only local delivery against back to back LCs. This usance period is usable for imports
+within the limits of production capacity of the concerned factory as set by the Department of
+Textiles or up to delivery value realized in foreign currency in last twelve months, whichever is
+lower;
+
+(g) Import of Active Pharmaceutical Ingredients (API) and Laboratory Reagents on up to 360
+days, subject to imports of inputs duly approved by Directorate General of Drugs Administration
+Authority (DGDA);
+
+(h) Import of Heavy Furnace Oil (HFO)/ High Sulpher Fuel (HSFO) as raw materials for own use
+of Power Generating Enterprises by their nominated entities against specific approval from
+Ministry of Power, Energy and Mineral Resources on up to 360 days usance basis;
+
+(i) Import of empty LPG cylinder by industrial importers for own use on up to 360 days usance
+basis;
+
+(j) Import of raw material for Pre-fabricated Steel Structure industries for these industries only on
+up to 180 days usance basis.
+
+(2) ADs may allow their industrial importers to import capital machinery on usance term up to 3
+years under supplier’s/buyer’s credit. The usance tenure shall also be applicable to capital
+machinery imports by industrial enterprises operating in export processing zones/private export
+processing zones/ economic zones/hi-tech parks and other areas designated as specialized zones
+by the Government. However, usance period for import of spares will not be more than 360 days
+in all cases.
+36. Interest rate
+For such deferred payment imports, the prices must be internationally competitive and usance
+interest, if any, may bear all-in-cost ceiling per annum at mark-up of 4.00 percent over benchmark
+rate, e.g., SOFR, Euribor, etc. applicable to the relevant currency for short term trade finance in
+foreign exchange.
+37. Import on buyer’s credit
+Besides trade credit from suppliers, import of items stated above is allowed on buyer’s credit. The
+
+--- Page 18 ---
+14
+
+same interest level will be applicable also for buyer’s credits from foreign banks and financial
+institutions arranged through designated ADs of the importers in Bangladesh.
+38. Payment against usance bills through purchases
+ADs are free to purchase accepted usance/deferred import bills covering imports into Bangladesh
+and make payment before maturity to foreign suppliers in foreign currency or payment to a non-
+resident Taka account, whereas, they do not receive payment for the bills from the importer
+pending maturity and thus the transactions result in the extension of credit facilities to the
+importer in Bangladesh. ADs are free to discount/ purchase accepted usance/deferred bills against
+import from abroad on banker customer relationship and normal banking practices applying due
+diligence.
+39. Reporting on buyer’s credit
+Head Offices /Principal Offices of all AD banks are advised to upload related data on Enterprise
+Data Warehouse in usual manner as per the requirements of Statistics Department, Bangladesh
+Bank.
+40. Import on longer terms
+Instructions regarding opening of import LCs on longer usance terms against supplier's credits
+obtainable by industrial enterprises in the private sector as per general or specific BIDA or
+Bangladesh Bank’s approval, as the case may be.
+
+--- Page 19 ---
+15
+
+Part-E
+PAYMENT BEHAVIOR
+41. Payment of import liability
+ADs shall make payment of import liabilities as per their exposure/acceptance on due
+date/maturity. Failure in settlement of import liability may result in punitive actions including
+revocation of AD license by Bangladesh Bank.
+42. Payment behavior framework for timely import payments
+(1) ADs need to adhere strictly to their commitments with regard to import payments.
+Accordingly, ADs shall follow the payment behavior framework as outlined below:
+(a) Before issuing LCs, ADs shall ensure appropriate credit lines available for the respective
+importers;
+(b) Issuance of LCs on behalf of importers without underlying credit facilities is subject to
+adequate cashflows and prospective fund arrangements to cover import payments;
+(c) Usance import should be financed through buyer's credit by offshore banking operations, or by
+the own fund of ADs in terms of paragraph 38 of this circular.
+(2) ADs are reminded to the effect that failure to settle payments on time is subject to punitive
+actions, including personal accountability to the officials responsible for the transactions.
+43. Payment of overdue accepted bills (foreign or local)
+
+Non-payment of import bills on time tarnishes the image of the country's banking system and
+disrupts a conducive environment for foreign trade by increasing its cost. Considering these
+issues, banks shall take the following measures to ensure prompt payment of overdue accepted
+bills (foreign or local):
+(1) A comprehensive action plan shall be taken after detailed review of overdue accepted bills
+(foreign or local), including analysis based on factors like ongoing litigation, presence of
+realization clauses, and classification as large industrial enterprises.
+(2) Branch-wise performance should be evaluated during the review. Branches with a high
+volume of overdue unpaid accepted bills (foreign or local) shall be brought under special
+monitoring arrangements.
+(3) If any bill under litigation is not payable, the supplier’s bank shall be informed accordingly.
+
+(4) While submitting the monthly report on overdue accepted bills (foreign or local), data shall be
+verified through the OIMS before submission.
+44. Documents to head offices/principal offices
+All bills (foreign or local) submitted to AD branch, along with discrepancies and details of
+payments made, shall be preserved and sent monthly to the relevant department at the head
+office/principal office.
+45. Submission of statements
+Banks are required to submit the following statements to FEOD, Bangladesh Bank, Head office
+regarding overdue accepted bills through e-mail complying with the instructions mentioned in
+Appendix-10:
+(1) Monthly summary statement of overdue accepted bills (Appendix-6)
+(2) Monthly statement of overdue accepted bills -Local payables (Appendix-7)
+(3) Monthly statement of overdue accepted bills -Foreign payables (Appendix-8)
+(4) Monthly statement of overdue accepted bills -Local receivables (Appendix-9)
+(5) Monthly bank-wise summary statement of local overdue accepted bills (Appendix-10)
+
+--- Page 20 ---
+16
+
+Part-F
+REMITTANCE FOR SOFTWARE IMPORT THROUGH
+E-DELIVERY AND OTHER PAYMENTS
+46. Remittance against purchase of software through e-delivery
+ADs may effect remittance against purchase of software through e-Delivery subject to observance
+of the following instructions:
+(1) Customs assessment of the purchases: ADs may allow their customers to arrange customs
+assessment of the software after being satisfied from the certificate issued by Bangladesh
+Association of Software and Information Services (BASIS) to the effect that the purchase of
+software is genuine and sourced from reliable supplier.
+
+(2) Outward remittances: On receipt of customs assessment order and documentary evidence of
+payment of duties/taxes, ADs may effect payment against the purchase of the software subject to
+compliance of the following conditions:
+
+(a) ADs shall be satisfied with the certification/license issued by the supplier that the software has
+already been received by the purchaser;
+
+(b) ADs shall observe due diligence and comply with AML/CFT regulations in respect of the
+transactions;
+
+(c) ADs shall keep an authenticated copy of the certification/license issued by the supplier and
+report the transactions to the OIMS of Bangladesh Bank with IMP Form including monthly
+returns/schedules.
+
+(3) Application for remittance without the procedure mentioned above shall require prior approval
+of Bangladesh Bank.
+47. Payment in foreign currency against local supply of goods under international tender
+ADs may establish letter of credit in foreign currency favoring local contractor to implement work
+order under international tender. Such LCs established in foreign currency shall be settled through
+foreign currency clearing accounts of the concerned banks maintained with Bangladesh Bank.
+The facility is equally applicable for sub-contractors/agents/other local suppliers in terms of NBR
+explanation letter of November 13, 2022 (Appendix-11). Foreign exchange thus received may be
+retained up to thirty days to settle import payment obligations of the client as mentioned in
+paragraph 54 of this chapter.
+48. Payment of import bills from advance export proceeds retained in foreign currency
+accounts of ship builder-exporters
+General authorization has been given to ADs to open foreign currency accounts on behalf of ship
+builder-exporters for retaining export proceeds received in advance against ship exports. The
+balances of these accounts may be used for input procurements. ADs should comply with relevant
+instructions in operating the foreign currency accounts.
+
+--- Page 21 ---
+17
+
+Part-G
+BACK TO BACK LC
+49. General
+ADs may open back to back import LCs against export LCs received by export oriented
+industrial units operating under the bonded warehouse system, subject to observance of domestic
+value addition requirement (stated in terms of permissible limit of value of imported inputs as
+percentage of FOB export value of output) prescribed by the Ministry of Commerce from time to
+time.
+50. Opening of back to back import LC
+Further to the relevant general instructions in the foregoing parts of this circular, the following
+instructions should be complied with while opening back to back import LCs:
+(1) Only recognized export oriented industrial units operating under bonded warehouse system
+will be allowed the back to back LC facility. The unit requesting for this facility should possess
+valid registration with the CCI&E and valid bonded warehouse license.
+
+(2) The master export LC (against which opening of back to back LC is requested) should have
+validity period adequate to cover the time needed for importation of inputs, manufacture of
+merchandise and shipment to consignee.
+
+(3) The back to back LC value shall not exceed the admissible percentage of net FOB value of
+the relative master export LC (as per prescribed value addition requirement) and the price of
+goods to be imported must be competitive. For computation of net FOB value of a master export
+LC, the freight charge, insurance cost and commission if payable by the exporter shall be
+deducted from the LC value. If the freight element is not shown separately, a certificate from
+the shipping company or the shipping agent should be asked for.
+
+(4) The back to back import LCs shall be opened on usance basis for a period not exceeding 180
+days. Interest for the usance period shall not exceed the rate as prescribed at paragraph 36 of this
+circular. Back to back LCs opened against (a) Export Development Fund (EDF) administered by
+Bangladesh Bank and/or against (b) balances on Non-Resident Foreign Currency Deposit
+(NFCD) Accounts may be on sight basis subject to relevant instructions in this regard.
+
+(5) All amendments of the master export LC should be noted down carefully to rule out chances of
+excess obligation under the back to- back import LC.
+
+(6) Back to back import LC should not be opened against LCs received for export under
+Barter/STA, without prior approval of Bangladesh Bank.
+51. Inland back to back LCs
+(1) Inland back to back LCs denominated in foreign exchange may be opened in favor of local
+manufacturer-cum- suppliers of inputs, against master export LCs received by export oriented
+manufacturing units operating under the bonded warehouse system, up to value limits applicable
+as per prescribed value addition requirement/utilization permit. However, EXP/IMP Form will
+not be applicable in such cases unless EPZ/PEPZ/EZ/HTP unit is associated.
+(2) Back to back import LC against inland back to back LC: Back to back LC may in turn be
+opened for import of necessary inputs, against inland back to back LC in favor of a local
+manufacturer- cum- supplier operating under the bonded warehouse system, in accordance with the
+instructions, mutatis mutandis, at paragraphs 49 and 50 above.
+
+--- Page 22 ---
+18
+
+(3) Opening of LC in foreign currency by exporters operating without bond license: As per
+decision of the National Board of Revenue, a manufacturer-cum-exporter operating without
+bonded warehouse licence, may open usance LC and sight LC (against advance receipts of export
+proceeds) denominated in foreign exchange favouring packaging industries, manufacturers of
+hanger and plastic goods operating under bonded warehouse licence against all types of export
+contracts (sales contract, purchase order, proforma invoice, etc.) received from abroad.
+52. Opening LC in local currency
+Hundred percent export oriented industries/direct exporters shall open and settle inland LC in
+foreign currency favoring manufacturer-cum-suppliers in the above cases only. For procuring
+inputs from local traders/suppliers, LC shall be opened in local currency only.
+53. Payment against back to back LCs
+Payment in settlement of usance bill against the back to back LCs shall be made at maturity, out
+of proceeds of the relative export repatriated in foreign exchange; the required foreign exchange
+will be set aside, out of the export proceeds including payments realized in advance, in a separate
+foreign currency account in the subsidiary ledger of ADs. Before making remittance against the
+back to back import bill, ADs should see that the authenticated copy of bill of entry for bond in
+evidence of actual arrival of the relative imports has been submitted. Usance bills against back to
+back LCs should be settled at maturity even where for some reason export has not taken place, or
+where the export proceeds have not been realized or where the realized export proceeds net of
+value addition requirement is not adequate to cover the back to back import payment. In such
+cases post facto approval of Bangladesh Bank (FEOD, Head office or other offices of Bangladesh
+Bank) will have to be sought for within fifteen days of the following month of effecting the
+payment, explaining fully the circumstances of export failure or non-realization/ short realization
+of export proceeds, with relevant supporting documents. Cases of failure of export against the
+relative master LCs should also be reported to the NBR and the concerned Commissioner of
+Customs so that they may monitor closely the level of stock of the relative goods in the bonded
+warehouse. A copy of the letter to NBR reporting the export failure should be submitted to
+Bangladesh Bank along with the application for post facto approval of remittance towards back-
+to-back import payment. Also, all applications for post facto approval of such remittance in the
+event of export failure and short realization/non-realization of export proceeds should be
+accompanied by the authenticated copy of the relative bill of entry evidencing actual receipt of the
+back to back imports.
+54. Stock of inputs procured under back to back LC
+ADs should maintain effective watch on the stock of inputs procured under the back to back
+arrangement and of finished products made therewith; any indication of illegal disposal of stocks
+from the bond coming to the knowledge of ADs should immediately be reported to the concerned
+Commissioner of Customs and NBR.
+
+--- Page 23 ---
+19
+
+Part-H
+RETENTION OF EXPORT PROCEEDS FOR
+SETTLEMENT OF IMPORT PAYMENTS
+55. Retention of foreign currency in single pool for back to back import payments under bonded
+warehouse system
+(1) On encashment of export proceeds equivalent to the portion of value addition, residual portion
+of export proceeds against different export bills of the same export unit operating under bonded
+warehouse system may be maintained in foreign currency in a single pool by ADs. Such retention
+can be made out of advance payment. Funds from this pool may be used for different back to back
+import payments of the same exporting unit on maturity basis to keep minimum involvement of
+AD's own fund under the exchange position as well as to keep exporter free from debt burden.
+
+(2) ADs may, on applications from exporters, retain value added portion of export proceeds in
+foreign exchange for a maximum period of 30 days. The fund so retained will be used through
+same ADs for settlement of other import obligations payable by same exporters within this period.
+
+(3) ADs are allowed to transfer the unencumbered fund from the pool, not exceeding permissible
+portion eligible as Exporter’s Retention Quota entitlement, to other ADs for bonafide use by
+exporters and/or their sister concerns as per relevant instructions. As usual, ADs shall encash the
+unused fund, if any, compulsorily in Taka just after expiry of 30 days.
+56. Payment of import bills (other than back to back) from direct and deemed export earnings
+(1) If import bills (other than back to back LC) fall due for payment within 30 days from the date of
+receipt of export proceeds including payments realized in advance by the exporters/deemed
+exporters, ADs may, on application by the manufacturers-cum-exporters retain such proceeds in
+foreign exchange for a maximum period of 30 days for making such import payments even it
+exceeds the allowable retention quota limit. However, export proceeds so retained (in excess of
+the usual retention quota entitlement) shall be encashed compulsorily in Taka if the same is not
+utilized for such import payment within 30 days from the date of receipt. To identify such
+transactions distinctly, ADs are required to maintain appropriate register and other necessary
+records.
+
+(2) Unencumbered balances held in the pool shall, at the request of exporters within the stipulated
+time, be useable to meet import payments of exporters’ subsidiaries/sister concerns, subject to
+observance of the instructions applicable for fund transfer from ERQ accounts as per paragraph
+77(2), Part-J of FE Circular No. 31, dated July 31, 2025.
+57. Retention of discounted proceeds
+Discounted proceeds against export/local delivery bills may be retained in foreign currency for
+settlement of import liabilities as per paragraph 55 or paragraph 56 in accordance with the nature
+of liabilities.
+
+--- Page 24 ---
+20
+
+Part-I
+INLAND LC IN FOREIGN CURRENCIES –
+OPERATIONAL MODALITIES
+58. ADs are permitted to establish inland back to back LCs and other admissible LCs in foreign
+currencies in terms of this circular. Operations of inland LCs in foreign currencies are guided by
+UCP in force and other international standards, including regulatory instructions issued from time
+to time by Bangladesh Bank.
+
+59. Domestic trade in foreign currencies faces bottlenecks due to various clauses embedded in
+LCs. These clauses are often difficult to be met within the validity of LCs. Examples include
+requirements of delivery challans to be signed by top officials of LC applicants, acceptance of
+documents by applicants before these are submitted to beneficiaries’ ADs, etc. Domestic sellers
+frequently encounter financial difficulties due to prolonged processing time. Despite the
+significant volume of transactions, domestic trade activities, including financing by ADs, remain
+sluggish and lack vibrancy. Heading
+60. To bring ease in domestic trade, ADs are advised to establish operational modalities that can
+simplify domestic trade transactions in foreign currencies. In addition, ADs need to observe
+following instructions:
+
+(1) For LC issuing ADs:
+(a) ADs shall avoid to incorporate conditions in LCs which cannot be maintained during the
+validity of respective LCs.
+
+(b) In case of unusual conditions to be imposed by LC applicants, ADs shall examine if such
+items are available in purchases or sales contracts/proforma invoices.
+
+(c) On receipt of documents for payment/acceptance, ADs shall conduct usual formalities for
+examining them, and making payments or acceptance, whichever is required; in no way, they
+shall forward the same documents to LC applicants for examination and their acceptance.
+
+(2) For LC advising/nominated ADs:
+(a) ADs should examine clauses contained in respective LCs received from LC issuing banks and
+advise the same to beneficiaries.
+(b) On receipt of documents from beneficiaries, ADs shall examine the documents and forward
+the same for payment/collection to LC issuing ADs.
+No Heading
+61. Transactional framework for inland trade needs to be brought under electronic platform.
+Accordingly, ADs should introduce electronic options with regard to communication relating to
+LCs such as transmission, advising, presentation, acceptances and all subsequent communication
+under mutually agreed systems with counterparts. ADs shall have safe and secure electronic
+systems, duly approved by the Board of Directors (competent management team in case of
+foreign banks), compliant with the Guideline on ICT Security in force.
+
+62. ADs shall report the information including acceptances to Bangladesh Bank online reporting
+system in accordance with reporting routine, inter alia.
+
+--- Page 25 ---
+21
+
+Part-J
+IMPORT TRADE FOR SPECIALIZED ZONES
+63. Principles and Procedures
+Operations of import trade in specialized zones (EPZ/PEPZ/EZ/HTP) are guided by respective
+regulations. The following types of industrial enterprises operate in specialized zones:
+(1) Type A: 100 percent foreign owned including those owned by Bangladeshi nationals ordinarily
+resident abroad;
+(2) Type B: Joint venture projects between foreign and Bangladeshi entrepreneurs resident in
+Bangladesh;
+(3) Type C: 100 percent Bangladeshi entrepreneurs resident in Bangladesh.
+64. Imports by enterprises operating in specialized zones
+(1) IMP Form procedures will not be applicable for intra/inter zones transactions and import from
+Bangladesh (Non-zone area). These transactions are to be reported in relevant monthly schedules with
+reference to EXP forms issued at export-leg.
+
+(2) National Board of Revenue (NBR) vide its order no. 288/2017/Customs/529 dated December
+21, 2017 effects relevant amendment in the Customs (Economic Zones) Procedures, 2017 to
+waive export/import formalities (EXP/IMP) for transactions between enterprises operating in
+Domestic Processing Area (DPA) of EZs and in Tariff Area (TA) of Bangladesh. Accordingly,
+transactions by DPA enterprises in EZs irrespective of their ownership status are allowed to settle
+their liabilities for imports and other permissible expenses out of the fund held in their Taka
+accounts. Hence, the restrictions to use AD’s own fund for import settlement as mentioned in
+paragraph 65(1) will not be applicable for EZ enterprises operation in DPA.
+65. Imports on account of zone enterprises
+(1) Imports by Type A, B and C enterprises in specialized zones are permissible on usance basis
+under supplier’s/buyer’s credit. ADs shall bear in mind the position that the import payments may
+be made only out of the foreign exchange earnings of the concerned units or out of their
+borrowings abroad credited in their foreign currency accounts, and that no funds from AD's own
+foreign exchange resources can be used for this purpose. Before execution of inputs import under
+supplier’s/buyer’s credit, ADs should satisfy themselves completely about the clarity of the
+conditions in the export orders/LCs, the standing and credit of foreign buyers and the ability of the
+enterprises for timely execution of export orders.
+(2) Type C enterprises shall be allowed to obtain foreign exchange from ADs to settle obligations
+for importing capital machinery by the conversion of equivalent amount of equity and/or
+authorized loan received in local currency. Similarly, Type B enterprises may be allowed to
+convert their local equity/authorized loan received in local currency into foreign exchange to settle
+obligations for importing capital machinery if equity/authorized foreign loan received from abroad
+falls short to meet such obligations.
+66. Import payments matching with export proceeds
+Import payments against LCs should be scheduled in a manner that payment obligations do not
+fall due before receipt of export proceeds. In all cases of opening inputs import LCs on accounts
+of enterprises in respective zones, ADs should satisfy themselves that necessary arrangements
+have been made by the enterprises that in case of shortfall or delay in export receipts, foreign
+exchange would be made available from external sources.
+
+--- Page 26 ---
+22
+
+
+67. Retention of export proceeds for settlement of import liabilities
+(1) ADs may allow Type B and Type C industrial enterprises to retain their repatriated export
+proceeds in back to back settlement pool in foreign currency in line with the provisions as per
+paragraph 55 of this circular. Accordingly, Type B and C industrial enterprises may:
+(a) retain repatriated export proceeds in the settlement pool until back to back payments.
+(b) retain the value added portion in the same pool for up to 30 days for settlement of import
+liabilities or other admissible payments in foreign currency.
+(c) transfer unutilized funds to other ADs for settlement of import liability of exporters or their
+subsidiaries/sister concerns operating in specialized zones.
+(2) In case of fund remaining unused within 30 days, ADs may transfer the same, after
+encashment of at least 20 percent (25 percent for garments sector) of total repatriation, to foreign
+currency accounts of respective exporters.
+(3) Exporters executing export without back to back basis may retain repatriated export proceeds
+in foreign currency for 30 days and utilize the same in terms of paragraph 56 of this circular,
+including transfer to other ADs to meet import payments of exporters’ subsidiaries/sister concerns
+operating in specialized zones. Unused fund, if any, may be transferred to foreign currency
+accounts of respective exporters, on encashment of at least 20 percent (25 percent for readymade
+garments exports) of total repatriation.
+
+--- Page 27 ---
+23
+
+Part-K
+IMPORT OF GOLD, SILVER, JEWELLERY AND CURRENCY NOTES
+68. Definition of Gold and Silver
+Gold, as defined under Section 2 of the FER Act, 1947 includes gold in the form of coin whether
+legal tender or not or in the form of bullion or ingot whether refined or not. Silver, as defined
+under the same Section of the said Act includes silver bullion or ingot, silver sheets and plates
+which have undergone no process of manufacture subsequent to rolling and uncurrent silver coin
+which is not legal tender in Bangladesh or elsewhere.
+69. Import of gold and silver
+In terms of Notification No. 1(2) ECS/48 dated 1st July, 1948 issued pursuant to sub-section (1)
+of Section 8 of the FER Act, 1947 Government have prohibited, except with the general or special
+permission of Bangladesh Bank, the import into Bangladesh from any place outside Bangladesh
+of:
+(1) any gold coin, gold bullion, gold sheet or gold ingot whether refined or not, and
+
+(2) any silver bullion, silver sheet or plate which has undergone no process of manufacture
+subsequent to rolling or any uncurrent silver coin.
+
+70. Import of gold and silver into Bangladesh from any place outside is, therefore, subject to
+Bangladesh Bank's general or specific authorization. Bangladesh Bank accords approval, against
+applications, to authorized gold dealers in terms of the Gold Policy-2018 (amended)-2021.
+
+71. In terms of Notification No FE-1/16-BB, dated January 20, 2016 (Appendix-12), general
+permission has been accorded by Bangladesh Bank allowing an incoming passenger irrespective
+of their resident status to bring into Bangladesh gold or silver in bullion/ingot form up to the
+prescribed limit in terms of the relevant Baggage Rules in force issued under Customs Act, 2023.
+72. Definition of jewellery and precious stones
+The terms jewellery and precious stone are deemed to include all articles made wholly or mainly
+of gold, platinum, diamonds of all kinds, precious or semi-precious stones, pearls, whether or not
+mounted, set or strung and articles set or mounted with diamonds, precious or semi-precious
+stones or pearls.
+73. Import of jewellery and precious stones
+There are no restrictions under the FER Act, 1947 on the import of jewellery and precious stones.
+However, import of gold jewellery is to be executed by gold dealers authorized by Bangladesh
+Bank within the purview of the Gold Policy-2018 (amended)-2021.
+74. Import of securities
+There are no restrictions under the FER Act, 1947 on import of securities into Bangladesh.
+75. Import of foreign currency notes and coins
+(1) In terms of Bangladesh Bank Notification Nos. FE-1/09-BB dated 4th August, 2009
+(Appendix-13) and FE-01/2017-BB dated 15th October, 2017 (Appendix-14), any person may
+bring into Bangladesh from any place outside Bangladesh without any limit foreign currency
+notes or bank notes other than-
+(a) Un-issued notes and coins.
+(b) Notes legal tender in Bangladesh in excess of Taka 10,000 (Ten thousand) in value.
+
+--- Page 28 ---
+24
+
+Provided that the concerned person makes a written declaration to the Customs Authority ties at
+the time of arrival in form FMJ (Appendix-15) of the entire amount; no declaration will however,
+be necessary if the amount brought in does not exceed USD 10,000 (Ten thousand) or its
+equivalent in foreign currency and does not exceed Taka 10,000 (Ten thousand) in notes legal
+tender in Bangladesh. Each set of form FMJ consists of 3(three) copies - the original copy for
+Bangladesh Bank, the second copy for the Customs Authority and the third copy for the
+concerned passenger.
+(2) Sending into Bangladesh by post/courier or otherwise of any currency note, bank note or coin
+by any person from abroad without general or specific permission from Bangladesh Bank is
+prohibited.
+(3) Any traveller entering into Bangladesh may bring with him at every time Bangladesh currency
+notes/coins within the limit as prescribed hereunder:
+(a) Members of the crew of a ship or an aircraft or the staff of a railway may bring Bangladesh
+currency notes up to Taka 10,000 (Ten thousand) at any one time.
+(b) An incoming/outgoing passenger may bring in/take out up to Taka 10,000 (Ten thousand) in
+Bangladesh currency at the time of arrival into/departure from Bangladesh.
+(c) Every foreign national travelling on a foreign passport and persons travelling on Bangladesh
+passports will, while entering into Bangladesh by sea, air or land from any destination outside
+Bangladesh declares to the Customs Authority, on form FMJ to be completed in one set of Form
+containing three copies for all currencies if the amounts brought in exceed the limits mentioned at
+paragraph 1 above. Transit passengers, however, are not required to complete this form. The
+customs official will return to the declarant the copy of the form designated for the passenger duly
+authenticated. Authorized Money Changers and ADs need not ask for this form at the time of
+encashing the foreign currency and foreign currency instruments to Taka. Foreign nationals
+should however retain these declarations with themselves so as not to face difficulty in taking out
+unspent foreign exchange at the time of their departure from Bangladesh.
+(4) Bank booths operating in airports under licence with limited scope from Bangladesh Bank
+may take deposits from NRBs in foreign currency brought in by them for crediting their foreign
+currency accounts or Non-resident Taka accounts (by converting foreign currency at prevailing
+exchange rate) maintained with concerned AD bank branches. In case the foreign currency
+brought in by NRBs differs from account type (i.e., USD A/C, GBP A/C, etc.) of the account
+holders, bank booths shall convert the currency into relevant foreign currency at appropriate cross
+currency exchange rate to effect the deposits.
+An incoming person may retain foreign exchange up to USD 10,000 or equivalent brought in by
+himself/herself without declaration and take out the same at the time of departure from
+Bangladesh without endorsement in passport and air ticket. Such amounts may also be deposited
+in RFCD account by a resident Bangladeshi and in NFCD account/Private Foreign Currency
+Account by a non-resident Bangladeshi any time after arrival in Bangladesh.
+
+Amount in excess of USD 10,000 (Ten thousand), brought in by the resident Bangladeshis, should
+however be encashed or deposited in appropriate foreign currency account within 30(thirty) days
+of arrival. Such amounts brought in by non-resident Bangladeshis can be encashed or deposited in
+foreign currency account any time after return to Bangladesh. For a foreign national, the entire
+amount brought in with declaration on Form FMJ or up to USD 10,000 (Ten thousand) brought in
+
+--- Page 29 ---
+25
+
+without declaration may be taken out freely at the time of departure. Such amounts brought in by
+foreign nationals can be encashed or deposited in foreign currency account any time after their
+entry into Bangladesh.
+(5) ADs may supplement its holdings of foreign currency notes from abroad with approval from
+Bangladesh Bank.
+76. Purchase of foreign currency from digital wallets of incoming tourists/passengers
+(1) Incoming tourists/passengers can use their international cards brought in with them in Points
+of Sales (POS) for shopping. ATM booths facilitate them to draw cash in Taka by use of their
+cards. ADs execute the transactions in association with global card transaction settlement
+platforms with linkage arrangement to credit in nostro accounts by equivalent foreign currency
+against the payment in Taka. In addition to cards, payment through digital wallets as cashless
+medium are found growing worldwide.
+(2) To facilitate the transactions for incoming tourists/passengers bringing money through digital
+wallets, ADs may provide acquiring services to facilitate their transactions while visiting
+Bangladesh. With regards to arrangement of counterparties abroad for the settlement of payment
+against transactions to be captured from digital wallets, ADs shall observe the following
+instructions:
+(a) ADs shall have standing arrangements with internationally recognized digital wallet service
+providers/Online Payment Gateway Service Providers (OPGSPs) and/or aggregators having
+operation in multiple countries (hereinafter referred to as foreign payment service providers,
+PSPs)
+(b) Under the arrangement with foreign PSPs, ADs shall maintain foreign currency accounts or
+Taka accounts in terms of paragraph 1(i), chapter 13; paragraph 8(b), chapter 14 of GFET-2018,
+Vol-1; and subsequent circulars.
+(c) ADs shall realize payments by debit the accounts maintained as per (b) above and arrange
+transaction facilities to incoming tourists/passengers for which ADs shall have adequate
+technological supports.
+(d) Overdraft facilities will be allowed for the accounts so maintained in Bangladesh provided that
+ADs shall have payment guarantees, from banks acceptable to them, for the adequate amounts
+based on the transaction flows.
+(3) In accordance with the above arrangement, ADs shall purchase foreign currency from wallets
+of incoming tourists/passengers by (i) making payments in equivalent Taka in cash and/or (ii)
+issuance of one time prepaid cards in Taka during their stay in Bangladesh. In addition, ADs shall
+arrange local transactions through POS under merchant arrangements with concerned vendors.
+Reconversion facility in terms of paragraph 9, chapter 12 of GFET-2018 and subsequent circulars
+can be made through credit to the respective accounts of foreign PSPs so maintained.
+(4) ADs shall exercise due diligence in respect of the transactions with foreign PSPs and comply
+with the foreign exchange regulations, AML/CFT regulations and relevant laws/regulations in
+force. As usual, ADs shall observe reporting routine to Bangladesh Bank. In this context, debit to
+accounts maintained as per 2(b) above shall be treated as inward remittance on account of travel
+related receipts and vice versa.
+
+--- Page 30 ---
+26
+
+77. Bringing in jewellery by incoming passengers
+Bangladesh Bank has accorded general permission to all incoming adult female passengers to
+bring into Bangladesh any quantity of personal jewellery worn on their persons or as part of their
+personal baggages.
+78. Import for jewellery under export scheme
+(1) Export of gold jewellery and silver jewellery from Bangladesh may be effected by exporters
+registered with the office of the CCI&E as per normal EXP procedure. Back to back import LCs
+may be established by ADs for import of gold, silver and precious stones for manufacture and
+export of jewellery against export LCs received by registered jewellery exporters operating under
+the bonded warehouse system, subject to observance of the minimum domestic value addition
+requirement prescribed in the Jewellery Export Policy formulated by the Ministry of Commerce
+[10(ten) percent for gold jewellery, 15(fifteen) percent for stone-studded gold jewellery and
+25(twenty five) percent for silver jewellery]. Back to back imports may also be effected against
+firm export orders in cases where import costs are met out of advances received by the exporter
+from the foreign buyer, or where the import payment is settled abroad directly by the foreign
+buyer.
+
+(2) If the cost of imported inputs are prepaid abroad by the foreign buyer or met out of advances
+received from the foreign buyer, exporters shall be required to repatriate export proceeds to the
+extent of the local value addition only. In such cases, the total export value and the cost of
+imported inputs should be shown separately in the EXP form.
+
+--- Page 31 ---
+27
+
+Part-L
+DEPOSIT OF COUNTERPART FUND IN RESPECT OF IMPORTS UNDER
+NON-PROJECT COMMODITY LOANS/CREDITS/GRANTS
+79. Clean documents against LC Counterpart
+Funds against all clean documents except in cases of discrepant documents received on collection
+basis or negotiated by the foreign banks under reserve, shall be deposited by the designated bank
+in Bangladesh to Govt. Account No. IV A (or such other account of the Govt. of Bangladesh as
+prescribed in respect of the relative loan/credit/aid) maintained with Bangladesh Bank within
+three working days from the date of receipt of documents; the said period shall be deemed to be
+inclusive of the date of receipt of documents and the date of deposit of counterpart funds to
+Bangladesh Bank.
+80. Documents against LC received on collection basis/negotiated under reserve due to
+discrepancy
+In cases where due to discrepancy, the negotiating bank abroad sends the documents on collection
+basis or under reserve or otherwise the bank should forthwith arrange acceptance of the
+documents by the importers and deposit counterpart funds within 5(five) days from the date of
+receipt of the documents. In case of non- acceptance, the bank should return the documents to the
+negotiating bank or dispose of the documents in accordance with the instructions of the
+negotiating bank abroad.
+81. Documents received direct by the ERD or designated banks without opening of LC
+Under some loans, credits and grants, LCs are not opened by the utilizing agencies; instead goods
+are procured and shipped by the loan giving agencies themselves or by their nominated agencies.
+After shipment of such goods the documents are mailed either to the Economic Relations Division
+(ERD) of the Ministry of Finance or to the designated banks, as the case may be, for retirement of
+documents and clearance of consignment from the Customs Authority. On receipt of these
+documents, the bank should forthwith arrange with the relevant agency to pay the proceeds of the
+bills within a period of 7(seven) days for deposit to Bangladesh Bank. The agency should be
+warned that it would be required to pay interest at penal rate in the event of delay in the deposit of
+the funds within the stipulated period of 7(seven) days; cases of default should be brought to the
+notice of Bangladesh Bank promptly.
+(1) Documents against LCs opened by designated banks on application through the banks of the
+importers: In case of LC opened by the designated bank against application through the importer's
+bank, the latter must retire the documents not later than 24(twenty four) hours from the time of
+receipt thereof from the designated bank. If payment is not made within this time limit, the
+designated bank will be entitled to recover from the importer's bank any penal interest the former
+may have to pay to Bangladesh Bank.
+
+(2) In case, however, the documents are not found in accordance with the terms of the LC, the
+importer's bank should within 5(five) days from the date of receipt, either retire the documents or
+send back the same to the designated bank. Any delay on this score will forfeit their right to raise
+objection on the ground of discrepancies.
+
+(3) In all the above cases, the designated bank must send the documents to the importer's bank
+within 24(twenty four) hours of receipt. For any delay at the designated bank's end, the penal
+interest relating to the period of delay made by them will have to be borne by them.
+
+--- Page 32 ---
+28
+
+(4) The designated bank will deposit Taka funds to Bangladesh Bank within the time limit as in
+the foregoing paragraphs. In all cases of delay it will be the responsibility solely of the designated
+bank to deposit the Taka funds to Bangladesh Bank at the earliest along with interest at prescribed
+rate.
+82. Application of rate of exchange
+(1) Counterpart funds under foreign commodity loans, credits and grants where forward contract
+has been booked will be required to be deposited at the rate at which the relevant contract has
+been booked.
+
+(2) Counterpart funds under foreign commodity credit agreements with barter component where
+no forward contract can be booked, are required to be deposited at the BC selling rate prevailing
+on the date of opening of LC.
+
+(3) Unless specified otherwise, in all other cases deposit of counterpart funds will be made at the
+BC selling rate ruling on the date of lodgment of the bill as applicable to cash import without
+forward cover facilities.
+83. Penal interest
+(1) An AD who has either opened an LC as designated bank or forwarded it to the appropriate
+designated bank should be in all preparedness to follow the schedule for deposit of counterpart
+funds as mentioned in the foregoing paragraphs. In case of delay in making the deposit within the
+prescribed period, the funds should be deposited to Bangladesh Bank along with penal interest
+computed on the following basis:
+(a) 5(five) percent above the bank rate-for the first seven days beyond the prescribed period.
+
+(b) 6(six) percent above the bank rate-for the subsequent period after the expiry of first seven days
+beyond the prescribed period.
+
+(2) (a) All designated banks under foreign commodity loans, credits and grants will send, by the
+15th of the following month, a monthly statement of all LCs opened (Loan/Credit/Grant wise) as
+per proforma in Appendix-16 to the office of Bangladesh Bank with which counterpart funds will
+be deposited.
+
+(b) Submission of particulars of LCs opened and discrepant bills: In case any bill is received by
+any designated bank/importer's bank on collection basis due to discrepancy in the bills or
+otherwise, from the negotiating bank abroad/loan giving agency/ERD, notice of retirement should
+be served upon the importer concerned within 24 hours of receipt of such documents, for
+retirement of the bills against payment within the prescribed time limit, under advice to the office
+of Bangladesh Bank with which counterpart funds will be deposited, as per proforma in
+Appendix-17.
+
+(3) At the time of deposit of counterpart funds designated banks will furnish to Bangladesh Bank
+a statement as per Appendix-18.
+
+(4) Instructions contained in the above paragraphs shall also be applicable in respect of documents
+received at places where there is no office of Bangladesh Bank.
+
+(5) LCs opened by the designated banks for imports under loans, credits and grants should not
+provide for payment on deferred basis.
+
+--- Page 33 ---
+See Paragraph 8
+
+
+
+
+
+
+
+Appendix 1
+
+IMP Form
+Primary Import Information
+
+--- Page 34 ---
+See Paragraph 8
+
+
+
+Page-2
+
+
+
+Appendix 1
+
+
+
+I/We certify that the above import is covered by a valid Proforma Invoice/ Sales Contract/LC.
+
+--- Page 35 ---
+See Paragraph 8
+
+
+
+Page-3
+
+
+
+Appendix 1
+
+--- Page 36 ---
+See Paragraph 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX 2
+
+
+List of Bangladesh Bank's
+
+Offices and Their Jurisdictions
+
+--- Page 37 ---
+See Paragraph 9
+
+
+
+
+
+Appendix 2
+
+FOREIGN EXCHANGE POLICY DEPARTMENT,
+BANGLADESH BANK, HEAD OFFICE, DHAKA
+
+Dhaka
+
+Narayanganj
+
+Munshiganj
+
+Narsingdi
+
+Gazipur
+
+Manikganj
+
+Mymensingh
+
+Netrokona
+Kishoreganj
+
+Tangail
+
+Jamalpur
+
+Sherpur
+
+Faridpur
+
+Rajbari
+
+Brahmanbaria
+
+
+BANGLADESH BANK, CHATTOGRAM
+
+
+Chattogram
+
+Coxsbazar
+
+Bandarban
+
+Rangamati
+
+Khagrachhari
+
+Noakhali
+
+Feni
+
+Laxmipur
+
+Cumilla
+
+Chandpur
+
+BANGLADESH BANK, KHULNA
+
+Khulna
+Satkhira
+
+Bagerhat
+
+Jashore
+
+Jhenaidah
+
+Magura
+Narail
+
+Gopalganj
+
+--- Page 38 ---
+See Paragraph 9
+
+
+
+
+
+Appendix 2
+
+BANGLADESH BANK, BARISHAL
+
+Barishal
+
+Jhalakathi
+
+Barguna
+
+Patuakhali
+
+Pirojpur
+
+Bhola
+
+Shariatpur
+
+Madaripur
+
+BANGLADESH BANK, SYLHET
+
+Sylhet
+
+Sunamganj
+
+Habiganj
+Moulvibazar
+
+BANGLADESH BANK, RAJSHAHI
+
+Rajshahi
+
+Natore
+
+Chapainawabganj
+
+Pabna
+
+Kushtia
+
+Meherpur
+
+Chuadanga
+
+BANGLADESH BANK, BOGURA
+
+Bogura.
+
+Joypurhat
+
+Gaibandha
+
+Sirajganj
+
+Naogaon
+
+BANGLADESH BANK, RANGPUR
+
+Rangpur
+
+Nilphamari
+
+Lalmonirhat
+
+Kurigram
+
+Dinajpur
+
+Panchagarh
+
+Thakurgaon
+
+--- Page 39 ---
+See
+Paragraph 15
+Appendix
+
+
+
+
+FORM OF CERTIFICATE TO BE ISSUED BY THE AUTHORISED DEALER IN CASE OF
+IMPORT ON FOB BASIS/SIMILAR OTHER PERMISSIBLE ARRANGEMENTS WHERE
+TRANSPORTATION CHARGES ARE TO BE PAID IN BANGLADESH TAKA /OTHER
+CURRENCY.
+
+
+
+
+
+CERTIFICATE
+
+
+Certified that the amount of freight/transportation charges payable in..............................
+(currency
+name with amount) Eqv. BDT..................
+(Amount) as indicated in the Bill of Lading/ Airway
+Bill No........................... dated
+the
+............................................. corresponding House Bill of
+Lading No/House Airway Bill No....................................
+dated the ............................
+in respect of
+imported by Messrs
+from..............................................................
+per s.s
+has been duly endorsed by us
+under our stamp and signature.
+Signature of the bank official
+Name of the bank official
+Designation
+P.A No.
+Contact Phone No.
+Name of the AD
+Stamp of the AD
+
+
+Date : .............................................
+
+--- Page 40 ---
+See Paragraph 27
+Appendix 4
+BANGLADESH BANK
+
+FOREIGN EXCHANGE POLICY DEPARTMENT
+
+
+FORM OF UNDERTAKING
+
+
+(To be furnished by the importer for making advance remittances for permissible imports of goods and services).
+
+
+In
+consideration
+of
+Bangladesh
+Bank
+permitting
+me/us
+an
+advance
+remittance
+of
+......................................... to............................................................ I/we hereby undertake that the amount
+so remitted by me/us will be used solely for the purpose of payment for the goods/services described
+below to be imported into Bangladesh from ....................................in accordance with the regulations in
+force regarding such imports. I/We declare that the goods/services will be imported by me/us on or
+about....................................... and I/we undertake to produce to the Bangladesh Bank documentary
+evidence in respect of goods/services so imported including the authenticated copy of the Customs Bill of
+Entry for goods and supplier's invoice in original. I/We further declare that the amount paid by me/us in
+advance will be deducted from the invoice value of the goods (CFR)/services imported and that the
+deduction will be shown on the invoice.
+
+I/We do undertake to be held fully responsible under FER Act, 1947 if I/We fail to produce to the
+Bangladesh Bank documentary evidence in respect of service or the Exchange Control Copy of the
+Customs Bill of Entry in respect of goods in original within the stipulated time or bring back the remitted
+foreign currency into Bangladesh as the case may be.
+
+Name and address
+Invoice Value
+Description
+Country of
+Particulars of
+of the supplier
+origin
+L.C. Authorisa-
+tion Form
+Goods
+Services Goods
+Services Goods
+Services Goods
+Services
+
+Signature and Stamp of the Importer
+
+Name of the Importer
+
+
+Address
+
+
+Registration Number with CCI & E
+
+
+
+Date
+Signature and Stamp of the
+Authorised Dealer
+
+--- Page 41 ---
+See
+Paragraph 31 (3)
+
+Appendix
+
+
+(Name of the Bank)
+
+STATEMENT OF CASES WITH MATERIAL DISCREPANCIES BETWEEN PARTICULARS IN IMPORT DOCUMENTS
+
+AND IN THE AUTHENTICATED COPY OF BILL OF ENTRY/CUSTOMS CERTIFIED INVOICE AS AT THE
+MONTH ENDED ON. .......................................
+SL No.
+Branch
+Name
+IMP Form NO.
+Importer
+name with
+full
+address
+Importer IRC No.
+Item of Import
+LC
+no.
+Date
+Invoice Value
+Amount Remitted
+Bill of Entry
+(If Received)
+Over
+due
+Valu
+Source of Foreign
+Exchange( cash/
+loan/grant etc.)
+Month of
+return
+schedule in
+which the
+transaction
+reportted to
+BB
+Wheter
+taken up
+with the
+Importer
+(pl.
+quote
+letter
+no.)
+Explaination if any
+submitted by importer
+Reason for overdue
+Remarks (if any)
+AD
+Code
+Serial
+No.
+Year
+HS
+Code
+Name
+Name of
+Currency
+Amount
+(Eqv.
+US$)
+Name of
+Currency
+Amount
+(Eqv.
+US$)
+Date
+Name of
+Currency
+Amount
+(Eqv.
+US$)
+Amo
+unt
+(Eqv.
+US$)
+10
+11
+12
+13
+14
+15
+16
+17
+18
+=(14-
+17)
+19
+20
+21
+22
+23
+24
+To
+tal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We certify that all outstanding cases of material discrepancies in the import documents including those pending from the previous periods have been
+listed in the above statement.
+Name of the Official
+Name of the Official
+Designation
+Designation
+Contact No.
+Contact No.
+
+--- Page 42 ---
+See Paragraph 45(1) Appendix
+
+
+
+
+
+
+
+MONTHLY SUMMARY STATEMENT OF OVERDUE ACCEPTED BILLS
+
+FOR THE MONTH OF .............................................
+
+
+Bank Name ........................................................................................................................................
+
+
+
+
+Sl
+Nature of bills
+Number of bills
+Bill value in
+Remarks
+equivalent USD
+Local Payables
+(excluding court case)
+Unpaid Local Bills due to
+court case
+Total Local Payables
+(1+2)
+Foreign Payables
+(excluding court case)
+Unpaid Foreign Bills
+due to court case
+Total Foreign Payables
+(4+5)
+Local Receivables
+(excluding court case)
+Local Bills not received
+due to court case
+
+Total Local Receivables
+(7+8)
+
+
+
+Name of Authorised Personnel : ........................
+
+
+
+Name of Authorised Personnel : ........................
+
+Designation : ......................................................
+
+Designation : ......................................................
+
+Contact Number : ...............................................
+
+Contact Number : ...............................................
+
+--- Page 43 ---
+See Paragraph 45(2)
+Appendix 7
+
+
+
+
+MONTHLY STATEMENT OF OVERDUE ACCEPTED BILLS (LOCAL PAYABLES)
+
+FOR THE MONTH OF............................................................
+
+Bank Name :
+
+Sl
+No.
+Name of
+the LC
+Issuing
+Branch
+LC/
+Contract
+Number
+Quoted
+Currency
+LC/
+Contract
+Value (in
+quoted
+currency)
+LC/Contract
+Date
+(dd/mm/yy)
+Name of the
+LC Advising
+Bank &
+Branch
+Bill No.
+Quoted
+Currency
+Bill
+Value
+(in quoted
+Currency)
+Date of Bill
+(dd/mm/yy)
+Date of
+Acceptance
+(dd/mm/yy)
+Date of
+Maturity
+(dd/mm/yy)
+Delay
+Days
+Name of
+the
+Importer
+Name of
+the
+Exporter
+Reason
+for
+Overdue
+Comments
+(if any)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total In Quoted Currency X =
+
+Total In Quoted Currency Y =
+
+Grand Total (in equivalent USD) =
+
+
+
+Name of Authorised Personnel : ..............................................
+
+
+
+Name of Authorised Personnel : ..............................................
+
+Designation : ..............................................................................
+
+Designation : ..............................................................................
+
+Contact Number : ......................................................................
+
+Contact Number : ......................................................................
+
+--- Page 44 ---
+See Paragraph 45(3)
+Appendix 8
+
+
+
+MONTHLY STATEMENT OF OVERDUE ACCEPTED BILLS (FOREIGN PAYABLES)
+
+FOR THE MONTH OF............................................................
+
+Bank Name :
+
+Sl
+No.
+Name of
+the LC
+Issuing
+Branch
+LC/
+Contract
+Number
+Quoted
+Currency
+LC/
+Contract
+Value (in
+quoted
+currency)
+LC/Contract
+Date
+(dd/mm/yy)
+Name of the
+LC Advising
+Bank &
+Branch
+Bill No.
+Quoted
+Currency
+Bill
+Value
+(in quoted
+Currency)
+Date of Bill
+(dd/mm/yy)
+Date of
+Acceptance
+(dd/mm/yy)
+Date of
+Maturity
+(dd/mm/yy)
+Delay
+Days
+Name of
+the
+Importer
+Name of
+the
+Exporter
+Reason
+for
+Overdue
+Comments
+(if any)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total In Quoted Currency X =
+
+Total In Quoted Currency Y =
+
+Grand Total (in equivalent USD) =
+
+
+
+Name of Authorised Personnel : ..............................................
+
+
+
+Name of Authorised Personnel : ..............................................
+
+Designation : ..............................................................................
+
+Designation : ..............................................................................
+
+Contact Number : ......................................................................
+
+Contact Number : ......................................................................
+
+--- Page 45 ---
+See Paragraph 45(4)
+Appendix 9
+
+
+
+MONTHLY STATEMENT OF OVERDUE ACCEPTED BILLS (LOCAL RECEIVABLES)
+
+FOR THE MONTH OF............................................................
+
+Bank Name :
+
+Sl
+No.
+Name of
+the LC
+Issuing
+Branch
+LC/
+Contract
+Number
+Quoted
+Currency
+LC/
+Contract
+Value (in
+quoted
+currency)
+LC/Contract
+Date
+(dd/mm/yy)
+Name of the
+LC Advising
+Bank &
+Branch
+Bill No.
+Quoted
+Currency
+Bill
+Value
+(in quoted
+Currency)
+Date of Bill
+(dd/mm/yy)
+Date of
+Acceptance
+(dd/mm/yy)
+Date of
+Maturity
+(dd/mm/yy)
+Delay
+Days
+Name of
+the
+Importer
+Name of
+the
+Exporter
+Reason
+for
+Overdue
+Comments
+(if any)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total In Quoted Currency X =
+
+Total In Quoted Currency Y =
+
+Grand Total (in equivalent USD) =
+
+
+
+Name of Authorised Personnel : ..............................................
+
+
+
+Name of Authorised Personnel : ..............................................
+
+Designation : ..............................................................................
+
+Designation : ..............................................................................
+
+Contact Number : ......................................................................
+
+Contact Number : ......................................................................
+
+--- Page 46 ---
+See Paragraph 45(5)
+Appendix
+10
+Page-01
+
+
+
+
+
+
+MONTHLY BANK-WISE SUMMARY STATEMENT OF LOCAL OVERDUE
+
+ACCEPTED BILLS FOR THE MONTH OF ............................................................
+
+
+
+
+
+Bank Name : ......................................................................................................................................
+
+
+
+
+Sl No.
+
+
+
+
+
+Name of the Banks
+
+Total
+
+
+
+
+
+Local Bills Payable Local Bills Receivable
+
+Number Value(equv. USD) Number Value(equv. USD)
+
+
+
+
+
+
+
+
+
+
+Name of Authorised Personnel :
+Name of Authorised Personnel :
+
+Designation : .................................
+Designation : ..................................
+
+Contact Number :..........................
+Contact Number : ...........................
+
+--- Page 47 ---
+See Paragraph 47
+
+
+
+
+
+Appendix 11
+
+--- Page 48 ---
+Appendix 11
+See Paragraph 47
+
+--- Page 49 ---
+Appendix 11
+See Paragraph 47
+
+--- Page 50 ---
+See Paragraph 71 Appendix 12
+
+BANGLADESH BANK
+
+
+NOTIFICATION N0. FE-1/16-BB
+DATED JANUARY 20, 2016
+(MAGH 07, 1422)
+
+
+
+IMPORT OF GOLD
+
+
+In exercise of the powers conferred by Section 8(1) of the Foreign Exchange Regulation Act,
+1947 (VII of 1947) read with the erstwhile Central Government Notification No. l(2)-ECS/48
+dated July 01, 1948, and in supersession of Bangladesh Bank's Notification No. FE-l/96-BB
+dated January 14, 1996, Bangladesh Bank has decided that incoming passengers irrespective of
+their resident status may bring into Bangladesh gold or silver in bullion/ingot form up to the
+prescribed limit in terms of relevant Baggage Rules in force issued under the Customs Act, 1969.
+
+
+(Nazneen Sultana)
+Deputy Governor
+
+--- Page 51 ---
+See Paragraph 75 (1) Appendix 13
+
+--- Page 52 ---
+See Paragraph 75(1)
+
+
+
+
+Appendix 14
+
+--- Page 53 ---
+See Paragraph 75(1)(b)
+
+
+
+
+
+
+Appendix 15
+
+--- Page 54 ---
+See | Paragraph 75 (1)(b) Page-2 Appendix [15]
+
+Information for Declarant
+(ঘোষণ কারী র জন্য জ্ঞাতব্য)
+
+1. An incoming/outgoing passenger may bring in/take out upto Taka 10,000(Ten thousand) in
+
+Bangladesh currency at the time of arrival into/departure from Bangladesh.
+
+
+বাংলাদেশে আগমন/বাংলাদেশ হইতে বহির্গমনকালে কোন ব্যক্তি বাংলাদেশী মুদ্রা অনধিক ১০,০০০(দশ হাজার) টাকা
+
+আনিতে/লইয়া যাইতে পারিবেন |
+
+2. Any amount of foreign currency may be brought in by an incoming passenger with
+declaration to the customs authorities in Form FMJ. No declaration, however, is necessary
+for amounts brought in upto US$ 10,000(Ten thousand) or equivalent. For a foreigner, the
+entire amount brought in with declaration or upto US$ 10,000(Ten thousand) brought in
+without declaration may be taken out freely at the time of departure. Upto US$ 10,000(Ten
+thousand) brought in without declaration by a Bangladeshi may also be retained and taken
+out freely while proceeding abroad. Amount in excess of US$ 10,000(Ten thousand) brought
+in by the resident Bangladeshis, should, however, be encashed or deposited in appropriate
+foreign currency account within 30 (thirty) days of arrival. Such amounts brought in by non-
+resident Bangladeshis can be encashed or deposited in foreign currency account any time
+
+after return to Bangladesh.
+
+
+CH কর্তৃপক্ষের নিকট এফএমজে ফরমে ঘোষণা প্রদান করিয়া যে কোন পরিমাণ বৈদেশিক মুদ্রা বাংলাদেশে আগমনকালে সঙ্গে
+আনা যাইতে পারে । তবে আনীত বৈদেশিক মুদ্রার পরিমাণ অনধিক মাঃডঃ ১০০০০(দেশ হাজার) বা সমতুল্য হইলে শুল্ক
+
+কর্তৃপক্ষের নিকট ঘোষণা প্রদান আবশ্যক হইবে AT | বিদেশীগণের ক্ষেত্রে ঘোষণা প্রদান করিয়া আনীত সমুদয় বৈদেশিক মুদ্রা
+এবং ঘোষণা প্রদান ব্যতিরেকে আনীত অনধিক মাঃডঃ ১০০০০(দশ হাজার) বাংলাদেশ ত্যাগকালে অবাধে প্রত্যাবাসনযোগ্য
+হইবে। ঘোষণা প্রদান ব্যতিরেকে আনীত অনধিক মাঃডঃ ১০০০০(দশ হাজার) বাংলাদেশী নাগরিকগণের ক্ষেত্রেও সঙ্গে
+রক্ষণযোগ্য এবং বাংলাদেশ হইতে বর্হিগমনকালে সঙ্গে বহনযোগ্য হইবে; এতদৃতিরিক্ত যে কোন অংক নিবাসী বাংলাদেশীদের
+ক্ষেত্রে বাংলাদেশে আগমনের ৩০ (ত্রিশ) দিনের মধ্যে টাকায় ভাঙ্গাইতে/প্রযোজ্য ধরণের বৈদেশিক মুদ্বা হিসাবে জমা করিতে
+হইবে | অনিবাসী বাংলাদেশী কর্তৃক আনীত এইরূপ অংক বাংলাদেশে ফেরত আসিবার পর যে কোন সময় টাকায় ভাঙ্গাইতে
+পারিবেন অথবা বৈদেশিক মুদ্রা হিসাবে জমা করিতে পারিবেন |
+
+3. Encashment of foreign exchange brought in should be done with licenced Money Changers/
+Authorised Dealer bank branches.
+
+সঙ্গে আনীত বৈদেশিক মুদ্রা টাকায় নগদায়ন লাইসেন প্রাপ্ত মানিচেঞ্জার/অনুমোদিত ডিলার ব্যাংক শাখার মাধ্যমে সম্পাদন
+করিতে হইবে |
+
+eo
+
+4. An incoming/outgoing adult female passenger may bring in/take out any quantity of
+
+personal jewellery worn on her person or as part of her accompanying personal baggage.
+
+81 বাংলাদেশে আগমন/বাংলাদেশ হইতে বহির্ণমনকালে কোন প্রাপ্ত বয়স্কা মহিলা যাত্রী স্বীয় পরিধানে অথবা ব্যক্তিগত ব্যাগেজের
+অংশরূপে যে কোন পরিমাণ ব্যক্তিগত অলংকারাদি সঙ্গে আনিতে/লইয়া যাইতে পারিবেন |
+
+--- Page 55 ---
+See Paragraph 75 (1)(b)
+
+
+
+
+
+
+Appendix 15
+
+--- Page 56 ---
+See} Paragraph 75 (1) 0) Page-2 Appendix lis |
+
+Information for Declarant
+(ঘোষণ কারী র জন্য জ্ঞাতব্য)
+
+1. An incoming/outgoing passenger may bring in/take out upto Taka 10,000(Ten thousand) in
+
+Bangladesh currency at the time of arrival into/departure from Bangladesh.
+
+
+বাংলাদেশে আগমন/বাংলাদেশ হইতে বহির্গমনকালে কোন ব্যক্তি বাংলাদেশী মুদ্রা অনধিক ১০,০০০(দশ হাজার) টাকা
+
+আনিতে/লইয়া যাইতে পারিবেন |
+
+5. Any amount of foreign currency may be brought in by an incoming passenger with
+declaration to the customs authorities in Form FMJ. No declaration, however, is necessary
+for amounts brought in upto US$ 10,000(Ten thousand) or equivalent. For a foreigner, the
+entire amount brought in with declaration or upto US$ 10,000(Ten thousand) brought in
+without declaration may be taken out freely at the time of departure. Upto US$ 10,000(Ten
+thousand) brought in without declaration by a Bangladeshi may also be retained and taken
+out freely while proceeding abroad. Amount in excess of US$ 10,000(Ten thousand) brought
+in by the resident Bangladeshis, should, however, be encashed or deposited in appropriate
+foreign currency account within 30 (thirty) days of arrival. Such amounts brought in by non-
+resident Bangladeshis can be encashed or deposited in foreign currency account any time
+
+after return to Bangladesh.
+
+
+CH কর্তৃপক্ষের নিকট এফএমজে ফরমে ঘোষণা প্রদান করিয়া যে কোন পরিমাণ বৈদেশিক মুদ্রা বাংলাদেশে আগমনকালে সঙ্গে
+আনা যাইতে পারে । তবে আনীত বৈদেশিক মুদ্রার পরিমাণ অনধিক মাঃডঃ ১০০০০(দশ হাজার) বা সমতুল্য হইলে শুল্ক
+
+কর্তৃপক্ষের নিকট ঘোষণা প্রদান আবশ্যক হইবে AT | বিদেশীগণের ক্ষেত্রে ঘোষণা প্রদান করিয়া আনীত সমুদয় বৈদেশিক মুদ্রা
+
+এবং ঘোষণা প্রদান ব্যতিরেকে আনীত অনধিক Tes ১০০০০(দশ হাজার) বাংলাদেশ ত্যাগকালে অবাধে প্রত্যাবাসনযোগ্য
+হইবে । ঘোষণা প্রদান ব্যতিরেকে আনীত অনধিক মাঃডঃ ১০০০০(দশ হাজার) বাংলাদেশী নাগরিকগণের ক্ষেত্রেও সঙ্গে
+রক্ষণযোগ্য এবং বাংলাদেশ হইতে বর্হিগমনকালে সঙ্গে বহনযোগ্য হইবে; এতদৃতিরিক্ত যে কোন অংক নিবাসী বাংলাদেশীদের
+ক্ষেত্রে বাংলাদেশে আগমনের ৩০ (ত্রিশ) দিনের মধ্যে টাকায় ভাঙ্গাইতে/প্রযোজ্য ধরণের বৈদেশিক মুদ্বা হিসাবে জমা করিতে
+হইবে | অনিবাসী বাংলাদেশী কর্তৃক আনীত এইরূপ অংক বাংলাদেশে ফেরত আসিবার পর যে কোন সময় টাকায় ভাঙ্গাইতে
+
+পারিবেন অথবা বৈদেশিক মুদ্রা হিসাবে জমা করিতে পারিবেন |
+6. Encashment of foreign exchange brought in should be done with licenced Money Changers/
+Authorised Dealer bank branches.
+সঙ্গে আনীত বৈদেশিক মুদ্রা টাকায় নগদায়ন লাইসেন্স প্রাপ্ত মানিচেঞ্জার/অনুমোদিত ডিলার ব্যাংক শাখার মাধ্যমে সম্পাদন
+করিতে হইবে |
+
+eo
+
+7. An incoming/outgoing adult female passenger may bring in/take out any quantity of
+
+personal jewellery worn on her person or as part of her accompanying personal baggage.
+
+81 বাংলাদেশে আগমন/বাংলাদেশ হইতে বহির্ণমনকালে কোন প্রাপ্ত বয়স্কা মহিলা যাত্রী স্বীয় পরিধানে অথবা ব্যক্তিগত ব্যাগেজের
+অংশরূপে যে কোন পরিমাণ ব্যক্তিগত অলংকারাদি সঙ্গে আনিতে/লইয়া যাইতে পারিবেন |
+
+--- Page 57 ---
+See Paragraph 75 (1)(b)
+
+
+
+
+
+
+Appendix 15
+
+--- Page 58 ---
+১6০] Paragraph 75 (1)(b) Page-2 Appendix | a5 |
+
+Information for Declarant
+(ঘোষণ কারী র জন্য জ্ঞাতব্য)
+
+1. An incoming/outgoing passenger may bring in/take out upto Taka 10,000(Ten thousand) in
+
+Bangladesh currency at the time of arrival into/departure from Bangladesh.
+
+
+বাংলাদেশে আগমন/বাংলাদেশ হইতে বহির্গমনকালে কোন ব্যক্তি বাংলাদেশী মুদ্রা অনধিক ১০,০০০(দশ হাজার) টাকা
+
+আনিতে/লইয়া যাইতে পারিবেন |
+
+8. Any amount of foreign currency may be brought in by an incoming passenger with
+declaration to the customs authorities in Form FMJ. No declaration, however, is necessary
+for amounts brought in upto US$ 10,000(Ten thousand) or equivalent. For a foreigner, the
+entire amount brought in with declaration or upto US$ 10,000(Ten thousand) brought in
+without declaration may be taken out freely at the time of departure. Upto US$ 10,000(Ten
+thousand) brought in without declaration by a Bangladeshi may also be retained and taken
+out freely while proceeding abroad. Amount in excess of US$ 10,000(Ten thousand) brought
+in by the resident Bangladeshis, should, however, be encashed or deposited in appropriate
+foreign currency account within 30 (thirty) days of arrival. Such amounts brought in by non-
+resident Bangladeshis can be encashed or deposited in foreign currency account any time
+
+after return to Bangladesh.
+
+
+CH কর্তৃপক্ষের নিকট এফএমজে ফরমে ঘোষণা প্রদান করিয়া যে কোন পরিমাণ বৈদেশিক মুদ্রা বাংলাদেশে আগমনকালে সঙ্গে
+আনা যাইতে পারে। তবে আনীত বৈদেশিক মুদ্রার পরিমাণ অনধিক মাঃডঃ ১০০০০(দশ হাজার) বা সমতুল্য হইলে শুল্ক
+
+কর্তৃপক্ষের নিকট ঘোষণা প্রদান আবশ্যক হইবে AT | বিদেশীগণের ক্ষেত্রে ঘোষণা প্রদান করিয়া আনীত সমুদয় বৈদেশিক মুদ্রা
+এবং ঘোষণা প্রদান ব্যতিরেকে আনীত অনধিক Tews ১০০০০(দশ হাজার) বাংলাদেশ ত্যাগকালে অবাধে প্রত্যাবাসনযোগ্য
+হইবে | ঘোষণা প্রদান ব্যতিরেকে আনীত অনধিক মাঃডঃ ১০০০০ দেশ হাজার) বাংলাদেশী নাগরিকগণের ক্ষেত্রেও সঙ্গে
+
+রক্ষণযোগ্য এবং বাংলাদেশ হইতে বহিগমনকালে সঙ্গে বহনযোগ্য হইবে; এতদৃতিরিক্ত যে কোন অংক নিবাসী বাংলাদেশীদের
+ক্ষেত্রে বাংলাদেশে আগমনের ৩০ (ত্রিশ) দিনের মধ্যে টাকায় ভাঙ্গাইতে/প্রযোজ্য ধরণের বৈদেশিক মুদ্রা হিসাবে জমা করিতে
+হইবে | অনিবাসী বাংলাদেশী কর্তৃক আনীত এইরূপ অংক বাংলাদেশে ফেরত আসিবার পর যে কোন সময় টাকায় ভাঙ্গাইতে
+পারিবেন অথবা বৈদেশিক মুদ্রা হিসাবে জমা করিতে পারিবেন |
+
+9. Encashment of foreign exchange brought in should be done with licenced Money Changers/
+Authorised Dealer bank branches.
+
+eo
+
+সঙ্গে আনীত বৈদেশিক মুদ্রা টাকায় নগদায়ন লাইসেন্স প্রাপ্ত মানিচেঞ্জার/অনুমোদিত ডিলার ব্যাংক শাখার মাধ্যমে সম্পাদন
+করিতে হইবে |
+10. An incoming/outgoing adult female passenger may bring in/take out any quantity of
+
+personal jewellery worn on her person or as part of her accompanying personal baggage.
+
+৪। বাংলাদেশে আগমন/বাংলাদেশ হইতে বহির্গমনকালে কোন প্রাপ্ত বয়স্কা মহিলা যাত্রী স্বীয় পরিধানে অথবা ব্যক্তিগত ব্যাগেজের
+অংশরূপে যে কোন পরিমাণ ব্যক্তিগত অলংকারাদি সঙ্গে আনিতে/লইয়া যাইতে পারিবেন।
+
+--- Page 59 ---
+See Paragraph 83(2)(a)
+Appendix 16
+
+--- Page 60 ---
+See Paragraph 83(2)(b)
+Appendix 17
+
+--- Page 61 ---
+See Paragraph 83(3)
+Appendix 18

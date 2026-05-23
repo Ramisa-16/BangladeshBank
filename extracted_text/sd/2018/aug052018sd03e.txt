@@ -1,0 +1,45 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+Statistics Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+S.D. Circular No. 03
+
+Date:
+August 05, 2018
+
+Shrabon 21, 1425
+Managing Director/Chief Executive Officer/Country Director
+All scheduled banks & financial institutions functioning in Bangladesh
+
+
+Dear Sir,
+
+Submission of the statement of rate of interest on Deposits and Advances through RITs
+
+
+Please refer to our master circular no.-06/2014, dated 21 December, 2014 (Para-11) and a letter
+no. D.S.B.S-4(50)/2012-(821-851) by which the Statistics Department of Bangladesh Bank
+instructed all the Scheduled Banks and Financial Institutions respectively to submit the
+statement of rate of interest on Deposits and Advances through uploading the related RIT
+available in the BB's website by the 15th of the following month to which the data relates. On
+the basis of the data Statistics Department computes a very significant financial indicator namely
+Spread which is used to consider and justify the weighted average rate of interest to be
+ascertained on Deposits and Advances and it also be used in preparing country's monetary
+policy. Presently, on an urgent basis the spread data are to be prepared and send to the higher
+authority (Governor's Secretariat Office) and to it's users by the 12th of the following month. So,
+you are advised to upload the related RITs (T_ME_M_DEPO_DRI and T_ME_M_LNA_RATES)
+and send it through Bangladesh Bank's web portal by the 10th of the following month as thus we
+can meet the demand of our higher authority and other users. This instruction would be effective
+from August, 2018. It is to be mentioned here that the RITs (T_ME_M_DEPO_DRI and
+T_ME_M_LNA_RATES) related to these returns can be downloaded directly from Bangladesh Bank
+website.
+Yours faithfully,
+
+
+
+(Nabadwip Chandra Biswas)
+Deputy General Manager
+Phone: 9530345

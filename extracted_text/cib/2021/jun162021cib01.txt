@@ -1,0 +1,90 @@
+--- Page 1 ---
+ে¹িডটiনফরেমশন বুয্েরা
+বাংলােদশ Ȇাংক
+Ìধান কাযর্ালয়
+ঢাকা।
+Website: www.bb.org.bd
+
+
+
+
+
+
+িসআiিব সাকুর্লার নং- 2/3132
+
+
+
+
+
+
+তািরখঃ------------------
+
+
+
+
+
+
+
+
+
+
+
+3 আষাঢ় 2539
+ȆবƎাপনা পিরচালক/Ìধান িনবর্াহী কমর্কতর্া
+বাংলােদেশ কাযর্রত সকল তফিসিল Ȇাংক o আিথর্ক Ìিতſান
+Ìধান কাযর্ালয়, ঢাকা।
+
+িসআiিব aনলাiন িসেƊেমর iনকয়ারী মিডuেল নতুন সংেযাজন Ìসেû।
+
+িÌয় মেহাদয়,
+
+িসআiিব aনলাiন িসেƊেমর েসবা সমূহ িনরবিĂłভােব চালু রাখার সব্ােথর্ eর Online Inquiry Module‐e নতুন
+িকছু পিরবতর্ন সংেযািজত হেয়েছ যা 27/17/3132 হেত চালু করা হেব। eমতাবƎায়, আপনােদর CIB Report Download
+সং¹াĺ কােজর সােথ সংিশ্লষ্ট Ȇবহারকারী গণ েক িনেřাä িনেদর্শনা েমাতােবক aনলাiেন িরেপাটর্ সং»হ করার জȄ পরামশর্
+Ìদান করা হলঃ
+2) CIB Online System eর Inquiry Module e “All Loan” o “Only Living Loan” নামক দুিট পৃথক
+aপশন সংযুä করা হেয়েছ। Inquiry button e click করারপূেবর্ Ìেয়াজন aনুযায়ী option বাছাi করেত হেব।
+3) “All Loan” aপশন হেত ডাuনেলাডকৃত িসআiিব িরেপােটর্ eকজন গর্াহেকর Living loan, Terminated
+loan (Terminate হoয়ার পর 7 ছয় বছর পযর্ĺ) eবং সকল Requested Loan (Request করার পর 13 (দুi)
+বছর পযর্ন্ত)eর সংিশ্লষ্ট তথয্ সমুহ aন্তভুর্ক্ত থাকেব।
+4) “Only Living Loan” aপশন হেত ডাuনেলাডকৃত িসআiিব িরেপােটর্ শুধুমাÇ Living Loano সকল
+Requested Loan(Request করার পর 12(eক) মাস পযর্ন্ত) eর তথয্সমূহ aন্তভুর্ক্ত থাকেব।“All Loan” o “Only
+Living Loan” aপশন হেত ডাuনেলাডকৃত িসআiিব িরেপােটর্র contract সমূেহর েকর্িডট িহি̘ 23 মাস eবং 35
+মাস দুiিট aপশেনi Download করার বয্বস্থা থাকেব।
+5) CIB Online Systemeর Inquiry Modulee “Only PDF Report”নামক eকিট aপশন সংযুক্ত করা
+হেয়েছ। e aপশনিটর মাধয্েম CIB িরেপাটর্ Ȇবহারকারীর িপিসেত সরাসির Download হেয় যােব।
+6) সরাসির Download করার েìেÇ Ȇবহারকারীগন িনেজেদর িপিসর browser-eর popup blocker
+configuration‐e allow করেত হেব (Sample Browser Configuration সংযুä করা হল) e িবষেয়
+Ìেয়াজেন Ìিশìণ Ìদান করা হেব।
+7) CIB online inquiry Module eর Type of financing “drop down box”e Installment aংেশ
+House Building eবং Non‐Installment aংেশ Short‐Term Agriculture নােম দুিট loan type
+সংেযািজত হেয়েছ যা সংিশ্লষ্ট তািলকায় Ìদিশর্ত হেব।
+
+27 জুন 3132
+aঃপৃঃÉঃ
+
+--- Page 2 ---
+8) CIB িরেপােটর্ বতর্মােন Ìদিশর্ত Loan Classification Status ‘UC’eর পিরবেতর্ ‘STDʼ Ìদিশর্ত হেব।
+9) CIB Online System Ȇবহারকারীগণ eর Password minimum length 22 িডিজট করা হেয়েছ যা চালু
+হoয়ার পর হেত Ìেতয্ক Ȇবহারকারীর জȄ Ìেযাজয্ হেব। eেìেÇ Password পিরবতর্ন করার সময় Ìেতয্ক
+Ȇবহারকারীেক নূয্নতম 22 িডিজেটর Character combination Ȇবহার করেত হেব। Password reset eর
+েìেÇo িসআiিব হেত সরবরাহকৃত default password 22 িডিজট সŜł হেব।
+৯) ICT security standard compliance Recommendation aনুযায়ী পরপর িতন বার ভুল Password
+েদয়া হেল UserID block করার ȆবƎা করা হেয়েছ যা iেতাপূেবর্ পাঁচবার ভুল করার েìেÇ Ìেযাজয্ িছল।
+21) CIB Report Download করার জনয্ সংিশ্লষ্ট iuজারেদর িপিসেত uচ্চ bandwidth সম্পন্ন Internet
+সরবরাহকরার জনয্ পরামশর্ ɛদান করা হল। েìÇ িবেশেষ Ȇাংক o আিথর্ক Ìিতſানসমূহেক Firewall, router o
+antivirus reconfiguration করেত হেত পাের।
+
+
+
+uপেরাä পিরবতর্ন সমূহ চালু হoয়ার পর CIB Report Donwload করার েক্ষেɖ সমসয্া েদখা িদেল িসআiিব হেত
+Ìেয়াজনীয় সহায়তা Ìদান করা হেব।
+
+
+
+
+আপনার িবশব্ƍ
+
+(েমাঃ আিনছুর রহমান )
+মহাȆবƎাপক
+েফানঃ ৯641244

@@ -1,0 +1,168 @@
+--- Page 1 ---
+Website: www.bb.org.bd
+
+
+
+Banking Regulation and Policy Department
+Bangladesh Bank
+Head Office
+Dhaka
+March 31, 2014
+BRPD Circular No- 07 Date: ----------------------
+Chaitra 16, 1420
+
+Chief Executives
+All Scheduled Banks in Bangladesh
+
+
+Dear Sir,
+
+
+Implementation of Basel-III in Bangladesh
+
+As you are aware, Basel III is a new regulatory framework recommended by Basel
+Committee. Following the framework, Bangladesh Bank has conducted Quantitative Impact
+Study (QIS) to assess the preparedness of banks for implementing Basel III in Bangladesh.
+Based on the findings of the last QIS an Action Plan/Roadmap (Annexure-1) is finalized with the
+approval of the competent authority. The Action Plan/Roadmap is enclosed herewith for your
+internal plan and gearing up the efforts for implementing Basel III.
+
+Please acknowledge receipt.
+
+
+Yours Sincerely,
+
+SD/-
+
+(Md. Nasiruzzaman)
+General Manager
+Phone: 9530252
+Encl:-As stated above
+
+--- Page 2 ---
+Annexure-1
+
+Action Plan/Roadmap
+
+
+Action
+Deadline
+Issuance of Guidelines
+June 2014
+Capacity Building of Banks
+June-Dec 2014
+Commencement of Basel III Implementation process
+July 2014
+Initiation of Full Implementation of Basel III
+January 2019
+
+Phase-in Arrangements
+The phase-in arrangements for Basel III implementation will be as follows:
+July 2014
+2015
+2016
+2017
+2018
+2019
+Minimum Common
+Equity Tier-1 (CET-1)
+Capital Ratio
+4.00%
+4.50%
+4.50%
+4.50%
+4.50%
+4.50%
+Capital Conservation
+Buffer
+0.625%
+1.25%
+1.875%
+2.50%
+Minimum CET-1 plus
+Capital Conservation
+Buffer
+4.00%
+4. 5%
+5.125%
+5.75%
+6.375%
+7.00%
+Minimum T-1 Capital
+Ratio
+5.00%
+5.50%
+5.50%
+6.00%
+6.00%
+6.00%
+Minimum Total
+Capital Ratio
+10.00%
+10.00%
+10.00%
+10.00%
+10.00%
+10.00%
+Minimum Total
+Capital plus Capital
+Conservation Buffer
+10.00%
+10.00%
+10.625%
+11.25%
+11.875% 12.50%
+Phase-in of deductions
+from CET1
+Not Applicable
+Phase-in of deductions from Tier 2 Revaluation Reserve (RR)
+RR for Fixed
+Assets
+20%
+40%
+60%
+80%
+100%
+100%
+RR
+for
+Securities
+20%
+40%
+60%
+80%
+100%
+100%
+RR for Equity
+Securities
+50%
+100%
+100%
+100%
+100%
+Leverage Ratio
+Readjustment Migration to Pillar 1
+Liquidity Coverage
+Ratio
+June 2014
+to June
+2015 on
+test basis
+≥100%
+(From Sep.)
+≥100%
+≥100%
+≥100%
+≥100%
+Net Stable Funding
+Ratio
+> 100%
+(From Sep.)
+>100%
+>100%
+>100%
+>100%
+Countercyclical
+Capital Buffer
+Countercyclical capital buffer regime
+will be effective from Jan 2016

@@ -1,0 +1,76 @@
+--- Page 1 ---
+website: www.bangladesh-bank.org
+www.bangladeshbank.org.bd
+Department of Financial Institutions and Markets
+Bangladesh Bank
+Head Office
+Dhaka.
+DFIM Circular No.02
+
+
+
+
+Date:
+
+
+
+
+
+
+
+
+
+
+Chief Executives/Managing Directors
+All Financial Institutions in Bangladesh
+Dear Sir,
+Revision of Guidelines on Stress Testing for Non-Banking Financial Institutions
+Please refer to DFIM Circular No.06, dated-12 July 2012 by which “Guidelines on Stress Testing for
+NBFIs” was issued to ensure the soundness and sustainability of the financial industry and make the
+NBFIs more shock resilient.
+NBFIs have been undergoing Stress Testing exercise since 2010 and conducting it on quarterly basis.
+Department of Financial Institutions and Markets of Bangladesh Bank monitors the resilience of the
+NBFIs under different shock levels of the defined exceptional but plausible shocks.
+To make the existing “Guidelines on Stress Testing for NBFIs” more effective and up-to-date, the
+guidelines have been revised as follows:
+1. Increase in NPLs due to default of top large borrowers:
+The standard scenarios of shock levels will remain the same i.e. default of top 3 (as minor shock), top 5
+(as moderate shock) and top 10 (as major shock). But instead of assuming 100% of the loans/leases
+disbursed to top borrowers as defaulted (as shocks), only 80% of those loans/leases will be assumed as
+defaulted in different shocks.
+2. To consider Govt. Guarantees and Hypothecation including Collateral Agreement as eligible
+securities:
+Government Guarantees and Hypothecation including collateral agreement of Financial Institutions
+operating loans/leases activities to specialized sectors (renewable energy, solar power plant etc.) will be
+considered as eligible securities in case to case basis.
+3. Weighted Insolvency Ratio (WIR) ratings shall be amended as follows:
+Existing Scenario Total
+Revised Scenario Total
+Rating
+Zone
+WIR<10%
+WIR<15%
+Green
+10%≤WIR<20%
+15%≤WIR<25%
+Yellow
+20%≤WIR<40%
+25%≤WIR<45%
+40%≤WIR<60%
+45%≤WIR<60%
+Red
+WIR≥60%
+WIR≥60%
+Existing “Guidelines on Stress Testing for NBFIs” will be changed as per the revision above and other
+instructions of the guidelines will remain unchanged. Excel based Reporting Format is available on the
+website of Bangladesh Bank for all concerned.
+This Circular shall come into force with immediate effect.
+
+Yours sincerely,
+
+(Md. Shah Alam)
+General Manager
+Phone: 9530178
+
+06 Magh 1422
+19 January 2016

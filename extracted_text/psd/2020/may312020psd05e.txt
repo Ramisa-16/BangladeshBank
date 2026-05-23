@@ -1,0 +1,300 @@
+--- Page 1 ---
+www.bb.org.bd
+
+Payment Systems Department
+Bangladesh Bank
+Head Office
+Dhaka
+
+PSD Circular—05/2020 Date : May 31, 2020
+
+Managing Director/CEO,
+Proposed White Label ATM and Merchant Acquirer and
+All Scheduled Banks in Bangladesh
+
+Dear Sir,
+
+Guidelines for White Label ATM and Merchant Acquiring Services.
+
+In order to spread ATM (Automated Teller Machine) and POS (Point of Sales) services in the rural part of
+the country, Bangladesh Bank (BB) has decided to allow non-bank private sector entities for setting up necessary
+infrastructure in the country as per attached ‘Guidelines for White Label ATM and Merchant Acquiring Services’ for
+providing services to the customers’ of Banks, MFSs, PSPs and any other institution as approved by BB.
+
+Such service will fall under the PSO (Payment System Operator) jurisdiction and intended firms (including a
+PSO license holder for other services) will require to obtain separate license from BB in extending such services and
+will need to follow all existing and upcoming policies, guidelines and standards relating to these services.
+
+These ‘Guidelines for White Label ATM and Merchant Acquiring Services’ are issued herewith in exercise of
+the power conferred under section 7A (e) of the Bangladesh Bank Order 1972.
+
+This is of immediate effect.
+
+( Md. Mezbaul Haque )
+
+General Manager
+Phone: 9530174
+
+Email: mezbaul.haque@bb.org.bd
+
+Enclosure: Guidelines for White Label ATM and Merchant Acquiring Services.
+
+--- Page 2 ---
+Guidelines
+
+
+
+
+for
+
+
+White Label ATM and
+
+Merchant Acquiring Services
+
+
+
+
+
+
+
+
+
+Payment Systems Department
+
+
+Bangladesh Bank
+
+
+
+
+May 2020
+
+--- Page 3 ---
+Page 1 of 6
+TABLE OF CONTENTS
+
+
+1.0 Introduction: ........................................................................................................ 2
+2.0 Mandate : ............................................................................................................ 2
+3.0 Purpose :...............................................................................................................2
+4.0 Scope: ................................................................................................................. 2
+5.0 Allowable Services: ............................................................................................ 3
+6.0 Parties Involved : ............................................................................................... 3
+7.0 Eligibility Criteria : ............................................................................................. 4
+8.0 Operational Aspects : ......................................................................................... 4
+9.0 Miscellaneous : .................................................................................................. 5
+
+--- Page 4 ---
+Page 2 of 6
+1.0 Introduction :
+
+The Bangladesh Bank (BB) is mandated by clause 7(A)(e) of the Bangladesh Bank Order 1972 to
+make country’s payment and settlement system an effective and efficient one. As a part of the
+mandate, the BB has been endeavoring to establish infrastructural facilities and providing policy
+measures so that market participants can come up with proper technology and business model to
+spread appropriate payment services in the country. Bangladesh Bank generally follows the bank-
+led model in most of its initiatives. However, current business model and the participants involved
+in bank-led model were not particularly appropriate to achieve wide scale geographical spread of
+ATM and POS services specifically to the rural areas.
+
+Hence, to spread ATM services in the unreached peripheries as well as to include new merchants
+into the electronic payments network, involvement of non-bank entities is the need of time. These
+new entities will deploy, own and operate ATMs and/or acquire merchants to serve the customers
+of schedule banks/MFSs/PSPs. These private sector non-bank operators will be termed as White
+Label ATM and/or Merchant Acquirer (WLAMA). The WLAMA needs to establish connectivity
+with the existing domestic and international ATM/POS Networks and earn its revenue from the
+issuing entities (such as Banks/MFSs/PSPs) and acquiring bank for using their ATMs and POSs
+respectively.
+
+2.0 Mandate :
+
+Bangladesh Bank is issuing these Guidelines for WLAMA in exercise of the power conferred in
+Article 7A (e) of the Bangladesh Bank Order, 1972 and Section 49 (1) (O) of the Bank
+Companies Act, 1991.
+
+3.0 Purpose :
+
+The purpose of these Guidelines is to:
+
+provide a regulatory framework for the interested non-bank entities to deploy, own and
+operate interoperable White Label ATMs and/or merchant acquiring services in
+Bangladesh.
+II.
+spread the reach of banking and retail payment services at an affordable cost throughout
+Bangladesh, especially in the rural areas.
+4.0 Scope:
+
+These guidelines shall apply for the issuance of license to the interested non-bank entities for
+establishing White Label ATMs and to perform both the in-store and e-commerce merchant
+acquisition services. These services would be offered to the customers of domestic and
+international Banks, MFSs and/or PSPs.
+
+--- Page 5 ---
+Page 3 of 6
+5.0 Allowable Services :
+
+White-label ATM and POS deployed under these guidelines will not display a label/name of a
+bank rather may contain (brand) name of particular WLAMA, Permissible activities under White
+label ATM and POSs are :
+
+a) ATM Cash Withdrawal
+b) ATM Funds Transfer
+c) ATM Mini Statement
+d) ATM Balance Inquiry
+e) ATM Bill Payment
+f) POS/QR Retail Purchase
+g) POS/QR Bill Payment
+h) Other services as permissible by Bangladesh Bank.
+
+6.0 Parties Involved :
+
+a) White Label ATM and/or Merchant Acquirer (WLAMA): A Non-Bank entity licensed
+by the Bangladesh Bank as a Payment System Operator (PSO) to deploy, own and operate
+white label ATM and offer in-store merchant acquiring services such as POS/QR
+payments. Besides, they may provide e-commerce merchant acquiring facilities as well. A
+WLAMA may choose to offer both ATM and merchant acquisition services or any one of
+those services.
+
+b) Settlement Bank: Act as the acquiring bank in favor of WLAMA and assume the roles
+and responsibilities of an acquiring bank including settlement of transaction and disputes.
+
+
+c) Issuing Bank or Entity: Banking Company or MFS or PSP that issues payment
+instruments (such as Payment Card, Mobile wallet, Electronic wallet etc.) in favor of their
+customers through which a customer can access to the services of a WLAMA.
+
+d) National Payment Switch Bangladesh (NPSB): An interoperable platform for payment
+and settlement of domestic interbank card-based, account-based and wallet-based
+transactions initiated through ATM, POS, Internet Banking and electronic wallets
+(provided by Banks, MFSs and PSPs).
+
+e) International Payment Schemes (IPS): A payment platform incorporated outside the
+country which operates payment and settlement for both the domestic and international
+interbank transactions in multiple countries.
+
+f) Customer: An individual/organization who maintains account or card or e-wallet with
+domestic or international Bank or MFS or PSP and is willing to avail services of a
+WLAMA.
+
+--- Page 6 ---
+Page 4 of 6
+7.0 Eligibility Criteria :
+a) A WLAMA should be licensed by the Bangladesh Bank as a PSO under the Bangladesh
+Payment and Settlement Systems Regulations 2014.
+b) The paid-up capital of a WLAMA would be Taka 450 (Four hundred fifty) Million if it
+provides ATM services only, an additional bank guarantees of Taka 100 (One Hundred)
+Million favouring BB would be required in case of WLAMA serving as both ATM and
+merchant acquisition service provider, while Taka 100 (One hundred) Million paid up
+capital and 100 (One Hundred) Million bank guarantee is required for entities intended to
+provide merchant acquisition services only.
+c) A WLAMA must be incorporated in Bangladesh under the Companies Act, 1994 and the
+memorandum must contain clauses specifying the types of service(s) they intend to offer.
+d) An intended WLAMA must select a schedule bank as a Settlement Bank and submit a
+MoU (Memorandum of Understanding) between WLAMA and the Settlement Bank with
+its application for license.
+
+
+8.0 Operational Aspects :
+
+
+a) A WLAMA may establish its own switching solution or use its settlement bank’s solution
+to connect with the local and/or international payment and settlement platforms.
+
+b) The primary connectivity of a WLAMA should be with the NPSB and it must designate a
+settlement bank for settling of transactions and disputes relating to this platform. A
+WLAMA may choose to join other domestic or international payment platforms (i.e.
+IPSs), where they may designate the same settlement bank or a different one for settling
+transaction and disputes.
+c) A WLAMA must have proper agreement(s) with the related stakeholders such as
+settlement bank, domestic and/or International Payment Schemes and with their
+merchants. These agreements among others must address the roles and responsibilities of
+the concerned parties including consumer protection, arbitration and dispute resolution
+mechanisms.
+d) A WLAMA must enter into a separate agreement either with its settlement bank or other
+schedule bank(s) in order to get an adequate supply of genuine and good quality bank
+notes to be fed into their ATMs. However, the responsibility of ensuring the quality of the
+notes in the ATMs would be the sole responsibility of the WLAMA.
+e) A WLAMA must submit a strategic plan for its ATM and Merchant acquisition business
+for the first three year period. This plan should adhere to a minimum deployment quantity
+of 100 ATMs and 1000 POSs/QRs per year while the urban to rural deployment ratio has
+to be 1:3. The Urban and Rural demarcation will be made as per BRPD Circular no. 18 of
+Nov.29, 2012. It is noteworthy here that taking over any existing Bank’s ATM is not
+permissible.
+
+--- Page 7 ---
+Page 5 of 6
+f) A WLAMA must ensure an uninterrupted service for its ATMs and merchant acquisition
+devices. In addition, a WLAMA must also ensure the replenishment of cash to all of their
+ATMs as and when required.
+g) Customers’ payment information is the property of those particular customers and must
+not be stored by a WLAMA without proper authorization.
+h) A WLAMA intended to provide merchant acquiring services needs to provide a minimum
+bank guarantee of Taka 100 (One Hundred) Million initially which may be increased as
+the acquisition business grows. This will act as a cushion in case any issue arises regarding
+the settlement of merchant accounts.
+i) A bank may choose to issue co-branded cards in partnering with a WLAMA.
+j) All guidelines, standards and security measures applicable to the banks relating to
+ATM/POS operation, including cyber security framework, currency handling etc. shall be
+equally applicable to the WLAMAs. All the ATMs and POSs deployed should be
+compliant with the latest industry standards including EMV Compliance.
+k) Apart from the regular services, a WLAMA may introduce value added services (such as
+interoperable cash deposit) with prior approval from Bangladesh Bank.
+l) As part of customer service, a WLAMA must run, at a minimum, a 24X7 call centre and
+an online portal for receiving complaints and establishing standard dispute resolution
+procedures adhering to the related dispute management rules of Bangladesh Bank.
+9.0 Miscellaneous :
+a) A WLAMA would be permitted to display its own logo, advertisements and offer value
+added services as per the regulations. Besides its own logo, each WLAMA must display
+logo of NPSB in its entire white label ATM and POS network and the logo of Bangla QR
+in its QR displays. A WLAMA would be permitted to display transaction security
+campaign, advertisements on its financial products conforming to the regulatory
+requirement.
+b) A WLAMA cannot charge a customer directly for any transaction. In case of ATM
+transaction, Settlement Bank’s account will be credited as per the existing charging policy
+and procedures of NPSB and appropriate IPS(s). In case of POS transactions the
+Settlement Bank will collect the MDR (Merchant Discount Rate) on behalf of WLAMA.
+c) In case of customer complaints, Issuing Bank will communicate with the Settlement Bank
+and Settlement Bank, if requires, will communicate with the WLAMA. WLAMA will
+share all transactional information with the Settlement Bank and with NPSB for settlement
+of disputes as per the Dispute Management Guidelines of NPSB. Disputes arising out of
+other payment platforms would be resolved in line with the platform rules and procedures
+while the settlement bank will perform the role of an acquiring bank.
+
+--- Page 8 ---
+Page 6 of 6
+d) Relevant provisions of all guidelines/directives/instructions issued by various departments
+of Bangladesh Bank with reference to ATM and merchant acquiring services, operations,
+cash handling, security, etc. for banks would also be applicable to the WLAMAs as well.
+e) A WLAMA will submit periodic reports as prescribed by Bangladesh Bank and are
+subjected to Bangladesh Bank’s Audit, Inspection and Oversight.
+f) Bangladesh Bank reserves the right to suspend and/or cancel the license of a WLAMA if it
+deems appropriate.
+g) WALMA will require paying connection and other fees as determined by Bangladesh
+Bank for its connectivity with NPSB.
+10. Definitions :
+Automated Teller Machine is an electronic device that usually facilitates cash withdrawal, balance
+inquiry, funds transfer, bill payment, cash deposits etc to the authorized users from their accounts using
+card or mobile phone or other means after proper verification and authentication.
+Authentication is a process through which a Payment Service Provider verifies the identity of a customer.
+Credit Card is a physical or virtual card that authorizes a person to make payments (for goods and
+services) or to withdraw cash with a condition to repay the same within certain time frame after proper
+verification and authentication.
+Debit Card is a physical or virtual card used to withdraw cash and to make payment (for goods and
+services) from customer’s bank account after proper verification and authentication.
+e-Wallet is a store where electronic money is preserved.
+Merchant Discount Rate (MDR) is the rate charged to a merchant by the acquirer for processing
+payments from debit/credit card, e-wallet, m-wallets. The merchant must set up infrastructure and agree to
+the rate before accepting debit/credit card, e-wallet, m-wallet as payments.
+Mobile Financial Services means e-money services provided against a particular mobile/cell phone
+number of a client (termed as Mobile Account), where the record of funds is stored on the electronic
+general ledger. These services can be draw-down through specific payment instructions to be issued from
+the bearer’s mobile phone or through alternative digital process or device by ensuring authenticity of the
+transaction. However, unlike e-money products, 'cash-in' and 'cash-out' and other services as permitted by
+BB at agent locations are allowed for MFS accounts
+Payment System Operator means an entity licensed by Bangladesh Bank with a view to operating a
+clearing and settlement system among the Payment System Participants.
+Payment Service Provider means an entity licensed by Bangladesh Bank which provides payment
+services directly to customers or to a payment system.
+Point of Sales is an electronic device through which funds transfer instruction is initiated from a bank
+account, card or wallet in favor of the seller/customer.

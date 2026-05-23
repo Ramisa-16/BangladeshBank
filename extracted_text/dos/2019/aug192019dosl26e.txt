@@ -1,0 +1,2049 @@
+--- Page 1 ---
+1/2
+
+Bangladesh Bank
+Head Office
+Post Box No.-325
+Dhaka
+
+DOS Circular Letter No.26
+
+
+
+
+
+
+Date: 19/08/2019
+
+
+Managing Director/Chief Executive Officer
+All Scheduled Banks in Bangladesh
+
+Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)
+
+Please refer to BRPD Circular No.-02 dated 25/02/2019 and BRPD Circular Letter No.-09
+dated 27/05/2019 on Policy for Offshore Banking Operation of the Banks in Bangladesh.
+In compliance with the instructions issued by the above circular and circular letter, banks
+having Offshore Banking Operation (OBO) shall be required to maintain Cash Reserve Ratio (CRR)
+and Statutory Liquidity Ratio (SLR) for the liabilities arising from the operation. The instructions
+issued by DOS Circular No.-01, dated 19/01/2014 and DOS Circular Letter No.-23, dated
+07/10/2018 are applicable for the maintenance of CRR and SLR for Domestic Banking Operation
+(DBO). It has been decided that the following instructions will be applicable for the maintenance of
+CRR and SLR for OBO by the banks in addition to the previous circular and circular letter issued by
+the Department of Off-site Supervision (DOS) in this regard:
+1) Liabilities of OBO:
+Banks have to reckon the following components of demand and time liabilities for the
+calculation of required cash reserve and statutory liquidity reserve for OBO:
+i. Customer Deposit;
+ii. Deposit From Banks (Outside Bangladesh);
+iii. Borrowing From Banks (Outside Bangladesh);
+iv. Deposit From Financial Institutions (Outside Bangladesh);
+v. Borrowing From Financial Institutions (Outside Bangladesh);
+vi. Other payable Liabilities (excluding domestic intra-bank and interbank OBO to OBO
+transactions) .
+2) Use of Foreign Currency for the maintenance of CRR:
+Banks may maintain entire CRR for both DBO and OBO in Bangladeshi Taka (BDT). If
+desired, banks may use, partly or fully for the whole bi-week, available credit balance from FC
+Clearing Account (equivalent to BDT at the rate published by BB) maintained with Bangladesh
+Bank (BB) to meet the daily minimum required cash reserve stemming from OBO only. In this case,
+to meet the average CRR for bi-week, the rest amount of cash reserve shall have to be met with
+BDT. The foreign currency to be used shall have to be unencumbered in every aspect.
+3) Use of Nostro Account credit balance for the maintenance of SLR:
+Banks may maintain entire SLR for both DBO and OBO in the eligible components
+described in DOS Circular No.-01, dated 19/01/2014. Moreover, if desired banks may also use
+credit balance of Nostro Accounts (equivalent to BDT at the rate published by BB ; the recognized
+currencies are USD, GBP, EURO, YEN, CAD and CNY) maintained with correspondence banks to
+fulfill the SLR requirement stemming from OBO only.
+
+
+
+Website:www.bb.org.bd
+Department of Off-site Supervision
+
+--- Page 2 ---
+2/2
+
+
+4) Calculation of daily Excess Reserve (ER):
+The Calculation of daily Excess Reserve (ER) for banks having no OBO will remain the
+same as instructed in the DOS Circular No.-01, dated 19/01/2014. For banks having both DBO and
+OBO, the amount of daily excess reserve will be determined using the following formulas:
+Unencumbered Current A/C Balance with BB - Bi-weekly Req. cash for DBO = X ... ... (i)
+Bi-weekly Req. cash reserve for OBO - Unencumbered FC used (equivalent to BDT) for the
+maintenance of daily cash reserve from FC Clearing a/c with BB = Y ... ... ... ... ... (ii)
+From (i) and (ii) above -
+
+a) if X = 0 or X = -ve than ER = 0
+
+b) if X = +ve, Y = +ve, and X>Y than ER = X-Y
+
+c) if X = +ve, Y = +ve and X<Y than ER = 0
+5) Para 2(b)(ii) of the DOS Circular No.-01, dated 19/01/2014 will be replaced as under:
+"Guidelines for use of Foreign Currency from Foreign Currency Clearing Account for CRR
+(only for requirement against OBO) and SLR purpose:
+Banks may use foreign currency (equivalent to BDT at the rate published by BB) from
+Foreign Currency Clearing Account maintained with BB for CRR (only to fulfill the requirement
+against OBO) and SLR purpose as long as there is credit balance in the account. However, no
+interest will be paid on the used portion of foreign currency. Forex Reserve and Treasury
+Management Department (FRTMD) of BB will credit interest on the balance held in the account as
+usual. After getting the certification from Department of Off-site supervision (DOS) regarding the
+actual amount of foreign currency used for CRR (only for requirement against OBO) and SLR
+purpose, FRTMD will adjust (if required) the interest amount. Banks should take utmost care while
+reporting the use of foreign currency in DB-5FC statement as any misreporting regarding the
+amount of foreign currency used for CRR and SLR purpose will attract a penalty two times of the
+amount of interest already credited for the misreported amount along with reversal of the interest
+credited."
+6) Reporting:
+For smooth reporting, the formats provided with DOS Circular No.-01, dated 19/01/2014
+and DOS Circular Letter No.-23, dated 07/10/2018 are suitably amended and attached with this
+circular letter. The soft copies of the formats are available for collection from Department of
+Off-site Supervision.
+7) Other instructions of DOS Circular No.-01, dated 19/01/2014 and DOS Circular Letter
+No.-23, dated 07/10/2018 will remain unchanged. The instruction of this circular letter will come
+into effect from 01 September 2019. For once, banks have to submit (or re-submit, in case
+already submitted in the old formats) the information of Total Demand and Time Liabilities
+(TDTL) of July 2019 in the new DB-4(C) and DB-4(I) formats within 27 August 2019. Online
+submission of all the statements will remain suspended until further notice.
+
+
+Sincerely Yours,
+Sd./-
+(Md Rezaul Islam)
+General Manager
+Phone: 9530093
+
+--- Page 3 ---
+Month
+Year
+Bank Name:
+Branches:
+Tk in '000
+DATE:
+ATDTL
+2. Deposit From Banks
+2. Deposit From Banks
+2. Deposit From Banks (Outside Bangladesh)
+2. Deposit From Banks (Outside Bangladesh)
+Year
+amount
+5.00%
+5.00%
+amount
+5.50%
+5.50%
+amount
+13.00%
+13.00%
+Authorized Officer:
+ID No.
+ID No.
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No.
+Mobile No.
+8. Other time Liabilities
+Sub-Total
+iv) Sub-Total of Countable Time Liabilities (1+2+3+4+5+8)
+Total of Countable Liabilities for OBO (iii+iv)
+C. Statutory Reserve Obligations for the month of :
+STATEMENT DB-4(c)
+Thursday Positions of Demand And Time Liabilities (For Conventional Banking)
+Submitted Under Bank Company Act, 1991 and Bangladesh Bank Order, 1972
+No. of Weeks reported:
+A. Demand Liabilities in DBO:
+1. Customer Deposit
+3. Borrowing From Banks
+4. Deposit From Financial Institutions
+5. Borrowing From Financial Institutions
+6. Other Demand Liabilities
+Sub-Total
+i) Sub-Total of Countable Demand Liabilities (1+4+5+6)
+B. Time Liabilities in DBO:
+1. Customer Deposit
+3. Borrowing From Banks
+4. Deposit From Financial Institutions
+5. Borrowing From Financial Institutions
+6. Other Time Liabilities
+(a) Subordinated bond surplus
+(1) Total amount of Subordinated bond
+i. Investment by other banks
+ii. Investment by NBFIs
+iii. Investment by others
+(2) Investment in subordinated bond of other banks
+(b) Other time liabilities excluding B.6.(a)(1)
+Sub-Total
+ii) Sub-Total of Countable Time Liabilities (1+4+5+6)
+Total of Countable Liabilities for DBO (i+ii)
+C. Demand Liabilities in OBO:
+1. Customer Deposit
+3. Borrowing From Banks (Outside Bangladesh)
+4. Deposit From Financial Institutions (Outside Bangladesh)
+5. Borrowing From Financial Institutions (Outside Bangladesh)
+8. Other Demand Liabilities
+Sub-Total
+6. Placement/Deposit from other OBOs within Bangladesh
+7. Funds from DBO
+iii) Sub-Total of Countable Demand Liabilities (1+2+3+4+5+8)
+D. Time Liabilities in OBO:
+1. Customer Deposit
+3. Borrowing From Banks (Outside Bangladesh)
+4. Deposit From Financial Institutions (Outside Bangladesh)
+5. Borrowing From Financial Institutions (Outside Bangladesh)
+6. Placement/Deposit from other OBOs within Bangladesh
+7. Funds from DBO
+of which for DBO
+of which for OBO
+Total of Countable Liabilities (i+ii+iii+iv)
+1. Daily minimum cash reserve to be maintained @
+2. CRR (average daily on bi-weekly basis) @
+3. SLR on daily basis @
+of which for DBO
+of which for OBO
+of which for DBO
+of which for OBO
+
+--- Page 4 ---
+Month
+Year
+Bank Name:
+Branches:
+Tk in '000
+DATE:
+ATDTL
+2. Deposit From Banks
+2. Deposit From Banks
+2. Deposit From Banks (Outside Bangladesh)
+2. Deposit From Banks (Outside Bangladesh)
+Year
+amount
+5.00%
+5.00%
+amount
+5.50%
+5.50%
+amount
+13.00%
+13.00%
+Authorized Officer:
+ID No.
+ID No.
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No.
+Mobile No.
+1. Daily minimum cash reserve to be maintained @
+2. CRR (average daily on bi-weekly basis) @
+3. SLR on daily basis @
+of which for DBO
+of which for OBO
+of which for DBO
+of which for OBO
+Sub-Total
+6. Placement/Deposit from other OBOs within Bangladesh
+7. Funds from DBO
+iii) Sub-Total of Countable Demand Liabilities (1+2+3+4+5+8)
+D. Time Liabilities in OBO:
+1. Customer Deposit
+3. Borrowing From Banks (Outside Bangladesh)
+4. Deposit From Financial Institutions (Outside Bangladesh)
+5. Borrowing From Financial Institutions (Outside Bangladesh)
+6. Placement/Deposit from other OBOs within Bangladesh
+7. Funds from DBO
+of which for DBO
+of which for OBO
+Total of Countable Liabilities (i+ii+iii+iv)
+1. Customer Deposit
+3. Borrowing From Banks (Outside Bangladesh)
+4. Deposit From Financial Institutions (Outside Bangladesh)
+5. Borrowing From Financial Institutions (Outside Bangladesh)
+8. Other Demand Liabilities
+(b) Other time liabilities excluding B.6.(a)(1)
+Sub-Total
+ii) Sub-Total of Countable Time Liabilities (1+4+5+6)
+Total of Countable Liabilities for DBO (i+ii)
+C. Demand Liabilities in OBO:
+(1) Total amount of Subordinated bond
+i. Investment by other banks
+ii. Investment by NBFIs
+iii. Investment by others
+(2) Investment in subordinated bond of other banks
+3. Borrowing From Banks
+4. Deposit From Financial Institutions
+5. Borrowing From Financial Institutions
+6. Other Time Liabilities
+(a) Subordinated bond surplus
+6. Other Demand Liabilities
+Sub-Total
+i) Sub-Total of Countable Demand Liabilities (1+4+5+6)
+B. Time Liabilities in DBO:
+1. Customer Deposit
+A. Demand Liabilities in DBO:
+1. Customer Deposit
+3. Borrowing From Banks
+4. Deposit From Financial Institutions
+5. Borrowing From Financial Institutions
+STATEMENT DB-4(I)
+Thursday Positions of Demand And Time Liabilities (For Islami Shariah based Banking)
+Submitted Under Bank Company Act, 1991 and Bangladesh Bank Order, 1972
+No. of Weeks reported:
+8. Other time Liabilities
+Sub-Total
+iv) Sub-Total of Countable Time Liabilities (1+2+3+4+5+8)
+Total of Countable Liabilities for OBO (iii+iv)
+C. Statutory Reserve Obligations for the month of :
+
+--- Page 5 ---
+(TK. In thousand)
+For DBO
+For OBO
+Total
+For DBO
+for OBO
+Total
+f=(d+e)-c
+1st Bi-week
+2nd Bi-week
+Authorized Officer:
+ID No:
+ID No:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No:
+Mobile No:
+Daily Excess
+Reserve
+Bi-weekly
+excess/shortfall
+Name of the Bank:
+Date
+Balance with
+Bangladesh Bank in
+TK. Current a/c
+Available FC used
+(equ. BDT) from
+FC clg A/C
+(applicable for
+OBO only)
+Excess/Shortfall
+(daily basis)
+Statement Regarding Maintenance of CRR(C)
+Daily Minimum CRR
+Bi-weekly average CRR
+Submitted under Article 36(3) of Bangladesh Bank Order, 1972
+(To be submitted monthly within the 10th of the following month)
+
+--- Page 6 ---
+(TK.in thousand)
+For DBO
+For OBO
+Total
+For DBO
+for OBO
+Total
+f=(d+e)-c
+1st Bi-week
+2nd Bi-week
+Authorized Officer:
+ID No:
+ID No:
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No:
+Mobile No:
+Statement Regarding Maintenance of CRR(I)
+Daily Minimum CRR
+Bi-weekly average CRR
+Submitted under Article 36(3) of Bangladesh Bank Order, 1972
+(To be submitted monthly within the 10th of the following month)
+Daily Excess
+Reserve
+Bi-weekly
+excess/shortfall
+Name of the Bank:
+Date
+Balance with
+Bangladesh Bank in
+TK. Current a/c
+Available FC used
+(equ. BDT) from
+FC clg A/C
+(applicable for
+OBO only)
+Excess/Shortfall
+(daily basis)
+
+--- Page 7 ---
+USD ($)
+GBP (₤)
+EURO (€)
+Yen (¥)
+CAD($)
+Yuan(CNY)
+USD ($)
+GBP (₤)
+EURO (€)
+Yen (¥)
+CAD($)
+Yuan(CNY)
+USD ($)
+GBP (₤)
+EURO (€)
+Yen (¥)
+CAD($)
+Yuan(CNY)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID No.
+ID No.
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No.
+Mobile No.
+Date
+Total Foreign Currency Balance (in unit)
+F.C. Clg. Account maintained with BB
+Total amount
+in BDT ('000)
+Nostro A/C (for DBO only)
+Nostro A/C (for OBO only)
+Total amount
+in BDT ('000)
+Statement DB-5FCB Regarding Balance of foreign currency in F.C.Clg. a/c And Nostro a/c
+Authorized Officer:
+To be submitted monthly along with CRR/SLR statements
+Name of the Bank :
+
+--- Page 8 ---
+USD ($)
+GBP (₤)
+EURO (€)
+Yen (¥)
+CAD($)
+Yuan(CNY)
+USD ($)
+GBP (₤)
+EURO (€)
+Yen (¥)
+CAD($)
+Yuan(CNY)
+USD ($)
+GBP (₤)
+EURO (€)
+Yen (¥)
+CAD($)
+Yuan(CNY)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID No.
+ID No.
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No.
+Mobile No.
+Statement DB-5FCU Regarding Use of foreign currency from F.C.Clg. a/c & Nostro a/c for the maintenance of CRR and SLR
+Authorized Officer:
+Date
+For CRR from F.C Clg. Account (in unit) maintained with BB
+To be submitted monthly along with CRR/SLR statements
+Name of the Bank :
+For SLR
+From F.C. Clg. Account (in unit) maintained with BB
+Total amount
+in BDT ('000)
+Total
+amount in
+BDT ('000)
+Total amount
+in BDT ('000)
+From Nostro A/C (in unit)
+
+--- Page 9 ---
+Name of Bank:
+For DBO
+For OBO
+Total
+Other eligible
+securities
+Reverse-repo
+with BB
+T=e+g+h+i+j+k+l+m+n
+E/S=T-d
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Authorized Officer:
+ID No.
+ID No.
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No.
+Mobile No.
+Statement DB-5(C) Regarding Maintenance of SLR under section 33(1) of Bank Company Act, 1991
+(To be submitted monthly within the 10th of the following month)
+Cash in
+hand
+Total maintained
+Date
+Balance with
+Bangladesh Bank
+Excess/ Shortfall
+in SLR
+F.C. used in BDT
+(TK. In thousand)
+Unencumbered Approved Securities
+HTM
+HFT
+From F.C
+Clg a/c
+From
+Nostro a/c
+Required SLR
+Balance with
+Sonali bank as
+an agent of BB
+Others
+Daily Excess
+Reserve
+
+--- Page 10 ---
+For DBO
+For OBO
+Total
+Other eligible
+securities
+Reverse-repo
+with BB
+From FC Clg.
+a/c
+From
+Nostro a/c
+T=e+g+h+i+j+k+l+m+n+o
+E/S=T-d
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Authorized Officer:
+ID No.
+ID No.
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No.
+Mobile No.
+F.C. used in BDT
+Excess Reserve
+Unencumbered Approved Securities
+Total
+Excess/
+Shortfall
+HTM
+HFT
+Others
+Date
+Cash in hand
+Balance with
+Bangladesh Bank
+Balance with
+Sonali bank as an
+agent of BB
+Balance with
+BB in Islamic
+Refinance Fund
+A/C
+Required SLR
+Statement DB-5(I) Regarding Maintenance of SLR under section 33(1) of Bank Company Act, 1991
+(To be submitted monthly within the 10th of the following month)
+Name of the Bank
+(Only for Islami Shariah based banks)
+(TK. In thousand)
+
+--- Page 11 ---
+Other eligible
+securities
+Reverse-repo
+with BB
+T=c+e+f+g+h+i+j+k
+E/S=T-b
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Authorized Officer:
+ID No.
+ID No.
+Name:
+Name:
+Designation:
+Designation:
+Phone:
+Phone:
+Mobile No.
+Mobile No.
+HFT
+HTM
+Statement DB-5(I) Regarding Maintenance of SLR under section 33(1) of Bank Company Act, 1991
+(To be submitted monthly within the 10th of the following month)
+Cash in hand
+Total
+Date
+Balance with
+Bangladesh
+Bank
+Balance with
+Sonali bank as
+an agent of BB
+F.C. used in
+BDT
+Excess/
+Shortfall
+Name of the Bank
+Required SLR
+Others
+(TK. In thousand)
+(Only for branches of conventional banks operated under Islamic Shariah)
+Excess
+Reserve
+Unencumbered Approved Securities

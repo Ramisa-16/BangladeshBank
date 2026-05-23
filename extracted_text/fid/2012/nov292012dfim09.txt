@@ -1,0 +1,166 @@
+--- Page 1 ---
+ডিএফআইএম সার্কুলার নং-০৯
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী
+বাংলাদেশে কার্যরত সকল আর্থিক প্রতিষ্ঠান
+
+যাচ্ছে
+
+হওয়ায় ৩০ নভেম্বর ২০১২ তা
+
+website: www.bangladesh-bank.org
+
+আর্থিক প্রতিষ্ঠান ও বাজার বিভাগ
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা |
+
+www.bb.org.bd
+
+১৫ অগ্রহায়ণ ১৪১৯
+২৯ নভেম্বর, ২০১২
+
+Rationalized Input Template (RIT) ব্যবহার করে
+ওয়েব পোর্টালের মাধ্যমে তথ্য/বিবরণী দাখিল প্রসংগে |
+
+উপর্যুক্ত বিষয়ে অত্র
+
+১। নিম্নবর্ণিত বিবরণীসমূহ ম্যানুয়েল
+
+বিভাগের ২৬ জানুয়ারী ২০১২ তারিখের
+
+রিখের পর হতে উক্ত বিবরণী-সংশ্লিষ্ট তথ্যাদি শুধুম
+
+পদ্ধতির পরিবর্তে শুধুম
+
+ব্যবহার করে] বাংলাদেশ ব্যাংকে দাখিল করার জন্য নির্দেশ দেয়া যাচ্ছে £
+
+ডিএফআইএম সার্কুলার নং-০১ এর প্রতি দৃষ্টি আকর্ষণ করা
+
+ত্র Scaife (Online) পদ্ধতিতে সংগ্রহের সিদ্ধান্ত গৃহীত
+ত্র ইলেন্্রনিক পদ্ধতিতে [সংশ্লিষ্ট Input Template
+
+SL
+
+Name of Statement
+
+Name of Input Template
+
+Date of Submission
+
+01
+
+Net Asset Statement
+
+T_PS_M_ASST_ASSET_LIQD
+T_PS_S LIAB 21188
+
+Within 31 Jan. (Based on 30 Dec.) &
+Within 31 Jul. (Based on 30 Jun.)
+
+02
+
+Call Money Statement
+
+T_PS_D_CMONEY_TRANS
+
+Every Working Day
+
+03
+
+CRR/SLR Statement (Weekly
+Balance of Deposits)
+
+T_PS M_SLR_CRR
+
+Within 7 (Seven) days of the
+following Month
+
+Lending and Deposit
+
+04 |CRR/SLR Statement T_PS_D_SLR_CASH_RES Within 7 (Seven) days of the
+(CRR/SLR Maintained) following Month
+
+05 |Business activities (Recovery |T_PS_Q_LNREC_POSITION Within 15 (Fifteen) days after the
+position) end of the respective Quarter
+
+06 |Statement of Interest Rate in |T_PS_M_INT_RATE Within 7 (Seven) days after the
+
+end of the respective Quarter
+
+07
+
+Statement of Loan/Lease
+Rescheduling
+
+T_PS_M_RESCHED_LOANS
+
+Within 10 (Ten) days of the
+following Month
+
+08
+
+Statement of Loan/Lease
+Write off
+
+T_PS_M_WRITE_OFF_LOANLEASE
+
+Within 10 (Ten) days of the
+following Month
+
+বাংলাদেশ
+
+নাকরা হলে
+
+যাবে।
+
+কে প্রেরণ করতে হবে |
+
+
+
+৫। ওয়েব-পোর্টালে আ
+
+৬। কলমানি সংক্রান্ত বিবরণীর তথ্যাদি
+
+হয়ে) আপলোড করার জন্য পরামর্শ দেয়া যাচ্ছে
+
+আপলোড করার
+গ্রহণপূর্বক আপলো
+
+৭। অন-ল
+
+নির্ধারিত সময়ের মধ্যে বিবরণী-সংশ্লিষ্ট তথ্যাদি স
+বিলম্বে আপলোড করা হলে ডিএফআইএম স
+
+অনুমোদিত User ID এর মাধ্যমে Log in করে
+
+পলোডের পূর্বে সংশ্রিষ্ট csv
+
+acy প্রেরিত তথ্যের প্রামাণিকরণ (Authentication) নি
+পূর্বে সংশ্লিষ্ট টেমপ্লেট-এ বর্ণিত বিষয়ে ব্যবস্থাপনা পরিচালক বা তার মনোনীত/ক্ষমতাপ্রাপ্ত কর্মকর্তার অনুমোদন
+[ড করার জন্য পরামর্শ দেয়া হলো |
+
+অন্যান্য বিবরণীসমূহ পরবর্তী নির্দেশ না দেয়া পর্যন্ত বিদ্যমান পদ্ধতিতে (ম্যানুয়েল/ ম্যানুয়েল ও অন-লাইন যুগপৎ)
+
+ef RIT এর মাধ্যমে বাংলাদেশ ব্যাংকের ওয়েব-পোর্টালে আপলোড
+কুলার নং-০৫/২০১২ অনুযায়ী ব্যবস্থা গ্রহণ করা VA |
+হালনাগাদ রেফারেন্স ফাইল ও টেমপ্লেট এর কপি ডাউনলোড করা
+
+হল
+
+টি Open করে দেখে তা যথাযথ আছে মর্মে নিশ্চিত হয়ে আপলোড
+
+দিনের শেষে (Borrowing/Lending এর পরিমাণ ও সুদের হার সম্পর্কে নিশ্চিত
+
+POO করার জন্য বাংলাদেশ ব্যাংকের ওয়েব-পোর্টালে
+
+আর্থিক প্রতিষ্ঠান আইন, ১৯৯৩ এর ১৮ছে) ধারার আওতায় জনস্বার্থে এ নির্দেশ জারি করা হলো ।
+
+HARASS প্রাপ্তি স্বীকার করবেন।
+
+আপনাদের বিশ্বস্ত,
+স্বাক্ষরিত
+
+(মাহবুবা খাতুন)
+উপ-মহাব্যবস্থাপক
+ফোন নং-৯৫৩০১৪৫

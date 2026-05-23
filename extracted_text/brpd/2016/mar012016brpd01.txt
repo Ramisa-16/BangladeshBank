@@ -1,0 +1,4466 @@
+--- Page 1 ---
+website: www.bb.org.bd
+
+ব্যাংকিং প্রবিধি ও নীতি বিভাগ
+
+বিআরপিডি সার্কুলার নং-০১
+
+ব্যবস্থাপনা পরিচালক/প্রধান নির্বাহী কর্মকর্তা
+বাংলাদেশে SAAS সকল তফসিলি TS |
+
+বাংলাদেশ ব্যাংক
+প্রধান কার্যালয়
+ঢাকা।
+
+০১ মার্চ, ২০১৬
+
+রিখ অক্টোবর ০৭, ২০০৩ এর প্রতি দৃষ্টি আকর্ষণ
+
+Guidelines on Foreign Exchange Risk Management পরিপালন প্রসঙ্গে |
+উপরোক্ত বিষয়ে অত্র বিভাগের বিআরপিডি সার্কুলার নং-১৭, তা
+করা যাচ্ছে।
+
+সময়ানুক্রমিকভাবে পরিবর্তনশীল ব্যবসায়িক ঝুঁকিসমূহ আরও কার্যকর ও ফলপ্রসূভাবে মোকাবেলা করার লক্ষ্যে
+
+বাংলাদেশ ব্যাংক এবং বাংলাদেশে কার্যরত তফসি
+স্টেকহোন্ডারদের মতামতের ভিত্তিতে ২০০৩ সালে
+
+লি ব্যাংক সমূহের প্র
+
+তিনিধিদের সমন্বয়ে গঠিত কমিটির পর্যবেক্ষন ও
+
+Guidelines on Foreign Exchange Risk Management
+
+প্রবর্তন করা হয়। সময়ের পরিক্রমায় নতুন নতুন ঝুঁকি চিহিত করতঃ
+
+
+নিরসনকল্পে উক্ত গাইডলাইন্সে কতিপয় সংশোধনী
+
+আনয়
+
+ন করা হয়েছে | সংশোধিত গাইডলাইন্সটি বাংলাদেশ ব্যাংকের ওয়েবস
+
+ইট (www.bb.org.bd ) এ পাওয়া যাবে ।
+
+সংশোধিত গাইডল
+
+ইন্সটি যথাযথভাবে অনুসরণ/পরিপালন করার জন্য সংশ্লিষ্ট সকলকে
+
+নির্দেশনা প্রদান করা হলো |
+
+আপনাদের বিশ্বস্ত,
+
+Beng —
+
+(আবু ফরাহ মোঃ নাছের)
+মহাব্যবস্থাপক
+ফোন ৪ ৯৫৩০২৫২।
+
+--- Page 2 ---
+CORE RISK MANAGEMENT IN BANKING:
+
+FOREIGN EXCHANGE RISK MANAGEMENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Foreign Exchange Policy Department
+BANGLADESH BANK
+
+
+
+February, 2016
+
+--- Page 3 ---
+2 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+Introduction
+
+Globally, operations in the foreign exchange market started in a major way after the breakdown
+of the Bretton Woods system in 1971, which marked the beginning of floating exchange rate
+regimes in several countries. Over the years, the foreign exchange market has emerged as the
+largest market in the world. The decade of the 1990s witnessed a perceptible policy shift in many
+emerging markets towards reorientation of their financial markets in terms of new products and
+instruments, development of institutional and market infrastructure and realignment of regulatory
+structure consistent with the liberalized operational framework. The changing contours were
+mirrored in a rapid expansion of foreign exchange market in terms of participants, transaction
+volumes, decline in transaction costs and more efficient mechanisms of risk transfer.
+The new millennium brought with it an increasingly complex and unpredictable global financial
+market. Events like housing bubble in the US ultimately resulted in the mortgage crisis, almost
+crippling their financial system and its peripheral entities. The Euro zone has been faring no
+better since 2009 due to heavy reliance on external debt of some of its member countries. Stock
+markets have reacted irritably through these changes and banking regulations have been
+tightened. Amid these global changes, Bangladesh has been insulated from any externality due to
+cautious regulatory stance regarding development of any complex financial instrument and
+reliance on external debt.
+To forge ahead in the new global economy, the right balance between development of the
+financial markets and its inherent risks is necessary. We will also have to be extremely cautious
+against any situation, whereby our internal markets are totally exposed to wayward
+developments happening in the world economy.
+
+From early nineties, Bangladesh embarked on a path of stepped-up reforms for financial sector
+development and broader openness to global trade and financial flows, towards spurring
+investment and output growth. In line with the openness, Bangladesh accepted IMF Article VIII
+obligation in the mid nineties concerning full convertibility of Taka for current external
+transactions. The exchange rate of Taka was floated with market based flexibility in early 2000s.
+A range of foreign exchange (FX) regulations enumerates residents’ access to FX for current
+account transactions. FX transactions in deregulatory regime may entail a bank’s financial
+strength to the potential risk of adverse movements in foreign exchange rates. Bangladesh Bank
+presently does not interfere in the day to day determination of exchange rates, but operates the
+monetary policy prudently for minimizing extreme swings in exchange rate to avoid adverse
+repercussion to the domestic economy. The exchange rate is determined in the market on the
+basis of market demand and supply forces of the respective currencies.
+
+Risk is defined as an event that can cause financial, physical or reputational loss or can commit
+the bank/business to an uncertain future. While the types and degree of risks an organization may
+be exposed to depend upon a number of factors such as its size, complexity business activities,
+volume etc, it is believed that generally the risks banks face are Credit, Market, Liquidity,
+Operational, Compliance / Legal /Regulatory and Reputation risks.
+As a part of their business functions, all financial institutions engage in numerous complex
+financial activities for which they require to pay proper attention to every details including the
+management of risk. Risk Management encompasses all the activities that affect its risk profile.
+It involves identification, measurement, monitoring and controlling risks to ensure that the
+
+--- Page 4 ---
+3 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+individuals who take or manage risks clearly understand it, organization’s Risk exposures are
+within the limits established by the Board of Directors (BoDs) for the state owned & local
+private banks and appropriate independent market risk management departments (MRM) for the
+foreign banks, risk taking decisions are in line with the institutions’ business strategy &
+objectives and risk taking decisions are explicit and clear.
+
+It is acknowledged that specific foreign exchange risk practices may differ among banks
+depending upon factors such as bank's size, and the nature and complexity of its activities.
+However, a comprehensive foreign exchange risk program should deal with good management
+information systems, contingency planning and other managerial and analytical techniques. With
+this view in mind, this document sets out the guidance for managing risks with regard to foreign
+exchange which the banks follow in determining their risk acceptance criterion then for setting
+out various internal risk limits that should be subject to periodic reviews. The compliance of
+these guidelines are subject to periodic regulatory audit.
+
+For updating the Foreign Exchange Risk Management Guidelines, a committee was formed as
+follows :
+
+Sl.
+Name
+Designation
+Department
+Position in the Committee
+01.
+Mr. Md. Masud Biswas
+General Manager
+FEPD
+Chairman
+02.
+Mr. Md. Saiful Islam Khan
+Deputy
+General
+Manager
+DFEI
+Member
+03.
+Mr. Shamsul Arefeen
+Joint Director
+FEID
+Member
+04.
+Mr. Muhommad Badiuzzaman Dider
+Joint Director
+FRTMD
+Member
+05.
+Mr. Mohammad Anisur Rahman
+Joint Director
+FEOD
+Member
+06.
+Mr. Bashar M Tareq
+Head of Global Market
+HSBC,
+Dhaka.
+Member
+07.
+Mr. Md. Atower Hossain Prodhan
+Joint Director
+DBI-4
+Member
+08.
+Mr. Md. Mazbah Uddin
+Joint Director
+FEPD
+Member
+09.
+Mr. Md. Sarwar Hossain
+Joint Director
+FICSD
+Member
+
+The committee decided to request different banks for giving their opinion for the up gradation of
+Foreign Exchange Risk Management Guidelines. Several banks give their opinion. Then the
+committee analyzed Foreign Exchange Risk Management Guidelines of some neighbor country
+like India, Pakistan and Sri Lanka to implement the Guidelines. The committee has already done
+four meeting to updated the Foreign Exchange Risk Management Guidelines.
+
+--- Page 5 ---
+4 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+
+TOPIC PAGE NO.
+
+INTRODUCTION
+02
+
+1. FUNCTIONS AND ORGANIZATIONAL SET UP
+
+07
+
+1.1 Functions
+
+
+
+1.1.1 Functions of Treasury Front Office
+
+07
+
+
+1.1.2 Functions of Treasury Mid Office
+08
+
+
+1.1.2 Functions of Treasury Back Office
+08
+
+1.2 Organization Set up
+08
+
+1.3 Centralized Foreign Exchange and Money Market Activities
+09
+
+1.4 Separate Trading and Risk Management Units
+09
+
+1.4.1 Traders/ Risk-Taking Units
+09
+
+1.4.2 Market Risk Management
+10
+
+1.5 Organization Chart
+10
+
+1.6 Job Descriptions
+10
+
+1.6.1 TREASURY FRONT OFFICE 10
+
+
+1.6.1.1Head of Treasury
+11
+
+
+1.6.1.2Cross Currency Trader
+11
+
+
+1.6.1.3USD/BDT Trader
+11
+
+1.6.1.4 Securities and Statutory Management
+11
+
+
+1.6.1.5 LCY & FCY Money Market Trader
+11
+
+
+1.6.1.6Balance Sheet Manager
+11
+
+
+1.6.1.7Corporate Dealer/Sales Manager
+11
+
+
+1.6.1.8Fixed Income Trader
+12
+
+1.6.2 TREASURY BACK-OFFICE
+12
+
+
+1.6.2.1 Head of Treasury Back Office
+12
+
+
+1.6.2.2Manager-Local Currency Reconciliation
+12
+
+
+1.6.2.3Manager- Nostro Reconciliation
+12
+
+
+1.6.2.4 - Manager – Vostro Reconciliation
+12
+
+
+1.6.2.5 - Manager – Foreign Currency Position Reconciliation
+12
+
+
+1.6.2.6 - Manager – Local Currency Position Reconciliation
+13
+
+
+1.6.2.7 - Manager – Foreign Currency Settlements
+13
+
+
+1.6.2.8 - Manager – Local Currency Settlements
+13
+
+
+1.6.2.9 - Manager – Vostro Settlements
+13
+
+
+1.6.2.10 - Manager – Regulatory reporting
+13
+
+1.6.3 - TREASURY MID-OFFICE
+14
+
+
+1.6.3.1 - Head of Treasury MID Office
+14
+
+
+1.6.3.2 - Manager - Risk Reporting
+14
+
+
+1.6.3.3 - Manager - Risk Management
+14
+
+1.7 – Individual Trader Dealing Mandate
+14
+
+1.8 – Restrictions
+
+15
+
+
+1.8.1 - Treasury front office staffs are restricted from
+15
+
+
+1.8.2 – Treasury back-office staff are restricted from
+15
+
+
+1.8.3 – Treasury mid-office staffs are restricted from
+15
+
+--- Page 6 ---
+5 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+
+
+2. PROCESS
+
+
+2.1 - Dealing Room
+
+16
+
+2.2 Taped Conversations
+
+16
+
+2.3 Deal Recording
+
+17
+
+2.4 Deal Delay
+17
+
+2.5 Counterparty Limits
+
+18
+
+2.6 Triggers
+18
+
+2.7 Stop Loss Orders
+19
+
+2.8 Appropriateness of Dealing
+19
+
+2.9 Rate Appropriateness
+19
+
+2.10 Deals Outstanding Limit
+21
+
+2.11 Daily Treasury Risk Report
+22
+
+2.12 Conversion Language
+22
+
+3. Dealing Environment
+22
+
+3.1Dealing Limits
+22
+
+3.2 Mandatory Leave and Training
+23
+
+3.2.1 - Treasury Bench Strength
+23
+
+3.3 Stop Loss Limits
+23
+
+3.4 Position Reconciliation
+24
+
+3.5 After-hours Dealing
+24
+
+3.6 Off-premises Dealing
+24
+
+3.7 Deal Cancel and Amend
+24
+
+4.Code of Conduct 24
+
+5. Electronic System and Data Safeguards
+25
+
+5.1 Dealing Room Access log
+25
+
+5.2 Risk Limit Management
+25
+
+6.ALM/CFT Risk Management in Foreign Exchange
+26
+
+6.1 AML compliance during transactions
+26
+
+6.2 AML compliance during establishing and maintaining Nostro & Vostro
+Account
+26
+
+6.3 AML compliance during wire transfer
+27
+
+7.Nostro Account Reconciliation 27
+
+7.1 Nostro Account Reconciliation
+27
+
+
+7.1.1 Operational Loss/Write Off/Late Receipt Charge/Liquidation
+28
+
+7.2 Mark-to-Market 28
+
+7.3 - Valuations
+28
+
+7.4 – Model Control Policy
+29
+
+7.5 – Internal Audit
+29
+
+8. Policy
+29
+
+8.1 Market Risk
+
+30
+
+8.2 Liquidity Risk
+
+31
+
+8.3 Compliance Risk
+
+32
+
+8.4 Reputational and Fraud Risk
+33
+
+8.5 Credit Risk
+
+34
+
+--- Page 7 ---
+6 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.6 Operational Risk
+34
+
+
+8.6.1Key considerations
+34
+
+
+8.6.2 Operational risk management framework
+34
+
+
+8.6.3 Capacity
+35
+
+
+8.6.4Contingency planning
+35
+
+8.7 Settlement Risk
+36
+
+
+8.7.1 Operational and legal risk management relating to settlement
+
+37
+9. Derivatives Guidelines
+38
+
+9.1 Introduction 38
+
+9.2 Risk Management Aspects in Derivatives and New Product
+Transactions
+38
+
+
+9.2.1 - Corporate Governance
+39
+
+
+9.2.2 - Board and Senior Management Oversight
+39
+
+
+9.2.3 - Checklist for Transaction Derivatives
+40
+
+9.3 Product Guidelines 43
+
+
+9.3.1 Spot Foreign Exchange
+43
+
+
+9.3.2 Forward Foreign Exchange
+43
+
+
+9.3.3 Forex Options
+44
+
+
+9.3.4 Forex Swaps
+44
+
+
+9.3.5 Cross Currency Swaps
+45
+
+
+9.3.6 Interest Rate Swaps
+46
+
+
+9.3.7 Interest Rate Cap and Collar
+46
+10. Conclusion
+47
+
+--- Page 8 ---
+7 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+
+
+List of Annexure
+
+
+
+
+Number
+Topic
+Page No.
+ANNEXURE I
+
+DEFINITIONS
+48
+ANNEXURE II
+
+EARNINGS AT RISK
+52
+ANNEXURE III
+
+VALUE AT RISK
+54
+ANNEXURE IV
+
+RECONCILIATION FLOW CHART
+57
+ANNEXURE V
+
+ORGANOGRAM OF TREASURY
+58
+ANNEXURE VI
+
+THE PROCESS FLOW CHART
+59
+ANNEXURE VII
+
+FX POSITION BLOTTER
+60
+ANNEXURE VIII
+
+FOREIGN EXCHANGE DEAL SLIP
+61
+ANNEXURE IX
+CODE OF CONDUCT OF THE FOREIGN EXCHANGE
+DEALERS
+62
+ANNEXURE X
+NOSTRO ACCOUNT RECONCILIATION
+65
+ANNEXURE XI
+DERIVATIVES APPLICATION TO CENTRAL BANK
+65
+
+--- Page 9 ---
+8 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+1. Functions and Organizational set up
+1.1 Functions:
+The functions of today’s treasury can be categorized as follows:
+ Foreign exchange
+ Money market
+ Asset Liability Management
+ Fixed Income Trading
+
+Some of the typical products that would fall under treasury’s functions are as follows. Certain
+products/ transactions require prior approval from Foreign Exchange Policy Department,
+Bangladesh Bank on a deal specific basis:
+
+ Spot foreign exchange
+ Forward foreign exchange
+ Currency swap (Plain Vanilla and Cross Currency Swap)
+ Interest rate swap (Plain Vanilla, Collar, Cap, Cap Spread, etc.)
+ Forward rate agreement
+ Non-deliverable forward exchange
+ FX options (Plain Vanilla, Seagull, Range forward, etc.)
+ Overnight deposits
+ Term deposits
+ Structured deposits
+ Coupon securities
+ Discounted securities
+ Commodity trading and hedging (Swap, Collar, Put, Cap, Cap Spread. Put Spread, etc.)
+
+At present the treasury functions are performed by three distinct office under separate
+supervision viz., front office, back office and mid-office. Functions of these offices are as
+follows:
+
+1.1.1 Functions of Treasury Front Office:
+
+ Statutory management
+ Optimization of risk return through specialization and management
+ Funding of the Balance Sheet at optimum prices
+ Proposing interest rate matrix to the ALCO
+ Proposing various investment options to the ALCO
+ Analyze various economic trends and propose Balance Sheet Strategy to the ALCO
+ Quotation of various foreign exchange and interest rates to customers
+ Dealing in foreign exchange for position covering as well as for own account trading
+ Various funding activities through various derivatives
+ Provide structured treasury solutions to customer
+ Remain vigilant for any arbitrage opportunities
+ Marketing activities for future business growth
+ Estimate daily P&L and work with reporting unit in resolving any difference
+
+--- Page 10 ---
+9 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ Record/ maintain all foreign exchange and money market positions and check for
+differences with system generated/back-office reports
+ Sending dealing information to Back Office through deal slip (if the deal is not done
+throuh automated system)
+ Performing money market activities
+ Security/fixed income trading (if it is a PD)
+
+
+1.1.2 Functions of Treasury Mid Office:
+
+ Limits monitoring and managing limit
+ Adherence to various internal as well as regulatory policies
+ Minimization of all risks
+ Monitoring & management of various foreign exchange and money market positions
+ Monitoring & management of various cash flows and cash positions
+ Proposals/ renewals for various internal limits
+ Monitor for trader’s adherence to various internal and regulatory limits
+ Monitor for trader’s adherence to various counterparty limits
+ Prepare, monitor and manage all balance sheet gaps
+ Report any occurrence of crossing limit
+ Various internal and regulatory reporting
+
+1.1.3 Functions of Treasury Back Office:
+
+ Input, verification and settlement of deals
+ Receiving and sending of deal confirmation certificates
+ Preparation of currency positions (of previous day-end) and report to traders prior to
+commencement of day’s dealings
+ Reconciliation of currency positions
+ Rate appropriateness function for all deals done
+ Revaluation of all foreign exchange positions at a pre-determined frequency
+ Managing discrepancies and disputes
+ Daily calculation for adherence to statutory maintenance
+ Reconciliation of nostro accounts
+ Reconciliation of vostro accounts
+ Claim/ pay good value date effect of late settlements
+
+1.2 Organization setup
+In performing all the above listed functions in an appropriate manner and depending on the
+nature of business of the financial organization and its size, an organization would best
+determine the appropriate organization structure for its treasury and treasury back-office
+functions. However, irrespective of the size, nature of business, all treasury functions require to
+have clear demarcation between dealing and settlement/support functions i.e. the “treasury” that
+would be involved only in dealing activities and the “treasury support unit” (commonly known
+as the treasury back-office) that would be responsible for all related support functions including
+settlement of all transactions. This is required for control reasons i.e. different
+persons/departments should be responsible for the dealing and the settlement, measurement,
+reporting, etc.
+
+--- Page 11 ---
+10 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+In order to monitor and manage the organization’s risks arising from treasury activities in a more
+detailed level, large financial institutions have the setup of an additional unit named as the
+“treasury mid-office”. In smaller organizations where a separate treasury mid-office is not
+justified, the responsibility of the balance sheet risk measurement and reporting lies with the
+treasury back office. The Mid Office functions can also be performed by Finance in such smaller
+organizations.
+
+1.3 – Centralized Foreign Exchange and Money Market Activities:
+
+A financial organization’s balance sheet is formed from its core activities. However, as
+perfection in the balance sheet is almost impossible, organizations require access to the
+wholesale market to plug gaps and mismatches (though wholesale activities are primarily for
+managing gaps and mismatches, this is also done for proprietary trading and arbitrage purposes).
+As the two types of wholesale activities i.e. foreign exchange and money market are heavily
+interdependent, these are required to be housed in the same area. This means that an
+organization’s foreign exchange and money market activities are to be unified in the same
+department for efficiency.
+
+The above discussion and the listing of functions of an ideal treasury (on the previous section)
+clarifies that an organization’s foreign exchange and money market activities are needed to be
+centralized under a single treasury department reporting to the head of that business.
+
+For example, when a foreign exchange trader is doing a USD/BDT deal, this would involve the
+local currency money market funding for which the trader would need to take/ give feedback
+from/ to the money market desk. When these two functions are centralized in the same treasury
+department, the foreign exchange trader, in completing the deal, can exchange the feedback with
+the money market trader with ease and in a timely manner. As we know that inter-bank dealing is
+highly time-critical, the money market trader can make an optimum decision in an efficient way
+when s/he receives the information at the earliest possible time. Similarly, the foreign exchange
+trader can immediately pass on the foreign currency funding information to the relevant money
+market trader who can immediately make an efficient decision of the foreign currency funding
+impacted by the USD/BDT deal.
+
+1.4 - Separate Trading and Risk Management Units:
+
+Where the traders are required to operate within the prescribed risk limit framework, a different
+group of people known as the market risk managers have the responsibilities of identifying the
+risk areas and the appropriate limits. The roles and responsibilities of these two departments in
+term of controlling and managing risk are:
+
+1.4.1 Traders/Risk-Taking Units:
+
+ Maintain compliance with the market risk limit policies and remain within their approved
+independent market risk limit framework at all times
+ Ensure no limit breaches and arrange for pre-approval of any higher limit requirements
+ Inform the market risk management unit of any shifts in strategy or product mix that may
+necessitate a change in the market risk limit framework
+ Seek approval from the market risk management unit prior to engaging in trading in any
+new product
+
+--- Page 12 ---
+11 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+1.4.2 Market Risk Management:
+
+ Review policy at least annually and update as required
+ Independently identify all relevant market risk factors for each risk taking unit
+ Develop proposals for the independent market risk limits/ triggers, in conjunction with
+the risk-taking units
+ Ensure that limits/ triggers are appropriately established
+ Independently monitor compliance with established market risk limits/ triggers
+ Ensure ongoing applicability of the market risk limits/ triggers; formally review
+framework at least annually
+ If applicable, review and approve limit frameworks, as well as limit change requirements
+ Review and approve any temporary limit requirements
+ Recommend corrective actions for any limit excesses
+ Maintain documentation of limit breaches, including corrective action and resolution date
+
+1.5 – Organization Chart:
+
+Considering the above and in relation to the local market, an appropriate organization chart has
+been drawn. The proposed structure has been drawn bearing in mind all possible roles and
+functions that are currently applicable to market. In organizations where it does not justify
+employment of full time employees for each of the functions, a single employee or department
+can be used for more than one function. A sample organization chart has been provided on
+annexure IV for reference.
+
+From the organization structures shown on annexure IV, it is evident that the reporting lines for
+the officers managing the treasury and the treasury back office are separated. This is an ideal
+structure that needs to be in place for control reasons. In our domestic market, organizations
+according to their existing structure/ policy, would best determine in which of their departments
+the treasury would report and in which the treasury back office would. For banks with Treasury
+Mid office, the reporting line for that unit would also be different.
+
+1.6 - Job Descriptions:
+
+Based on the organizational structure proposed on annexure IV, following is an overview of the
+various jobs depicting the key roles of each of these for an ideal treasury and a treasury back-
+office:
+
+1.6.1 - TREASURY FRONT OFFICE:
+
+1.6.1.1 - Head of Treasury:
+ Overall responsibility of all treasury activities
+ Responsible for the treasury financial plan
+ Determine overall treasury business and risk strategy within internal and regulatory limits
+ Set individual trader dealing limits from limits approved by management
+ Monitor all traders’ positions and ensure traders adhere to all internal, regulatory as well
+as trader specific limits
+ Decide on particular positions during adverse situations
+ Continuous development of systems, processes, business strategies, etc.
+ Membership in the ALCO
+ Propose overall balance sheet strategy to the ALCO
+
+--- Page 13 ---
+12 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ Ensures a robust control environment for the treasury functions including dealers code of
+conduct, Chinese wall between the private and public side
+
+1.6.1.2 - Cross Currency Trader:
+ Forming Market Views
+ Monitoring exchange positions
+ Counterparty limits monitoring
+ Collating all the cross currency exchange positions
+ Remaining within all given internal and regulatory limits
+ Remaining within all counterparty limits at all times
+ Profitably trading/squaring the positions
+
+1.6.1.3 - USD/BDT Trader:
+ Trading spot and forward positions arising from import/export/remittances, etc.
+ Collating the whole Bank's USD/BDT positions
+ Remaining within all given internal and regulatory limits
+ Remaining within all counterparty limits at all times
+ Profitably trading/squaring the positions
+
+1.6.1.4 - Securities and Statutory Management Trader:
+ Maintenance of CRR and SLR
+ Investment in securities Portfolio as appropriate
+ Repo, Reverse-repo activities
+ Propose to the ALCO (through the head of treasury) of statutory investments
+
+1.6.1.5 - LCY & FCY Money Market Trader:
+ Overnight/Call money activities
+ Term market activities
+ Repo, Reverse-repo activities
+ Currency swaps
+ FCY placements
+ MM pricing of FCY
+ Nostro fundings
+ Spot any arbitrage opportunities and take advantage
+ Remaining within all counterparty limits at all times
+ Operating within all given balance sheet gap limits
+ Profitably trading/ squaring the positions
+
+1.6.1.6 - Balance Sheet Manager:
+ Managing all balance sheet gaps
+ Monitoring of market factors
+ Interest rate and market forecasts
+ Analysis of risk reports for presentation to ALCO
+ Daily reports to senior management
+
+1.6.1.7 – Corporate Dealer/Sales Manager
+ Managing Client Relationships
+ Checking Dealing Appropriateness
+ Ensuring all appropriate documentation in place before dealing
+
+--- Page 14 ---
+13 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ Preparing FX and IR Rate sheets
+ Ensuring compliance with Credit/Risk Limits
+
+
+1.6.1.8 – Fixed Income Trader
+ Take positions in Securities
+ Quote price to clients
+ Manage the trading portfolio of securities
+ Ensure compliance with Regulations
+ Manage client purchase/sale, both local and foreign, in T-bonds/bills
+
+1.6.2 - TREASURY BACK-OFFICE:
+
+1.6.2.1 - Head of Treasury Back Office:
+ Overall responsibility of all treasury back office activities
+ Responsible for all relevant regulatory reporting
+ Ensure compliance with Regulatory limits and escalate any excesses
+ Escalate reconciliation related issues
+ Discuss Treasury Risk issues with the Management
+ Responsible for accuracy and timeliness of all Back office reports and MIS
+
+1.6.2.2 - Manager – Local Currency Reconciliation:
+ Reconcile all local currency accounts on a day to day basis
+ Immediately advise money market trader and balance sheet manager of any discrepancy
+ Track for reconcilement of any unmatched item
+ Claim or arrange payment of good value date effects for any late settlements
+ Send chasers for any unsettled items until it is settled
+
+1.6.2.3 - Manager –Nostro Reconciliation:
+ Reconcile all nostro accounts on a day to day basis
+ Immediately advise USD/BDT or cross currency trader of any discrepancy
+ Track for reconcilement of any unmatched item
+ Claim or arrange payment of good value date effects for any late settlements
+ Send chasers for any unsettled items until it is settled
+
+1.6.2.4 - Manager – Vostro Reconciliation:
+ Reconcile all vostro accounts on a day to day basis
+ Immediately advise money market trader and balance sheet manager of any discrepancy
+ Track for reconcilement of any unmatched item
+ Claim or arrange payment of good value date effects for any late settlements
+ Send chasers for any unsettled items until it is settled
+
+1.6.2.5 - Manager – Foreign Currency Position Reconciliation:
+ Receive copies of USD/BDT and cross currency traders’ position blotters
+ Reconcile all foreign currency positions between accounted for records and USD/BDT &
+cross currency traders blotters on a day to day basis
+ Immediately advise USD/BDT or cross currency trader of any position discrepancy
+ Investigate and match unreconciled amounts
+
+--- Page 15 ---
+14 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ Advise USD/BDT and cross currency traders of correct currency positions prior to
+commencement of day’s dealing activities
+
+1.6.2.6 - Manager – Local Currency Position Reconciliation:
+ Receive copies of position blotters from money market trader
+ Reconcile all local currency positions between accounted for records and money market
+traders blotters on a day to day basis
+ Immediately advise money market trader of any position discrepancy
+ Investigate and match unmatched amounts
+ Advise money market trader of correct positions prior to commencement of day’s dealing
+activities
+
+1.6.2.7 - Manager – Foreign Currency Settlements:
+ Settle for all foreign currency deals done by USD/BDT, cross currency and the Fcy
+money market traders
+ Send and receive confirmations of all deals done by USD/BDT, cross currency and Fcy
+money market traders
+ Check nostro statements for settlements of major items
+ Advise traders of any discrepancy in settlement for the prior dealing day
+ All related accounting entries
+ Generate various MIS
+
+10.6.2.8 - Manager – Local Currency Settlements:
+ Settle for all local currency deals done by Lcy money market traders
+ Send and receive confirmations of all deals done by Lcy money market traders
+ Check local currency statements for settlements of major items
+ Advise traders of any discrepancy in settlement for the prior dealing day
+ All related accounting entries
+ Generate various MIS
+
+10.6.2.9 - Manager – Vostro Settlements:
+ Settle for all vostro transaction
+ Check vostro statements for settlements of major items
+ Advise dealers of any discrepancy in settlement for the prior dealing day
+ All related accounting entries
+ Generate various MIS
+
+1.6.2.10 - Manager – Regulatory reporting:
+ Send all required regulatory reports as per reporting schedule and as specifically required
+by the regulators
+ Respond to various queries from regulators regarding reports
+ Coordinate with other departments in receiving required information for reporting
+purpose
+ Create awareness among various related departments of the importance of effective and
+accurate reporting
+
+1.6.3 - TREASURY MID-OFFICE:
+1.6.3.1 - Head of Treasury MID Office:
+ Overall responsibility of all treasury Mid office activities
+
+--- Page 16 ---
+15 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ Responsible for all relevant Risk reporting
+ Measure for compliance with Regulatory/Internal limits and escalate any excesses
+ Escalate regulatory and internal policy breaches by Front and back office
+ Monitor Treasury Risk issues (both front and back office) with Management
+ Responsible for accuracy and timeliness of all reports as well as MIS
+
+1.6.3.2 - Manager - Risk Reporting:
+ Monitor limit utilizations against all internal and regulatory risk limits
+ Reporting of limit excesses, etc.
+ Stop loss/ cumulative loss limits monitoring and reporting
+ Monitoring of daily P&L
+ Measuring the of balance sheet gaps
+ Measuring the mark to market gain/loss
+ Identify and escalate cancelled/amended deals
+ Identify and escalate rate exceptions against off market rates
+ Generate various MIS
+
+1.6.3.3 - Manager - Risk Management:
+ Monitor Key risk indicators of front and back office
+ Identify future risk and design solutions as necessary
+ Confirm risk management capabilities of the bank prior to introducing any new treasury
+product
+ Ensure compliance with all action plans
+ Prepare report detailing the risk management strategy for Treasury
+ Responsible for accuracy and timeliness of all MIS
+
+Banks may have the same individual looking after multiple functions of Treasury, and in some
+banks’ treasury back office may perform treasury mid office functions too.
+
+1.7 – Individual Trader Dealing Mandate:
+
+Each dealer should have a dealing mandate approved by the management. The dealing mandate
+should describe the list of products the dealer is authorised to deal in, the individual limits
+authorised for each individual dealer, etc. The mandates should be reviewed and updated at least
+annually or more frequently if needed.
+
+1.8 - Restrictions:
+
+It is important to note that there are certain activities that are restricted by traders and back-office
+staff. These are listed below:
+
+1.8.1 - TREASURY FRONT OFFICE STAFFS ARE RESTRICTED FROM:
+ Deal processing
+
+Accounting entries
+
+Sending/ receiving deal confirmations
+
+Issuing/ receiving any cheques
+
+Sending settlement instructions
+ Generating revaluation rates
+ Running the revaluation process
+ Regulatory reporting
+
+--- Page 17 ---
+16 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ Involvement in raising rate appropriateness
+ Setting up/approving counterparty credit limits
+ Setting up/approving market risk limits
+
+1.8.2 – TREASURY BACK-OFFICE STAFF ARE RESTRICTED FROM:
+ Dealing activities
+
+Decide on exchange rates/ quoting prices
+
+Striking deals with counterparties
+
+Raising deal slips
+
+Altering deal details
+ Updating position blotters
+ Deciding on nostro funding
+ Approving counterparty credit limits
+ Approving market risk limits
+
+1.8.3 – TREASURY MID-OFFICE STAFFS ARE RESTRICTED FROM:
+ Dealing activities
+Decide on exchange rates/ quoting prices
+Striking deals with counterparties
+Raising deal slips
+Altering deal details
+ Updating position blotters
+ Deciding on nostro funding
+
+In treasuries without a dedicated mid office, back office staff may look after mid office
+functions.
+
+2. PROCESS
+
+In a proper treasury setup, a trader strikes a deal in the market and maintains his/her own record
+for monitoring the exchange position. Within a reasonable time, s/he passes on the detailed
+information of the deal to the treasury back office. The back office arranges for the deal
+confirmation with the counterparty, arranges settlement, reconciles exchange positions and
+advises to treasury and runs the valuation on a periodic basis. A detailed flowchart of this
+function has been shown on annexure V.
+
+The dealing function requires the traders to make very quick decisions either for taking
+advantages of any market movements or for unwinding an unfavorable position. Also, the
+treasury dealing is a wholesale function that involves large lot sizes. These together make the job
+of a trader requiring:
+- Proper information sources e.g. Reuters Money Eikon, Bloomberg and other financial TV
+channels, etc.
+-Adequate and dedicated communication tools e.g. a sophisticated Dealing System (optional), e-
+platform (optional), telephone, fax, internet facilities, etc.
+- Specially designed dealing desks to appropriately accommodate the various information and
+communication tools
+- Quick decision making authority (properly delegated authority by the management)
+- Independent decision making authority
+- Specific task allocations
+
+--- Page 18 ---
+17 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+In order to achieve the optimum level of efficiency, returns and most importantly controls, there
+are certain processes that the organization’s management must put in place. The very basic ones
+of these which are related to our market are explained below:
+
+2.1 - Dealing Room:
+
+Since the traders have access to global live prices of various products through their various
+communication tools, their desks are required to be access restricted. As a result, traders are
+typically housed inside a covered room known as the “dealing room” where the access is
+generally restricted only to the traders and the related personnel. Access to this dealing room
+should be restricted through electronic access control system.
+
+2.2 - Taped Conversations:
+
+In many occasions, the traders conclude deals over the phone. This is particularly applicable
+where deals are done on the local market where traders are mostly known to each other and they
+feel comfortable dealing by talking to other traders over phone. Such deals over the phone do not
+have any hard evidence and in a fast dealing environment, there is risk of mistakes (of currency,
+purchase or sales, rates, amounts or value dates, etc.) As a result, all telephonic conversations
+taking place in the dealing room are required to be taped.
+
+Taped conversations can assist in resolution of any disputes that may arise. As such, all
+telephone lines of the dealing rooms, may it be a direct line or a connection through the PABX,
+must be taped. This means that dealing over the mobile phones must be restricted. However, if
+the management feels that there is any specific need for dealing on mobile phone(s), this must be
+properly documented and recorded/tapped where specific trader(s) may be allowed to engage in
+dealing on mobile phone(s) under specific circumstances. In some jurisdictions, it is required to
+advise all traders (of other organizations) beforehand that their conversation would be taped.
+
+2.3 – Deal Recording:
+The job nature of a trader is highly demanding and the environment of a dealing room is very
+fast moving. In such an environment when a trader continues to conclude deals, his/her focus
+remains on the market. As such there is a risk of a trader completely forgetting about a deal or
+part of a deal or making a mistake in recording that deal.
+
+To eliminate this risk, a trader must record the deal immediately after it is concluded. The deal
+recording needs to be done in two ways:
+
+Position Blotter: Immediately after a deal is done, the trader should record the deal on the
+position blotter and update his position. It is of utmost importance for a trader to remain aware of
+his/her position at all times. This is required to capture any immediate opportunity or to be in a
+position to immediately react to any adverse situation. A sample blotter has been shown on
+annexure VI. Banks with automated or integrated dealing systems (where deals are input directly
+and no deal slips are generated) have their blotter in electronic form and no paper deal slip is
+generated.
+
+Deal Slip: A trader must, at the earliest possible time, record the details of the deal on a slip or
+memo which is known as the deal slip or deal ticket. For organizations that have implemented
+treasury automated systems, the deal slips are electronic and are through inputs into their
+
+--- Page 19 ---
+18 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+automated systems. A typical deal slip would contain details such as, payment instruction
+counter party, value date, currencies, amounts, rate, etc.
+
+The deal slip should be passed on to the treasury back office at the earliest for their further
+processing of the deal. Ideally, all deal slips should be pre-numbered for control reasons and the
+treasury back-office must monitor for any breakage in sequence. Where pre-numbered deal slips
+are in place, any cancelled deal slips must also be forwarded to treasury back office for
+appropriate record keeping/filling. A format of a typical deal slip has been shown on annexure
+VII. For Banks using electronic deal capturing systems (where deals are entered directly into a
+software system) no paper deal slip is generated by the front office.
+
+2.4 - Deal Delay:
+
+Deals done by traders are processed by the treasury back office for which they need to be
+informed of the details of the deals within the fastest possible time.
+
+The timeliness of raising deal slips/inputting into the automated system as well as passing them
+on to the back office is not only sound business practice but also critical for monitoring of credit
+risk, market risk and regulatory compliance. The following table provides a guide for standard
+time delays for deal captures:
+
+
+Product
+Deal slip raising/System
+input time
+Deal slip to reach
+back office
+Spot FX
+
+Within 10 Minutes
+Within 30 Minutes
+Forward FX
+
+Within 10 Minutes
+Within 30 Minutes
+FX Swaps
+
+Within 10 Minutes
+Within 30 Minutes
+Call Money
+
+Within 10 Minutes
+Within 30 Minutes
+Money Market Term
+
+Within 10 Minutes
+Within 30 Minutes
+Foreign Currency Deposit
+
+Within 10 Minutes
+Within 30 Minutes
+T-Bill/Bond Primary Auction
+Purchase/Corporate Security
+Underwriting
+Within 10 Minutes
+Within 30 Minutes
+Repo
+
+Within 10 Minutes
+Within 25 Minutes
+Reverse Repo
+
+Within 10 Minutes
+Within 25 Minutes
+FX Option
+
+Within 10 Minutes
+Within 30 Minutes
+T-Bill/T-Bond/Corporate security
+Secondary Trade
+Within 10 Minutes
+Within 25 Minutes
+
+The above time delays are good practice standards and may not be required as mandatory. These
+may vary from bank to bank depending on the distance of the physical locations of the treasury
+and the treasury back office and degree of system automation within the treasury organization.
+
+--- Page 20 ---
+19 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+Banks with integrated systems where deals input by front office in an electronic platform
+automatically flows into the back office settlement systems and no manual deal ticket is
+generated, traders should ensure that deals are entered into system within their internally
+stipulated time delay if any. However, this should ideally not be in excess of 10 minutes
+
+In case the deviation from the above mentioned times delays is in excess of 10 minutes, the
+concept of the deal delay process would be defeated. For monitoring of the proper functioning of
+this process, treasuries where manual deal slips are raised, should use time stamping on deal
+tickets. In environments where treasury automated systems are used, the time stamping may not
+be required since the systems are capable of take care of time logging automatically.
+
+2.5 - Counterparty Limits:
+
+The issue of counterparty limits arises from the risk that a customer with whom an organization
+had a reciprocal agreement defaults. Credit risk is the risk that the counterparty of the financial
+transaction, here a foreign exchange contract, may become unable to perform as per its
+obligation. The extent of risk depends on whether the other party's inability to pay is established
+before the value date or is on the same value date of the foreign exchange contract.
+
+All bank must have prudent counterparty limit for foreign exchange exposure i.e. the maximum
+exposure the banks is willing to a particular counterparty should be determined.
+
+2.6 - Triggers:
+A trigger is a level of a position at which an organization decides that the management should be
+made aware of. This may be in terms of a market value of a position or an unusual trading
+volume, etc. This is a predetermined level given by the management. When a trigger is hit, the
+management needs to be informed of the same. Upon advised of a trigger, the management
+usually decides on closer monitoring of the particular situation. In cases of a loss trigger, the
+amount is generally set at a lower level than the stop loss limit (at which the position has to be
+covered).
+2.7 – Stop Loss Orders:
+
+It is an order placed with the dealing room to buy or sell once the currency price reaches a
+certain price. A stop-loss order is designed to limit the traders’ loss on a fx position.
+
+The high degree of volatility commonly found in the forex market can offer traders the potential
+to make big gains, but also to suffer large losses. For this reason, treasury should employ an
+effective trading strategy that includes stop loss orders to manage risks.
+A stop loss order allows a dealer to set the minimum or maximum price at which s/he would
+have to buy or sell a currency.
+A dealer with a long position has to set a limit order at a price below the current market price to
+attempt to cap the loss on the position. On the other hand a dealer with a short position will set a
+price above the current price as the initial target to manage risk. There are no hard and fast rules
+that regulate how treasury can use stop loss limit order to manage its risks. Deciding where to put
+these limits is its own decision because each treasury has a different risk tolerance. Some
+
+--- Page 21 ---
+20 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+treasuries may decide that they allow incurring 30 to 40-pips loss on a particular deal, while
+other treasury may limit themselves to only a 10-pips loss.
+2.8 - Appropriateness of Dealing:
+
+While transacting with a client, a trader should be aware of the counterparty’s dealing style &
+product mix and assess (prior to concluding a deal) whether the customer is dealing in an
+“appropriate” manner. A trader should have the responsibility to ensure that the volumes of
+activity and types of products transacted by a particular client are appropriate for them and
+aligned with their business needs. Also, the trader should ensure that the risks of these
+transactions are clearly understood by the client. Prior to conclusion of a deal, a trader needs to
+ensure that the counterparty is authorized to enter into such transaction (both from counterparty’s
+internal and regulatory perspective).
+
+To address the appropriateness issue and in order to ensure that the client is fully aware of any
+risks associated with the associated transaction, it may be a good practice for the organization to
+get an appropriateness agreement signed with clients. This can also be addressed through
+obtaining the clients’ board resolution that states the list of products and authorized persons for
+their transactions.
+
+2.9 - Rate Appropriateness:
+
+This exercise is carried out by the treasury back office to check if all deals have been dealt at
+market based rates. Any deals done at off market rates must be raised to the respective trader for
+a satisfactory explanation bringing this to the notice of the chief trader. In case of an
+unacceptable justification provided by the trader, the organization may decide to carry out further
+investigation. This monitoring process needs to be in place to guard against application of any
+inappropriate rates.
+
+Treasury front office primarily uses Reuters for pricing of its products and treasury operations
+should also collect most of the data for their independent verification process from the same
+source. Following is a guide that can be used in the process of independent verification of prices
+for various products/instruments:
+
+Instrument Source and Frequency of Update:
+
+Instrument
+Source
+Frequency of Update
+Note
+Spot FX
+Reuters/National
+Newspapers/BAFED
+Reports/Bloomberg
+and other financial
+TV channels
+Minimum once daily, as
+frequently needed
+Reuters Pages:
+AFX=, FXXZ, BD (F9),
+BKBG, etc.
+
+Forward
+FX/Swap
+Reuters/Bloomberg/
+BAFEDA Report
+Minimum once daily, as
+frequently needed
+Reuters Pages:
+AFX=, FXXZ, BD (F9),
+BGBD, BKBD, DIBR,
+LIBOR01,
+GBPF=,
+EURF=,
+JPYF=
+etc.,
+USDIRS
+In the absence of an
+active
+interbank
+USD/BDT
+forward
+market, banks may use
+spreadsheets
+to
+determine
+forward
+premium to use for
+verification of forward
+
+--- Page 22 ---
+21 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+rates.
+
+Cross Currency
+Reuters/Bloomberg
+Minimum once daily, as
+frequently needed
+Pages: AFX=, EFX=,
+FXXZ
+
+Foreign Currency
+Deposits
+Reuters
+At Booking
+Pages: DEPO, GBPF=,
+EURF= etc.
+
+Call Money
+Reuters/National
+Newspapers
+Minimum once daily, as
+frequently needed
+DIBR,
+BD(F9),
+Bangladesh Bank’s mid
+day call money report
+etc.
+
+T-Bills/T-Bonds
+Primary Data
+Reuters/Bangladesh
+Bank
+website/Bloomberg
+Once daily
+Pages: BKBD
+
+
+Repo
+Reuters/National
+Newspapers/Banglad
+esh Bank website
+Page: BD (F9)
+
+Reverse Repo
+Reuters/National
+Newspapers/Banglad
+esh Bank website
+Page BD (F9)
+
+T-Bill/T-Bond
+(price)
+Primary auction rate
+from
+BB
+website,
+Reuters/Bloomberg
+Minimum once daily, as
+frequently needed
+
+
+
+In absence of an active interbank term money market and lack of publically available detailed
+information on T-bill/T-bond secondary trading, this cannot always be judged against any market
+information. However, for clarity, all term borrowings/placements should have sign-off from one
+level higher authority from the trader doing the transaction. This may also be covered under an
+appropriately delegated authority from the Head of Treasury and/or Chief Dealer as the case may
+be.
+
+The rate band for each instrument needs to be fixed depending on the market liquidity and
+volatility for each. An indication of the rate bands that may be used by Treasury Operations for
+their independent price verification process is as below:
+
+Instrument
+Rate Band
+Spot interbank FX
+For currencies other than BDT, for contracts with USD on one side, a 1%
+on each side of the mid market rate can be taken as a guidance. For BDT it
+can be within 5 paisa on each side of the base rate.
+Spot Customer FX
+For spot Customer FX, the band can be 2% on either side.
+Non BDT crosses
+For CHF, EUR, GBP, JPY this can be 50 pips on either side.
+Forward inter-bank
+swaps
+25 pips on either side of the base swap rate for currencies against USD
+other than JPY. 25 bps on either side of the base swap rate for JPY.
+FCY
+Borrowing/Lending
+25 bps on both side of the base rate (quoted on Reuters for the particular
+tenor) for on and off-shore deals.
+Call/Notice Money
+1% on either side of mid rate of rage reported on Reuters BD
+page/newspaper.
+
+--- Page 23 ---
+22 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+The treasury departments of all banks publish a rate sheet for their daily FX transactions at the
+counter levels based on the market levels of USD/BDT as well as cross currencies available from
+Reuters. While these rates are mainly for retail transactions up to a certain threshold and for
+small transactions of corporate houses, they can be applied to all sorts of transactions at the
+discretion of the bank. However, both buy and sell transactions of large size and/or special nature
+and transactions under special circumstances may be dealt at rates outside these published rates
+which may be either over or under the published rates for that day by ensuring rate
+appropriateness.
+
+It is noteworthy that all customer transactions are based on the principle of a positive spread.
+Any negative spread generating from a customer FX transaction must be highlighted as
+exceptions for explanations and approvals.
+
+
+
+2.10 - Deals Outstanding Trigger:
+
+It is a good practice to monitor the total deals outstanding of the treasury. This exercise requires
+to be carried out by the treasury back office to check against any unusual volumes of activity.
+Each treasury would have its own volume trend and the treasury back office should monitor
+whether all activities are being carried out within usual trend. The management may decide to set
+a trigger point for all outstanding FX contracts at any given point of time. If the trigger is
+exceeded, the treasury back office should escalate it to the attention of the head of treasury. This
+is an optional trigger that banks may consider if they wish to take a more conservative approach.
+Bank’s with integrated systems (where the front office captures deals in a software platform and
+back office can monitor deal outstanding in real time) can readily identify changes in deal
+volume trend, so a trigger may not be required.
+
+For example, in a fast dealing environment, a trader may make a mistake and execute a deal with
+an additional zero that would make the dealt amount much higher than intended. If a “deal
+outstanding” monitoring (by an independent unit) process is in place, this would be highlighted
+and brought to the attention of the senior management for any appropriate action. This mistake
+can also be readily identified if deal confirmations for all deal done are exchanged with
+counterparty back office on the same day. Back office would compare deals in system/deal
+tickets with counterparty confirmations and identify any discrepancies and escalate them.
+
+2.11 - Daily Treasury Risk Report:
+
+The treasury back-office/Bank Risk Unit is required to summarize all daily positions particularly
+the end-of-day positions on a report format for the information of the senior management. Such
+report should ideally contain information about outstanding open position against limit, different
+currency-wise outstanding exchange position (against limits if applicable), outstanding foreign
+exchange forward gaps in different tenors, tenor-wise MCO report, interest rate exposures of the
+balance sheet, counterparty credit limits usage, day’s P&L against trigger & stop loss limit. A
+sample format of a daily treasury report for the senior management has been drawn.
+
+--- Page 24 ---
+23 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+2.12 – Conversation Language:
+
+All dealing related conversations taking place in the treasury must be in an understandable and
+commonly spoken language for operational clarity. To elaborate, all conversations on the
+Dealing System must be in English and all conversions over telephone must be restricted to
+Bengali and/or English.
+
+3.0 Dealing Environment
+
+3.1 – Dealing Limits:
+
+Management will assign the dealing room a set of specific limits. These may include:
+
+ Dealing Room FX Position Limit
+
+o Individual Trader Position Limit – The total position a trader may take, in US$
+million. Individual trader position may be broken up by currency and Tenor if
+required.
+o Individual Currency Position Limit: Each trader can have individual currency wise
+limit assigned to their name for FCY/BDT or FCY/FCY positions. These limits can
+be further divided by tenor: i) Intraday Limit, the maximum position volume per
+currency an individual trader can take between Opening and closing each day, and ii)
+Overnight limit – The maximum position per currency an individual trader can carry
+into the next day.
+o By FX Product (Spot FX Trader, Forward FX Trader and FX Options Trader, etc.)
+individual limits.
+o By Tenor (Intraday, O/N and Forward limits)
+o Product List – Not all FX products may be traded by all banks or all traders. Dealing
+Mandates should reflect the FX Products that the dealing room or trading desk or an
+individual trader can deal in.
+
+Banks taking a more conservative approach have the option to monitor the following limits:
+
+ FX Deal Limit: Management can limit the individual FX deal size to a certain volume per
+day and per individual deal for individual traders and the dealing room.
+ Deal Outstanding limit: Management can limit the monthly trade volume for each currency
+to a certain number. Another method may be to monitor the daily trade volume for each
+currency and report any unusual patters. Bank with integrated systems and e-platform has
+instant access to trade flow volume data and can use this method easily.
+
+
+3.2 - Mandatory Leave and Training:
+
+The dealing functions are extremely sensitive and stressful involving wholesale and large
+amounts with exposures to adverse market movements. There is also risk of mistakes not being
+unearthed. As a result, for a particular trader’s functions to be run by a different trader, all traders
+are required to be away from their desks for a certain period of time at one stretch during a year.
+
+During this period, traders are expected not to contact with their colleagues in the treasury area
+and the bank should not to contact the trader for any reason. Typically, this period is defined as a
+continuous two weeks period. This should be monitored and reported to top management. Any
+
+--- Page 25 ---
+24 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+exceptions, including contacting a trader on block leave, should be done with prior approval of
+treasurer. Traders going on leave should ensure all relevant information is handed over to their
+backup.
+
+Training (special ACI certification course/bourse course) should be organized for the treasury
+personnel. Only trained personnel should be engaged in treasury activities.
+
+3.2.1 Treasury Bench Strength:
+
+Traders are specialists in their jobs and each treasury should develop backup personnel for all job
+positions. This would ensure that a trader on mandatory leave need not be contacted as his/her
+backup can take care of duties.
+
+3.3 - Stop Loss Limits:
+
+Based on the comfort on each trader and/or the treasury as a whole, the management allocates
+dealing limits. However, there is always risk of adverse market movements and no organization
+is in a position to absorb/accept unlimited losses. This results in organizations putting in place
+“stop loss limits”. Stop loss limits can either be trader specific or only be specific to the treasury
+as a whole as specified by the management. They can be:
+
+ For each Individual Deal
+ For each Individual trader during each working day/ week/ month
+ For each working day for any treasury unit as a whole
+ Over a specific working period for any treasury desk (e.g. FX, ALM, Fixed Income, etc.).
+
+A bank’s dealing room may additionally have specific Management Action Triggers (MAT) that
+are set at levels below the stop loss levels to highlight the loss situation to the attention of the
+management for their decisions/instructions if any.
+
+3.4 Position Reconciliation:
+
+All traders’ positions must be reconciled with the positions provided by the treasury back-office.
+This must be done daily prior to commencement of the day’s business and before closing the
+day’s business. Unreconciled positions may lead to real differences in actual positions exposing
+the organization to adverse market changes and real losses. Traders should reconcile their
+dealing recorded on daily blotter (electronic or otherwise) prior to close of business as a good
+practice. Trades done using e-platforms should be reconciled against communications from e-
+platform provider by back office.
+
+3.5 - After-hours Dealing:
+
+After-hours deals are ones that are initiated at a time that is after the normal business hour of the
+day. For specific business reasons, an organization may decide to allow its treasury to engage in
+after-hours dealing. In such cases the organization must have properly laid down procedures
+detailing the extent to which they want to take risk during after-hours and which traders to have
+dealing authority and upto what limits they can deal during after hours. A bank will define its
+normal business hour for this purpose and have laid down processes/ procedures in place for the
+accounting and processing of all after hour deals.
+
+--- Page 26 ---
+25 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+3.6 - Off-premises Dealing:
+
+A dealing transaction done by a trader who is not physically located in the dealing premises
+(irrespective of the time of day) is defined as an off-premises deal. An organization must have
+detailed laid down procedures for the off-premises dealing describing how these deals would be
+accounted for with least possible delay. Typically, organizations would designate particular
+trader(s) with the authority for off-premises dealings in case they decide to carry out such
+activity for some specific business reason/justification. The number and breakdown of off
+premises deals may be separately reported to the treasurer on a periodic basis.
+
+3.7 – Deal Cancel and Amend:
+Deals input in the system may need to be amended due to various reasons, i.e. information error
+(price, volume currency, settlement date inaccuracy, etc.), client request, system error or any
+other reason. Banks should have a detailed policy regarding deal cancellation, and a monthly
+report should be complied by Mid/Back Office capturing the reason for deal cancellation and
+amendment.
+
+4. Code of Conduct
+
+Due to the special nature of job that traders engage in, they are expected to act in a professional
+and ethical manner. The principles constituting the ethical conducts for traders are detailed in
+annexure IX.
+
+Banks are required to have detailed Dealers Code of Conduct that will guide the professional
+behavior of Dealing Room Staff. This should include and is not restricted to: Business Ethics,
+Interaction with Market, Risk Management and exception escalation process. Any deviations
+from the code should be notified to management immediately.
+
+
+5. Electronic System and Data Safeguards
+
+Traders use various systems including spreadsheets for managing their day to day business. All
+such systems should ideally be password protected for the reason of data safety. To protect the
+data and maintain discipline, the following measures need to be ensured:
+
+ The system access given to traders should be periodically reviewed by the Treasurer to see if
+their job descriptions and dealing mandate justify the system access. Redundant access rights
+should be removed.
+ Dealers should not share individual passwords unless the system provider is unable to give
+individual password (Like Reuters).
+ The Generic files used by Traders (example: Excel file to prepare Daily Rate sheet or to price
+forwards) should be password protected and be designed according to a standard format
+endorsed by the Treasurer. The IT department of the bank may assist in protecting the
+specific cells of the file that contain formulae. Any changes/updates to the files should be
+logged.
+ An authorised list should be maintained for entities where e-mail communication is sent
+regularly using common e-communication platforms (Yahoo mail/hotmail/Gmail). This list
+should be regularly updated. However, this does not apply to communications to the
+Regulators/ BAFEDA.
+
+--- Page 27 ---
+26 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ Confidential information should not be sent to third party over common e-mail without prior
+authorization.
+ Dealing Rooms dealing in inside information (Private side bond issue, IPO, Capital Market
+issues, etc.) should set up process to prevent data leakage, both through physical and
+electronic means.
+
+5.1 Dealing Room Access log
+
+Dealing rooms are restricted areas where the access should be controlled for unauthorized
+persons. If possible, access doors with electronic swipe cards should be setup. Access rights
+should be periodically checked and updated as needed.
+
+5.2 Risk Limit Management
+
+The Risk unit of the Bank provides Risk Limits (VaR, EaR, PV01, etc.) according to
+Regulations, Internal Policy and Risk appetite for dealing room, which are approved by
+management. A detailed policy on compliance with all such limits and escalation procedure
+should be in place for the dealing room. The risk exposure should be calculated daily by Middle
+Office/Risk unit/Finance and communicated to Management. Risk Management limits may
+include and are not restricted to:
+
+PV01 limit:
+Price Value of a Basis Point - the p/l that results from 1 basis point movement in product price.
+The FX Forward Positions are evaluated using the PV01 limits. The Dealing room is assigned an
+overall PV01 limit and individual PV01 limits for each currency the dealing room is authorized
+to deal in FX Forward purchase and sale. Net open forward position of the unit has to be within
+the PV01 and the bank’s NOP limit.
+
+Value at Risk Limit:
+Value at Risk, commonly referred to by its acronym VAR, is a statistical measure of the worst
+probable loss on a position or portfolio of positions that can be expected over a specified period
+of time to a given level of confidence.
+
+Straddle Gap/MCO Limit:
+Banks, based on their annual FX inflow/outflow and balance sheet strengths, may choose to limit
+FX forward exposure for certain tenors. For example, Management may authorize a next FX
+exposure of US$ 30 million up to three months, but US$ 20 million for 1 year.
+
+Out of Market Rate (OMR) Tolerance limit:
+Banks should have a tolerance limit set on daily deal rate deviations from market rate. For
+example, if a bank sets the OMR Tolerance Limit at 1% of the daily market range, any deal rate
+that crosses that limit should be reported to management and explanation should be obtained
+from dealing room.
+
+6. ALM/CFT Risk Management in Foreign Exchange:
+
+6.1 AML compliance during transactions: For complying AML/CFT risk in foreign exchange
+transactions, banks need to ensure that they will transact only those customers whose appropriate
+identity is established by conducting due diligence to the risk profile of the client. Parameters of
+risk perception must be clearly defined in terms of the nature of business activity, location of
+customer and his clients, mode of payments, volume of turnover, service offered, social and
+
+--- Page 28 ---
+27 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+financial status etc. to enable categorization of customers into different risk grade. No
+transaction is to be made in the name of any person or entity listed under United Nations
+Security Council Resolutions (UNSCRs) or their close alliance adopted under Chapter VII of the
+Carter of UN on suspicion of involvement in terrorist or terrorist financing activities and
+proscribed or enlisted by Bangladesh Government .‘Person or entities listed under various
+resolutions
+of
+United
+Nations
+Security
+Council’
+can
+be
+downloaded
+from
+http://www.un.org/sc/committees/list_compend.shtml and the list of Bangladesh Government
+can be found at the schedule of Anti-Terrorism Act, 2009. For effective implementation of TFS
+relating to TF & PF banks are required to have automated screening mechanism that could
+prohibit any listed individuals or entities to enter into the banking channel. The banks should
+operate in such system whether they could detect any listed individuals or entities prior to
+establish any relationship with them. In particular, banks need to emphasize on account opening
+and any kind of foreign exchange transaction through an automated screening mechanism so that
+any listed individuals or entities could not use the formal financial channel.
+
+
+6.2 AML compliance during establishing and maintaining Nostro & Vostro Account: Banks
+should establish Cross Border Correspondent Banking relationship after being satisfied about the
+nature of the business of the correspondent or the respondent bank through collection of
+information as per BFIU circular-10 dated 28 December, 2014. The bank should also obtain
+approval from its senior management before establishing and continuing any correspondent
+relationship. The bank must be sure about the effective supervision of that foreign bank by the
+relevant regulatory authority. Bank should not establish or maintain any correspondent
+relationship with any shell bank and not to establish or maintain any relationship with those
+correspondent or respondent banks that establish correspondent banking relationship or maintain
+accounts with or provide services to a shell bank. Banks should pay particular attention or
+conduct Enhanced Due Diligence while establishing or maintaining a correspondent banking
+relationship with banks incorporated in a jurisdiction that do not meet or have significant
+deficiencies in complying international standards for the prevention of money laundering and
+terrorist financing (such as the countries and territories enlisted in High –Risk and Non-
+Cooperative Jurisdictions in the Financial Action Task Force’s Public Statement). Detailed
+information on the beneficial ownership of such banks and extensive information about their
+policies and procedures on preventing money laundering and terrorist financing shall have to be
+obtained. If any respondent bank allow direct transactions by their customers to transact business
+on their behalf (i.e. payable through account), the corresponding bank must be sure about the
+appropriate Customer Due Diligence (CDD) of the customer has done by the respondent bank.
+Moreover, it has to be ensured that collecting the information on CDD of the respective customer
+is possible by the respondent bank on request of the correspondent bank. Here, ‘Payable through
+accounts’ refers to “Corresponding accounts that are used directly by third parties to transact
+business on their behalf.”
+
+6.3 AML compliance during wire transfer: As per prevailing law and regulation, full and
+accurate information of the originator has to be collected, preserved and has to be sent to
+intermediary/beneficiary bank in case of threshold cross-border wire transfers. For providing
+money of cross-border wire transfers to beneficiary, full and meaningful beneficiary information
+has to be preserved. Where several individual cross-border wire transfers from a single originator
+are bundled in a batch file for transmission to beneficiaries, the batch file has to contain required
+and accurate originator information, and full beneficiary information.
+
+--- Page 29 ---
+28 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+
+7. Nostro Account Reconciliation:
+
+7.1 – Nostro Account Reconciliation:
+Banks maintain various nostro accounts in order to conduct operations in different currencies
+including BDT. The senior operations manager of the organizations set limits for handling nostro
+account transactions that include time limits for the settlements of transactions over the various
+nostro accounts and the time and amount limits for items that require immediate investigation
+after receipt of the account statements. In defining these limits, consideration must be given to
+the transit and processing times of the various types of transactions.
+
+The time and amounts limits, if exceeded, require referral to the operations manager for
+appropriate action. Persons reconciling nostro accounts are to be independent of originating,
+responding to, authorizing or booking transactions and must not reconcile the same accounts for
+a continuous period of more than twelve months. However, after the lapse of at least the next
+monthly reconcilement process immediately following the twelve month period, these persons
+can be reassigned with the same duties.
+
+The process of matching open items must be performed each time statements are received and
+must ensure a true match (e.g. dates, amounts and transaction identity). All matches must be
+cross-referenced between “our accounts” and the statement. Entries that make up a partial or
+incomplete match are to be suitably cross-recorded so that a clear audit trail is provided. The
+current “our account” records and statements are to be maintained under control and custody of
+persons in charge of reconcilements.
+
+As frequently as deemed necessary but not less than once a month, a “reconcilement balancing
+report” must be prepared for each “our account” which must include the “our account” balance,
+the related statement balance and a listing of all open items (all differences and unprocessed
+items).
+
+Tracers must be sent if the open item exceeds the established time or amount limits. The
+operations manager must review all reconcilement balancing reports to evaluate the status and
+progress of eliminating open items and to ensure that investigation and follow-up efforts are
+satisfactory and tracers are sent on a timely basis. The operations manager establishes limits for
+monthly accrual of interests on overdrafts in “our accounts” maintained with other branches and
+correspondents. Overdraft interest for “our accounts” must be calculated for each day the branch
+is in overdraft in accordance with its records.
+
+At least quarterly, a comprehensive review of all “our accounts” must be made by an officer
+independent of transaction processing and authorization functions to ensure that each account
+continues to be operated with a valid business purpose and that reconciliations and other controls
+continue to be in place and are effective. The maximum time limit after which unmatched items
+must be referred to the operations manager is shown in Annexure X.
+
+7.1.1 Operational Loss/Write Off/Late Receipt Charge/Liquidation
+The operations manager sets the time and amount limits for liquidation of open items or
+differences found unreconcilable as authorized by management according to regulations and
+internal policies. These items must be investigated as far as is practicable and if they are found
+unreconcilable, the operations manager may authorize liquidation through appropriate entries as
+
+--- Page 30 ---
+29 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+established as per their accounting policies. However, the items in question must be amply
+identified and corrective steps taken to prevent recurring differences.
+
+Due to operational issues (SWIFT system down, late receipt of funds etc.) the bank may suffer
+loss. These should be written off (when applicable) or realised from counterparty (when
+applicable) as soon as possible. All late receipt charges due to delayed payments should be
+adjusted within the year and not carried forward. Exceptions should be escalated with
+explanations as to why the charges had not been cleared annually. Banks should have a policy to
+monitor and settle such issues.
+
+A detailed flowchart of the reconciliation process has been shown in Annexure III.
+
+7.2 – Mark-to-Market:
+This is a process through which the treasury back-office values all outstanding positions (Spot
+and Forward, on and off balance sheet as detailed by Risk management policy/regulations) at the
+current market rate to determine the current market value of these positions. This exercise also
+provides the profitability of the outstanding contracts. The treasury back office gathers the
+market rates from an independent source i.e. other than traders (Reuters/Bloomberg, BAFEDA,
+calling other bank back offices) of the same organization which is required to avoid any conflict
+of interest. Back office can also check with traders if needed. Revaluation should be done daily
+and the p/l impact adjusted accordingly.
+
+Traders are required to have their own P&L estimate which must be tallied with the ones
+provided by the treasury back-office. Any unacceptable difference between these two must be
+reconciled to an acceptable level.
+
+7.3 - Valuations:
+The process of revaluing all positions at a pre-specified interval is known as valuation. Though
+this exercise, an organization determines that if they are to liquidate all the positions at a given
+time, at what profit or loss they would be able to do so.
+This function is carried out by the treasury back-office by gathering revaluation rates. Ideally, the
+treasury back-office should gather such rates from sources other than from the traders of the
+same organization to avoid any conflict of interest.
+
+7.4 – Model Control Policy:
+Any banking organization and particularly the treasuries use models for the following reasons:
+
+ To generate valuations used in the various financial statements
+ To produce market risk measurements used by independent risk management to
+monitor risk exposures
+
+All financial models that are used for updating the organization’s independent risk monitoring,
+must be validated and periodically reviewed by qualified personnel independent of the area that
+creates such models. The models include valuation and risk measurement systems that are
+developed in-house, certain models on spreadsheets, and models within vendor systems.
+
+Model Control Policy or Model Validation is the process through which models are
+independently and comprehensively evaluated by reviewing underlying assumptions, verifying
+mathematical formulae, testing the models to verify proper implementation and assessing any
+weaknesses and ensuring appropriate application. The validation process of a model reduces the
+
+--- Page 31 ---
+30 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+risk associated with using a model that has flaws in the underlying assumptions, errors in its
+implementation and/or is used inappropriately.
+
+Model Validation is generally performed only once on a model however, subsequent re-
+validations on previously validated models are required only if analytic changes are made to the
+model that affect valuation and/or risk measurement calculations. Model Assumption Reviews
+must be conducted at least annually, or more frequently as warranted by business and market
+conditions.
+
+The originator of a model must ensure that it is documented, resides in a control environment
+and any change to an existing model is reported. The Treasuries using the financial models, in
+conjunction with their systems support group, are ultimately responsible for ensuring that all
+models reside in control environments. A model validation process is not applicable to financial
+models which only perform simple arithmetic operations. These may include, but are not limited
+to, value-at-close calculations, earnings-at-risk calculations, interest accrual calculations, and
+aggregation or consolidation of risk exposures to compare against risk limits.
+
+7.5 – Internal Audit:
+Considering the complexities of the foreign exchange business, a process for an internal audit
+has widely been accepted as a check point to review the adequacy of the key control issues. A
+review may be conducted at least twice annually. This function can include checking for
+adherence to various limits, compliance requirements, statutory management, etc.
+
+In addition to regular audits at specified intervals, a concurrent audit process can be put in place
+to ensure the treasury’s functioning in an appropriate manner on a day-to-day basis. The
+concurrent audit control is automatically put in place with the implementation of a properly
+functioning Mid Office.
+
+8.0 POLICY
+
+All financial activities involve a certain degree of risk and particularly, the financial institutions
+of the modern era are engaged in various complex financial activities requiring them to put
+proper attention to every detail. Risk is defined as an event that can cause financial, physical or
+reputational loss or can commit the bank to an uncertain future.
+
+The success of the trading business depends on the ability to identify and manage effectively the
+various risks encountered in the trading environment, and the organization’s policies and
+processes require development over time to ensure that this is done in a controlled way.
+
+The key risk areas of a financial institution can be broadly categorized into:
+
+- Market Risk
+- Liquidity Risk
+- Credit Risk
+- Operational risk
+- Legal, Regulatory and Compliance Risk
+- Reputational Risk
+-Strategic Risk
+
+The bank is exposed to a number of different risks between FX trade execution and final
+settlement. The risks vary depending on the type of pre-settlement and settlement arrangements.
+
+--- Page 32 ---
+31 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+A bank needs to understand the risks associated with FX transactions in order to adequately
+manage them.
+The risks relating to settlement risk are principal risk, replacement cost risk and liquidity risk.
+Besides there is a presence of operational and legal risks between trade execution and final
+settlement and also the various pre-settlement and settlement arrangements and their impact on
+risks.
+For the purposes of exposition, the risks are described from the point of view of “a bank” and a
+failed FX “counterparty” of that bank. Here it is also described the risks relating to a single FX
+trade between a bank and its counterparty.
+Although Risk is always present, it must be actively and prudently managed in order to reduce
+the adverse consequences as far as possible to capture profitable opportunities. Risk management
+involves the following steps:
+ Risk identification
+ Risk measurement
+ Application of Risk management tools.
+ Risk management
+8.1 Market Risk
+A bank’s board (independent risk management function in case of foreign banks) would
+determine an overall risk appetite and exposure limit in relation to its market risk strategy. Based
+on these tolerances the senior management should establish appropriate risk limits. Risk limits
+for business units, should be compatible with the institution’s strategies, risk management
+systems and risk tolerance. The limits should be approved and periodically reviewed by the
+BoDs and/or independent risk management function, with changes in market conditions or
+resources prompting a reassessment of limits.
+Institutions need to ensure consistency between the different types of limits. Some commonly
+used market risk limits are:
+ Gap or Maturity Limits: These limits are put in place to monitor and manage exposures
+arising from the differences in maturity dates or re-pricing dates of transactions. For
+example, there may be gap limits for each maturity band of 3 months, 8 months, 9
+months, one year, etc. to avoid maturities concentrating in a particular maturity band.
+Such limits can be used to reduce the volatility by staggering the maturity and/or re-
+pricing and thereby smoothing the effect of changes in market factors affecting price.
+Maturity limits are required to monitor and manage the liquidity risks as well as re-
+pricing risks.
+ Notional or volume trigger: A trigger that needs to be monitored based on the notional
+amount of the total outstanding FX contracts. This helps to guard against any unusual
+transaction pattern in the dealing room. This trigger does not capture any price risk or
+market volatility risks.
+ Stop loss limits: These limits are established to avoid unrealized loss in a position from
+exceeding a specified level. When these limits are reached, the position must either be
+liquidated or hedged. Typical stop loss limits include those relating to accumulated
+unrealized losses for a day, a week or a month. This limit can be given to individual
+dealers or to a trading desk as a whole.
+ Value at Risk limits (VAR): VAR is generally accepted and widely used tool for
+measuring market risk inherent in trading portfolios. It follows the concept that
+reasonable expectation of loss can be deduced by evaluating market rates, prices
+
+--- Page 33 ---
+32 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+observed volatility and correlation. VAR summarizes the predicted maximum loss (or
+worst loss) over a target horizon within a given confidence level.
+Generally there are three ways of computing VAR
+ Parametric method or Variance covariance approach
+ Historical Simulation
+ Monte Carlo method
+Banks need to set limits, including operational limits, for the different trading desks and/or
+traders which may trade different products, instruments. Limits need to be clearly understood,
+and any changes clearly communicated to all relevant parties. Risk Taking Units must have
+procedures that monitor activity to ensure that they remain within approved limits at all times.
+Limit breaches or exceptions should be made known to appropriate senior management without
+delay. There should be explicit policy as to how such breaches are to be reported to top
+management and the actions to be taken.
+8.2 Liquidity Risk
+Liquidity risk is considered a major risk for any financial institutions as well as banks. It is a risk
+of a financial institution not being able to meet its funding obligations (including in foreign
+exchange) when due either from own sources, wholesale market sources or from the sources of
+the lender of the last resort.
+The condition of funding from the wholesale market depends upon the liquidity in the market.
+Accordingly an institution short of liquidity may have to undertake transaction at heavy cost
+resulting in a loss of earning or in worst case scenario the liquidity risk could result in
+bankruptcy of the institution if it is unable to undertake transaction even at current market prices.
+Given that, banks should put in place appropriate liquidity limits which the board or management
+or the independent risk management department considers as appropriate based on various
+market conditions and forecasts.
+The prerequisites of an effective liquidity risk management include an informed board, capable
+management and staff having relevant expertise and efficient systems and procedures. It is
+primarily a duty of the BoD’s to understand the liquidity risk profile of the bank and the tools
+used to manage liquidity risk. The board needs to ensure that the bank has necessary liquidity
+risk management framework and that the bank is capable of managing any uncertain liquidity
+scenarios. Generally, the board of a bank is responsible to:
+ position the bank’s strategic direction and tolerance level for liquidity risk.
+ appoint senior managers with the ability to manage liquidity risks then delegate the
+required authorities to accomplish the job.
+ continuously monitor the bank's performance and overall liquidity risk profile.
+ ensure that the liquidity risks are identified, measured, monitored, and controlled.
+At the basic level, banks may utilize flow measures to determine their future funding
+requirements including in foreign exchange. A cash flow projection estimates a bank’s inflows
+and outflows and thus net deficit or surplus (GAP) over a time horizon. This will help banks to
+better position themselves even in crisis situations.
+
+--- Page 34 ---
+33 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+8.3 Compliance Risk
+
+Compliance risk is the current and prospective risk to earnings or capital arising from violations
+of, or nonconformance with, laws, rules, regulations, prescribed practices, internal policies, and
+procedures, or ethical standards. Compliance risk also arises in situations where the laws or rules
+governing certain bank products or activities of the Bank’s clients may be ambiguous or
+untested. This risk exposes the institution to fines, payment of damages, the voiding of contracts,
+etc. Compliance risk can lead to diminished reputation, reduced franchise value, limited business
+opportunities, reduced expansion potential, and an inability to enforce contracts.
+
+All Banks should be fully conversant with compliance regulations relevant to their foreign
+exchange business. All audit recommendations arising from internal and external audits or from
+regulators must be regularly reviewed by departmental executives to ensure that
+recommendations covering their area of operations have been implemented and maintained.
+
+The following indicators should be used when assessing the quality of compliance risk
+management:
+
+Strong
+Management fully understands all aspects of compliance risk and exhibits
+a clear commitment to compliance. The commitment is communicated
+throughout the institution.
+Authority and accountability for compliance are clearly defined and
+enforced.
+Management anticipates and responds well to changes of a market,
+technological, or regulatory nature.
+Compliance considerations are incorporated into product and system
+development and modification processes, including changes made by
+outside service providers or vendors.
+When deficiencies are identified, Management promptly implements
+meaningful corrective action.
+Appropriate controls and systems are implemented to identify compliance
+problems and assess performance.
+Training programs are effective, and the necessary resources have been
+provided to ensure compliance.
+Compliance management process and information systems are sound, and
+the Bank has a strong control culture that has proven effective.
+The Bank privacy policies fully consider legal and litigation concerns.
+Satisfactory
+Management reasonably understands the key aspects of compliance risk.
+Its commitment to compliance is reasonable and satisfactorily
+communicated.
+Authority and accountability are defined, although some refinements may
+be needed.
+Management adequately responds to changes of a market, technological,
+or regulatory nature.
+While compliance may not be formally considered when developing
+products and systems, issue are typically addressed before they are fully
+implemented.
+Problems can be corrected in the normal course of business without a
+significant investment of money or management attention. Management
+
+--- Page 35 ---
+34 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+is responsive when deficiencies are identified.
+No shortcomings of significance are evident in controls or systems. The
+probability of serious future violations or noncompliance is within
+acceptable tolerance.
+Management provides adequate resources and training given the
+complexity of products and operations.
+Compliance management process and information systems are adequate to
+avoid significant or frequent violations or noncompliance.
+Bank privacy policies adequately consider legal and litigation concerns.
+Weak
+Management does not understand, or has chosen to ignore, key aspects of
+compliance risk. The importance of compliance is not emphasized or
+communicated throughout the organization.
+Management has not established or enforced accountability for
+compliance performance.
+Management does not anticipate or take timely or appropriate actions in
+response to changes of a market, technological, or regulatory nature.
+Compliance considerations are not incorporated into product and system
+development.
+Errors are often not detected internally, corrective action is often
+ineffective, or Management is unresponsive.
+The likelihood of continued violations or noncompliance is high because a
+corrective action program does not exist, or extended time is needed to
+implement such a program.
+Management has not provided adequate resources or training.
+Compliance management processes and information systems are deficient.
+Bank privacy policies are nonexistent or do not consider legal and
+litigation concerns.
+
+
+8.4 Reputational and Fraud Risk
+
+Reputational risk should be regarded as a generic term embracing the risks, from any source, that
+can negatively impact reputation of the organization, and not as a category of risk in its own
+right. Regulatory noncompliance, loss of customer data, unethical employee behavior, or an
+unexpected profit warning can all damage the reputation and stakeholder confidence which may
+eventually result in a credit downgrade as well.
+
+These risks should be managed as well.
+
+
+8.5 Credit Risk - Arises from an obligor’s failure to perform as agreed. An investor is at risk if a
+borrower defaults on a financial obligation. This can be divided into two categories. A bank
+should have a clear cut guidelines regarding selection of counterpart to minimize the credit risk.
+The bank can use the ratings of independent credit rating agencies or use their important
+financial ratios to judge the credit worthiness of counterparty to ensure safety of funds.
+
+These risks should be managed as well divulge.
+
+8.6 Operational Risk – Operational Risk is defined as the risk of losses resulting from
+inadequate or failed internal process, people and systems, or from external events. Operational
+Risk can arise from both internal and external factors, some of which are as below:
+
+--- Page 36 ---
+35 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+Internal
+ Operational errors
+ Non-compliance with banking regulations, legal requirements, etc.
+ Non-compliance with internal guidelines
+ Infrastructure failure, including technological ones
+ Launching new products without adequate operational support
+ Late or incorrect payments
+ Staff fraud
+ Inadequate or incorrect documentation, etc.
+
+External
+ Adverse legal judgements
+ Deliberate external fraud attempts against the Bank
+ Money laundering
+ Outsourced activities
+ Natural disaster, fire, theft, etc.
+
+The bank should properly identify, assess, monitor and control its operational risks, should ensure
+that its systems support appropriate risk management controls, and have sufficient capacity, scalability
+and resiliency to handle FX volumes under normal and stressed conditions.
+
+8.6.1Key considerations
+
+a. The bank should ensure that its operational risks are appropriately represented in the bank’s operational
+risk management framework and confirm trades in a timely manner, using electronic methods and
+standard settlement instructions, where practicable.
+b. A bank should have a robust capacity management plan to ensure that its systems have sufficient
+capacity and scalability to handle increasing and high-stress FX trading volumes. The plan should include
+the timely monitoring of trading volumes and capacity utilization of key systems to prevent it from
+approaching critical levels. The bank should also have robust business resiliency and continuity plans to
+manage its operational risks and complete its FX settlement obligations.
+
+8.6.2 Operational risk management framework
+
+a. The bank should establish an operational risk management framework that identifies, assesses,
+monitors and controls a bank’s operational risks. The framework should address the accuracy, capacity
+and resiliency of a bank’s operational processes and systems for FX settlement. The bank should
+periodically reassess its operational risks, including risks that stem from changes in its FX portfolio (eg
+new products).
+
+b. The bank’s operational risks can arise from deficiencies in information systems, internal processes,
+personnel or disruptions from external events. These risks can lead to inadequacies in the accuracy,
+capacity and resiliency of a bank’s operations and cause delays or errors in trading data or confirmation of
+FX trades. Further, operational risks can lead to losses resulting from the bank’s failure to meet
+obligations on time, and create or exacerbate other risks (eg, liquidity risk and reputational risk). The
+bank should have appropriate plan to minimize the above risks.
+
+c. The bank should maximise the use of Straight-through processing (STP) by employing systems that
+automatically feed transactions, adjustments and cancellations from trade execution systems to other
+internal systems, such as operations and credit-monitoring systems. STP helps to ensure that data is
+disseminated quickly, accurately and efficiently throughout the bank, and allows for effective monitoring
+and control of risks from trade execution to settlement. For example, STP can facilitate the timely
+confirmation of trades with counterparties and eliminate errors from manual processing. Maximising the
+
+--- Page 37 ---
+36 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+use of STP, however, does not fully eliminate operational risk. In addition, STP systems require
+monitoring and sufficient capacity and scalability. In the event that STP systems are disrupted, a bank
+should have contingency procedures to continue its operations.
+
+d. The bank should establish processes and procedures that allow it to confirm or positively affirm FX
+trades as soon as practicable after execution to reduce the potential for losses from market risk or other
+sources. Where practicable, a bank should use electronic methods and standard settlement instructions to
+maximise the use of STP and allow for prompt confirmation and affirmation. Escalation procedures
+should be in place to resolve unconfirmed transactions. Trade confirmations and affirmations should be
+transmitted in a secure manner to mitigate the possibility of fraudulent correspondence.
+
+8.6.3 Capacity
+a. The bank should have a robust capacity management plan for its FX systems, including trading, credit
+monitoring, operations, and settlement systems. When assessing capacity needs, a bank should consider
+the sufficiency of FX systems and operational personnel.
+b. The bank should ensure its FX systems have sufficient capacity and scalability to handle increasing and
+high-stress FX volumes. A bank’s capacity plan should include forecasting of expected and high-stress
+capacity needs. The forecasts should consider the FX trading behaviour of the bank and its clients.
+c.The bank should ensure its FX systems are designed appropriately for the scale of its current and
+expected FX business activity. Further, a bank should design its FX systems to accommodate the potential
+for large trading spikes in stress situations, as appropriate. Finally, a bank’s FX systems should be flexible
+enough to meet changing operational needs.
+d. The capacity plan should include timely monitoring of trading volumes and capacity utilisation of key
+systems. A bank should monitor trading volumes in a timely manner to prevent them from reaching a
+critical level and assess the potential for large FX trading spikes.
+
+8.6.4 Contingency planning
+
+The bank should develop and test its business resiliency and continuity plans to ensure continued
+operations following a disruption. A bank should identify and address various plausible events that could
+lead to disruptions in their FX-related operations and should have appropriate systems, backup procedures
+and staffing plans to mitigate such disruptions. Business continuity plans should be documented and
+periodically reviewed, updated and tested by proper authority.
+
+8.7 Settlement risk:
+
+Foreign exchange settlement risk arises when a bank in a foreign exchange transaction pays the
+currency it sold but does not receive the currency it bought. Due to counterparty default,
+operational problems, market liquidity constraints and other factors, foreign exchange settlement
+risk may take place in the foreign exchange market which involves both credit risk and liquidity
+risk. The risk may be greater if there is an adverse price fluctuation between the contract price
+and the market price. From the point of view of credit risk dimension if a bank cannot make the
+payment of the currency it sold conditional upon its final receipt of the currency it bought, it may
+face the possibility of losing the foremost value of the transaction. Usually the duration of
+settlement is an intraday phenomenon in some cases it may be even longer i.e. overnight/over
+weekend or can last for several days. The receiving bank may be in liquidity risk if unsettled
+funds are required to meet obligations to other parties and this may be severe if the unsettled
+amount is larger or the alternative source of fund may be lift up at short notice in the unreceptive
+market. An important dimension of foreign exchange settlement risk is the systematic risk aspect
+which relates with the size of the bank’s foreign exchange exposures and their capital as a result
+of failure of one counterparty could lead to that banks insolvency.
+
+A bank’s procedures for managing its foreign exchange settlement risk should be according to
+the range and scope of its activities. FX settlement risk management should initiate from the
+
+--- Page 38 ---
+37 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+highest levels of the organization, with a policy on it from the bank’s board of directors which
+should be an integral and consistent part of the bank’s overall policy towards counterparty risk. It
+should be regularly reviewed and modified to take into account of new circumstances and
+changes in the scale and nature of the bank’s FX operations or in the method of settlement used.
+
+All banking organizations must have prudent counterparty limits for foreign exchange settlement
+exposures. An FX settlement limit should be established for each counterparty i.e. the maximum
+exposure the bank is willing to take with a particular counterparty should be determined. The
+limit structure will depend on each organization’s credit risk policies as well as target market
+criteria. Limits set by the bank should strictly be followed in case of foreign exchange settlement
+risk exposures for each counterparty. In case of any planned excess of settlement limit occurring,
+prior approval from appropriate credit management personnel is required. Exposure measures
+should be updated promptly as new deals are struck or when exposures from existing trades last
+longer than expected. Banks should develop effective monitoring system which enables them to
+observe developments in real time in case of not to exceed the settlement limits with large
+exposures for the better management of foreign exchange settlement risks. Even a bank should
+put additional emphasis on those exposures which are large or with less credit-worthy
+counterparties or in case of a series of fails indicates an underlying credit-worthiness problem. In
+general a review by the credit management personnel should take place for necessary corrective
+actions if any unauthorized limit excess still occurs despite these precautions.
+
+
+8.7.1 Operational and legal risk management relating to settlement: The bank may also face
+FX settlement-related risks caused by weaknesses in its own operations and weaknesses in the
+legal enforceability of contractual terms and the governing law applicable to its transactions. If a
+bank has inadequate operational capabilities or if there are weaknesses in the legal basis for the
+pre-settlement and settlement arrangements, it can face increased principal risk, replacement cost
+risk and liquidity risk relating to counterparty failure.
+
+Inadequate skills and insufficient processing capacity may increase potential exposures. These
+weaknesses can cause operational delays, inaccurate confirmation and reconciliation, or an
+inability to quickly correct or cancel payment instructions. Legal risk occurs when a
+counterparty’s contractual FX obligations are non-binding, unenforceable and subject to loss
+because (i) the underlying transaction documentation is inadequate; (ii) the counterparty lacks
+the requisite authority or is subject to legal transaction restrictions; (iii) the underlying
+transaction or contractual terms are impermissible and/or conflict with applicable law or
+regulatory policies; or (iv) applicable bankruptcy or insolvency laws limit or alter contractual
+remedies.
+
+Legal problems may affect settlement of a foreign exchange transaction. Legal issues may
+compromise the legal robustness of netting, the enforceability of unilateral cancellation times or
+certainty about the finality of the receipt of currency.
+
+Pre-settlement risk: The risk that a client defaults on its agreement with the organization before
+the settlement day. Whilst the organization has not paid away any funds, it still has to replace the
+contract at the current market rates, which might have moved against. In this case the
+organization is exposed to possible adverse price fluctuations between the contract price and the
+market price on the date of default or final liquidation. The organization’s loss would then be the
+difference between the original contract price and the current market price on the date of default.
+
+--- Page 39 ---
+38 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+To avoid settlement risk, fraud, etc. banks are advised to use authenticated electronic trading
+platform (such as SWIFT, Bloomberg, etc.) for settlement of foreign exchange related
+transactions (such as LC issuing, LC advising, LC amendment, LC confirmation, Reimburse
+Authority, Reimburse Amendment Authority, etc.)
+
+All banking organizations must have appropriate counterparty limits in place for their treasuries.
+The limit structure will depend on each organization’s credit risk appetite based on their credit
+risk policies as well as target market criteria. All such credit risk limits should be set by the
+organization’s credit risk approving unit independent of the treasury dealing function. Any
+excesses of pre-settlement risk limits must be escalated to management immediately. Traders
+should make special and/or interim limits request on a prior basis in cases of any foreseeable
+limit excesses and/or for needs to transact higher amounts for specific reasons.
+
+Settlement Risk arises from UNSC sanction:
+
+As a member of United Nations, Bangladesh is obliged to comply with the instructions of the
+resolutions adopted by the Security Council under Chapter-VII of UN Charter. The instructions
+contained in the United Nations Security Council Resolution 1288(1999) and its subsequent
+resolutions and other resolutions have to be complied and if any account/transaction operated in
+the name of the person(s) or institution(s) listed in those resolutions or in the name of
+institution(s) owned or controlled directly or indirectly by them; the account(s) have to be frozen
+without delay and the same have to be reported to Bangladesh Financial Intelligence Unit. Any
+transaction operated in the name of the person(s) or institution(s) listed in ‘Resolutions relating
+to the prevention, suppression and disruption of proliferation of weapons of mass destruction and
+its financing’, adopted by the Security Council under United Nations Charter-VII, or in the name
+of institution(s) owned or controlled directly or indirectly by them; the account(s) have to be
+frozen without delay. Necessary measures have to be taken by collecting the list prepared under
+those
+resolutions
+proactively
+from
+the
+UN
+website
+(http://www.un.org/sc
+/committees/index.shtml). In applicable case, the necessary transactions have to reported as
+CTR/STR to BFIU.
+
+8.8 Strategic risk - Arises from adverse business decisions or improper implementation of them.
+
+
+
+9.0 Derivatives Guideline
+
+9.1 Introduction
+
+Derivative means an instrument, to be settled at a future date, whose value is derived from
+change in interest rate, foreign exchange rate, credit rating or credit index, price of securities
+(also called “underlying”), or a combination of more than one of them. Participants of this
+market can broadly be classified into two functional categories, namely, market-makers and
+users.
+
+Users can undertake derivative transactions to hedge - specifically reduce or extinguish an
+existing identified risk on an ongoing basis during the life of the derivative transaction - or for
+transformation of risk exposure. Users can also undertake hedging of a homogeneous group of
+assets & liabilities, provided the assets & liabilities are individually permitted to be hedged.
+Market-makers can undertake derivative transactions to act as counterparties in derivative
+
+--- Page 40 ---
+39 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+transactions with users and also amongst themselves with prior permission from Bangladesh
+Bank where necessary.
+
+Market-makers are all AD Banks (and their overseas offices) and users are business entities with
+identified underlying risk exposure. Market-makers may undertake a transaction in any
+derivative structured product as long as it is permitted by Bangladesh Bank. Users can enter into
+derivatives transactions only to hedge underlying commercial exposure and not for speculative
+purposes. The management of derivatives activities should be an integral part of the overall risk
+management policy and mechanism. It is desirable that the board of directors and senior
+management with customer understand the risks inherent in the derivatives activities being
+undertaken. Market-makers should have a ‘Suitability and Appropriateness Policy’ vis-à-vis
+users in respect of the products offered, on the lines indicated in these guidelines.
+
+Foreign Exchange Forward (Local and Foreign Currencies), Foreign Exchange Swaps (Local and
+Foreign Currencies) and Cross Currency Swaps are permitted subject to creation conditions
+specified Guidelines for Foreign Exchange Transactions, 2009 (Volume-1) Chapter-1 and
+subsequent circular issued thereafter. Other derivative contract (not specifically mentioned in any
+instruction) Foreign Exchange Options, Interest Rate Swaps, Interest Rate Cap and Interest Rate
+Collar, etc. may be exercised only with prior permission from Bangladesh Bank and subject to
+certain conditions detailed in the following sections:
+
+ Foreign Exchange Forward: Local and Foreign Currencies
+ Foreign Exchange Swaps: Local and Foreign Currencies
+ Foreign Exchange Options: Local and Foreign Currencies
+ Cross Currency Swaps: Local and Foreign Currencies
+ Interest Rate Swaps: Foreign Currencies
+ Interest Rate Cap and Collar: Foreign Currencies
+
+
+9.2 Risk Management Aspects in Derivatives and new product transactions
+Market Maker- AD Bank(s)
+User: Exporter and Importer
+
+This section sets out the basic principles of a prudent system to control the risks in derivatives
+and new product activities. These include:
+
+a) Appropriate oversight by the board of directors and senior management in case of launching
+new derivatives/products.
+
+b) Adequate risk management process that integrates prudent risk limits, sound measurement
+procedures and information systems, continuous risk monitoring and frequent management
+reporting; and
+
+c) Comprehensive internal controls and audit procedures.
+
+
+9.2.1 Corporate Governance
+
+ It is vital, while dealing with potentially complex new products, such as derivatives that the
+board/senior management should understand the nature of the business which the bank is
+undertaking.
+
+--- Page 41 ---
+40 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+ The board of directors and senior management also need to demonstrate through their actions
+that they have a strong commitment to an effective control environment throughout the
+organization.
+
+ The board and senior management, in addition to advocating prudent risk management,
+should encourage more stable and durable return performance and discourage high, but
+volatile returns.
+
+ The board of directors and senior management should ensure that the organization of the
+bank is conducive to managing risk. It is necessary to ensure that clear lines of responsibility
+and accountability are established for all business activities, including new derivative
+activities.
+
+ The central risk control function at the head office should also ensure that there is sufficient
+awareness of the risks and the size of exposure of the trading activities in new derivatives &
+new product operations. The compliance risks in all new products and processes should be
+thoroughly analysed and appropriate risk mitigants by way of necessary checks and balances
+should be put in place before the launching of new products. The Chief Compliance Officer
+must be involved in the mechanism for approval of new products and all such products
+should be signed off by him. The Compliance Officer should also review and approve all the
+existing products in light of these guidelines.
+
+
+9.2.2 Board and Senior Management oversight
+
+The board should approve written policies which define the overall framework within which new
+derivatives activities or new product transactions should be conducted and the risks controlled.
+The policy framework for derivatives approved by the board may be general in nature. But the
+framework should cover the following aspects:
+
+ To establish the institution's overall appetite for taking risk and ensure that it is consistent
+with its strategic objectives, capital strength and management capability to hedge or transfer
+risk effectively, efficiently and expeditiously.
+
+ To define the approved derivatives products and their likes and the authorized derivatives &
+new product activities.
+
+ To detail requirements for the evaluation and approval of new products or activities.
+
+ To provide for sufficient staff resources and other resources to enable the approved
+derivatives and new products activities to be conducted in a prudent manner;
+
+ To ensure appropriate structure and staffing for the key risk control functions, including
+internal audit;
+
+ To establish management responsibilities;
+
+ To identify the various types of risk faced by the bank and establish a clear and
+comprehensive set of limits to control these;
+
+--- Page 42 ---
+41 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ To establish risk measurement methodologies which are consistent with the nature and scale
+of the derivatives and new product activities; and
+
+ To detail the type and frequency of reports which are to be made to the board (or concerned
+committee(s) of the board). The type of reports to be received by the board should include
+those which indicate the levels of risk being undertaken by the institution, the degree of
+compliance with policies, procedures and limits, and the financial performance of the various
+derivatives and trading activities. Internal and external audit reports should be reviewed by a
+board-level audit committee and significant issues of concern should be drawn to the
+attention of the board.
+
+
+9.2.3 Checklist for transacting derivatives
+
+• Suitability and Appropriateness Policy: The rapid growth of the derivatives market,
+especially structured derivatives has increased the focus on ‘suitability’ and ‘appropriateness’ of
+derivative products being offered by market-makers to customers (users) as also customer
+appropriateness. Market-makers should undertake derivative transactions, particularly with users
+with a sense of responsibility and circumspection that would avoid, among other things, mis-
+selling. Inadequate understanding of the risks and future obligations under the contracts by the
+users, in the initial stage, may lead to potential disputes and thus cause damage to the reputation
+of market-makers.
+
+The market-makers may also be exposed to credit risk if the counterparty fails to meet his
+financial obligations under the contract. The market-makers should carry out proper due
+diligence regarding ‘user appropriateness’ and ‘suitability’ of products before offering derivative
+products to users. Each market-maker should adopt a board-approved ‘Customer
+Appropriateness & Suitability Policy’ for derivatives business. The objective of the policy is
+prudential in nature: to protect the market-maker against the credit, reputation and litigation risks
+that may arise from a user’s inadequate understanding of the nature and risks of the derivatives
+transaction. Appendix-9 exhibits a Sample Suitability checklist.
+
+• Capability checking of the users: In general, market-makers should not undertake derivative
+transactions with or sell structured products to users that do not have properly documented risk
+management policies that include, among other things, risk limits for various risk exposures.
+Furthermore, structured products should be sold only to those users which follow prudent
+accounting and disclosure norms and are capable of ascertaining the mark to market position of
+these products on an on-going basis.
+
+• Documented records: While undertaking derivative transactions with or selling structured
+derivative products to a user, a market-maker should document how the pricing has been done
+and how periodic valuations will be done. In the case of structured products, this document
+should contain a dissection of the product into its generic components to demonstrate its
+permissibility, on the one hand, and to explain its price and periodic valuation principles, on the
+other. The following information may be shared with the user:
+
+a) Description of the transaction
+b) Building blocs of the transaction
+c) Rationale along with appropriate risk disclosures
+d) Sensitivity analysis identifying the various market parameters that affect the
+product.
+
+--- Page 43 ---
+42 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+e) Scenario Analysis encompassing both the possible upside as well as the
+downsides and analyse the expected impact of the proposed derivatives
+transaction on the user;
+f) Inform the customer of its opinion, where the market-maker considers that a
+proposed derivatives transaction is inappropriate for a customer. If the customer
+nonetheless wishes to proceed, the market-maker should document its analysis
+and its discussions with the customer in its files to lessen the chances of litigation
+in case the transaction proves unprofitable to the customer. The approval for such
+transactions should be escalated to highest level of authority at the market-maker
+as also for the user,
+g) Ensure the terms of the contract are properly documented, disclosing the inherent
+risks in the proposed transaction to the customer in the form of a Risk Disclosure
+Statement which should include a detailed scenario analysis (both positive and
+negative) and payouts in quantitative terms under different combination of
+underlying market variables such as interest rates and currency rates, etc.,
+assumptions made for the scenario analysis and obtaining a written
+acknowledgement from the counterparty for having read and understood the Risk
+Disclosure Statement.
+h) Guard against the possibility of misunderstandings all significant communications
+between the market-maker and user should be in writing or recorded in meeting
+notes.
+
+• Authority check: Market maker will ascertain whether a user has the appropriate authority to
+enter into derivative transactions and whether there are any limitations on the use of specific
+types of derivatives in terms of the former’s board memorandum/policy, level at which
+derivative transactions are approved, the involvement of senior management in decision-making
+and monitoring derivatives activity undertaken by it.
+
+• Exposure check: Market maker will identify whether the proposed transaction is consistent
+with the user’s policies and procedures with respect to derivatives transactions, as they are
+known to the market-maker.
+
+• Terms of the contract: Market maker ensure that the terms of the contract are clear and assess
+whether the user is capable of understanding the terms of the contract and of fulfilling its
+obligations under the contract. A term sheet detailing all the information related to trade should
+be signed by the client before executing any trades. *** Please refer to Appendix Nine for
+Sample Term Sheets
+
+• Dispute handling: Market maker should establish internal procedures for handling customer
+disputes and complaints. They should be investigated thoroughly and handled fairly and
+promptly. Senior management and the Compliance Department/Officer should be informed of all
+customer disputes and complaints at a regular interval. It may also be noted that the
+responsibility of ‘Customer Appropriateness and Suitability’ review is on the market-maker.
+
+• Documentation Requirement: Market participants are advised to ensure that the
+documentation requirements in respect of derivative contracts are complete in all respects. For
+the sake of uniformity and standardization in respect of all derivative contracts, participants may
+use ISDA documentation, with suitable modifications for continuing ongoing relationships.
+Counterparties are free to modify the ISDA Master Agreement by inserting suitable clauses in
+the schedule to the ISDA Master Agreement to reflect the terms that the counterparties may
+
+--- Page 44 ---
+43
+Core Risk Management in Banking: Foreign Exchange Risk Management
+
+agree to, including the manner of settlement of transactions and choice of governing law of the
+Agreement.
+
+• The identification of risk: Market-makers should identify the various types of risk to which
+they are exposed in their derivatives activities. The main types of risk are and discussed in earlier
+sections:
+• credit risk
+• market risk
+• liquidity risk
+• operational risk
+• legal risk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.3 Product Guidelines
+
+9.3.1 Spot Foreign Exchange
+
+--- Page 45 ---
+44 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+A foreign exchange spot transaction, also known as FX spot, is an agreement between two
+parties to buy one currency against selling another currency at an agreed price for settlement on
+the spot date. The exchange rate at which the transaction is done is called the spot exchange rate.
+
+9.3.2 Forward Foreign Exchange
+
+A FX forward contract or is a non-standardized contract between two parties to buy or sell a
+currency against another at a specified future time at a price agreed upon today. The party
+agreeing to buy the underlying currency in the future assumes a long position, and the party
+agreeing to sell the currency in the future assumes a short position. The price agreed upon is
+called the forward rate, which is agreed at the time when the contract is entered into.
+
+The forward price of such a contract is commonly contrasted with the spot price, which is the
+price at which the asset changes hands on the spot date. The difference between the spot and the
+forward price is the forward premium or forward discount.
+
+Forwards, like other derivative securities, can be used to hedge risk (typically currency or
+exchange rate risk).
+
+9.3.3 Forex Options
+
+A foreign-exchange option (commonly shortened to just FX option or currency option) is a
+financial derivative instrument that gives the owner the right but not the obligation to exchange
+money denominated in one currency into another currency at a pre-agreed exchange rate on a
+specified date. To hedge bonafide transactions, banks can exercise foreign exchange option only
+with prior permission from Bangladesh Bank in case to case basis.
+
+Relevant Guidelines
+
+
+ Banks can only offer plain vanilla options and its simple variations only.
+
+ These transactions may be freely booked and/ or cancelled subject to verification of the
+underlying.
+
+ All guidelines applicable for FX forward contracts are applicable to cross currency option
+contracts also.
+
+ Cross currency options should be written by banks on a fully covered back-to-back basis.
+The cover transaction may be undertaken with a bank outside or inside Bangladesh or an
+internationally recognized option exchange. Any banks desirous of writing options (i.e.
+not back to back), should obtain a one-time approval from Foreign Exchange Policy
+department of Bangladesh Bank before undertaking the business. They should clearly
+explain the booking, processing, risk mitigates (i.e. option greeks like Delta hedging
+strategy) covering the transactions and scenario analysis of profit/loss of customer in
+details while seeking the approval.
+
+ Banks have to go through a robust suitability process before commencing any options
+related transactions with the clients.
+
+--- Page 46 ---
+45 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ The term sheet for the derivative transactions should also necessarily and clearly
+mention the following: a) The purpose for the transaction detailing how the product and
+each of its components help the client in hedging; b) The spot rate prevailing at the time
+of executing the transaction; and quantified maximum loss/ worst downside in various
+scenarios.
+
+ The pricing of all forex derivative products should be locally demonstrable at all times.
+
+
+9.3.4 Forex Swaps
+
+Clients having a foreign currency liability and undertaking a foreign currency vs BDT swap to
+move from a foreign currency liability to a BDT liability or vice versa is allowed given AD
+banks is able to examine the suitability and appropriateness of the swap and be satisfied about
+the financial soundness of the client.
+
+Purpose of this is to hedge exchange rate and/or interest rate risk exposure for those having long
+or short term foreign currency borrowing or to transform long or short term BDT borrowing into
+foreign currency liability.
+
+Guidelines
+
+ The term “long-term exposure” means exposures with residual maturity of one year or
+more. “Short term exposure” meaning less than one year exposures.
+
+ The swap transactions, once cancelled, shall not be rebooked or re-entered, by whichever
+mechanism or by whatever name called.
+
+ AD banks should not offer any swap structures other then vanilla, i.e. leveraged swap.
+
+ The notional principal amount of the swap should not exceed the outstanding amount of
+the underlying exposure.
+
+ The maturity of the swap should not exceed the remaining maturity of the underlying
+exposure.
+
+ Banks should carry out due diligence regarding “user appropriateness” and “suitability”
+of the swap transaction.
+
+ The term sheet for the derivative transactions should also necessarily and clearly mention
+the following: a) The purpose for the transaction detailing how the product and each of its
+components help the client in hedging; b) The spot rate prevailing at the time of
+executing the transaction. C) Quantified maximum loss/ worst downside in various
+scenarios.
+
+ The pricing of all forex derivative products should be locally demonstrable at all times.
+
+ Buying/Selling/Swapping foreign currency against BDT or another foreign currency is
+allowed between resident interbank counterparties and Buying/Selling/Swapping foreign
+currency against another foreign currency to cover client transactions or for adjustment of
+own position is allowed with banks abroad if Guidelines on Managing Core Risks in
+
+--- Page 47 ---
+46 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+Banking’ (as prescribed by Bangladesh Bank vide BRPD circular 19 dated 09/10/2003).
+It is also allowed for AD banks to initiate trading positions with the overseas markets
+banks.
+
+
+9.3.5 Cross Currency Swaps
+
+Cross Currency Swap (CCS) or Currency Swap is an agreement between two parties to exchange
+interest payments and principals denominated in two different currencies. Purpose is to hedge
+FCY borrowing or lending related interest rate and exchange rate exposure and unwinding from
+such hedges.
+
+Guidelines
+
+ The notional principal amount of the product should not exceed the outstanding amount
+of the foreign currency loan.
+
+ The maturity of the product should not exceed the unexpired maturity of the underlying
+loan.
+
+ The contracts may be cancelled and rebooked freely.
+
+ Banks should carry out due diligence regarding “user appropriateness” and “suitability”
+of the swap transaction.
+
+ The term sheet for the derivative transactions should also necessarily and clearly
+mention the following:
+
+1. The purpose for the transaction detailing how the product and each of its components
+help the client in hedging;
+
+2. The spot rate prevailing at the time of executing the transaction.
+
+3. Quantified maximum loss/worst downside in various scenarios.
+
+ The pricing of all forex derivative products should be locally demonstrable at all times.
+
+
+9.3.6 Interest Rate Swaps
+
+An Interest Rate Swap is a financial contract between two parties exchanging or swapping a
+stream of interest payments for a `notional principal’ amount on multiple occasions during a
+specified period. Such contracts generally involve exchange of a `fixed to floating’ or `floating to
+floating’ rates of interest. Accordingly, on each payment date - that occurs during the swap
+period - cash payments based on fixed/ floating and floating rates, are made by the parties to one
+another. Purpose is to hedge FCY borrowing or lending related interest rates exposure and
+unwinding from such hedges.
+
+Guidelines
+
+--- Page 48 ---
+47 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ The notional principal amount of the product should not exceed the outstanding amount
+of the foreign currency loan.
+
+ The maturity of the product should not exceed the unexpired maturity of the underlying
+loan.
+
+ The contracts may be cancelled and rebooked freely as per specific predetermined policy
+guidelines.
+
+ Banks should carry out due diligence regarding “user appropriateness” and “suitability”
+of the swap transaction.
+
+ The pricing of all forex derivative products should be locally demonstrable at all times.
+
+
+9.3.7 Interest Rate Cap and Collar
+
+An interest rate cap is an interest rate option in which payments are made when the reference rate
+exceeds the strike rate. Analogously, an interest rate floor is an interest rate option in which
+payments are made when the reference
+rate falls below the strike rate. Purpose is to hedge FCY borrowing or lending related interest
+rate exposure and unwinding from such hedges.
+
+Guidelines
+
+ The notional principal amount of the product should not exceed the outstanding amount
+of the foreign currency loan.
+
+ The maturity of the product should not exceed the unexpired maturity of the underlying
+loan.
+
+ The contracts may be cancelled and rebooked freely.
+
+ Banks should carry out due diligence regarding “user appropriateness” and “suitability”
+of the Cap and Collar.
+
+ AD banks can offer only those products that they can price independently. This is also
+applicable to the products offered even on back to back basis. The pricing of all forex
+derivative products should be locally demonstrable at all times.
+
+
+
+
+
+
+
+
+
+10. CONCLUSION
+
+
+*** For any other products other then mentioned above will require Bangladesh Bank approval on a case by
+case basis before transacting. Please update the sample product approval format (Please use appendix Nine
+for Product approval format) and send it along with application letter to General Manager, Foreign
+Exchange Policy Department.
+
+--- Page 49 ---
+48 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+The descriptions on the above pages depict a trader’s job as a highly demanding one requiring
+high degree of skills and specialization in their respective areas. Certain key positions in the
+treasury back-office also require high level of skills and expertise.
+
+The traders of an organization are responsible for risk management of the organization’s overall
+balance sheet as well as managing the capital which is a highly responsible function where the
+best possible decisions are expected to be made in split-second.
+
+It is the senior management’s responsibility to ensure appointment of the appropriate and
+deserving personnel as treasury and treasury-back office staff. They should also on a continuous
+basis, identify the traders training and development requirement and arrange for the same. The
+management should also put in place an overall trading policy for its treasury defining the
+scopes, policies, risk-limits as well as their control mechanisms as well as set up and review
+individual dealer mandates.
+
+A trader’s job is extremely stressful requiring them to devote high degree of continuous
+concentration and remain alert all the time. Also, due to the current global nature of a treasury’s
+business, today’s traders require working for extended as well as unsocial hours. Many of the
+banks operating in the local market keep their dealing rooms operative for business reasons on
+Fridays, which is the local weekly holiday. Bearing this in mind, most advanced dealing rooms
+pay a special dealing allowance to its traders.
+
+The management must appreciate that the nature of a treasury environment is ever changing
+where new market dynamics, products and as a result, new risks are evolving on a continuous
+basis. An organization’s internal policies and structures must be designed in such a manner that
+identification of new risk and control areas is possible at the earliest where control mechanisms
+can be implemented prior to taking up any significant risk.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annexure – I
+Definitions:
+
+--- Page 50 ---
+49 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+Following are definitions of some terminologies used for this document:
+a) Counter-party: The other entity/bank or party with whom a transaction is concluded.
+b) Exchange Position: Exchange position refers to the position of foreign currency
+(FCY) to be reported as per prescribed format of Bangladesh Bank which indicates
+the total FX assets and liabilities and differences thereof.
+c) Inter-bank Transactions: Inter-bank Transactions refer to transactions between
+counterparties (banks and/ or other financial institutions) which participate in the
+inter-bank market.
+d) Limit and Sub-Limit: Limit and Sub-Limit express the approved aggregate value for
+particular currency (currency limit) either booked as asset or as liability.
+e) Merchant Transaction: Merchant Transaction indicates those transactions which
+involves in-house customers e.g. exporter, importer and remitter of the Bank. These
+are often termed as flow transactions or internal flows.
+f) Open Position Limit: Open Position Limit indicates the limit approved by
+Bangladesh Bank for maximum long and short aggregate currency position in
+equivalent USD.
+h) Position Taking: Position Taking refers to the transactions for which dealers enter
+into buy/ sell transaction in a particular currency with a view to making profit.
+i) Revaluation: Through this process, the LCY equivalent of the FCY assets and
+liabilities of the balance sheet (book value) are valued at market price using the
+prevailing exchange rate and any difference is accounted for.
+j) Ready/Cash Deals: Deals where the Transaction date and the Settlement date is
+same.
+k) Value TOM: Deals where the Settlement date is one working day after the
+Transaction date i.e. the settlement of the transaction is T + 1 working day. The term
+“TOM” here is used in a short form for “tomorrow”.
+l) Value Spot: Deals where the Settlement date is two working days after the
+Transaction date i.e. the settlement of the transaction is T + 2 working days, except
+USD/CAD where spot is T+1
+m) After Hour’s Dealings: Deals concluded by the dealers at a time that is after the
+bank’s internally approved dealing hour.
+n) Off Premises dealing: Deals concluded by dealers from outside the dealing room i.e.
+when the dealer is not physically located inside the dealing room.
+
+--- Page 51 ---
+50 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+o) Stop loss limit: A limit set by the independent market risk management department
+or risk management unit which a dealer must not exceed when managing and/or
+closing an adverse position or portfolio.
+p) Mark to Market: A process through which all outstanding FX positions and
+portfolios are valued at the current market rate to determine the current market value.
+q) Deal Blotter: A listing of all the Deals that are executed over a trading day.
+r) Deal Slip: The Primary document where a dealer records all the information related
+to an executed deal. Banks with automated front office systems writes and passes
+their deal slips electronically while banks without automated systems hand over a
+physical slip to their back office for further processing of the transaction.
+s) Currency Pair: The two currencies in a foreign exchange transaction.
+t) Spread: The difference between the buying and selling price for foreign currency.
+t) Overbought/Long: If the F.C(s) purchased/FX asset(s) is/are more than the F.C(s)
+sold/FX liability(s), the Bank is said to have Overbought/Long position.
+u) Oversold/Short: If the F.C(s) sold/FX liability(s) is/are more than the F.C(s)
+bought/FX asset(s), the Bank is said to have Oversold/short position.
+v) Square: If the F.C(s) Purchase/FX Asset(s) are equal to F.C(s) Sales/FX liability(s),
+then the position is square.
+w) Net Open Position (NOP): The Net Open Position (NOP) is the residual balance of
+total F.C assets minus liabilities/ aggregate F.C purchase minus aggregate F.C sales.
+x) Daylight/Intraday Limit: The Daylight/Intraday Limit is the maximum position
+allowed by the management that can be taken during the course of the trading session
+by the dealers in a particular trading day.
+y) Money market: The Money Market refers to the marketplace where short term
+resources with maturity of funds ranging from one day to one year are raised and/ or
+deployed.
+z) Treasury Bills: Treasury bills refer to short-term negotiable debt obligations issued
+by the government of Bangladesh and backed by its full faith and credit with a
+maturity of up to one year.
+aa) Repo: Repo or Repurchase Agreement refers to sale of securities with a commitment
+to repurchase the same securities at a pre-agreed date in the future. Presently only
+government securities are being dealt with under repo transactions.
+bb) Reverse Repo: Reverse Repo refers to purchase of securities with a commitment to
+sell the same securities at a pre-agreed date in the future.
+
+--- Page 52 ---
+51 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+cc) Call Money: Call Money refers to borrowing/lending of funds which can be matured
+by a same day notice of either party at any given date starting from the next working
+day.
+dd) Overnight Money: Refers to funds placed/borrowed that automatically mature on
+the following working day.
+ee) Notice Money: Notice Money refers to placement of funds beyond overnight for
+periods not exceeding 14 days.
+ff) Term Money: Term Money refers to placement or borrowing of funds for periods
+over 14 days.
+gg) Dealing system: System used for conversation/dealing among the counterparts for
+foreign exchange dealing.
+hh) Trading spikes: The comparatively large upward or downward movement of a price
+or value level in a short period.
+
+--- Page 53 ---
+52 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+Annexure – II
+
+EARNINGS AT RISK
+
+For those portfolios that are subject to accrual accounting, the Earnings at Risk methodology
+should be used for measuring how much the earnings might be impacted by an adverse
+movement in interest rates. Interest rate risk occurs when assets and liabilities reprice at different
+times (gaps), when assets and liabilities are subject to administered rate pricing, or when assets
+and liabilities reprice on different yield curves.
+
+
+Earnings at Risk measures the potential pre-tax earnings impact on the non-trading portfolios for
+a given time period of a specified parallel movement in interest rates. The specific rate
+movements are statistically derived. For a portfolio without options, the Earnings at Risk for
+each currency are calculated by multiplying the repricing gap by the specified rate movement.
+
+
+Earnings at Risk calculations are generally done for the full life of the portfolio. By convention,
+since there may be assets and liabilities with indefinite maturities, the calculation of full life
+earnings at risk is normally truncated at 5 years. The first step in calculating earnings at risk for a
+balance sheet without options is to construct gap schedules based on asset and liability repricings
+for each month and each year. Some assets and liabilities do not have contractual repricing dates
+or maturities, e.g. demand deposit accounts and overdraft loans: in these cases, assumptions need
+to be made and approved by the market risk unit.
+
+
+All profit and loss items which have interest rate sensitivity, i.e. those revenues or expenses
+which vary with interest rate changes, must be included in the Earnings at Risk calculations. To
+calculate possible impact of rate changes on such positions, it is necessary to estimate the time it
+would take to eliminate the risk and close the gap, the defeasance period. This will obviously
+depend on the nature of the assets and liabilities and the availability of suitable hedging facilities.
+The level of change in interest rates will be determined by the length of the defeasance period.
+The longer it takes to rebalance the positions the greater the possible movement in interest rates.
+
+The impact of the specified parallel shift of the yield curve is calculated for each year. The
+results for each year of the full life calculation are then discounted using the appropriate swap
+rate and are added together to provide the total change in the earnings of the portfolio.
+
+Earnings at risk limits are to be set for all accrual portfolios, for the full life of the portfolio.
+Generally, the aggregate earnings at risk is limited to a percentage of annual budgeted earnings.
+The utilization of the earnings at risk against the set limits should be measured at least weekly,
+but procedures must be in place to ensure that the limits are not exceeded on a daily basis.
+
+Example of Earnings at Risk in a Commercial Lending Portfolio:
+
+Customer A – deposits Tk. 100 million for 91 days, fixed rate at 5% per annum
+
+Customer B – borrows Tk. 10 million for 15 days, fixed rate at 9% per annum
+
+--- Page 54 ---
+53 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+Customer C – borrows Tk. 90 million for 151 days, floating rate determined monthly, currently
+at 9% per annum
+
+
+
+Outstanding
+Volume
+Month
+Volume
+Month 2
+Volume
+Month
+Volume
+Month 1
+Volume
+Total
+Assets
+e.g
+Loans
+Tk. 100 M
+Tk. 100M
+Tk. 20M
+Liabilities e.g
+Deposits
+Tk. 100 M
+Tk. 100M
+Tk. 100M
+Tk. 100M
+Cumulative
+interest
+sensitive gap
+(Liabilities
+minus assets)
+
+
+Tk. 90M
+Tk. 100M
+Rate
+Change/Defe
+asance factor
+
+55 bp
+55 bp
+55 bp
+
+
+Earnings
+at
+Risk
+
+
+Tk. 39.9k
+Tk 15.9k
+
+Tk.
+92.5k
+
+
+Notes:
+In month 2 the loan of 90 million is repriced, so is not included in outstanding volume. The
+average volume of the fixed rate loan is 20 million, i.e. 10 million x 15 days/30 days.
+
+The defeasance period is considered to be 1 weeks, i.e. the time to come to a decision, find a
+suitable hedge to close the position, obtain approval and put the hedge into operation could be as
+long as I month. Over this period of time, the 2 standard deviation interest rate movement, for
+example, is derived historically to be 55 basis points. Earnings at Risk is calculated as
+Cumulative interest rate gap x Rate Change x Time. For example in the second month: 90
+million x 55 bps x 30/390 days = Tk. 39.9 thousand.
+
+Earnings at Risk calculations are rarely as straightforward as the above example. Some products
+do not have easily defined maturities so actuarial estimates need to be used instead. Portfolios
+may also contain embedded options, the effect of which have to be taken into consideration.
+
+This is an example of positive gapping: the balance sheet has been positioned to take advantage
+of a rise in rates, by borrowing longer term and lending shorter term.
+
+--- Page 55 ---
+54 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+
+Annexure - III
+
+VALUE AT RISK
+
+Value at Risk, commonly referred to by its acronym VAR, is a statistical measure of the worst
+probable loss on a position or portfolio of positions that can be expected over a specified period
+of time to a given level of
+confidence. The calculation of VAR requires a number of inputs:
+- Market value of the position
+- Daily volatility of the currencies
+- Holding period
+- Level of confidence
+
+Market Value of Position:
+The market value of position, expressed in US Dollars, is the base point from which expected
+losses are calculated. In other words, adding or subtracting (depending on whether the position is
+long or short) the VAR on a position to the market value will give the worst probable market
+value of the position.
+
+Daily Volatility:
+Foreign Exchange volatility is calculated from the daily movements in the foreign exchange rate
+over a specified historic time period. A key assumption in the calculation of historic volatility is
+that recent events play a more significant role in determining likely rate movements in the future
+than events, say that took place a year ago. As a result, recent rate movements are usually given
+higher weightage in the calculation of volatility. An alternative method commonly used in the
+market is to limit the historic period used to calculate volatility, and not apply any weighting. A
+third method is to use implied volatility i.e. the actual volatility traded in the market.
+
+Whatever method is used, the risk manager should be aware of the difference between implied
+and historic. If the difference is significant, might be necessary to tune the calculation of historic
+volatility to bring it in line with implied.
+
+Historic volatility is calculated by simply taking the Standard Deviation of the daily changes in
+the rates for the historic time period selected. To compare historic to implied volatility, the daily
+volatility needs to be converted to an annualized basis. This is done by multiplying the daily
+volatility by the square root of the number of trading days in a year (say 290).
+
+Holding Period:
+The holding period for VAR refers to the liquidity of the position i.e. how long it will take to
+liquidate the position in terms of number of trading days. The majority of positions (regardless of
+size) in freely floating currencies should be able to be liquidated within a twenty-four hour
+period. For these currencies, the holding period will therefore be set to one day. However,
+positions in currency that is not liquid may take several days to unwind, which may depend on
+the size of the position or general market conditions. In these cases, the holding period should be
+extended appropriately.
+
+--- Page 56 ---
+55 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+Level of Confidence:
+
+The level of confidence selected determines the probability and frequency that there will be a
+rate movement in excess of the predicted (i.e. VAR) amount.
+
+Market volatility is quoted to one standard deviation, thereby inferring that once in every five
+trading days the calculated worst probable loss will be exceeded. At two standard deviations, this
+raised to one in every forty trading days. At three standard deviations this is increased to once in
+every two hundred days.
+
+Based on the normal distribution of rate changes, the percentage of the distribution, defined by
+the number of Standard Deviation (), Level of Confidence will define the probability of a rate
+movement occurring outside the worst probable rate. The approximate relationship between
+Confidence Level and Standard Deviation is as follows:
+1σ= 90% Confidence Level
+2σ= 95% Confidence Level
+3σ= 99% Confidence Level
+
+
+However, since the concern is only with the half of the distribution that may cause a loss on a
+position, the Confidence Levels are raised as follows:
+
+1σ= 90% Confidence Level
+2σ= 99.5% Confidence Level
+3σ= 99.5% Confidence Level
+
+These Confidence Levels in turn can be expressed as frequency of occurrence (how frequently
+our expectation of worst probable rate movement will be exceeded in terms of number of trading
+days).
+90% Confidence Level = 1 in 5 days
+99.5% Confidence Level = 1 in 10 days
+99.5% Confidence Level = 1 in 200 days
+
+Market volatility is quoted to one standard deviation, thereby inferring that once in every five
+trading days the calculated worst probable loss will be exceeded. At two standard deviations, this
+raised to one in every forty trading days. At three standard deviations this is increased to once in
+every two hundred days.
+
+
+CALCULATION FOREIGN EXCHANGE VAR:
+
+Gross VAR:
+Gross VAR is calculated as follows, using the inputs discussed above:
+Gross VAR = Market value of the position X Daily Volatility X Level of
+confidence X
+
+
+Net VAR:
+Net VAR reduces the Gross VAR calculated on a portfolio of positions by taking into account
+the way foreign exchange rates move in relation to each other. As with volatility, this Portfolio
+Effect (using the Marckowitz’s Portfolio Theory) or Correlation is also calculated from the same
+historic period. Correlations range from +1 to -1. A +1 correlation indicates that two currencies
+
+--- Page 57 ---
+56 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+move identically to each other against the US dollar. A -1 correlation indicates that two
+currencies move in diametrically opposite directions to each other against the US dollar. A zero
+correlation means there is no relationship between the ways the currencies move.
+
+For example, studies reveal that there is positive correlation between Euro and Swiss Franc,
+which indicates that a long Euro position is hedgedby the short CHF position. The Gross VAR
+calculated on each position can therefore be reduced proportionately. Just as the loss is limited,
+so is the profit potential in EUR/CHF position is limited.
+
+The following table shows how positive and negative correlations between currencies affect Net
+VAR calculation:
+
+Position A
+(Any currency)
+Position B (Any
+currency)
+Correlation
+Correlation
+term
+sign
+(Effect on Net Var)
+Short (+)
+Short (+)
+Negative (-)
+Negative (-)
+Long (-)
+Long (-)
+Negative (-)
+Negative (-)
+Short (+)
+Long (-)
+Positive (+)
+Negative (-)
+Long (-)
+Short (+)
+Positive (+)
+Negative (-)
+Short (+)
+Short (+)
+Positive (+)
+Positive (+)
+Long (-)
+Long (-)
+Positive (+)
+Positive (+)
+Short (+)
+Long (-)
+Negative (-)
+Positive (+)
+Long (-)
+Short (+)
+Negative (-)
+Positive (+)
+
+
+The correlation term sign indicates whether the portfolio effect will be added or subtracted in the
+Net VAR calculation. It should be noted that the Net VAR calculation cannot increase the
+aggregate of the Gross VAR on each position, rather reduces it to the extent of the correlation.
+
+It should also be noted that a zero correlation does not mean that Net VAR will equal aggregate
+Gross VAR. There will be a reduction in Gross VAR on the basis that even a random movement
+between currency rates may to some extent reduce risk.
+
+--- Page 58 ---
+57 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+Calculation of Net VAR for Two Currencies:
+
+
+
+
+
+
+Where,
+VARw,a = Gross VAR of currency ‘w’ in case of short position
+VARw,b = Gross VAR of currency ‘w’ in case of long position
+VARx,a = Gross VAR of currency ‘x’ in case of short position
+VARx,b = Gross VAR of currency ‘x’ in case of long position
+VARy,a = Gross VAR of currency ‘y’ in case of short position
+VARy,b = Gross VAR of currency ‘y’ in case of long position
+VARz,a = Gross VAR of currency ‘z’ in case of short position
+VARz,b = Gross VAR of currency ‘z’ in case of long position
+rw.x = Coefficient of Correlation between currencies ‘w’ and ‘x’
+rw.y = Coefficient of Correlation between currencies ‘w’ and ‘y’
+rw.z = Coefficient of Correlation between currencies ‘w’ and ‘z’
+rx.y = Coefficient of Correlation between currencies ‘x’ and ‘y’
+rx.z = Coefficient of Correlation between currencies ‘x’ and ‘z’
+ry.z = Coefficient of Correlation between currencies ‘y’ and ‘z’
+
+--- Page 59 ---
+58
+Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ANNEXURE IV
+
+Receive nostro account
+statement from correspondent
+bank. Receive via swift/ telex
+Match and knock-off
+identical entries
+Prepare a report (Reconciliation
+Balance Report) for the
+outstanding exceptions
+Highlight these
+to the units
+concerned
+Units pass the
+corresponding/
+corrective entries as
+well as entries for
+unreconcilable items.
+Reconciliation Flowchart
+ANNEXURE III
+Take printout of “our
+account” from internal
+system/ database
+
+
+
+
+
+
+
+ANNEXURE V
+
+--- Page 60 ---
+59
+Core Risk Management in Banking: Foreign Exchange Risk Management
+
+--- Page 61 ---
+60 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+ANNEXURE VI
+
+Dealer strikes a
+deal
+Enters deal into
+blotter, raises deal
+ticket, sends ticket
+to treasury back
+office
+Treasury back
+office
+exchanges
+deal
+confirmations
+with
+counterparty
+Passes all
+necessary
+entries
+Settles the deal
+Reconciles
+exchange
+position
+Advises
+treasury of
+accurate
+position
+The Process Flowchart
+ANNEXURE V
+
+
+
+
+
+Note:
+1. No manual deal ticket is raised when using e-platform/Reuters for dealing
+2. For integrated system, no position reconciliation takes place between front and back
+office
+3. As good practice, counterparty front office would reconcile deals done over phone
+4. All daily deal confirmations should be sent to counterparty by end of business day
+5. Back office should reconcile counterparty deal confirmation with deals to identify any
+discrepancies
+
+--- Page 62 ---
+61 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+Annexure - VII
+XYZ Bank Limited
+999, Motijheel C/A, Dhaka
+
+
+
+
+
+
+
+
+
+FX POSITION BLOTTER
+
+
+
+
+Date:
+
+
+
+
+
+
+
+
+
+
+Currency: USD
+
+
+
+
+
+
+
+Counterparty
+Purchase
+Sale
+Comments
+Net
+Position
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Currency: GBP
+
+
+
+
+
+
+
+Counterparty
+Purchase
+Sale
+Comments
+Net
+Position
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Currency: EUR
+
+
+
+
+
+
+
+Counterparty
+Purchase
+Sale
+Comments
+Net
+Position
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Currency: JPY
+
+
+
+
+
+
+
+Counterparty
+Purchase
+Sale
+Comments
+Net
+Position
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NET OPEN POSITION:
+
+
+
+
+
+
+Note: Organizations can add/ delete currencies according to their own requirement in the same
+format.
+
+--- Page 63 ---
+62 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+Annexure - VIII
+
+
+
+
+
+
+
+
+
+
+XYZ Bank Limited
+999, Motijheel C/A
+Dhaka 9999
+
+
+
+
+
+
+
+
+No. 0001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Foreign Exchange Deal Slip
+
+
+
+Date:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Counterparty:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We Have Purchased/ Sold:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Currency:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amount:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Against Sale/ Purchase of:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Currency:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amount:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deal Rate:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Value Date:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We Receive Payment at:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Their Payment at:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special Instruction:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dealer's
+Signature
+
+
+Note:
+There is no manual deal ticket raised where the front office and back office use integrated
+dealing and settlement systems.
+
+--- Page 64 ---
+63 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+
+
+Annexure-IX
+
+Code of Conduct of the Foreign Exchange Dealers
+
+General Code
+
+1. Purpose
+The aim of the code of conduct is to set out the manner and sprit in which business should be
+conducted, in order to ensure that the foreign exchange market and its participants enjoy a
+reputation for high standards of professionalism, integrity, and ethical conduct. This is addressed
+not only to dealers in foreign banks, but to the management of such institutions together with
+relevant operational support stuff, and should be well understood by each of them.
+
+2. Responsibility of management for dealing activities
+Control of the activities of all personnel engaged in dealing (both dealers and the support staff) is
+the management’s responsibility of such organizations. Management should therefore clearly set
+out, in writing, the authorities and responsibilities within which dealers and the support staff
+should operate. These might include:
+- General dealing policy including reporting procedures;
+- Persons authorized to deal;
+- Instrument to deal in;
+- Limits on open positions, mismatmpositions, counterparts, stop- loss limits etc…
+- Confirmation and settlement procedures;
+- Relationships with other foreign exchange banks, brokers, and customers; and
+- Other relevant guidance as considered appropriate.
+
+3. Responsibility of staff for dealing activities
+All personnel engaged in dealing activities both dealers and support staff) must observe the
+following code as their fundamental behavior in the dealing activities:
+- They must keep dealing activities within the responsibilities authorized by the management,
+and observe the instruction given by the management for supervisors in each dealing section
+(dealing room and back office) concerned.
+- Troubles which arose during dealing activities, and other issues, which might cause serious
+troubles, must immediately be reported to the management or supervisors for their instructions.
+- Full compliance with all regulations at all times.
+
+4. Use market terminology and definitions
+The management of banks should see if it’s staff use common expressions, and have knowledge
+of their generally accepted meanings in their dealing activities in order to avoid
+misunderstandings.
+
+
+5. Dealing unit and back-office
+The organizational framework in an institution should clearly separate the dealing unit from the
+back office where all the administrative work (payments, global position keeping) is done and
+from bookkeeping department which should, among others, be responsible for a timely and swift
+check of all incoming confirmations. A bank should not start foreign exchange trading with less
+than two trained and authorized people in its room designated for dealing.
+
+--- Page 65 ---
+64 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+
+6. Recording a deal
+All the essential details of a deal must be written down in a dealing ticket which must be
+forwarding as soon as possible to the back-office for further processing. Alternatively, the
+information may be entered into the computer system.
+
+7. Accounting
+The back-office must work with the bank’s accounting department to ensure that all transactions
+and violation changes are accounted for promptly. Because of two-day settlements, the value
+date accounting is inadequate for the monitoring of risk positions, and hence accounting must be
+established on a transactions basis.
+
+Code Regarding Dealing Practices
+
+1. Opening hours in the foreign exchange market :
+Opening hour should be defined.
+
+2. Confirming procedures
+Dealers must confirm verbally or other authenticated electronic means.
+After dealers’ confirmation, it is the back-office’s responsibility to carry out reconfirmation
+independently from those who initiated deals. Recommendation must be sent out as quickly as
+possible after a deal has been done, and should be addressed to the back-office of the
+counterparty bank.
+
+All reconfirmations should include the following information as a minimum requirement:
+- date of transaction;
+- By which means effected (phone, telexed. ;
+- Name and location of counterpart;
+- Rate amount and currency;
+- Type and side of deal (buying and selling)
+- Value date, maturity date, and all other relevant dates;
+- Standard terms/conditions applicable; and
+- All other important and relevant information.
+
+Upon receipt, all reconfirmation must immediately be thoroughly checked, and appropriate
+action be taken to rectify differences. If the counterpart’s recommendation is considered
+incorrect, it must immediately be informed. A new reconfirmation (or written agreement to a
+correction) must be requested from, and provided by the bank whose original reconfirmation was
+incorrect.
+
+3. Payment/settlement instruction
+Payment/settlement instructions should be passed as quickly as possible to facilitate prompt
+settlement. The use of standardized payment instructions between counterparts who regularly
+deal with each other is recommended as their use can make a significant contribution to reducing
+both the incidence, and the size of differences arising from the mistaken settlement of funds.
+
+4. Confidentiality
+Confidentiality anonymity are essential to the operation of a professional foreign exchange
+market. Participants in the market—commercial clients as well as banks—can expect to have
+
+--- Page 66 ---
+65 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+their interest and to ensure that its employees can readily identify information that is confidential
+or situations where anonymity is essential, and instruct their employees to handle such
+information accordingly. Whenever confidentiality is broken, management has to see that the
+institutions are issued swiftly to correct the conditions that permitted such a situation to occur.
+
+The use of confidential information by tenders for their personal benefit, or in a manner that
+compromiser the institution in any way, should be strictly forbidden. Dealers operating in the
+market are responsible for maintaining confidentiality. Without disclosed or discuss any
+information relating to deals transacted, in the process of being arranged except to, or with the
+counterparts involved. A dealer should not be permitted to pass on information outside his
+institution, nor should he distribute information within his institution, except on explicit
+permission from the parties involved. Banks should have policies to ensure electronic and hard
+data are secure.
+
+III. Ethical Rules
+
+1. Trading for personal account
+It is expected that any trader will give full attention to the employing institution’s business
+activities, and not be distracted by his own financial affairs. Any bank dealer should not be
+allowed to deal for their own account in any instruments since it is expected that any dealer will
+fulfill his institutional responcibilities objectively, unbiased by his own financial position.
+Management has to be aware that, if traders are permitted to trade in instruments closely related
+to those they deal for the institution, a conflict of interest might arise that could be detrimental or
+embarrassing for the institution, the trader, or both. Therefore, it is the management’s
+responsibility to develop a clear institutional policy on these matters.
+
+2. Protection against Fraud
+All staff should pay great vigilance to fraud attempted particularly in the following cases :
+- Deals which do not include pre-agreed standard settlement institutions;
+- Deals whose payment is made in favor of a third party;
+- Inability to make reconfirmation after concluding the deal; and
+- Other deals which have different standards than the pre-agreed.
+
+3. Entertainment, gifts, and gambling : Neither management nor employees should offer
+inducements to conduct business, or solicit them from the personnel of other institutions. Where
+inducements are recognized in the normal course of the business, management should formulate
+policies in this area which include guidance on the provision and receipt of entertainment and
+gifts by staff. This should include what may or may not be offered or accepted, together with
+procedures for dealing with gifts judged to be excessive, but which cannot be declined without
+causing offenses. Similar guidelines should be established on gambling with other market
+participants.
+
+IV Escalation Process:
+Banks should have an escalation process to report exceptions/deviations from the code of
+conduct.
+
+--- Page 67 ---
+66 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+
+
+
+
+Annuxure - X
+
+Nostro Account Reconciliation: The following table shows the maximum time limit after which
+unmatched items must be referred to the operations manager.
+
+Type of Transaction
+Transit Time
+L/C payments
+3 days, ACU - 9 days
+Foreign exchange settlements
+Nil. Immediately notify respective
+department if settlement does not
+occur on value date
+TC Encashments
+21 days
+Outward remittances
+3 days
+Draft payments
+30 days
+ACU cover funds sent through
+Bangladesh Bank
+9 days
+Credits to our accounts with
+insufficient details
+20 days
+Correspondent bank charges
+recoverable from our customers or
+otherwise
+30 days
+Any other credits to our accounts, where we have
+not passed corresponding debit entry
+9 days
+Any other transactions where we
+have debited, but they do not credit
+9 days
+Any other transactions where they
+have debited, but we do not credit
+9 days
+Any other transactions where we
+have credited, but they do not debit
+9 days
+
+
+
+Annexure - XI
+
+Appendix Nine: Derivatives Application to Central Bank Format
+
+
+Applicant Bank’s Name:
+
+Product Name:
+
+For which Client/s (Legal Name) :
+
+Level of client sophistication: Seniority of
+the client in the business, management
+awareness, level of product knowledge,
+understanding of pricing knowledge, used
+to do forward transactions and other
+hedging solutions.
+
+Back to Back with another market maker:
+Yes  No
+If yes with which Bank?
+
+--- Page 68 ---
+67 Core Risk Management in Banking: Foreign Exchange Risk Management
+
+Target Transaction Date:
+
+Description of the product
+
+Deal flow chart (from start to end of the
+process)
+
+How many transactions required under
+this approval?
+
+Estimated volumes?
+
+Risk Assesment and mitigants:
+System Booking capability
+Tax and Legal checking
+Credit Risk checking
+Market Risk checking
+Compliance check [any conflict
+with
+Bangladesh
+Bank
+rules
+and
+regulations]
+
+Board
+and
+Senior
+Management
+awareness? (For first time transaction
+only)
+Yes  No
+Documentations:
+ISDA required  Yes  No [If yes , attach sample ISDA vetted by lawyer]
+Term Sheet required  Yes  No [If yes , attach sample TS vetted by
+lawyer]
+Deal confirmation required  Yes  No [If yes , attach confirmation vetted
+by lawyer]
+Client Suitability  Yes  No [If yes , attach the signed document]
+Other documentations if any?  Yes  No [If yes , attach the document]
+Followed FX Core Risk Guideline section
+on Derivatives?
+Yes  No

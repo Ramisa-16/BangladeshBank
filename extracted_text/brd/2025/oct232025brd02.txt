@@ -1,0 +1,1542 @@
+--- Page 1 ---
+০৭ কার্তিক, ১৪৩২
+২৩ অক্টোবর, ২০২৫
+
+বিআরডি সার্কুলার নং-০২ তারিখ:
+
+বাংলাদেশে কার্যরত সকল তফসিলি ব্যাংক ও ফাইন্যান্স কোম্পানি।
+
+প্রিয় মহোদয়,
+
+“Regulations for Bank Resolution, 2025” প্রণয়ন প্রসঙ্গে।
+
+ইসলামি ব্যাংকসহ বিভিন্ন তফসিলি ব্যাংক ও ফাইন্যা্স কোম্পানির রেজল্যুশন কার্যক্রম কার্যকর ও সুশৃঙ্খলভাবে সম্পাদনের লক্ষ্যে
+ব্যাংক রেজল্যুশন অধ্যাদেশ, ২০২৫-এর বিভিন্ন ধারায় বর্ণিত বিধান পরিপালনের নিমিত্ত একই অধ্যাদেশ-এ প্রদত্ত ক্ষমতাবলে বাংলাদেশ
+ব্যাংক এর পরিচালক পর্যদ কর্তৃক অনুমোদিত «Regulations for Bank Resolution, 2025" শিরোনামযুক্ত প্রবিধানমালা
+সকলের অবগতির জন্য এতদৃসঙ্গে যুক্ত করা AAT |
+
+২। এ প্রবিধানমালা অবিলম্বে কার্যকর হবে।
+
+আপনাদের বিশ্বস্ত,
+
+7/_______%7
+
+(মোঃ আসাদুজ্জামান খান)
+পরিচালক (বিআরডি)
+ফোন: ০১৭১৫০২৪৪৮৫
+
+ফোন : ৮৮-০২-৯৫৫০৪৪৮, ৯৫৫৪৮৯৬, আইপি £ ৮৮-০২-৫৫৬৬৫০০১-৬, ফ্যাক্স : ৮৮-০২-৯৫৩০৪ ৭৯, Web : www.bb.org.bd
+
+--- Page 2 ---
+Regulations for Bank Resolution, 2025
+
+--- Page 3 ---
+Regulations for Bank Resolution, 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bank Resolution Department (BRD)
+Bangladesh Bank, Head Office
+Dhaka-1000
+
+
+
+This Regulation has been approved in the 444th meeting of the
+Board of Directors of Bangladesh Bank on 6th October 2025
+
+--- Page 4 ---
+Contents
+
+
+
+
+
+List of Abbreviations
+Preamble:
+Chapter I: Preliminary
+Chapter II: Resolution Authority and Governance
+Chapter III: Resolution Planning
+Chapter IV: Resolvability Assessment
+Chapter V: Resolution Tools
+10
+Chapter VI: Conditions and Initiation of Resolution
+11
+Schedule A: Contents of Resolution Plans
+16
+Schedule B: Information Template for Resolution Plan
+17
+Schedule C: TOR of the “Resolution Coordination Unit”
+18
+Schedule D: Administrator Appointment Form
+20
+Schedule E: TOR of the Temporary Administration
+24
+
+--- Page 5 ---
+List of Abbreviations
+
+
+
+BB
+– Bangladesh Bank
+BRD
+– Bank Resolution Department (Resolution Authority within BB)
+BRO
+– Bank Resolution Ordinance, 2025
+CBS
+– Core Banking System
+CTF
+– Counter-Terrorism Financing
+DCR
+– Displaced Commercial Risk
+D-SIB
+– Domestic Systemically Important Bank
+DRS
+– Disaster Recovery Site
+IAH
+– Investment Account Holder
+10.
+IRR
+– Investment Risk Reserve
+11.
+IT
+
+– Information Technology
+12.
+MROFEL
+– Minimum Requirement for Own Funds and Eligible Liabilities
+13.
+NCWO
+– No Creditor Worse Off
+14.
+OCIR
+– Operational Continuity in Resolution
+15.
+P&A
+– Purchase and Assumption
+16.
+PCA
+– Prompt Corrective Action
+17.
+PER
+– Profit Equalization Reserve
+18.
+RCU
+– Resolution Coordination Unit
+19.
+RIA
+– Restricted Investment Account
+20.
+SB
+– Shariah Board
+21.
+TA
+– Temporary Administration / Administrator
+22.
+TLAC
+– Total Loss-Absorbing Capacity
+
+--- Page 6 ---
+Preamble:
+
+WHEREAS the Bank Resolution Ordinance, 2025 (Ordinance No. 19 of 2025), hereafter called as the
+‘Ordinance’, has been enacted to provide a legal foundation for the orderly resolution of distressed banks
+and for safeguarding financial stability;
+
+AND WHEREAS it is considered expedient that certain Sections of the said Ordinance be further clarified,
+elaborated, and operationalized through detailed Regulations in order to ensure their effective
+implementation and to provide clear guidance to all stakeholders;
+
+AND WHEREAS Bank Resolution Department (BRD) of Bangladesh Bank (BB), being the designated
+Resolution Authority, as conferred under Section 6 of the Ordinance, deems it necessary to frame such
+Regulations to translate the statutory provisions of the Ordinance into actionable procedures, thereby
+ensuring consistency, transparency, and compliance in the resolution process of all scheduled banks,
+including Islami banks and finance companies in Bangladesh;
+
+NOW THEREFORE, in exercise of the powers conferred by Section 97 of the Ordinance, and in pursuance
+of the enabling provisions contained in Section 9(2), 15(6) and 34 of the Ordinance which authorizes BRD
+of BB to formulate appropriate regulations for the resolution of Islami bank(s), together with Sections 12(6),
+12(7), 13(2), 16(4), and 95 thereof, the Board of Directors of BB hereby makes the following Regulations,
+namely:-
+
+Chapter I: Preliminary
+
+1. Short Title and Commencement
+
+a. This Regulation may be called the “Regulations for Bank Resolution, 2025”.
+
+b. It shall come into force on the date of its publication.
+
+2. Application
+
+a. This Regulation shall apply to the resolution of all scheduled banks, including Islami
+banks, where applicable, and/or to other entities in a banking group [Section 2(33) of the
+Ordinance] or financial group [Section 2(26) of the Ordinance] or stakeholders/related
+institutions [Section 2(47) of the Ordinance] as provided under Section 1(3) of the
+Ordinance.
+
+b. This Regulation shall apply, under the provision of Section 95 of the Ordinance, where
+applicable, mutatis mutandis, to the resolution of all finance companies as defined in
+Section 3(25) of the Ordinance.
+
+c. Where this Regulation refers to capital instruments, eligible liabilities, payouts, pricing,
+interest, or debt, such references shall, for Islami banks, be construed to mean
+Shariah‑compliant capital instruments, eligible claims and liabilities, payouts, profit
+rates, and Shariah‑based financing instruments. Any action under this Regulation for
+Islami banks shall be structured and implemented in a manner that preserves Shariah
+compliance and the integrity of underlying Shariah contracts.
+
+3. Objectives.
+
+a. The objectives of this Regulation are to ensure that bank resolutions are carried out
+effectively and in an orderly manner. This Regulation complements the Ordinance by
+providing procedures, technical criteria, and guidance to achieve the stipulated
+
+--- Page 7 ---
+objectives.
+
+b. In the case of Islami banks, resolution actions shall also seek to:
+
+maintain continuity of Shariah‑compliant critical functions and services;
+ii.
+respect the rights and risk‑sharing features of investment account holders and
+counterparties under Shariah contracts;
+iii.
+avoid the creation of interest‑bearing obligations or receipts;
+iv.
+ensure any bail‑in or conversion to Shariah‑compliant instruments; and
+give effect to depositors or any other account holder as per shariah principle.
+
+4. Legal Authority and Interpretation
+
+a. This Regulation is made under the powers conferred by Section 97 of the Ordinance, read
+with Section 9(2), 15(6) and 34 and shall be read in conjunction with the Ordinance. In
+case of any inconsistency, the provisions of the Ordinance shall prevail.
+
+b. BRD may issue guidelines, circulars, or directives from time to time to clarify or
+implement the provisions of this Regulation, and such guidance shall be binding on all
+scheduled banks, including Islami banks.
+
+c. For resolution actions involving Islami bank, BRD may constitute or draw upon a Shariah
+Advisory Panel and seek advice from Shariah Scholar to ensure actions, instruments, and
+transfers remain Shariah‑compliant without impairing timeliness and effectiveness.
+
+d. The headings and chapter titles in this Regulation are for convenience only and shall not
+affect its interpretation.
+
+5. Incorporation by reference. Words and expressions used in this Regulation and not defined
+herein shall have the same meaning as in the Ordinance. Where a definition in this Regulation
+differs from or expands upon the Ordinance for operational clarity, the Ordinance prevails in the
+event of inconsistency.
+
+6. Interpretation for Islami banks. Any reference in this Regulation to capital instruments, eligible
+liabilities, payouts, pricing, interest, or debt shall, for Islami banks, be construed to mean Shariah-
+compliant capital instruments, eligible claims and liabilities, payouts, profit rates, and Shariah-
+based financing instruments. All actions for Islami banks under this Regulation shall be structured
+to preserve Shariah compliance and the integrity of underlying Shariah contracts, including
+transferability
+and
+novation
+mechanics
+where
+applicable.
+
+7. Definitions and Clarifications
+In the regulations unless the context otherwise requires-:
+
+Bank Resolution Department (BRD) means the department of BB designated as
+the Resolution Authority for the purposes of this Regulation.
+
+ii.
+Shariah-compliant instrument includes, without limitation, equity and capital
+instruments structured as Additional Tier 1 or Tier 2 Shariah-based instruments
+and other Shariah-based financing instruments approved by BB.
+
+iii.
+Investment Account Holder (IAH) means a customer placing funds with an Islami
+bank on a profit-and-loss sharing or profit-and-loss bearing basis (including
+unrestricted or restricted investment accounts), in accordance with the
+contractual and disclosure framework of the bank.
+
+iv.
+Profit rate means a profit-sharing ratio or pre-agreed mark-up, rental, or similar
+return under Shariah-compliant contracts, and not interest.
+
+--- Page 8 ---
+PER/IRR means the Profit Equalization Reserve and the Investment Risk Reserve
+maintained by Islami banks in line with approved policies to smooth returns and
+absorb investment risks of IAH pools.
+
+vi.
+Displaced Commercial Risk (DCR) means the risk that an Islami bank foregoes
+part of its mudarib/share of profit to pay IAH a return comparable to market rates,
+consistent with disclosures and policy.
+
+vii.
+NCWO-IAH means the “No Creditor Worse Off than in liquidation – Investment
+Account Holder” safeguard applied to IAH, ensuring they do not bear losses in
+resolution greater than they would have borne under a counterfactual winding-
+up consistent with contractual terms and applicable law.
+
+viii.
+Purchase and Assumption (P&A) means a transfer of specified assets, rights and
+liabilities of a scheduled bank under resolution to a transferee (including a Bridge
+Bank), on commercial or directed terms consistent with resolution objectives.
+
+ix.
+Resolution Coordination Unit (RCU) means the dedicated unit established by
+each scheduled bank to coordinate with BRD on resolution-planning tasks,
+information submissions, simulations and related matters; in the case of an
+Islami bank, the RCU shall include a designated Shariah liaison.
+
+Shariah Advisory Panel (for resolution) means a panel constituted or drawn upon
+by BRD to advise on Shariah compliance of resolution actions involving an Islami
+bank.
+
+xi.
+Shariah-based liquidity support means liquidity or financing extended in forms
+acceptable under Shariah as specified by BRD for Islami bank resolutions and
+Bridge Banks.
+
+xii.
+Total Loss-absorbing Capacity (TLAC) or Minimum Requirement for Own Funds
+and Eligible Liabilities (MROFEL), used in this Regulation as an indicative
+standard for pre-positioning loss-absorbency consistent with local law and BB
+directions.
+
+xiii.
+Transferee means the third party to whom shares, assets and/or liabilities of a
+bank under resolution are transferred, including a Bridge Bank or a licensed
+Distressed Asset Management Company.
+
+xiv.
+Hiwālah means the transfer of debt from the transferor (muheel) to the payer
+(muhal alaihi). This concept allows a debtor to assign their or its obligation to
+another debtor, without the creditor’s consent, so long as that assignee party is
+solvent.
+
+--- Page 9 ---
+Chapter II: Resolution Authority and Governance
+
+8. Functional Autonomy of Bank Resolution Department (BRD) of BB and Separation of Roles.
+
+a. In pursuance of Section 1(2), Section 5(1) and Section 6 of the Ordinance, the Bank
+Resolution Department (BRD) (hereinafter referred to as “BRD”) shall, for all regulatory
+and operational purposes of resolution, be treated as an independent Resolution
+Authority for the proper and efficient exercise of all powers, duties and functions relating
+to the resolution of scheduled banks, including Islami banks and finance companies,
+where applicable.
+
+b. Consistent with Section 5(2) of the Ordinance, the powers and responsibilities vested in
+BRD shall be separate and independent from the BB’s regulatory and supervisory
+functions.
+
+c. This department shall be staffed with personnel who have expertise and/or related
+professional degrees in bank supervision, insolvency, finance, accounts, and law, and
+may draw on external experts (person or organization) as needed. For Islami bank
+resolutions, BRD shall ensure access to adequate Shariah expertise.
+
+9. Governance and Coordination.
+
+a. BRD, as the Resolution Authority, shall establish necessary governance arrangements to
+ensure that resolution decisions are taken efficiently, objectively, and on time.
+
+b. BRD shall coordinate and communicate with all regulation and supervision-related
+departments of BB and with other agencies, as and when necessary.
+
+c. For the purpose of resolution, BRD shall regularly obtain the risk profile and recovery plan
+status of all scheduled banks, including Islami banks, from the regulation and
+supervision-related departments of BB. Any material deficiencies in a bank’s recovery
+plan or substantial impediments to its execution must be promptly communicated to
+BRD.
+
+d. BRD shall coordinate with the Government on matters where public funding support may
+be needed.
+
+e. When depositor payouts or transfer of insured depositors are involved, BRD may request
+and use the Deposit Insurance Fund (regardless of the name by which it is called) to
+ensure prompt payment or transfer of protected deposits, including protected Islamic
+deposits to the extent recognized as “deposits” under applicable law.
+
+10. Objective of Resolution
+
+
+
+a. BRD shall have regard to the objectives pursuant to section 9 (1) of BRO,2025 while
+exercising and discharging its powers, duties and functions for all the scheduled banks
+including Islami Banks. As per section 9(2) of the BRO, 2025, BRD shall ensure
+compliance of Pursuant to Section 12,i Banks under resolution.
+
+--- Page 10 ---
+Chapter III: Resolution Planning
+
+Pursuant to Section 12, read with Section 85 of the Ordinance.
+
+11. Core Requirements for Resolution Plans
+
+a. Plan Formulation and Maintenance. BRD shall formulate and maintain a Resolution
+Plan for each scheduled bank within the scope of this Regulation, as mandated by Section
+12(1) of the Ordinance.
+
+b. Simplified Resolution Plans. In line with Section 12(8) of the Ordinance, BRD may
+require a simplified resolution plan for banks that are not Domestic Systemically
+Important Banks and not under the Prompt Corrective Action (PCA) framework, easing
+regulatory burden while ensuring basic resolvability.
+
+c. Content. Each Resolution Plan must, at a minimum, address the elements specified in
+Schedule A - Contents of Resolution Plans.
+
+12. Information and Data Requirements
+
+a. Bank’s Duty to Cooperate. Every scheduled bank must cooperate fully with BRD by
+providing all information requested under Sections 12(6) and 12(7) of the Ordinance. The
+minimum required information is described in Schedule B - Information Template for
+Resolution Plan.
+
+b. Simulations and Regulatory Sandboxes. In accordance with Section 12(9) of the
+Ordinance, banks shall participate in exercises, simulations, or regulatory sandboxes as
+directed by BRD to validate the feasibility of their Resolution Plans. For Islami banks, at
+least one simulation every 24 months shall test Shariah‑compliant bail‑in, Purchase &
+Assumption (P&A) to an Islami transferee, and Bridge Bank operations.
+
+13. Review and Update
+
+a. Frequency
+
+Domestic Systemically Important Banks (D-SIBs) and banks under PCA
+Category 4: review and update at least every six months, or immediately if
+material changes occur.
+
+ii.
+Other banks: annual review and update, or earlier if material changes occur.
+
+b. Material Change Notification: Whenever any material changes arise, the concerned
+Regulation and Supervision Departments of BB shall promptly inform BRD with details of
+the change, its potential implications, and any supervisory measures taken. BRD shall
+then assess the impact on recovery and resolution planning in line with Section 12(2) of
+the Ordinance.
+
+14. Resolution Coordination Unit within Banks: Each scheduled bank shall establish a dedicated
+‘Resolution Coordination Unit (RCU)’ to ensure day-to-day coordination of all resolution-planning
+tasks.
+
+a. Leadership: The RCU shall be headed by a senior official of at least Deputy Managing
+Director (DMD) rank.
+
+b. Terms of Reference: The RCU’s duties and authority are set out in Schedule C - Terms
+of Reference (TOR) of the “Resolution Coordination Unit” housed in the scheduled
+
+--- Page 11 ---
+banks, and include, but not limited to, internal coordination, timely data submission,
+liaison with BRD, etc.
+
+15. Supervisory Follow-up and Enforcement
+
+a. BRD may direct remedial steps or enhancements to a bank’s Resolution Plan whenever
+deficiencies are detected.
+
+b. Non-compliance with this Regulation shall attract penalties under Section 85 of the
+Ordinance and may trigger heightened supervisory measures, including restrictions on
+dividends, new business lines, or growth.
+
+16. Transparency and Confidentiality
+Banks shall maintain strict confidentiality regarding BRD instructions and plan content except
+where authorized by BRD.
+
+--- Page 12 ---
+Chapter IV: Resolvability Assessment
+
+Pursuant to Sections 13 and 14 read with Section 85 of the Ordinance.
+
+17. Resolvability Assessments.
+
+a. Frequency: BRD shall assess the resolvability of systemetically important scheduled
+banks or Banks under prompt corrective action as part of the resolution planning process
+under Section 13 of the Ordinance:
+
+Domestic Systemically Important Banks (D-SIB): full-scope resolvability
+assessment twice yearly.
+ii.
+All other scheduled banks under prompt corrective action: Banks under
+prompt corrective action shall be assessed annually.
+iii.
+Discretionary reviews: whenever material changes occur that may affect
+resolvability.
+
+b. Methodology: BRD shall adopt the following methodology to assess resolvability of
+scheduled bank including Islami Banks
+
+BRD shall issue a detailed scoring framework covering:
+
+1. Legal and operational separability of critical functions.
+2. Availability and location of loss-absorbing capacity.
+3. Adequacy of data for rapid valuation and execution of bail-in or transfer.
+4. Operational
+continuity
+of
+essential
+services
+and
+third-party
+dependencies.
+5. Ability to execute resolution strategies (e.g. Bridge Bank, Purchase &
+Assumption, bail-in, liquidation, etc.).
+6. Cross-border coordination and recognition of resolution actions.
+7. Contingency funding and liquidity in resolution.
+
+ii.
+The resolvability framework for an Islami bank shall also assess:
+
+1. Constitutive documentation for conversion/write‑down of Shariah
+instruments;
+2. Transferability of Shariah assets/liabilities and novation mechanics for
+contract‑based products;
+3. Segregation of restricted investment account assets and their
+portability;
+4. Ability to operate an Islami Bridge Bank and to adjust profit rates
+promptly;
+5. Availability of Shariah‑compliant liquidity channels.
+6. Other necessary instruments, records, or arrangements as deemed
+appropriate by BRD.
+
+18. Information and Data Requirements: Each bank must submit to BRD:
+
+a. A self-assessment on resolvability.
+b. A resolution-critical data pack (covering, but not limited to, legal-entity and intra-group
+exposures, critical functions, liability structures, collateral, funding & liquidity, IT
+dependencies, etc.).
+c. Evidence of testing, including at least one live simulation every 24 months.
+d. Islami banks shall additionally provide other necessary instruments, records, or
+arrangements as deemed appropriate by BRD.
+
+--- Page 13 ---
+19. Process and Timelines
+
+a. Initiation – BRD shall notify the bank regarding the commencement of an assessment.
+
+b. Hearing – The bank shall have an opportunity to be heard before the assessment is
+finalized (Section 13(3) of the Ordinance).
+
+c. Outcome – BRD shall prepare a Resolvability Assessment Report within 30 working days
+of concluding the assessment, providing:
+
+One of three ratings:
+
+1. Resolvable – no material impediments.
+2. Resolvable with Deficiencies – impediments identified that can be
+addressed within agreed timelines.
+3. Not Resolvable – significant impediments exist that necessitate
+structural reforms.
+
+ii.
+A list of specific impediments and corrective measures.
+
+20. Removal of Impediments to Resolvability
+
+a. Where BRD identifies substantive impediments, it shall:
+
+communicate findings to the bank and instruct it to submit, within two months, a
+remedial proposal.
+
+ii.
+assess the proposal within 30 working days, taking into account the bank’s
+operations and systemic stability, and engaging in supervisory dialogue.
+
+iii.
+take decision –
+
+1. to set binding timeframes and monitor progress, if accepted.
+
+2. give order alternative or additional measures under Section 14(3) of the
+Ordinance, if not acceptable, including but not limited to:
+a. revising or entering intra-group financial support agreements.
+b. revising or entering service agreements (intra-group or third
+party).
+c. limiting exposures to specified entities.
+d. providing additional regular reports and data.
+e. disposing of specified assets.
+limiting or ceasing certain activities.
+g. undertaking legal or operational restructuring to separate
+critical functions.
+h. issuing eligible liabilities to strengthen loss-absorbing capacity.
+
+iv.
+measure, for Islami banks, that shall include, where relevant:
+
+1. conversion features in Sukuk‑type instruments;
+2. pre‑positioning Purchase & Assumption to Islami transferees;
+3. Structurally isolating restricted IAH assets; and
+4. Shariah‑compliant liquidity arrangements.
+
+follow up the bank to report quarterly until BRD verifies closure of impediments.
+
+--- Page 14 ---
+b. Failure to adequately remove impediments may result in more stringent actions,
+including, but not limited to, restrictions on dividends, new business lines, or growth, and
+any other measures necessary to protect financial stability.
+
+
+c. Follow-up and Enforcement
+
+Persistent non-compliance triggers penalties under Section 85 of the Ordinance,
+including monetary fines and management actions.
+ii.
+In extreme cases, BB may adjust the bank’s resolution strategy or impose
+structural measures to safeguard resolvability.
+
+d. Confidentiality: Banks shall maintain strict confidentiality of BRD findings except where
+BRD authorizes disclosure.
+
+--- Page 15 ---
+10
+Chapter V: Resolution Tools
+
+Pursuant to Chapter 4 of the Ordinance, BRD shall apply the resolution tool as determined appropriate by
+it for the Scheduled Banks, including Islami Banks.
+
+21. Resolution Tools
+Under section 34 of BRO, 2025 the following issues may be considered for the resolution of Islami
+Banks:
+a. BRD shall comply Shariah for applying the resolution tool for Islami Banks.
+
+b. In case of merger of Islami Bank, the merging institutes must be Shariah compliant, with
+a clear legal framework and proper licensing.
+
+c. A debt to a new assignee (a solvent bank or a bridge bank), may be transferred under the
+concept of ḥiwālah as per BRD's decision and best judgment.
+
+d. BRD shall protect the interest of IAH to get back their investment that are equivalent to
+their account balances, if these assets are not at a loss, along with the profits achieved.
+If there is a loss, the IAH are entitled to the residual of those assets.
+
+e. Under the asset sales implementation practicalities, the creditor hierarchy may be
+observed in adherence with Sharī‘ah principles, with the ranking as follows:
+account holders protected by a third party;
+ii.
+collateral-secured creditors, who should be given priority in paying their debts
+from the collateral up to the value of their collateral, and owners of assets that
+still exist in their original state will get the assets;
+iii.
+unsecured creditors, current account holders, and IAH that have incurred a loss
+due to negligence or misconduct, or who have otherwise breached contractual
+terms by the IIFS, up to the amount of the loss, who should receive an amount
+pro-rata to their proportion in the debt;
+iv.
+creditors who have agreed to delay their right to receive the payment until other
+creditors are paid;
+Whenever there is a leftover portion of funds from a post-sale transaction, it shall
+be allocated to the shareholders as residual claimants
+
+--- Page 16 ---
+11
+Chapter VI: Conditions and Initiation of Resolution
+
+Pursuant to Sections 13 (2), 15, 16, 18, and 20-26 of the Ordinance.
+
+22. Criteria and Triggers for Resolution
+
+a. Core Conditions: Resolution may be initiated when:
+
+the bank is, or is likely to be, no longer viable; or
+ii.
+there is no reasonable prospect of recovery or viability through private-sector
+measures or supervisory actions within a reasonable time.
+
+b. Key Considerations: In forming its judgment, BRD shall consider, inter alia:
+
+regulatory capital levels,
+ii.
+liquidity position and funding profile,
+iii.
+asset quality and risk concentrations,
+iv.
+ability to meet obligations as they fall due, and
+effectiveness of any corrective actions already taken.
+
+
+
+
+23. Illustrative Non-Viability Circumstances:
+
+a. Without limiting the generality of Section 15 of the Ordinance, a bank may be deemed
+non-viable and without reasonable prospect of becoming viable if one or more of the
+following exist:
+
+Insolvency—liabilities exceed assets substantially and fail to maintain
+regulatory capital requirements.
+ii.
+Inability to meet obligations—persistent failure or imminent failure to meet
+obligations to depositors or creditors.
+iii.
+Serious legal or regulatory violations—breaches of banking laws or directives
+warranting license revocation.
+iv.
+Unsafe or unsound practices—fraud or insider abuse by owners or
+management causing significant loss or risking depositors’ interests.
+
+b. Additionally, for Islami banks, BRD may also consider:
+
+material Shariah non‑compliance events affecting the bank’s viability or
+reputation;
+ii.
+operational obstacles to transferring Shariah assets and liabilities to an Islami
+transferee or Bridge Bank.
+
+24. Relationship with Prompt Corrective Action (PCA):
+
+a. If the bank is under the PCA framework, the persistence or worsening of PCA triggers (e.g.
+critically low capital ratios) shall determine the non-viability.
+b. Implementation of PCA does not preclude BRD from deciding on resolution if the situation
+requires it.
+
+25. Decision to Initiate Resolution
+
+a. Competent Authority: The decision to resolve a bank shall be taken by the Board of
+Directors of BB upon recommendation from BRD.
+
+--- Page 17 ---
+12
+
+b. Documentation and Notice: The decision shall be issued specifying:
+
+the legal basis,
+ii.
+date and time of commencement, and
+iii.
+immediate actions (such as appointment of an Administrator).
+
+c. Regulatory Notifications: Immediately after the decision, BRD shall notify:
+
+all departments/units/offices of BB,
+ii.
+the Ministry of Finance,
+iii.
+the Deposit Insurance Fund (regardless of the name by which it is called)
+authority,
+iv.
+any other relevant domestic regulators, and
+if applicable, host supervisors or foreign resolution or regulatory authorities.
+
+d. Public Disclosure
+
+BRD may defer a public announcement if instant disclosure might destabilize the
+financial system.
+ii.
+However, if a moratorium is set or Administrator is deployed, a public statement
+must be issued no later than the next working day of taking the decision.
+
+e. Legal Effect of Commencement: From commencement of resolution,:
+
+the bank shall carry on business only under the control and direction of BRD or
+its appointed Administrator;
+ii.
+the Board of Directors and senior management shall immediately yield control to
+the BRD or its appointed Administrator;
+
+26. Preparatory Steps and Immediate Actions
+
+a. Valuation
+
+BRD shall appoint an independent professional valuer or auditor to conduct a
+prudent, realistic, and definitive valuation of assets and liabilities of the bank
+under resolution under Section 18 of the Ordinance.
+
+ii.
+A provisional valuation, conducted by the bank as instructed by BRD may be used
+if urgent action is necessary, but this provision valuation shall be treated as
+complimentary to the independent valuation.
+
+iii.
+In case of Islami bank, valuation shall include the following, but not limited to,:
+1. contractual cash‑flow structures;
+2. Shariah-based ownership/title;
+3. conversion values for Sukuk‑type instruments; and
+4. Other necessary instruments, records, or arrangements as deemed
+appropriate by BRD.
+
+b. Appointment of Administrator:
+
+Unless BRD decides to manage the bank directly, it shall appoint an
+Administrator under Section 16(1)(ka) and Section 20(1) of the Ordinance, using
+Schedule D – Administrator Appointment Form.
+
+In case of Islami Banks, the Administrator must meet fit‑and‑proper standards
+and have adequate Shariah expertise or be assisted by a Shariah expert/panel.
+
+--- Page 18 ---
+13
+
+ii.
+The Terms of Reference (ToR) of Temporary Administration are stipulated in
+Schedule E – Terms of Reference of the Temporary Administration.
+
+c. Temporary Stays and Moratoria: To stabilize the bank and facilitate resolution, BRD may
+order:
+
+a general stay on obligations not exceeding two working days; and/or
+ii.
+a targeted stay on specified contracts or activities for up to three months.
+iii.
+to give the protected depositors access to an appropriate daily amount.
+iv.
+any stay, in case of Islami banks, that shall respect the close‑out and termination
+features in Shariah contracts to the extent permitted by law and this Regulation,
+with novation or transfer to a compliant transferee where appropriate.
+
+d. Securing the Bank: BRD and/or the Administrator shall promptly:
+
+secure control over premises, books, accounts, and IT systems,
+ii.
+contact with the competent authority to protect share transfer,
+iii.
+prohibit unauthorized transfers of assets, and
+iv.
+document all inventories therein.
+
+27. Temporary Administration and Management in Resolution
+
+a. Purpose and Authority: Acting under Sections 16 and 20–26 of the Ordinance, an
+Administrator manages the bank primarily to implement BRD’s resolution strategy and to
+maintain continuity of essential services.
+
+b. Appointment and Qualifications:
+
+Appointed by BRD and publicly notified.
+
+ii.
+Must meet fit-and-proper standards as specified in Section 22(2) of the
+Ordinance.
+
+iii.
+Disqualifications
+include
+creditor/shareholder
+status,
+criminal
+record,
+unresolved default, bankruptcy, or conflicts of interest.
+
+iv.
+Any post-appointment discovery of disqualification or conflict requires
+immediate notification to BRD and may result in replacement.
+
+c. Powers and Duties: In addition to all the powers and duties stipulated in the Ordinance,
+the Administrator shall:
+
+ensure that wherever subordinated debt is referenced as a loss-absorbing tool,
+Islami banks shall use Shariah-based instruments in every case.
+
+ii.
+ensure that for Islami banks, capital increases under Section 27 of the Ordinance
+of the Ordinance shall exclude conventional subordinated debt, and Shariah-
+based instruments shall be used instead.
+
+iii.
+ensure that in resolution by acquisition, purchase and assumption (P&A), or
+merger, both the transferor and transferee shall be Islami banks where Shariah-
+compliant assets and liabilities are transferred.
+
+iv.
+ensure that where a Bridge Bank is established for an Islami bank, it shall be
+constituted as an Islami Bridge Bank. Such Bridge Bank may reduce or raise profit
+rates on acquired deposits and investment accounts effective from the date of
+
+--- Page 19 ---
+14
+written notification to customers, subject to applicable law and contract. The
+Board of the Islami Bridge Bank shall include at least one Shariah expert.
+
+ensure that nothing in this section prevents BB from extending emergency
+liquidity assistance or other market-wide liquidity mechanisms to a Bridge Bank,
+provided that for Islami banks such support shall be structured as Shariah-
+compliant financial assistance as determined by BB.
+
+vi.
+ensure that under Section 33 of the Ordinance, eligible liabilities of Islami banks
+shall be treated as Shariah-based instruments, and any conversion or write-
+down shall result only in Shariah-compliant instruments.
+
+vii.
+ensure other pertinent measures as deemed appropriate.
+
+d. Oversight and Reporting
+
+The Administration shall operate under continuous supervision of BRD and must
+comply with all directives.
+
+ii.
+He/she shall provide regular written reports in the form and frequency required
+(e.g. weekly updates, monthly financials).
+
+iii.
+The Administrator shall maintain a register of all decisions and actions,
+accessible to BRD.
+
+e. Remuneration and Expenses
+
+BRD shall set the Administrator’s remuneration in the appointment order.
+ii.
+All costs of the Temporary Administration, including approved expert fees, are
+borne by the bank and are subject to BRD’s oversight.
+
+Termination and Handover
+
+Temporary Administration ends when:
+1. the specified term expires (unless extended),
+2. the Administrator resigns or becomes incapacitated,
+3. BRD removes or replaces the Administrator for cause, or
+4. BRD determines that resolution is complete.
+
+ii.
+At termination, the Administrator must:
+1. prepare a final report on activities and outcomes,
+2. hand over all records and control to the succeeding authority—whether
+a new board and management, a bridge bank, a purchaser, or a
+liquidator—ensuring a smooth transition.
+
+g. Employment Protections
+
+No mass termination of staff shall occur without BRD’s approval.
+ii.
+The Administrator may temporarily suspend contractual termination rights of
+employees, if necessary, to maintain critical operations.
+
+h. Governance and Oversight: Major decisions (e.g., sale of significant assets, new
+borrowings, etc.) by the Administrator shall require BRD’s prior consent. BRD may
+establish an advisory committee to support complex resolutions, including Shariah
+expertise where an Islami bank is concerned.
+
+--- Page 20 ---
+15
+28. Confidentiality of Information: All information, data, and documents submitted by banks to BRD
+under these Regulations, including but not limited to Recovery Plans, Resolution Plans, and
+Resolvability Assessments, shall be treated as strictly confidential. BRD, its officers, and any
+appointed professionals shall not disclose such information except as required for resolution
+purposes, legal obligations, or by order of a competent court.
+
+29. Power to Interpret and Issue Directions:
+
+a. BRD is the final authority for interpretation of any provision of this Regulation. If any doubt
+or ambiguity arises, BRD may issue an explanatory note or direction which shall be
+deemed part of this Regulation.
+
+b. Additionally, BRD may issue administrative directions, licenses, give approvals, or
+impose specific conditions on a case-by-case basis in furtherance of these Regulations,
+drawing authority to modify contracts, from Section 16(2)(cha) of the Ordinance, and
+other general powers.
+
+c. All parties concerned are bound to comply with such directions forthwith.
+
+d. For Islami banks, BRD may specify approved Shariah‑compliant structures for any
+support, conversion, or liquidity action.
+
+30. Follow-up and Enforcement.
+
+a. Contravention of Regulation: Non-compliance with any provision of this Regulation shall
+constitute a contravention of the Ordinance or any directives issued by BRD hereunder
+and shall be subject to penalties under Section 85 of the Ordinance.
+
+b. Enforcement Measures: BRD may impose penalties as deemed necessary to ensure
+adherence. Such penalties are without prejudice to any criminal liability that may arise
+under other applicable laws for willful violations or obstruction.
+
+31. Schedule: The contents of the schedules attached to this regulation shall be amended, updated,
+expanded, and/or clarified, and additional schedules required for the regulation shall be
+augmented to this regulation by the BRD through circulars or directives from time to time.
+
+32. Review of Regulation: BRD shall review the effectiveness of this Regulation at least every two
+years or earlier (if circumstances warrant). Amendments may be proposed to keep the Regulation
+updated with evolving international best practices and lessons learned from any resolutions
+carried out, including Shariah‑related learnings. Any such amendments shall follow the same
+approval procedure as the initial Regulation.
+
+--- Page 21 ---
+16
+Schedule A: Contents of Resolution Plans
+
+Pursuant to Section 12(6) of the Ordinance, the contents of a Resolution Plan may include, but not be
+limited to, the following elements:
+
+1. Preamble stating the necessity and objectives of the resolution.
+2. Short title of the Resolution Plan.
+3. Definitions of terms used in the Resolution Plan.
+4. Resolution strategies and preferred options under different failure scenarios.
+
+Financial Measures
+
+5. Capitalization and recapitalization strategy, including use of bail-in and external support.
+6. Any write-down, haircut, and/or transfer of assets, liabilities, and shares.
+7. Imposition of loss on shareholders and creditors in accordance with the resolution strategy.
+8. Hierarchy of claims and order of priority in resolution.
+9. Financial continuity, liquidity needs, and access to temporary funding sources.
+10. Depositors’ protection and framework for settlement of the claims.
+11. Management of other liabilities, including provisions, contingent liabilities, and tax obligations.
+
+Operational and Human Resource Measures
+
+12. In the case of establishing a new bank under the resolution plan, the constitution of the Board of
+Directors, as well as the appointment of the Chief Executive Officer shall be specified.
+13. Operational continuity of essential services, personnel, and systems.
+14. Status and retention of employees and conditions of service during resolution.
+
+Implementation and Communication
+
+15. Addressing legal obstacles such as court moratoria, contract clauses, or needed regulatory
+approvals
+16. Communication plan with stakeholders and the public.
+17. BRD may prescribe any additional matters to be included as deemed necessary.
+
+For Islami banks, Schedule A may include, but not limited to:
+
+18. Segmentation of liabilities: demand deposits, investment accounts (restricted/unrestricted),
+Shariah-based instruments, other Shariah liabilities;
+19. Pre‑positioning for bail‑in to equity or Sukuk‑type instruments, including legal terms enabling
+conversion/write‑down;
+20. Continuity of Shariah governance (role of SB and Shariah Advisory Panel during resolution);
+21. Purchase & Assumption/transfer constraints ensuring Shariah assets and liabilities are
+transferred to an Islami transferee or to an Islami Bridge Bank;
+22. Operational continuity for Islamic treasury, profit‑rate risk hedging (where used), and core
+processing.
+
+--- Page 22 ---
+17
+Schedule B: Information Template for Resolution Plan
+
+The contents of the Information Template for Resolution Plan may include, but not be limited to, the
+following elements:
+
+1. Executive Summary
+2. Organizational Profile
+3. Critical Functions Map
+4. Resolution Strategy
+5. Financial Resources
+6. Operational Continuity
+7. Funding in Resolution
+8. Valuation & Data
+9. Impediments & Remedies
+10. Cross-Border & Group Issues
+11. Governance & Communication
+12. Testing & Review
+13. Public Disclosure Summary
+
+For Islami banks, the information template may include, but not limited to:
+
+1. granular contract‑level data by Shariah type;
+2. Sukuk terms, triggers, subordination and loss‑absorption features;
+3. segregated asset pools for investment accounts;
+4. Islamic collateral, title and beneficial ownership records.
+
+--- Page 23 ---
+18
+Schedule C: TOR of the “Resolution Coordination Unit”
+
+Terms of Reference of the Resolution Coordination Unit (RCU) to be housed in the scheduled banks
+
+Purpose: The Resolution Coordination Unit (RCU) is an internal structure to be established within
+every scheduled bank to ensure preparedness for, and effective coordination during any
+resolution action undertaken under the Ordinance and associated Regulations. Its primary
+objectives are to:
+
+facilitate early detection and reporting of risks that may lead to resolution;
+maintain updated data and plans needed for orderly resolution; and
+provide an immediate interface between the bank and the Bank Resolution Department (BRD)
+during resolution events.
+
+Legal Basis: This ToR is framed pursuant to:
+
+2.1.
+the Ordinance, particularly the provisions on resolution planning, information
+submission, and cooperation with the BRD; and
+2.2.
+the Bank Resolution Regulations, 2025, including those on Depositor Settlement,
+Employee Status, Loss Imposition, Hierarchy of Claims, Creditor Compensation, and
+Bridge Bank establishment.
+
+Scope of Responsibilities
+
+3.1.
+Resolution Planning and Readiness
+3.1.1.
+Develop and maintain a bank-specific resolution plan consistent with the
+resolution strategies approved by the BRD.
+3.1.2.
+Maintain a resolution data room (digital repository) containing up-to-date
+financial statements, contractual obligations, critical services maps, and
+operational manuals.
+3.1.3.
+Conduct periodic self-assessments and drills on resolution readiness.
+
+3.2.
+Early Warning and Escalation
+
+3.2.1.
+Monitor key risk indicators (capital adequacy, liquidity, asset quality, large
+exposures) for early signs of distress.
+3.2.2.
+Report significant breaches or risks to the bank’s Board, senior management,
+and the BRD without delay.
+
+3.3.
+Coordination During Resolution
+
+3.3.1.
+Serve as the single point of contact for the BRD, resolution administrators, and
+other regulatory or governmental agencies.
+3.3.2.
+Provide immediate access to information and facilitate implementation of BRD
+directives on:
+3.3.2.1.
+bail-in or loss imposition,
+3.3.2.2.
+transfer of assets and liabilities,
+3.3.2.3.
+establishment of a bridge bank, or
+3.3.2.4.
+depositor settlement and creditor compensation.
+
+3.4.
+Post-Resolution Support
+
+3.4.1.
+Assist in claims verification, creditor communication, and data reconciliation
+during and after resolution.
+3.4.2.
+Coordinate with any appointed bridge bank or acquiring institution to ensure
+continuity of critical operations.
+
+--- Page 24 ---
+19
+
+Governance and Composition
+
+Element
+Specification
+Head of Unit
+Senior executive (e.g., Deputy Managing Director or equivalent) with authority to
+access all bank data and commit resources.
+Core Members
+Heads of Risk, HR, Finance, Treasury, Operations, IT, Legal, and Compliance.
+Secretariat
+Designated officers for record-keeping, data management, and liaison with BRD.
+Reporting Line
+Reports directly to the bank’s Managing Director/Chief Executive Officer and
+functionally to the BRD.
+Decision-
+Making
+Acts collectively, with authority to issue binding instructions within the bank for
+resolution purposes.
+
+The RCU of an Islami bank shall include a designated Shariah liaison to interface with the bank’s SB and
+BB’s Shariah Advisory Panel during resolution planning.
+
+Powers and Duties
+
+The RCU shall have full and unhindered-access to:
+
+5.1.
+all bank records, systems, and staff relevant to resolution planning and execution;
+5.2.
+internal audit and compliance reports;
+5.3.
+external consultants or legal advisors engaged for resolution preparedness.
+
+The RCU may require prompt action from any department to remedy deficiencies or provide
+information needed for resolution.
+
+Information and Reporting Requirements
+
+6.1.
+Quarterly Preparedness Report to the BRD detailing resolution readiness, key risk
+indicators, and any impediments to resolvability.
+6.2.
+Immediate Incident Reports upon detecting material financial or operational stress.
+6.3.
+Resolution Event Reports provide daily situation updates during a resolution action.
+
+Confidentiality and Data Protection
+
+7.1.
+All data and communications handled by the RCU are strictly confidential and may be
+disclosed only to the BRD or persons authorized under the Ordinance.
+7.2.
+Breach of confidentiality shall attract penalties as provided in the Ordinance and other
+applicable laws.
+
+Interaction with Other Bank Functions
+
+8.1.
+The RCU works in close coordination with the Board Risk Management Committee, Audit
+Committee, Compliance, and Business Continuity teams.
+8.2.
+In a resolution scenario, the RCU’s directives override normal business processes to the
+extent necessary to give effect to BRD instructions.
+
+Review and Updates
+
+9.1.
+The ToR shall be reviewed annually in consultation with the BRD.
+9.2.
+Any revisions shall be approved by the bank’s Board and notified to the BRD.
+
+--- Page 25 ---
+20
+Schedule D: Administrator Appointment Form
+(Issued under Sections 16, 18, 20–26, 85 and 97 of the Ordinance)
+
+D.1 Appointment Order (to be issued by BRD)
+
+Bangladesh Bank
+Bank Resolution Department (BRD)
+
+Order No.: [BRD/TA/____/20__] Date: [●] Time (Effective Time): [●:●, DD MMM YYYY]
+Subject: Appointment of Administrator for [Name of Bank Under Resolution] (the “Bank”)
+
+1. Legal Basis. Pursuant to Section 16(1) and Section 20(1) of the Ordinance (the “Ordinance”), and
+the Regulations for Bank Resolution 2025, the BRD hereby appoints an Administrator for the Bank,
+with powers and responsibilities conferred under Sections 16 and 20–26 and related provisions of
+the Ordinance. The Administrator shall perform duties in accordance with the Ordinance, these
+Regulations, and Schedule E (TOR of the Temporary Administration).
+
+2. Appointee.
+
+Name (individual): [ ]
+National ID: [ ]
+TIN: [ ]
+Address: [ ]
+Shariah Expertise (tick if applicable to an Islami bank):
+☐ Appointee has adequate Shariah expertise
+☐ Appointee shall be assisted by a BRD‑approved Shariah expert/panel.
+
+3. Bank Under Resolution.
+
+Name: [ ]
+License No.: [ ]
+Registered Address: [ ]
+BRD Case Ref.: [BRD/RES/____/20__]
+Resolution Commencement: [DD MMM YYYY]
+
+4. Scope, Powers and Immediate Directions.
+
+a) The Administrator shall assume all powers of the Bank’s board and senior management
+(subject to lawful limits), implement BRD’s resolution strategy, and ensure continuity of
+critical functions.
+
+b) Immediate actions (non‑exhaustive):
+
+Take control of premises, books, records, IT systems, seals and assets;
+ii.
+Contact with the competent authority to protect share transfer and prevent
+unauthorized asset transfers;
+iii.
+Maintain payments and core IT; compel continuation of critical services where
+necessary;
+iv.
+Arrange provisional valuation and, where directed, definitive valuation under
+Section 18 of the Ordinance;
+Prepare and keep an Inventory of Assets and Liabilities (ref. Section 23 of the
+Ordinance);
+vi.
+Prepare a Resolution Options Report for BRD;
+vii.
+Execute BRD‑approved tools (including purchase & assumption, bridge bank
+transfer, bail‑in, asset separation);
+
+--- Page 26 ---
+21
+viii.
+For Islami banks: any other necessary actions and/or arrangements as deemed
+appropriate by BRD.
+
+c) Limits/Reservations: As may be set out in Annex D‑A (Specific Directions/Limitations).
+
+5. Reporting & Registers.
+
+a) Written weekly operational reports and monthly financials to BRD (or more frequently if
+instructed).
+b) Immediate notice to BRD of any material event (liquidity stress, legal action, system
+outage, operational disruption, etc.).
+c) Always Maintain a Register of Administrator Decisions and Actions available for BRD
+inspection.
+
+6. Remuneration & Expenses. The Administrator’s fees and reimbursable expenses shall be as per
+Annex D‑B (Remuneration & Expense Schedule), payable by the Bank, subject to BRD’s oversight
+and audit.
+
+7. Term & Termination.
+
+a) Term: From the Effective Time until [DD MMM YYYY], unless extended by BRD or ended
+earlier under para (b).
+b) Early termination/replacement: By BRD at any time for cause (including conflict,
+non‑performance, incapacity) or in the interests of financial stability.
+
+8. Independence, Conflicts and Fitness. The Administrator (and any firm personnel) shall not be a
+creditor/shareholder of the Bank, nor subject to disqualification (criminal conviction for
+dishonesty, unresolved default, bankruptcy, regulatory bar, or conflict of interest). Any
+actual/potential conflict must be disclosed immediately to BRD. BRD may require recusal or
+replacement.
+
+9. Confidentiality & Data Protection. All information obtained in the role is strictly confidential;
+disclosure is permitted only as required by law or BRD direction. Data protection obligations
+shall apply to all records, including customer data.
+
+10. Immunity & Protections. Good‑faith acts or omissions within this mandate are protected under
+the Ordinance (including Sections 89, 90 and 92 of the Ordinance, as applicable).
+
+11. Delegations and Associates. BRD may appoint associate Administrators may appoint Associate
+Administrators (Finance, HR, Operations, IT), if deemed required, using Form D‑2, consistent with
+Schedule E roles.
+
+12. Notices. Notices to BRD shall be addressed to: Director, BRD, BB, [address/email]. Notices to the
+Administrator shall be at the address in para 2.
+
+For and on behalf of BRD, BB
+
+
+Signature:
+
+Date/Time:
+
+Name:
+Title:
+
+--- Page 27 ---
+22
+D.2 Acceptance & Declarations by the Administrator
+
+I, [Full Name], [National ID/Passport No.], TIN [], of [Address], hereby accept appointment as Administrator
+of [Bank] under the above Order and:
+
+1. Undertakings. I shall discharge my duties faithfully, independently, and in accordance with the
+Ordinance, the Regulations, Schedule E (TOR) and this Order; preserve continuity of critical
+functions; maintain proper books and records; and comply with BRD directives.
+
+2. Independence & Conflicts. I declare that I am not a creditor or shareholder of the Bank; I have no
+conflicts of interest; I am not bankrupt; I have no criminal conviction for dishonesty; and I am fit
+and proper under applicable standards. I shall notify BRD immediately if any conflict or
+disqualification arises.
+
+3. Confidentiality. I undertake to keep all information confidential, to use it solely for lawful
+purposes of the administration, and to implement appropriate data protection controls.
+
+4. Records & Access. I ensure that I shall maintain a Decision & Actions Register and BRD has full
+access to all records and personnel.
+
+5. Islami Banks (if applicable). I possess adequate Shariah expertise ☐ Yes / ☐ No (if No, I shall be
+assisted by a BRD‑approved Shariah expert/panel and shall liaise with the Bank’s SB).
+
+6. Contact Details. Phone: [_] Email: [_] Office Address (for service): [_].
+
+
+Signed:
+
+Date/Time:
+
+
+
+
+
+Name:
+
+Place:
+
+
+Attachments (tick enclosed):
+
+☐ CV & credentials
+☐ Copy of ID
+☐ Copy of TIN
+☐ Police clearance (if required)
+☐ Conflict‑of‑interest statement
+☐ Shariah credentials (if applicable)
+
+--- Page 28 ---
+23
+D.3 Form D‑2 — Appointment of Associate Administrator (Optional; use as needed)
+
+Appointee
+
+Name (individual): [ ]
+National ID: [ ]
+TIN: [ ]
+Address: [ ]
+Shariah Expertise (tick if applicable to an Islami bank):
+☐ Appointee has adequate Shariah expertise
+☐ Appointee shall be assisted by a BRD‑approved Shariah expert/panel.
+
+Role:
+
+Finance
+Human Resources
+Operations
+Treasury
+Information Technology
+
+Scope: As per Schedule E (role‑specific duties) and BRD directions; reports to the Administrator.
+
+Term: From [__/__/____] to [__/__/____], unless ended earlier by the Administrator with BRD consent.
+
+Independence/Conflicts: Same standards as D.2(2) apply.
+
+Confidentiality & Data Protection: Same as D.2(3).
+
+Remuneration: As agreed in Annex D‑B or separate written schedule approved by BRD.
+
+Signed (Administrator):
+
+
+
+Date
+
+Accepted (Associate Administrator):
+
+
+Date
+
+Annex D‑A — Specific Directions / Limitations (if any)
+
+[Insert any additional limits on powers (e.g., prior BRD consent required for asset sales above BDT [●], new
+borrowings, litigation settlements, branch closures), and any bank‑specific instructions.]
+
+
+Annex D‑B — Remuneration & Expense Schedule
+
+1. Basis:
+☐ Fixed monthly retainer of BDT [__]
+☐ Hourly rates (attach table)
+☐ Hybrid (retainer + hourly).
+
+2. Caps: Monthly fee cap BDT [__]; total engagement cap BDT [__] unless increased by BRD.
+
+3. Reimbursables: Actual, reasonable, pre‑approved expenses (travel, lodging, experts); no
+success fees or contingent payments.
+
+4. Invoicing & Audit: Monthly invoices; 30‑day settlement by the Bank; subject to BB audit and
+claw‑back if overpaid.
+
+5. Conflict Controls: Related‑party engagements require prior approval from BRD.
+
+--- Page 29 ---
+24
+Schedule E: TOR of the Temporary Administration
+
+TOR of the Administrator
+
+As outlined in Sections 20 to 26 of the Bank Resolution Ordinance (BRO), 2025, the responsibilities of the
+administrator are as follows:
+
+1. The Administrator, appointed under Section 20 of the Ordinance, shall assume overall
+responsibility for managing and facilitating the resolution activities of the bank placed under
+resolution, aligning with the resolution strategy prepared by the Bank Resolution Department
+(BRD).
+2. The Administrator shall act as the final authority within the temporary administration structure for
+all operational and strategic decisions of the bank.
+3. The Administrator shall prepare an inventory of all assets and liabilities of the bank according to
+Section 23 of the Ordinance and submit it to BRD.
+4. The Administrator, with the approval of BRD, may appoint an independent auditor to conduct a
+comprehensive review of the bank's assets and/or liabilities and submit a report accordingly to
+BRD.
+5. The Administrator shall prepare and submit to BRD regular reports as specified by BRD on the
+financial conditions of the bank.
+6. The Administrator shall be responsible for organizing and maintaining registers, reports, and
+documentation of all resolution-related actions of the bank.
+7. The Administrator shall ensure the continuity of critical banking functions during the resolution as
+referred to Section 3(11) of the Ordinance. The Administrator shall also ensure day-to-day
+management of the banks in compliance with the Ordinance, the Bank Company Act, 1991
+(amended up to 2023), relevant BB circulars, and prudential regulations, including Shariah-
+compliant practices.
+8. The Administrator shall undertake necessary measures regarding recruitment, promotion,
+transfer, administrative discipline, punitive actions, incentives, and functions related to human
+resource development.
+9. Any other task as deemed necessary, or as advised by BRD, for resolution.
+
+
+TOR of the Associates of Administrators
+
+A. Associate of Administrator (Finance/Treasury)
+
+1. Verify the financial position of the bank, including capital adequacy, liquidity, asset quality, and
+profitability, as stated in different statements.
+2. Oversee day-to-day financial management, including cash flow, treasury operations, and liquidity
+buffers.
+3. Monitor compliance with BB’s prudential regulations, Shariah-compliant financial practices, and
+statutory requirements.
+4. Oversee the preparation of consolidated interim financial reports for the TA team and BRD.
+5. Any other task assigned by the administrator.
+
+B. Associate of Administrator (Human Resources – HR)
+
+1. Prepare a stock of the existing workforce, contracts, organizational structure, and HR policies of
+the bank.
+2. Oversee employee relations, staff morale, and ensure a congenial work environment for
+uninterrupted service delivery during transition.
+3. Ensure adherence to labor laws, BB guidelines, and Shariah-compliant HR practices.
+4. Oversee development of a consolidated HR database and staff inventory, identifying
+redundancies and capacity gaps.
+
+--- Page 30 ---
+25
+5. Participate in the preparation of a harmonized HR framework (compensation, benefits, leave,
+performance management) for the merged entity.
+6. Design and initiate capacity-building and retraining programs for staff integration.
+7. Any other task assigned by the administrator.
+
+C. Associate of Administrator (Operations)
+
+1. Oversee branch operations, customer service delivery, and back-office processes of the banks.
+2. Ensure continued access of depositors and borrowers to essential banking services without
+disruption.
+3. Ensure continuity of daily banking operations during the resolution, including the uninterrupted
+functioning of revenue-generating activities.
+4. Standardize operational processes and procedures across all banks to ensure consistency.
+5. Monitor branch-level liquidity management, cash handling, and service quality.
+6. Identify duplications, inefficiencies, and gaps in operational systems to inform post-merger
+integration.
+7. Oversee procurement, logistics, and general administrative functions during the TA period.
+8. Ensure compliance with Bangladesh Bank’s directives on Anti-Money Laundering (AML), Counter-
+Terrorism Financing (CTF), and Shariah-compliant operational practices.
+9. Any other task assigned by the administrator.
+
+D. Associate of Administrator (Information Technology – IT)
+
+1. Assess the IT infrastructure, systems, and digital platforms of the bank, including core banking,
+payment systems, mobile/online banking, and cybersecurity.
+2. Oversee the function of the bank`s IT department to ensure uninterrupted IT operations and
+secure data integrity during the temporary administration.
+3. Conduct a gap analysis of systems and recommend harmonization/integration strategies for the
+merger in consultation with BB.
+4. Strengthening IT governance, cybersecurity protocols, and disaster recovery arrangements.
+5. Supervise migration and consolidation of customer databases into a unified IT platform for the
+merged bank.
+6. Coordinate with Bangladesh Bank’s IT supervision team to ensure compliance with digital
+financial services regulations.
+7. Provide regular reports on IT risk, system resilience, and readiness for merger.
+8. Supervise management of archiving of CBS, Disaster Recovery Site (DRS), and prevent deletion of
+digital transaction footprints.
+9. Oversee the function of bank management to ensure uninterrupted ADC (Alternative Delivery
+Channel) operations (ATM, Internet/Mobile Banking, etc.).
+10. Facilitate critical operations to sustain customer trust and business continuity.
+11. Any other task assigned by the administrator.
+
+Reporting and Accountability
+
+1. Each Associate Administrator shall report directly to the Administrator of the TA Team.
+2. The Administrator shall consolidate reports and submit them to the BRD periodically.
+3. The Associate Administrators shall also maintain functional liaison with BRD.
+
+Confidentiality and Conduct
+
+1. All Associate Administrators are bound by strict confidentiality regarding bank operations,
+customer information, and strategic decisions.
+2. They shall conduct their duties with the highest standards of integrity, professionalism, and
+impartiality.

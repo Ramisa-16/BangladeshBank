@@ -1,0 +1,140 @@
+--- Page 1 ---
+Bangladesh Bank
+Head Office, Dhaka
+Payment Systems Division
+PSD Circular No. 02/2009
+Date :
+4 Falgun 1415
+February 16, 2009
+
+Managing Director/Chief Executive Officers
+All scheduled banks in Bangladesh
+
+
+
+Dear Sir,
+
+Bangladesh Automated Cheque Processing System
+(BACPS) at the expanded Dhaka Clearing Region.
+
+
+You are aware that Bangladesh Bank has been working to modernize the country’s payment system.
+The most visible step towards modernizing payment system is the establishment of the Bangladesh
+Automated Clearing House (BACH). Bangladesh Automated Cheque Processing System (BACPS) is
+one of two components of BACH. The other component of BACH is the Bangladesh Electronic Funds
+Transfer Network (BEFTN), which will be implemented immediately after implementing first phase of
+BACPS. Selected vendor has already started procuring necessary hardware and software for the BACPS
+solution. Detailed system specifications and operational configurations are being defined and calculated
+with a target of going live operation at expanded Dhaka Clearing Region with more than 1050 bank
+branches of 49 banks in and around the capital city during the second half of 2009.
+
+The basic features of BACPS are the adoption of new cheque design standard with a Magnetic Ink
+Character Recognition (MICR) code line and the exchange of cheque-image and data instead of paper
+cheques for clearing and settlement purpose. Retention of the original paper cheque will become the
+responsibility of the presenting bank rather than the paying bank. Banks are required to make
+arrangement and develop infrastructures to meet the requirements of the new system. Bangladesh Bank
+will adopt necessary Regulation(s) and issue Operating Rules and Procedures in this regard. Standards of
+cheques for BACPS have already been circulated and banks have meanwhile been advised to take steps
+to print uniform standardized cheques with MICR line.
+
+Appropriate information to the banks about requirements they must meet to participate in and
+interface with BACPS are provided below:
+
+(i) Point of Truncation: All scheduled banks who are members of the Dhaka Clearing House will be
+required to submit their list of selected branches and to finalize their "point of truncation" for
+submission of their outward cheque images and data to BACPS and be prepared to handle cheque
+image and data as part of their inward clearing operations. Banks can choose to truncate and process
+their cheques at individual branch level or at a consolidation point in line with their business needs.
+However, it must be noted that each bank will have only one Point of Truncation for BACPS.
+
+(ii) Scanning Standard: Images must be captured for both the sides (front and back) of each instrument
+in the format prescribed below:
+
+
+
+Image Type
+DPI range
+Format
+Compression
+
+01.
+Front : Black and White
+200-300 DPI
+TIFF
+CCITT G4
+02.
+Back : Black and White
+200-300 DPI
+TIFF
+CCITT G4
+
+(iii) Software/Integration: All banks will receive images and data, not paper cheques, from the BACPS
+for all of the items for which they are the paying bank. Therefore, all banks must acquire the
+capability to accept as well as to send the image files and data from and to the BACPS. However,
+those banks who will not be able to equip themselves for processing out clearing items electronically
+within the stipulated time, will be allowed to process their ‘out-clearings’ by using the Bangladesh
+Bank’s own facility at Motijheel for a limited time. However, banks availing of ‘out-clearing’
+facilities will have to acquire the capability to receive their ‘In-clearing’ items electronically. Once
+in-clearing data and images are delivered to a bank by BACPS, the subsequent verification and
+Contd...P/2
+
+--- Page 2 ---
+processing of that information becomes the responsibility of the respective paying bank. Bangladesh
+Bank will supply a gateway software module, known as the Participating Bank Module (PBM)
+which will act as a gateway, amongst other functions, enabling the receipt or transmission of images
+and transaction data from and to the BACPS.
+
+(iv) Communication Links: All scheduled banks are required to put in place two secure communication
+links, one with BACH Headquarter at Motijheel and another with the BACH Disaster Recovery Site
+(DRS) at Mirpur. The size and scalability of these links will depend on each bank’s mode of
+operation and daily volumes. It is preferred that banks acquire fibre optic link and another redundant
+communication link with BACH at Motijheel and DRS at Mirpur, Dhaka.
+
+Participating banks are required to accomplish the following tasks within the time stipulated below :
+
+
+Activity
+Dead-line
+
+a. Issuing MICR standard cheques and phasing out non-standard cheques used by
+customers
+01-03-2009 to
+30-05-2009
+b. Selection of vendor(s) and submission of plan for installing necessary hardware
+and software for cheque processing and connectivity with BACH
+30-04-2009
+c. Communication links installed between banks and the BACH
+31-05-2009
+d. Users’ Acceptance Test (UAT) for each individual bank with BACPS
+01-06-2009 to
+30-07-2009
+e. BACPS LIVE
+03-08-2009
+
+The purpose of this circular and distribution of functional specifications is to provide an initial
+understanding about the requirements that must be met by the participating banks. Detailed specifications
+attached to this circular are:
+
+(i) Active Image Clearing System (AICS) Specification containing the format of the files to be
+exchanged between BACPS and participating banks (Annexure-I)
+
+(ii) PBM Specification regarding functionality for gateway software module (Annexure-II)
+
+(iii) Network Specification describing standards for the communication links and security devices
+required for interfacing with the BACH (Annexure-III)
+
+All of these Annexures may be provided in soft versions on a CD and also be available at our website.
+
+It is, therefore, advised that member banks update their preparations to be in step with the progress of
+the implementation of the BACH. The BACPS rules and procedures will be forwarded to you in due
+course.
+
+Please acknowledge receipt.
+
+
+( Chowdhury Mohidul Haque )
+Executive Director, Bangladesh Bank
+and
+Project Director, RPP Project
+Tel: 7167988, Fax: 7164233
+Email: chowdhury.mhaque@bangladeshbank.org.bd
